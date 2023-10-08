@@ -5,7 +5,8 @@ import logging
 import pytz
 from datetime import datetime
 import os
-import html2text  # Import html2text library
+import html2text
+import urllib.parse  # Import urllib.parse
 
 app = Flask(__name__)
 
@@ -83,8 +84,16 @@ def index():
         for article in feed_data["articles"]:
             # Check if the article title is unique
             if article.title not in unique_article_titles:
+                # Encode the article.link to create archive_request_url
+                url_without_query = article.link.split('?')[0]
+                url = urllib.parse.quote_plus(url_without_query)
+                archive_request_url = 'https://archive.ph/submit/?url=' + url
+
                 # Clean the HTML content to remove tags
                 article.summary = clean_html(article.summary)
+                # Replace the article.link with archive_request_url
+                article.link = archive_request_url
+
                 all_articles.append(article)
                 unique_article_titles.add(article.title)
 
@@ -100,7 +109,7 @@ def index():
         f"Combined and sorted {total_articles} unique articles from {len(RSS_FEED_URLS)} feeds"
     )
 
-    # Render the HTML template
+    # Render the HTML template with the modified article.link values
     rendered_html = render_template("index.html", all_articles=all_articles)
 
     # Save the rendered HTML to a file with the name index.html
