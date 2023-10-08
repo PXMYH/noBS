@@ -1,11 +1,11 @@
 from flask import Flask, render_template, request, jsonify
-
 import feedparser
 import concurrent.futures
 import logging
 import pytz
 from datetime import datetime
 import os
+import html2text  # Import html2text library
 
 app = Flask(__name__)
 
@@ -60,6 +60,17 @@ def convert_to_cdt_time(published_time):
     return cdt_time.strftime("%a, %d %b %Y %H:%M:%S %Z")
 
 
+def clean_html(html_content):
+    # Create an instance of the html2text converter
+    h = html2text.HTML2Text()
+    h.ignore_links = True  # Ignore links in the content
+
+    # Convert the HTML content to plain text
+    text_content = h.handle(html_content)
+
+    return text_content
+
+
 @app.route("/")
 def index():
     all_articles = []
@@ -72,6 +83,8 @@ def index():
         for article in feed_data["articles"]:
             # Check if the article title is unique
             if article.title not in unique_article_titles:
+                # Clean the HTML content to remove tags
+                article.summary = clean_html(article.summary)
                 all_articles.append(article)
                 unique_article_titles.add(article.title)
 
