@@ -1,9 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, send_file
 import feedparser
 import concurrent.futures
 import logging
 import pytz
 from datetime import datetime
+import os
 
 app = Flask(__name__)
 
@@ -78,7 +79,19 @@ def index():
         f"Combined and sorted {total_articles} articles from {len(RSS_FEED_URLS)} feeds"
     )
 
-    return render_template("index.html", all_articles=all_articles)
+    # Render the HTML template
+    rendered_html = render_template("index.html", all_articles=all_articles)
+
+    # Save the rendered HTML to a file with the name index.html
+    save_html_to_file(rendered_html)
+
+    return rendered_html
+
+
+# Function to save rendered HTML to a file
+def save_html_to_file(html_content):
+    with open("index.html", 'w', encoding='utf-8') as file:
+        file.write(html_content)
 
 
 if __name__ == "__main__":
