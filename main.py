@@ -44,9 +44,13 @@ def index():
     for feed_data in feed_data_list:
         all_articles.extend(feed_data["articles"])
 
+    # Sort articles by publishing time
+    all_articles.sort(key=lambda x: x.published_parsed, reverse=True)
+
     total_articles = len(all_articles)
     app.logger.info(
-        f"Combined {total_articles} articles from {len(RSS_FEED_URLS)} feeds")
+        f"Combined and sorted {total_articles} articles from {len(RSS_FEED_URLS)} feeds"
+    )
 
     return render_template("index.html", all_articles=all_articles)
 
