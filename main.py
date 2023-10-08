@@ -2,6 +2,8 @@ from flask import Flask, render_template
 import feedparser
 import concurrent.futures
 import logging
+import pytz
+from datetime import datetime
 
 app = Flask(__name__)
 
@@ -33,6 +35,26 @@ def fetch_feed_data(url):
     return {"feed_title": feed_title, "articles": articles}
 
 
+def convert_to_cdt_time(published_time):
+    cdt_timezone = pytz.timezone('US/Central')
+
+    # Split the published time string into parts
+    parts = published_time.split()
+
+    # Extract date and time components
+    date_str = ' '.join(parts[1:4])
+    time_str = parts[4]
+
+    # Parse the date and time components
+    parsed_time = datetime.strptime(date_str + ' ' + time_str,
+                                    "%d %b %Y %H:%M:%S")
+
+    # Set the timezone to CDT
+    cdt_time = cdt_timezone.localize(parsed_time)
+
+    return cdt_time.strftime("%a, %d %b %Y %H:%M:%S %Z")
+
+
 @app.route("/")
 def index():
     all_articles = []
@@ -46,6 +68,10 @@ def index():
 
     # Sort articles by publishing time
     all_articles.sort(key=lambda x: x.published_parsed, reverse=True)
+
+    # Convert published times to CDT
+    for article in all_articles:
+        article.published = convert_to_cdt_time(article.published)
 
     total_articles = len(all_articles)
     app.logger.info(
