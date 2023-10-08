@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RSS Feeds</title>
+</head>
+<body>
+    {% for feed_data in all_feed_data %}
+        <h1>{{ feed_data.feed_title }}</h1>
+        <ul>
+            {% for article in feed_data.articles %}
+                <li>
+                    <a href="{{ article.link }}">{{ article.title }}</a><br>
+                    Published on {{ article.published }}<br>
+                    {{ article.summary }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</body>
+</html>
