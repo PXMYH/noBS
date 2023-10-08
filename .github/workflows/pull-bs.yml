@@ -60,7 +60,7 @@ jobs:
         run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
 
       - name: Shutdown Flask App
-        run: curl http://127.0.0.1:5000/shutdown
+        run: curl -X POST http://127.0.0.1:5000/shutdown
         
       - name: Commit and push if it changed
         run: |-
