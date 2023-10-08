@@ -5,17 +5,14 @@
     <title>RSS Feeds</title>
 </head>
 <body>
-    {% for feed_data in all_feed_data %}
-        <h1>{{ feed_data.feed_title }}</h1>
-        <ul>
-            {% for article in feed_data.articles %}
-                <li>
-                    <a href="{{ article.link }}">{{ article.title }}</a><br>
-                    Published on {{ article.published }}<br>
-                    {{ article.summary }}
-                </li>
-            {% endfor %}
-        </ul>
-    {% endfor %}
+    <ul>
+        {% for article in all_articles %}
+            <li>
+                <h2><a href="{{ article.link }}">{{ article.title }}</a></h2>
+                <p><strong>Published on:</strong> {{ article.published }}</p>
+                <p>{{ article.summary }}</p>
+            </li>
+        {% endfor %}
+    </ul>
 </body>
 </html>

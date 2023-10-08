@@ -35,21 +35,20 @@ def fetch_feed_data(url):
 
 @app.route("/")
 def index():
-    all_feed_data = []
+    all_articles = []
 
     # Fetch RSS feed data in parallel using ThreadPoolExecutor
     with concurrent.futures.ThreadPoolExecutor() as executor:
         feed_data_list = list(executor.map(fetch_feed_data, RSS_FEED_URLS))
 
-    total_feeds = len(RSS_FEED_URLS)
+    for feed_data in feed_data_list:
+        all_articles.extend(feed_data["articles"])
 
-    for i, feed_data in enumerate(feed_data_list, start=1):
-        all_feed_data.append(feed_data)
-        app.logger.info(f"Processed {i}/{total_feeds} feeds")
+    total_articles = len(all_articles)
+    app.logger.info(
+        f"Combined {total_articles} articles from {len(RSS_FEED_URLS)} feeds")
 
-    app.logger.info(f"Finished processing {total_feeds} feeds")
-
-    return render_template("index.html", all_feed_data=all_feed_data)
+    return render_template("index.html", all_articles=all_articles)
 
 
 if __name__ == "__main__":
