@@ -1,8 +1,16 @@
 from flask import Flask, render_template
 import feedparser
 import concurrent.futures
+import logging
 
 app = Flask(__name__)
+
+# Configure Flask's logger
+app.logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+handler = logging.StreamHandler()
+handler.setFormatter(formatter)
+app.logger.addHandler(handler)
 
 # Define a list of RSS feed URLs
 RSS_FEED_URLS = [
@@ -36,10 +44,10 @@ def index():
     total_feeds = len(RSS_FEED_URLS)
 
     for i, feed_data in enumerate(feed_data_list, start=1):
-        print(f"Processed {i}/{total_feeds} feeds")
         all_feed_data.append(feed_data)
+        app.logger.info(f"Processed {i}/{total_feeds} feeds")
 
-    print("Finished processing all feeds")
+    app.logger.info(f"Finished processing {total_feeds} feeds")
 
     return render_template("index.html", all_feed_data=all_feed_data)
 
