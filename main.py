@@ -1,4 +1,4 @@
-from flask import Flask, render_template, send_file, request, jsonify
+from flask import Flask, render_template, request, jsonify
 
 import feedparser
 import concurrent.futures
@@ -28,6 +28,9 @@ RSS_FEED_URLS = [
     "https://www.theguardian.com/us/business/rss",
     "http://feeds.washingtonpost.com/rss/business?itid=lk_inline_manual_37"
 ]
+
+# Keep track of unique article titles
+unique_article_titles = set()
 
 
 def fetch_feed_data(url):
@@ -66,7 +69,11 @@ def index():
         feed_data_list = list(executor.map(fetch_feed_data, RSS_FEED_URLS))
 
     for feed_data in feed_data_list:
-        all_articles.extend(feed_data["articles"])
+        for article in feed_data["articles"]:
+            # Check if the article title is unique
+            if article.title not in unique_article_titles:
+                all_articles.append(article)
+                unique_article_titles.add(article.title)
 
     # Sort articles by publishing time
     all_articles.sort(key=lambda x: x.published_parsed, reverse=True)
@@ -77,7 +84,7 @@ def index():
 
     total_articles = len(all_articles)
     app.logger.info(
-        f"Combined and sorted {total_articles} articles from {len(RSS_FEED_URLS)} feeds"
+        f"Combined and sorted {total_articles} unique articles from {len(RSS_FEED_URLS)} feeds"
     )
 
     # Render the HTML template
