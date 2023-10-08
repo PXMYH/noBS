@@ -1,4 +1,5 @@
-from flask import Flask, render_template, send_file
+from flask import Flask, render_template, send_file, request, jsonify
+
 import feedparser
 import concurrent.futures
 import logging
@@ -86,6 +87,15 @@ def index():
     save_html_to_file(rendered_html)
 
     return rendered_html
+
+
+@app.route('/shutdown', methods=['POST'])
+def shutdown():
+    # Shutdown the Flask app gracefully
+    func = request.environ.get('werkzeug.server.shutdown')
+    if func is not None:
+        func()
+    return jsonify({'message': 'Shutting down...'})
 
 
 # Function to save rendered HTML to a file
