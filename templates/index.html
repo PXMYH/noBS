@@ -3,16 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <title>RSS Feeds</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.css">
 </head>
 <body>
-    <ul>
-        {% for article in all_articles %}
-            <li>
-                <h2><a href="{{ article.link }}">{{ article.title }}</a></h2>
-                <p><strong>Published on:</strong> {{ article.published }}</p>
-                <p>{{ article.summary }}</p>
-            </li>
-        {% endfor %}
-    </ul>
+    {% for article in all_articles %}
+        <div class="swippable-row">
+            <!-- Title with a link -->
+            <h1><a href="{{ article.link }}" target="_blank">{{ article.title }}</a></h1>
+            <!-- Published time -->
+            <p>{{ article.published }}</p>
+            <!-- Summary -->
+            <p>{{ article.summary }}</p>
+        </div>
+    {% endfor %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script>
+        // Initialize Hammer.js for swipe gestures
+        var swippableRows = document.querySelectorAll('.swippable-row');
+        swippableRows.forEach(function(row) {
+            var hammer = new Hammer(row);
+            hammer.on('swipeleft', function(event) {
+                // Handle the swipe left event here (e.g., delete the row)
+                row.style.display = 'none'; // Example: Hide the row
+            });
+        });
+    </script>
 </body>
 </html>
