@@ -1,5 +1,6 @@
 from flask import Flask, render_template
 import feedparser
+import concurrent.futures
 
 app = Flask(__name__)
 
@@ -17,22 +18,28 @@ RSS_FEED_URLS = [
 ]
 
 
+def fetch_feed_data(url):
+    feed = feedparser.parse(url)
+    feed_title = feed.feed.title
+    articles = feed.entries
+    return {"feed_title": feed_title, "articles": articles}
+
+
 @app.route("/")
 def index():
-    # Initialize an empty list to store feed data
     all_feed_data = []
 
-    # Fetch and parse each RSS feed URL
-    for url in RSS_FEED_URLS:
-        feed = feedparser.parse(url)
-        feed_title = feed.feed.title
-        articles = feed.entries
+    # Fetch RSS feed data in parallel using ThreadPoolExecutor
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        feed_data_list = list(executor.map(fetch_feed_data, RSS_FEED_URLS))
 
-        # Store the feed data in a dictionary
-        feed_data = {"feed_title": feed_title, "articles": articles}
+    total_feeds = len(RSS_FEED_URLS)
 
-        # Append the feed data to the list
+    for i, feed_data in enumerate(feed_data_list, start=1):
+        print(f"Processed {i}/{total_feeds} feeds")
         all_feed_data.append(feed_data)
+
+    print("Finished processing all feeds")
 
     return render_template("index.html", all_feed_data=all_feed_data)
 
