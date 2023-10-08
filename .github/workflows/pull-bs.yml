@@ -50,12 +50,18 @@ jobs:
       #----------------------------------------------
       # install your root project, if required
       #----------------------------------------------
-      - name: Install project
+      - name: Install project dependencies
         run: poetry install --no-interaction
 
-      - name: Pull BS
-        run: poetry run python3 main.py
+      - name: Start Flask App
+        run: poetry run python3 main.py &
 
+      - name: Wait for Flask App to Generate index.html
+        run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
+
+      - name: Shutdown Flask App
+        run: curl http://127.0.0.1:5000/shutdown
+        
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
