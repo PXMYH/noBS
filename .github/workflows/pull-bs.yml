@@ -51,7 +51,7 @@ jobs:
       # install your root project, if required
       #----------------------------------------------
       - name: Install project dependencies
-        run: poetry install --no-interaction
+        run: poetry install --no-interaction --no-root
 
       - name: Start Flask App
         run: poetry run python3 main.py &
