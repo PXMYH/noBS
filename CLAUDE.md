@@ -100,7 +100,7 @@ poetry run pyright
   - RSS Feed URLs: List in `Config.RSS_FEED_URLS`
   - Timezone: Configurable via `TIMEZONE` env var (default: US/Central)
   - Archive URL: Configurable via `ARCHIVE_SERVICE_URL` env var
-  - Output: Configurable via `OUTPUT_FILENAME` env var (default: ../data/news_source.txt)
+  - Output: Configurable via `OUTPUT_FILENAME` env var (default: absolute path to data/news_source.txt)
   - Server: `FLASK_HOST`, `FLASK_PORT`, `FLASK_DEBUG` env vars
 - **Port**: Flask runs on port 5000 (configurable)
 - **Debug Mode**: Defaults to False (set `FLASK_DEBUG=true` to enable)
@@ -110,10 +110,11 @@ poetry run pyright
 - **Deduplication**: Articles with identical titles are filtered out per-request. Fully stateless - no global state or persistence.
 - **Error Handling**: Failed RSS feeds are logged but don't crash the app. Graceful degradation when feeds are unavailable.
 - **Archive Links**: All article URLs are automatically converted to archive.ph submission URLs to provide paywall-free access.
-- **Data Storage**: Every request to `/` regenerates and overwrites `/data/news_source.txt` with JSON article data.
+- **Data Storage**: Every request to `/` regenerates and overwrites `/data/news_source.txt` with JSON article data. Uses absolute paths for reliability across different working directories.
 - **Client-Side Rendering**: Static `index.html` fetches JSON and renders articles dynamically in the browser.
 - **No Database**: Application is stateless with no persistent storage beyond the generated JSON file.
 - **Type Safety**: Uses dataclasses and type hints for better maintainability.
+- **Directory Creation**: The `/data` directory is automatically created if it doesn't exist when saving articles.
 
 ## Code Structure
 
