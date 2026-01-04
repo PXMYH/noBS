@@ -98,12 +98,18 @@ def convert_to_cdt_time(published_time):
 
 def deduplicate_articles(articles):
     """Remove duplicate articles based on title (per-request deduplication)."""
+    original_count = len(articles)
     seen = set()
     unique = []
     for article in articles:
         if hasattr(article, 'title') and article.title not in seen:
             seen.add(article.title)
             unique.append(article)
+
+    duplicates = original_count - len(unique)
+    if duplicates > 0:
+        app.logger.info(f"Removed {duplicates} duplicate articles ({len(unique)} unique)")
+
     return unique
 
 
@@ -120,11 +126,20 @@ def clean_html(html_content):
 
 def fetch_all_feeds(feed_urls):
     """Fetch all RSS feeds in parallel and filter out failures."""
+    app.logger.info(f"Fetching {len(feed_urls)} RSS feeds...")
+
     with concurrent.futures.ThreadPoolExecutor() as executor:
         feed_data_list = list(executor.map(fetch_feed_data, feed_urls))
 
     # Filter out None results from failed feeds
-    return [feed for feed in feed_data_list if feed is not None]
+    successful_feeds = [feed for feed in feed_data_list if feed is not None]
+    failed_count = len(feed_urls) - len(successful_feeds)
+
+    if failed_count > 0:
+        app.logger.warning(f"Failed to fetch {failed_count} of {len(feed_urls)} feeds")
+
+    app.logger.info(f"Successfully fetched {len(successful_feeds)} feeds")
+    return successful_feeds
 
 
 def transform_article_url(url):
@@ -137,11 +152,17 @@ def transform_article_url(url):
 def process_articles(feed_data_list):
     """Process articles from feed data: convert to Article objects, transform URLs and clean HTML."""
     all_articles = []
+    skipped = 0
 
     for feed_data in feed_data_list:
+        feed_title = feed_data.get("feed_title", "Unknown")
+        article_count = len(feed_data["articles"])
+        app.logger.debug(f"Processing {article_count} articles from '{feed_title}'")
+
         for entry in feed_data["articles"]:
             # Validate entry has required fields
             if not validate_article(entry):
+                skipped += 1
                 continue
 
             # Create Article from feed entry
@@ -155,6 +176,10 @@ def process_articles(feed_data_list):
 
             all_articles.append(article)
 
+    if skipped > 0:
+        app.logger.warning(f"Skipped {skipped} invalid articles")
+
+    app.logger.info(f"Processed {len(all_articles)} articles")
     return all_articles
 
 
@@ -166,6 +191,7 @@ def sort_by_date(articles):
 
 def convert_article_times(articles):
     """Convert all article published times to configured timezone."""
+    app.logger.debug(f"Converting {len(articles)} article timestamps to {Config.TIMEZONE}")
     for article in articles:
         article.published = convert_to_cdt_time(article.published)
     return articles
@@ -179,6 +205,8 @@ def render_html(articles):
 @app.route("/")
 def index():
     """Main route: fetch, process, and render news articles."""
+    app.logger.info("=== Starting news aggregation ===")
+
     # Fetch feeds
     feed_data_list = fetch_all_feeds(Config.RSS_FEED_URLS)
 
@@ -194,16 +222,15 @@ def index():
     # Convert times to configured timezone
     all_articles = convert_article_times(all_articles)
 
-    # Log
-    app.logger.info(
-        f"Displaying {len(all_articles)} unique articles from {len(feed_data_list)} feeds"
-    )
-
     # Render
     html = render_html(all_articles)
 
     # Save
     save_html_to_file(html)
+
+    app.logger.info(
+        f"=== Completed: Displaying {len(all_articles)} articles from {len(feed_data_list)} feeds ==="
+    )
 
     return html
 
