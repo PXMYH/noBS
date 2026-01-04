@@ -1,5 +1,11 @@
 [
   {
+    "title": "France to Ban Food Imports Containing EU-Prohibited Pesticides",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Ffrance-to-ban-food-imports-containing-eu-prohibited-pesticides",
+    "published": "Sun, 04 Jan 2026 12:44:18 CST",
+    "summary": "France plans to prohibit food imports from South America or elsewhere that\ncontain pesticides banned for use in the European Union.\n\n"
+  },
+  {
     "title": "OPEC+ Sticks With Plan to Keep Oil Flow Steady Amid Turmoil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fopec-sticks-with-plan-to-keep-oil-supply-steady-delegates-say",
     "published": "Sun, 04 Jan 2026 12:15:01 CST",
@@ -418,12 +424,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Fbusiness%2Fjapan-china-scallops.html",
     "published": "Fri, 02 Jan 2026 02:16:13 CST",
     "summary": "Beijing is using a ban on the humble mollusk to punish Japan over its apparent\nwillingness to defend Taiwan.\n\n"
-  },
-  {
-    "title": "Gold and Silver Steady at New Year as Index Selling Looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fgold-and-silver-open-2026-with-gains-following-huge-annual-surge",
-    "published": "Fri, 02 Jan 2026 00:01:11 CST",
-    "summary": "Gold and silver steadied at the beginning of the year after their best annual\nperformances since 1979 as traders assessed the reweighting of a benchmark\ncommodity index that starts next week.\n\n"
   },
   {
     "title": "Oil Fluctuates as Traders Weigh Surplus, Geopolitical Risks",
