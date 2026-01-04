@@ -66,13 +66,16 @@ jobs:
         run: ls -lh data/news_source.txt
 
       - name: Generate AI News Digest (Optional)
-        if: ${{ secrets.OPENROUTER_API_KEY != '' }}
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           LLM_MODEL: ${{ vars.LLM_MODEL || 'openrouter/mistralai/devstral-2512:free' }}
         run: |
-          echo "Generating AI-powered news digest..."
-          poetry run python3 src/summarize_news.py || echo "Digest generation failed, continuing..."
+          if [ -n "$OPENROUTER_API_KEY" ]; then
+            echo "Generating AI-powered news digest..."
+            poetry run python3 src/summarize_news.py || echo "Digest generation failed, continuing..."
+          else
+            echo "Skipping digest generation (no API key configured)"
+          fi
 
       - name: Commit and push if it changed
         run: |-
