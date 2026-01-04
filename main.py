@@ -8,7 +8,7 @@ import os
 import html2text
 import urllib.parse
 from dataclasses import dataclass
-from typing import Optional
+from typing import Optional, List, Dict, Any
 from config import Config
 
 app = Flask(__name__)
@@ -31,8 +31,15 @@ class Article:
     published_parsed: Optional[tuple] = None
 
     @classmethod
-    def from_feed_entry(cls, entry):
-        """Create Article from feedparser entry with validation."""
+    def from_feed_entry(cls, entry: Any) -> 'Article':
+        """Create Article from feedparser entry with validation.
+
+        Args:
+            entry: Feedparser entry object containing article data
+
+        Returns:
+            Article instance with data from feed entry
+        """
         return cls(
             title=getattr(entry, 'title', 'Untitled'),
             link=getattr(entry, 'link', ''),
@@ -42,8 +49,15 @@ class Article:
         )
 
 
-def validate_article(article):
-    """Check if article has required fields."""
+def validate_article(article: Any) -> bool:
+    """Check if article has required fields.
+
+    Args:
+        article: Article or entry object to validate
+
+    Returns:
+        True if article has all required fields, False otherwise
+    """
     return (
         hasattr(article, 'title') and article.title and
         hasattr(article, 'link') and article.link and
@@ -52,8 +66,15 @@ def validate_article(article):
     )
 
 
-def fetch_feed_data(url):
-    """Fetch RSS feed data with error handling."""
+def fetch_feed_data(url: str) -> Optional[Dict[str, Any]]:
+    """Fetch RSS feed data with error handling.
+
+    Args:
+        url: RSS feed URL to fetch
+
+    Returns:
+        Dictionary with 'feed_title' and 'articles' keys, or None on failure
+    """
     try:
         feed = feedparser.parse(url)
         if not hasattr(feed, 'feed') or not hasattr(feed.feed, 'title'):
@@ -68,8 +89,15 @@ def fetch_feed_data(url):
         return None
 
 
-def convert_to_cdt_time(published_time):
-    """Convert published time to configured timezone with error handling."""
+def convert_to_cdt_time(published_time: str) -> str:
+    """Convert published time to configured timezone with error handling.
+
+    Args:
+        published_time: Time string from RSS feed
+
+    Returns:
+        Formatted time string in configured timezone, or original on error
+    """
     try:
         cdt_timezone = pytz.timezone(Config.TIMEZONE)
 
@@ -96,8 +124,15 @@ def convert_to_cdt_time(published_time):
         return published_time  # Fallback to original
 
 
-def deduplicate_articles(articles):
-    """Remove duplicate articles based on title (per-request deduplication)."""
+def deduplicate_articles(articles: List[Article]) -> List[Article]:
+    """Remove duplicate articles based on title (per-request deduplication).
+
+    Args:
+        articles: List of Article objects
+
+    Returns:
+        List of unique Article objects (duplicates removed)
+    """
     original_count = len(articles)
     seen = set()
     unique = []
@@ -113,7 +148,15 @@ def deduplicate_articles(articles):
     return unique
 
 
-def clean_html(html_content):
+def clean_html(html_content: str) -> str:
+    """Convert HTML content to plain text.
+
+    Args:
+        html_content: HTML string to convert
+
+    Returns:
+        Plain text version of HTML content
+    """
     # Create an instance of the html2text converter
     h = html2text.HTML2Text()
     h.ignore_links = Config.HTML2TEXT_IGNORE_LINKS
@@ -124,8 +167,15 @@ def clean_html(html_content):
     return text_content
 
 
-def fetch_all_feeds(feed_urls):
-    """Fetch all RSS feeds in parallel and filter out failures."""
+def fetch_all_feeds(feed_urls: List[str]) -> List[Dict[str, Any]]:
+    """Fetch all RSS feeds in parallel and filter out failures.
+
+    Args:
+        feed_urls: List of RSS feed URLs to fetch
+
+    Returns:
+        List of successfully fetched feed data dictionaries
+    """
     app.logger.info(f"Fetching {len(feed_urls)} RSS feeds...")
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -142,15 +192,29 @@ def fetch_all_feeds(feed_urls):
     return successful_feeds
 
 
-def transform_article_url(url):
-    """Transform article URL to archive service URL."""
+def transform_article_url(url: str) -> str:
+    """Transform article URL to archive service URL.
+
+    Args:
+        url: Original article URL
+
+    Returns:
+        Archive service URL with encoded original URL
+    """
     url_without_query = url.split('?')[0]
     encoded_url = urllib.parse.quote_plus(url_without_query)
     return Config.ARCHIVE_SERVICE_URL + encoded_url
 
 
-def process_articles(feed_data_list):
-    """Process articles from feed data: convert to Article objects, transform URLs and clean HTML."""
+def process_articles(feed_data_list: List[Dict[str, Any]]) -> List[Article]:
+    """Process articles from feed data: convert to Article objects, transform URLs and clean HTML.
+
+    Args:
+        feed_data_list: List of feed data dictionaries
+
+    Returns:
+        List of processed Article objects
+    """
     all_articles = []
     skipped = 0
 
@@ -183,28 +247,53 @@ def process_articles(feed_data_list):
     return all_articles
 
 
-def sort_by_date(articles):
-    """Sort articles by publication time (newest first)."""
+def sort_by_date(articles: List[Article]) -> List[Article]:
+    """Sort articles by publication time (newest first).
+
+    Args:
+        articles: List of Article objects to sort
+
+    Returns:
+        Sorted list of Article objects (in-place sort)
+    """
     articles.sort(key=lambda x: x.published_parsed, reverse=True)
     return articles
 
 
-def convert_article_times(articles):
-    """Convert all article published times to configured timezone."""
+def convert_article_times(articles: List[Article]) -> List[Article]:
+    """Convert all article published times to configured timezone.
+
+    Args:
+        articles: List of Article objects
+
+    Returns:
+        List of Article objects with converted timestamps
+    """
     app.logger.debug(f"Converting {len(articles)} article timestamps to {Config.TIMEZONE}")
     for article in articles:
         article.published = convert_to_cdt_time(article.published)
     return articles
 
 
-def render_html(articles):
-    """Render the HTML template with articles."""
+def render_html(articles: List[Article]) -> str:
+    """Render the HTML template with articles.
+
+    Args:
+        articles: List of Article objects to render
+
+    Returns:
+        Rendered HTML string
+    """
     return render_template("index.html", all_articles=articles)
 
 
 @app.route("/")
-def index():
-    """Main route: fetch, process, and render news articles."""
+def index() -> str:
+    """Main route: fetch, process, and render news articles.
+
+    Returns:
+        Rendered HTML page with aggregated news articles
+    """
     app.logger.info("=== Starting news aggregation ===")
 
     # Fetch feeds
@@ -245,7 +334,12 @@ def shutdown():
 
 
 # Function to save rendered HTML to a file
-def save_html_to_file(html_content):
+def save_html_to_file(html_content: str) -> None:
+    """Save rendered HTML content to a file.
+
+    Args:
+        html_content: HTML string to save
+    """
     with open(Config.OUTPUT_FILENAME, 'w', encoding='utf-8') as file:
         file.write(html_content)
 
