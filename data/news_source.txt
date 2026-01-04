@@ -1,15 +1,27 @@
 [
   {
+    "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsouth-africa-gasoline-price-drops-to-four-year-low-on-oil-rand",
+    "published": "Sun, 04 Jan 2026 15:03:07 CST",
+    "summary": "South Africa’s gasoline price will fall the lowest level in nearly four years\nfollowing the global drop in crude and a stronger rand.\n\n"
+  },
+  {
+    "title": "The government probably took too much of your paycheck this year – here’s how to get it back",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Ftaxes-refunds-workers-seniors-overtime",
+    "published": "Sun, 04 Jan 2026 15:00:09 CST",
+    "summary": "Trump’s tax bill carved out several areas for tipped workers and older adults,\namong others, to lower their tax bills\n\nUS taxpayers will have a “gigantic refund year in the first quarter” of 2026,\nthe treasury secretary, Scott Bessent, recently said in an interview.\n\nGiven all the untruths that come out of the current administration, you\nwouldn’t be blamed if you don’t believe him. But you should. This year, there\nwill be a significant amount of tax refunds. Why? Well, it’s not tariff cash.\nIt’s because many people overpaid their taxes this year.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Activist Group Claims Responsibility for Berlin Power Outage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Factivist-group-claims-responsibility-for-berlin-power-outage",
     "published": "Sun, 04 Jan 2026 14:20:29 CST",
     "summary": "The German activist network Volcano Group claimed responsibility for an arson\nattack that cut power to about 50,000 households and 2,000 businesses in\nsouthwest Berlin on Saturday.\n\n"
   },
   {
-    "title": "Rubio Says Oil Quarantine Gives US Sway in Post-Maduro Venezuela",
+    "title": "Rubio Says Oil ‘Quarantine’ Gives US Leverage Over Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Frubio-says-oil-quarantine-gives-us-sway-in-post-maduro-venezuela",
     "published": "Sun, 04 Jan 2026 14:06:52 CST",
-    "summary": "Secretary of State Marco Rubio said the US would use an oil quarantine to get\nwhat it wants from Venezuela’s new leaders following the ouster of President\nNicolas Maduro.\n\n"
+    "summary": "Secretary of State Marco Rubio said the US would use an oil “quarantine” to\nget what it wants from Venezuela’s new leaders following the ouster of\nPresident Nicolas Maduro.\n\n"
   },
   {
     "title": "Czech Central Bank Chief Says Policy Will Need to Remain Tight",
@@ -54,6 +66,18 @@
     "summary": "OPEC+ stuck with plans to pause supply increases in the first quarter, as\nglobal markets face a surplus and the group awaits clarity on whether the\nshock US capture of Venezuela leader Nicolas Maduro will impact supplies.\n\n"
   },
   {
+    "title": "From the AI bubble to Fed fears: the global economic outlook for 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Fglobal-economic-outlook-2026",
+    "published": "Sun, 04 Jan 2026 12:00:07 CST",
+    "summary": "Analysts and investors voice caution about tech valuations and Trump’s\ninfluence on the US central bank\n\nInvestors expect global stock markets to keep rising in 2026, despite fears\nthat the AI bubble could burst, and anxiety about chaos engulfing the US\ncentral bank.\n\nWall Street strategists broadly expect the S&P 500 share index of US-listed\ncompanies to continue to rise over the next 12 months, but said it could be a\nvolatile year if geopolitical tensions increase and inflation fails to fall.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "What role could the US play in Venezuela’s ‘bust’ oil industry?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Fvenezuela-oil-industry-bust-what-role-could-the-us-play",
+    "published": "Sun, 04 Jan 2026 11:56:14 CST",
+    "summary": "Experts say lifting production to former levels could take decades and huge\ninvestment will be needed\n\nThe Venezuelan oil industry has been “a total bust” for a long time, according\nto Donald Trump. After attacking Caracas and taking the country’s leader\ncaptive, Trump promised to take control of Venezuela’s oil industry with the\nhelp of America’s biggest oil companies.\n\nVenezuela’s beleaguered oil industry could “make a lot of money” with the\nmight of the US behind it, Trump told the press, claiming that the new regime\nwould invest billions to revive its fortunes.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Sun, 04 Jan 2026 10:00:39 CST",
@@ -82,6 +106,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fturkey-ministry-urges-restraint-after-us-attack-on-venezuela",
     "published": "Sun, 04 Jan 2026 06:22:06 CST",
     "summary": "Turkey urged the parties involved in the US attack on Venezuela to exercise\ncaution and said it was ready to help resolve the crisis, issuing its first\nstatement after the operation that resulted in the capture of Nicolás Maduro\nin Caracas.\n\n"
+  },
+  {
+    "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F04%2Fbusiness-as-usual-boss-bombed-ukrainian-vodka-maker-intent-on-expanding-exports",
+    "published": "Sun, 04 Jan 2026 05:00:03 CST",
+    "summary": "Nemiroff says products still reaching UK chains such as Sainsbury’s and Tesco\ndespite production difficulties\n\nBusinesses in Ukraine are “not sitting and waiting for the war to end” and are\nworking to expand despite bombs hitting shipments out of the country,\naccording to a leading vodka exporter to the UK.\n\nYuriy Sorochynskyi, the chief executive of Ukraine’s largest spirits export\nbrand, Nemiroff vodka, has said its products have continued to flow to big\nchains including Tesco and Sainsbury’s as it copes with the harsh realities of\nalmost four years of war.\n\nContinue reading...\n\n"
   },
   {
     "title": "Coronado’s Curragh Mining Suspension Adds to Its Financial Woes",
@@ -426,12 +456,6 @@
     "summary": "F.C. Barcelona’s liabilities have reached 2.5 billion euros, the result of\nfinancial mismanagement and vaulting ambition.\n\n"
   },
   {
-    "title": "Emerging-Market Stock Index Hits Five-Year High on AI Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fem-stocks-surge-at-start-of-2026-south-korea-vows-fx-stability",
-    "published": "Fri, 02 Jan 2026 03:38:59 CST",
-    "summary": "Emerging-market stocks were off to strong start in 2026, climbing to the\nhighest in almost five years as optimism about Asia’s growing role in\nartificial intelligence propelled the region’s technology shares.\n\n"
-  },
-  {
     "title": "How Japanese Scallops Became a Pawn in Diplomatic Tensions With China",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Fbusiness%2Fjapan-china-scallops.html",
     "published": "Fri, 02 Jan 2026 02:16:13 CST",
@@ -474,12 +498,6 @@
     "summary": "A country resort near Paris refused to cover $800 worth of medical and\ncleaning bills for a couple who woke up covered in bites. They’d like their\nstay comped, too.\n\n"
   },
   {
-    "title": "Australian beef industry ‘extremely disappointed’ after China hits imports with 55% tariff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2025%2Fdec%2F31%2Faustralian-beef-industry-extremely-disappointed-after-china-hits-imports-with-55-tariff",
-    "published": "Thu, 01 Jan 2026 04:48:32 CST",
-    "summary": "Levy on beef exceeding quotas to begin immediately as Beijing seeks to protect\ndomestic industry\n\n  * Get our breaking news email, free app or daily news podcast\n\nAustralian beef producers said they were “extremely disappointed” after China\nannounced a 55% tariff on imports that exceed quota levels in a move to\nprotect a domestic cattle industry slowly emerging from oversupply.\n\nChina’s commerce ministry said on Wednesday the total import quota for 2026\nfor Australia and other countries such as Brazil and the US covered under its\nnew “safeguard measures” is 2.7m metric tons, roughly in line with the record\n2.87m tons it imported overall in 2024.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Inside China’s Six-Decade Campaign to Dominate Rare Earths",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F31%2Fbusiness%2Fchina-rare-earths-history.html",
     "published": "Wed, 31 Dec 2025 22:11:24 CST",
@@ -496,12 +514,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fdec%2F31%2Fwall-street-stock-markets",
     "published": "Wed, 31 Dec 2025 21:15:13 CST",
     "summary": "US markets buoyed by sustained rise in tech stocks as investors largely shrug\noff concerns over Trump tariffs\n\nWall Street finished 2025 near record highs on Wednesday, as ballooning tech\nvaluations and hopes of lower interest rates helped stock markets defy a year\nof economic uncertainty.\n\nThe benchmark S&P 500 rose 16.4% over the course of the year, closing at\n6,845.50 on New Year’s Eve in New York, as investors largely shrugged off\ngeopolitical uncertainty and the frenzy around artificial intelligence\ncontinued.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Billionaires added record $2.2tn in wealth in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2F2025%2Fdec%2F31%2Fbillionaires-added-record-wealth-2025",
-    "published": "Wed, 31 Dec 2025 18:27:46 CST",
-    "summary": "Just eight billionaires accounted for a quarter of the gains, led by Elon\nMusk, Jeff Bezos, Larry Ellison and Larry Page\n\nThe richest 500 individuals in the world added a record $2.2tn to their wealth\nin 2025, according to the Bloomberg Billionaires Index, with just eight\nbillionaires accounting for a quarter of the gains.\n\nThe gains increased their collective net worth to $11.9tn, bolstered by\nbillionaire Donald Trump’s 2024 election victory and booming markets in\ncryptocurrencies, equities and metals.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Nike, Corcept Therapeutics, Taiwan Semiconductor & more",
@@ -526,12 +538,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fdec%2F31%2Ffederal-reserve-trump",
     "published": "Wed, 31 Dec 2025 14:00:13 CST",
     "summary": "The US president and his allies spent 2025 attacking the Federal Reserve amid\na rollercoaster year for the US economy\n\nIn the bowels of the US Federal Reserve this summer, two of the world’s most\npowerful men, sporting glistening white hard hats, stood before reporters\nlooking like students forced to work together on a group project.\n\nAllies of Donald Trump had spent weeks trying to manufacture a scandal around\nongoing renovations of the central bank’s Washington headquarters and its\ncosts. Now here was the US president, on a rare visit, examining the project\nfor himself.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Trump family business delays launch of $499 gold smartphone",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2025%2Fdec%2F31%2Ftrump-family-business-delays-launch-of-gold-smartphone",
-    "published": "Wed, 31 Dec 2025 12:59:21 CST",
-    "summary": "US-made device planned by end of year hit by recent government shutdown\naffecting shipments\n\nTrump Mobile, the phone company launched by Donald Trump’s family business,\nhas pushed back plans to deliver a $499 (£371) gold-coloured smartphone by the\nend of the year.\n\nThe Trump Organization licensed its name to launch a mobile service and the\ndevice in June, in the latest monetisation of his presidency by a family\nbusiness empire now run by Trump’s sons.\n\nContinue reading...\n\n"
   },
   {
     "title": "Warren Buffett’s exit leaves open question: Who runs Berkshire’s $300 billion equity portfolio?",
@@ -730,12 +736,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F28%2Fvalue-meals-restaurants-mcdonalds-chilis-taco-bell.html",
     "published": "Sun, 28 Dec 2025 13:00:01 CST",
     "summary": "Restaurant chains bet on value in 2025, and they're not likely to ditch the\nstrategy next year.\n\n"
-  },
-  {
-    "title": "The 2025 US economy – in charts: rising prices, hiring slowdown, rollercoaster growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fdec%2F28%2F2025-us-economy-in-charts",
-    "published": "Sun, 28 Dec 2025 12:00:07 CST",
-    "summary": "Looking at the government’s own report cards, how did the US fare under the\nfirst year of Trumponomics 2.0?\n\nThe US economy is thriving, according to Donald Trump: jobs are surging,\nprices are falling, wages are soaring. The government’s own official\nstatistics paint a more complicated picture of 2025.\n\n“The Trump Economic Golden Age is FULL steam ahead,” the president claimed on\nsocial media, after growth data for the third quarter of the year – covering\nJuly, August and September – was unexpectedly strong.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Freeport-McMoran, Coupang, Target & more",
