@@ -1,15 +1,15 @@
 [
   {
+    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
+    "published": "Sun, 04 Jan 2026 19:09:45 CST",
+    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
+  },
+  {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html",
     "published": "Sun, 04 Jan 2026 17:59:25 CST",
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
-  },
-  {
-    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
-    "published": "Sun, 04 Jan 2026 17:03:20 CST",
-    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
   },
   {
     "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
@@ -30,10 +30,10 @@
     "summary": "The German activist network Volcano Group claimed responsibility for an arson\nattack that cut power to about 50,000 households and 2,000 businesses in\nsouthwest Berlin on Saturday.\n\n"
   },
   {
-    "title": "Rubio Says Oil ‘Quarantine’ Gives US Leverage Over Venezuela",
+    "title": "Rubio Seizes Chance to Remake Latin America in Venezuela Gambit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Frubio-says-oil-quarantine-gives-us-sway-in-post-maduro-venezuela",
     "published": "Sun, 04 Jan 2026 14:06:52 CST",
-    "summary": "Secretary of State Marco Rubio said the US would use an oil “quarantine” to\nget what it wants from Venezuela’s new leaders following the ouster of\nPresident Nicolas Maduro.\n\n"
+    "summary": "Secretary of State Marco Rubio said the US will use leverage over oil to force\nfurther change in Venezuela as he seizes a long-awaited chance to try to shape\nLatin America in Washington’s favor.\n\n"
   },
   {
     "title": "Czech Central Bank Chief Says Policy Will Need to Remain Tight",
@@ -634,12 +634,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fus%2Fpolitics%2Ftrump-federal-government-fallout.html",
     "published": "Tue, 30 Dec 2025 17:02:50 CST",
     "summary": "President Trump achieved his goal of shrinking the work force. But many\ncurrent and former officials say the government is less dependable and\nefficient than it was a year ago.\n\n"
-  },
-  {
-    "title": "Gmail to Let Users Change Their Addresses While Keeping Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F28%2Ftechnology%2Fgmail-change-address-email.html",
-    "published": "Tue, 30 Dec 2025 16:47:16 CST",
-    "summary": "Under the shift, which Google said would eventually be rolled out to all\nusers, old addresses would remain active. Messages and services would not be\nlost.\n\n"
   },
   {
     "title": "Here’s what to expect for commercial real estate in 2026",
