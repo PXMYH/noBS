@@ -28,6 +28,7 @@ jobs:
         with:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
+          cache-prune: false
 
       #----------------------------------------------
       # install dependencies with uv
