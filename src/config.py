@@ -40,6 +40,6 @@ class Config:
     # LLM Configuration for Summarization
     OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-    LLM_MODEL = os.getenv('LLM_MODEL', 'openrouter/anthropic/claude-3.5-sonnet')
+    LLM_MODEL = os.getenv('LLM_MODEL', 'openrouter/mistralai/devstral-2512:free')
     GENERATE_DIGEST = os.getenv('GENERATE_DIGEST', 'false').lower() == 'true'
     MAX_ARTICLES_PER_CATEGORY = int(os.getenv('MAX_ARTICLES_PER_CATEGORY', '50'))
