@@ -84,53 +84,87 @@ def clean_html(html_content):
     return text_content
 
 
-@app.route("/")
-def index():
-    all_articles = []
-
-    # Fetch RSS feed data in parallel using ThreadPoolExecutor
+def fetch_all_feeds(feed_urls):
+    """Fetch all RSS feeds in parallel and filter out failures."""
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        feed_data_list = list(executor.map(fetch_feed_data, Config.RSS_FEED_URLS))
+        feed_data_list = list(executor.map(fetch_feed_data, feed_urls))
 
     # Filter out None results from failed feeds
-    feed_data_list = [feed for feed in feed_data_list if feed is not None]
+    return [feed for feed in feed_data_list if feed is not None]
+
+
+def transform_article_url(url):
+    """Transform article URL to archive service URL."""
+    url_without_query = url.split('?')[0]
+    encoded_url = urllib.parse.quote_plus(url_without_query)
+    return Config.ARCHIVE_SERVICE_URL + encoded_url
+
+
+def process_articles(feed_data_list):
+    """Process articles from feed data: transform URLs and clean HTML."""
+    all_articles = []
 
     for feed_data in feed_data_list:
         for article in feed_data["articles"]:
-            # Encode the article.link to create archive_request_url
-            url_without_query = article.link.split('?')[0]
-            url = urllib.parse.quote_plus(url_without_query)
-            archive_request_url = Config.ARCHIVE_SERVICE_URL + url
+            # Transform article URL to archive URL
+            article.link = transform_article_url(article.link)
 
             # Clean the HTML content to remove tags
             article.summary = clean_html(article.summary)
-            # Replace the article.link with archive_request_url
-            article.link = archive_request_url
 
             all_articles.append(article)
 
-    # Deduplicate articles by title (per-request)
+    return all_articles
+
+
+def sort_by_date(articles):
+    """Sort articles by publication time (newest first)."""
+    articles.sort(key=lambda x: x.published_parsed, reverse=True)
+    return articles
+
+
+def convert_article_times(articles):
+    """Convert all article published times to configured timezone."""
+    for article in articles:
+        article.published = convert_to_cdt_time(article.published)
+    return articles
+
+
+def render_html(articles):
+    """Render the HTML template with articles."""
+    return render_template("index.html", all_articles=articles)
+
+
+@app.route("/")
+def index():
+    """Main route: fetch, process, and render news articles."""
+    # Fetch feeds
+    feed_data_list = fetch_all_feeds(Config.RSS_FEED_URLS)
+
+    # Process articles
+    all_articles = process_articles(feed_data_list)
+
+    # Deduplicate
     all_articles = deduplicate_articles(all_articles)
 
-    # Sort articles by publishing time
-    all_articles.sort(key=lambda x: x.published_parsed, reverse=True)
+    # Sort by date
+    all_articles = sort_by_date(all_articles)
 
-    # Convert published times to CDT
-    for article in all_articles:
-        article.published = convert_to_cdt_time(article.published)
+    # Convert times to configured timezone
+    all_articles = convert_article_times(all_articles)
 
-    total_articles = len(all_articles)
+    # Log
     app.logger.info(
-        f"Combined and sorted {total_articles} unique articles from {len(feed_data_list)} feeds"
+        f"Displaying {len(all_articles)} unique articles from {len(feed_data_list)} feeds"
     )
 
-    # Render the HTML template with the modified article.link values
-    rendered_html = render_template("index.html", all_articles=all_articles)
+    # Render
+    html = render_html(all_articles)
 
-    # Save the rendered HTML to a file with the name index.html
-    save_html_to_file(rendered_html)
+    # Save
+    save_html_to_file(html)
 
-    return rendered_html
+    return html
 
 
 @app.route('/shutdown', methods=['POST'])
