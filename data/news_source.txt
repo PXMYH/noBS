@@ -1,5 +1,11 @@
 [
   {
+    "title": "South Korea’s Lee Arrives in China Amid Rising Regional Tensions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsouth-korea-s-lee-arrives-in-china-amid-rising-regional-tensions",
+    "published": "Sun, 04 Jan 2026 06:20:26 CST",
+    "summary": "South Korea’s President Lee Jae Myung has arrived in Beijing for his first\nChina trip since taking office, as Seoul looks to steady ties with a key\neconomic partner at a time of rising regional tensions.\n\n"
+  },
+  {
     "title": "Venezuela VP Rodriguez Granted Temporary Presidential Powers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-vp-rodriguez-granted-temporary-presidential-powers",
     "published": "Sun, 04 Jan 2026 02:07:56 CST",
@@ -394,12 +400,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fem-stocks-surge-at-start-of-2026-south-korea-vows-fx-stability",
     "published": "Fri, 02 Jan 2026 03:38:59 CST",
     "summary": "Emerging-market stocks were off to strong start in 2026, climbing to the\nhighest in almost five years as optimism about Asia’s growing role in\nartificial intelligence propelled the region’s technology shares.\n\n"
-  },
-  {
-    "title": "Aluminum Hits $3,000 for First Time Since 2022 on Supply Concern",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fcopper-gains-after-best-year-since-2009-on-tight-supply-outlook",
-    "published": "Fri, 02 Jan 2026 02:45:23 CST",
-    "summary": "Aluminum climbed above $3,000 a ton for the first time in more than three\nyears on a tightening supply outlook and long-term demand bets, joining other\nbase metals notching recent milestones.\n\n"
   },
   {
     "title": "How Japanese Scallops Became a Pawn in Diplomatic Tensions With China",
