@@ -178,7 +178,7 @@ Important guidelines:
 Articles to summarize:
 {articles_text}
 
-Provide your response as JSON in this exact format:
+Provide ONLY the JSON response without any markdown formatting or code blocks. Use this exact format:
 {{
     "summary": "2-3 paragraph cohesive summary here",
     "key_stories": [
@@ -188,7 +188,7 @@ Provide your response as JSON in this exact format:
     ]
 }}
 
-Only include 3-5 key stories. Make the summary flow naturally, not as a list."""
+Only include 3-5 key stories. Make the summary flow naturally, not as a list. Do not wrap the JSON in markdown code blocks."""
 
         return prompt
 
@@ -228,12 +228,22 @@ Only include 3-5 key stories. Make the summary flow naturally, not as a list."""
             # Parse response
             content = response.choices[0].message.content
 
-            # Try to parse JSON
+            # Try to parse JSON (handle both raw JSON and markdown code blocks)
             try:
-                result = json.loads(content)
+                # Remove markdown code block markers if present
+                if content.strip().startswith("```"):
+                    # Extract content between code blocks
+                    lines = content.strip().split('\n')
+                    # Remove first line (```json or ```) and last line (```)
+                    json_content = '\n'.join(lines[1:-1])
+                else:
+                    json_content = content
+
+                result = json.loads(json_content)
                 summary_text = result.get("summary", "")
                 key_stories = result.get("key_stories", [])
-            except json.JSONDecodeError:
+            except (json.JSONDecodeError, IndexError) as e:
+                self.logger.warning(f"Failed to parse JSON response: {e}")
                 # Fallback: use raw content as summary
                 summary_text = content
                 key_stories = []
