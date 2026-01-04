@@ -441,11 +441,10 @@ def generate_news_digest(articles: List[Article]) -> Optional[str]:
         # Format as Markdown
         markdown = summarizer.format_digest_markdown(digest)
 
-        # Save digest
-        today = datetime.now().strftime('%Y-%m-%d')
+        # Save digest (single file, always updated)
         digest_path = os.path.join(
             os.path.dirname(Config.OUTPUT_FILENAME),
-            f'news_digest_{today}.md'
+            'news_digest.md'
         )
 
         with open(digest_path, 'w', encoding='utf-8') as f:

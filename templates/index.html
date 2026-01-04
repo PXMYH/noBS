@@ -2,50 +2,184 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>RSS Feeds</title>
+    <title>NoBS News</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        /* Add a bottom border to separate rows */
+        body {
+            font-family: "Chalkboard SE", chalkboard, cursive;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        /* Digest section */
+        #digest-container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        #digest-container h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+
+        #digest-container h2 {
+            color: #34495e;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+        }
+
+        #digest-container h3 {
+            color: #7f8c8d;
+        }
+
+        #digest-container ul {
+            line-height: 1.6;
+        }
+
+        #digest-container hr {
+            border: none;
+            border-top: 1px solid #ecf0f1;
+            margin: 30px 0;
+        }
+
+        #digest-container strong {
+            color: #2c3e50;
+        }
+
+        /* Raw articles section */
+        #toggle-articles {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-family: "Chalkboard SE", chalkboard, cursive;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        #toggle-articles:hover {
+            background: #2980b9;
+        }
+
+        #articles-section {
+            display: none;
+        }
+
+        #articles-section.visible {
+            display: block;
+        }
+
         .swippable-row {
             border-bottom: 1px solid #ccc;
-            padding: 10px 0;
-            font-family: "Chalkboard SE", chalkboard, cursive;
+            padding: 15px 0;
+            background: white;
+            margin-bottom: 10px;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
-    </style>
-    <style>
-        /* Set the font for the article titles */
-        h3 {
-            font-family: "Chalkboard SE", chalkboard, cursive;
+
+        .swippable-row h3 {
+            margin-top: 0;
+            color: #2c3e50;
         }
-        /* Set the font for other text elements if needed */
-        p {
-            font-family: "Chalkboard SE", chalkboard, cursive;
+
+        .swippable-row h3 a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        .swippable-row h3 a:hover {
+            text-decoration: underline;
+        }
+
+        .swippable-row p {
+            color: #7f8c8d;
+            line-height: 1.6;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
         }
     </style>
 </head>
 <body>
-    {% for article in all_articles %}
-        <div class="swippable-row">
-            <!-- Title with a link -->
-            <h3><a href="{{ article.link }}" target="_blank">{{ article.title }}</a></h3>
-            <!-- Published time -->
-            <p>{{ article.published }}</p>
-            <!-- Summary -->
-            <p>{{ article.summary }}</p>
-        </div>
-    {% endfor %}
+    <!-- AI Digest Section -->
+    <div id="digest-container">
+        <div class="loading">Loading digest...</div>
+    </div>
+
+    <!-- Toggle button for raw articles -->
+    <button id="toggle-articles">Show Raw Articles</button>
+
+    <!-- Raw Articles Section (hidden by default) -->
+    <div id="articles-section">
+        {% for article in all_articles %}
+            <div class="swippable-row">
+                <h3><a href="{{ article.link }}" target="_blank">{{ article.title }}</a></h3>
+                <p><em>{{ article.published }}</em></p>
+                <p>{{ article.summary }}</p>
+            </div>
+        {% endfor %}
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script>
-        // Initialize Hammer.js for swipe gestures
+        // Load and render the digest
+        async function loadDigest() {
+            try {
+                const response = await fetch('data/news_digest.md');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const markdown = await response.text();
+                const html = marked.parse(markdown);
+
+                document.getElementById('digest-container').innerHTML = html;
+            } catch (error) {
+                console.error('Error loading digest:', error);
+                document.getElementById('digest-container').innerHTML =
+                    '<div class="loading">AI Digest not available. Enable digest generation with GENERATE_DIGEST=true</div>';
+            }
+        }
+
+        // Toggle raw articles visibility
+        document.getElementById('toggle-articles').addEventListener('click', function() {
+            const articlesSection = document.getElementById('articles-section');
+            articlesSection.classList.toggle('visible');
+
+            if (articlesSection.classList.contains('visible')) {
+                this.textContent = 'Hide Raw Articles';
+            } else {
+                this.textContent = 'Show Raw Articles';
+            }
+        });
+
+        // Initialize Hammer.js for swipe gestures on articles
         var swippableRows = document.querySelectorAll('.swippable-row');
         swippableRows.forEach(function(row) {
             var hammer = new Hammer(row);
             hammer.on('swipeleft', function(event) {
-                // Handle the swipe left event here (e.g., delete the row)
-                row.style.display = 'none'; // Example: Hide the row
+                row.style.display = 'none';
             });
         });
+
+        // Load digest on page load
+        loadDigest();
     </script>
 </body>
 </html>
