@@ -225,10 +225,16 @@ Monthly costs (30 days):
 - Claude 3.5 Sonnet: ~$5.40/month
 - GPT-4o Mini: ~$1.50/month
 
-### Output Format
+### Output Format & Rendering
 
-Digests are saved as Markdown files (`data/news_digest_YYYY-MM-DD.md`) with:
+The digest is saved as a single Markdown file (`data/news_digest.md`) that is always updated with the latest news.
 
+**Where you see it:**
+- **Primary view**: Rendered prominently in index.html (digest-first UX)
+- **Raw articles**: Hidden by default, accessible via "Show Raw Articles" button
+- **GitHub**: Committed to git for version tracking
+
+**Digest structure:**
 - **Header**: Date, article counts, source statistics
 - **Category Sections**: World/Politics, Finance/Economics, Technology, Sports, Other
 - **Per Category**:
