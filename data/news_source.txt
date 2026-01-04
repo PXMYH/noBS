@@ -1,15 +1,27 @@
 [
   {
+    "title": "Turbulence in India’s Skies as Duopoly Strains Aviation Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fturbulence-in-india-s-skies-as-duopoly-strains-aviation-boom",
+    "published": "Sun, 04 Jan 2026 21:00:00 CST",
+    "summary": "India’s aviation industry is poised for a reckoning after crises at its two\ndominant carriers exposed cracks in the booming market and forced government\nintervention.\n\n"
+  },
+  {
+    "title": "Saks in Talks for $1 Billion Bankruptcy Loan to Keep Doors Open",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaks-in-talks-for-1-billion-bankruptcy-loan-to-keep-doors-open",
+    "published": "Sun, 04 Jan 2026 20:52:26 CST",
+    "summary": "Saks Global Enterprises is looking to line up a loan of as much as $1 billion\nto keep the business running as part of a Chapter 11 bankruptcy filing that\ncould happen in coming weeks, according to people familiar with the situation.\n\n"
+  },
+  {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html",
     "published": "Sun, 04 Jan 2026 20:17:35 CST",
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "Stocks, Bonds Set for Jittery Start on Venezuela",
+    "title": "Stocks, Bonds Set for Jittery Start on Venezuela: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Global financial markets face a skittish open after the US ousted Venezuela’s\npresident, triggering a fresh geopolitical flashpoint that intensifies\nregional risk and raises some questions about oil.\n\n"
+    "summary": "Global financial markets face a skittish open after the US ousted Venezuela’s\npresident, triggering a fresh flashpoint that may stoke geopolitical tensions\nand curb the flow of oil from the region.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -258,12 +270,6 @@
     "summary": "Affordability will continue to weigh on many Americans, but there are ways to\nease the burden.\n\n"
   },
   {
-    "title": "Ethiopia, Bondholders Reach Deal-in-Principle on $1 Billion Defaulted Notes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fethiopia-bondholders-reach-deal-in-principle-on-1-billion-defaulted-notes",
-    "published": "Sat, 03 Jan 2026 10:11:42 CST",
-    "summary": "Ethiopia says it reached an agreement in principle with bondholders over the\nrestructure of a $1 billion bond on which it defaulted in 2023, and sees\nprogress in efforts to revamp the debt this year.\n\n"
-  },
-  {
     "title": "Why Haven’t Trump’s Tariffs Had a Bigger Impact?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Feconomy%2Ftrump-tariffs-prices-impact.html",
     "published": "Sat, 03 Jan 2026 10:00:59 CST",
@@ -274,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fretirement-savings-2026.html",
     "published": "Sat, 03 Jan 2026 10:00:46 CST",
     "summary": "As the new year begins, savings have hit unprecedented levels, but rising\nhealth care costs and growing poverty make retirement unaffordable for many.\n\n"
-  },
-  {
-    "title": "Venezuela Accuses US of Attack as Explosions Rock Caracas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fcaracas-residents-report-loud-explosions-aircraft-overflying",
-    "published": "Sat, 03 Jan 2026 06:29:46 CST",
-    "summary": "Venezuela accused the US of launching an attack on the country after\nexplosions rocked Caracas, the capital, and aircraft were seen flying\noverhead, following weeks of pressure from the Trump administration against\nthe regime of Nicolas Maduro.\n\n"
   },
   {
     "title": "How Kazakhstan Aims to Tap More Oil Riches Below Its Grassy Plains",
