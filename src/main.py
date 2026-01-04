@@ -11,7 +11,8 @@ from dataclasses import dataclass
 from typing import Optional, List, Dict, Any
 from config import Config
 
-app = Flask(__name__)
+# Set template folder to parent directory's templates folder
+app = Flask(__name__, template_folder='../templates')
 
 # Configure Flask's logger
 app.logger.setLevel(logging.INFO)

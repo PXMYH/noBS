@@ -10,14 +10,20 @@ NoBS is a news aggregation web application that fetches financial, business, and
 
 ### Core Components
 
-- **[main.py](main.py)**: Flask application serving as the single-page RSS aggregator
+- **[src/main.py](src/main.py)**: Flask application serving as the single-page RSS aggregator
   - Fetches feeds in parallel using `concurrent.futures.ThreadPoolExecutor`
-  - Maintains in-memory `unique_article_titles` set to deduplicate articles
+  - Uses per-request deduplication (stateless, no global state)
   - Converts HTML summaries to plain text using `html2text`
-  - Converts timestamps to US/Central timezone
+  - Converts timestamps to configured timezone (default: US/Central)
   - Replaces article links with archive.ph submission URLs to bypass paywalls
   - Generates static `index.html` file on each request
   - Provides `/shutdown` endpoint for graceful shutdown
+  - Comprehensive error handling and logging
+
+- **[src/config.py](src/config.py)**: Configuration management
+  - Centralizes all configuration settings
+  - Supports environment variable overrides
+  - RSS feed URLs, timezone, archive service URL, output paths, server settings
 
 - **[templates/index.html](templates/index.html)**: Jinja2 template for the news feed
   - Displays articles with title, published time, and summary
@@ -29,15 +35,16 @@ NoBS is a news aggregation web application that fetches financial, business, and
 ### Data Flow
 
 1. Browser hits root endpoint `/`
-2. Flask fetches all RSS feeds concurrently
-3. Articles are deduplicated by title (in-memory set)
-4. HTML content is converted to plain text
-5. Article URLs are converted to archive.ph submission URLs
-6. Articles sorted by publication time (newest first)
-7. Timestamps converted to US/Central timezone
-8. Template rendered with processed articles
-9. Rendered HTML saved to `index.html` file
-10. HTML returned to browser
+2. Flask fetches all RSS feeds concurrently (with error handling)
+3. Articles converted to Article dataclass objects with validation
+4. Articles are deduplicated by title (per-request, stateless)
+5. HTML content is converted to plain text
+6. Article URLs are converted to archive.ph submission URLs
+7. Articles sorted by publication time (newest first)
+8. Timestamps converted to configured timezone
+9. Template rendered with processed articles
+10. Rendered HTML saved to `index.html` file in project root
+11. HTML returned to browser
 
 ### Automated Updates
 
@@ -63,9 +70,9 @@ poetry shell
 ### Running the Application
 ```bash
 # Run Flask development server
-python main.py
+python src/main.py
 # OR
-poetry run python main.py
+poetry run python src/main.py
 
 # Application runs on http://0.0.0.0:5000
 ```
@@ -82,18 +89,37 @@ poetry run pyright
 ## Key Configuration
 
 - **Python Version**: 3.10.x (specified in [pyproject.toml](pyproject.toml))
-- **RSS Feed URLs**: Hardcoded list `RSS_FEED_URLS` in [main.py](main.py:21-31)
-- **Timezone**: All timestamps converted to US/Central
-- **Port**: Flask runs on port 5000
-- **Deployment**: Configured for Google Cloud Run (see [.replit](.replit))
+- **Source Files**: Located in [src/](src/) directory
+- **Configuration**: Centralized in [src/config.py](src/config.py)
+  - RSS Feed URLs: List in `Config.RSS_FEED_URLS`
+  - Timezone: Configurable via `TIMEZONE` env var (default: US/Central)
+  - Archive URL: Configurable via `ARCHIVE_SERVICE_URL` env var
+  - Output: Configurable via `OUTPUT_FILENAME` env var (default: ../index.html)
+  - Server: `FLASK_HOST`, `FLASK_PORT`, `FLASK_DEBUG` env vars
+- **Port**: Flask runs on port 5000 (configurable)
+- **Debug Mode**: Defaults to False (set `FLASK_DEBUG=true` to enable)
 
 ## Important Behaviors
 
-- **Deduplication**: Articles with identical titles are filtered out within a single request. The `unique_article_titles` set is reset on each request (not persistent across restarts).
+- **Deduplication**: Articles with identical titles are filtered out per-request. Fully stateless - no global state or persistence.
+- **Error Handling**: Failed RSS feeds are logged but don't crash the app. Graceful degradation when feeds are unavailable.
 - **Archive Links**: All article URLs are automatically converted to archive.ph submission URLs to provide paywall-free access.
-- **Static Generation**: Every request to `/` regenerates and overwrites `index.html` on disk.
+- **Static Generation**: Every request to `/` regenerates and overwrites `index.html` in the project root.
 - **No Database**: Application is stateless with no persistent storage beyond the generated HTML file.
+- **Type Safety**: Uses dataclasses and type hints for better maintainability.
+
+## Code Structure
+
+All Python source files are organized in the [src/](src/) directory:
+- [src/main.py](src/main.py) - Main Flask application with separated concerns
+- [src/config.py](src/config.py) - Configuration with environment variable support
+
+Key architectural improvements:
+- **Separated Functions**: Each function has a single responsibility (fetch, process, deduplicate, sort, render)
+- **Article Dataclass**: Type-safe representation of news articles
+- **Comprehensive Logging**: Detailed logs for debugging and monitoring
+- **Error Resilience**: Try-catch blocks prevent crashes from bad feeds
 
 ## Adding New RSS Feeds
 
-To add new feeds, append URLs to the `RSS_FEED_URLS` list in [main.py](main.py:21-31). Ensure feeds follow standard RSS format and include `title`, `link`, `published`, and `summary` fields.
+To add new feeds, append URLs to the `RSS_FEED_URLS` list in [src/config.py](src/config.py). Ensure feeds follow standard RSS format and include `title`, `link`, `published`, and `summary` fields.

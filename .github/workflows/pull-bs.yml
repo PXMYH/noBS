@@ -54,7 +54,7 @@ jobs:
         run: poetry install --no-interaction --no-root
 
       - name: Start Flask App
-        run: poetry run python3 main.py &
+        run: poetry run python3 src/main.py &
 
       - name: Wait for Flask App to Generate index.html
         run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
