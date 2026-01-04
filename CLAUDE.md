@@ -54,31 +54,33 @@ NoBS is a news aggregation web application that fetches financial, business, and
 ### Automated Updates
 
 The GitHub Actions workflow [.github/workflows/pull-bs.yml](.github/workflows/pull-bs.yml) runs hourly (at :27 past each hour):
-1. Installs dependencies with Poetry
+1. Installs dependencies with uv
 2. Starts Flask app
 3. Curls the root endpoint to trigger JSON generation
 4. Waits 1 minute
 5. Shuts down the Flask app
 6. Verifies `/data/news_source.txt` was created
-7. Commits and pushes the updated JSON file if changed
+7. Optionally generates AI digest (if API key configured)
+8. Commits and pushes updated files if changed
 
 ## Development Commands
 
 ### Setup
 ```bash
-# Install dependencies
-poetry install
+# Install uv (if not already installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
-# Activate virtual environment
-poetry shell
+# Install dependencies
+uv sync
+
+# Or install with frozen lockfile (recommended for CI)
+uv sync --frozen
 ```
 
 ### Running the Application
 ```bash
 # Run Flask development server
-python src/main.py
-# OR
-poetry run python src/main.py
+uv run python src/main.py
 
 # Application runs on http://0.0.0.0:5000
 ```
@@ -86,10 +88,10 @@ poetry run python src/main.py
 ### Linting
 ```bash
 # Run ruff linter
-poetry run ruff check .
+uv run ruff check .
 
 # Type checking with pyright
-poetry run pyright
+uv run pyright
 ```
 
 ## Key Configuration
@@ -162,7 +164,7 @@ MAX_ARTICLES_PER_CATEGORY=50  # Optional, limits API costs
 
 3. **Install Dependencies** (if not already installed):
 ```bash
-poetry install
+uv sync
 ```
 
 ### Usage

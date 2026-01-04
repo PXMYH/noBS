@@ -21,40 +21,22 @@ jobs:
           python-version: '3.10'
 
       #----------------------------------------------
-      #  -----  install & configure poetry  -----
+      #  -----  install & configure uv  -----
       #----------------------------------------------
-      - name: Install Poetry
-        uses: snok/install-poetry@v1
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
         with:
-          virtualenvs-create: true
-          virtualenvs-in-project: true
-          installer-parallel: true
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
 
       #----------------------------------------------
-      #       load cached venv if cache exists
-      #----------------------------------------------
-      - name: Load cached venv
-        id: cached-poetry-dependencies
-        uses: actions/cache@v3
-        with:
-          path: .venv
-          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
-          
-      #----------------------------------------------
-      # install dependencies if cache does not exist
+      # install dependencies with uv
       #----------------------------------------------
       - name: Install dependencies
-        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-        run: poetry install --no-interaction --no-root
-        
-      #----------------------------------------------
-      # install your root project, if required
-      #----------------------------------------------
-      - name: Install project dependencies
-        run: poetry install --no-interaction --no-root
+        run: uv sync --frozen
 
       - name: Start Flask App
-        run: poetry run python3 src/main.py &
+        run: uv run python3 src/main.py &
 
       - name: Wait for Flask App to Generate data/news_source.txt
         run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
@@ -72,7 +54,7 @@ jobs:
         run: |
           if [ -n "$OPENROUTER_API_KEY" ]; then
             echo "Generating AI-powered news digest..."
-            poetry run python3 src/summarize_news.py || echo "Digest generation failed, continuing..."
+            uv run python3 src/summarize_news.py || echo "Digest generation failed, continuing..."
           else
             echo "Skipping digest generation (no API key configured)"
           fi
