@@ -352,6 +352,12 @@ def save_articles_to_file(articles: List[Article]) -> None:
             'summary': article.summary
         })
 
+    # Ensure the output directory exists
+    output_dir = os.path.dirname(Config.OUTPUT_FILENAME)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+        app.logger.info(f"Created output directory: {output_dir}")
+
     with open(Config.OUTPUT_FILENAME, 'w', encoding='utf-8') as file:
         json.dump(articles_data, file, indent=2, ensure_ascii=False)
 

@@ -24,7 +24,10 @@ class Config:
     ARCHIVE_SERVICE_URL = os.getenv('ARCHIVE_SERVICE_URL', 'https://archive.ph/submit/?url=')
 
     # Output (write to data directory for simple text-based storage)
-    OUTPUT_FILENAME = os.getenv('OUTPUT_FILENAME', '../data/news_source.txt')
+    # Use absolute path relative to the config file location for reliability
+    _config_dir = os.path.dirname(os.path.abspath(__file__))
+    _project_root = os.path.dirname(_config_dir)
+    OUTPUT_FILENAME = os.getenv('OUTPUT_FILENAME', os.path.join(_project_root, 'data', 'news_source.txt'))
 
     # Server
     HOST = os.getenv('FLASK_HOST', '0.0.0.0')
