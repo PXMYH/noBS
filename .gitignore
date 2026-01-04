@@ -132,7 +132,8 @@ cython_debug/
 *~
 .DS_Store
 
-# Data directory - keep the news source file for GitHub Actions
+# Data directory - keep the news source file and digests for GitHub Actions
 /data/*
 !/data/.gitkeep
 !/data/news_source.txt
+!/data/news_digest_*.md

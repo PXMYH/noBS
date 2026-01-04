@@ -11,6 +11,15 @@ from dataclasses import dataclass
 from typing import Optional, List, Dict, Any
 from config import Config
 
+# Import summarization modules (optional - only used if GENERATE_DIGEST is enabled)
+try:
+    from news_categorizer import categorize_articles, deduplicate_by_category
+    from news_summarizer import NewsSummarizer
+    SUMMARIZATION_AVAILABLE = True
+except ImportError:
+    SUMMARIZATION_AVAILABLE = False
+    app.logger.warning("Summarization modules not available. Install dependencies: pip install litellm tqdm")
+
 # Set template folder to parent directory's templates folder
 app = Flask(__name__, template_folder='../templates')
 
@@ -315,6 +324,11 @@ def index() -> str:
     # Save articles to JSON file
     save_articles_to_file(all_articles)
 
+    # Generate AI digest (if enabled)
+    digest_path = generate_news_digest(all_articles)
+    if digest_path:
+        app.logger.info(f"Digest available at: {digest_path}")
+
     # Render HTML for Flask response
     html = render_html(all_articles)
 
@@ -362,6 +376,94 @@ def save_articles_to_file(articles: List[Article]) -> None:
         json.dump(articles_data, file, indent=2, ensure_ascii=False)
 
     app.logger.info(f"Saved {len(articles_data)} articles to {Config.OUTPUT_FILENAME}")
+
+
+def generate_news_digest(articles: List[Article]) -> Optional[str]:
+    """
+    Generate AI-powered news digest from articles.
+
+    Args:
+        articles: List of Article objects
+
+    Returns:
+        Path to generated digest file, or None if generation fails/disabled
+    """
+    # Check if digest generation is enabled
+    if not Config.GENERATE_DIGEST:
+        app.logger.debug("Digest generation disabled (GENERATE_DIGEST=false)")
+        return None
+
+    # Check if summarization modules are available
+    if not SUMMARIZATION_AVAILABLE:
+        app.logger.warning("Digest generation enabled but summarization modules not available")
+        return None
+
+    # Check for API key
+    api_key = Config.OPENROUTER_API_KEY or Config.OPENAI_API_KEY
+    if not api_key:
+        app.logger.warning("Digest generation enabled but no LLM API key found")
+        app.logger.warning("Set OPENROUTER_API_KEY or OPENAI_API_KEY to enable digest generation")
+        return None
+
+    try:
+        app.logger.info("=== Starting digest generation ===")
+
+        # Categorize articles
+        app.logger.info("Categorizing articles...")
+        categorized = categorize_articles(articles)
+
+        # Log categorization stats
+        for category, arts in categorized.items():
+            if arts:
+                app.logger.debug(f"  {category}: {len(arts)} articles")
+
+        # Deduplicate within categories
+        app.logger.info("Deduplicating articles...")
+        original_total = sum(len(arts) for arts in categorized.values())
+        deduped = deduplicate_by_category(categorized)
+        deduped_total = sum(len(arts) for arts in deduped.values())
+        duplicates_removed = original_total - deduped_total
+
+        app.logger.info(f"Removed {duplicates_removed} duplicates ({deduped_total} unique articles)")
+
+        # Initialize summarizer
+        app.logger.info(f"Initializing summarizer with model: {Config.LLM_MODEL}")
+        summarizer = NewsSummarizer(
+            model=Config.LLM_MODEL,
+            api_key=api_key,
+            max_articles_per_category=Config.MAX_ARTICLES_PER_CATEGORY
+        )
+
+        # Generate digest (without progress bar for Flask)
+        app.logger.info("Generating digest summaries...")
+        digest = summarizer.generate_digest(deduped, show_progress=False)
+
+        # Format as Markdown
+        markdown = summarizer.format_digest_markdown(digest)
+
+        # Save digest
+        today = datetime.now().strftime('%Y-%m-%d')
+        digest_path = os.path.join(
+            os.path.dirname(Config.OUTPUT_FILENAME),
+            f'news_digest_{today}.md'
+        )
+
+        with open(digest_path, 'w', encoding='utf-8') as f:
+            f.write(markdown)
+
+        app.logger.info(f"Digest saved to: {digest_path}")
+        app.logger.info(f"  Total articles: {digest.total_articles}")
+        app.logger.info(f"  Unique articles: {digest.total_unique_articles}")
+        app.logger.info(f"  Categories: {len(digest.categories)}")
+        app.logger.info("=== Digest generation complete ===")
+
+        return digest_path
+
+    except Exception as e:
+        app.logger.error(f"Error generating digest: {e}")
+        import traceback
+        app.logger.debug(traceback.format_exc())
+        return None
 
 
 if __name__ == "__main__":
