@@ -121,12 +121,174 @@ poetry run pyright
 All Python source files are organized in the [src/](src/) directory:
 - [src/main.py](src/main.py) - Main Flask application with separated concerns
 - [src/config.py](src/config.py) - Configuration with environment variable support
+- [src/news_categorizer.py](src/news_categorizer.py) - Article categorization and deduplication
+- [src/news_summarizer.py](src/news_summarizer.py) - LLM-powered summarization engine
+- [src/summarize_news.py](src/summarize_news.py) - Standalone CLI tool for digest generation
 
 Key architectural improvements:
 - **Separated Functions**: Each function has a single responsibility (fetch, process, deduplicate, sort, render)
 - **Article Dataclass**: Type-safe representation of news articles
 - **Comprehensive Logging**: Detailed logs for debugging and monitoring
 - **Error Resilience**: Try-catch blocks prevent crashes from bad feeds
+- **Modular Summarization**: Optional LLM integration with graceful degradation
+
+## AI-Powered News Digests
+
+NoBS can automatically generate AI-powered summaries of news articles using LLMs (Large Language Models).
+
+### Features
+
+- **Category-based Organization**: Articles grouped into World/Politics, Finance/Economics, Technology, Sports, and Other
+- **Smart Deduplication**: Removes duplicate stories from multiple sources (75% similarity threshold)
+- **LLM Summarization**: Generates cohesive 2-3 paragraph summaries per category
+- **Multiple LLM Support**: Works with 100+ models via OpenRouter (Claude, GPT-4, Mistral, etc.)
+- **Cost Control**: Configurable article limits per category
+- **Graceful Degradation**: Works without API key (digests simply won't be generated)
+
+### Setup
+
+1. **Get an API Key** (choose one):
+   - OpenRouter (recommended): https://openrouter.ai/keys
+   - OpenAI: https://platform.openai.com/api-keys
+
+2. **Configure Environment Variables**:
+```bash
+# In .env file or environment
+OPENROUTER_API_KEY=sk-or-v1-your-key-here
+LLM_MODEL=openrouter/anthropic/claude-3.5-sonnet  # Optional, defaults shown
+GENERATE_DIGEST=true  # Enable digest generation
+MAX_ARTICLES_PER_CATEGORY=50  # Optional, limits API costs
+```
+
+3. **Install Dependencies** (if not already installed):
+```bash
+poetry install
+```
+
+### Usage
+
+#### Standalone CLI Tool
+
+Generate digest from existing JSON data:
+
+```bash
+# Basic usage (uses defaults)
+python src/summarize_news.py
+
+# Custom paths
+python src/summarize_news.py \
+  --input data/news_source.txt \
+  --output data/custom_digest.md
+
+# Different model
+python src/summarize_news.py --model openrouter/openai/gpt-4o
+
+# Verbose logging
+python src/summarize_news.py --verbose
+```
+
+#### Integrated with Flask
+
+Digests are automatically generated when Flask processes news (if `GENERATE_DIGEST=true`):
+
+```bash
+python src/main.py
+# Visit http://localhost:5000 to trigger news fetch + digest generation
+```
+
+#### GitHub Actions (Automated Daily Digests)
+
+Set up automated hourly digests:
+
+1. Go to your GitHub repo → Settings → Secrets and variables → Actions
+2. Add repository secret: `OPENROUTER_API_KEY`
+3. Optional: Add variable `LLM_MODEL` to customize the model
+
+The workflow will automatically:
+- Fetch news hourly
+- Generate JSON and Markdown digest
+- Commit both files to the repo
+
+### Model Recommendations
+
+| Use Case | Model | Cost per Digest | Notes |
+|----------|-------|-----------------|-------|
+| **Free Tier** | `openrouter/mistralai/devstral-2512:free` | $0.00 | Good quality, no cost |
+| **Best Quality** | `openrouter/anthropic/claude-3.5-sonnet` | ~$0.18 | Most coherent summaries |
+| **Fast & Cheap** | `openrouter/openai/gpt-4o-mini` | ~$0.05 | Quick, affordable |
+| **Budget** | `openrouter/google/gemini-flash` | ~$0.02 | Very cheap, decent quality |
+
+Monthly costs (30 days):
+- Free tier: $0.00
+- Claude 3.5 Sonnet: ~$5.40/month
+- GPT-4o Mini: ~$1.50/month
+
+### Output Format
+
+Digests are saved as Markdown files (`data/news_digest_YYYY-MM-DD.md`) with:
+
+- **Header**: Date, article counts, source statistics
+- **Category Sections**: World/Politics, Finance/Economics, Technology, Sports, Other
+- **Per Category**:
+  - 2-3 paragraph AI-generated summary
+  - Key stories bullet points
+  - Source attribution and article counts
+- **Footer**: Generation timestamp
+
+Example excerpt:
+```markdown
+# NoBS News Digest - January 3, 2026
+
+Generated from **150** unique articles (deduplicated from 180 total) across **9** news sources
+
+---
+
+## 🌍 World & Politics
+
+The United States launched military strikes against Venezuela, capturing
+President Nicolás Maduro in an early morning raid. President Trump announced
+that American oil companies will invest billions to rebuild Venezuela's oil
+infrastructure...
+
+**Key Stories:**
+- Venezuela Crisis: US military intervention, Maduro captured and indicted
+- North Korea missile tests ahead of Lee-Xi summit
+- Berlin power outage from suspected arson affects 50,000 homes
+
+**Sources**: Bloomberg, NYT, Guardian, WaPo (25 articles)
+
+---
+
+## 💰 Finance, Economics & Business
+
+[Summary content...]
+```
+
+### Categories
+
+1. **🌍 World & Politics**: Government actions, diplomatic events, military operations
+2. **💰 Finance, Economics & Business**: Markets, Fed actions, company news, economic indicators
+3. **💻 Technology**: AI developments, tech companies, product launches, innovation
+4. **⚽ Sports**: Games, player news, league developments (if present in sources)
+5. **📰 Other News**: General interest, cultural, social news
+
+### Troubleshooting
+
+**Digest not generating?**
+- Check if `GENERATE_DIGEST=true` is set
+- Verify API key is configured (`OPENROUTER_API_KEY` or `OPENAI_API_KEY`)
+- Check logs for errors: `python src/main.py` (look for "=== Starting digest generation ===")
+- Test standalone: `python src/summarize_news.py --verbose`
+
+**API costs too high?**
+- Use free tier model: `LLM_MODEL=openrouter/mistralai/devstral-2512:free`
+- Reduce articles per category: `MAX_ARTICLES_PER_CATEGORY=25`
+- Disable digest: `GENERATE_DIGEST=false`
+
+**Digest quality issues?**
+- Try Claude 3.5 Sonnet for best quality: `LLM_MODEL=openrouter/anthropic/claude-3.5-sonnet`
+- Check article quality - garbage in, garbage out
+- Ensure sufficient articles per category (< 5 articles may produce weak summaries)
 
 ## Adding New RSS Feeds
 
