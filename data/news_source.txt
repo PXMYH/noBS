@@ -1,5 +1,29 @@
 [
   {
+    "title": "Gold Rises on Haven Demand After US Captures Venezuelan Leader",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
+    "published": "Sun, 04 Jan 2026 23:16:55 CST",
+    "summary": "Gold and silver rose, as investors sought the safety of precious metals after\nthe US capture of Venezuelan leader Nicolás Maduro.\n\n"
+  },
+  {
+    "title": "Oil Declines as Investors Weigh US Capture of Venezuela’s Maduro",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
+    "published": "Sun, 04 Jan 2026 23:02:56 CST",
+    "summary": "Oil dropped as traders weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
+  },
+  {
+    "title": "Japan Retail Investors Ignore Domestic Bull Market to Opt for US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fjapan-retail-investors-ignore-domestic-bull-market-to-opt-for-us",
+    "published": "Sun, 04 Jan 2026 23:02:01 CST",
+    "summary": "Japan’s retail investors have ignored the equity rally at home and have placed\ntheir faith in overseas stocks.\n\n"
+  },
+  {
+    "title": "Goldman Says Venezuela Oil Output May Rise in the Long Term",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-s-oil-output-may-rise-in-the-long-term-goldman-says",
+    "published": "Sun, 04 Jan 2026 22:57:23 CST",
+    "summary": "The scope for higher Venezuelan oil output in the long run after the US’s\ncapture of the nation’s leader may eventually pressure global crude prices,\naccording to Goldman Sachs Group Inc.\n\n"
+  },
+  {
     "title": "Turbulence in India’s Skies as Duopoly Strains Aviation Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fturbulence-in-india-s-skies-as-duopoly-strains-aviation-boom",
     "published": "Sun, 04 Jan 2026 21:00:00 CST",
@@ -18,10 +42,10 @@
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "Stocks, Bonds Set for Jittery Start on Venezuela: Markets Wrap",
+    "title": "Oil Falls, Gold and Silver Gain After Venezuela: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Global financial markets face a skittish open after the US ousted Venezuela’s\npresident, triggering a fresh flashpoint that may stoke geopolitical tensions\nand curb the flow of oil from the region.\n\n"
+    "summary": "Oil fell and precious metals advanced after the US ousted Venezuela’s\npresident, triggering a fresh flashpoint that may stoke geopolitical tensions\nand impact the flow of crude from the region.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -228,40 +252,16 @@
     "summary": "While the capture of Venezuelan President Nicolas Maduro following US\nairstrikes marks a seismic geopolitical development, early signals suggest\nthat the global oil market will largely take the move in its stride.\n\n"
   },
   {
-    "title": "Berlin Power Outage Hits 50,000 Homes in Suspected Arson Attack",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fberlin-power-outage-hits-50-000-homes-in-suspected-arson-attack",
-    "published": "Sat, 03 Jan 2026 15:53:20 CST",
-    "summary": "Some 50,000 households and 2,000 businesses in southwest Berlin were without\npower on Saturday afternoon after a suspected arson attack in the early hours\nof the morning, police said.\n\n"
-  },
-  {
-    "title": "What the US Strike on Venezuela Means for Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-03%2Fwhat-the-us-strike-on-venezuela-means-for-oil-video",
-    "published": "Sat, 03 Jan 2026 15:47:28 CST",
-    "summary": "President Donald Trump says the US will be strongly involved in Venezuela’s\noil industry after US forces captured Venezuelan President Nicolas Maduro and\nhis wife in an early morning raid Saturday. Venezuela’s oil infrastructure was\nnot affected by US military airstrikes in Caracas and other states, according\nto sources with knowledge of the matter. Blomberg’s Julian Lee examines how\nthe action impacts the Venezuelan oil industry and global oil market. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F03%2Ffederal-reserve-powell-face-challenges-in-2026.html",
     "published": "Sat, 03 Jan 2026 14:37:41 CST",
     "summary": "The central bank heads into 2026 facing a slew of political and policy\nchallenges.\n\n"
   },
   {
-    "title": "US Strikes Venezuela, Maduro Captured and Indicted",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-03%2Fus-strikes-venezuela-captures-maduro-video",
-    "published": "Sat, 03 Jan 2026 13:35:04 CST",
-    "summary": "The US launches airstrikes against Venezuela and captures President Nicolás\nMaduro and his wife. They have both been flown back to the US. “The United\nStates of America has successfully carried out a large scale strike against\nVenezuela and its leader, President Nicolas Maduro, who has been, along with\nhis wife, captured and flown out of the Country,” President Donald Trump wrote\non social media Saturday. US Attorney General Pam Bondi said on X Maduro and\nhis wife, Cilia Flores, have been indicted, with the Venezuelan leader facing\ncharges of “Narco-Terrorism Conspiracy, Cocaine Importation Conspiracy,\nPossession of Machineguns and Destructive Devices, and Conspiracy to Possess\nMachineguns and Destructive Devices against the United States.” Bloomberg's\nNathan Hager reports. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "8 Big Questions for 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fdealbook%2F2026-economy-business.html",
     "published": "Sat, 03 Jan 2026 13:00:05 CST",
     "summary": "Here are the biggest unknowns the DealBook team will be watching as we cover\nbusiness and the economy this year.\n\n"
-  },
-  {
-    "title": "London Estate Agent Dexters Owner Exploring Potential Sale: Sky",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Flondon-estate-agent-dexters-owner-exploring-potential-sale-sky",
-    "published": "Sat, 03 Jan 2026 11:32:03 CST",
-    "summary": "Private equity firm Oakley Capital is exploring a potential sale of London’s\nbiggest estate agency chain that could value it at more than £500 million\n($673 million), Sky News reported on Saturday, citing sources it didn’t name.\n\n"
   },
   {
     "title": "Michelle Singletary’s money outlook for 2026: What’s in, what’s out",
