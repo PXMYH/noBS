@@ -105,7 +105,7 @@ Examples:
     parser.add_argument(
         '--output', '-o',
         default=None,
-        help='Output Markdown file path (default: data/news_digest_YYYY-MM-DD.md)'
+        help='Output Markdown file path (default: data/news_digest.md)'
     )
     parser.add_argument(
         '--model', '-m',
@@ -146,10 +146,9 @@ Examples:
     if args.output:
         output_path = Path(args.output)
     else:
-        # Use project root relative path with date
+        # Use project root relative path (single file, always updated)
         project_root = Path(__file__).parent.parent
-        today = datetime.now().strftime('%Y-%m-%d')
-        output_path = project_root / 'data' / f'news_digest_{today}.md'
+        output_path = project_root / 'data' / 'news_digest.md'
 
     # Validate input file
     if not input_path.exists():
