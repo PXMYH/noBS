@@ -79,7 +79,7 @@
         // Fetch and display articles
         async function loadArticles() {
             try {
-                const response = await fetch('/data/news_source.txt');
+                const response = await fetch('data/news_source.txt');
 
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
