@@ -5,50 +5,99 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NoBS News</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body {
             font-family: "Chalkboard SE", chalkboard, cursive;
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
             padding: 20px;
             background-color: #f5f5f5;
         }
 
-        h1 {
-            text-align: center;
-            color: #333;
+        /* Digest section */
+        #digest-container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
         }
 
-        #loading {
-            text-align: center;
-            font-size: 18px;
-            padding: 40px;
+        #digest-container h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
         }
 
-        #error {
-            text-align: center;
-            color: #d32f2f;
-            padding: 40px;
+        #digest-container h2 {
+            color: #34495e;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+        }
+
+        #digest-container h3 {
+            color: #7f8c8d;
+        }
+
+        #digest-container ul {
+            line-height: 1.6;
+        }
+
+        #digest-container hr {
+            border: none;
+            border-top: 1px solid #ecf0f1;
+            margin: 30px 0;
+        }
+
+        #digest-container strong {
+            color: #2c3e50;
+        }
+
+        /* Raw articles section */
+        #toggle-articles {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-family: "Chalkboard SE", chalkboard, cursive;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        #toggle-articles:hover {
+            background: #2980b9;
+        }
+
+        #articles-section {
             display: none;
+        }
+
+        #articles-section.visible {
+            display: block;
         }
 
         .swippable-row {
             background: white;
             border-bottom: 1px solid #ccc;
-            padding: 20px;
+            padding: 15px 0;
             margin-bottom: 10px;
+            padding: 20px;
             border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
             transition: opacity 0.3s ease;
         }
 
         .swippable-row h3 {
             margin-top: 0;
-            color: #1976d2;
+            color: #2c3e50;
         }
 
         .swippable-row h3 a {
-            color: #1976d2;
+            color: #3498db;
             text-decoration: none;
         }
 
@@ -57,7 +106,7 @@
         }
 
         .swippable-row p {
-            color: #666;
+            color: #7f8c8d;
             line-height: 1.6;
         }
 
@@ -66,18 +115,67 @@
             font-size: 14px;
             font-style: italic;
         }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+
+        #error {
+            text-align: center;
+            color: #d32f2f;
+            padding: 40px;
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <h1>NoBS News Aggregator</h1>
-    <div id="loading">Loading articles...</div>
-    <div id="error"></div>
-    <div id="articles-container"></div>
+    <!-- AI Digest Section -->
+    <div id="digest-container">
+        <div class="loading">Loading digest...</div>
+    </div>
+
+    <!-- Toggle button for raw articles -->
+    <button id="toggle-articles">Show Raw Articles</button>
+
+    <!-- Raw Articles Section (hidden by default) -->
+    <div id="articles-section">
+        <div id="loading" class="loading" style="display:none;">Loading articles...</div>
+        <div id="error"></div>
+        <div id="articles-container"></div>
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
     <script>
-        // Fetch and display articles
+        // Load and render the digest
+        async function loadDigest() {
+            try {
+                const response = await fetch('data/news_digest.md');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const markdown = await response.text();
+                const html = marked.parse(markdown);
+
+                document.getElementById('digest-container').innerHTML = html;
+            } catch (error) {
+                console.error('Error loading digest:', error);
+                document.getElementById('digest-container').innerHTML =
+                    '<div class="loading">AI Digest not available. Enable digest generation with GENERATE_DIGEST=true</div>';
+            }
+        }
+
+        // Load raw articles (lazy loaded when user clicks toggle)
+        let articlesLoaded = false;
         async function loadArticles() {
+            if (articlesLoaded) return; // Don't reload if already loaded
+
+            const loadingDiv = document.getElementById('loading');
+            loadingDiv.style.display = 'block';
+
             try {
                 const response = await fetch('data/news_source.txt');
 
@@ -88,7 +186,7 @@
                 const articles = await response.json();
 
                 // Hide loading message
-                document.getElementById('loading').style.display = 'none';
+                loadingDiv.style.display = 'none';
 
                 // Get container
                 const container = document.getElementById('articles-container');
@@ -116,17 +214,32 @@
                     });
                 });
 
+                articlesLoaded = true;
+
             } catch (error) {
                 console.error('Error loading articles:', error);
-                document.getElementById('loading').style.display = 'none';
+                loadingDiv.style.display = 'none';
                 const errorDiv = document.getElementById('error');
                 errorDiv.style.display = 'block';
                 errorDiv.textContent = 'Failed to load articles. Please try again later.';
             }
         }
 
-        // Load articles when page loads
-        window.addEventListener('DOMContentLoaded', loadArticles);
+        // Toggle raw articles visibility
+        document.getElementById('toggle-articles').addEventListener('click', function() {
+            const articlesSection = document.getElementById('articles-section');
+            articlesSection.classList.toggle('visible');
+
+            if (articlesSection.classList.contains('visible')) {
+                this.textContent = 'Hide Raw Articles';
+                loadArticles(); // Lazy load articles when first shown
+            } else {
+                this.textContent = 'Show Raw Articles';
+            }
+        });
+
+        // Load digest on page load
+        loadDigest();
     </script>
 </body>
 </html>
