@@ -1,15 +1,21 @@
 [
   {
-    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
-    "published": "Sun, 04 Jan 2026 19:09:45 CST",
-    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
-  },
-  {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html",
-    "published": "Sun, 04 Jan 2026 17:59:25 CST",
+    "published": "Sun, 04 Jan 2026 20:17:35 CST",
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
+  },
+  {
+    "title": "Stocks, Bonds Set for Jittery Start on Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
+    "published": "Sun, 04 Jan 2026 20:00:00 CST",
+    "summary": "Global financial markets face a skittish open after the US ousted Venezuela’s\npresident, triggering a fresh geopolitical flashpoint that intensifies\nregional risk and raises some questions about oil.\n\n"
+  },
+  {
+    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
+    "published": "Sun, 04 Jan 2026 19:09:46 CST",
+    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
   },
   {
     "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
@@ -48,7 +54,7 @@
     "summary": "Ousted Venezuelan President Nicolás Maduro arrives at a detention center in\nNew York after he was taken into custody in a US military operation. (Source:\nRAPIDRESPONSE47 via X)\n\n"
   },
   {
-    "title": "Venezuela Bond Investors Bet on More Gains Post-Maduro Capture",
+    "title": "Venezuela Bond Investors Bet on More Gains After Maduro Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-bond-investors-eye-further-gains-post-maduro-capture",
     "published": "Sun, 04 Jan 2026 13:45:28 CST",
     "summary": "Venezuelan bonds are poised to gain after the US captured Nicolás Maduro,\nsetting the stage for a potential regime change that investors in $60 billion\nworth of securities have long been betting on.\n\n"
@@ -310,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fsaks-global-new-ceo-richard-baker-bankruptcy-reports.html",
     "published": "Fri, 02 Jan 2026 22:10:21 CST",
     "summary": "The company was created in July 2024 after Hudson's Bay Co. acquired Neiman\nMarcus.\n\n"
-  },
-  {
-    "title": "AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-02%2Fai-backbone-of-venture-capital-landscape-says-curley-video",
-    "published": "Fri, 02 Jan 2026 21:58:06 CST",
-    "summary": "Bob Curley, deputy chief banking officer of regional banking at Western\nAlliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the\nventure capital landscape. He also said they're seeing it accelerated in\nenergy and science. He also said the M&A Market has rebounded and brough\nadditional sources of liquidity. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Saks Global CEO steps down as luxury retailer reportedly preparing for bankruptcy",
