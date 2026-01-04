@@ -8,15 +8,12 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ```json
 {
-    "summary": "The most significant geopolitical development this week is the U.S. military intervention in Venezuela, where airstrikes led to the capture of President Nicolás Maduro and his wife. President Donald Trump announced that the U.S. will temporarily administer Venezuela until a transition can be arranged, with American oil companies set to rebuild the country’s oil infrastructure. While Venezuela’s Supreme Court has granted temporary presidential powers to Vice President Delcy Rodriguez, the U.S. has effectively taken control, prompting flight cancellations in the Caribbean due to airspace restrictions. Despite the seismic political shift, oil markets remain largely unaffected, with analysts suggesting global supplies can absorb any disruptions from Venezuela’s production.
-
-    Meanwhile, tensions in East Asia escalate as North Korea launches ballistic missiles ahead of a summit between South Korean and Chinese leaders. China’s diplomatic pressures extend to the UK, where it threatened to cancel trade talks over a minister’s visit to Taiwan, and to Japan, imposing a ban on scallop imports as punishment for Tokyo’s stance on Taiwan. These moves underscore Beijing’s assertive foreign policy, particularly regarding Taiwan, while also highlighting its strategic control over critical industries like rare earths. Domestically, the U.S. government continues to grapple with the long-term effects of Trump’s administrative overhaul, with concerns over efficiency and reliability persisting.",
+    "summary": "The most significant geopolitical development this week is the U.S. military intervention in Venezuela, where airstrikes led to the capture of President Nicolás Maduro and his wife. President Donald Trump announced that the U.S. will temporarily administer Venezuela until a transition can be arranged, with American oil companies set to rebuild the country’s oil infrastructure. While Venezuela’s Supreme Court has granted temporary presidential powers to Vice President Delcy Rodriguez, the U.S. has effectively taken control, prompting airspace closures over the Caribbean and disruptions to global oil shipments. Meanwhile, North Korea escalated tensions by launching ballistic missiles ahead of a summit between South Korean and Chinese leaders, underscoring regional instability. In diplomatic news, China threatened to cancel trade talks with the UK after a British minister’s visit to Taiwan, while Japan faces economic retaliation from Beijing over its stance on Taiwan, including a ban on Japanese scallops. The oil market remains largely unaffected by the Venezuela crisis, with analysts suggesting global supplies can absorb any short-term disruptions.",
     "key_stories": [
-        "U.S. Captures Maduro in Venezuela, Assumes Control",
-        "North Korea Fires Missiles Ahead of Lee-Xi Summit",
+        "U.S. Captures Maduro in Venezuela Raid, Assumes Control",
+        "North Korea Launches Missiles Ahead of Korea-China Summit",
         "China Threatens UK Trade Talks Over Taiwan Visit",
-        "Oil Markets Unfazed by Venezuela Crisis",
-        "Beijing Bans Japanese Scallops Amid Taiwan Tensions"
+        "Oil Markets Stabilize Despite Venezuela Turmoil"
     ]
 }
 ```
@@ -29,13 +26,12 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ```json
 {
-    "summary": "Markets kicked off 2026 with cautious optimism, as the S&P 500 inched higher amid mixed signals. Semiconductor stocks led gains, buoyed by anticipation for the CES conference and signs of easing tariff policies under the Trump administration, though concerns linger over stretched valuations and inflation risks. The Federal Reserve faces a divided path forward, with Philadelphia Fed President Anna Paulson hinting at possible rate cuts later in the year, while minutes from the December meeting revealed deep splits among officials over whether inflation or unemployment poses the greater threat. Meanwhile, corporate activity remained brisk: Saks Global replaced its CEO as it reportedly prepares for bankruptcy, while private equity firm Oakley Capital explores a £500 million sale of London estate agency Dexters. Commodities saw volatility, with silver retreating sharply from record highs and oil fluctuating amid supply surplus concerns. Ethiopia also reached a deal-in-principle with bondholders to restructure $1 billion in defaulted debt, offering a rare bright spot in emerging markets.",
+    "summary": "Markets kicked off 2026 with cautious optimism, as the S&P 500 inched higher amid mixed signals. Semiconductor stocks led gains, buoyed by anticipation for the CES tech conference, while concerns over stretched valuations and inflation lingered. The Federal Reserve faces a divided path forward, with Philadelphia Fed President Anna Paulson suggesting modest rate cuts later in the year, though minutes from December’s meeting revealed deep splits among officials over whether inflation or unemployment poses the greater risk. Meanwhile, corporate activity remained brisk: Saks Global replaced its CEO as bankruptcy rumors swirled, while private equity firm Oakley Capital explored a £500 million sale of London estate agency Dexters. Commodities saw volatility, with silver retreating sharply from record highs and oil fluctuating amid supply surplus concerns. Ethiopia also reached a deal-in-principle with bondholders to restructure $1 billion in defaulted debt, offering a rare bright spot in emerging markets.",
     "key_stories": [
-        "S&P 500 edges higher as semiconductor stocks rally, but inflation and valuation concerns persist",
-        "Fed officials split on rate cuts; Paulson signals possible easing later in 2026",
-        "Saks Global CEO steps down amid bankruptcy reports; Oakley Capital eyes £500M Dexters sale",
-        "Silver plunges 8% after record high; oil fluctuates on supply surplus fears",
-        "Ethiopia strikes $1B debt restructuring deal with bondholders"
+        "Fed signals potential rate cuts in 2026 but remains divided on economic risks",
+        "Saks Global CEO steps down as luxury retailer faces bankruptcy rumors",
+        "Silver prices plummet after hitting record highs, oil fluctuates on supply concerns",
+        "Private equity explores £500M sale of London’s largest estate agency"
     ]
 }
 ```
@@ -48,13 +44,13 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ```json
 {
-    "summary": "The tech and business landscape in early 2026 is marked by shifting dynamics in AI, electric vehicles, and global trade. China's BYD surpasses Tesla as the world's top EV seller, reflecting broader challenges in the sector as automakers pivot back to gas-powered trucks amid slowing demand. Meanwhile, AI continues to drive market optimism, with emerging-market stocks hitting a five-year high on bets around Asia's growing role in the technology. Regulatory pressures are also intensifying, as China cracks down on AI chatbots and Europe considers rolling back its 2035 combustion engine ban. In corporate news, Uber restructures contracts to avoid UK taxes, while Paramount secures Larry Ellison's backing in its bid for Warner Bros. Discovery. The global economy faces uncertainty, with billionaires adding record wealth even as job growth slows and trade tensions persist.",
+    "summary": "The tech and business landscape in early 2026 is marked by shifting dynamics in AI, electric vehicles, and global trade. China's BYD surpasses Tesla as the world's top EV seller, reflecting broader challenges in the sector as automakers pivot back to gas-powered trucks amid slowing demand. Meanwhile, AI continues to drive market gains, with emerging-market stocks hitting a five-year high on optimism about Asia's role in the technology, though concerns about an AI bubble persist. Regulatory and trade tensions also dominate, as China imposes steep tariffs on Australian beef and the U.S. slashes proposed levies on Italian pasta, while Europe considers rolling back its 2035 combustion engine ban. In corporate news, Uber restructures contracts to avoid UK taxes, and Paramount secures backing from Larry Ellison in its bid for Warner Bros. Discovery, signaling ongoing consolidation in media.",
     "key_stories": [
         "BYD overtakes Tesla as world's largest EV seller",
         "Emerging-market stocks hit five-year high on AI optimism",
         "Europe may delay 2035 combustion engine ban",
-        "Uber avoids UK 'taxi tax' with contract changes",
-        "China tightens AI chatbot regulations"
+        "Uber rewrites UK driver contracts to avoid 'taxi tax'",
+        "Paramount secures Ellison backing in WBD bid"
     ]
 }
 ```
@@ -67,11 +63,11 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ```json
 {
-    "summary": "The sports world sees significant developments both on and off the field. The NBA is making strides in global expansion, actively pursuing ownership groups to launch a new professional men’s basketball league in Europe in partnership with FIBA. This move could reshape international basketball and create new opportunities for players and fans alike. Meanwhile, the business side of sports media is evolving, with Fox’s free streaming service Tubi outperforming major competitors like Peacock and HBO Max in viewership, according to Nielsen’s November Gauge report, signaling a shift in how audiences consume sports content. Off the court, concerns grow over the professionalization of youth sports, as research highlights the emotional toll and injury risks faced by young athletes due to excessive pressure from coaches and parents. These trends underscore broader changes in sports culture, from grassroots to professional levels.",
+    "summary": "The sports world sees both on-court developments and broader industry shifts this week. The NBA is making strides in global expansion, actively pursuing ownership groups to launch a new professional men’s basketball league in Europe in partnership with FIBA. This move underscores the league’s ambition to grow its international footprint, though details on timelines and participating teams remain unclear. Meanwhile, the business side of sports media reveals surprising trends, with Fox’s free streaming service Tubi outperforming major competitors like Peacock and HBO Max in Nielsen’s November viewership report, signaling a shift in how fans consume sports content. Off the field, concerns about youth sports intensify as new research highlights the emotional and physical toll of early professionalization, with overbearing coaches and parental pressure contributing to burnout and injuries among young athletes. The findings raise questions about the long-term sustainability of highly competitive youth programs.",
     "key_stories": [
         "NBA explores launch of professional basketball league in Europe",
-        "Tubi surpasses Peacock and HBO Max in streaming viewership",
-        "Youth sports burnout rises amid growing professionalization"
+        "Tubi surpasses Peacock, HBO Max in streaming viewership",
+        "Youth sports burnout linked to early professionalization pressures"
     ]
 }
 ```
@@ -84,13 +80,13 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ```json
 {
-    "summary": "As 2026 begins, economic and political tensions dominate headlines, with President Trump facing scrutiny over claims about U.S. job growth and affordability. Despite administration efforts—including proposed tariff rebates and auto loan tax breaks—many Americans, particularly younger generations, report feeling financially strained, with housing costs and student loan reforms adding pressure. Meanwhile, corporate and cultural shifts are reshaping industries: Warren Buffett’s historic legacy at Berkshire Hathaway draws attention as leadership transitions, while companies like Uber grapple with safety concerns amid reports of drivers accused of misconduct remaining on the road. Internationally, Guinea’s elections highlight geopolitical stakes over critical minerals, and Europe’s banks enter 2026 with strong momentum but uncertainty ahead. Human interest stories, from a luxury hotel’s refusal to compensate bedbug victims to the quirky rise of 'no shoes' office policies, offer lighter yet telling glimpses into evolving social norms.",
+    "summary": "As 2026 begins, economic and political tensions dominate headlines, with affordability remaining a central concern for Americans. President Trump faces scrutiny over claims of a booming job market for U.S.-born workers, while his administration grapples with criticism over tariffs and affordability measures, including proposed cash payments to offset high costs. Meanwhile, student loan borrowers brace for stricter repayment rules, and housing markets show slight improvements in affordability, though down payments remain a barrier. In corporate news, Warren Buffett’s legacy is celebrated as he steps down after a historic 60-year run, while Uber faces allegations of inadequate action against drivers accused of sexual misconduct. Internationally, Guinea’s elections highlight the challenges of governance amid global competition for critical minerals, and European banks enter 2026 with strong momentum despite economic uncertainties. Cultural trends reflect a blend of nostalgia and innovation, from Lego’s high-profile Formula 1 sponsorship to startups adopting casual workplace norms like 'no shoes' policies. The year also begins with notable losses, as influential figures in media, arts, and science are remembered in a year-end tribute.",
     "key_stories": [
-        "Trump’s economic claims clash with data as affordability concerns persist",
-        "Warren Buffett’s unmatched legacy as Berkshire Hathaway transitions leadership",
-        "Uber’s sexual misconduct monitoring raises questions about driver accountability",
-        "Guinea’s pivotal election tests stability amid global mineral competition",
-        "Housing market shows slight affordability improvements, but down payments remain a barrier"
+        "Trump’s job market claims contradicted by economic data",
+        "Warren Buffett’s unmatched legacy after 60 years at Berkshire Hathaway",
+        "Uber under fire for retaining drivers accused of sexual misconduct",
+        "Guinea’s pivotal elections amid global mineral competition",
+        "Housing affordability improves slightly, but down payments remain a hurdle"
     ]
 }
 ```
@@ -99,4 +95,4 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ---
 
-*Digest generated on January 04, 2026 at 03:32 AM *
+*Digest generated on January 04, 2026 at 03:41 AM *
