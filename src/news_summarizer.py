@@ -33,6 +33,7 @@ class CategorySummary:
     article_count: int
     key_stories: List[str]
     sources: List[str]
+    articles: List = None  # Store actual articles for linking
 
 
 @dataclass
@@ -248,7 +249,8 @@ Only include 3-5 key stories. Make the summary flow naturally, not as a list."""
                 summary_text=summary_text,
                 article_count=len(articles),
                 key_stories=key_stories,
-                sources=sorted(sources)
+                sources=sorted(sources),
+                articles=articles_to_process  # Include articles for linking
             )
 
         except Exception as e:
@@ -339,10 +341,12 @@ Only include 3-5 key stories. Make the summary flow naturally, not as a list."""
             md += f"## {info['emoji']} {info['name']}\n\n"
             md += f"{cat_summary.summary_text}\n\n"
 
-            if cat_summary.key_stories:
-                md += "**Key Stories:**\n"
-                for story in cat_summary.key_stories:
-                    md += f"- {story}\n"
+            # Add top articles as clickable links
+            if cat_summary.articles:
+                md += "**Top Articles:**\n"
+                # Show top 5 articles with links
+                for article in cat_summary.articles[:5]:
+                    md += f"- [{article.title}]({article.link})\n"
                 md += "\n"
 
             md += f"**Sources**: {', '.join(cat_summary.sources)} "
