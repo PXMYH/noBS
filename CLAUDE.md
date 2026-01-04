@@ -34,7 +34,7 @@ NoBS is a news aggregation web application that fetches financial, business, and
 
 ### Data Flow
 
-1. Browser hits root endpoint `/`
+1. Flask endpoint `/` is triggered (either by browser or GitHub Actions)
 2. Flask fetches all RSS feeds concurrently (with error handling)
 3. Articles converted to Article dataclass objects with validation
 4. Articles are deduplicated by title (per-request, stateless)
@@ -42,19 +42,25 @@ NoBS is a news aggregation web application that fetches financial, business, and
 6. Article URLs are converted to archive.ph submission URLs
 7. Articles sorted by publication time (newest first)
 8. Timestamps converted to configured timezone
-9. Template rendered with processed articles
-10. Rendered HTML saved to `index.html` file in project root
+9. **Articles saved as JSON to `/data/news_source.txt`** (for GitHub Pages)
+10. Template rendered with processed articles (for Flask response)
 11. HTML returned to browser
+
+**Client-Side Rendering**:
+- Static `index.html` in project root uses JavaScript to fetch `/data/news_source.txt`
+- Dynamically renders articles client-side using the JSON data
+- Implements swipe-left gesture using Hammer.js to hide articles
 
 ### Automated Updates
 
 The GitHub Actions workflow [.github/workflows/pull-bs.yml](.github/workflows/pull-bs.yml) runs hourly (at :27 past each hour):
 1. Installs dependencies with Poetry
 2. Starts Flask app
-3. Curls the root endpoint to trigger HTML generation
+3. Curls the root endpoint to trigger JSON generation
 4. Waits 1 minute
 5. Shuts down the Flask app
-6. Commits and pushes the updated `index.html` if changed
+6. Verifies `/data/news_source.txt` was created
+7. Commits and pushes the updated JSON file if changed
 
 ## Development Commands
 
@@ -94,7 +100,7 @@ poetry run pyright
   - RSS Feed URLs: List in `Config.RSS_FEED_URLS`
   - Timezone: Configurable via `TIMEZONE` env var (default: US/Central)
   - Archive URL: Configurable via `ARCHIVE_SERVICE_URL` env var
-  - Output: Configurable via `OUTPUT_FILENAME` env var (default: ../index.html)
+  - Output: Configurable via `OUTPUT_FILENAME` env var (default: ../data/news_source.txt)
   - Server: `FLASK_HOST`, `FLASK_PORT`, `FLASK_DEBUG` env vars
 - **Port**: Flask runs on port 5000 (configurable)
 - **Debug Mode**: Defaults to False (set `FLASK_DEBUG=true` to enable)
@@ -104,8 +110,9 @@ poetry run pyright
 - **Deduplication**: Articles with identical titles are filtered out per-request. Fully stateless - no global state or persistence.
 - **Error Handling**: Failed RSS feeds are logged but don't crash the app. Graceful degradation when feeds are unavailable.
 - **Archive Links**: All article URLs are automatically converted to archive.ph submission URLs to provide paywall-free access.
-- **Static Generation**: Every request to `/` regenerates and overwrites `index.html` in the project root.
-- **No Database**: Application is stateless with no persistent storage beyond the generated HTML file.
+- **Data Storage**: Every request to `/` regenerates and overwrites `/data/news_source.txt` with JSON article data.
+- **Client-Side Rendering**: Static `index.html` fetches JSON and renders articles dynamically in the browser.
+- **No Database**: Application is stateless with no persistent storage beyond the generated JSON file.
 - **Type Safety**: Uses dataclasses and type hints for better maintainability.
 
 ## Code Structure

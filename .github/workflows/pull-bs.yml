@@ -56,11 +56,14 @@ jobs:
       - name: Start Flask App
         run: poetry run python3 src/main.py &
 
-      - name: Wait for Flask App to Generate index.html
+      - name: Wait for Flask App to Generate data/news_source.txt
         run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
 
       - name: Shutdown Flask App
         run: curl -X POST http://127.0.0.1:5000/shutdown
+
+      - name: Verify data file was created
+        run: ls -lh data/news_source.txt
         
       - name: Commit and push if it changed
         run: |-

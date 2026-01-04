@@ -23,8 +23,8 @@ class Config:
     # Archive service
     ARCHIVE_SERVICE_URL = os.getenv('ARCHIVE_SERVICE_URL', 'https://archive.ph/submit/?url=')
 
-    # Output (write to parent directory where GitHub Actions expects it)
-    OUTPUT_FILENAME = os.getenv('OUTPUT_FILENAME', '../index.html')
+    # Output (write to data directory for simple text-based storage)
+    OUTPUT_FILENAME = os.getenv('OUTPUT_FILENAME', '../data/news_source.txt')
 
     # Server
     HOST = os.getenv('FLASK_HOST', '0.0.0.0')

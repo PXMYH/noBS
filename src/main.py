@@ -312,11 +312,11 @@ def index() -> str:
     # Convert times to configured timezone
     all_articles = convert_article_times(all_articles)
 
-    # Render
-    html = render_html(all_articles)
+    # Save articles to JSON file
+    save_articles_to_file(all_articles)
 
-    # Save
-    save_html_to_file(html)
+    # Render HTML for Flask response
+    html = render_html(all_articles)
 
     app.logger.info(
         f"=== Completed: Displaying {len(all_articles)} articles from {len(feed_data_list)} feeds ==="
@@ -334,15 +334,28 @@ def shutdown():
     return jsonify({'message': 'Shutting down...'})
 
 
-# Function to save rendered HTML to a file
-def save_html_to_file(html_content: str) -> None:
-    """Save rendered HTML content to a file.
+# Function to save articles as JSON to a file
+def save_articles_to_file(articles: List[Article]) -> None:
+    """Save articles as JSON to file for client-side rendering.
 
     Args:
-        html_content: HTML string to save
+        articles: List of Article objects to save
     """
+    import json
+
+    articles_data = []
+    for article in articles:
+        articles_data.append({
+            'title': article.title,
+            'link': article.link,
+            'published': article.published,
+            'summary': article.summary
+        })
+
     with open(Config.OUTPUT_FILENAME, 'w', encoding='utf-8') as file:
-        file.write(html_content)
+        json.dump(articles_data, file, indent=2, ensure_ascii=False)
+
+    app.logger.info(f"Saved {len(articles_data)} articles to {Config.OUTPUT_FILENAME}")
 
 
 if __name__ == "__main__":

@@ -1,1 +1,6 @@
 .pythonlibs/
+
+# Data directory - keep the news source file for GitHub Actions
+/data/*
+!/data/.gitkeep
+!/data/news_source.txt
