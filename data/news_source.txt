@@ -1,5 +1,11 @@
 [
   {
+    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
+    "published": "Sun, 04 Jan 2026 17:03:20 CST",
+    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
+  },
+  {
     "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsouth-africa-gasoline-price-drops-to-four-year-low-on-oil-rand",
     "published": "Sun, 04 Jan 2026 15:03:07 CST",
@@ -400,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fstocks-making-the-biggest-moves-premarket-.html",
     "published": "Fri, 02 Jan 2026 14:10:28 CST",
     "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
-  },
-  {
-    "title": "Big Changes Are Coming to Student Loans. Here’s What to Know if You’re Struggling.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
-    "published": "Fri, 02 Jan 2026 14:00:05 CST",
-    "summary": "Millions of borrowers who are behind can expect the government to tighten the\noptions in 2026. Experts say take action now to get help.\n\n"
   },
   {
     "title": "Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’",
