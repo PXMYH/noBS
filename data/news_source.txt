@@ -1,5 +1,47 @@
 [
   {
+    "title": "Activist Group Claims Responsibility for Berlin Power Outage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Factivist-group-claims-responsibility-for-berlin-power-outage",
+    "published": "Sun, 04 Jan 2026 14:20:29 CST",
+    "summary": "The German activist network Volcano Group claimed responsibility for an arson\nattack that cut power to about 50,000 households and 2,000 businesses in\nsouthwest Berlin on Saturday.\n\n"
+  },
+  {
+    "title": "Rubio Says Oil Quarantine Gives US Sway in Post-Maduro Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Frubio-says-oil-quarantine-gives-us-sway-in-post-maduro-venezuela",
+    "published": "Sun, 04 Jan 2026 14:06:52 CST",
+    "summary": "Secretary of State Marco Rubio said the US would use an oil quarantine to get\nwhat it wants from Venezuela’s new leaders following the ouster of President\nNicolas Maduro.\n\n"
+  },
+  {
+    "title": "Czech Central Bank Chief Says Policy Will Need to Remain Tight",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fczech-central-bank-chief-says-policy-will-need-to-remain-tight",
+    "published": "Sun, 04 Jan 2026 14:02:15 CST",
+    "summary": "The Czech central bank needs to maintain a tight monetary stance to keep\ninflation under control but is leaving all options open for interest rate\ndecisions this year, according to Governor Ales Michl.\n\n"
+  },
+  {
+    "title": "Maduro Taken Into Detention Center in New York",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-04%2Fmaduro-taken-into-detention-center-in-new-york-video",
+    "published": "Sun, 04 Jan 2026 13:46:54 CST",
+    "summary": "Ousted Venezuelan President Nicolás Maduro arrives at a detention center in\nNew York after he was taken into custody in a US military operation. (Source:\nRAPIDRESPONSE47 via X)\n\n"
+  },
+  {
+    "title": "Venezuela Bond Investors Bet on More Gains Post-Maduro Capture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-bond-investors-eye-further-gains-post-maduro-capture",
+    "published": "Sun, 04 Jan 2026 13:45:28 CST",
+    "summary": "Venezuelan bonds are poised to gain after the US captured Nicolás Maduro,\nsetting the stage for a potential regime change that investors in $60 billion\nworth of securities have long been betting on.\n\n"
+  },
+  {
+    "title": "Saudi Stocks Drop Most Since April as Geopolitical Strife Mounts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudi-stocks-drop-most-since-april-as-geopolitical-strife-mounts",
+    "published": "Sun, 04 Jan 2026 13:38:35 CST",
+    "summary": "Saudi Arabian equities fell the most in almost nine months as investors\nconsidered the possible fallout of geopolitical tensions in Yemen, Iran and\nVenezuela.\n\n"
+  },
+  {
+    "title": "Global Retreat From Emerging-Market Bonds May Be Boon for 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fglobal-retreat-from-emerging-market-bonds-may-be-boon-for-2026",
+    "published": "Sun, 04 Jan 2026 13:00:00 CST",
+    "summary": "Emerging-market bonds are likely to be supported in 2026 as the securities are\nincreasingly owned by local investors who are less exposed to currency risk\nand are therefore more resilient holders, fund managers say.\n\n"
+  },
+  {
     "title": "France to Ban Food Imports Containing EU-Prohibited Pesticides",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Ffrance-to-ban-food-imports-containing-eu-prohibited-pesticides",
     "published": "Sun, 04 Jan 2026 12:44:18 CST",
@@ -9,7 +51,7 @@
     "title": "OPEC+ Sticks With Plan to Keep Oil Flow Steady Amid Turmoil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fopec-sticks-with-plan-to-keep-oil-supply-steady-delegates-say",
     "published": "Sun, 04 Jan 2026 12:15:01 CST",
-    "summary": "OPEC+ stuck with plans to pause supply increases in the first quarter at a\nmeeting on Sunday, as global markets face a surplus and the group awaits\nclarity on whether the shock US capture of Venezuela leader Nicolas Maduro\nwill impact supplies.\n\n"
+    "summary": "OPEC+ stuck with plans to pause supply increases in the first quarter, as\nglobal markets face a surplus and the group awaits clarity on whether the\nshock US capture of Venezuela leader Nicolas Maduro will impact supplies.\n\n"
   },
   {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
@@ -30,7 +72,7 @@
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
   },
   {
-    "title": "Saudis Signal Intention to Ease Up on International Bond Sales",
+    "title": "Saudis Signal Intention to Ease Pace of Bond Sales Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudis-signal-intention-to-ease-up-on-international-bond-sales",
     "published": "Sun, 04 Jan 2026 08:55:36 CST",
     "summary": "Saudi Arabia sees stable to lower international bond sales in 2026, signaling\na possible halt to three years of rapid growth in borrowing activities that\nhave made the kingdom one of the busiest sovereign issuers in global emerging\nmarkets.\n\n"
@@ -124,6 +166,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Foil-market-may-absorb-maduro-shock-amid-abundant-global-supplies",
     "published": "Sat, 03 Jan 2026 16:33:03 CST",
     "summary": "While the capture of Venezuelan President Nicolas Maduro following US\nairstrikes marks a seismic geopolitical development, early signals suggest\nthat the global oil market will largely take the move in its stride.\n\n"
+  },
+  {
+    "title": "Berlin Power Outage Hits 50,000 Homes in Suspected Arson Attack",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fberlin-power-outage-hits-50-000-homes-in-suspected-arson-attack",
+    "published": "Sat, 03 Jan 2026 15:53:20 CST",
+    "summary": "Some 50,000 households and 2,000 businesses in southwest Berlin were without\npower on Saturday afternoon after a suspected arson attack in the early hours\nof the morning, police said.\n\n"
   },
   {
     "title": "What the US Strike on Venezuela Means for Oil",
@@ -240,24 +288,6 @@
     "summary": "Saks Global’s executive chairman, Richard Baker, is taking over the luxury\nretailer he created with the 2024 acquisition of Neiman Marcus and Bergdorf\nGoodman.\n\n"
   },
   {
-    "title": "Golden Gate Capital Insurer PHL Veers to Liquidation as Rehab Hopes Fade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fgolden-gate-capital-insurer-phl-veers-to-liquidation-as-rehab-hopes-fade",
-    "published": "Fri, 02 Jan 2026 21:23:55 CST",
-    "summary": "State regulators are abandoning a plan to rehabilitate PHL Variable Insurance\nCo. and may pursue liquidation instead, after finding that the struggling life\ninsurer -- acquired by private equity firm Golden Gate Capital a decade ago --\nis in worse shape than previously thought.\n\n"
-  },
-  {
-    "title": "Argentina Sells Dollars to Curb Peso Slide as New Rules Kick In",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fargentina-sells-dollars-to-curb-peso-slide-as-new-rules-kick-in",
-    "published": "Fri, 02 Jan 2026 21:18:49 CST",
-    "summary": "Argentina’s Treasury sold dollars Friday, people familiar with the matter\nsaid, looking to limit the decline of the peso on the first day that new rules\nallowing for larger swings kicked in.\n\n"
-  },
-  {
-    "title": "Wall Street Carries Big Expectations After Best Run Since 2009",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fwall-street-carries-big-expectations-after-best-run-since-2009",
-    "published": "Fri, 02 Jan 2026 21:09:27 CST",
-    "summary": "The new year opened much as the last one ended, with markets rising, Wall\nStreet confidence intact and little sign the forces that powered 2025 have run\ntheir course. What’s less clear is how long the cross-asset synchrony can\nlast.\n\n"
-  },
-  {
     "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fclimate%2Fglyphosate-roundup-retracted-study.html",
     "published": "Fri, 02 Jan 2026 20:25:58 CST",
@@ -268,12 +298,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Ftesla-electric-vehicles-fourth-quarter-sales.html",
     "published": "Fri, 02 Jan 2026 19:47:35 CST",
     "summary": "As the largest maker of electric vehicles in the United States, Tesla suffered\nmore than other carmakers from the elimination of federal incentives.\n\n"
-  },
-  {
-    "title": "More Venezuela-Bound Oil Ships U-Turn Amid US Blockade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fmore-venezuela-bound-oil-ships-u-turn-amid-us-blockade",
-    "published": "Fri, 02 Jan 2026 19:46:39 CST",
-    "summary": "More oil tankers are turning away from Venezuela as the US threatens to seize\nvessels transporting oil that helps fund the regime of President Nicolas\nMaduro.\n\n"
   },
   {
     "title": "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever",
@@ -310,12 +334,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F02%2Fchina-byd-tesla-worlds-biggest-electric-car-seller-elon-musk-donald-trump-ev",
     "published": "Fri, 02 Jan 2026 16:07:35 CST",
     "summary": "Sales at Elon Musk’s company slump after Donald Trump’s withdrawal of EV\nsubsidies\n\nChina’s BYD overtook Tesla as the world’s largest electric carmaker in 2025,\nafter the US company run by Elon Musk reported a slump in deliveries at the\nend of the year.\n\nBYD sold 2.26m battery electric cars during the year, easily outstripping the\n1.63m deliveries reported on Friday by Tesla for the same period.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "US Stocks Inch Higher as Chips Bump Offsets ‘Expensive’ S&amp;P 500",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fus-stocks-climb-to-start-2026-and-revive-hopes-for-santa-rally",
-    "published": "Fri, 02 Jan 2026 15:01:37 CST",
-    "summary": "The S&P 500 Index closed slightly in the green on Friday, as gains for\nsemiconductor stocks helped mute concern about stretched valuations. Optimism\nabout next week’s massive CES conference and signs President Donald Trump was\neasing up on tariff policies also boosted sentiment during the first trading\nday of the year.\n\n"
   },
   {
     "title": "As Schools Embrace A.I. Tools, Skeptics Raise Concerns",
@@ -396,12 +414,6 @@
     "summary": "Some start-ups, blurring the lines between home and office, are embracing a\n“no shoes” policy.\n\n"
   },
   {
-    "title": "Long-Maturity Treasuries Fall After Market’s Best Year in Five",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-02%2Fus-30-year-yields-rise-to-highest-since-september-on-growth-risk",
-    "published": "Fri, 02 Jan 2026 07:50:31 CST",
-    "summary": "Long-maturity Treasuries began 2026 on the defensive following the market’s\nbiggest annual gain in five years, as investors focused on the potential for\nadditional Federal Reserve interest-rate cuts to stoke inflation.\n\n"
-  },
-  {
     "title": "Gone in 2025: A Yearlong Procession of Giants",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fobituaries%2F2025-deaths-obituaries.html",
     "published": "Fri, 02 Jan 2026 06:13:11 CST",
@@ -424,18 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Fbusiness%2Fjapan-china-scallops.html",
     "published": "Fri, 02 Jan 2026 02:16:13 CST",
     "summary": "Beijing is using a ban on the humble mollusk to punish Japan over its apparent\nwillingness to defend Taiwan.\n\n"
-  },
-  {
-    "title": "Oil Fluctuates as Traders Weigh Surplus, Geopolitical Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-01%2Flatest-oil-market-news-and-analysis-for-jan-1",
-    "published": "Thu, 01 Jan 2026 23:39:16 CST",
-    "summary": "Oil steadied on the first trading day of 2026 as expectations for a supply\nsurplus offset geopolitical risks to production in several OPEC+ nations.\n\n"
-  },
-  {
-    "title": "US Stocks Inch Higher in Volatile Start to 2026: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-01%2Fstocks-set-to-start-2026-tepidly-after-recent-drop-markets-wrap",
-    "published": "Thu, 01 Jan 2026 22:44:25 CST",
-    "summary": "US stocks edged higher on Friday, as investors started 2026 on cautious\nfooting following a year of strong equity performance while keeping an eye on\nrising Treasury yields.\n\n"
   },
   {
     "title": "Judge Rules That Trump Administration Must Continue to Fund CFPB",
