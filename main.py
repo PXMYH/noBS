@@ -6,7 +6,8 @@ import pytz
 from datetime import datetime
 import os
 import html2text
-import urllib.parse  # Import urllib.parse
+import urllib.parse
+from config import Config
 
 app = Flask(__name__)
 
@@ -16,19 +17,6 @@ formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 handler = logging.StreamHandler()
 handler.setFormatter(formatter)
 app.logger.addHandler(handler)
-
-# Define a list of RSS feed URLs
-RSS_FEED_URLS = [
-    "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-    "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
-    "https://feeds.bloomberg.com/markets/news.rss",
-    "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
-    "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
-    "https://www.theguardian.com/us/business/rss",
-    "http://feeds.washingtonpost.com/rss/business?itid=lk_inline_manual_37"
-]
 
 def fetch_feed_data(url):
     """Fetch RSS feed data with error handling."""
@@ -47,9 +35,9 @@ def fetch_feed_data(url):
 
 
 def convert_to_cdt_time(published_time):
-    """Convert published time to US/Central timezone with error handling."""
+    """Convert published time to configured timezone with error handling."""
     try:
-        cdt_timezone = pytz.timezone('US/Central')
+        cdt_timezone = pytz.timezone(Config.TIMEZONE)
 
         # Split the published time string into parts
         parts = published_time.split()
@@ -88,7 +76,7 @@ def deduplicate_articles(articles):
 def clean_html(html_content):
     # Create an instance of the html2text converter
     h = html2text.HTML2Text()
-    h.ignore_links = True  # Ignore links in the content
+    h.ignore_links = Config.HTML2TEXT_IGNORE_LINKS
 
     # Convert the HTML content to plain text
     text_content = h.handle(html_content)
@@ -102,7 +90,7 @@ def index():
 
     # Fetch RSS feed data in parallel using ThreadPoolExecutor
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        feed_data_list = list(executor.map(fetch_feed_data, RSS_FEED_URLS))
+        feed_data_list = list(executor.map(fetch_feed_data, Config.RSS_FEED_URLS))
 
     # Filter out None results from failed feeds
     feed_data_list = [feed for feed in feed_data_list if feed is not None]
@@ -112,7 +100,7 @@ def index():
             # Encode the article.link to create archive_request_url
             url_without_query = article.link.split('?')[0]
             url = urllib.parse.quote_plus(url_without_query)
-            archive_request_url = 'https://archive.ph/submit/?url=' + url
+            archive_request_url = Config.ARCHIVE_SERVICE_URL + url
 
             # Clean the HTML content to remove tags
             article.summary = clean_html(article.summary)
@@ -156,9 +144,9 @@ def shutdown():
 
 # Function to save rendered HTML to a file
 def save_html_to_file(html_content):
-    with open("index.html", 'w', encoding='utf-8') as file:
+    with open(Config.OUTPUT_FILENAME, 'w', encoding='utf-8') as file:
         file.write(html_content)
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host=Config.HOST, port=Config.PORT, debug=Config.DEBUG)
