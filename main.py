@@ -7,6 +7,8 @@ from datetime import datetime
 import os
 import html2text
 import urllib.parse
+from dataclasses import dataclass
+from typing import Optional
 from config import Config
 
 app = Flask(__name__)
@@ -17,6 +19,38 @@ formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 handler = logging.StreamHandler()
 handler.setFormatter(formatter)
 app.logger.addHandler(handler)
+
+
+@dataclass
+class Article:
+    """Represents a news article from RSS feed."""
+    title: str
+    link: str
+    published: str
+    summary: str
+    published_parsed: Optional[tuple] = None
+
+    @classmethod
+    def from_feed_entry(cls, entry):
+        """Create Article from feedparser entry with validation."""
+        return cls(
+            title=getattr(entry, 'title', 'Untitled'),
+            link=getattr(entry, 'link', ''),
+            published=getattr(entry, 'published', ''),
+            summary=getattr(entry, 'summary', ''),
+            published_parsed=getattr(entry, 'published_parsed', None)
+        )
+
+
+def validate_article(article):
+    """Check if article has required fields."""
+    return (
+        hasattr(article, 'title') and article.title and
+        hasattr(article, 'link') and article.link and
+        hasattr(article, 'published') and
+        hasattr(article, 'summary')
+    )
+
 
 def fetch_feed_data(url):
     """Fetch RSS feed data with error handling."""
@@ -101,11 +135,18 @@ def transform_article_url(url):
 
 
 def process_articles(feed_data_list):
-    """Process articles from feed data: transform URLs and clean HTML."""
+    """Process articles from feed data: convert to Article objects, transform URLs and clean HTML."""
     all_articles = []
 
     for feed_data in feed_data_list:
-        for article in feed_data["articles"]:
+        for entry in feed_data["articles"]:
+            # Validate entry has required fields
+            if not validate_article(entry):
+                continue
+
+            # Create Article from feed entry
+            article = Article.from_feed_entry(entry)
+
             # Transform article URL to archive URL
             article.link = transform_article_url(article.link)
 
