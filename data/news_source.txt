@@ -1,9 +1,75 @@
 [
   {
+    "title": "Stocks Rally as Oil Prices Edge Higher After Venezuela Shock | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fstocks-rally-as-oil-prices-edge-higher-closing-bell-video",
+    "published": "Mon, 05 Jan 2026 22:37:24 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Asian Stocks Poised to Extend Record Global Rally: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
+    "published": "Mon, 05 Jan 2026 22:30:02 CST",
+    "summary": "Asian stocks were set for a positive open Tuesday, extending a record high for\nglobal equities as investors looked past geopolitical concerns to snap up tech\nstocks. Gold, oil and Treasuries all climbed.\n\n"
+  },
+  {
+    "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
+    "published": "Mon, 05 Jan 2026 22:21:39 CST",
+    "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
+  },
+  {
+    "title": "Light Street Gains 37% in Big Year for Stock-Picking Hedge Funds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flight-street-gains-37-in-big-year-for-stock-picking-hedge-funds",
+    "published": "Mon, 05 Jan 2026 22:14:40 CST",
+    "summary": "Light Street Capital Management soared more than 37% last year, outperforming\nother stock-picking hedge funds, and making investors whole following steep\nlosses in 2021 and 2022.\n\n"
+  },
+  {
+    "title": "Chevron’s Risky Bet to Stay in Venezuela May Now Give It an Advantage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html",
+    "published": "Mon, 05 Jan 2026 22:05:43 CST",
+    "summary": "The second-largest U.S. oil company, which kept pumping oil in the country\nafter others left, could find it relatively easy to expand its operations if\nthe political conditions there improve.\n\n"
+  },
+  {
+    "title": "Stablecoin Banking Startup Kontigo to Repay Customers After Hack",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstablecoin-banking-startup-kontigo-to-repay-customers-after-hack",
+    "published": "Mon, 05 Jan 2026 22:05:11 CST",
+    "summary": "Latin America-focused banking startup Kontigo plans to reimburse more than\n1,000 customers after a hack that affected some $340,905 worth of their\nstablecoins, the company said in an X statement on Monday.\n\n"
+  },
+  {
+    "title": "Maduro Capture Puts Spotlight on Maha’s Venezuela Oil Project",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmaduro-capture-puts-spotlight-on-maha-s-venezuela-oil-project",
+    "published": "Mon, 05 Jan 2026 22:04:58 CST",
+    "summary": "Maha Capital, a Swedish energy company with rights to a languishing oil\nproject in Venezuela, is considering partnerships after Nicolas Maduro’s\ncapture could open the industry to foreign investment.\n\n"
+  },
+  {
+    "title": "Bets on Maduro, Jesus Reveal Promise and Risks of Prediction Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-05%2Fkalshi-and-polymarket-use-sports-gambling-as-entry-point-for-prediction-markets",
+    "published": "Mon, 05 Jan 2026 22:00:15 CST",
+    "summary": "Prediction markets are selling themselves as an information hack for the\nmodern economy\n\n"
+  },
+  {
+    "title": "Hedge Funds Ramped Up Bullish Oil Bets Ahead of Maduro’s Capture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhedge-funds-ramped-up-bullish-oil-bets-ahead-of-maduro-s-capture",
+    "published": "Mon, 05 Jan 2026 21:54:43 CST",
+    "summary": "Hedge funds boosted bullish bets on crude to the most since November in the\nweek before the US capture of Venezuelan President Nicolás Maduro as markets\nweighed mounting speculation over imminent land strikes on the South American\ncountry.\n\n"
+  },
+  {
+    "title": "Brazil Fintech PicPay Files for US IPO With Claure Set to Invest",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbrazil-fintech-picpay-files-for-us-ipo-with-claure-set-to-invest",
+    "published": "Mon, 05 Jan 2026 21:42:43 CST",
+    "summary": "PicPay, the Brazilian mobile banking app owned by the billionaire Batista\nfamily’s investment holding company, has filed for a US initial public\noffering showing a 79% increase in profit in the first nine months of 2025.\n\n"
+  },
+  {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
     "published": "Mon, 05 Jan 2026 21:33:14 CST",
     "summary": "The energy sector of the S&P 500 rose 2.7 percent on Monday, lifting the\nbroader market.\n\n"
+  },
+  {
+    "title": "Hedge Fund Shiprock Snags Converium’s Cura in Latest EM Hire",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhedge-fund-shiprock-snags-converium-s-cura-in-latest-em-hire",
+    "published": "Mon, 05 Jan 2026 21:15:55 CST",
+    "summary": "Shiprock Capital Management hired Nadir Cura as the London-based hedge fund\nbuilds up its roster of emerging-market specialists, according to people\nfamiliar with the matter.\n\n"
   },
   {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
@@ -84,12 +150,6 @@
     "summary": "Markets are reacting to the news the US ousted Venezuelan President Nicolás\nMaduro largely in stride. Jim Craige, CIO and Head of Emerging Markets at\nStone Harbor Investment Partners, said his firm has been investing in\nVenezuela for the past year. He discussed the potential implications for\nemerging markets on Bloomberg ETF IQ with Scarlet Fu, Katie Greifeld and Eric\nBalchunas. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "UniCredit Converts Alpha Bank Stake to Direct Holding of 29.8%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Funicredit-converts-alpha-bank-stake-to-direct-holding-of-29-8",
-    "published": "Mon, 05 Jan 2026 19:11:49 CST",
-    "summary": "UniCredit SpA converted its synthetic holding in Greek lender Alpha Bank SA\ninto actual shares, bringing its direct stake and voting rights to around\n29.8%, the Milan-based bank said in a statement Monday.\n\n"
-  },
-  {
     "title": "China’s Oil Deal With Venezuela Faces Turning Point",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fvenezuela-oil-china-deal.html",
     "published": "Mon, 05 Jan 2026 19:10:29 CST",
@@ -120,46 +180,10 @@
     "summary": "A group representing some of the world’s largest soybean traders is exiting a\nlandmark deal created in Brazil to protect the Amazon against deforestation.\n\n"
   },
   {
-    "title": "Ecofi's Georges Sees More Momentum for Europe Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fecofi-s-george-sees-more-momentum-for-europe-stocks-video",
-    "published": "Mon, 05 Jan 2026 18:38:25 CST",
-    "summary": "Karen Georges, a portfolio manager at Ecofi Investments, discusses the key\nfactors driving momentum in European equities in 2026. Georges spoke with Matt\nMiller and Paul Sweeney on December 31, 2025. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Fvenezuela-caribbean-stranded-travelers.html",
     "published": "Mon, 05 Jan 2026 18:30:10 CST",
     "summary": "Mass flight cancellations during peak holiday travel season have forced\ntravelers to miss school and work and to spend thousands on extended tropical\nvacations.\n\n"
-  },
-  {
-    "title": "BMO Hires Trahan as New Investment Strategist After Belski Departure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbmo-hires-trahan-as-new-investment-strategist-after-belski-departure",
-    "published": "Mon, 05 Jan 2026 18:24:32 CST",
-    "summary": "Bank of Montreal’s capital markets unit has hired François Trahan as chief\ninvestment strategist, according to a person familiar with the matter.\n\n"
-  },
-  {
-    "title": "Trump Signals New World Order | Open Interest 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fopen-interest-1-5-2026-video",
-    "published": "Mon, 05 Jan 2026 18:20:57 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" President Trump vows to “run” Venezuela--for now--\nas he reshapes the global order. And as the fallout unfolds, new questions\nemerge about who could be next. We talk to energy veteran Ed Morse, Hartree\nPartners Senior Advisor, about what it all means for global oil markets. Plus,\nGreylock Capital Chairman and CEO Hans Humes, a longtime investor in\nVenezuelan debt, joined Bloomberg Open Interest to talk about how investors\nshould be digesting the news. Meanwhile, U.S. manufacturing contracts sharply,\nposting its steepest decline since 2024. Snap-on Chairman and CEO Nicholas\nPinchuk says demand is still solid, but tariffs, labor shortages, and\nregulatory costs are forcing small manufacturers to hit pause. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Banks Snatch Up Mortgage Bonds That Saw Best Returns Since 2002",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbanks-snatch-up-mortgage-bonds-that-saw-best-returns-since-2002",
-    "published": "Mon, 05 Jan 2026 18:06:30 CST",
-    "summary": "Flush with deposits, US banks are buying up mortgage bonds and betting that\nthe asset class will get a further boost in 2026 from relaxed capital rules.\n\n"
-  },
-  {
-    "title": "Being Bullish Has Paid Off: Dudley",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fbeing-bullish-has-paid-off-dudley-video",
-    "published": "Mon, 05 Jan 2026 18:00:04 CST",
-    "summary": "Katrina Dudley, Senior Investment Strategist at Franklin Templeton Public\nMarkets, sees tailwinds from projected earnings growth, rate cuts and greater\nmarket breadth in 2026. She speaks to Bloomberg's Matt Miller and Dani Burger\non \"Open Interest.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Rodriguez Can Manage Venezuela, Hans Humes Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ffor-review-interview-of-hans-humes-on-us-intervention-and-venezuela-s-future",
-    "published": "Mon, 05 Jan 2026 17:58:29 CST",
-    "summary": "Hans Humes, chairman and CEO of Greylock Capital, was interviewed on January\n5, 2026, following the arrest of Venezuelan president Nicolas Maduro in New\nYork. The discussion covered the surprise and global implications of the US\noperation, the roles of key Venezuelan figures like Delsy Rodriguez, and the\nchallenges of transitioning Venezuela from decades of authoritarian rule.\nHumes highlighted the complexities of regime change, the resilience of\nVenezuela’s economic operators under sanctions, and the influence of foreign\npowers such as China and Russia. He noted that the US move could reshape\nglobal energy dynamics and reflects broader geopolitical competition,\nparticularly with China. Original filename:\n20260105_164041_Interview_of_Hans_Humes_on_US_Intervention_and_Venezuela_s_F.mp4\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
@@ -168,10 +192,10 @@
     "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
   },
   {
-    "title": "High-Grade Bond Sales See Busiest Day Since September",
+    "title": "Firms Swarm Debt Market With $37 Billion in High-Grade Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhigh-grade-corporate-bond-sales-see-busiest-day-since-september",
     "published": "Mon, 05 Jan 2026 17:23:55 CST",
-    "summary": "General Motors Co.’s auto-financing arm and gas pipeline operator Williams\nCos. were among the companies that returned to the debt market after the\nholiday break, marking the busiest day for high-grade bond offerings in four\nmonths and kicking off what’s expected to be a record year for such issuance.\n\n"
+    "summary": "Firms sold $37 billion of investment-grade bonds in the US on the first Monday\nof 2026, kicking off what’s expected to be a record year for issuance.\n\n"
   },
   {
     "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
@@ -222,12 +246,6 @@
     "summary": "Versant Media Group Inc., the parent of CNBC, USA and other cable-TV networks,\nfell 13% in its first official day of trading after being spun off from\nComcast Corp.\n\n"
   },
   {
-    "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
-    "published": "Mon, 05 Jan 2026 15:06:05 CST",
-    "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
-  },
-  {
     "title": "US Stocks Rise as Venezuela ‘Spillover’ Seen Muted; Tech, Energy Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-stocks-rise-as-venezuela-spillover-seen-muted-tech-energy-gain",
     "published": "Mon, 05 Jan 2026 14:52:32 CST",
@@ -268,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-global-order.html",
     "published": "Mon, 05 Jan 2026 13:24:47 CST",
     "summary": "The U.S. seizure of Venezuela’s president has governments, executives and\ninvestors bracing for wide-reaching business and geopolitical fallout.\n\n"
-  },
-  {
-    "title": "Harold Hamm’s Continental Expands Push Into Vaca Muerta",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fharold-hamm-s-continental-expands-push-into-vaca-muerta-shale",
-    "published": "Mon, 05 Jan 2026 12:21:37 CST",
-    "summary": "Billionaire Harold Hamm’s Continental Resources reached an agreement to buy\nassets in Argentina from Pan American Energy, expanding its push into the Vaca\nMuerta shale basin.\n\n"
   },
   {
     "title": "‘Blood in the water’: Bari Weiss’s chaotic first three months in charge of CBS News",
@@ -336,16 +348,10 @@
     "summary": "The dollar pulled back from its strongest level in two weeks after a reading\nof US manufacturing activity shrank last month by the most since 2024, wiping\nout gains seen after the US capture of Venezuela’s President Nicolás Maduro.\n\n"
   },
   {
-    "title": "TSMC Shares Jump Most Since April After Goldman Lifts Target",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftsmc-shares-jump-most-since-april-after-goldman-lifts-target-35",
-    "published": "Mon, 05 Jan 2026 03:51:43 CST",
-    "summary": "Taiwan Semiconductor Manufacturing Co. shares climbed by the most since April,\nas the world’s largest contract chipmaker rides a continued wave of optimism\nover artificial intelligence demand into the new year.\n\n"
-  },
-  {
     "title": "Emerging Currencies Shrug Off Weakness as USD Loses Haven Appeal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
     "published": "Mon, 05 Jan 2026 01:52:30 CST",
-    "summary": "Emerging-market currencies nearly erased earlier drops as the dollar lost\nsteam on Monday even while the US capture of Venezuela’s leader Nicolas Maduro\nincreased the perception of geopolitical risks.\n\n"
+    "summary": "Emerging-market currencies held steady as the dollar weakened on Monday even\nas the US capture of Venezuela’s leader Nicolas Maduro increased the\nperception of geopolitical risks.\n\n"
   },
   {
     "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
@@ -606,12 +612,6 @@
     "summary": "Some start-ups, blurring the lines between home and office, are embracing a\n“no shoes” policy.\n\n"
   },
   {
-    "title": "Gone in 2025: A Yearlong Procession of Giants",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fobituaries%2F2025-deaths-obituaries.html",
-    "published": "Fri, 02 Jan 2026 06:13:11 CST",
-    "summary": "Marquee names all, they found international fame in the arts, politics, the\nsciences and beyond.\n\n"
-  },
-  {
     "title": "Can F.C. Barcelona, the Most Indebted Team in Global Soccer, Fix Its Finances?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fworld%2Feurope%2Fbarcelona-debt-soccer.html",
     "published": "Fri, 02 Jan 2026 05:00:08 CST",
@@ -790,12 +790,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fbusiness%2Fnpr-katherine-maher.html",
     "published": "Tue, 30 Dec 2025 10:00:09 CST",
     "summary": "Katherine Maher has taken an unyielding approach to NPR’s biggest battles —\nwhich has sometimes put her at odds with her colleagues in public media.\n\n"
-  },
-  {
-    "title": "Louis V. Gerstner, Who Revived a Faltering IBM in the ’90s, Dies at 83",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Flouis-v-gerstner-dead.html",
-    "published": "Mon, 29 Dec 2025 23:20:24 CST",
-    "summary": "Installed as an outsider, he engineered a comeback, shifting the company’s\nfocus from a waning mainframe computer business toward consulting and\nservices.\n\n"
   },
   {
     "title": "Silver futures log worst day since 2021, retreating sharply from record",
