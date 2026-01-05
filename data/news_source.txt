@@ -1,5 +1,59 @@
 [
   {
+    "title": "Corporation for Public Broadcasting Votes to Shut Down",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fmedia%2Fcorporation-for-public-broadcasting.html",
+    "published": "Mon, 05 Jan 2026 20:41:04 CST",
+    "summary": "Executives debated whether to allow the corporation to lie dormant after\nfederal funding ended last year, but decided against it.\n\n"
+  },
+  {
+    "title": "Jamie Dimon’s $770 Million Haul Shows How Bankers Are on Top Again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html",
+    "published": "Mon, 05 Jan 2026 20:33:32 CST",
+    "summary": "The Trump administration is lifting regulations, and deal making is heating\nup. For Jamie Dimon, being JPMorgan Chase’s chief executive was more lucrative\nin 2025 than ever.\n\n"
+  },
+  {
+    "title": "Investors Pull Money From Australia on Rate Risks, Weak Profits",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Finvestors-pull-money-from-australia-on-rate-risks-weak-profits",
+    "published": "Mon, 05 Jan 2026 20:30:00 CST",
+    "summary": "A pullback from Australian assets is accelerating as investors shift capital\ntoward hot markets globally that promise returns far outpacing muted prospects\nat home.\n\n"
+  },
+  {
+    "title": "How Chevron Aims to Tap More Oil Below Kazakhstan’s Grassy Plains",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchevron-kazakhstan-oil.html",
+    "published": "Mon, 05 Jan 2026 20:22:33 CST",
+    "summary": "After spending nearly $50 billion to expand the country’s Tengiz oil field,\nthe American oil giant and its partners encounter more uncertainty.\n\n"
+  },
+  {
+    "title": "Maduro Pleads Not Guilty in Narco-Terrorism Case in US Court",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fmaduro-pleads-not-guilty-in-narco-terrorism-case-in-us-video-mk1lmwyr",
+    "published": "Mon, 05 Jan 2026 20:14:22 CST",
+    "summary": "Ousted Venezuela President Nicolás Maduro appeared in a New York City\ncourtroom on Monday where he pleaded not guilty to US charges in a narco-\nterrorism case against him, kicking off an extraordinary legal battle with\nmajor geopolitical ramifications. Myles Miller explains what went on in the\ncourtroom. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Stocks Rally as Investors Bet on Return to Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
+    "published": "Mon, 05 Jan 2026 20:00:24 CST",
+    "summary": "The energy sector of the S&P 500 rose 3 percent on Monday, lifting the broader\nmarket.\n\n"
+  },
+  {
+    "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fclimate%2Fglyphosate-roundup-retracted-study.html",
+    "published": "Mon, 05 Jan 2026 19:55:04 CST",
+    "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active\ningredient, glyphosate, have led to calls for the E.P.A. to reassess the\nwidely used chemical.\n\n"
+  },
+  {
+    "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for a Third Month",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-cuts-flagship-oil-price-to-asia-for-a-third-month",
+    "published": "Mon, 05 Jan 2026 19:47:40 CST",
+    "summary": "Saudi Arabia dropped the price of its flagship crude grade to Asia for a third\nmonth amid persistent signs of oversupply in the market.\n\n"
+  },
+  {
+    "title": "'GRIFT' ETF In Trump Era Hits A Wall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2F-grift-etf-in-trump-era-hits-a-wall-video",
+    "published": "Mon, 05 Jan 2026 19:47:39 CST",
+    "summary": "The Tuttle Capital Government Grift ETF -- ticker GRFT -- is designed to\ntarget firms with apparent ties to Washington powerbrokers, from cabinet\nofficials to stock-trading lawmakers. Yet no major exchange has agreed to list\nit, according to Matt Tuttle, chief executive of Tuttle Capital. Bloomberg's\nIsabelle Lee discussed the story on \"Bloomberg ETF IQ\" with Scarlet Fu, Katie\nGreifeld and Eric Balchunas. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fstocks-making-the-biggest-moves-midday-coin-anet-cvx-hal.html",
     "published": "Mon, 05 Jan 2026 19:34:35 CST",
@@ -16,12 +70,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fwe-ve-been-investing-in-venezuela-for-one-year-craige-video",
     "published": "Mon, 05 Jan 2026 19:21:50 CST",
     "summary": "Markets are reacting to the news the US ousted Venezuelan President Nicolás\nMaduro largely in stride. Jim Craige, CIO and Head of Emerging Markets at\nStone Harbor Investment Partners, said his firm has been investing in\nVenezuela for the past year. He discussed the potential implications for\nemerging markets on Bloomberg ETF IQ with Scarlet Fu, Katie Greifeld and Eric\nBalchunas. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Stocks Rally as Investors Bet on Return to Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
-    "published": "Mon, 05 Jan 2026 19:18:30 CST",
-    "summary": "The energy sector of the S&P 500 rose 2.9 percent on Monday, lifting the\nbroader market.\n\n"
   },
   {
     "title": "UniCredit Converts Alpha Bank Stake to Direct Holding of 29.8%",
@@ -48,7 +96,7 @@
     "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
   },
   {
-    "title": "Canadian Heavy Crude Prices Weaken After Overthrow of Maduro",
+    "title": "Canada Heavy Crude Slumps as Maduro Overthrow Shakes Markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcanadian-heavy-crude-prices-weaken-after-overthrow-of-maduro",
     "published": "Mon, 05 Jan 2026 18:52:40 CST",
     "summary": "The shocking capture of Venezuelan President Nicolas Maduro over the weekend\nby US forces is already reverberating across the oil market in the Americas,\nparticularly Canada.\n\n"
@@ -114,12 +162,6 @@
     "summary": "General Motors Co.’s auto-financing arm and gas pipeline operator Williams\nCos. were among the companies that returned to the debt market after the\nholiday break, marking the busiest day for high-grade bond offerings in four\nmonths and kicking off what’s expected to be a record year for such issuance.\n\n"
   },
   {
-    "title": "Five Thoughts to Kick Off the New Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-05%2Ffive-thoughts-to-kick-off-the-new-year",
-    "published": "Mon, 05 Jan 2026 17:07:31 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fminneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html",
     "published": "Mon, 05 Jan 2026 17:00:38 CST",
@@ -150,12 +192,6 @@
     "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
   },
   {
-    "title": "UK Government Opens Consultation on Expanding Bills Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fuk-government-opens-consultation-on-expanding-bills-market",
-    "published": "Mon, 05 Jan 2026 15:57:25 CST",
-    "summary": "The UK government has opened a consultation on the treasury bill market as it\nconsiders whether to further tilt borrowing away from long bonds and toward\nultra short-dated debt.\n\n"
-  },
-  {
     "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
     "published": "Mon, 05 Jan 2026 15:56:57 CST",
@@ -166,18 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
     "published": "Mon, 05 Jan 2026 15:56:37 CST",
     "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
-  },
-  {
-    "title": "Transport Stocks Eye Record on Economic Growth Hopes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftransport-stocks-eye-record-on-hopes-of-economic-growth-in-2026",
-    "published": "Mon, 05 Jan 2026 15:41:49 CST",
-    "summary": "A gauge of US transportation stocks is on track to set a record, capping a\nsteady recovery after a long slump fueled by the global trade turmoil last\nyear.\n\n"
-  },
-  {
-    "title": "Rebuilding Venezuela's Oil Industry Will Cost Billions, Morse Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fed-morse-on-global-oil-risks-video",
-    "published": "Mon, 05 Jan 2026 15:19:19 CST",
-    "summary": "President Donald Trump’s plan to revive Venezuela’s oil industry could cost\nover $100 billion. Energy veteran Ed Morse, Hartree Partners Senior Advisor,\njoined Bloomberg Open Interest to explain why rebuilding won’t move prices\nfast--and what it means for global oil markets. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -196,6 +220,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Ffirst-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html",
     "published": "Mon, 05 Jan 2026 14:47:00 CST",
     "summary": "The drug's cash prices are among the lowest on the market, ranging from $149\nto $299 per month, depending on the dose.\n\n"
+  },
+  {
+    "title": "Colombia’s Bonds Drop Amid Trump and Petro Latest Spat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcolombia-assets-drop-as-trump-and-petro-spar-over-us-threats",
+    "published": "Mon, 05 Jan 2026 14:25:22 CST",
+    "summary": "Colombia’s dollar bonds fell on Monday as tensions mounted between US\nPresident Donald Trump and his counterpart in the South American nation in the\nwake of Nicolas Maduro’s ouster in Venezuela.\n\n"
   },
   {
     "title": "‘Chinese Peptides’ Are the Latest Biohacking Trend in the Tech World",
@@ -228,18 +258,6 @@
     "summary": "Billionaire Harold Hamm’s Continental Resources reached an agreement to buy\nassets in Argentina from Pan American Energy, expanding its push into the Vaca\nMuerta shale basin.\n\n"
   },
   {
-    "title": "Apollo Leads $1.2 Billion Investment in Brad Jacobs’ QXO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fapollo-leads-1-2-billion-investment-in-brad-jacobs-qxo",
-    "published": "Mon, 05 Jan 2026 12:20:42 CST",
-    "summary": "An investor group led by Apollo Global Management Inc. has agreed to invest\n$1.2 billion in QXO Inc. to support the building products company’s\nacquisition strategy.\n\n"
-  },
-  {
-    "title": "How Chevron Aims to Tap More Oil Below Kazakhstan’s Grassy Plains",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchevron-kazakhstan-oil.html",
-    "published": "Mon, 05 Jan 2026 12:03:55 CST",
-    "summary": "After spending nearly $50 billion to expand the country’s Tengiz oil field,\nthe American oil giant and its partners encounter more uncertainty.\n\n"
-  },
-  {
     "title": "‘Blood in the water’: Bari Weiss’s chaotic first three months in charge of CBS News",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F05%2Fbari-weiss-cbs-news",
     "published": "Mon, 05 Jan 2026 12:00:34 CST",
@@ -268,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fus%2Fpolitics%2Fsupreme-court-study-rich-poor.html",
     "published": "Mon, 05 Jan 2026 10:01:54 CST",
     "summary": "A new study found that the court’s Republican appointees voted for the\nwealthier side in cases 70 percent of the time in 2022, up from 45 percent in\n1953.\n\n"
-  },
-  {
-    "title": "Dimon’s $770 Million Windfall Shows How Banking Is Great Again",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html",
-    "published": "Mon, 05 Jan 2026 10:01:44 CST",
-    "summary": "The Trump administration is lifting regulations, and deal making is heating\nup. For Jamie Dimon, being JPMorgan Chase’s chief executive was more lucrative\nin 2025 than ever.\n\n"
   },
   {
     "title": "Why are malnutrition deaths soaring in America?",
@@ -330,6 +342,12 @@
     "summary": "Emerging-market currencies nearly erased earlier drops as the dollar lost\nsteam on Monday even while the US capture of Venezuela’s leader Nicolas Maduro\nincreased the perception of geopolitical risks.\n\n"
   },
   {
+    "title": "Oil Edges Up as Traders Weigh Future of Venezuelan Production",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
+    "published": "Sun, 04 Jan 2026 23:02:56 CST",
+    "summary": "Oil crept higher as the capture of Venezuelan President Nicolás Maduro by US\nforces opened new currents of geopolitical risk and as Washington appears set\nto continue clamping down on shipments from the South American nation.\n\n"
+  },
+  {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html",
     "published": "Sun, 04 Jan 2026 20:17:35 CST",
@@ -339,7 +357,7 @@
     "title": "US Stocks Rise as Traders Unfazed by Maduro Ouster: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "US stocks galloped higher on Monday, as investors snapped up tech shares even\nwhile the ouster of Venezuela’s President Nicolas Maduro fanned worries over\ngeopolitical risk. Oil prices rose, along with gold.\n\n"
+    "summary": "US stocks headed higher on Monday, as investors snapped up tech shares even\nwhile the capture of Venezuela’s President Nicolas Maduro fanned worries over\ngeopolitical risk. Oil prices rose, along with gold.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -364,12 +382,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Sun, 04 Jan 2026 10:00:39 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
-  },
-  {
-    "title": "Saudis Signal Intention to Ease Pace of Bond Sales",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudis-signal-intention-to-ease-up-on-international-bond-sales",
-    "published": "Sun, 04 Jan 2026 08:55:36 CST",
-    "summary": "Saudi Arabia sees lower international bond sales in 2026, signaling a halt to\nthree years of rapid growth in borrowing activities that have made the kingdom\none of the busiest sovereign issuers in global emerging markets.\n\n"
   },
   {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
@@ -472,12 +484,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fsaks-ceo-marc-metrick-steps-down.html",
     "published": "Fri, 02 Jan 2026 21:34:55 CST",
     "summary": "Saks Global’s executive chairman, Richard Baker, is taking over the luxury\nretailer he created with the 2024 acquisition of Neiman Marcus and Bergdorf\nGoodman.\n\n"
-  },
-  {
-    "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fclimate%2Fglyphosate-roundup-retracted-study.html",
-    "published": "Fri, 02 Jan 2026 20:25:58 CST",
-    "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active\ningredient, glyphosate, have led to calls for the E.P.A. to reassess the\nwidely used chemical.\n\n"
   },
   {
     "title": "China’s BYD Surpasses Tesla as World Leader in Electric Car Sales",
