@@ -1,15 +1,135 @@
 [
   {
+    "title": "Why the ‘starter home’ feels so out of reach in today’s housing market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fstarter-home-disappearance%2F",
+    "published": "Mon, 05 Jan 2026 11:28:28 CST",
+    "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
+  },
+  {
+    "title": "China’s Oil Deal With Venezuela Faces Turning Point",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fvenezuela-oil-china-deal.html",
+    "published": "Mon, 05 Jan 2026 11:12:40 CST",
+    "summary": "Beijing has lent billions to Caracas in recent decades, and the fate of money\nit is owed is in question after the ouster of Venezuela’s leader.\n\n"
+  },
+  {
+    "title": "Air India Kicks Off Search to Replace CEO Amid Persistent Losses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fair-india-kicks-off-search-to-replace-ceo-amid-persistent-losses",
+    "published": "Mon, 05 Jan 2026 11:12:02 CST",
+    "summary": "The Tata Group has started scouting for a new Chief Executive Officer for Air\nIndia as it grows impatient with the carrier’s slow recovery after a deadly\ncrash that killed over 241 passengers and crew last year, people familiar with\nthe matter said.\n\n"
+  },
+  {
+    "title": "US Dollar on ‘Weakening Trajectory’ Through 2026, Says Rabobank’s Foley",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fus-dollar-on-weakening-trajectory-through-2026-foley-video",
+    "published": "Mon, 05 Jan 2026 11:04:04 CST",
+    "summary": "Jane Foley, head of FX strategy at Rabobank, examines the geopolitical risks\nimpacting currencies following the ouster of Venezuela’s President Nicolas\nMaduro. Foley sees “choppy trading” for the US dollar through the year as the\ncurrency continues to weaken. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Arctic Blast Causes Freezing Weather and Snow Warnings in Europe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Farctic-blast-causes-freezing-weather-and-snow-warnings-in-europe",
+    "published": "Mon, 05 Jan 2026 11:03:23 CST",
+    "summary": "A blast of Arctic air is spreading bitterly cold weather across much of\nEurope, boosting power demand and disrupting transport in some areas.\n\n"
+  },
+  {
+    "title": "Universal Music to Invest $80 Million in Bollywood’s Excel",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Funiversal-music-to-invest-80-million-in-bollywood-s-excel",
+    "published": "Mon, 05 Jan 2026 11:02:16 CST",
+    "summary": "Universal Music Group NV’s India unit has agreed to invest 7.2 billion rupees\n($80 million) for a minority stake in India’s Excel Entertainment Pvt., a top\nBollywood production company, to boost its presence in the South Asian\ncountry.\n\n"
+  },
+  {
+    "title": "China’s Longi to Replace Silver in Solar Panels to Reduce Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs",
+    "published": "Mon, 05 Jan 2026 10:56:45 CST",
+    "summary": "LONGi Green Energy Technology Co. will begin using base metals instead of\nsilver in its solar cells, marking a major shift as surging prices of the\nprecious metal increase cost pressure on manufacturers already struggling with\nintense competition and deep losses.\n\n"
+  },
+  {
+    "title": "Wall Street Bulls Eye Milder Gains in 2026 After 3-Year Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fwall-street-bulls-eye-milder-gains-in-2026-after-3-year-surge",
+    "published": "Mon, 05 Jan 2026 10:30:00 CST",
+    "summary": "An eye-popping three-year run that added 78% to US equities isn’t deterring\nWall Street’s persistently bullish prognosticators. But this year’s optimism\ncomes with a dose of caution.\n\n"
+  },
+  {
+    "title": "Treasuries Advance as Drop in Oil Prices Eases Inflation Fears",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftreasuries-advance-as-drop-in-oil-prices-eases-inflation-fears",
+    "published": "Mon, 05 Jan 2026 10:10:03 CST",
+    "summary": "Treasuries are on course for their first gains in a week, as a fall in oil\nprices following the US capture of Venezuela’s president is easing concerns\nabout persistent inflation.\n\n"
+  },
+  {
+    "title": "Investors Weigh Fallout From Maduro's Ouster | The Asia Trade 1/5/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-asia-trade-1-5-2026-video",
+    "published": "Mon, 05 Jan 2026 10:09:15 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fus%2Fpolitics%2Fsupreme-court-study-rich-poor.html",
+    "published": "Mon, 05 Jan 2026 10:01:53 CST",
+    "summary": "A new study found that the court’s Republican appointees voted for the\nwealthier side in cases 70 percent of the time in 2022, up from 45 percent in\n1953.\n\n"
+  },
+  {
+    "title": "Trump’s Goals for Reviving Venezuela’s Oil Industry Will Not Come Easily or Cheaply",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-us-chevron.html",
+    "published": "Mon, 05 Jan 2026 10:01:53 CST",
+    "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
+  },
+  {
+    "title": "Dimon’s $770 Million Windfall Shows How Banking Is Great Again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html",
+    "published": "Mon, 05 Jan 2026 10:01:44 CST",
+    "summary": "The Trump administration is lifting regulations, and deal making is heating\nup. For Jamie Dimon, being JPMorgan Chase’s chief executive was more lucrative\nin 2025 than ever.\n\n"
+  },
+  {
+    "title": "Apollo Said to Invest in Brad Jacobs’ Distribution Firm QXO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fapollo-said-to-invest-in-brad-jacobs-distribution-company-qxo",
+    "published": "Mon, 05 Jan 2026 10:00:51 CST",
+    "summary": "An investor group led by Apollo Global Management Inc. has agreed to invest\nmore than $1 billion in QXO Inc. to support the building products company’s\nacquisition strategy, according to people familiar with the situation.\n\n"
+  },
+  {
+    "title": "Why are malnutrition deaths soaring in America?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F29%2Fwhy-are-malnutrition-deaths-soaring-america%2F",
+    "published": "Mon, 05 Jan 2026 10:00:40 CST",
+    "summary": "According to data, malnutrition deaths have jumped in the United States,\nespecially among those 85 and older. Here’s why the numbers suddenly started\nto rise.\n\n"
+  },
+  {
+    "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
+    "published": "Mon, 05 Jan 2026 10:00:05 CST",
+    "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
+  },
+  {
+    "title": "UBS Offers First AT1 Since Credit Suisse Ruling, Capital Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fubs-offers-first-at1-since-credit-suisse-ruling-capital-plans",
+    "published": "Mon, 05 Jan 2026 09:56:03 CST",
+    "summary": "UBS Group AG is selling Additional Tier 1 debt for the first time since Swiss\nlawmakers floated changes that could expand its use to meet capital\nrequirements, and as courts weigh the legality of the Credit Suisse AT1\nwritedown.\n\n"
+  },
+  {
+    "title": "China decries U.S. action in Venezuela — even as it guards billions at stake",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchina-response-us-venezuela-strike-economic-interests.html",
+    "published": "Mon, 05 Jan 2026 09:52:22 CST",
+    "summary": "China's immediate priority in the wake of the U.S. attack on Venezuela is to\nprotect economic interests, analysts said.\n\n"
+  },
+  {
+    "title": "Tesla China Shipments Fell 7% Last Year as EV Maker Lost Ground",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftesla-china-sales-drop-in-2025-as-ev-maker-sees-global-slowdown",
+    "published": "Mon, 05 Jan 2026 09:52:03 CST",
+    "summary": "Tesla Inc.’s China factory shipments dropped in 2025 despite a bump in\nDecember, as the Elon Musk-led carmaker struggled with a slowdown in global\nsales and lost its No. 1 spot.\n\n"
+  },
+  {
+    "title": "UK Household Borrowing Holds Up Better Than Feared Before Budget",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fuk-mortgage-approvals-fall-to-five-month-low-ahead-of-budget",
+    "published": "Mon, 05 Jan 2026 09:45:00 CST",
+    "summary": "UK demand for home loans fell less than expected and consumer borrowing surged\nin November, suggesting households remained more resilient than feared in the\nrun-up to Labour’s tax-raising budget.\n\n"
+  },
+  {
     "title": "Saudi Arabia Tests Bond Market Appetite After Signaling Slowdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-tests-bond-market-appetite-after-signaling-slowdown",
     "published": "Mon, 05 Jan 2026 09:32:19 CST",
     "summary": "Saudi Arabia is starting 2026 with a benchmark-sized dollar bond, as it\ncontinues its rapid pace of international borrowing to help fund huge projects\nmeant to diversify the economy from oil.\n\n"
   },
   {
-    "title": "Chevron, Oil Stocks Jump as Trump Says US to Run Venezuela",
+    "title": "Chevron, US Oil Stocks Rally as Trump Vows Venezuela Revival",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchevron-oil-stocks-rally-as-trump-says-us-to-run-venezuela",
     "published": "Mon, 05 Jan 2026 09:19:48 CST",
-    "summary": "US oil companies rallied in premarket trading on Monday after President Donald\nTrump said the US plans to “run” Venezuela after ousting Nicolás Maduro over\nthe weekend.\n\n"
+    "summary": "US oil stocks jumped in premarket trading on Monday after President Donald\nTrump pledged to revive the Venezuelan energy sector following the capture of\nNicolás Maduro over the weekend.\n\n"
   },
   {
     "title": "Tech Momentum Drowns Out Venezuela Angst: 3-Minute MLIV",
@@ -60,88 +180,16 @@
     "summary": "Union Properties has been the best-performing stock on the Dubai exchange in\n2025. The developer's stock gained more than 100 percent after already rising\nabout 40 percent in 2024. Amer Khansaheb, Union Properties CEO & Board Member\nspoke to Bloomberg's Horizons Middle East and Africa anchor Joumanna Bercetche\non the property market. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "US-Venezuela Shockwaves: New World Disorder? | Insight with Haslinda Amin 01/05/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Finsight-with-haslinda-amin-1-5-2026-video",
-    "published": "Mon, 05 Jan 2026 08:02:46 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Europe Saw Record Surge in Negative Power Prices in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Feurope-saw-record-surge-in-negative-power-prices-in-2025",
-    "published": "Mon, 05 Jan 2026 08:00:00 CST",
-    "summary": "Surging renewable output overwhelmed Europe’s power grid in 2025, driving\nelectricity prices below zero more often than ever before.\n\n"
-  },
-  {
-    "title": "Dubai Property CEO Expects Supply of New Homes to Moderate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdubai-property-ceo-expects-supply-of-new-homes-to-moderate",
-    "published": "Mon, 05 Jan 2026 07:59:58 CST",
-    "summary": "The chief executive officer of Dubai’s Union Properties PJSC expects surging\nconstruction and land costs to put the brakes on the supply of new homes in\nthe emirate’s booming real-estate market.\n\n"
-  },
-  {
-    "title": "India's Akbaruddin On US-Venezuela Tensions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Findia-s-akbaruddin-on-us-venezuela-tensions-video",
-    "published": "Mon, 05 Jan 2026 07:53:04 CST",
-    "summary": "Former Indian Permanent Representative to the UN and Kautilya School of Public\nPolicy Dean Syed Akbaruddin talks about what India and the global South thinks\nabout the latest developments in US-Venezuela tensions, and what it means for\nthe global order. He speaks with Haslinda Amin on \"Insight with Haslinda\nAmin.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Swings Following Maduro's Capture | Horizons Middle East & Africa 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fhorizons-middle-east-africa-1-5-2026-video",
-    "published": "Mon, 05 Jan 2026 07:46:34 CST",
-    "summary": "Venezuela's acting president says she is inviting the US to work with her\ncountry, after an American operation to capture President Nicolas Maduro. Also\non the show: Oil swings as traders weigh the impact of Maduro's capture by US\nforces; Iran's Supreme Leader has threatened a crackdown on rioters; the US\nhas signed a health agreement with Ivory Coast worth more than $480M. Guests\ninclude: Mario Braga, RANE, Geopolitical Analyst; Amar Bashir, Wealthbrix\nCapital Partners, Head of Fixed Income; Carole Nakhle, Crystol Energy, CEO;\nAmer Khansaheb, Union Properties, CEO & Board Member. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Gao: US Venezuela Move Ends 'Pax Americana'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fgao-us-venezuela-move-ends-pax-americana-video",
-    "published": "Mon, 05 Jan 2026 07:38:07 CST",
-    "summary": "Victor Gao, VP at the Center for China and Globalization, tells Bloomberg that\nBeijing condemns the US action against Nicolas Maduro, calling it the end of\nan era. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Kevin O’Leary on ‘Marty Supreme’ and Notes He Gave Josh Safdie",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html",
     "published": "Mon, 05 Jan 2026 07:37:21 CST",
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
   },
   {
-    "title": "Top Japan Brokerage CEOs See More Gains After Shares Hit Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftop-japan-brokerage-ceos-see-more-gains-after-shares-hit-record",
-    "published": "Mon, 05 Jan 2026 07:13:08 CST",
-    "summary": "As Japan’s stocks hit a record high on the first day of trading this year, the\nchief executive officers of its biggest brokerages are predicting that the\nbest is yet to come.\n\n"
-  },
-  {
-    "title": "Ares Hires CapitaLand’s Gabriel Fong as Partner for Asia Credit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fares-hires-capitaland-s-gabriel-fong-as-partner-for-asia-credit",
-    "published": "Mon, 05 Jan 2026 07:06:17 CST",
-    "summary": "Ares Management Corp. has hired former CapitaLand Investment executive,\nGabriel Fong, as partner for Asia credit, focusing on special situations,\naccording to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Turkey Inflation Slowed at Year-End, Supporting Rate Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fturkey-s-inflation-slowed-further-supporting-2026-rate-cuts",
-    "published": "Mon, 05 Jan 2026 07:03:20 CST",
-    "summary": "Turkish inflation slowed for the third month in a row, potentially allowing\nthe central bank to maintain its downward interest-rate path in the new year.\n\n"
-  },
-  {
-    "title": "China Slams US 'Hegemonic Acts' After Venezuela Strikes | The China Show 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-china-show-1-5-2026-video",
-    "published": "Mon, 05 Jan 2026 06:53:10 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "UK Stocks Rally as FTSE 100 Tests New Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-05%2Fftse-100-venezuela-trump-oil-dollar-pound-what-s-moving-uk-markets-right-now-markets-today-mk0sxgog",
-    "published": "Mon, 05 Jan 2026 06:50:46 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Malaysia Prime Minister Anwar Proposes Term Limit in Bid to Revive Support",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmalaysia-s-anwar-proposes-pm-term-limit-in-bid-to-revive-support",
-    "published": "Mon, 05 Jan 2026 06:15:40 CST",
-    "summary": "Malaysian Prime Minister Anwar Ibrahim pledged to introduce term-limit\nlegislation, delivering on a long-promised campaign pledge as he looks to\nregain support from his key voter base.\n\n"
-  },
-  {
-    "title": "Foreign Venezuela Oil Claims in Doubt After US Intervention",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fforeign-oil-claims-in-venezuela-in-doubt-after-us-intervention",
-    "published": "Mon, 05 Jan 2026 05:45:12 CST",
-    "summary": "The future of billions of barrels of Venezuelan oil that foreign companies are\nentitled to under current agreements has been thrown into doubt following\nWashington’s capture of President Nicolás Maduro over the weekend.\n\n"
+    "title": "Dollar Gains, Peso Falls as Maduro Exit Fuels Geopolitical Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
+    "published": "Mon, 05 Jan 2026 05:18:56 CST",
+    "summary": "The dollar hit its strongest level in two weeks after the US capture of\nVenezuela’s President Nicolás Maduro, while Mexico’s peso retreated amid the\nrising geopolitical tensions.\n\n"
   },
   {
     "title": "Hedge Fund Tribeca Eyes Venezuela Gold Rush After 127% Gain",
@@ -150,10 +198,10 @@
     "summary": "For portfolio manager Ben Cleary, whose hedge fund more than doubled its money\nlast year, Venezuela in the aftermath of Donald Trump’s controversial attack\nis one of the biggest ever opportunities for investors to make money.\n\n"
   },
   {
-    "title": "Blow to China From Venezuela Oil Loss Eased by Hoard at Sea",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fblow-to-china-from-loss-of-venezuela-oil-blunted-by-hoard-at-sea",
-    "published": "Mon, 05 Jan 2026 04:05:20 CST",
-    "summary": "The US’s shock intervention in Venezuela will likely choke oil flows to China,\nalthough the short-term impact will be softened by large volumes of sanctioned\ncrude being stored at sea.\n\n"
+    "title": "Copper Surges Toward Record on Tariff Concerns and Risk-On Mood",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcopper-surges-toward-record-on-tariff-concerns-and-risk-on-mood",
+    "published": "Mon, 05 Jan 2026 02:07:02 CST",
+    "summary": "Copper surged toward a fresh high on concerns over tighter supplies, as well\nas a risk-on mood in wider markets.\n\n"
   },
   {
     "title": "Emerging-Market Stocks Set for Record High Amid AI Optimism",
@@ -168,10 +216,10 @@
     "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
   },
   {
-    "title": "Oil Slips as Traders Weigh Venezuela Outlook After Maduro Ouster",
+    "title": "Oil Steadies as Traders Weigh Future of Venezuelan Production",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
-    "summary": "Oil dipped as investors weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
+    "summary": "Oil steadied as investors weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces and the wider impact on oil-market\ngeopolitics.\n\n"
   },
   {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
@@ -180,10 +228,10 @@
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "Gold, Dollar Up as Stocks Downplay Venezuela Risk: Markets Wrap",
+    "title": "Gold, Dollar Rise on Venezuela as AI Fuels Stocks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Gold and the dollar rose after the US moved to oust Venezuela’s President\nNicolas Maduro over the weekend, while riskier assets remained in demand as\ntechnology stocks outperformed.\n\n"
+    "summary": "Gold and the dollar rose after the ouster of Venezuela’s President Nicolas\nMaduro fanned geopolitical risk. Growth assets remained in demand, with\ntechnology stocks driving gains in equities.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -196,6 +244,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Ftaxes-refunds-workers-seniors-overtime",
     "published": "Sun, 04 Jan 2026 15:00:09 CST",
     "summary": "Trump’s tax bill carved out several areas for tipped workers and older adults,\namong others, to lower their tax bills\n\nUS taxpayers will have a “gigantic refund year in the first quarter” of 2026,\nthe treasury secretary, Scott Bessent, recently said in an interview.\n\nGiven all the untruths that come out of the current administration, you\nwouldn’t be blamed if you don’t believe him. But you should. This year, there\nwill be a significant amount of tax refunds. Why? Well, it’s not tariff cash.\nIt’s because many people overpaid their taxes this year.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Venezuela Bond Traders Bet on More Gains After Maduro Raid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-bond-investors-eye-further-gains-post-maduro-capture",
+    "published": "Sun, 04 Jan 2026 13:45:28 CST",
+    "summary": "Venezuelan bonds are poised to gain after the US captured President Nicolás\nMaduro, setting the stage for the potential regime change that investors in\n$60 billion worth of securities have been betting on.\n\n"
   },
   {
     "title": "From the AI bubble to Fed fears: the global economic outlook for 2026",
@@ -256,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fdealbook%2F2026-economy-business.html",
     "published": "Sat, 03 Jan 2026 13:00:05 CST",
     "summary": "Here are the biggest unknowns the DealBook team will be watching as we cover\nbusiness and the economy this year.\n\n"
-  },
-  {
-    "title": "Michelle Singletary’s money outlook for 2026: What’s in, what’s out",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F03%2Fin-out-money-trends-singletary-predictions%2F",
-    "published": "Sat, 03 Jan 2026 11:00:56 CST",
-    "summary": "Affordability will continue to weigh on many Americans, but there are ways to\nease the burden.\n\n"
   },
   {
     "title": "Why Haven’t Trump’s Tariffs Had a Bigger Impact?",
@@ -498,12 +546,6 @@
     "summary": "A country resort near Paris refused to cover $800 worth of medical and\ncleaning bills for a couple who woke up covered in bites. They’d like their\nstay comped, too.\n\n"
   },
   {
-    "title": "Sovereign Funds Push Into Tech as Assets Swell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-01%2Fsovereign-funds-push-into-tech-as-assets-swell-to-15-trillion",
-    "published": "Thu, 01 Jan 2026 00:00:00 CST",
-    "summary": "Sovereign wealth funds globally amassed a record $15 trillion in assets under\nmanagement in a year when many deepened their technology investments and\nprofited from buoyant markets, according to a new report by Global SWF.\n\n"
-  },
-  {
     "title": "Inside China’s Six-Decade Campaign to Dominate Rare Earths",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F31%2Fbusiness%2Fchina-rare-earths-history.html",
     "published": "Wed, 31 Dec 2025 22:11:24 CST",
@@ -684,40 +726,10 @@
     "summary": "Check out some of the stocks making the biggest moves in midday trading.\n\n"
   },
   {
-    "title": "As Youth Sports Professionalize, Kids Are Burning Out Fast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Fyouth-sports-stress.html",
-    "published": "Mon, 29 Dec 2025 19:18:56 CST",
-    "summary": "A growing body of research shows how pressure from overbearing coaches and\nparents is stunting children’s emotional well-being and leading to injuries.\n\n"
-  },
-  {
-    "title": "How Kevin Hassett Became a Trump Loyalist and Fed Chair Contender",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fus%2Fpolitics%2Fkevin-hassett-fed-chair-independence.html",
-    "published": "Mon, 29 Dec 2025 18:34:24 CST",
-    "summary": "Mr. Hassett’s evolution from conservative economist to defender of the\npresident’s economic agenda has raised questions about how he would lead the\ncentral bank.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: DigitalBridge, Praxis Precision Medicines, Coupang & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F29%2Fstocks-making-the-biggest-moves-premarket-dbrg-prax-cpng.html",
     "published": "Mon, 29 Dec 2025 17:12:14 CST",
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
-  },
-  {
-    "title": "Uber Flags Sexual Misconduct but Many Drivers Stay on the Road",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Fuber-sexual-assault-drivers-complaints.html",
-    "published": "Mon, 29 Dec 2025 10:00:53 CST",
-    "summary": "The company monitors passenger feedback for risky driver behavior. Some\naccused of serious sexual assault had prior records of complaints.\n\n"
-  },
-  {
-    "title": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Fenergy-environment%2Frare-earth-processing-phoenix-tailings.html",
-    "published": "Mon, 29 Dec 2025 10:00:24 CST",
-    "summary": "Companies like Phoenix Tailings, which recently began producing metal in New\nHampshire, are using new processing methods to compete with Chinese suppliers.\n\n"
-  },
-  {
-    "title": "Exploring Jeddah, Saudi Arabia, With an Airline Pilot",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Ftravel%2Fjeddah-saudi-arabia-layover.html",
-    "published": "Mon, 29 Dec 2025 10:00:10 CST",
-    "summary": "On a stopover in Saudi Arabia, the writer strolls along the corniche, lingers\nover coffee and explores the historic heart of this city on the Red Sea.\n\n"
   },
   {
     "title": "China to crack down on AI chatbots around suicide, gambling",
@@ -808,12 +820,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Fais-machine-learning-may-net-productivity-gains-and-influence-fed.html",
     "published": "Tue, 23 Dec 2025 15:47:11 CST",
     "summary": "Artificial intelligence could produce faster gains in worker productivity,\naltering the U.S. labor market and the Federal Reserve's economic outlook.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Novo Nordisk, Huntington Ingalls Industries, Zim Integrated Shipping Services & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Fstocks-making-the-biggest-moves-premarket-nvo-hii-zun.html",
-    "published": "Tue, 23 Dec 2025 14:15:24 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
     "title": "Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report",
@@ -964,12 +970,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F16%2Fbusiness%2Feconomy%2Feurope-auto-emissions-ban.html",
     "published": "Tue, 16 Dec 2025 19:00:16 CST",
     "summary": "A proposal to revise an E.U. law requiring carmakers to stop producing\ncombustion engines by 2035 would offer some relief to automakers, but it sets\nback the region’s climate goals.\n\n"
-  },
-  {
-    "title": "Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F09%2Fus%2Fpolitics%2Ftrump-nvidia-ai-chips-china.html",
-    "published": "Mon, 15 Dec 2025 19:05:22 CST",
-    "summary": "President Trump’s decision to allow Nvidia to sell its chips to China has\nraised questions about whether he is prioritizing short-term economic gain\nover long-term American security interests.\n\n"
   },
   {
     "title": "U.S.-U.K. Trade Deal Hits Stumbling Block",
