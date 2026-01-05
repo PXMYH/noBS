@@ -1,21 +1,81 @@
 [
   {
+    "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fminneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html",
+    "published": "Mon, 05 Jan 2026 16:50:12 CST",
+    "summary": "In a CNBC interview, he said the key now is whether the Fed should be more\nfocused on the labor market or inflation.\n\n"
+  },
+  {
     "title": "U.S. stocks show little reaction to Trump's extraordinary Venezuela action. Why investors see a bull case",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fus-stocks-show-little-reaction-to-trumps-extraordinary-venezuela-action-why-investors-see-a-bull-case.html",
-    "published": "Mon, 05 Jan 2026 15:34:28 CST",
+    "published": "Mon, 05 Jan 2026 16:49:50 CST",
     "summary": "Geopolitical shocks historically have little impact on the stock market, and,\nadditionally, investors do not expect the attack will escalate further.\n\n"
   },
   {
-    "title": "US oil company shares and Venezuelan bonds rally after Maduro seized – business live",
+    "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
+    "published": "Mon, 05 Jan 2026 16:48:02 CST",
+    "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
+  },
+  {
+    "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html",
+    "published": "Mon, 05 Jan 2026 16:19:39 CST",
+    "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
+  },
+  {
+    "title": "US oil company shares and Venezuelan bonds rally after Maduro seized, sending Dow to record high – business live",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F05%2Fgold-price-defence-shares-us-venezuela-maduro-oil-business-live-news-updates",
-    "published": "Mon, 05 Jan 2026 15:21:57 CST",
+    "published": "Mon, 05 Jan 2026 16:16:08 CST",
     "summary": "Rolling coverage of the latest economic and financial news, with gold and\ndefence company shares also higher today\n\n  * **What role could the US play in Venezuela’s ‘bust’ oil industry?**\n\n**The oil price remains in the red this morning, with Brent crude now down 1%\nat $60.15 per barrel.**\n\nAnalysts are in broad agreement that while the Venezuela attack is unlikely to\nboost demand for oil, it also won’t lead to a rapid surge in supply.\n\nThe question is, will traders focus on the potential for future Venezuelan oil\nflooding the market, which could tank the oil price, or will they focus on how\nmuch investment will be needed to get Venezuela to pump more oil? Right now,\nVenezuela pumps less than 1 million barrels per day, at its peak in 1998,\nbefore socialist dictators took control, it was pumping out nearly 3.5 million\nbarrels per day. To get back to this level will take hundreds of billions of\ndollars in investment, which President Trump has said will partly come from US\noil companies.\n\nHowever, the type of investments needed including upgrading old and decaying\ninfrastructure, drilling new oil wells and building more refineries to process\nVenezuela’s heavy crude oil. Optimizing resource-rich Venezuela to generate\nthe income needed to turn the country around could take until 2030 and beyond,\naccording to some oil analysts. Thus, any decline in the price of oil at the\nstart of this week could be short lived.\n\n“The reported capture of Venezuelan president Nicolás Maduro might be a\ngeopolitical shock, but for markets it’s not an oil-price earthquake.\nVenezuela accounts for roughly 1% of global supply, and even in a best-case\npolitical outcome, restoring production would take years. Most of the\ndisruption risk is already priced in, meaning this is a slow-moving structural\nstory rather than a trigger for sustained oil price moves.\n\n“For investors, the earliest impact is likely to appear in US refining, where\nheavy Venezuelan crude fits existing infrastructure. Refiners with exposure to\ncomplex facilities may see improved economics at the margin, while Canadian\noil sands producers face increased competition over time.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "UK Government Opens Consultation on Expanding Bills Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fuk-government-opens-consultation-on-expanding-bills-market",
+    "published": "Mon, 05 Jan 2026 15:57:25 CST",
+    "summary": "The UK government opened a consultation on the country’s treasury bill market\nas it considers increasing sales of ultra short-dated debt.\n\n"
+  },
+  {
+    "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
+    "published": "Mon, 05 Jan 2026 15:56:57 CST",
+    "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\nMonday, with Liz Myers, who also serves as global chair of investment banking,\nat the helm.\n\n"
   },
   {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
-    "published": "Mon, 05 Jan 2026 15:20:40 CST",
+    "published": "Mon, 05 Jan 2026 15:56:37 CST",
     "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
+  },
+  {
+    "title": "Small Manufacturers Under Pressure",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fsmall-manufacturers-under-pressure-video",
+    "published": "Mon, 05 Jan 2026 15:53:29 CST",
+    "summary": "US manufacturing is feeling the squeeze--but it’s not rates, it’s uncertainty.\nSnap-on Chairman and CEO Nicholas Pinchuk says demand is still solid, but\ntariffs, labor shortages, and regulatory costs are forcing small manufacturers\nto hit pause. He joined Bloomberg Open Interest to talk about how America's\nsmall businesses are stuck between hiring struggles and rising costs. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Bloomberg Surveillance 1/5/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fbloomberg-surveillance-1-5-2026-video",
+    "published": "Mon, 05 Jan 2026 15:52:07 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Muni High-Yield Shop Rosemawr Nets 40% Gain on Soccer Arena Bet",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmuni-high-yield-shop-rosemawr-nets-40-gain-on-soccer-arena-bet",
+    "published": "Mon, 05 Jan 2026 15:45:02 CST",
+    "summary": "Pawtucket, Rhode Island’s bet that a new 10,500-seat soccer stadium along the\nSeekonk River can jump-start its fading mill-town economy has already paid off\nhandsomely for one boutique investment firm.\n\n"
+  },
+  {
+    "title": "Transport Stocks Eye Record on Economic Growth Hopes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftransport-stocks-eye-record-on-hopes-of-economic-growth-in-2026",
+    "published": "Mon, 05 Jan 2026 15:41:49 CST",
+    "summary": "A gauge of US transportation stocks is on track to set a record, capping a\nsteady recovery after a long slump fueled by the global trade turmoil last\nyear.\n\n"
+  },
+  {
+    "title": "AI Productivity Gains Could Materialize in 2026: McKeown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fai-productivity-gains-could-materialize-in-2026-mckeown-video",
+    "published": "Mon, 05 Jan 2026 15:35:49 CST",
+    "summary": "Capital Economics Chief Global Economist Jennifer McKeown discusses\ngeopolitical risks, trade tensions and AI investment in 2026. She speaks to\nBloomberg's Guy Johnson, Anna Edwards and Tom Mackenzie on 'The Opening\nTrade.' (Source: Bloomberg)\n\n"
   },
   {
     "title": "US Manufacturing Activity Shrank by Most Since 2024",
@@ -52,12 +112,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
     "published": "Mon, 05 Jan 2026 15:06:05 CST",
     "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
-  },
-  {
-    "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
-    "published": "Mon, 05 Jan 2026 15:03:50 CST",
-    "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\ntoday, with Liz Myers, who also serves as the global chair of investment\nbanking, at the helm.\n\n"
   },
   {
     "title": "US Factory Malaise Continues as Gauge Drops to One-Year Low",
@@ -102,12 +156,6 @@
     "summary": "Mexico is planning to sell dollar-denominated bonds, extending a borrowing\nspree from last year that turned it into the top borrower in emerging markets.\n\n"
   },
   {
-    "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fminneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html",
-    "published": "Mon, 05 Jan 2026 14:12:10 CST",
-    "summary": "In a CNBC interview, he said the key now is whether the Fed should be more\nfocused on the labor market or inflation.\n\n"
-  },
-  {
     "title": "Milei Euphoria Drives Argentina Sovereign Risk to Seven-Year Low",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmilei-euphoria-drives-argentina-sovereign-risk-to-seven-year-low",
     "published": "Mon, 05 Jan 2026 14:11:21 CST",
@@ -120,34 +168,10 @@
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
   },
   {
-    "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html",
-    "published": "Mon, 05 Jan 2026 14:03:31 CST",
-    "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
-  },
-  {
-    "title": "US IPO Performance Lags S&amp;P 500 in 2025 as Crypto, AI Deals Sink",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-ipo-performance-lags-s-p-500-in-2025-as-crypto-ai-deals-sink",
-    "published": "Mon, 05 Jan 2026 14:01:00 CST",
-    "summary": "US initial public offerings delivered underwhelming results in 2025 as equity-\nmarket volatility and increasing scrutiny around themes such as crypto and\nartificial intelligence hit some of the year’s most high-profile listings.\n\n"
-  },
-  {
-    "title": "Stocks Push Higher Despite Increasing Geopolitical Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fstocks-push-higher-despite-increasing-geopolitical-risks-video",
-    "published": "Mon, 05 Jan 2026 13:54:44 CST",
-    "summary": "Robert Koenigsberger of Gramercy Funds, one of the leaders in emerging markets\ninvestiging joins Bloomberg Surveillance to discuss the impact of the arrest\nof Venezuelan leader Nicolaus Maduro on global markets. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Andurand’s Hedge Fund Pared 2025 Loss to 40% on Metals Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fandurand-s-hedge-fund-pared-2025-loss-to-40-on-metals-rally",
     "published": "Mon, 05 Jan 2026 13:53:15 CST",
     "summary": "Commodities trader Pierre Andurand’s flagship hedge fund ended 2025 down 40%,\nparing much deeper losses earlier in the year after bets on a range of metals.\n\n"
-  },
-  {
-    "title": "Renewables Firm Amara Delays Coupon Ahead of Recapitalization",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Frenewables-firm-amara-delays-coupon-ahead-of-recapitalization",
-    "published": "Mon, 05 Jan 2026 13:28:07 CST",
-    "summary": "Spanish renewable energy firm Amara NZero Group is delaying a coupon payment\nas it works to finalize an agreement to cut its debt load and bring in new\nequity funding.\n\n"
   },
   {
     "title": "How Nicolás Maduro’s Capture Could Reshape the Global Order",
@@ -156,34 +180,16 @@
     "summary": "The U.S. seizure of Venezuela’s president has governments, executives and\ninvestors bracing for wide-reaching business and geopolitical fallout.\n\n"
   },
   {
-    "title": "Venezuela Oil Ship Logjam Highlights Deeper US Blockade Pain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-oil-ship-logjam-highlights-deeper-us-blockade-pain",
-    "published": "Mon, 05 Jan 2026 13:22:11 CST",
-    "summary": "Venezuelan oil exports -- measure by ship loadings -- fell to a 17-month low\nin December amid a US naval blockade designed to bring the illicit oil trade\nto a halt.\n\n"
-  },
-  {
-    "title": "Venezuela Could Take Years to Boost Oil Output Significantly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-05%2Fvenezuela-could-take-years-to-boost-oil-output-significantly",
-    "published": "Mon, 05 Jan 2026 13:14:14 CST",
-    "summary": "The country’s oil industry has seen a steady decline over the last decade.\n\n"
-  },
-  {
     "title": "Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchick-fil-a-launches-80th-anniversary-marketing-campaign.html",
     "published": "Mon, 05 Jan 2026 13:00:01 CST",
     "summary": "Chick-fil-A's anniversary campaign gives the chicken chain the opportunity to\nattract more customers to its restaurants.\n\n"
   },
   {
-    "title": "Solomon Partners Hires Raymond James’ Ian O’Neal for Tech Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsolomon-partners-hires-raymond-james-ian-o-neal-for-tech-deals",
-    "published": "Mon, 05 Jan 2026 13:00:00 CST",
-    "summary": "Solomon Partners, the boutique investment bank backed by Natixis SA, has\nappointed Ian O’Neal as a partner in its technology group to focus on\ncompanies in data, analytics and software.\n\n"
-  },
-  {
-    "title": "AB Commodities Hires Mercuria, Hartree Oil Veteran for US Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fab-commodities-hires-mercuria-hartree-oil-veteran-for-us-push",
-    "published": "Mon, 05 Jan 2026 12:59:59 CST",
-    "summary": "AB Commodities AG, the trading house making a push into liquefied natural gas\nand oil, has hired Michael Redenbaugh to help lead an expansion into the US.\n\n"
+    "title": "Harold Hamm’s Continental Expands Push Into Vaca Muerta",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fharold-hamm-s-continental-expands-push-into-vaca-muerta-shale",
+    "published": "Mon, 05 Jan 2026 12:21:37 CST",
+    "summary": "Billionaire Harold Hamm’s Continental Resources reached an agreement to buy\nassets in Argentina from Pan American Energy, expanding its push into the Vaca\nMuerta shale basin.\n\n"
   },
   {
     "title": "MPM BioImpact-Backed Aktis Seeks $212 Million in US IPO",
@@ -195,7 +201,7 @@
     "title": "Ethiopia Bond Rallies as Restructuring Limits Haircut to 15%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fethiopia-bond-rallies-as-restructuring-limits-haircut-to-15",
     "published": "Mon, 05 Jan 2026 12:07:33 CST",
-    "summary": "Ethiopia’s sole eurobond rallied almost 3 cents on the dollar after the\ngovernment offered bondholders a relatively modest 15% haircut on the $1\nbillion note it defaulted on two years ago.\n\n"
+    "summary": "Ethiopia’s sole eurobond rallied almost 3 cents on the dollar after the\ngovernment reached an agreement in principle with bondholders on a\nrestructuring that would impose a relatively modest 15% haircut on the $1\nbillion note it defaulted on two years ago.\n\n"
   },
   {
     "title": "How Chevron Aims to Tap More Oil Below Kazakhstan’s Grassy Plains",
@@ -234,10 +240,10 @@
     "summary": "A blast of Arctic air is spreading bitterly cold weather across much of\nEurope, boosting power demand and disrupting transport in some areas. Hundreds\nof flights were canceled at the Schiphol airport in Amsterdam due to snow on\nrunways.\n\n"
   },
   {
-    "title": "Treasuries Rally Stalls Amid Resurgent Corporate Bond Supply",
+    "title": "Treasuries Rise After ISM Manufacturing Gauge Slips Unexpectedly",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftreasuries-advance-as-drop-in-oil-prices-eases-inflation-fears",
     "published": "Mon, 05 Jan 2026 10:10:03 CST",
-    "summary": "Treasuries pared gains spurred by demand for havens as the first full week of\nthe new year brought an expected surge in sales of new corporate bonds that\nwill compete for investor cash.\n\n"
+    "summary": "Treasuries rose after the first of this week’s numerous US economic reports\nwas weaker than expected, with gains limited amid a surge in sales of new\ncorporate bonds that will compete for investor cash.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
@@ -264,12 +270,6 @@
     "summary": "According to data, malnutrition deaths have jumped in the United States,\nespecially among those 85 and older. Here’s why the numbers suddenly started\nto rise.\n\n"
   },
   {
-    "title": "UBS Draws Around $10 Billion Bids for Additional Tier 1 Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fubs-offers-first-at1-since-credit-suisse-ruling-capital-plans",
-    "published": "Mon, 05 Jan 2026 09:56:03 CST",
-    "summary": "UBS Group AG has drawn around $10 billion of investor bids for its return to\nthe Additional Tier 1 market, even as Swiss capital rules remain in flux and\nthe fate of Credit Suisse’s wiped-out AT1s is unresolved.\n\n"
-  },
-  {
     "title": "China decries U.S. action in Venezuela — even as it guards billions at stake",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchina-response-us-venezuela-strike-economic-interests.html",
     "published": "Mon, 05 Jan 2026 09:52:22 CST",
@@ -294,16 +294,22 @@
     "summary": "For portfolio manager Ben Cleary, Venezuela in the aftermath of US President\nDonald Trump’s controversial attack is one of the greatest money-making\nopportunities ever.\n\n"
   },
   {
-    "title": "Copper Hits Record $13,000 on Tariff Concerns and Risk-On Mood",
+    "title": "Copper Hits Record $13,000 as US Import Rush Fires Up Bulls",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcopper-surges-toward-record-on-tariff-concerns-and-risk-on-mood",
     "published": "Mon, 05 Jan 2026 02:07:02 CST",
-    "summary": "Copper touched $13,000 a ton for the first time, extending last year’s\nscorching rally as mine outages and trade dislocations fuel concerns over\nsupplies of the key industrial metal.\n\n"
+    "summary": "Copper resumed its scorching rally to surpass $13,000 a ton for the first\ntime, as a renewed rush to ship metal to the US fired up bullish traders and\ninvestors.\n\n"
   },
   {
-    "title": "Oil Fluctuates as Traders Weigh Future of Venezuelan Production",
+    "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
+    "published": "Sun, 04 Jan 2026 23:16:55 CST",
+    "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
+  },
+  {
+    "title": "Oil Edges Up as Traders Weigh Future of Venezuelan Production",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
-    "summary": "Oil flipped between modest gains and losses as investors weighed the fallout\nfrom the capture of Venezuelan President Nicolás Maduro by US forces and the\nwider impact on oil-market geopolitics.\n\n"
+    "summary": "Oil crept higher as the capture of Venezuelan President Nicolás Maduro by US\nforces raised new currents of geopolitical risk and as Washington appears set\nto continue clamping down on shipments from the South American nation.\n\n"
   },
   {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
@@ -315,7 +321,7 @@
     "title": "US Stocks Rise as Traders Shrug Off Maduro Ouster: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "US stocks galloped higher on Monday, as demand for tech shares remained strong\neven while the ouster of Venezuela’s President Nicolas Maduro fanned worries\nover geopolitical risk. Gold prices also rose, along with oil.\n\n"
+    "summary": "US stocks galloped higher on Monday, as demand for tech shares remained strong\neven while the ouster of Venezuela’s President Nicolas Maduro fanned worries\nover geopolitical risk. Oil prices rose, along with gold.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -754,12 +760,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Flouis-v-gerstner-dead.html",
     "published": "Mon, 29 Dec 2025 23:20:24 CST",
     "summary": "Installed as an outsider, he engineered a comeback, shifting the company’s\nfocus from a waning mainframe computer business toward consulting and\nservices.\n\n"
-  },
-  {
-    "title": "The New Billionaires of the A.I. Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Ftechnology%2Fnew-billionaires-ai-boom.html",
-    "published": "Mon, 29 Dec 2025 22:53:31 CST",
-    "summary": "Just like past tech booms, the latest frenzy has produced a group of\nbillionaires — at least on paper — from smaller start-ups.\n\n"
   },
   {
     "title": "Silver futures log worst day since 2021, retreating sharply from record",
