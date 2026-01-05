@@ -1,5 +1,59 @@
 [
   {
+    "title": "Why Markets Can Sit Out the Drama in Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-05%2Fwhy-markets-can-sit-out-the-drama-in-venezuela",
+    "published": "Mon, 05 Jan 2026 04:24:57 CST",
+    "summary": "Sadly, the country has become such a basket case that a shock has little wider\nimpact.\n\n"
+  },
+  {
+    "title": "Blow to China From Loss of Venezuela Oil Blunted by Hoard at Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fblow-to-china-from-loss-of-venezuela-oil-blunted-by-hoard-at-sea",
+    "published": "Mon, 05 Jan 2026 04:05:20 CST",
+    "summary": "The US’s shock intervention in Venezuela will likely choke oil flows to China,\nalthough the short-term impact will be softened by large volumes of sanctioned\ncrude being stored at sea.\n\n"
+  },
+  {
+    "title": "Toyota Tells Venezuela Employees to Work From Home After US Raid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftoyota-tells-venezuela-employees-to-work-from-home-after-us-raid",
+    "published": "Mon, 05 Jan 2026 04:00:06 CST",
+    "summary": "Toyota Motor Corp. has told its employees in Venezuela to work from home as\nthe company monitors the fallout from the Trump administration’s stunning\nouster of President Nicolás Maduro over the weekend.\n\n"
+  },
+  {
+    "title": "TSMC Shares Jump Most Since April After Goldman Lifts Target 35%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftsmc-shares-jump-most-since-april-after-goldman-lifts-target-35",
+    "published": "Mon, 05 Jan 2026 03:51:43 CST",
+    "summary": "Taiwan Semiconductor Manufacturing Co. shares climbed by the most since April,\nas the world’s largest contract chipmaker rides a continued wave of optimism\nover artificial intelligence demand into the new year.\n\n"
+  },
+  {
+    "title": "Atlantic Council's Gray on US 'Core Interests'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fatlantic-council-s-gray-on-us-core-interests-video",
+    "published": "Mon, 05 Jan 2026 03:40:52 CST",
+    "summary": "Atlantic Council Non-resident Senior Fellow Alexander Gray analyzes how the\nTrump administration aims to defend what it perceives as America's vital \"core\ninterests.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "MiniMax Is Said to Plan Pricing Hong Kong IPO at Top on AI Fervor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fminimax-is-said-to-plan-pricing-hong-kong-ipo-at-top-on-ai-fervor",
+    "published": "Mon, 05 Jan 2026 03:32:23 CST",
+    "summary": "MiniMax plans to price its Hong Kong initial public offering at the top of the\nmarketed range, people familiar with the matter said, reflecting investor\nenthusiasm for Chinese startups that are increasingly challenging US rivals\nlike OpenAI.\n\n"
+  },
+  {
+    "title": "Venezuela Oil Too Heavy to be Desired, Analyst Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fvenezuela-oil-too-heavy-to-be-desired-analyst-says-video",
+    "published": "Mon, 05 Jan 2026 03:19:49 CST",
+    "summary": "Mukesh Sahdev, Founder CEO & Chief Oil Analyst at energy markets consultancy\nXAnalysts, says there's been a lot of \"hot talk and wrong analysis\" on the\nsignificance of Venezuela's oil reserves. He says chemistry matters more in\nanalyzing the oil market impact of the nation's political uncertainty. He also\nexplains China's role in stabilizing oil markets. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Maduro Captured: What This Means for China and Taiwan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fmaduro-captured-what-this-means-for-china-and-taiwan-video",
+    "published": "Mon, 05 Jan 2026 03:19:29 CST",
+    "summary": "China has slammed what it called Washington's \"hegemonic acts\" after strikes\non Venezuela and the capture of Nicolas Maduro. Zhou Bo, a retired People's\nLiberation Army senior colonel, says the US operation essentially allows China\nto position itself as a stabilizing force upholding the international order.\nHe also explores the implications of the Trump administration’s actions in\nVenezuela for Beijing's Taiwan strategy. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan Long-Dated Bonds Fall as Fiscal, Inflation Concerns Linger",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fjapan-long-dated-bonds-fall-as-fiscal-inflation-concerns-linger",
+    "published": "Mon, 05 Jan 2026 02:35:06 CST",
+    "summary": "Japan’s long-maturity government bonds kicked off 2026 on a downbeat note, as\nfiscal and inflation worries continued to weigh on the market.\n\n"
+  },
+  {
     "title": "What's Next for Oil Market After US Captures Maduro?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fwhat-s-next-for-oil-market-after-us-captures-maduro-video",
     "published": "Mon, 05 Jan 2026 02:30:45 CST",
@@ -33,7 +87,7 @@
     "title": "Asian Borrowers Start Ramp-Up in Bond Sales at Start of Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fasian-borrowers-start-ramp-up-in-bond-sales-at-start-of-year",
     "published": "Mon, 05 Jan 2026 01:49:28 CST",
-    "summary": "Borrowers from Asia on Monday kicked off dollar bond sales for 2026, in a year\nwhen analysts expect corporates globally to test issuance records to fund\neverything from AI infrastructure to investments in the US.\n\n"
+    "summary": "Corporate borrowers in Asia on Monday kicked off dollar bond sales for 2026,\nwith expectations that global issuance may reach record levels this year to\nfund projects ranging from AI infrastructure to investments in the US.\n\n"
   },
   {
     "title": "US Natural Gas Dips With Warmer Weather Forecast for Next Week",
@@ -42,10 +96,10 @@
     "summary": "US natural gas futures dropped to the lowest since late October amid forecasts\nfor warmer temperatures next week, which is likely to reduce demand for the\nfuel.\n\n"
   },
   {
-    "title": "Venezuela Oil Output Faces Long and Risky Recovery, Analysts Say",
+    "title": "Venezuelan Oil Faces Long Road to Strong Recovery, Analysts Say",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-oil-output-faces-long-and-risky-recovery-analysts-say",
     "published": "Mon, 05 Jan 2026 00:31:21 CST",
-    "summary": "After the US’s stunning capture of Venezuelan President Nicolás Maduro over\nthe weekend the focus is turning to how quickly the country with the world’s\nlargest proven crude reserves can raise output.\n\n"
+    "summary": "After the US’s stunning capture of Venezuelan President Nicolás Maduro over\nthe weekend, the focus is turning to how quickly the country with the world’s\nlargest proven crude reserves can raise output.\n\n"
   },
   {
     "title": "China 'Deeply Shocked' by US Maduro Move",
@@ -60,13 +114,13 @@
     "summary": "The Thai baht’s rally may be losing steam as the central bank steps up efforts\nto curb the currency’s strength and election risks reemerge, according to\nstrategists.\n\n"
   },
   {
-    "title": "Gold Jumps on Haven Demand After US Captures Venezuelan Leader",
+    "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
     "published": "Sun, 04 Jan 2026 23:16:55 CST",
-    "summary": "Gold and silver advanced, with investors seeking the safety of precious metals\nto counter heightened geopolitical risks following the US capture of\nVenezuelan leader Nicolás Maduro.\n\n"
+    "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
   },
   {
-    "title": "Oil Swings as Investors Weigh US Capture of Venezuela’s Maduro",
+    "title": "Oil Swings as Traders Weigh Venezuela Future After Maduro Ouster",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
     "summary": "Oil fluctuated as traders weighed the fallout from the US capture of\nVenezuelan President Nicolás Maduro on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
@@ -84,12 +138,6 @@
     "summary": "The scope for higher Venezuelan oil output in the long run after the US’s\ncapture of the nation’s leader may eventually pressure global crude prices,\naccording to Goldman Sachs Group Inc.\n\n"
   },
   {
-    "title": "Turbulence in India’s Skies as Duopoly Strains Aviation Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fturbulence-in-india-s-skies-as-duopoly-strains-aviation-boom",
-    "published": "Sun, 04 Jan 2026 21:00:00 CST",
-    "summary": "India’s aviation industry is poised for a reckoning after crises at its two\ndominant carriers exposed cracks in the booming market and forced government\nintervention.\n\n"
-  },
-  {
     "title": "Saks in Talks for $1 Billion Bankruptcy Loan to Keep Doors Open",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaks-in-talks-for-1-billion-bankruptcy-loan-to-keep-doors-open",
     "published": "Sun, 04 Jan 2026 20:52:26 CST",
@@ -105,7 +153,7 @@
     "title": "Stock Rally Builds as Traders Look Past Venezuela: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Asian equities climbed to a record as investors added to bets on technology\nshares, building on last year’s rally in artificial intelligence companies.\n\n"
+    "summary": "Asian equities climbed to a new all-time high as investors added to bets on\ntechnology shares, extending last year’s rally in artificial-\nintelligence–linked companies.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -144,42 +192,6 @@
     "summary": "The Czech central bank needs to maintain a tight monetary stance to keep\ninflation under control but is leaving all options open for interest rate\ndecisions this year, according to Governor Ales Michl.\n\n"
   },
   {
-    "title": "Maduro Taken Into Detention Center in New York",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-04%2Fmaduro-taken-into-detention-center-in-new-york-video",
-    "published": "Sun, 04 Jan 2026 13:46:54 CST",
-    "summary": "Ousted Venezuelan President Nicolás Maduro arrives at a detention center in\nNew York after he was taken into custody in a US military operation. (Source:\nRAPIDRESPONSE47 via X)\n\n"
-  },
-  {
-    "title": "Venezuela Bond Investors Bet on More Gains After Maduro Capture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-bond-investors-eye-further-gains-post-maduro-capture",
-    "published": "Sun, 04 Jan 2026 13:45:28 CST",
-    "summary": "Venezuelan bonds are poised to gain after the US captured Nicolás Maduro,\nsetting the stage for a potential regime change that investors in $60 billion\nworth of securities have long been betting on.\n\n"
-  },
-  {
-    "title": "Saudi Stocks Drop Most Since April as Geopolitical Strife Mounts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudi-stocks-drop-most-since-april-as-geopolitical-strife-mounts",
-    "published": "Sun, 04 Jan 2026 13:38:35 CST",
-    "summary": "Saudi Arabian equities fell the most in almost nine months as investors\nconsidered the possible fallout of geopolitical tensions in Yemen, Iran and\nVenezuela.\n\n"
-  },
-  {
-    "title": "Global Retreat From Emerging-Market Bonds May Be Boon for 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fglobal-retreat-from-emerging-market-bonds-may-be-boon-for-2026",
-    "published": "Sun, 04 Jan 2026 13:00:00 CST",
-    "summary": "Emerging-market bonds are likely to be supported in 2026 as the securities are\nincreasingly owned by local investors who are less exposed to currency risk\nand are therefore more resilient holders, fund managers say.\n\n"
-  },
-  {
-    "title": "France to Ban Food Imports Containing EU-Prohibited Pesticides",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Ffrance-to-ban-food-imports-containing-eu-prohibited-pesticides",
-    "published": "Sun, 04 Jan 2026 12:44:18 CST",
-    "summary": "France plans to prohibit food imports from South America or elsewhere that\ncontain pesticides banned for use in the European Union.\n\n"
-  },
-  {
-    "title": "OPEC+ Sticks With Plan to Keep Oil Flow Steady Amid Turmoil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fopec-sticks-with-plan-to-keep-oil-supply-steady-delegates-say",
-    "published": "Sun, 04 Jan 2026 12:15:01 CST",
-    "summary": "OPEC+ stuck with plans to pause supply increases in the first quarter, as\nglobal markets face a surplus and the group awaits clarity on whether the\nshock US capture of Venezuela leader Nicolas Maduro will impact supplies.\n\n"
-  },
-  {
     "title": "From the AI bubble to Fed fears: the global economic outlook for 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Fglobal-economic-outlook-2026",
     "published": "Sun, 04 Jan 2026 12:00:07 CST",
@@ -198,12 +210,6 @@
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "OPEC+ Set to Keep Supply Steady Amid Turmoil, Delegates Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fopec-likely-to-confirm-supply-pause-amid-turmoil-delegates-say",
-    "published": "Sun, 04 Jan 2026 10:00:17 CST",
-    "summary": "OPEC+ delegates said they’re likely to stick with plans to pause supply\nincreases in the first quarter at a meeting on Sunday, adding it’s too early\nto assess the impact of the shock US capture of Venezuela leader Nicolas\nMaduro.\n\n"
-  },
-  {
     "title": "Kevin O’Leary on ‘Marty Supreme’ and Notes He Gave Josh Safdie",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html",
     "published": "Sun, 04 Jan 2026 10:00:13 CST",
@@ -214,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudis-signal-intention-to-ease-up-on-international-bond-sales",
     "published": "Sun, 04 Jan 2026 08:55:36 CST",
     "summary": "Saudi Arabia sees stable to lower international bond sales in 2026, signaling\na possible halt to three years of rapid growth in borrowing activities that\nhave made the kingdom one of the busiest sovereign issuers in global emerging\nmarkets.\n\n"
-  },
-  {
-    "title": "Turkey Ministry Urges Restraint After US Attack on Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fturkey-ministry-urges-restraint-after-us-attack-on-venezuela",
-    "published": "Sun, 04 Jan 2026 06:22:06 CST",
-    "summary": "Turkey urged the parties involved in the US attack on Venezuela to exercise\ncaution and said it was ready to help resolve the crisis, issuing its first\nstatement after the operation that resulted in the capture of Nicolás Maduro\nin Caracas.\n\n"
   },
   {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
