@@ -6,52 +6,63 @@ Generated from **210** unique articles (deduplicated from 210 total) across **1*
 
 ## 🌍 World & Politics
 
-The sudden U.S. capture of Venezuelan President Nicolás Maduro dominates global headlines, triggering immediate geopolitical and financial repercussions. The dollar strengthens while the Mexican peso weakens amid rising tensions, and Venezuelan bonds surge as investors anticipate regime change. The move also disrupts oil markets, easing inflation fears and boosting Treasuries, though flight cancellations follow as the U.S. closes Caribbean airspace. Meanwhile, China faces economic and diplomatic challenges, from strained trade talks with the UK over Taiwan to retaliatory measures against Japan, including a ban on scallop imports. In Ukraine, businesses like vodka producer Nemiroff press on despite wartime disruptions, while global markets react to shifting political and economic currents.
+The most significant geopolitical development this week is the U.S. military operation in Venezuela, which resulted in the capture of President Nicolás Maduro. The move has sent shockwaves through global markets, boosting European defense stocks, gold, and silver as investors assess heightened geopolitical risks. Venezuelan bonds are surging on expectations of regime change, while China faces uncertainty over billions in loans to Caracas. The U.S. has also closed Caribbean airspace, disrupting flights, and the dollar has strengthened amid the turmoil. Meanwhile, tensions between China and Western allies persist, with Beijing threatening to cancel UK trade talks over a minister’s Taiwan visit and imposing a ban on Japanese scallops in retaliation for Tokyo’s stance on Taiwan. In Ukraine, businesses like vodka producer Nemiroff continue operations despite ongoing conflict, highlighting resilience amid war. Domestically, the U.S. government grapples with the long-term effects of Trump’s federal workforce reductions, raising concerns about efficiency and reliability.
 
 **Top Articles:**
+- [Gold, Silver and European Defense Stocks Up on Venezuela Risk | The Opening Trade 1/1/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-opening-trade-1-1-2026-video)
 - [China’s Oil Deal With Venezuela Faces Turning Point](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fvenezuela-oil-china-deal.html)
-- [Treasuries Advance as Drop in Oil Prices Eases Inflation Fears](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftreasuries-advance-as-drop-in-oil-prices-eases-inflation-fears)
-- [Tech Momentum Drowns Out Venezuela Angst: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ftech-momentum-drowns-out-venezuela-angst-3-minute-mliv-video)
-- [China Travel Curbs Hit Japan Duty-Free Sales in December](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-travel-curbs-hit-japan-duty-free-sales-in-december)
-- [Dollar Gains, Peso Falls as Maduro Exit Fuels Geopolitical Risks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks)
+- [Dollar Boosted, Peso Spooked by ‘US Adventurism’ in Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks)
+- [Behind the Scenes of Our Nicolás Maduro Front Page](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html)
+- [Venezuela Bond Traders Bet on More Gains After Maduro Raid](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-bond-investors-eye-further-gains-post-maduro-capture)
 
-**Sources**: archive.ph (17 articles)
+**Sources**: archive.ph (14 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets kick off 2026 with a mix of geopolitical turbulence and economic optimism. The US dollar faces a weakening trajectory amid geopolitical risks, particularly after the ouster of Venezuelan President Nicolás Maduro, which has sent shockwaves through oil and commodity markets. Oil prices fluctuate as traders assess the impact on Venezuelan production, while gold and silver surge on heightened geopolitical tensions. Meanwhile, Wall Street remains bullish, with tech stocks driving gains despite concerns over AI valuations and potential Fed policy shifts. Corporate developments include Air India’s CEO search amid financial struggles, UBS’s return to the AT1 bond market, and Apollo’s $1 billion investment in QXO Inc. The Fed grapples with internal divisions over rate cuts, while Trump’s regulatory rollbacks and tariff policies continue to shape market dynamics.
+{
+    "summary": "Global markets kick off 2026 with a mix of geopolitical tensions and economic optimism. The ouster of Venezuela’s President Nicolás Maduro over the weekend sends shockwaves through commodities, with gold, silver, and copper surging amid heightened risk sentiment, while oil prices waver as President Trump pledges to revive Venezuela’s energy sector. US oil stocks rally, and Chevron sees gains, though broader market movements remain buoyed by technology stocks and AI-driven growth. Meanwhile, central banks face mounting pressure, with the Federal Reserve grappling with internal divisions over rate cuts and Trump’s administration pushing for greater control over monetary policy. In corporate news, Apollo Global Management leads a $1.2 billion investment in QXO Inc., while Saks Global appoints a new CEO amid bankruptcy rumors. The dollar weakens as analysts predict a choppy year ahead, and India signals it will retain its 4% inflation target, viewing its current framework as effective.
+
+Economic indicators present a mixed picture: Ethiopia’s eurobond rallies after a modest 15% haircut in its debt restructuring, while Saudi Arabia tests bond market appetite with a new dollar deal to fund diversification projects. Chile prepares to launch Latin America’s first major bond issuance of the year, and UBS draws $10 billion in bids for its Additional Tier 1 sale despite lingering uncertainty over Swiss capital rules. On the corporate front, Air India searches for a new CEO after persistent losses, and Warren Buffett’s exit from Berkshire Hathaway marks the start of a new era under Greg Abel. SpaceX’s anticipated IPO looms as a potential blockbuster event, while GM outperforms Tesla and Ford in a standout year for automakers. Analysts remain cautious about the sustainability of the AI-driven market rally, with concerns over valuations and inflation lingering as key risks for 2026.",
+    "key_stories": [
+        "Geopolitical tensions drive gold, silver, and copper higher after Venezuela’s Maduro ousted",
+        "Apollo leads $1.2B investment in QXO as M&A activity heats up",
+        "Federal Reserve faces internal split over rate cuts amid Trump’s pressure",
+        "Saks Global CEO steps down as luxury retailer prepares for potential bankruptcy",
+        "SpaceX IPO anticipated as potential largest market debut of 2026"
+    ]
+}
 
 **Top Articles:**
-- [Air India Kicks Off Search to Replace CEO Amid Persistent Losses](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fair-india-kicks-off-search-to-replace-ceo-amid-persistent-losses)
-- [US Dollar on ‘Weakening Trajectory’ Through 2026, Says Rabobank’s Foley](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fus-dollar-on-weakening-trajectory-through-2026-foley-video)
-- [Investors Weigh Fallout From Maduro's Ouster | The Asia Trade 1/5/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-asia-trade-1-5-2026-video)
-- [Dimon’s $770 Million Windfall Shows How Banking Is Great Again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html)
-- [Apollo Said to Invest in Brad Jacobs’ Distribution Firm QXO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fapollo-said-to-invest-in-brad-jacobs-distribution-company-qxo)
+- [AB Commodities Hires Mercuria, Hartree Oil Veteran for US Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fab-commodities-hires-mercuria-hartree-oil-veteran-for-us-push)
+- [Chile to Open Latin American Issuance With Dollar and Euro Bonds](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchile-to-open-latin-american-issuance-with-dollar-and-euro-bonds)
+- [Apollo Leads $1.2 Billion Investment in Brad Jacobs’ QXO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fapollo-leads-1-2-billion-investment-in-brad-jacobs-qxo)
+- [Venezuela’s Rodriguez Asks US to Cooperate; Chevron, US Oil Stocks Rally | Bloomberg Brief 1/5/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fbloomberg-brief-1-5-2026-video)
+- [Ethiopia Bond Rallies as Restructuring Limits Haircut to 15%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fethiopia-bond-rallies-as-restructuring-limits-haircut-to-15)
 
-**Sources**: archive.ph (79 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by shifting dynamics in electric vehicles, AI-driven market optimism, and geopolitical tensions. China's BYD surpasses Tesla as the world's top EV seller, reflecting Tesla's struggles amid policy shifts and slowing global demand. Meanwhile, AI enthusiasm continues to propel emerging-market stocks toward record highs, with investors betting on long-term growth despite economic uncertainty. Regulatory challenges are also prominent, as Ørsted files a legal challenge against the U.S. government over a suspended offshore wind project, while China tightens restrictions on AI chatbots. In corporate news, Citadel's flagship hedge fund posts a 10.2% gain for 2025, and Uber restructures contracts to avoid new UK taxes. The global economy faces turbulence, with trade disruptions and energy sector volatility adding to the complexity.
+The tech and business landscape in early 2026 is marked by significant shifts in global markets, regulatory challenges, and emerging trends. China's BYD has overtaken Tesla as the world's largest electric carmaker, reflecting the intensifying competition in the EV sector amid policy-driven demand and subsidy withdrawals. Meanwhile, AI continues to reshape industries, with startups like Hyphen integrating AI into restaurant operations and new billionaires emerging from the AI boom. Regulatory pressures are also mounting, as China cracks down on AI chatbots and the U.S. faces legal challenges from offshore wind developers like Ørsted over policy reversals. In finance, Citadel's flagship hedge fund posts strong gains, while Venezuela's debt restructuring and oil industry revival remain uncertain despite geopolitical shifts. The energy sector sees Chevron expanding in Kazakhstan and Continental Resources pushing into Argentina's Vaca Muerta shale, highlighting ongoing global competition for critical resources.
 
 **Top Articles:**
-- [Arctic Blast Causes Freezing Weather and Snow Warnings in Europe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Farctic-blast-causes-freezing-weather-and-snow-warnings-in-europe)
-- [China’s Longi to Replace Silver in Solar Panels to Reduce Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs)
-- [Wall Street Bulls Eye Milder Gains in 2026 After 3-Year Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fwall-street-bulls-eye-milder-gains-in-2026-after-3-year-surge)
-- [Trump’s Goals for Reviving Venezuela’s Oil Industry Will Not Come Easily or Cheaply](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-us-chevron.html)
-- [China decries U.S. action in Venezuela — even as it guards billions at stake](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchina-response-us-venezuela-strike-economic-interests.html)
+- [Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchick-fil-a-launches-80th-anniversary-marketing-campaign.html)
+- [Solomon Partners Hires Raymond James’ Ian O’Neal for Tech Deals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsolomon-partners-hires-raymond-james-ian-o-neal-for-tech-deals)
+- [Harold Hamm’s Continental Expands Push Into Vaca Muerta Shale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fharold-hamm-s-continental-expands-push-into-vaca-muerta-shale)
+- [MPM BioImpact-Backed Aktis Seeks to Raise $212 Million in IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmpm-bioimpact-backed-aktis-seeks-to-raise-212-million-in-ipo)
+- [Stocks making the biggest moves premarket: Chevron, Halliburton, QXO, Duolingo & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fstocks-making-the-biggest-moves-premarket-cvx-qxo-duol.html)
 
-**Sources**: archive.ph (72 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports and entertainment landscape sees significant shifts as streaming platforms and leagues expand their global reach. Fox's free streaming service Tubi emerges as a surprising leader, surpassing Peacock and HBO Max in viewership share for November, according to Nielsen's Gauge report. The platform's rise highlights growing competition in the streaming wars, challenging established players with its ad-supported model. Meanwhile, the NBA makes bold strides in international expansion, actively pursuing ownership groups to launch a professional men's basketball league in Europe in partnership with FIBA. This potential league could reshape European basketball, offering new opportunities for players and fans while strengthening the NBA's global footprint. Both developments underscore the evolving strategies of major sports and media entities to capture audiences and markets beyond traditional boundaries.
+The sports and entertainment landscape sees notable developments this week, with Fox's free streaming service Tubi emerging as a surprising leader in viewership. According to Nielsen's November Gauge report, Tubi surpasses major competitors like Peacock and HBO Max in streaming minutes, signaling a shift in consumer preferences toward ad-supported platforms. Meanwhile, the NBA makes headlines with its ambitious expansion plans, actively pursuing ownership groups to launch a professional men's basketball league in Europe in partnership with FIBA. This potential league could mark a significant step in the NBA's global growth strategy, tapping into Europe's established basketball market. The move aligns with broader trends in sports business, where leagues increasingly seek international opportunities to expand their reach and revenue streams. As these stories unfold, they highlight the evolving dynamics in both media consumption and professional sports.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -63,17 +74,17 @@ The sports and entertainment landscape sees significant shifts as streaming plat
 
 ## 📰 Other News
 
-The first week of 2026 reveals a mix of economic pressures, corporate maneuvering, and shifting cultural trends. Housing affordability remains a dominant concern, with first-time buyers struggling to enter the market despite slightly lower prices and mortgage rates. The Supreme Court’s growing favoritism toward wealthy litigants and rising malnutrition deaths among the elderly underscore deepening societal inequities. Meanwhile, corporate moves like Universal Music’s $80 million investment in Bollywood’s Excel Entertainment and Lego’s aggressive push into Formula 1 sponsorships highlight global entertainment and branding strategies. Travel loyalty programs are escalating their perks to retain fickle consumers, while Aldi’s record UK Christmas sales reflect ongoing budget-conscious shopping habits. Politically, the Trump administration faces scrutiny over affordability policies, including a controversial H-1B visa fee and tariff rebates, while Democrats seize on public frustration. Notable human interest stories include a luxury French hotel’s refusal to compensate guests for bedbug bites and the passing of media critic Richard Pollak, whose work shaped journalism ethics.
+The start of 2026 brings a mix of economic shifts, corporate maneuvers, and societal challenges. In health and finance, Novo Nordisk launches an affordable GLP-1 obesity pill in the U.S., offering new hope for weight management, while economists warn of a widening 'K-shaped' economic recovery, where wealth disparities grow. The housing market remains a pressing issue, with starter homes increasingly out of reach for first-time buyers despite slight improvements in affordability. Meanwhile, the Supreme Court faces criticism for allegedly favoring the wealthy in rulings, and malnutrition deaths surge among older Americans, highlighting systemic healthcare gaps. On the corporate front, Universal Music Group invests $80 million in Bollywood’s Excel Entertainment, signaling a push into India’s booming entertainment sector, while Lego’s partnership with Formula 1 showcases innovative brand collaborations. Politically, the Trump administration rolls out new policies, including auto loan tax breaks and marijuana reclassification, but faces legal challenges over H-1B visa fees and criticism for avoiding affordability discussions. Travel loyalty programs are upping their game with exclusive perks, and a viral video exposing alleged fraud at Minnesota childcare centers sparks White House scrutiny. Cultural trends, like office 'no-shoe' policies and celebrity pizza interviews, reflect evolving workplace and media norms, while the year’s notable deaths remind us of the legacies left behind in arts, politics, and science.
 
 **Top Articles:**
+- [First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Ffirst-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html)
+- [Cautious on K-Shaped Economy: Devitt](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fcautious-on-k-shaped-economy-devitt-video)
 - [Why the ‘starter home’ feels so out of reach in today’s housing market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fstarter-home-disappearance%2F)
 - [Universal Music to Invest $80 Million in Bollywood’s Excel](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Funiversal-music-to-invest-80-million-in-bollywood-s-excel)
 - [Supreme Court Increasingly Favors the Rich, Economists Say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fus%2Fpolitics%2Fsupreme-court-study-rich-poor.html)
-- [Why are malnutrition deaths soaring in America?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F29%2Fwhy-are-malnutrition-deaths-soaring-america%2F)
-- [Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html)
 
 **Sources**: archive.ph (40 articles)
 
 ---
 
-*Digest generated on January 05, 2026 at 11:43 AM *
+*Digest generated on January 05, 2026 at 01:16 PM *
