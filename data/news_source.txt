@@ -1,5 +1,29 @@
 [
   {
+    "title": "Foreign Oil Claims in Venezuela in Doubt After US Intervention",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fforeign-oil-claims-in-venezuela-in-doubt-after-us-intervention",
+    "published": "Mon, 05 Jan 2026 05:45:12 CST",
+    "summary": "The future of billions of barrels of Venezuelan oil that foreign companies are\nentitled to under current agreements has been thrown into doubt following\nWashington’s capture of President Nicolás Maduro over the weekend.\n\n"
+  },
+  {
+    "title": "US Dollar Advances as Maduro Ouster Fuels Rising Geopolitical Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
+    "published": "Mon, 05 Jan 2026 05:18:56 CST",
+    "summary": "A Bloomberg gauge of the dollar rose to the strongest level in two weeks after\nthe US’ move to oust Venezuela’s President Nicolás Maduro sparked an increase\nin geopolitical risks.\n\n"
+  },
+  {
+    "title": "Euro Zone’s Growing Eastern Wing Wants Seat at ECB’s Top Table",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Feuro-zone-s-growing-eastern-wing-wants-seat-at-ecb-s-top-table",
+    "published": "Mon, 05 Jan 2026 05:15:00 CST",
+    "summary": "Eastern Europe is mounting its strongest push yet to secure a seat among the\nEuropean Central Bank’s top brass.\n\n"
+  },
+  {
+    "title": "Hedge Fund Tribeca Eyes Venezuela ‘Gold Rush’ After 127% Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhedge-fund-tribeca-eyes-venezuela-gold-rush-after-127-gain",
+    "published": "Mon, 05 Jan 2026 04:36:13 CST",
+    "summary": "For portfolio manager Ben Cleary, whose hedge fund more than doubled its money\nlast year, Venezuela in the aftermath of Donald Trump’s controversial attack\nis one of the biggest ever opportunities for investors to make money.\n\n"
+  },
+  {
     "title": "Why Markets Can Sit Out the Drama in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-05%2Fwhy-markets-can-sit-out-the-drama-in-venezuela",
     "published": "Mon, 05 Jan 2026 04:24:57 CST",
@@ -81,7 +105,7 @@
     "title": "Emerging-Market Stocks Set for Record High on Tech Optimism",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
     "published": "Mon, 05 Jan 2026 01:52:30 CST",
-    "summary": "Emerging-market stocks are on track to hit a record, buoyed by persistent\nstrength in Asian technology shares and a broad rally globally.\n\n"
+    "summary": "Emerging-market stocks were on track to hit a record, buoyed by persistent\ngains in Asian technology shares that have fueled risk appetite across the\ndeveloping world.\n\n"
   },
   {
     "title": "Asian Borrowers Start Ramp-Up in Bond Sales at Start of Year",
@@ -96,7 +120,7 @@
     "summary": "US natural gas futures dropped to the lowest since late October amid forecasts\nfor warmer temperatures next week, which is likely to reduce demand for the\nfuel.\n\n"
   },
   {
-    "title": "Venezuelan Oil Faces Long Road to Strong Recovery, Analysts Say",
+    "title": "Venezuelan Oil Faces Long Road to Lasting Recovery, Analysts Say",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-oil-output-faces-long-and-risky-recovery-analysts-say",
     "published": "Mon, 05 Jan 2026 00:31:21 CST",
     "summary": "After the US’s stunning capture of Venezuelan President Nicolás Maduro over\nthe weekend, the focus is turning to how quickly the country with the world’s\nlargest proven crude reserves can raise output.\n\n"
@@ -123,7 +147,7 @@
     "title": "Oil Swings as Traders Weigh Venezuela Future After Maduro Ouster",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
-    "summary": "Oil fluctuated as traders weighed the fallout from the US capture of\nVenezuelan President Nicolás Maduro on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
+    "summary": "Oil fluctuated as investors weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
   },
   {
     "title": "Japan Retail Investors Ignore Domestic Bull Market to Opt for US",
@@ -162,34 +186,16 @@
     "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
   },
   {
-    "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsouth-africa-gasoline-price-drops-to-four-year-low-on-oil-rand",
-    "published": "Sun, 04 Jan 2026 15:03:07 CST",
-    "summary": "South Africa’s gasoline price will fall the lowest level in nearly four years\nfollowing the global drop in crude and a stronger rand.\n\n"
-  },
-  {
     "title": "The government probably took too much of your paycheck this year – here’s how to get it back",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F04%2Ftaxes-refunds-workers-seniors-overtime",
     "published": "Sun, 04 Jan 2026 15:00:09 CST",
     "summary": "Trump’s tax bill carved out several areas for tipped workers and older adults,\namong others, to lower their tax bills\n\nUS taxpayers will have a “gigantic refund year in the first quarter” of 2026,\nthe treasury secretary, Scott Bessent, recently said in an interview.\n\nGiven all the untruths that come out of the current administration, you\nwouldn’t be blamed if you don’t believe him. But you should. This year, there\nwill be a significant amount of tax refunds. Why? Well, it’s not tariff cash.\nIt’s because many people overpaid their taxes this year.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Activist Group Claims Responsibility for Berlin Power Outage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Factivist-group-claims-responsibility-for-berlin-power-outage",
-    "published": "Sun, 04 Jan 2026 14:20:29 CST",
-    "summary": "The German activist network Volcano Group claimed responsibility for an arson\nattack that cut power to about 50,000 households and 2,000 businesses in\nsouthwest Berlin on Saturday.\n\n"
-  },
-  {
-    "title": "Rubio Seizes Chance to Remake Latin America in Venezuela Gambit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Frubio-says-oil-quarantine-gives-us-sway-in-post-maduro-venezuela",
-    "published": "Sun, 04 Jan 2026 14:06:52 CST",
-    "summary": "Secretary of State Marco Rubio said the US will use leverage over oil to force\nfurther change in Venezuela as he seizes a long-awaited chance to try to shape\nLatin America in Washington’s favor.\n\n"
-  },
-  {
-    "title": "Czech Central Bank Chief Says Policy Will Need to Remain Tight",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fczech-central-bank-chief-says-policy-will-need-to-remain-tight",
-    "published": "Sun, 04 Jan 2026 14:02:15 CST",
-    "summary": "The Czech central bank needs to maintain a tight monetary stance to keep\ninflation under control but is leaving all options open for interest rate\ndecisions this year, according to Governor Ales Michl.\n\n"
+    "title": "Global Retreat From Emerging-Market Bonds May Be a Blessing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fglobal-retreat-from-emerging-market-bonds-may-be-boon-for-2026",
+    "published": "Sun, 04 Jan 2026 13:00:00 CST",
+    "summary": "Emerging-market bonds are likely to be supported in 2026 as the securities are\nincreasingly owned by local investors who are less exposed to currency risk\nand are therefore more resilient holders, fund managers say.\n\n"
   },
   {
     "title": "From the AI bubble to Fed fears: the global economic outlook for 2026",
@@ -214,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html",
     "published": "Sun, 04 Jan 2026 10:00:13 CST",
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
-  },
-  {
-    "title": "Saudis Signal Intention to Ease Pace of Bond Sales Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudis-signal-intention-to-ease-up-on-international-bond-sales",
-    "published": "Sun, 04 Jan 2026 08:55:36 CST",
-    "summary": "Saudi Arabia sees stable to lower international bond sales in 2026, signaling\na possible halt to three years of rapid growth in borrowing activities that\nhave made the kingdom one of the busiest sovereign issuers in global emerging\nmarkets.\n\n"
   },
   {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
