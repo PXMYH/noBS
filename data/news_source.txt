@@ -1,15 +1,45 @@
 [
   {
+    "title": "FTSE 100 Set to Extend Rise After Reaching 10,000",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-05%2Fftse-100-venezuela-trump-oil-dollar-pound-what-s-moving-uk-markets-right-now-markets-today-mk0sxgog",
+    "published": "Mon, 05 Jan 2026 06:50:46 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Malaysia Prime Minister Anwar Proposes Term Limit in Bid to Revive Support",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmalaysia-s-anwar-proposes-pm-term-limit-in-bid-to-revive-support",
+    "published": "Mon, 05 Jan 2026 06:15:40 CST",
+    "summary": "Malaysian Prime Minister Anwar Ibrahim pledged to introduce term-limit\nlegislation, delivering on a long-promised campaign pledge as he looks to\nregain support from his key voter base.\n\n"
+  },
+  {
+    "title": "Banks to Renewables: The European Stocks Being Tipped for 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbanks-to-renewables-the-european-stocks-being-tipped-for-2026",
+    "published": "Mon, 05 Jan 2026 06:15:00 CST",
+    "summary": "After the best year for European equities since 2021, analysts and strategists\npredict the region’s stocks have still more to give in 2026.\n\n"
+  },
+  {
     "title": "Foreign Oil Claims in Venezuela in Doubt After US Intervention",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fforeign-oil-claims-in-venezuela-in-doubt-after-us-intervention",
     "published": "Mon, 05 Jan 2026 05:45:12 CST",
     "summary": "The future of billions of barrels of Venezuelan oil that foreign companies are\nentitled to under current agreements has been thrown into doubt following\nWashington’s capture of President Nicolás Maduro over the weekend.\n\n"
   },
   {
-    "title": "US Dollar Advances as Maduro Ouster Fuels Rising Geopolitical Risks",
+    "title": "India’s ITC Loses Third of Buy Calls as Tobacco Tax Hits Stock",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Findia-s-itc-loses-third-of-buy-calls-as-tobacco-tax-hits-stock",
+    "published": "Mon, 05 Jan 2026 05:45:02 CST",
+    "summary": "ITC Ltd. has lost its status as a favorite among analysts, with a third of\nthem downgrading recommendations on the nation’s top cigarette maker.\n\n"
+  },
+  {
+    "title": "India’s Top Asset Manager Taps Citi, HSBC for $1.4 Billion IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Findia-s-top-asset-manager-taps-citi-hsbc-for-1-4-billion-ipo",
+    "published": "Mon, 05 Jan 2026 05:43:26 CST",
+    "summary": "SBI Funds Management Ltd. has hired nine banks to advise on a proposed initial\npublic offering that may raise around $1.4 billion in the first half of 2026,\naccording to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Dollar Advances as Maduro Ouster Fuels Rising Geopolitical Risks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
     "published": "Mon, 05 Jan 2026 05:18:56 CST",
-    "summary": "A Bloomberg gauge of the dollar rose to the strongest level in two weeks after\nthe US’ move to oust Venezuela’s President Nicolás Maduro sparked an increase\nin geopolitical risks.\n\n"
+    "summary": "A Bloomberg gauge of the dollar rose to the strongest level in two weeks after\nthe US move to oust Venezuela’s President Nicolás Maduro sparked an increase\nin geopolitical risks.\n\n"
   },
   {
     "title": "Euro Zone’s Growing Eastern Wing Wants Seat at ECB’s Top Table",
@@ -90,12 +120,6 @@
     "summary": "Copper surged toward a record on concerns about tightening supplies in the new\nyear, as well as a risk-on mood in wider markets.\n\n"
   },
   {
-    "title": "US Brigadier General Kimmitt on Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fus-brigadier-general-kimmitt-on-venezuela-video",
-    "published": "Mon, 05 Jan 2026 02:02:23 CST",
-    "summary": "Mark Kimmitt, Retired US Army Brigadier General and Former Assistant US\nSecretary of State for Political-Military Affairs, discusses the latest\ndevelopments on Venezuela. He speaks with Avril Hong and Paul Allen on\n\"Bloomberg: The Asia Trade\". (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "China’s Services Gauge Slows Again With Growth at Six-Month Low",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-services-gauge-expanded-at-slower-pace-to-end-the-year",
     "published": "Mon, 05 Jan 2026 01:54:59 CST",
@@ -114,28 +138,10 @@
     "summary": "Corporate borrowers in Asia on Monday kicked off dollar bond sales for 2026,\nwith expectations that global issuance may reach record levels this year to\nfund projects ranging from AI infrastructure to investments in the US.\n\n"
   },
   {
-    "title": "US Natural Gas Dips With Warmer Weather Forecast for Next Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-natural-gas-dips-with-warmer-weather-forecast-for-next-week",
-    "published": "Mon, 05 Jan 2026 01:25:57 CST",
-    "summary": "US natural gas futures dropped to the lowest since late October amid forecasts\nfor warmer temperatures next week, which is likely to reduce demand for the\nfuel.\n\n"
-  },
-  {
     "title": "Venezuelan Oil Faces Long Road to Lasting Recovery, Analysts Say",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-oil-output-faces-long-and-risky-recovery-analysts-say",
     "published": "Mon, 05 Jan 2026 00:31:21 CST",
     "summary": "After the US’s stunning capture of Venezuelan President Nicolás Maduro over\nthe weekend, the focus is turning to how quickly the country with the world’s\nlargest proven crude reserves can raise output.\n\n"
-  },
-  {
-    "title": "China 'Deeply Shocked' by US Maduro Move",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fchina-deeply-shocked-by-us-maduro-move-video",
-    "published": "Mon, 05 Jan 2026 00:26:59 CST",
-    "summary": "President Donald Trump’s capture of Venezuelan leader Nicolas Maduro has been\ncondemned by Venezuela's allies, including China. Meanwhile, users on Chinese\nsocial media are saying the operation could be a template for handling\ntensions with Taiwan. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Thai Baht Rally at Risk as Central Bank Curbs, Elections Weigh",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fthai-baht-rally-at-risk-as-central-bank-curbs-elections-weigh",
-    "published": "Sun, 04 Jan 2026 23:50:54 CST",
-    "summary": "The Thai baht’s rally may be losing steam as the central bank steps up efforts\nto curb the currency’s strength and election risks reemerge, according to\nstrategists.\n\n"
   },
   {
     "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
@@ -144,28 +150,10 @@
     "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
   },
   {
-    "title": "Oil Swings as Traders Weigh Venezuela Future After Maduro Ouster",
+    "title": "Oil Slips as Traders Weigh Venezuela Outlook After Maduro Ouster",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
-    "summary": "Oil fluctuated as investors weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
-  },
-  {
-    "title": "Japan Retail Investors Ignore Domestic Bull Market to Opt for US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fjapan-retail-investors-ignore-domestic-bull-market-to-opt-for-us",
-    "published": "Sun, 04 Jan 2026 23:02:01 CST",
-    "summary": "Japan’s retail investors have ignored the equity rally at home and have placed\ntheir faith in overseas stocks.\n\n"
-  },
-  {
-    "title": "Goldman Says Venezuela Oil Output May Rise in the Long Term",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fvenezuela-s-oil-output-may-rise-in-the-long-term-goldman-says",
-    "published": "Sun, 04 Jan 2026 22:57:23 CST",
-    "summary": "The scope for higher Venezuelan oil output in the long run after the US’s\ncapture of the nation’s leader may eventually pressure global crude prices,\naccording to Goldman Sachs Group Inc.\n\n"
-  },
-  {
-    "title": "Saks in Talks for $1 Billion Bankruptcy Loan to Keep Doors Open",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaks-in-talks-for-1-billion-bankruptcy-loan-to-keep-doors-open",
-    "published": "Sun, 04 Jan 2026 20:52:26 CST",
-    "summary": "Saks Global Enterprises is looking to line up a loan of as much as $1 billion\nto keep the business running as part of a Chapter 11 bankruptcy filing that\ncould happen in coming weeks, according to people familiar with the situation.\n\n"
+    "summary": "Oil dipped as investors weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
   },
   {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
@@ -177,7 +165,7 @@
     "title": "Stock Rally Builds as Traders Look Past Venezuela: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Asian equities climbed to a new all-time high as investors added to bets on\ntechnology shares, extending last year’s rally in artificial-\nintelligence–linked companies.\n\n"
+    "summary": "Equities jumped, extending last year’s AI-led rally, as investors increased\nbets on technology shares despite rising geopolitical tensions from the US\nattack on Venezuela.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -502,6 +490,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Ftravel%2Fbedbugs-hotel-france.html",
     "published": "Thu, 01 Jan 2026 10:01:42 CST",
     "summary": "A country resort near Paris refused to cover $800 worth of medical and\ncleaning bills for a couple who woke up covered in bites. They’d like their\nstay comped, too.\n\n"
+  },
+  {
+    "title": "Sovereign Funds Push Into Tech as Assets Swell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-01%2Fsovereign-funds-push-into-tech-as-assets-swell-to-15-trillion",
+    "published": "Thu, 01 Jan 2026 00:00:00 CST",
+    "summary": "Sovereign wealth funds globally amassed a record $15 trillion in assets under\nmanagement in a year when many deepened their technology investments and\nprofited from buoyant markets, according to a new report by Global SWF.\n\n"
   },
   {
     "title": "Inside China’s Six-Decade Campaign to Dominate Rare Earths",
