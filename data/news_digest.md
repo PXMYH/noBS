@@ -6,14 +6,14 @@ Generated from **210** unique articles (deduplicated from 210 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions dominate global headlines as the U.S. captures Venezuelan President Nicolás Maduro, sparking widespread reactions. China condemns the move as a 'hegemonic act,' warning it marks the end of 'Pax Americana,' while Venezuela's acting president invites U.S. cooperation. The intervention disrupts oil markets, casting doubt on foreign oil claims and triggering a dollar rally amid rising geopolitical risks. Meanwhile, China's economic pressures on Japan escalate, with duty-free sales plummeting and a scallop ban tied to Taiwan tensions. Elsewhere, Ukraine's businesses defy wartime challenges, expanding exports despite ongoing conflict, while global markets grapple with the fallout of Trump's federal workforce cuts and unmet M&A expectations.
+Global tensions escalate as the U.S. captures Venezuelan President Nicolás Maduro in a surprise military operation, prompting sharp reactions from China, which condemns the move as a 'hegemonic act' and the end of 'Pax Americana.' The intervention disrupts Venezuela’s oil industry, casting doubt on foreign claims to billions of barrels and straining China’s energy supply—though Beijing’s stockpiled crude may mitigate short-term impacts. Meanwhile, geopolitical frictions extend to Asia, where China’s trade curbs on Japan over Taiwan tensions hurt duty-free sales, and Beijing’s long-term dominance in rare earths underscores its strategic leverage. Elsewhere, Ukraine’s businesses, like vodka maker Nemiroff, press on amid wartime challenges, while domestic U.S. policies under Trump continue to reshape federal operations and Wall Street’s dealmaking landscape.
 
 **Top Articles:**
+- [Tech Momentum Drowns Out Venezuela Angst: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ftech-momentum-drowns-out-venezuela-angst-3-minute-mliv-video)
 - [China Travel Curbs Hit Japan Duty-Free Sales in December](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-travel-curbs-hit-japan-duty-free-sales-in-december)
 - [Oil Swings Following Maduro's Capture | Horizons Middle East & Africa 1/5/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fhorizons-middle-east-africa-1-5-2026-video)
 - [Gao: US Venezuela Move Ends 'Pax Americana'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fgao-us-venezuela-move-ends-pax-americana-video)
 - [China Slams US 'Hegemonic Acts' After Venezuela Strikes | The China Show 1/5/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-china-show-1-5-2026-video)
-- [Foreign Venezuela Oil Claims in Doubt After US Intervention](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fforeign-oil-claims-in-venezuela-in-doubt-after-us-intervention)
 
 **Sources**: archive.ph (18 articles)
 
@@ -21,37 +21,37 @@ Geopolitical tensions dominate global headlines as the U.S. captures Venezuelan 
 
 ## 💰 Finance, Economics & Business
 
-Global markets kick off 2026 with a mix of optimism and uncertainty, as geopolitical tensions and central bank policies dominate the outlook. Oil prices fluctuate amid instability in Venezuela following the U.S. capture of President Nicolás Maduro, while gold and the dollar rise as safe-haven assets. Meanwhile, Japan’s stock market hits record highs, with brokerage CEOs predicting further gains, and European equities are tipped for another strong year, buoyed by resilience in emerging-market bonds. In corporate news, Saks Global faces bankruptcy as its CEO steps down, while India’s SBI Funds Management prepares for a $1.4 billion IPO. The Federal Reserve remains a focal point, with deep divisions over rate cuts and concerns about inflation, AI-driven productivity, and political pressure from the Trump administration. Tech stocks continue to drive U.S. market gains, though fears of an AI bubble persist, while sectors like industrials outperform consumer discretionary. Elsewhere, Dubai’s property market shows signs of moderation due to rising costs, and China’s move to restrict silver exports echoes its rare earths strategy, adding volatility to commodity markets.
+Global markets kick off 2026 with volatility as geopolitical tensions and central bank policies dominate headlines. Oil prices fluctuate after the US ousts Venezuelan President Nicolás Maduro, sparking uncertainty over global crude supply, while gold and silver surge on safe-haven demand. Meanwhile, Saudi Arabia tests bond market appetite amid economic diversification efforts, and Turkey's slowing inflation fuels expectations of further rate cuts. In corporate news, Saks Global appoints a new CEO as bankruptcy rumors swirl, while Warren Buffett's exit from Berkshire Hathaway marks a leadership shift. Wall Street remains optimistic despite concerns over AI-driven valuations and Fed policy, with Japan's stock market hitting record highs and SpaceX's impending IPO generating buzz. The Fed faces internal divisions over rate cuts, with inflation and unemployment risks complicating monetary decisions.
 
 **Top Articles:**
+- [Saudi Arabia Tests Bond Market Appetite After Signaling Slowdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-tests-bond-market-appetite-after-signaling-slowdown)
+- [Chevron, Oil Stocks Jump as Trump Says US to Run Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchevron-oil-stocks-rally-as-trump-says-us-to-run-venezuela)
+- [Odd Lots: A Look Inside a Fed Research Conference (Podcast)](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Faudio%2F2026-01-05%2Fbehind-the-scenes-of-boston-fed-economic-research-conference)
 - [Nakhle: Oil Markets Stable but Nervous](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fnakhle-oil-markets-stable-but-nervous-video)
 - [Khansaheb: Dubai’s Supply of New Homes to Moderate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fkhansaheb-dubai-s-supply-of-new-homes-to-moderate-video)
-- [Dubai Property CEO Expects Supply of New Homes to Moderate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdubai-property-ceo-expects-supply-of-new-homes-to-moderate)
-- [Top Japan Brokerage CEOs See More Gains After Shares Hit Record](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftop-japan-brokerage-ceos-see-more-gains-after-shares-hit-record)
-- [Turkey Inflation Slowed at Year-End, Supporting Rate Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fturkey-s-inflation-slowed-further-supporting-2026-rate-cuts)
 
-**Sources**: archive.ph (75 articles)
+**Sources**: archive.ph (76 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by shifting dynamics in AI, electric vehicles, and global trade. China's BYD surpasses Tesla as the world's top EV seller, reflecting broader challenges in the sector as automakers pivot back to gas-powered trucks amid slowing demand. Meanwhile, AI continues to drive market optimism, with TSMC shares surging on sustained chip demand and sovereign wealth funds pouring record investments into tech. Regulatory tensions persist, as the U.S. eases restrictions on Nvidia chip sales to China while Europe considers rolling back its combustion engine ban. In finance, Citadel's flagship fund posts strong gains, and Dubai emerges as a hub for hedge fund expansion, underscoring a volatile but opportunistic global economy.
+The global tech and business landscape in early 2026 is marked by significant shifts in AI, energy, and geopolitical dynamics. Emerging-market stocks are surging toward record highs, fueled by AI optimism that has added $10 trillion to global shareholder wealth since April. Meanwhile, China's BYD overtakes Tesla as the world's top electric car seller, reflecting broader challenges in the EV market as growth slows and automakers pivot back to gas-powered vehicles. In regulatory news, China tightens controls on AI chatbots, while Europe considers rolling back its 2035 combustion engine ban, signaling a potential setback for climate goals. Sovereign wealth funds are increasingly investing in tech, amassing $15 trillion in assets, while startups like Hyphen leverage AI to disrupt industries like fast food. The U.S. tech sector faces regulatory hurdles, with Uber restructuring contracts to avoid UK taxes and Ørsted challenging the Trump administration's offshore wind farm freeze. Against this backdrop, geopolitical tensions—particularly around Venezuela's oil industry and U.S.-China trade—continue to shape global markets.
 
 **Top Articles:**
+- [What Really Happens at a Fed Research Conference](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbehind-the-scenes-of-the-boston-fed-economic-conference)
 - [Hedge Fund Melqart Set to Join Wave of Firms Expanding in Dubai](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhedge-fund-melqart-set-to-join-wave-of-firms-expanding-in-dubai)
 - [India's Akbaruddin On US-Venezuela Tensions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Findia-s-akbaruddin-on-us-venezuela-tensions-video)
 - [Kevin O’Leary on ‘Marty Supreme’ and Notes He Gave Josh Safdie](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html)
 - [Malaysia Prime Minister Anwar Proposes Term Limit in Bid to Revive Support](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmalaysia-s-anwar-proposes-pm-term-limit-in-bid-to-revive-support)
-- [TSMC Shares Jump Most Since April After Goldman Lifts Target 35%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftsmc-shares-jump-most-since-april-after-goldman-lifts-target-35)
 
-**Sources**: archive.ph (71 articles)
+**Sources**: archive.ph (72 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports world sees notable developments across youth athletics, media, and league expansion. A growing concern emerges as research highlights the emotional and physical toll of professionalized youth sports, with overbearing coaches and parents contributing to burnout and injuries among young athletes. Meanwhile, in the media landscape, Fox's free streaming service Tubi gains traction, surpassing Peacock and HBO Max in streaming minutes according to Nielsen's November report, signaling a shift in how audiences consume sports and entertainment content. On the business front, the NBA takes a bold step toward global expansion, actively pursuing ownership groups to launch a professional men's basketball league in Europe in collaboration with FIBA, a move that could reshape international basketball. These stories underscore evolving challenges in athlete development, changing media consumption habits, and the NBA's ambitious growth strategy.
+The sports world is seeing significant developments both on and off the field. The NBA is making bold moves toward global expansion, actively pursuing ownership groups to launch a professional men’s basketball league in Europe in partnership with FIBA. This potential league could reshape international basketball and create new opportunities for players and fans alike. Meanwhile, the business side of sports media is evolving, with Fox’s free streaming service Tubi surpassing major competitors like Peacock and HBO Max in viewership share, according to Nielsen’s November report. This shift highlights changing consumer preferences and the growing influence of ad-supported platforms in sports broadcasting. Off the court, concerns about youth sports intensify as research reveals the emotional and physical toll of overbearing coaching and parental pressure, leading to burnout and injuries among young athletes. The findings underscore the need for systemic changes to prioritize children’s well-being in competitive sports.
 
 **Top Articles:**
 - [As Youth Sports Professionalize, Kids Are Burning Out Fast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F29%2Fbusiness%2Fyouth-sports-stress.html)
@@ -64,7 +64,7 @@ The sports world sees notable developments across youth athletics, media, and le
 
 ## 📰 Other News
 
-The start of 2026 brings a mix of economic shifts, political maneuvering, and cultural trends shaping global and domestic landscapes. In Europe, record surges in negative power prices highlight the challenges of integrating renewable energy, while Eastern European nations push for greater representation in the European Central Bank’s leadership. Meanwhile, the UK sees a retail boom as budget-conscious shoppers drive Aldi to record Christmas sales, contrasting with India’s ITC, which faces analyst downgrades amid tobacco tax pressures. On the political front, the Trump administration grapples with affordability concerns, proposing tariff rebates and tax refunds to ease financial strains, even as critics argue these measures fall short. The housing market remains a focal point, with affordability improving slightly but down payments still posing barriers for many Americans. Cultural shifts are also evident, from startups adopting 'no shoes' office policies to Lego’s bold foray into Formula 1 sponsorships, blending corporate strategy with pop culture appeal. Human interest stories, like a luxury hotel’s refusal to compensate guests for bedbug bites and the passing of influential figures in 2025, add depth to the year’s narrative.
+The start of 2026 brings a mix of economic shifts, political maneuvering, and cultural trends shaping global and domestic landscapes. In the UK, Aldi reports record Christmas sales as budget-conscious shoppers drive demand for affordable groceries, reflecting broader economic pressures. Meanwhile, Europe grapples with an unprecedented surge in negative power prices due to overwhelming renewable energy output, signaling both progress and challenges in the green transition. Financial markets show resilience, with the UK's FTSE 100 testing new records, while European banks face questions about sustaining their 2025 momentum. On the political front, the Trump administration's policies—from auto loan tax breaks to controversial H-1B visa fees—spark debate, with Democrats seizing on affordability concerns as a potential electoral advantage. Human interest stories stand out, including a luxury French hotel's refusal to compensate guests for bedbug bites and the growing trend of shoeless workplaces in startups blurring home-office boundaries. Culturally, Warren Buffett's unmatched investment legacy and the passing of influential figures in 2025 mark the end of an era, while Lego's bold partnership with Formula 1 highlights innovative brand collaborations.
 
 **Top Articles:**
 - [Aldi Reports Record UK Christmas Sales as Shoppers Seek Savings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Faldi-reports-record-uk-christmas-sales-as-shoppers-seek-savings)
@@ -73,8 +73,8 @@ The start of 2026 brings a mix of economic shifts, political maneuvering, and cu
 - [Ares Hires CapitaLand’s Gabriel Fong as Partner for Asia Credit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fares-hires-capitaland-s-gabriel-fong-as-partner-for-asia-credit)
 - [UK Stocks Rally as FTSE 100 Tests New Record](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-05%2Fftse-100-venezuela-trump-oil-dollar-pound-what-s-moving-uk-markets-right-now-markets-today-mk0sxgog)
 
-**Sources**: archive.ph (43 articles)
+**Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 05, 2026 at 08:58 AM *
+*Digest generated on January 05, 2026 at 09:55 AM *
