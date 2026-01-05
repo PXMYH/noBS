@@ -1,5 +1,23 @@
 [
   {
+    "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
+    "published": "Mon, 05 Jan 2026 21:33:14 CST",
+    "summary": "The energy sector of the S&P 500 rose 2.7 percent on Monday, lifting the\nbroader market.\n\n"
+  },
+  {
+    "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
+    "published": "Mon, 05 Jan 2026 21:02:46 CST",
+    "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
+  },
+  {
+    "title": "Corporation For Public Broadcasting formally dissolves after federal funding cuts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F05%2Fcorporation-for-public-broadcasting-board-dissolves",
+    "published": "Mon, 05 Jan 2026 20:42:28 CST",
+    "summary": "Board of directors vote to dissolve organization after nearly 60 years in\noperation after funding cuts under Trump\n\nThe nonprofit charged by Congress with allocating funds to NPR, PBS and other\nUS public radio and television stations announced is dissolving after massive\nfederal funding cuts under Donald Trump.\n\nThe Corporation for Public Broadcasting (CPB) announced on Monday that its\nboard of directors had voted to dissolve the organization after nearly 60\nyears in operation.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Corporation for Public Broadcasting Votes to Shut Down",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fmedia%2Fcorporation-for-public-broadcasting.html",
     "published": "Mon, 05 Jan 2026 20:41:04 CST",
@@ -28,12 +46,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fmaduro-pleads-not-guilty-in-narco-terrorism-case-in-us-video-mk1lmwyr",
     "published": "Mon, 05 Jan 2026 20:14:22 CST",
     "summary": "Ousted Venezuela President Nicolás Maduro appeared in a New York City\ncourtroom on Monday where he pleaded not guilty to US charges in a narco-\nterrorism case against him, kicking off an extraordinary legal battle with\nmajor geopolitical ramifications. Myles Miller explains what went on in the\ncourtroom. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Stocks Rally as Investors Bet on Return to Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
-    "published": "Mon, 05 Jan 2026 20:00:24 CST",
-    "summary": "The energy sector of the S&P 500 rose 3 percent on Monday, lifting the broader\nmarket.\n\n"
   },
   {
     "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
@@ -147,7 +159,7 @@
     "title": "Rodriguez Can Manage Venezuela, Hans Humes Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ffor-review-interview-of-hans-humes-on-us-intervention-and-venezuela-s-future",
     "published": "Mon, 05 Jan 2026 17:58:29 CST",
-    "summary": "Delcy Rodríguez, who has been declared acting president of Venezuela, can run\nthe country's economy in an \"appropriate way,\" says Hans Humes of Greylock\nCapital Management. He talks about investing in the country and its future on\n\"Bloomberg Open Interest. (Source: Bloomberg)\n\n"
+    "summary": "Hans Humes, chairman and CEO of Greylock Capital, was interviewed on January\n5, 2026, following the arrest of Venezuelan president Nicolas Maduro in New\nYork. The discussion covered the surprise and global implications of the US\noperation, the roles of key Venezuelan figures like Delsy Rodriguez, and the\nchallenges of transitioning Venezuela from decades of authoritarian rule.\nHumes highlighted the complexities of regime change, the resilience of\nVenezuela’s economic operators under sanctions, and the influence of foreign\npowers such as China and Russia. He noted that the US move could reshape\nglobal energy dynamics and reflects broader geopolitical competition,\nparticularly with China. Original filename:\n20260105_164041_Interview_of_Hans_Humes_on_US_Intervention_and_Venezuela_s_F.mp4\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
@@ -198,10 +210,16 @@
     "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\nMonday, with Liz Myers, who also serves as global chair of investment banking,\nat the helm.\n\n"
   },
   {
-    "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
-    "published": "Mon, 05 Jan 2026 15:56:37 CST",
-    "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
+    "title": "Transport Stocks Climb Near Record on Economic Growth Hopes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftransport-stocks-eye-record-on-hopes-of-economic-growth-in-2026",
+    "published": "Mon, 05 Jan 2026 15:41:49 CST",
+    "summary": "A gauge of US transportation stocks closed just shy of a record on Monday\nafter its biggest rally in more than three weeks. The gains were the latest\nleg of a recovery from a long slump fueled by last year’s global trade\nturmoil.\n\n"
+  },
+  {
+    "title": "Comcast Spinoff Versant’s Shares Tumble on First Trading Day",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcomcast-spinoff-versant-s-shares-tumble-on-first-trading-day",
+    "published": "Mon, 05 Jan 2026 15:14:35 CST",
+    "summary": "Versant Media Group Inc., the parent of CNBC, USA and other cable-TV networks,\nfell 13% in its first official day of trading after being spun off from\nComcast Corp.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -213,7 +231,7 @@
     "title": "US Stocks Rise as Venezuela ‘Spillover’ Seen Muted; Tech, Energy Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-stocks-rise-as-venezuela-spillover-seen-muted-tech-energy-gain",
     "published": "Mon, 05 Jan 2026 14:52:32 CST",
-    "summary": "US equities began the first full week of trading in 2026 on a high note, with\ntechnology and energy shares leading the advance as traders showed little sign\nof worry over geopolitical risk following the weekend ouster of Venezuela’s\nPresident Nicolas Maduro.\n\n"
+    "summary": "US equities began the first full week of trading in 2026 on a high note, with\ntechnology and energy shares leading the advance as investors showed little\nsign of worry over geopolitical risk following the weekend ouster of\nVenezuelan President Nicolás Maduro.\n\n"
   },
   {
     "title": "First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.",
@@ -270,16 +288,10 @@
     "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
   },
   {
-    "title": "Arctic Blast Triggers Alerts and Disruptions Across Europe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Farctic-blast-causes-freezing-weather-and-snow-warnings-in-europe",
-    "published": "Mon, 05 Jan 2026 11:03:23 CST",
-    "summary": "A blast of Arctic air is spreading bitterly cold weather across much of\nEurope, boosting power demand and disrupting transport in some areas. Hundreds\nof flights were canceled at the Schiphol airport in Amsterdam due to snow on\nrunways.\n\n"
-  },
-  {
     "title": "Treasuries Rise on Weak US Manufacturing, Bullish Option Trades",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftreasuries-advance-as-drop-in-oil-prices-eases-inflation-fears",
     "published": "Mon, 05 Jan 2026 10:10:03 CST",
-    "summary": "Treasuries rose after the first batch of this week’s US economic reports was\nweaker than expected, with gains extending amid hefty buying of bullish\noptions targeting a decline in the benchmark 10-year yield below 4% in the\ncoming weeks.\n\n"
+    "summary": "Treasuries rose to kick off the week after a report signaled a weakening US\neconomy, with investors targeting a move in the benchmark 10-year yield below\n4% in the coming weeks.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
@@ -294,10 +306,10 @@
     "summary": "According to data, malnutrition deaths have jumped in the United States,\nespecially among those 85 and older. Here’s why the numbers suddenly started\nto rise.\n\n"
   },
   {
-    "title": "UBS Draws Around $21 Billion Bids for Additional Tier 1 Sale",
+    "title": "UBS Raises $3 Billion From Sale of Additional Tier 1 Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fubs-offers-first-at1-since-credit-suisse-ruling-capital-plans",
     "published": "Mon, 05 Jan 2026 09:56:03 CST",
-    "summary": "UBS Group AG has attracted more than $21 billion of investor bids for its\nreturn to the Additional Tier 1 market, well above the $3 billion of notes on\noffer, allowing the bank to tighten pricing even as Swiss capital rules remain\nin flux and the fate of Credit Suisse’s wiped-out AT1s is unresolved.\n\n"
+    "summary": "UBS Group AG sold $3 billion of Additional Tier 1 bonds on Monday as major\nbanks face modest refinancing needs that are expected to limit supply.\n\n"
   },
   {
     "title": "China decries U.S. action in Venezuela — even as it guards billions at stake",
@@ -306,10 +318,10 @@
     "summary": "China's immediate priority in the wake of the U.S. attack on Venezuela is to\nprotect economic interests, analysts said.\n\n"
   },
   {
-    "title": "Saudi Arabia’s Dollar Bond Draws Over $29 Billion of Demand",
+    "title": "Saudi Arabia to Raise $11.5 Billion Through Dollar Bond Sale",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-tests-bond-market-appetite-after-signaling-slowdown",
     "published": "Mon, 05 Jan 2026 09:32:19 CST",
-    "summary": "Saudi Arabia is kicking off 2026 with a benchmark-sized dollar bond sale,\ndrawing more than $29 billion of bids as it taps global markets to help fund\nhuge projects aimed at reducing its economic dependence on oil.\n\n"
+    "summary": "Saudi Arabia is set to raise $11.5 billion through a dollar bond sale as it\ntaps global markets to help fund huge projects aimed at reducing its economic\ndependence on oil.\n\n"
   },
   {
     "title": "Kevin O’Leary on ‘Marty Supreme’ and Notes He Gave Josh Safdie",
@@ -330,16 +342,16 @@
     "summary": "Taiwan Semiconductor Manufacturing Co. shares climbed by the most since April,\nas the world’s largest contract chipmaker rides a continued wave of optimism\nover artificial intelligence demand into the new year.\n\n"
   },
   {
-    "title": "Copper Hits Record $13,000 as US Import Rush Fires Up Bulls",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcopper-surges-toward-record-on-tariff-concerns-and-risk-on-mood",
-    "published": "Mon, 05 Jan 2026 02:07:02 CST",
-    "summary": "Copper resumed its scorching rally to surpass $13,000 a ton for the first\ntime, as a renewed rush to ship metal to the US fired up bullish traders and\ninvestors.\n\n"
-  },
-  {
     "title": "Emerging Currencies Shrug Off Weakness as USD Loses Haven Appeal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
     "published": "Mon, 05 Jan 2026 01:52:30 CST",
     "summary": "Emerging-market currencies nearly erased earlier drops as the dollar lost\nsteam on Monday even while the US capture of Venezuela’s leader Nicolas Maduro\nincreased the perception of geopolitical risks.\n\n"
+  },
+  {
+    "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
+    "published": "Sun, 04 Jan 2026 23:16:55 CST",
+    "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
   },
   {
     "title": "Oil Edges Up as Traders Weigh Future of Venezuelan Production",
@@ -354,10 +366,10 @@
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "US Stocks Rise as Traders Unfazed by Maduro Ouster: Markets Wrap",
+    "title": "Stocks Rise With Traders Sanguine on Maduro Ouster: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "US stocks headed higher on Monday, as investors snapped up tech shares even\nwhile the capture of Venezuela’s President Nicolas Maduro fanned worries over\ngeopolitical risk. Oil prices rose, along with gold.\n\n"
+    "summary": "US stocks finished higher on Monday, as investors snapped up tech shares even\nwhile the capture of Venezuela’s President Nicolas Maduro fanned worries over\ngeopolitical risk. Oil prices rose, along with gold.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -466,12 +478,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fsaks-global-new-ceo-richard-baker-bankruptcy-reports.html",
     "published": "Fri, 02 Jan 2026 22:10:21 CST",
     "summary": "The company was created in July 2024 after Hudson's Bay Co. acquired Neiman\nMarcus.\n\n"
-  },
-  {
-    "title": "AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-02%2Fai-backbone-of-venture-capital-landscape-says-curley-video",
-    "published": "Fri, 02 Jan 2026 21:58:06 CST",
-    "summary": "Bob Curley, deputy chief banking officer of regional banking at Western\nAlliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the\nventure capital landscape. He also said they're seeing it accelerated in\nenergy and science. He also said the M&A Market has rebounded and brought\nadditional sources of liquidity. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Saks Global CEO steps down as luxury retailer reportedly preparing for bankruptcy",
@@ -658,12 +664,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F31%2Fbusiness%2Fstock-market-2025-artificial-intelligence-bubble.html",
     "published": "Wed, 31 Dec 2025 21:28:00 CST",
     "summary": "The S&P 500 gained 16.4 percent this year. But dependence on artificial\nintelligence remains a risk for 2026.\n\n"
-  },
-  {
-    "title": "Wall Street ends 2025 near record highs after year of economic upheaval",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fdec%2F31%2Fwall-street-stock-markets",
-    "published": "Wed, 31 Dec 2025 21:15:13 CST",
-    "summary": "US markets buoyed by sustained rise in tech stocks as investors largely shrug\noff concerns over Trump tariffs\n\nWall Street finished 2025 near record highs on Wednesday, as ballooning tech\nvaluations and hopes of lower interest rates helped stock markets defy a year\nof economic uncertainty.\n\nThe benchmark S&P 500 rose 16.4% over the course of the year, closing at\n6,845.50 on New Year’s Eve in New York, as investors largely shrugged off\ngeopolitical uncertainty and the frenzy around artificial intelligence\ncontinued.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Nike, Corcept Therapeutics, Taiwan Semiconductor & more",
