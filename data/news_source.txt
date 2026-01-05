@@ -1,9 +1,27 @@
 [
   {
+    "title": "GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep marks first increase in seven years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fgm-posts-5point5percent-us-sales-gain-in-2025-while-jeep-ends-annual-declines.html",
+    "published": "Mon, 05 Jan 2026 17:31:24 CST",
+    "summary": "GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep endsannual declines\n\n"
+  },
+  {
+    "title": "Five Thoughts to Kick Off the New Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-05%2Ffive-thoughts-to-kick-off-the-new-year",
+    "published": "Mon, 05 Jan 2026 17:07:31 CST",
+    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
+  },
+  {
     "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fminneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html",
-    "published": "Mon, 05 Jan 2026 16:50:12 CST",
+    "published": "Mon, 05 Jan 2026 17:00:38 CST",
     "summary": "In a CNBC interview, he said the key now is whether the Fed should be more\nfocused on the labor market or inflation.\n\n"
+  },
+  {
+    "title": "Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchick-fil-a-launches-80th-anniversary-marketing-campaign.html",
+    "published": "Mon, 05 Jan 2026 16:53:57 CST",
+    "summary": "Chick-fil-A's anniversary campaign gives the chicken chain the opportunity to\nattract more customers to its restaurants.\n\n"
   },
   {
     "title": "U.S. stocks show little reaction to Trump's extraordinary Venezuela action. Why investors see a bull case",
@@ -14,7 +32,7 @@
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
-    "published": "Mon, 05 Jan 2026 16:48:02 CST",
+    "published": "Mon, 05 Jan 2026 16:48:03 CST",
     "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
   },
   {
@@ -24,16 +42,10 @@
     "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
   },
   {
-    "title": "US oil company shares and Venezuelan bonds rally after Maduro seized, sending Dow to record high – business live",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F05%2Fgold-price-defence-shares-us-venezuela-maduro-oil-business-live-news-updates",
-    "published": "Mon, 05 Jan 2026 16:16:08 CST",
-    "summary": "Rolling coverage of the latest economic and financial news, with gold and\ndefence company shares also higher today\n\n  * **What role could the US play in Venezuela’s ‘bust’ oil industry?**\n\n**The oil price remains in the red this morning, with Brent crude now down 1%\nat $60.15 per barrel.**\n\nAnalysts are in broad agreement that while the Venezuela attack is unlikely to\nboost demand for oil, it also won’t lead to a rapid surge in supply.\n\nThe question is, will traders focus on the potential for future Venezuelan oil\nflooding the market, which could tank the oil price, or will they focus on how\nmuch investment will be needed to get Venezuela to pump more oil? Right now,\nVenezuela pumps less than 1 million barrels per day, at its peak in 1998,\nbefore socialist dictators took control, it was pumping out nearly 3.5 million\nbarrels per day. To get back to this level will take hundreds of billions of\ndollars in investment, which President Trump has said will partly come from US\noil companies.\n\nHowever, the type of investments needed including upgrading old and decaying\ninfrastructure, drilling new oil wells and building more refineries to process\nVenezuela’s heavy crude oil. Optimizing resource-rich Venezuela to generate\nthe income needed to turn the country around could take until 2030 and beyond,\naccording to some oil analysts. Thus, any decline in the price of oil at the\nstart of this week could be short lived.\n\n“The reported capture of Venezuelan president Nicolás Maduro might be a\ngeopolitical shock, but for markets it’s not an oil-price earthquake.\nVenezuela accounts for roughly 1% of global supply, and even in a best-case\npolitical outcome, restoring production would take years. Most of the\ndisruption risk is already priced in, meaning this is a slow-moving structural\nstory rather than a trigger for sustained oil price moves.\n\n“For investors, the earliest impact is likely to appear in US refining, where\nheavy Venezuelan crude fits existing infrastructure. Refiners with exposure to\ncomplex facilities may see improved economics at the margin, while Canadian\noil sands producers face increased competition over time.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "UK Government Opens Consultation on Expanding Bills Market",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fuk-government-opens-consultation-on-expanding-bills-market",
     "published": "Mon, 05 Jan 2026 15:57:25 CST",
-    "summary": "The UK government opened a consultation on the country’s treasury bill market\nas it considers increasing sales of ultra short-dated debt.\n\n"
+    "summary": "The UK government has opened a consultation on the treasury bill market as it\nconsiders whether to further tilt borrowing away from long bonds and toward\nultra short-dated debt.\n\n"
   },
   {
     "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
@@ -84,10 +96,10 @@
     "summary": "US factory activity hit a 14-month low in December as the Institute for Supply\nManagement's manufacturing index edged down to 47.9 from 48.2, according to\ndata released Monday. The measure has been below 50, which indicates\ncontraction, for 10 straight months. Michael McKee reports on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Ed Morse on Global Oil Risks",
+    "title": "Rebuilding Venezuela's Oil Industry Will Cost Billions, Morse Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fed-morse-on-global-oil-risks-video",
     "published": "Mon, 05 Jan 2026 15:19:19 CST",
-    "summary": "Trump’s plan to revive Venezuela’s oil industry could cost over $100 billion.\nEnergy veteran Ed Morse, Hartree Partners Senior Advisor, joined Bloomberg\nOpen Interest to explain why rebuilding won’t move prices fast--and what it\nmeans for global oil markets. (Source: Bloomberg)\n\n"
+    "summary": "President Donald Trump’s plan to revive Venezuela’s oil industry could cost\nover $100 billion. Energy veteran Ed Morse, Hartree Partners Senior Advisor,\njoined Bloomberg Open Interest to explain why rebuilding won’t move prices\nfast--and what it means for global oil markets. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Comcast Spinoff Versant’s Shares Tumble on First Trading Day",
@@ -114,10 +126,10 @@
     "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
   },
   {
-    "title": "US Factory Malaise Continues as Gauge Drops to One-Year Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-factory-malaise-continues-as-key-gauge-drops-to-one-year-low",
-    "published": "Mon, 05 Jan 2026 15:00:00 CST",
-    "summary": "US manufacturing activity shrank in December by the most since 2024, capping a\nrough year for American factories.\n\n"
+    "title": "US energy stocks rise as Trump vows to unlock Venezuela’s oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F05%2Foil-price-dips-venezuela",
+    "published": "Mon, 05 Jan 2026 15:00:12 CST",
+    "summary": "Oil price rises despite fears US president’s pledge could deepen global supply\nglut\n\n  * Big oil will be wary of rushing back to Venezuela\n\n  * Venezuela crisis - latest updates\n\nUS energy stocks rose on Monday, after Donald Trump promised to unlock\nVenezuela’s vast crude oil reserves following the US capture of the country’s\npresident, Nicolás Maduro.\n\nShares in Chevron, which already operates in Venezuela under a special licence\nprovided by the Trump administration, were up 5% on Wall Street. Exxon Mobil\nwas up 2.3%, while Halliburton, which provides products and services to the\noil and gas sector, jumped 9.7%.\n\nContinue reading...\n\n"
   },
   {
     "title": "US Stocks Rise as Venezuela ‘Spillover’ Seen Muted; Tech, Energy Gain",
@@ -138,28 +150,10 @@
     "summary": "The drug's cash prices are among the lowest on the market, ranging from $149\nto $299 per month, depending on the dose.\n\n"
   },
   {
-    "title": "Colombia Assets Drop as Trump and Petro Spar Over US Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcolombia-assets-drop-as-trump-and-petro-spar-over-us-threats",
-    "published": "Mon, 05 Jan 2026 14:25:22 CST",
-    "summary": "Colombian assets fell on Monday as tension between US President Donald Trump\nand his counterpart in the South American nation grew in the wake of Nicolas\nMaduro’s ouster in Venezuela.\n\n"
-  },
-  {
     "title": "‘Chinese Peptides’ Are the Latest Biohacking Trend in the Tech World",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchinese-peptides-silicon-valley.html",
     "published": "Mon, 05 Jan 2026 14:25:21 CST",
     "summary": "The gray-market drugs flooding Silicon Valley reveal a community that believes\nit can move faster than the F.D.A.\n\n"
-  },
-  {
-    "title": "Mexico Files to Sell Dollar Bonds, Extending 2025 Debt Spree",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmexico-files-to-sell-dollar-bonds-extending-2025-debt-spree",
-    "published": "Mon, 05 Jan 2026 14:18:48 CST",
-    "summary": "Mexico is planning to sell dollar-denominated bonds, extending a borrowing\nspree from last year that turned it into the top borrower in emerging markets.\n\n"
-  },
-  {
-    "title": "Milei Euphoria Drives Argentina Sovereign Risk to Seven-Year Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmilei-euphoria-drives-argentina-sovereign-risk-to-seven-year-low",
-    "published": "Mon, 05 Jan 2026 14:11:21 CST",
-    "summary": "A key measure of Argentina’s sovereign risk fell to its lowest level in seven\nyears as policy changes by President Javier Milei’s administration left the\nnation closer to a return to international debt markets.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Chevron, Halliburton, QXO, Duolingo & more",
@@ -180,22 +174,16 @@
     "summary": "The U.S. seizure of Venezuela’s president has governments, executives and\ninvestors bracing for wide-reaching business and geopolitical fallout.\n\n"
   },
   {
-    "title": "Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchick-fil-a-launches-80th-anniversary-marketing-campaign.html",
-    "published": "Mon, 05 Jan 2026 13:00:01 CST",
-    "summary": "Chick-fil-A's anniversary campaign gives the chicken chain the opportunity to\nattract more customers to its restaurants.\n\n"
-  },
-  {
     "title": "Harold Hamm’s Continental Expands Push Into Vaca Muerta",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fharold-hamm-s-continental-expands-push-into-vaca-muerta-shale",
     "published": "Mon, 05 Jan 2026 12:21:37 CST",
     "summary": "Billionaire Harold Hamm’s Continental Resources reached an agreement to buy\nassets in Argentina from Pan American Energy, expanding its push into the Vaca\nMuerta shale basin.\n\n"
   },
   {
-    "title": "MPM BioImpact-Backed Aktis Seeks $212 Million in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmpm-bioimpact-backed-aktis-seeks-to-raise-212-million-in-ipo",
-    "published": "Mon, 05 Jan 2026 12:18:38 CST",
-    "summary": "Aktis Oncology Inc., a clinical-stage biotechnology company focused on using\nso-called radiopharmaceuticals for treatments, is seeking to raise as much as\n$212 million in a US initial public offering.\n\n"
+    "title": "Apollo Leads $1.2 Billion Investment in Brad Jacobs’ QXO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fapollo-leads-1-2-billion-investment-in-brad-jacobs-qxo",
+    "published": "Mon, 05 Jan 2026 12:20:42 CST",
+    "summary": "An investor group led by Apollo Global Management Inc. has agreed to invest\n$1.2 billion in QXO Inc. to support the building products company’s\nacquisition strategy.\n\n"
   },
   {
     "title": "Ethiopia Bond Rallies as Restructuring Limits Haircut to 15%",
@@ -214,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F05%2Fbari-weiss-cbs-news",
     "published": "Mon, 05 Jan 2026 12:00:34 CST",
     "summary": "Weiss is embroiled in her first major controversy as editor in chief as her\nhandpicked anchor takes evening news show\n\nTaking charge of CBS News in early October with no television industry\nexperience, and already facing both deep skepticism from many network\nemployees and a faltering business model, Bari Weiss began with a lot working\nagainst her.\n\nStill, her three months as editor in chief have been more chaotic than even\nmany of her critics expected. “There is blood in the water,” said one CBS News\njournalist, who, like the others quoted in this story, was not authorized by\nthe network to comment.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Gold, Silver and European Defense Stocks Up on Venezuela Risk | The Opening Trade 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-opening-trade-1-1-2026-video",
-    "published": "Mon, 05 Jan 2026 11:48:44 CST",
-    "summary": "European defense stocks rise following the US military strikes on Venezuela\nand its capture of President Nicolás Maduro. Gold and silver also advance,\nwith investors weighing heightened geopolitical risks. Meanwhile, oil markets\nshrug off the possibility of short-term disruptions, believing any drop in\nVenezuelan output could be offset by increases elsewhere. The Opening Trade\nhas everything you need to know as markets open across Europe. With analysis\nyou won't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Why America stopped building the ‘starter home’",
@@ -276,6 +258,12 @@
     "summary": "China's immediate priority in the wake of the U.S. attack on Venezuela is to\nprotect economic interests, analysts said.\n\n"
   },
   {
+    "title": "Saudi Arabia’s Dollar Bond Draws Over $29 Billion of Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-tests-bond-market-appetite-after-signaling-slowdown",
+    "published": "Mon, 05 Jan 2026 09:32:19 CST",
+    "summary": "Saudi Arabia is kicking off 2026 with a benchmark-sized dollar bond sale,\ndrawing more than $29 billion of bids as it taps global markets to help fund\nhuge projects aimed at reducing its economic dependence on oil.\n\n"
+  },
+  {
     "title": "Chevron, US Oil Stocks Rally as Trump Vows Venezuela Revival",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchevron-oil-stocks-rally-as-trump-says-us-to-run-venezuela",
     "published": "Mon, 05 Jan 2026 09:19:48 CST",
@@ -286,6 +274,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html",
     "published": "Mon, 05 Jan 2026 07:37:21 CST",
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
+  },
+  {
+    "title": "Dollar Retreats From Haven Gains After Weak Manufacturing Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
+    "published": "Mon, 05 Jan 2026 05:18:56 CST",
+    "summary": "The dollar pulled back from its strongest level in two weeks after a reading\nof US manufacturing activity shrank last month by the most since 2024, wiping\nout gains seen after the US capture of Venezuela’s President Nicolás Maduro.\n\n"
   },
   {
     "title": "Hedge Fund Tribeca Eyes Venezuela Gold Rush After 127% Gain",
@@ -346,6 +340,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Sun, 04 Jan 2026 10:00:39 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
+  },
+  {
+    "title": "Saudis Signal Intention to Ease Pace of Bond Sales",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fsaudis-signal-intention-to-ease-up-on-international-bond-sales",
+    "published": "Sun, 04 Jan 2026 08:55:36 CST",
+    "summary": "Saudi Arabia sees lower international bond sales in 2026, signaling a halt to\nthree years of rapid growth in borrowing activities that have made the kingdom\none of the busiest sovereign issuers in global emerging markets.\n\n"
   },
   {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
@@ -424,6 +424,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fsaks-global-new-ceo-richard-baker-bankruptcy-reports.html",
     "published": "Fri, 02 Jan 2026 22:10:21 CST",
     "summary": "The company was created in July 2024 after Hudson's Bay Co. acquired Neiman\nMarcus.\n\n"
+  },
+  {
+    "title": "AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-02%2Fai-backbone-of-venture-capital-landscape-says-curley-video",
+    "published": "Fri, 02 Jan 2026 21:58:06 CST",
+    "summary": "Bob Curley, deputy chief banking officer of regional banking at Western\nAlliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the\nventure capital landscape. He also said they're seeing it accelerated in\nenergy and science. He also said the M&A Market has rebounded and brought\nadditional sources of liquidity. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Saks Global CEO steps down as luxury retailer reportedly preparing for bankruptcy",
@@ -930,12 +936,6 @@
     "summary": "Trump’s pot executive order follows a yearlong industry push blending\nlobbying, donations and insider access, opening the door to a Medicare CBD\npilot.\n\n"
   },
   {
-    "title": "Nine of the largest pharma companies ink deals with Trump to lower drug prices",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F19%2Fnine-pharma-companies-ink-deals-with-trump-to-lower-drug-prices.html",
-    "published": "Fri, 19 Dec 2025 22:14:26 CST",
-    "summary": "President Donald Trump has pushed to lower drug prices for Americans, which\nare on average nearly three times higher than overseas.\n\n"
-  },
-  {
     "title": "‘A Singularly Turbulent Time’: Deeper Uncertainty in Store for Global Economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F19%2Fbusiness%2Feconomy%2Ftrump-trade-global-econ.html",
     "published": "Fri, 19 Dec 2025 18:55:41 CST",
@@ -1012,12 +1012,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F11%2Fus%2Fpolitics%2Ftrump-affordability-democrats.html",
     "published": "Thu, 11 Dec 2025 14:24:28 CST",
     "summary": "The president continues to brush off an issue that he said he would solve in\nhis first months in office. Some Democrats say he is making the same mistake\nas his predecessor.\n\n"
-  },
-  {
-    "title": "The Fed Cut Rates Again but Deep Divisions Cloud Path Ahead",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F10%2Fbusiness%2Feconomy%2Ffed-meeting-interest-rate-decision.html",
-    "published": "Wed, 10 Dec 2025 22:52:53 CST",
-    "summary": "The central bank’s decision to lower interest rates for a third straight\nmeeting was highly contentious, reflecting an internal divide that will likely\nlimit how much borrowing costs will fall next year.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
