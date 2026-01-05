@@ -1,15 +1,75 @@
 [
   {
-    "title": "Gold Rises on Haven Demand After US Captures Venezuelan Leader",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
-    "published": "Sun, 04 Jan 2026 23:16:55 CST",
-    "summary": "Gold and silver rose, as investors sought the safety of precious metals after\nthe US capture of Venezuelan leader Nicolás Maduro.\n\n"
+    "title": "What's Next for Oil Market After US Captures Maduro?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fwhat-s-next-for-oil-market-after-us-captures-maduro-video",
+    "published": "Mon, 05 Jan 2026 02:30:45 CST",
+    "summary": "Jorge León, a former OPEC official and now Rystad Energy's Senior Vice\nPresident and Head of Geopolitical Analysis, talks about possible supply\ndisruptions, the lack of American oil majors' response so far and Venezuelan\ncrude's role in world trade. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Oil Declines as Investors Weigh US Capture of Venezuela’s Maduro",
+    "title": "Copper Surges Toward Record on Tariff Concerns and Risk-On Mood",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcopper-surges-toward-record-on-tariff-concerns-and-risk-on-mood",
+    "published": "Mon, 05 Jan 2026 02:07:02 CST",
+    "summary": "Copper surged toward a record on concerns about tightening supplies in the new\nyear, as well as a risk-on mood in wider markets.\n\n"
+  },
+  {
+    "title": "US Brigadier General Kimmitt on Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fus-brigadier-general-kimmitt-on-venezuela-video",
+    "published": "Mon, 05 Jan 2026 02:02:23 CST",
+    "summary": "Mark Kimmitt, Retired US Army Brigadier General and Former Assistant US\nSecretary of State for Political-Military Affairs, discusses the latest\ndevelopments on Venezuela. He speaks with Avril Hong and Paul Allen on\n\"Bloomberg: The Asia Trade\". (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China’s Services Gauge Slows Again With Growth at Six-Month Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-services-gauge-expanded-at-slower-pace-to-end-the-year",
+    "published": "Mon, 05 Jan 2026 01:54:59 CST",
+    "summary": "China’s services activity expanded at the weakest pace in six months,\naccording to a private survey, as new export business returned to contraction\nbecause of fewer tourist arrivals.\n\n"
+  },
+  {
+    "title": "Emerging-Market Stocks Set for Record High on Tech Optimism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
+    "published": "Mon, 05 Jan 2026 01:52:30 CST",
+    "summary": "Emerging-market stocks are on track to hit a record, buoyed by persistent\nstrength in Asian technology shares and a broad rally globally.\n\n"
+  },
+  {
+    "title": "Asian Borrowers Start Ramp-Up in Bond Sales at Start of Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fasian-borrowers-start-ramp-up-in-bond-sales-at-start-of-year",
+    "published": "Mon, 05 Jan 2026 01:49:28 CST",
+    "summary": "Borrowers from Asia on Monday kicked off dollar bond sales for 2026, in a year\nwhen analysts expect corporates globally to test issuance records to fund\neverything from AI infrastructure to investments in the US.\n\n"
+  },
+  {
+    "title": "US Natural Gas Dips With Warmer Weather Forecast for Next Week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-natural-gas-dips-with-warmer-weather-forecast-for-next-week",
+    "published": "Mon, 05 Jan 2026 01:25:57 CST",
+    "summary": "US natural gas futures dropped to the lowest since late October amid forecasts\nfor warmer temperatures next week, which is likely to reduce demand for the\nfuel.\n\n"
+  },
+  {
+    "title": "Venezuela Oil Output Faces Long and Risky Recovery, Analysts Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-oil-output-faces-long-and-risky-recovery-analysts-say",
+    "published": "Mon, 05 Jan 2026 00:31:21 CST",
+    "summary": "After the US’s stunning capture of Venezuelan President Nicolás Maduro over\nthe weekend the focus is turning to how quickly the country with the world’s\nlargest proven crude reserves can raise output.\n\n"
+  },
+  {
+    "title": "China 'Deeply Shocked' by US Maduro Move",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fchina-deeply-shocked-by-us-maduro-move-video",
+    "published": "Mon, 05 Jan 2026 00:26:59 CST",
+    "summary": "President Donald Trump’s capture of Venezuelan leader Nicolas Maduro has been\ncondemned by Venezuela's allies, including China. Meanwhile, users on Chinese\nsocial media are saying the operation could be a template for handling\ntensions with Taiwan. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Thai Baht Rally at Risk as Central Bank Curbs, Elections Weigh",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fthai-baht-rally-at-risk-as-central-bank-curbs-elections-weigh",
+    "published": "Sun, 04 Jan 2026 23:50:54 CST",
+    "summary": "The Thai baht’s rally may be losing steam as the central bank steps up efforts\nto curb the currency’s strength and election risks reemerge, according to\nstrategists.\n\n"
+  },
+  {
+    "title": "Gold Jumps on Haven Demand After US Captures Venezuelan Leader",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
+    "published": "Sun, 04 Jan 2026 23:16:55 CST",
+    "summary": "Gold and silver advanced, with investors seeking the safety of precious metals\nto counter heightened geopolitical risks following the US capture of\nVenezuelan leader Nicolás Maduro.\n\n"
+  },
+  {
+    "title": "Oil Swings as Investors Weigh US Capture of Venezuela’s Maduro",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Flatest-oil-market-news-and-analysis-for-jan-5-venezuela-trump",
     "published": "Sun, 04 Jan 2026 23:02:56 CST",
-    "summary": "Oil dropped as traders weighed the fallout from the capture of Venezuelan\nPresident Nicolás Maduro by US forces on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
+    "summary": "Oil fluctuated as traders weighed the fallout from the US capture of\nVenezuelan President Nicolás Maduro on global crude supply and its wider\nimpact on the nation’s energy sector.\n\n"
   },
   {
     "title": "Japan Retail Investors Ignore Domestic Bull Market to Opt for US",
@@ -42,10 +102,10 @@
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "Oil Falls, Gold and Silver Gain After Venezuela: Markets Wrap",
+    "title": "Stock Rally Builds as Traders Look Past Venezuela: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
     "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "Oil fell and precious metals advanced after the US ousted Venezuela’s\npresident, triggering a fresh flashpoint that may stoke geopolitical tensions\nand impact the flow of crude from the region.\n\n"
+    "summary": "Asian equities climbed to a record as investors added to bets on technology\nshares, building on last year’s rally in artificial intelligence companies.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -168,22 +228,10 @@
     "summary": "Nemiroff says products still reaching UK chains such as Sainsbury’s and Tesco\ndespite production difficulties\n\nBusinesses in Ukraine are “not sitting and waiting for the war to end” and are\nworking to expand despite bombs hitting shipments out of the country,\naccording to a leading vodka exporter to the UK.\n\nYuriy Sorochynskyi, the chief executive of Ukraine’s largest spirits export\nbrand, Nemiroff vodka, has said its products have continued to flow to big\nchains including Tesco and Sainsbury’s as it copes with the harsh realities of\nalmost four years of war.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Coronado’s Curragh Mining Suspension Adds to Its Financial Woes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fcoronado-s-curragh-mining-suspension-adds-to-its-financial-woes",
-    "published": "Sun, 04 Jan 2026 02:04:16 CST",
-    "summary": "Coal mining across Coronado Global Resources Inc.’s Curragh complex in\nAustralia’s Queensland state was halted after a worker was killed, adding to\nwoes for the company that’s already dealing with slumping prices.\n\n"
-  },
-  {
     "title": "The big obstacles to Trump’s plan for a Venezuelan oil windfall",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F03%2Fvenezuela-oil-production-us-companies%2F",
     "published": "Sun, 04 Jan 2026 00:05:16 CST",
     "summary": "It would cost billions to update infrastructure. Will the country be stable\nlong enough for the bet to pay off?\n\n"
-  },
-  {
-    "title": "AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026",
-    "published": "Sun, 04 Jan 2026 00:00:00 CST",
-    "summary": "Asian equities kicked off the new year with sharp gains, but the advance may\nface headwinds from worries over an artificial-intelligence bubble and\ndiverging interest-rate paths across the region.\n\n"
   },
   {
     "title": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
@@ -198,58 +246,10 @@
     "summary": "US president says oil majors primed to invest in rebuilding infrastructure\nfollowing Maduro ouster\n\nUS oil giants have so far remained silent on Donald Trump’s claim that they\nare primed to spend “billions and billions of dollars” rebuilding the\nVenezuelan oil industry following the ouster of Nicolás Maduro​.\n\nChevron, the only US oil company still operating in Venezuela, committed only\nto following “relevant laws and regulations” after the US president suggested\nAmerican energy multinationals would be central to his plans for the country.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Modest US Hiring to Cap a Sluggish Year for the Job Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fmodest-us-hiring-to-cap-a-sluggish-year-for-the-job-market",
-    "published": "Sat, 03 Jan 2026 21:00:00 CST",
-    "summary": "US job gains probably remained modest in December, wrapping up one of the\nweakest years for employment growth since 2009.\n\n"
-  },
-  {
     "title": "Airlines Are Canceling Flights After U.S. Closes Airspace Over the Caribbean",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F03%2Fworld%2Ftrump-united-states-strikes-venezuela%2Fflights-canceled-caribbean-faa-venezuela",
     "published": "Sat, 03 Jan 2026 20:40:17 CST",
     "summary": "The Federal Aviation Administration cited “safety-of-flight risks” in\nrestricting the U.S.-controlled airspace as a result of the military operation\nin Venezuela.\n\n"
-  },
-  {
-    "title": "AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly",
-    "published": "Sat, 03 Jan 2026 20:00:00 CST",
-    "summary": "Artificial intelligence spending and the growth of the private credit market\naren’t just spurring companies to borrow more, they’re also helping to\ngenerate fresh records for corporate-bond trading.\n\n"
-  },
-  {
-    "title": "Fed’s Paulson Says Additional Rate Cuts Possible Later This Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Ffed-s-paulson-says-additional-rate-cuts-possible-later-this-year",
-    "published": "Sat, 03 Jan 2026 19:30:00 CST",
-    "summary": "Federal Reserve Bank of Philadelphia President Anna Paulson said modest\nadditional interest-rate cuts could be appropriate later in 2026, but\nconditioned that outcome on a benign outlook for the economy.\n\n"
-  },
-  {
-    "title": "Exor, Ferrari Family Extend Shareholders Pact Governing Carmaker",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Fexor-ferrari-family-extend-shareholders-pact-governing-carmaker",
-    "published": "Sat, 03 Jan 2026 18:37:51 CST",
-    "summary": "Exor NV and members of the Ferrari family have agreed to extend their\nshareholders’ agreement for Ferrari NV, as the Italian luxury car-maker\ndevelops its first fully-electric model amid broader sector headwinds.\n\n"
-  },
-  {
-    "title": "Trump Says US Companies Will Rebuild Venezuelan Oil Infrastructure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-03%2Ftrump-us-companies-to-fix-venezuelan-oil-infrastructure-video",
-    "published": "Sat, 03 Jan 2026 17:29:50 CST",
-    "summary": "President Donald Trump said American oil companies will “spend billions of\ndollars” to fix oil infrastructure in Venezuela following the capture of\nVenezuelan President Nicolas Maduro by US forces in an early morning raid\nSaturday. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump Says US ‘Going to Run’ Venezuela Until Transition Possible",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-03%2Ftrump-us-going-to-run-venezuela-until-transition-video",
-    "published": "Sat, 03 Jan 2026 17:00:35 CST",
-    "summary": "President Donald Trump said the US is “going to run the country until such\ntime as we can do a safe, proper and judicious transition.” Trump spoke\nSaturday after US forces captured Venezuelan President Nicolas Maduro and his\nwife in an early morning raid. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Markets Not Worried About Venezuela, McNally Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-03%2Foil-markets-not-worried-about-venezuela-mcnally-says-video",
-    "published": "Sat, 03 Jan 2026 16:34:35 CST",
-    "summary": "Bob McNally, Rapidan Energy Group founder and president, says the oil markets\nwon't be too worried about a loss in supply from Venezuela in the aftermath of\nUS strikes. He speaks on \"Balance of Power.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Market May Absorb Maduro Shock as Global Supplies Swell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-03%2Foil-market-may-absorb-maduro-shock-amid-abundant-global-supplies",
-    "published": "Sat, 03 Jan 2026 16:33:03 CST",
-    "summary": "While the capture of Venezuelan President Nicolas Maduro following US\nairstrikes marks a seismic geopolitical development, early signals suggest\nthat the global oil market will largely take the move in its stride.\n\n"
   },
   {
     "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead",
