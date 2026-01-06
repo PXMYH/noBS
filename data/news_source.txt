@@ -1,5 +1,23 @@
 [
   {
+    "title": "Indonesia Sees Return of Foreign Investors Into Sovereign Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Findonesia-sees-return-of-foreign-investors-into-sovereign-debt",
+    "published": "Tue, 06 Jan 2026 05:25:52 CST",
+    "summary": "Indonesia’s government bonds eked out an inflow in 2025 thanks to foreign net\nbuying in December, as investors overcame earlier concerns about a new finance\nminister and nationwide unrest.\n\n"
+  },
+  {
+    "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
+    "published": "Tue, 06 Jan 2026 05:00:10 CST",
+    "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
+  },
+  {
+    "title": "Softening Mideast Oil Market Adds to Signs of Global Weakness",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsoftening-mideast-oil-market-adds-to-signs-of-global-weakness",
+    "published": "Tue, 06 Jan 2026 04:49:10 CST",
+    "summary": "The Middle Eastern crude market is showing further signs of weakness,\namplifying concerns about a global glut that could drag prices lower, while\nenabling Asian traders to shrug off developments in Venezuela.\n\n"
+  },
+  {
     "title": "'Sentiment is Back' in Chinese Onshore Equities: Hong",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2F-sentiment-is-back-in-chinese-onshore-equities-hong-video",
     "published": "Tue, 06 Jan 2026 04:15:20 CST",
@@ -57,7 +75,7 @@
     "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcopper-surges-to-fresh-record-as-inventories-locked-in-the-us",
     "published": "Tue, 06 Jan 2026 03:01:43 CST",
-    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as traders and investors bet on a tighter global market.\n\n"
+    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on a tighter market.\n\n"
   },
   {
     "title": "ICICI Bank Says Indian Bonds Face Hurdle as Stocks Lure Savings",
@@ -72,10 +90,10 @@
     "summary": "Chinese stocks climbed to multi-year highs, fueled by sustained optimism over\nthe country’s AI advances and emerging signs of an economic recovery.\n\n"
   },
   {
-    "title": "Jollibee Foods Plans a US Listing of Its International Business",
+    "title": "McDonald’s Rival Jollibee Plans US Listing for Global Business",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business",
     "published": "Tue, 06 Jan 2026 02:19:30 CST",
-    "summary": "Jollibee Foods Corp. plans to spin off its international business and list it\non a US stock exchange by late 2027 as the Philippine fast-food group\naccelerates the development of its global brand.\n\n"
+    "summary": "Shares of Jollibee Foods Corp. jumped the most in more than five years after\nit announced plans to spin off its international business and list it on a US\nstock exchange by late 2027 as the Philippine fast-food group plots its global\nexpansion.\n\n"
   },
   {
     "title": "Traders Boost Taiwan Stock Leverage to Highest Level Since 2008",
@@ -132,22 +150,10 @@
     "summary": "Oil steadied after the biggest gain in a week as traders weighed the outlook\nfor Venezuela, while concerns about a global glut persisted.\n\n"
   },
   {
-    "title": "Trump Snatches Maduro But Leaves Regime in Charge for Now",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ftrump-snatches-maduro-leaves-regime-in-charge-for-now-video",
-    "published": "Mon, 05 Jan 2026 23:28:37 CST",
-    "summary": "After President Donald Trump stunned the world by saying the US plans to “run”\nVenezuela, uncertainty over what that means and who is in charge loomed over\nthe South American nation. Ousted Venezuelan President Nicolás Maduro was an\nindicted prisoner on a flight bound for New York by the time his Vice\nPresident Delcy Rodríguez -- who Trump said would partner with Washington to\n“make Venezuela great again” -- denounced the intervention as “barbaric” and a\n“kidnapping.” Adding to the confusion was that the White House offered few\ndetails about what running an oil-producing nation of about 30 million people\nwould entail. Bloomberg News National Security Team Leader Nick Wadhams joins\nBloomberg Businessweek Daily to discuss. He speaks with Carol Massar and Tim\nStenovec. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Gold Steadies as Traders Look Beyond Venezuela Risk to US Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
     "published": "Mon, 05 Jan 2026 23:19:47 CST",
     "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US.\n\n"
-  },
-  {
-    "title": "BlueScope Steel Shares Surge After $8.8 Billion Takeover Bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbluescope-steel-shares-surge-after-8-8-billion-takeover-offer",
-    "published": "Mon, 05 Jan 2026 23:02:03 CST",
-    "summary": "BlueScope Steel Ltd. shares surged in Sydney, after the company said it was\nconsidering a A$13.2 billion ($8.8 billion) takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
   },
   {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
