@@ -6,7 +6,7 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-The geopolitical landscape is dominated by the fallout from the U.S. capture of Venezuelan President Nicolás Maduro, who pleaded not guilty in a New York court. The move has triggered widespread reactions, with China debating its implications for Taiwan and markets rallying despite heightened tensions. Venezuela's oil industry faces uncertainty as Chinese buyers retreat due to U.S. sanctions, while European defense stocks and precious metals surge amid geopolitical risks. Meanwhile, the U.S. under President Trump continues to reshape global dynamics, from military interventions to defunding domestic institutions like the Corporation for Public Broadcasting. Elsewhere, China's strategic dominance in rare earths and its trade disputes with Japan over Taiwan highlight ongoing regional tensions, while businesses in Ukraine adapt to wartime challenges.
+The most significant geopolitical development this week is the U.S. military operation in Venezuela, which led to the capture of President Nicolás Maduro. The move has triggered widespread repercussions, including market volatility, with European defense stocks and precious metals rising amid heightened geopolitical risks. China, a long-time ally of Venezuela, faces uncertainty over billions in loans to Caracas, while its oil buyers shun Venezuelan crude due to U.S. sanctions. The event has also sparked domestic debate in China, with some viewing it as a potential blueprint for Taiwan, while others caution against ideological rigidity. Meanwhile, the Trump administration continues to reshape U.S. institutions, defunding public broadcasting and downsizing the federal workforce, though critics argue efficiency has suffered. Elsewhere, tensions persist between China and Japan over Taiwan, with Beijing imposing trade restrictions on Japanese scallops as retaliation. Ukrainian businesses, including a major vodka exporter, demonstrate resilience by expanding exports despite ongoing conflict.
 
 **Top Articles:**
 - [Venezuelan Oil Shunned by China as Offers Get More Expensive](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuelan-oil-shunned-by-china-as-offers-get-more-expensive)
@@ -15,20 +15,20 @@ The geopolitical landscape is dominated by the fallout from the U.S. capture of 
 - [Markets in Trump’s New World Order Rally Even After Attacks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmarkets-in-trump-s-new-world-order-rally-even-after-attacks)
 - [Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fcorporation-for-public-broadcasting-pbs-npr-dissolve%2F)
 
-**Sources**: archive.ph (20 articles)
+**Sources**: archive.ph (19 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets kicked off 2026 with mixed signals as investors weighed economic resilience against lingering uncertainties. Equities extended their record-breaking rally, with Chinese stocks surging to four-year highs on AI optimism and signs of recovery, while copper prices hit fresh records above $13,000 per ton amid tight supply and strong US demand. However, concerns about a global oil glut persisted, with Saudi Arabia cutting crude prices to Asia for a third month and Venezuela’s output recovery remaining sluggish despite geopolitical tensions. In corporate news, Jollibee Foods announced plans for a US listing of its international business, while Saks Global faced leadership changes amid bankruptcy rumors. Meanwhile, the Federal Reserve’s December meeting minutes revealed deep divisions over further rate cuts, with officials split on whether inflation or unemployment poses a greater risk. The Fed’s cautious stance contrasts with robust credit markets, which saw a $61 billion bond issuance surge in a single day, signaling strong investor appetite for debt.
+Global markets kicked off 2026 with mixed signals as investors weighed economic resilience against lingering uncertainties. Chinese stocks surged to four-year highs, buoyed by optimism over AI advancements and signs of economic recovery, while copper prices hit record levels amid tight supply conditions. Meanwhile, oil markets remained volatile, with Middle Eastern crude weakening due to global glut concerns, though Venezuela’s potential output growth drew attention from U.S. refiners. Corporate activity saw notable moves, including Prudential’s $1.2 billion share buyback and Jollibee’s plans for a U.S. IPO, while Saks Global faced leadership changes amid bankruptcy rumors. Central banks remained in focus, with the Fed’s minutes revealing deep divisions over further rate cuts, and Japan’s bond yields rising on fiscal worries. The broader equity rally continued, though analysts cautioned about frothy valuations and geopolitical risks.
 
 **Top Articles:**
+- [Insurer Prudential Announces $1.2 Billion Share Buyback Program](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finsurer-prudential-announces-1-2-billion-share-buyback-program)
+- [Next Lifts Profit Forecast Again on Strong Holiday Season Sales](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnext-lifts-profit-forecast-again-on-strong-holiday-season-sales)
+- [Strong Start to 2026 for Chinese Stocks | The China Show 1/6/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-china-show-1-6-2026-video)
 - [Bisat: Lebanon's Gap Law Fair Process to Repay Depositors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbisat-lebanon-gap-law-fair-process-to-repay-depositors-video)
 - [The Asia Trade 01/06/26](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-asia-trade-01-06-26-video)
-- [Indonesia Sees Return of Foreign Investors Into Sovereign Debt](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Findonesia-sees-return-of-foreign-investors-into-sovereign-debt)
-- [Slumping Mideast Oil Market Adds to Signs of Global Weakness](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsoftening-mideast-oil-market-adds-to-signs-of-global-weakness)
-- [Goldman Sees China Steel-Capacity Cuts Going Slower Than Thought](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-steel-outlook-cut-as-capacity-progress-slows-goldman-says)
 
 **Sources**: archive.ph (83 articles)
 
@@ -36,22 +36,22 @@ Global markets kicked off 2026 with mixed signals as investors weighed economic 
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by shifting dynamics in electric vehicles, regulatory challenges, and strategic corporate moves. China's BYD overtakes Tesla as the world's top EV seller, capitalizing on Tesla's slumping deliveries amid policy changes, while Lucid Group reports a 55% increase in EV deliveries. Meanwhile, regulatory pressures intensify as China cracks down on AI chatbots and the U.S. faces legal challenges from Ørsted over suspended offshore wind projects. In corporate news, Uber restructures contracts to avoid UK taxes, and Paramount secures Larry Ellison's backing in its bid for Warner Bros. Discovery. The energy sector sees Chevron doubling down on Venezuela and Kazakhstan, while oil giants remain cautious about Trump's claims of major investments in Venezuela. Financial markets show resilience, with Citadel's flagship fund rising 10.2% in 2025, and Taiwan's stock leverage hitting a 17-year high.
+The tech and business landscape in early 2026 is marked by significant shifts in global markets, regulatory challenges, and industry pivots. China's BYD surpasses Tesla as the world's top electric vehicle seller, reflecting the impact of U.S. policy changes under Trump, including the withdrawal of EV subsidies. Meanwhile, traditional industries like oil see renewed interest, with Chevron positioning itself to expand in Venezuela amid political uncertainty, though major U.S. oil firms remain cautious about Trump's claims of billions in investments. Financial markets show mixed signals, with Taiwan's stock leverage hitting a 17-year high, while Citadel's flagship hedge fund posts a 10.2% gain in a volatile 2025. Regulatory battles intensify, as Ørsted challenges the U.S. government over a suspended offshore wind project, and Uber restructures contracts to avoid UK taxes. Consumer trends highlight a focus on value, with restaurant chains doubling down on affordability and Chick-fil-A launching its largest marketing campaign to attract customers in a shrinking industry.
 
 **Top Articles:**
+- [Mirae Asset India Veteran Mahendra Jajoo Joins Quant Mutual Fund](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmirae-asset-india-veteran-mahendra-jajoo-joins-quant-mutual-fund)
 - [AB InBev Reacquires Stake in US Container Plants for $3 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fab-inbev-reacquires-stake-in-us-container-plants-for-3-billion)
 - [Traders Boost Taiwan Stock Leverage to Highest Level Since 2008](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-boost-taiwan-stock-leverage-to-highest-level-since-2008)
 - [Chevron’s Risky Bet to Stay in Venezuela May Now Give It an Advantage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html)
 - [Jamie Dimon’s $770 Million Haul Shows How Bankers Are on Top Again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html)
-- [How Chevron Aims to Tap More Oil Below Kazakhstan’s Grassy Plains](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchevron-kazakhstan-oil.html)
 
-**Sources**: archive.ph (73 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports and entertainment landscape sees notable developments as Fox's free streaming service Tubi surpasses Peacock and HBO Max in viewership, capturing a larger share of streaming minutes in Nielsen's November report. This shift highlights the growing competition in the streaming market, with Tubi emerging as a surprising contender. Meanwhile, the NBA is making strategic moves to expand its global footprint, actively pursuing ownership groups to launch a new professional men’s basketball league in Europe in partnership with FIBA. The initiative signals the NBA's ambition to strengthen its international presence and tap into new markets. These developments underscore broader trends in media consumption and sports league expansion, with both sectors adapting to evolving audience preferences and business opportunities.
+The sports and entertainment landscape sees notable developments this week, with the NBA making strides in global expansion while streaming platforms compete for dominance. The NBA is actively pursuing ownership groups to launch a new professional men’s basketball league in Europe, partnering with FIBA to tap into the continent’s growing market. This move underscores the league’s ambition to expand its international footprint beyond exhibition games and academies. Meanwhile, in the streaming wars, Fox’s free ad-supported platform Tubi emerges as a surprise contender, surpassing Peacock and HBO Max in share of streaming minutes for November, according to Nielsen’s Gauge report. The shift highlights changing consumer preferences toward cost-effective viewing options, even as major sports leagues and broadcasters navigate evolving media landscapes. These developments signal broader trends in both sports business and digital entertainment, with global expansion and accessibility at the forefront.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -63,11 +63,11 @@ The sports and entertainment landscape sees notable developments as Fox's free s
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, corporate developments, and societal challenges. In business, Hong Kong's luxury real estate market sees a surge, with developers selling $750 million in high-end homes, while Chubu Electric faces scrutiny over nuclear safety data, causing its shares to drop. Meanwhile, Novo Nordisk launches the first GLP-1 obesity pill in the U.S., offering a more affordable option for weight management. On the political front, the Supreme Court's perceived bias toward wealthier litigants sparks debate, and the Trump administration's policies—from auto loan tax breaks to marijuana reclassification—continue to draw attention. Socially, rising malnutrition deaths among older Americans and the ongoing affordability crisis for middle-class homebuyers underscore persistent economic strains. Cultural trends include travel loyalty programs offering exclusive perks and a growing 'no shoes' policy in workplaces, blurring home-office boundaries.
+The start of 2026 brings a mix of economic optimism and lingering affordability concerns. Financial markets show resilience, with the FTSE 100 extending gains and the pound rising, while European banks remain a strong investment play. However, housing affordability continues to strain middle-class Americans, with starter homes disappearing and down payments posing major barriers. The Supreme Court’s growing favoritism toward wealthy litigants and rising malnutrition deaths among the elderly underscore deepening societal divides. Meanwhile, corporate and political developments highlight shifting priorities: Novo Nordisk’s new GLP-1 obesity pill launches at competitive prices, while the Trump administration faces legal challenges over H-1B visa fees and pushes tax breaks to ease affordability concerns. Cultural trends, from luxury home sales in Hong Kong to Lego’s high-profile Formula 1 sponsorship, reflect evolving consumer behaviors and brand strategies.
 
 **Top Articles:**
+- [FTSE 100 Set to Extend Gains, Pound Rises](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-06%2Fftse-100-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today-mk28k0sz)
 - [Hong Kong Developers Sell $750 Million of Luxury Homes in Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fhong-kong-developers-sell-750-million-of-luxury-homes-in-weeks)
-- [Chubu Electric Shares Drop After Probe Into Nuclear Safety Data](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchubu-electric-shares-drop-after-probe-into-nuclear-safety-data)
 - [Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html)
 - [Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html)
 - [A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fclimate%2Fglyphosate-roundup-retracted-study.html)
@@ -76,4 +76,4 @@ This week's news highlights a mix of economic shifts, corporate developments, an
 
 ---
 
-*Digest generated on January 06, 2026 at 06:59 AM *
+*Digest generated on January 06, 2026 at 07:47 AM *
