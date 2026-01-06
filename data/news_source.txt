@@ -1,5 +1,53 @@
 [
   {
+    "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html",
+    "published": "Tue, 06 Jan 2026 21:35:15 CST",
+    "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
+  },
+  {
+    "title": "Bullish Treasuries Wagers Target 10-Year Yields Falling Below 4%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbullish-treasuries-wagers-target-10-year-yields-falling-below-4",
+    "published": "Tue, 06 Jan 2026 21:30:00 CST",
+    "summary": "Traders in Treasury options are boosting bets that US 10-year yields will bust\nout of their recent range and tumble below 4% in the coming weeks to levels\nlast seen in November.\n\n"
+  },
+  {
+    "title": "Transport Stocks Leap to New High on US Economic Growth Hopes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftransport-stocks-leap-to-new-high-on-us-economic-growth-hopes",
+    "published": "Tue, 06 Jan 2026 21:08:06 CST",
+    "summary": "US transportation stocks closed at a record level Tuesday capping off a\nrebound fueled by prospects of strong economic growth this year.\n\n"
+  },
+  {
+    "title": "Top union accuses Texas of targeting teachers over Charlie Kirk posts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftexas-charlie-kirk-social-media",
+    "published": "Tue, 06 Jan 2026 20:54:59 CST",
+    "summary": "American Federation of Teachers sues over what it says are unconstitutional\ninvestigations into social media comments\n\nA major Texas teachers’ union filed a federal lawsuit against the state on\nTuesday challenging what it describes as unconstitutional investigations into\nhundreds of educators who posted comments on social media following the\nSeptember killing of conservative activist Charlie Kirk.\n\nThe Texas American Federation of Teachers, which represents approximately\n66,000 public school employees, is asking a federal court to block the Texas\nEducation Agency and its commissioner, Mike Morath, from continuing\ninvestigations that the union argues violate teachers’ free speech\nprotections.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Targeting $14K For Copper: Max Layton",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ftargeting-14k-for-copper-max-layton-video",
+    "published": "Tue, 06 Jan 2026 20:47:37 CST",
+    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time. Citi's Global Head of Commodities Research Max Layton said that he\nis staying bullish on copper in the near-term and is targeting copper price\naround $14,000 a ton now. He discussed his outlook on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "How Venezuela’s Oil Could Shake Up the World Supply",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
+    "published": "Tue, 06 Jan 2026 20:47:24 CST",
+    "summary": "The country could, eventually, attract investment and re-emerge as a force in\nthe oil markets, but many analysts are concerned about an oversupply.\n\n"
+  },
+  {
+    "title": "Enthusiasm in Private Markets for M&A Demand: Lee",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fenthusiasm-in-private-markets-for-m-a-demand-lee-video",
+    "published": "Tue, 06 Jan 2026 20:47:02 CST",
+    "summary": "Christina Lee, Co-Portfolio Manager for US Private Debt Strategy at Oaktree\nCapital Management, sees enthusiasm in private equity for M&A and expects a\nbacklog of deals to hit in 2026. She speaks to Bloomberg's Tim Stenovec and\nCarol Massar on 'Bloomberg Businessweek Daily.' (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
+    "published": "Tue, 06 Jan 2026 20:44:21 CST",
+    "summary": "Although it's hard to say how much bitcoin could be held by Venezuela, it's\nlikely the regime has amassed considerable holdings of the token, experts\nsaid.\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html",
     "published": "Tue, 06 Jan 2026 20:16:09 CST",
@@ -12,12 +60,6 @@
     "summary": "Newly-inaugurated New York City Mayor Zohran Mamdani’s housing agenda is\nfacing its first test as the city balks at the bankruptcy sale of thousands of\nrent-stabilized apartments owned by Pinnacle Group, where residents have\nrailed against living conditions.\n\n"
   },
   {
-    "title": "How Venezuela’s Oil Could Shake Up the World Supply",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
-    "published": "Tue, 06 Jan 2026 19:45:09 CST",
-    "summary": "The country could, eventually, attract investment and re-emerge as a force in\nthe oil markets, but many analysts are concerned about an oversupply.\n\n"
-  },
-  {
     "title": "KBC and Van Lanschot Kempen to Form Equities Joint Venture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fkbc-and-van-lanschot-kempen-to-form-equities-joint-venture",
     "published": "Tue, 06 Jan 2026 19:38:19 CST",
@@ -28,12 +70,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Foracle-s-debt-unlikely-to-trigger-cut-to-junk-grade-ubs-says",
     "published": "Tue, 06 Jan 2026 19:34:36 CST",
     "summary": "Oracle Corp. will likely maintain its investment-grade bond rating in the near\nterm despite borrowing tens of billions of dollars to expand its artificial-\nintelligence push, according to UBS Group AG.\n\n"
-  },
-  {
-    "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html",
-    "published": "Tue, 06 Jan 2026 19:33:05 CST",
-    "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
     "title": "Scotiabank CEO Sees ‘Trump Doctrine’ as Positive for Growth",
@@ -132,28 +168,10 @@
     "summary": "Weatherford International Plc, one of the world’s biggest oil service\nproviders, called Venezuela a “massive opportunity” for the industry following\nthe US capture of the Caribbean nation’s leader, Nicolás Maduro.\n\n"
   },
   {
-    "title": "Buyout Firm Hg to Take OneStream Private in $6.4 Billion Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbuyout-firm-hg-to-take-onestream-private-in-6-4-billion-deal",
-    "published": "Tue, 06 Jan 2026 17:38:08 CST",
-    "summary": "Buyout firm Hg has agreed to acquire OneStream Inc. in a deal valuing the\nfinancial software maker at an equity value of about $6.4 billion.\n\n"
-  },
-  {
-    "title": "Bets on Maduro, Jesus Show Promise and Risks of Prediction Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbets-on-maduro-show-promise-risks-of-prediction-boom-video",
-    "published": "Tue, 06 Jan 2026 17:36:36 CST",
-    "summary": "Even in the age of AI and cryptocurrencies, industries promoted breathlessly\nby hype merchants, the superlatives tossed around by the creators of the\nprediction-markets boom stand out. As the year drew to a close, one founder\ndeclared that the markets had become “the most accurate thing we have as\nmankind right now.” Another promised that they would, in the not-so-distant\nfuture, “financialize everything.” Bloomberg's Denitsa Tsekova joins to\ndiscuss. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
     "published": "Tue, 06 Jan 2026 17:36:01 CST",
     "summary": "Companies like Kairos Power are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
-  },
-  {
-    "title": "Russian Refined Fuel Flows Hit Four-Month High on Diesel Surge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Frussian-refined-fuel-flows-hit-four-month-high-on-diesel-surge",
-    "published": "Tue, 06 Jan 2026 17:20:21 CST",
-    "summary": "Russian oil product exports rose in December to a four-month high, driven by\nstronger diesel shipments from ports in the Baltic Sea to nearby markets.\n\n"
   },
   {
     "title": "Chevron Lines Up 11 Ships as Venezuela’s Dark Fleet Vanishes",
@@ -213,13 +231,13 @@
     "title": "Data-Center Cooling Stocks Sink After Nvidia CEO’s CES Talk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fdata-center-cooling-stocks-sink-after-nvidia-ceo-talks-at-ces",
     "published": "Tue, 06 Jan 2026 15:03:59 CST",
-    "summary": "Makers of cooling systems saw their stocks plunge on Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
+    "summary": "Makers of cooling systems saw their stocks sell off Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
   },
   {
-    "title": "S&amp;P 500 Heads Toward Record With Rotation Trade Gaining Traction",
+    "title": "S&amp;P 500 Notches Fresh Record With Rotation Trade Gathering Pace",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
     "published": "Tue, 06 Jan 2026 14:39:31 CST",
-    "summary": "US stocks climbed for a third straight day on Tuesday, led by advances in\nmaterials, industrials and financials as a market rotation into laggards\ngathered pace and catapulted the benchmark toward a fresh all-time high.\n\n"
+    "summary": "US stocks closed at an all-time high Tuesday, led by advances in materials,\nindustrials and financials as a market rotation into laggards gained traction.\n\n"
   },
   {
     "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
@@ -318,16 +336,10 @@
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "US Stocks Flirt With Record as Bull Run Extends: Markets Wrap",
+    "title": "US Stocks Notch Fresh High in Tech-Fueled Bull Run: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "US stocks barreled towards a new record on Tuesday, continuing a run driven by\ninvestor optimism over artificial intelligence and expectations of easier\nmonetary policy from the Federal Reserve.\n\n"
-  },
-  {
-    "title": "Bets on Maduro, Jesus Reveal Promise and Risks of Prediction Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-05%2Fkalshi-and-polymarket-use-sports-gambling-as-entry-point-for-prediction-markets",
-    "published": "Mon, 05 Jan 2026 22:00:15 CST",
-    "summary": "Prediction platforms pitch themselves as tools for insight, but eye-catching\nbets on real-world events are raising questions about access, integrity and\nregulation.\n\n"
+    "summary": "US stocks closed at a new record on Tuesday, continuing a run driven by\ninvestor optimism over artificial intelligence and expectations of easier\nmonetary policy from the Federal Reserve.\n\n"
   },
   {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
@@ -708,12 +720,6 @@
     "summary": "Airlines are continuing their focus on premium travelers, adding lounges, new\nfirst-class cabins and other perks for customers willing to spend more to fly.\n\n"
   },
   {
-    "title": "Italian pasta makers win reprieve from Trump tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F02%2Fitalian-pasta-makers-win-reprieve-from-trump-tariffs",
-    "published": "Fri, 02 Jan 2026 10:51:49 CST",
-    "summary": "US cuts proposed levies to between 2% and 14% despite accusing Italian\nproducers of selling at unfairly low prices\n\nThe US government has slashed proposed tariffs on Italian pasta that would\nhave almost doubled the cost of many brands for shoppers.\n\nDonald Trump had threatened to impose tariffs as high as 92% on Italian pasta\ncompanies, after accusing 13 producers including Barilla, La Molisana and\nPastificio Lucio Garofalo of selling their products at unfairly low prices.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Welcome to the Office. Now Take Off Your Shoes.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fwelcome-to-the-office-now-take-off-your-shoes.html",
     "published": "Fri, 02 Jan 2026 10:00:36 CST",
@@ -862,12 +868,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F29%2Fgm-stock-tesla-ford.html",
     "published": "Mon, 29 Dec 2025 21:36:36 CST",
     "summary": "General Motors' stock is having its best year since the company's reemergence\nfrom bankruptcy in 2009.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves midday: Nvidia, Ultragenyx Pharmaceutical, Newmont, DigitalBridge & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F29%2Fstocks-making-the-biggest-moves-midday-nvda-rare-nem-dbrg.html",
-    "published": "Mon, 29 Dec 2025 19:24:16 CST",
-    "summary": "Check out some of the stocks making the biggest moves in midday trading.\n\n"
   },
   {
     "title": "Airlines cancel 1,400 more flights but disruptions from winter storm ease. Here’s what to know",
