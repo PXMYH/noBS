@@ -1,5 +1,59 @@
 [
   {
+    "title": "IPOs: Serious Business With Some Showbiz",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fipos-serious-business-with-some-showbiz-video",
+    "published": "Tue, 06 Jan 2026 10:35:27 CST",
+    "summary": "Many stock exchanges pull out the showbiz stops to attract IPOs to their\nvenues, employing lasers, gongs, dancers, confetti and more. It's a good time,\nbut it’s also serious business, as exchanges compete for a dwindling number of\nlistings in recent years. Bloomberg Television Anchor Tom Mackenzie takes a\nlook at some of the entertaining ways initial public offerings are celebrated.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trafigura to Discuss Venezuela With US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ftrafigura-to-discuss-venezuela-with-us-video",
+    "published": "Tue, 06 Jan 2026 10:32:50 CST",
+    "summary": "Trafigura will have discussions with the US government about Venezuelan oil,\nbut wants to see a proper legal framework for investment in the country. Ben\nLuckock, Trafigura's Global Head of Oil speaks with Vonnie Quinn on 'Bloomberg\nBrief'. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Traders Show No Venezuela Angst But Events Foreshadow 2026 Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-show-no-venezuela-angst-but-events-foreshadow-2026-risks",
+    "published": "Tue, 06 Jan 2026 10:30:00 CST",
+    "summary": "Wall Street bulls need a lot to go right if 2026 is going to deliver a fourth\nstraight year of double-digit returns. Trade tensions between the US and its\nneighbors remain high. The US economy is showing signs of sluggishness,\ninterest rates are elevated even after three cuts and the artificial\nintelligence trade is far from a slam dunk.\n\n"
+  },
+  {
+    "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fstyle%2Fmichael-wolff-victoria-wolff-our-amagansett-house.html",
+    "published": "Tue, 06 Jan 2026 10:00:29 CST",
+    "summary": "The author and Trump antagonist Michael Wolff has his wife, Victoria, to thank\nfor his latest chapter: lifestyle influencer. Now she’s becoming one, too.\n\n"
+  },
+  {
+    "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
+    "published": "Tue, 06 Jan 2026 10:00:21 CST",
+    "summary": "Companies like Kairos Energy are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
+  },
+  {
+    "title": "Gold Miner Aims to Retake Venezuela Assets After Maduro’s Fall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-miner-aims-to-retake-venezuela-assets-after-maduro-s-fall",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "Gold Reserve Ltd. has spent years fighting with Nicolas Maduro’s government\nover two gold deposits seized by Venezuela. Now, after the US captured the\ncountry’s leader on Saturday, the tiny mining company sees a path to regain\nthose prized assets.\n\n"
+  },
+  {
+    "title": "The data center rebellion is here, and it’s reshaping the political landscape",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "Backlash over the proliferation of data centers has entered the national\npolitical conversation and could affect voters of all political persuasions in\nthis year’s midterm elections.\n\n"
+  },
+  {
+    "title": "Congress has four weeks to dodge another shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
+  },
+  {
+    "title": "Claire’s Enters UK Insolvency as Modella Blames High Street Pain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fclaire-s-enters-uk-insolvency-as-modella-blames-high-street-pain",
+    "published": "Tue, 06 Jan 2026 09:56:15 CST",
+    "summary": "Claire’s Accessories in the UK and Ireland entered insolvency proceedings\nalong with discount department store chain The Original Factory Shop, after\nowner Modella Capital failed to turn around the struggling retailers.\n\n"
+  },
+  {
     "title": "What Trump’s Venezuela Attack Means for Xi and Taiwan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fwhat-trump-s-venezuela-attack-means-for-xi-and-taiwan-video",
     "published": "Tue, 06 Jan 2026 09:36:01 CST",
@@ -10,6 +64,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fjpmorgan-s-wiltz-on-ipos-this-year-video",
     "published": "Tue, 06 Jan 2026 09:31:08 CST",
     "summary": "A top JPMorgan's banker, EMEA co-head Mathieu Wiltz, said the US bank is\n'bullish' in its capacity to deliver more IPOs this year. Despite the global\nheadwinds, Matthieu Wiltz said the sentiment is 'positive' for 2026. He spoke\nexclusively with Bloomberg's Anna Edwards, Tom Mackenzie and Guy Johnson from\nParis. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "UK Exports Return to Growth After Yearlong Slump, PMI Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fuk-exports-return-to-growth-after-yearlong-slump-pmi-shows",
+    "published": "Tue, 06 Jan 2026 09:30:00 CST",
+    "summary": "British businesses reported their first pickup in overseas orders in over a\nyear, according to a survey suggesting private sector activity turned a corner\nat the end of 2025.\n\n"
   },
   {
     "title": "ECB’s Villeroy Says Attacks on Fed Independence Undermine Dollar",
@@ -27,7 +87,7 @@
     "title": "BlackRock Sees Prospect of ‘Very Exciting’ Copper Market",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fblackrock-sees-prospect-of-very-exciting-copper-market-video",
     "published": "Tue, 06 Jan 2026 08:52:59 CST",
-    "summary": "Evy Hambro, head of fundamental equities thematic and sector investing at\nBlackRock, discusses the outlook for copper prices and the economic transition\nin China, Europe and the US on commodity markets. “We’re seeing this kind of\nindustrial activity. We’re seeing this move away from fossil fuels towards\nkind of renewable power. We’re seeing this increased electrification. We’re\nseeing AI. We’re seeing all of these pressures building and they need\ncommodities to solve them,” Hambro tells Bloomber\n\n"
+    "summary": "Evy Hambro, head of fundamental equities thematic and sector investing at\nBlackRock, discusses the outlook for copper prices and the impact of the\neconomic transition in China, Europe and the US on commodity markets. “We’re\nseeing this kind of industrial activity. We’re seeing this move away from\nfossil fuels towards kind of renewable power. We’re seeing this increased\nelectrification. We’re seeing AI. We’re seeing all of these pressures building\nand they need commodities to solve them,” Hambro\n\n"
   },
   {
     "title": "Japan Trading Houses Call for Stable Yen to Protect Investments",
@@ -60,46 +120,16 @@
     "summary": "China imposed controls on exports to Japan with any military use, intensifying\na dispute between Asia’s top economies over remarks Japanese Prime Minister\nSanae Takaichi made last year on Taiwan.\n\n"
   },
   {
-    "title": "Reliance Heads for Worst Day Since 2024 on Retail Sector Worries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Freliance-heads-for-worst-day-since-2024-on-retail-sector-worries",
-    "published": "Tue, 06 Jan 2026 08:08:18 CST",
-    "summary": "Reliance Industries Ltd.’s shares tumbled after analysts warned of rising\ncompetition in the retail sector, where the Mukesh Ambani-controlled\nconglomerate is a major player.\n\n"
-  },
-  {
-    "title": "InPost Gets Indicative Proposal for Acquisition of Company",
+    "title": "InPost Soars After Receiving Bid to Buy Parcel Locker Firm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finpost-gets-indicative-proposal-for-acquisition-of-company",
     "published": "Tue, 06 Jan 2026 07:53:54 CST",
-    "summary": "Polish logistics firm InPost SA said it received an indicative proposal\nregarding a potential acquisition of all of its shares. The stock surged as\nmuch as 20% on the news.\n\n"
-  },
-  {
-    "title": "Asian Stocks in Best-Ever Start to a Year, Currencies Strengthen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fasian-stocks-in-best-ever-start-to-a-year-currencies-strengthen",
-    "published": "Tue, 06 Jan 2026 07:47:11 CST",
-    "summary": "Asian stocks are having their best-ever start to a year, with the region’s\ncurrencies and bonds also rallying as investors seek opportunities outside the\nUS.\n\n"
+    "summary": "InPost SA, a Polish operator of parcel lockers, received a takeover proposal\nfrom an unidentified company, sending its stock up 20%.\n\n"
   },
   {
     "title": "French Inflation Decelerates to Seven-Month Low on Energy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrench-inflation-decelerates-to-seven-month-low-on-energy",
     "published": "Tue, 06 Jan 2026 07:45:00 CST",
     "summary": "French inflation slowed slightly in December as energy costs fell, indicating\nlittle change in the backdrop that has allowed the European Central Bank to\nkeep interest rates on hold.\n\n"
-  },
-  {
-    "title": "China Vanke Crisis Prompts Smaller Builder to Reassure Creditors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-vanke-fallout-seen-as-smaller-builder-talks-state-support",
-    "published": "Tue, 06 Jan 2026 07:42:01 CST",
-    "summary": "Ripples from the crisis at Chinese developer China Vanke Co. are reaching all\nthe way to builders fully owned by the state.\n\n"
-  },
-  {
-    "title": "Pictet Co-CEO Sagayam on Global Investment Opportunities",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fpictet-co-ceo-sagayam-on-global-investment-opportunities-video",
-    "published": "Tue, 06 Jan 2026 07:41:07 CST",
-    "summary": "Pictet Group Managing Partner and Co-CEO Raymond Sagayam shares his views on\ninvestment opportunities in a rapidly changing global landscape. He speaks on\nInsight With Haslinda Amin. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Nvidia’s CES AI Reveal Fuels Global Tech Optimism | Insight with Haslinda Amin 01/06/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Finsight-with-haslinda-amin-1-6-2026-video",
-    "published": "Tue, 06 Jan 2026 07:38:51 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Insurer Prudential Announces $1.2 Billion Share Buyback",
@@ -112,12 +142,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnext-lifts-profit-forecast-again-on-strong-holiday-season-sales",
     "published": "Tue, 06 Jan 2026 07:20:24 CST",
     "summary": "Next Plc raised its profit forecast for a fifth time this financial year after\nsales at the British retailer soared in the key Christmas period.\n\n"
-  },
-  {
-    "title": "Strong Start to 2026 for Chinese Stocks | The China Show 1/6/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-china-show-1-6-2026-video",
-    "published": "Tue, 06 Jan 2026 07:16:38 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "FTSE 100 Hits Fresh Record as Miners Gain",
@@ -150,28 +174,28 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "Japan’s Long-Tenor Bond Yields Rise After 10-Year Debt Auction",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjapan-10-year-bond-sale-demand-in-line-with-12-month-average-mk21ig60",
-    "published": "Tue, 06 Jan 2026 03:38:48 CST",
-    "summary": "Japan’s long maturity bond yields rose after a relatively smooth 10-year\ngovernment bond auction failed to dispel ongoing fiscal and inflation\nconcerns.\n\n"
-  },
-  {
     "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcopper-surges-to-fresh-record-as-inventories-locked-in-the-us",
     "published": "Tue, 06 Jan 2026 03:01:43 CST",
-    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on a tighter market.\n\n"
-  },
-  {
-    "title": "Chinese Stocks Rally to Four-Year High in Strong Start to 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchinese-stocks-rally-to-four-year-high-in-strong-start-to-2026",
-    "published": "Tue, 06 Jan 2026 02:47:55 CST",
-    "summary": "Chinese stocks climbed to multi-year highs, fueled by sustained optimism over\nthe country’s AI advances and emerging signs of an economic recovery.\n\n"
+    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on a tighter market and a risk-on mood took hold\nin broader financial markets.\n\n"
   },
   {
     "title": "McDonald’s Rival Jollibee Soars on Plan to List Global Unit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business",
     "published": "Tue, 06 Jan 2026 02:19:30 CST",
     "summary": "Jollibee Foods Corp. will spin off its international business and list it on a\nUS stock exchange as the Philippine fast-food group plots its global\nexpansion, an announcement that fueled its shares’ largest single-day surge\nsince 2008.\n\n"
+  },
+  {
+    "title": "Gold Steadies as Traders Look Beyond Venezuela Risk to US Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
+    "published": "Mon, 05 Jan 2026 23:19:47 CST",
+    "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US. Silver rose for a third day.\n\n"
+  },
+  {
+    "title": "BlueScope Steel Shares Surge After $8.8 Billion Takeover Bid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbluescope-steel-shares-surge-after-8-8-billion-takeover-offer",
+    "published": "Mon, 05 Jan 2026 23:02:03 CST",
+    "summary": "BlueScope Steel Ltd. shares surged in Sydney, after the company said it was\nconsidering a A$13.2 billion ($8.8 billion) takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
   },
   {
     "title": "AI Video Creation Leads China’s Kuaishou to 88% Stock Surge",
@@ -186,10 +210,10 @@
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "Stocks Build on New Year’s Rally as Metals Gain: Markets Wrap",
+    "title": "US Stock Rally Stalls as Rotation Gathers Pace: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "Equities extended their New Year’s rally as investors increasingly rotated\ninto regional stocks, drawn by more attractive valuations and stronger growth\nprospects.\n\n"
+    "summary": "A New Year’s rally in US stocks paused as a rotation into regional stocks\nbroadened and investors awaited fresh data to gauge the strength of the\nAmerican economy.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -756,12 +780,6 @@
     "summary": "Hyphen aims to make service better and more efficient, and it has investors\nincluding Cava and Chipotle.\n\n"
   },
   {
-    "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fclimate%2Fsolar-south-africa-china.html",
-    "published": "Tue, 30 Dec 2025 19:18:16 CST",
-    "summary": "Chinese panels are now so affordable that businesses and families are snapping\nthem up, slashing their bills and challenging utilities.\n\n"
-  },
-  {
     "title": "Home prices are getting slightly more affordable, but down payments are still holding buyers back",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fhome-prices-affordable-down-payments-buyers.html",
     "published": "Tue, 30 Dec 2025 17:56:27 CST",
@@ -790,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fstocks-making-the-biggest-moves-premarket-apld-meta-ba.html",
     "published": "Tue, 30 Dec 2025 12:18:29 CST",
     "summary": "These are the stocks posting the largest moves premarket.\n\n"
-  },
-  {
-    "title": "Katherine Maher of NPR Has Come Out on Top Despite Battles With Trump and the CPB",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fbusiness%2Fnpr-katherine-maher.html",
-    "published": "Tue, 30 Dec 2025 10:00:09 CST",
-    "summary": "Katherine Maher has taken an unyielding approach to NPR’s biggest battles —\nwhich has sometimes put her at odds with her colleagues in public media.\n\n"
   },
   {
     "title": "Silver futures log worst day since 2021, retreating sharply from record",
