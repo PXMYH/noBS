@@ -1,5 +1,11 @@
 [
   {
+    "title": "'Sentiment is Back' in Chinese Onshore Equities: Hong",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2F-sentiment-is-back-in-chinese-onshore-equities-hong-video",
+    "published": "Tue, 06 Jan 2026 04:15:20 CST",
+    "summary": "Lotus Asset Management CIO Hao Hong discusses the surge in China's A-shares,\nwarning that economic fundamentals have not yet caught up with the rally.\n(Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Goldman Sees China Steel-Capacity Cuts Going Slower Than Thought",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-steel-outlook-cut-as-capacity-progress-slows-goldman-says",
     "published": "Tue, 06 Jan 2026 03:58:48 CST",
@@ -30,10 +36,10 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "Japan 10-Year Bond Sale Demand In Line With 12-Month Average",
+    "title": "Japan’s 10-Year Bond Sale Draws Investor Demand on High Yields",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjapan-10-year-bond-sale-demand-in-line-with-12-month-average-mk21ig60",
     "published": "Tue, 06 Jan 2026 03:38:48 CST",
-    "summary": "Japan’s 10-year government bond auction drew demand that was in line with its\n12-month average as high yields lured investors.\n\n"
+    "summary": "Japan’s 10-year government bond auction went off smoothly, attracting demand\nfrom investors drawn to high yields.\n\n"
   },
   {
     "title": "Global Dollar Bond Sales to Accelerate After $61 Billion Surge",
@@ -63,7 +69,7 @@
     "title": "Chinese Stocks Rally to Four-Year High in Strong Start to 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchinese-stocks-rally-to-four-year-high-in-strong-start-to-2026",
     "published": "Tue, 06 Jan 2026 02:47:55 CST",
-    "summary": "Chinese stocks climbed to multi-year highs as persistent AI-driven gains and\ngrowing signs of an economic recovery kept sentiment upbeat.\n\n"
+    "summary": "Chinese stocks climbed to multi-year highs, fueled by sustained optimism over\nthe country’s AI advances and emerging signs of an economic recovery.\n\n"
   },
   {
     "title": "Jollibee Foods Plans a US Listing of Its International Business",
@@ -138,12 +144,6 @@
     "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US.\n\n"
   },
   {
-    "title": "CEOs Recognize Venezuela's Potential: Teneo's Kajiwara",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fceos-recognize-venezuela-s-potential-teneo-s-kajiwara-video",
-    "published": "Mon, 05 Jan 2026 23:17:10 CST",
-    "summary": "Kevin Kajiwara, Teneo President for Political Risk Advisory, says CEOs see\nVenezuela’s economic potential but are realistic about the challenges ahead.\nHe speaks with Romaine Bostick and Katie Greifeld on “The Close. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "BlueScope Steel Shares Surge After $8.8 Billion Takeover Bid",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbluescope-steel-shares-surge-after-8-8-billion-takeover-offer",
     "published": "Mon, 05 Jan 2026 23:02:03 CST",
@@ -159,7 +159,7 @@
     "title": "Asian Stocks Rise to Extend Record, Silver Rallies: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "Asian equities climbed to a new all-time high, led by Chinese technology\nshares, as investors rotated into regional stocks in search of more attractive\nvaluations and stronger growth prospects.\n\n"
+    "summary": "Asian equities climbed to a record, led by Chinese technology shares, as\ninvestors rotated into regional stocks in search of more attractive valuations\nand stronger growth prospects.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -260,7 +260,7 @@
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
-    "published": "Mon, 05 Jan 2026 17:57:43 CST",
+    "published": "Mon, 05 Jan 2026 17:57:44 CST",
     "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
   },
   {
@@ -348,10 +348,10 @@
     "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
   },
   {
-    "title": "China’s Longi Joins Solar Push to Cut Costs by Using Less Silver",
+    "title": "Longi Joins China Solar Push to Cut Costs by Reducing Silver",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs",
     "published": "Mon, 05 Jan 2026 10:56:45 CST",
-    "summary": "Longi Green Energy Technology Co. will begin substituting base metals for\nsilver in its solar cells, the latest move by the industry to mitigate the\nsurging cost of using the precious metal.\n\n"
+    "summary": "Longi Green Energy Technology Co. will begin substituting base metals for\nsilver in its solar cells, the latest move by the industry to mitigate the\nsurging cost of the precious metal.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
