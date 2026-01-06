@@ -1,5 +1,35 @@
 [
   {
+    "title": "Why Venezuela’s Oil Is a Game Changer for the US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fopinion-venezuela-s-oil-is-a-us-game-changer-video",
+    "published": "Tue, 06 Jan 2026 18:49:12 CST",
+    "summary": "The US now has de facto control of 40% of the world’s oil. That’s huge\ngeopolitical leverage, Bloomberg Opinion columnist Javier Blas explains.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Venezuela: Huge Opportunity, Massive Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fvenezuela-huge-opportunity-massive-risk-video",
+    "published": "Tue, 06 Jan 2026 18:26:37 CST",
+    "summary": "Richard Farley, partner at Herbert Smith Freehills Kramer tells Bloomberg Open\nInterest that despite the politics, the investment opportunity in Venezuela\ncould reach $750 billion -- but China, debt restructuring, and rule of law\nwill decide who wins and who gets shut out. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Argentina Treasury Buys Dollars Days Ahead of Key Debt Payment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fargentina-treasury-buys-dollars-days-ahead-of-key-debt-payment",
+    "published": "Tue, 06 Jan 2026 18:25:38 CST",
+    "summary": "Argentina’s Treasury is buying dollars entering the local market from the\nprivatization of hydroelectric power plants, amassing greenbacks ahead of a\nkey payment on its bonds due this week, according to a person familiar with\nthe matter.\n\n"
+  },
+  {
+    "title": "France Seeks Fertilizers Exemption From EU Carbon Border Tax",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrance-seeks-fertilizers-exemption-from-eu-carbon-border-tax",
+    "published": "Tue, 06 Jan 2026 18:06:31 CST",
+    "summary": "France will seek an exemption for fertilizers from carbon border levies\nimposed this year by the European Union, in a move aimed at easing costs on\nstruggling farmers, according to agriculture ministry officials.\n\n"
+  },
+  {
+    "title": "Rare Earths Aren’t Rare, But That’s Not What Matters",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-06%2Frare-earths-aren-t-rare-but-that-s-not-what-matters",
+    "published": "Tue, 06 Jan 2026 18:03:24 CST",
+    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves premarket: Vistra, Onestream, Microchip Technology & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-premarket-vst-os-mchp.html",
     "published": "Tue, 06 Jan 2026 17:46:24 CST",
@@ -32,7 +62,7 @@
   {
     "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
-    "published": "Tue, 06 Jan 2026 17:36:00 CST",
+    "published": "Tue, 06 Jan 2026 17:36:01 CST",
     "summary": "Companies like Kairos Power are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
   },
   {
@@ -42,10 +72,10 @@
     "summary": "Russian oil product exports rose in December to a four-month high, driven by\nstronger diesel shipments from ports in the Baltic Sea to nearby markets.\n\n"
   },
   {
-    "title": "Chevron Lines Up 11 Oil Ships as Venezuela’s Dark Fleet Vanishes",
+    "title": "Chevron Lines Up 11 Ships as Venezuela’s Dark Fleet Vanishes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchevron-lines-up-11-oil-ships-as-venezuela-s-dark-fleet-vanishes",
     "published": "Tue, 06 Jan 2026 17:04:45 CST",
-    "summary": "A small armada of ships booked by Chevron Corp is sailing to Venezuela as the\ncompany emerges as the only exporter of the country’s oil following the ouster\nof President Nicolas Maduro by US forces.\n\n"
+    "summary": "A small fleet of ships booked by Chevron Corp. is sailing to Venezuela as the\ncompany emerges as the only exporter of the country’s oil following the ouster\nof President Nicolas Maduro by US forces.\n\n"
   },
   {
     "title": "Czech Government Seeks Savings After Budget Gap Hit $14 Billion",
@@ -114,28 +144,10 @@
     "summary": "Charter Communications Inc. is selling $1.75 billion of bonds in the US junk\nbond market to refinance debt coming due in 2026 and 2027.\n\n"
   },
   {
-    "title": "Venezuela Shock: Markets, Oil, What’s Next",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fvenezuela-shock-markets-oil-what-s-next-video",
-    "published": "Tue, 06 Jan 2026 16:08:52 CST",
-    "summary": "Marko Papic, BCA Research geo-macro strategist, joins Bloomberg Open Interest\nto break down President Trump’s military strike in Venezuela that captured\nNicolás Maduro. He explains how the US could tap Venezuelan oil and send\nshockwaves through energy, defense and commodity markets -- and why equities\nand FX could face turbulence in Q1 and beyond. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Warner Bros. Takeover Battle Intensifies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fwarner-bros-takeover-battle-intensifies-video",
-    "published": "Tue, 06 Jan 2026 16:08:25 CST",
-    "summary": "The battle for Warner Bros. Discovery rolls into the new year. Sources tell\nBloomberg the company plans to once again reject a takeover bid from\nParamount. Media veteran Kay Koplovitz joined Bloomberg Open Interest. She\nsays Netflix may be the frontrunner, adding that competing offers -- and a\npotential court fight -- could lie ahead. Kay is the Co-Founder and Chairman\nof Springboard Enterprises and the founder and former CEO at USA Networks.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Cotton Hits Eight-Week High on Caution Over Supplies, Oil Prices",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcotton-hits-eight-week-high-on-caution-over-supplies-oil-prices",
     "published": "Tue, 06 Jan 2026 16:04:52 CST",
     "summary": "Cotton futures in New York surged to the highest in eight weeks as traders\nweigh an outlook for tighter supplies this year and volatility in oil markets.\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/6/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbloomberg-surveillance-1-6-2026-video",
-    "published": "Tue, 06 Jan 2026 16:03:35 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Nickel Spikes More Than 10% as Chinese Buying Fuels Metals Surge",
@@ -156,22 +168,10 @@
     "summary": "Vista's aggressive bet on applications and agentic software highlights one of\nthe fastest-growing corners of the AI trade and alternative investments.\n\n"
   },
   {
-    "title": "Zambia Held Early Talks With China Over Potential Currency Swap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fzambia-held-early-talks-with-china-over-potential-currency-swap",
-    "published": "Tue, 06 Jan 2026 15:47:33 CST",
-    "summary": "Zambia held preliminary talks with China on a potential currency swap that\ncould help mitigate risks in dealings with the southern African nation’s\nlargest bilateral creditor, a senior finance ministry official said.\n\n"
-  },
-  {
     "title": "Ford reports best annual U.S. vehicle sales since 2019",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
     "published": "Tue, 06 Jan 2026 15:45:22 CST",
     "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
-  },
-  {
-    "title": "Race for ECB No. 2 Job Gets Crowded as Lithuania Fields Sadzius",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Frace-for-ecb-no-2-job-gets-crowded-as-lithuania-fields-sadzius",
-    "published": "Tue, 06 Jan 2026 15:42:34 CST",
-    "summary": "Lithuania is joining the race to succeed European Central Bank Vice President\nLuis de Guindos, with former finance chief Rimantas Sadzius now among a\ngrowing group of contenders for the No. 2 job.\n\n"
   },
   {
     "title": "Manhattan office leasing in the fourth quarter was the strongest in 6 years",
@@ -246,16 +246,22 @@
     "summary": "The author and Trump antagonist Michael Wolff has his wife, Victoria, to thank\nfor his latest chapter: lifestyle influencer. Now she’s becoming one, too.\n\n"
   },
   {
-    "title": "The data center rebellion is here, and it’s reshaping the political landscape",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "Backlash over the proliferation of data centers has entered the national\npolitical conversation and could affect voters of all political persuasions in\nthis year’s midterm elections.\n\n"
-  },
-  {
     "title": "Congress has four weeks to dodge another shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
     "published": "Tue, 06 Jan 2026 10:00:00 CST",
     "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
+  },
+  {
+    "title": "The data center rebellion is here, and it’s reshaping the political landscape",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "As the buildout of AI infrastructure alarms communities, it is fast emerging\nas a potent electoral issue across the political divide.\n\n"
+  },
+  {
+    "title": "Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Femerging-stocks-move-past-venezuela-risk-to-scale-fresh-highs",
+    "published": "Tue, 06 Jan 2026 09:21:42 CST",
+    "summary": "Emerging-market stocks hit a fresh intraday record and currencies edged higher\nas investor focus shifted away from geopolitical risks posed by the US\nintervention in Venezuela and bullish sentiment around the global asset class\nstrengthened.\n\n"
   },
   {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
@@ -270,16 +276,10 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "First Brands Creditors Allege Kickbacks on Deals Returning 300%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffirst-brands-creditors-allege-kickbacks-on-deals-returning-300",
-    "published": "Tue, 06 Jan 2026 00:17:33 CST",
-    "summary": "A major financier to First Brands Group is accused of orchestrating a kickback\nscheme with the founder’s brother that loaded the now bankrupt auto-parts\nsupplier with expensive debt.\n\n"
-  },
-  {
-    "title": "Oil Whipsaws as Traders Weigh Ukraine Deal, Geopolitical Risks",
+    "title": "Oil Falls as Traders Weigh Ukraine Deal, Geopolitical Risks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
     "published": "Mon, 05 Jan 2026 23:36:58 CST",
-    "summary": "Oil whipsawed as traders weighed progress on a deal to end Russia’s war in\nUkraine, a possibly bearish development for an oil market staring down a glut.\n\n"
+    "summary": "Oil fell as traders weighed progress on a deal to end Russia’s war in Ukraine,\na possibly bearish development for an oil market staring down a glut.\n\n"
   },
   {
     "title": "Gold Climbs as Traders Look Beyond Venezuela Risk to US Data",
