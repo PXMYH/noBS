@@ -1,9 +1,63 @@
 [
   {
+    "title": "Oracle’s Debt ‘Unlikely’ to Trigger Cut to Junk Grade, UBS Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Foracle-s-debt-unlikely-to-trigger-cut-to-junk-grade-ubs-says",
+    "published": "Tue, 06 Jan 2026 19:34:36 CST",
+    "summary": "Oracle Corp. will likely maintain its investment-grade bond rating in the near\nterm despite borrowing tens of billions of dollars to expand its artificial-\nintelligence push, according to UBS Group AG.\n\n"
+  },
+  {
+    "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zuffino-aig-corporate-changes.html",
+    "published": "Tue, 06 Jan 2026 19:33:05 CST",
+    "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
+  },
+  {
+    "title": "Scotiabank CEO Sees ‘Trump Doctrine’ as Positive for Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fscotiabank-ceo-sees-trump-doctrine-as-positive-for-growth",
+    "published": "Tue, 06 Jan 2026 19:31:32 CST",
+    "summary": "Bank of Nova Scotia’s international business could benefit from a rightward\npolitical shift in Latin America alongside rising US influence in the region,\nChief Executive Officer Scott Thomson said.\n\n"
+  },
+  {
+    "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
+    "published": "Tue, 06 Jan 2026 19:29:25 CST",
+    "summary": "Investors are betting that a political transition along with a clearer path to\nasset recovery could unlock value that has been frozen for nearly a decade.\n\n"
+  },
+  {
+    "title": "Bond Trader Places Biggest Ever Fed Funds Bet in Futures Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbond-trader-places-biggest-ever-fed-funds-bet-in-futures-market",
+    "published": "Tue, 06 Jan 2026 19:23:19 CST",
+    "summary": "A record-sized block trade was placed in the fed funds futures market Tuesday,\njust days ahead of a key set of US labor data that could shape US interest-\nrate expectations.\n\n"
+  },
+  {
+    "title": "Venezuela’s Dwindling Oil Storage Imperils Output: Kpler",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-s-dwindling-oil-storage-imperils-output-kpler-says",
+    "published": "Tue, 06 Jan 2026 18:58:13 CST",
+    "summary": "Venezuelan oil production is at risk of severe decline within weeks as storage\ntanks approach full capacity and many ships steer clear of Caribbean waters to\navoid a US naval blockade, according to maritime intelligence firm Kpler Ltd.\n\n"
+  },
+  {
+    "title": "Rush to Invest in Venezuela Is ‘Nuts,’ $15 Billion Advisor Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Frush-to-invest-in-venezuela-is-nuts-15-billion-advisor-says",
+    "published": "Tue, 06 Jan 2026 18:50:18 CST",
+    "summary": "The sudden rush of interest to invest in Venezuela after the removal of\nNicolas Maduro is “ridiculous” and no meaningful opportunities will arise\nuntil the restoration of democracy and rule of law, according to the chief\nexecutive officer of CV Advisors.\n\n"
+  },
+  {
     "title": "Why Venezuela’s Oil Is a Game Changer for the US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fopinion-venezuela-s-oil-is-a-us-game-changer-video",
     "published": "Tue, 06 Jan 2026 18:49:12 CST",
     "summary": "The US now has de facto control of 40% of the world’s oil. That’s huge\ngeopolitical leverage, Bloomberg Opinion columnist Javier Blas explains.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Phillips 66 CEO Says Change in Venezuela a Boon to Oil Refiners",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fp66-ceo-says-change-in-venezuela-is-a-boon-to-oil-refiners",
+    "published": "Tue, 06 Jan 2026 18:41:49 CST",
+    "summary": "One of the largest US oil refiners sees a potential reopening of Venezuela’s\noil industry as a major boost to fuel-makers that rely on heavier crude\ngrades.\n\n"
+  },
+  {
+    "title": "Space, AI and Crypto Candidates Lead US IPOs to Watch This Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fspace-ai-and-crypto-candidates-lead-us-ipos-to-watch-this-year",
+    "published": "Tue, 06 Jan 2026 18:41:38 CST",
+    "summary": "The US initial public offering market is bracing for a rush of deals that\ncould rival or even top the pandemic-era record, with a lineup including some\nof the most closely watched private companies in technology, finance and\ncrypto – and potentially the biggest listing of all time.\n\n"
   },
   {
     "title": "Venezuela: Huge Opportunity, Massive Risk",
@@ -16,6 +70,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fargentina-treasury-buys-dollars-days-ahead-of-key-debt-payment",
     "published": "Tue, 06 Jan 2026 18:25:38 CST",
     "summary": "Argentina’s Treasury is buying dollars entering the local market from the\nprivatization of hydroelectric power plants, amassing greenbacks ahead of a\nkey payment on its bonds due this week, according to a person familiar with\nthe matter.\n\n"
+  },
+  {
+    "title": "Nvidia CEO: Chip Demand Still Strong | Open Interest 1/6/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fopen-interest-1-6-2026-video",
+    "published": "Tue, 06 Jan 2026 18:22:41 CST",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Nvidia says production of its next-gen AI chip is\non track--but rivals are closing in. We’re live from CES in Las Vegas. And the\nbull market powers ahead despite rising geopolitical risks--from Venezuela to\nGreenland to Taiwan. And hedge funds with stock-picking strategies shine in\n2025--Bloomberg breaks down the winners. Plus, media veteran Kay Koplovitz\njoins us on why Netflix could be the frontrunner to buy Warner Bros.\nDiscovery. (Source: Bloomberg)\n\n"
   },
   {
     "title": "France Seeks Fertilizers Exemption From EU Carbon Border Tax",
@@ -84,64 +144,16 @@
     "summary": "The Czech Republic’s budget deficit exceeded the target for 2025, leaving the\nnew government scrambling to find savings and financing for its priorities.\n\n"
   },
   {
-    "title": "French Government Sees Deficit Near 5.4% If No 2026 Budget",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrench-government-sees-deficit-near-5-4-if-no-2026-budget",
-    "published": "Tue, 06 Jan 2026 16:41:02 CST",
-    "summary": "French Finance Minister Roland Lescure said the 2026 deficit could exceed 5.4%\nof economic output after parliament failed to adopt a budget bill before the\nend of last year.\n\n"
-  },
-  {
-    "title": "Shell Inks Deal for Stake in Chevron Unit’s Angola Oil Blocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fshell-inks-deal-for-stake-in-chevron-unit-s-angola-oil-blocks",
-    "published": "Tue, 06 Jan 2026 16:39:59 CST",
-    "summary": "Shell Plc signed a deal to acquire a 35% stake in two oil blocks offshore\nAngola from Chevron Corp.’s subsidiary in the southern African nation, the\nLondon-based energy giant said Tuesday.\n\n"
-  },
-  {
-    "title": "Strained US Public Schools Sell Most Muni Bonds in Over a Decade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstrained-us-public-schools-sell-most-muni-bonds-in-over-a-decade",
-    "published": "Tue, 06 Jan 2026 16:34:15 CST",
-    "summary": "American public schools went on a borrowing binge in 2025, marking the\nsector’s biggest year for municipal debt sales in over a decade as dipping\nenrollment and elevated inflation strain districts’ budgets.\n\n"
-  },
-  {
-    "title": "Zambia’s Dollar-Usage Curb Underpins World-Beating Kwacha Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2F-usd-zmw-zambia-kwacha-s-is-world-s-best-performing-currency",
-    "published": "Tue, 06 Jan 2026 16:30:54 CST",
-    "summary": "Zambia’s currency extended a year-end rally into 2026 after the authorities\nissued a directive that curbed the use of foreign exchange and pushed\ncompanies to swap dollars for local cash.\n\n"
-  },
-  {
     "title": "Irish Corporate Tax Intake Rises Despite Trump Reshoring Vow",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Firish-corporate-tax-intake-climbs-despite-trump-reshoring-pledge",
     "published": "Tue, 06 Jan 2026 16:30:00 CST",
     "summary": "Ireland recorded a surge in corporation tax receipts last year, despite vows\nby US President Donald Trump to reshore American profits from the\nmultinational hub.\n\n"
   },
   {
-    "title": "Expect Broadening of Earnings Growth in 2026: JPM's Sundar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fexpect-broadening-earnings-growth-in-2026-jpm-s-sundar-video",
-    "published": "Tue, 06 Jan 2026 16:27:35 CST",
-    "summary": "Sitara Sundar, Head of Alternative Investment Strategy at JPMorgan Private\nBank, says the AI capital expenditure cycle will continue in 2026 and expects\na broadening of earnings growth. She speaks to Bloomberg's Vonnie Quinn on\n'Bloomberg Brief.' (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "'Venezuela Exposure' ETF Filed With SEC Days After Maduro Ouster",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2F-venezuela-exposure-etf-lands-with-sec-in-rare-industry-gap",
-    "published": "Tue, 06 Jan 2026 16:23:02 CST",
-    "summary": "With $13.6 trillion in assets and nearly 5,000 products, there’s an exchange-\ntraded fund for almost everything. Soon, there could be one for Venezuelan\nstocks as well -- or at least for companies with enough presence in the\ncountry.\n\n"
-  },
-  {
     "title": "Private equity management fees hit new low in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html",
     "published": "Tue, 06 Jan 2026 16:20:59 CST",
     "summary": "Managers have been offering discounts amid difficulty fundraising, and capital\nis increasingly going to bigger funds, dragging down the mean.\n\n"
-  },
-  {
-    "title": "Private Credit Trends with Steve Klinsky",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fprivate-credit-trends-with-steve-klinsky-video",
-    "published": "Tue, 06 Jan 2026 16:19:08 CST",
-    "summary": "2025 delivered extreme private credit results -- growth in assets and deals,\nbut confidence cooled as rates stayed high and risks rose. Steve Klinsky,\nFounder & CEO of New Mountain Capital, joined Bloomberg Open Interest to\nunpack what’s next for private credit and where smart capital is headed.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Charter Is Refinancing $1.75 Billion Junk Debt Ahead of Cox Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcharter-taps-junk-market-for-1-75-billion-to-refinance-debt",
-    "published": "Tue, 06 Jan 2026 16:13:15 CST",
-    "summary": "Charter Communications Inc. is selling $1.75 billion of bonds in the US junk\nbond market to refinance debt coming due in 2026 and 2027.\n\n"
   },
   {
     "title": "Cotton Hits Eight-Week High on Caution Over Supplies, Oil Prices",
@@ -189,7 +201,13 @@
     "title": "Data-Center Cooling Stocks Sink After Nvidia CEO’s CES Talk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fdata-center-cooling-stocks-sink-after-nvidia-ceo-talks-at-ces",
     "published": "Tue, 06 Jan 2026 15:03:59 CST",
-    "summary": "Makers of cooling systems saw their stocks plunge Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
+    "summary": "Makers of cooling systems saw their stocks plunge on Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
+  },
+  {
+    "title": "S&amp;P 500 Heads Toward Record With Rotation Trade Gaining Traction",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
+    "published": "Tue, 06 Jan 2026 14:39:31 CST",
+    "summary": "US stocks climbed for a third straight day on Tuesday, led by advances in\nmaterials, industrials and financials as a market rotation into laggards\ngathered pace and catapulted the benchmark toward a fresh all-time high.\n\n"
   },
   {
     "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
@@ -282,22 +300,16 @@
     "summary": "Oil fell as traders weighed progress on a deal to end Russia’s war in Ukraine,\na possibly bearish development for an oil market staring down a glut.\n\n"
   },
   {
-    "title": "Gold Climbs as Traders Look Beyond Venezuela Risk to US Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
-    "published": "Mon, 05 Jan 2026 23:19:47 CST",
-    "summary": "Gold edged higher as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US. Silver rose for a third day.\n\n"
-  },
-  {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Mon, 05 Jan 2026 22:47:32 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "US Stocks Approach Fresh Record With Fed in Focus: Markets Wrap",
+    "title": "US Stocks Flirt With Record as Bull Run Extends: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "US stocks rose to approach a new record on Tuesday, as investors awaited data\nthat could help shape the Federal Reserve’s interest rate outlook.\n\n"
+    "summary": "US stocks barreled towards a new record on Tuesday, continuing a run driven by\ninvestor optimism over artificial intelligence and expectations of easier\nmonetary policy from the Federal Reserve.\n\n"
   },
   {
     "title": "Bets on Maduro, Jesus Reveal Promise and Risks of Prediction Markets",
@@ -318,10 +330,10 @@
     "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
   },
   {
-    "title": "Corporation For Public Broadcasting formally dissolves after federal funding cuts",
+    "title": "Corporation for Public Broadcasting formally dissolves after federal funding cuts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F05%2Fcorporation-for-public-broadcasting-board-dissolves",
     "published": "Mon, 05 Jan 2026 20:42:28 CST",
-    "summary": "Board of directors vote to dissolve organization after nearly 60 years in\noperation after funding cuts under Trump\n\nThe nonprofit charged by Congress with allocating funds to NPR, PBS and other\nUS public radio and television stations announced is dissolving after massive\nfederal funding cuts under Donald Trump.\n\nThe Corporation for Public Broadcasting (CPB) announced on Monday that its\nboard of directors had voted to dissolve the organization after nearly 60\nyears in operation.\n\nContinue reading...\n\n"
+    "summary": "Board of directors vote to dissolve organization after nearly 60 years in\noperation after funding cuts under Trump\n\nThe non-profit charged by Congress with allocating funds to NPR, PBS and other\nUS public radio and television stations announced it is dissolving after\nmassive federal funding cuts under Donald Trump.\n\nThe Corporation for Public Broadcasting (CPB) announced on Monday that its\nboard of directors had voted to dissolve the organization after nearly 60\nyears in operation.\n\nContinue reading...\n\n"
   },
   {
     "title": "Corporation for Public Broadcasting Votes to Shut Down",
@@ -714,12 +726,6 @@
     "summary": "Beijing is using a ban on the humble mollusk to punish Japan over its apparent\nwillingness to defend Taiwan.\n\n"
   },
   {
-    "title": "Judge Rules That Trump Administration Must Continue to Fund CFPB",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fbusiness%2Fconsumer-financial-protection-bureau-funding-trump-vought.html",
-    "published": "Thu, 01 Jan 2026 19:47:10 CST",
-    "summary": "The Trump administration had tried to defund the Consumer Financial Protection\nBureau, which acts as a guardrail for the safety of the financial system.\n\n"
-  },
-  {
     "title": "Stellantis resurrects $100,000 Ram TRX V-8 pickup truck amid industry deregulation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F01%2Fram-trx-v8-pickup-truck.html",
     "published": "Thu, 01 Jan 2026 15:00:02 CST",
@@ -804,12 +810,6 @@
     "summary": "Analysts predict China's electric car market will see growth slow\nsignificantly in the year ahead.\n\n"
   },
   {
-    "title": "How to Put a Celebrity at Ease? Make a Pizza.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Finsider%2Fpizza-interview-stranger-things.html",
-    "published": "Tue, 30 Dec 2025 22:43:55 CST",
-    "summary": "Times Cooking’s Pizza Interview series introduces a note of nostalgia to\nencourage stars to open up.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Molina Healthcare, Intel, AXT, OceanFirst Financial & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fstocks-making-the-biggest-moves-midday-moh-intc-axti-ocfc.html",
     "published": "Tue, 30 Dec 2025 21:47:31 CST",
@@ -856,12 +856,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fstocks-making-the-biggest-moves-premarket-apld-meta-ba.html",
     "published": "Tue, 30 Dec 2025 12:18:29 CST",
     "summary": "These are the stocks posting the largest moves premarket.\n\n"
-  },
-  {
-    "title": "Silver futures log worst day since 2021, retreating sharply from record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F29%2Fsilver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html",
-    "published": "Mon, 29 Dec 2025 21:45:41 CST",
-    "summary": "Silver slid more than 8% on Monday, after topping $80 for the first time ever\nin overnight trading.\n\n"
   },
   {
     "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
