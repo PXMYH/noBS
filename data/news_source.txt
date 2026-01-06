@@ -1,5 +1,53 @@
 [
   {
+    "title": "S&amp;P 500 Inches Forward as Traders Await Key Economic Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
+    "published": "Tue, 06 Jan 2026 14:39:31 CST",
+    "summary": "US stocks crept higher Tuesday morning, extending gains to start the year as\ninvestors awaited a batch of economic reports headlined by jobs data later\nthis week.\n\n"
+  },
+  {
+    "title": "Manhattan office leasing in the fourth quarter was the strongest in 6 years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html",
+    "published": "Tue, 06 Jan 2026 14:25:58 CST",
+    "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019\nand just 2.4% below 2019's pre-pandemic total.\n\n"
+  },
+  {
+    "title": "FOMC’s New Voters Bring a Hawkish Tilt to Fed Decisions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ffomc-s-new-voters-bring-a-hawkish-tilt-to-fed-decisions-video",
+    "published": "Tue, 06 Jan 2026 14:24:50 CST",
+    "summary": "The Federal Open Market Committee begins the year with a new rotation of a\nmore hawkish collection of voters who may delay interest-rate cuts. Michael\nMcKee has more on Bloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Ford reports best annual U.S. vehicle sales since 2019",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
+    "published": "Tue, 06 Jan 2026 14:15:01 CST",
+    "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
+  },
+  {
+    "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html",
+    "published": "Tue, 06 Jan 2026 14:06:58 CST",
+    "summary": "The second-largest U.S. oil company, which kept pumping oil in the country\nafter others left, could find it relatively easy to expand its operations if\nthe political conditions there improve.\n\n"
+  },
+  {
+    "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
+    "published": "Tue, 06 Jan 2026 13:57:12 CST",
+    "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
+  },
+  {
+    "title": "Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Fvenezuela-caribbean-stranded-travelers.html",
+    "published": "Tue, 06 Jan 2026 13:55:24 CST",
+    "summary": "Mass flight cancellations during peak holiday travel season have forced\ntravelers to miss school and work and to spend thousands on extended tropical\nvacations.\n\n"
+  },
+  {
+    "title": "Fed’s Miran Says More Than Full Point of Cuts Needed in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffed-s-miran-says-more-100-basis-points-of-cuts-needed-in-2026",
+    "published": "Tue, 06 Jan 2026 13:52:56 CST",
+    "summary": "Federal Reserve Governor Stephen Miran said the US central bank will need to\ncut interest rates by more than a percentage point in 2026, arguing monetary\npolicy is restraining the economy.\n\n"
+  },
+  {
     "title": "Russian Oil Flows and Prices Plunge to Hammer Putin’s War Chest",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmoscow-s-war-chest-hammered-by-plunge-in-russia-s-oil-exports-and-prices",
     "published": "Tue, 06 Jan 2026 13:43:06 CST",
@@ -9,7 +57,13 @@
     "title": "Saudi Arabia Opens Capital Market to All Foreign Investors",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsaudi-arabia-opens-capital-market-to-all-foreign-investors",
     "published": "Tue, 06 Jan 2026 13:39:31 CST",
-    "summary": "The Saudi Capital Market Authority has approved a regulatory change that opens\nthe kingdom’s capital market to all categories of foreign investors, it said\nin a statement.\n\n"
+    "summary": "Saudi Arabia opened its equities to all foreign investors, the latest step in\nthe kingdom’s efforts to boost flows into the Middle East’s largest markets.\n\n"
+  },
+  {
+    "title": "US will be exempt from global tax deal targeting profits of large multinationals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F06%2Fus-exemption-oecd-global-tax-deal-multinational-companies",
+    "published": "Tue, 06 Jan 2026 13:25:14 CST",
+    "summary": "Agreement finalised by the OECD waters down a landmark 2021 deal that set a\nminimum global corporate tax of 15%\n\nNearly 150 countries have agreed on a landmark plan to stop large global\ncompanies shifting profits to low-tax jurisdictions, but the US will be exempt\nfrom the deal, angering tax transparency groups.\n\nThe plan, finalised by the Organisation for Economic Cooperation and\nDevelopment, excludes large US-based multinational corporations from the 15%\nglobal minimum tax after negotiations between the Trump administration and\nother members of the G7.\n\nContinue reading...\n\n"
   },
   {
     "title": "The Rush to Profit From Maduro’s Capture",
@@ -138,28 +192,10 @@
     "summary": "Thailand’s government is planning to further rein in thousands of cannabis\ndispensaries that have sprung up in the wake of decriminalization by limiting\nsales of the plant mostly to licensed medical facilities.\n\n"
   },
   {
-    "title": "Goldman’s Bell Sees Cheaper European Stocks Luring US Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgoldman-s-bell-sees-cheaper-european-stocks-luring-us-investors",
-    "published": "Tue, 06 Jan 2026 10:47:52 CST",
-    "summary": "European equities are set for a boost this year from investors seeking to\ndiversify from the US market and its concentration in pricey tech stocks,\naccording to Goldman Sachs Group Inc. strategists.\n\n"
-  },
-  {
     "title": "Nvidia’s $4 Trillion Stock Rally Faces More Threats Than Ever",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnvidia-s-4-trillion-stock-rally-faces-more-threats-than-ever",
     "published": "Tue, 06 Jan 2026 10:47:47 CST",
     "summary": "The world’s most valuable company is on shaky stock market footing as 2026\ngets underway.\n\n"
-  },
-  {
-    "title": "Adidas Gets Rare Sell as Bank of America Sees Slowing Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fadidas-gets-rare-sell-as-bank-of-america-sees-slowing-growth",
-    "published": "Tue, 06 Jan 2026 10:45:00 CST",
-    "summary": "Adidas AG shares slid on Tuesday as Bank of America Corp. gave the stock a\nrare sell rating, saying things are about to get tougher for the German\nsneaker maker.\n\n"
-  },
-  {
-    "title": "IPOs: Serious Business With Some Showbiz",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fipos-serious-business-with-some-showbiz-video",
-    "published": "Tue, 06 Jan 2026 10:35:27 CST",
-    "summary": "Many stock exchanges pull out the showbiz stops to attract IPOs to their\nvenues, employing lasers, gongs, dancers, confetti and more. It's a good time,\nbut it’s also serious business, as exchanges compete for a dwindling number of\nlistings in recent years. Bloomberg Television Anchor Tom Mackenzie takes a\nlook at some of the entertaining ways initial public offerings are celebrated.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
@@ -216,22 +252,16 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "Oil Holds Biggest Gain in a Week as Venezuela and Glut in Focus",
+    "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcopper-surges-to-fresh-record-as-inventories-locked-in-the-us",
+    "published": "Tue, 06 Jan 2026 03:01:43 CST",
+    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on tighter supply and a risk-on mood took hold in\nbroader financial markets.\n\n"
+  },
+  {
+    "title": "Oil Rises to One-Week High as Geopolitical Risks Counter Glut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
     "published": "Mon, 05 Jan 2026 23:36:58 CST",
-    "summary": "Oil edged higher after the biggest gain in a week, as traders weighed\ngeopolitical risks against persistent concerns about a global glut.\n\n"
-  },
-  {
-    "title": "Gold Steadies as Traders Look Beyond Venezuela Risk to US Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
-    "published": "Mon, 05 Jan 2026 23:19:47 CST",
-    "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US. Silver rose for a third day.\n\n"
-  },
-  {
-    "title": "BlueScope Steel Shares Surge After $8.8 Billion Takeover Bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbluescope-steel-shares-surge-after-8-8-billion-takeover-offer",
-    "published": "Mon, 05 Jan 2026 23:02:03 CST",
-    "summary": "BlueScope Steel Ltd. shares surged in Sydney, after the company said it was\nconsidering a A$13.2 billion ($8.8 billion) takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
+    "summary": "Oil rose to the highest in a week, as traders weighed geopolitical risks\nagainst persistent concerns about a global glut.\n\n"
   },
   {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
@@ -240,22 +270,10 @@
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "US Stock Rally Stalls as Rotation Gathers Pace: Markets Wrap",
+    "title": "US Stock Edge Higher as Traders Weigh Fed Outlook: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "A New Year’s rally in US stocks paused as a rotation into regional shares\nbroadened and investors awaited fresh data to gauge the outlook for Federal\nReserve interest rates.\n\n"
-  },
-  {
-    "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Ftravel-credit-cards-members-only.html",
-    "published": "Mon, 05 Jan 2026 22:21:39 CST",
-    "summary": "Travel loyalty programs are competing for customers with members-only\nexperiences like backstage tours, exclusive dinners and access to V.I.P.\nareas.\n\n"
-  },
-  {
-    "title": "Chevron’s Risky Bet to Stay in Venezuela May Now Give It an Advantage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html",
-    "published": "Mon, 05 Jan 2026 22:05:44 CST",
-    "summary": "The second-largest U.S. oil company, which kept pumping oil in the country\nafter others left, could find it relatively easy to expand its operations if\nthe political conditions there improve.\n\n"
+    "summary": "US stocks posted modest gains at the open on Tuesday, as investors awaited\nfresh data that could help shape the Federal Reserve’s interest rate outlook.\n\n"
   },
   {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
@@ -330,10 +348,10 @@
     "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
   },
   {
-    "title": "Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Fvenezuela-caribbean-stranded-travelers.html",
-    "published": "Mon, 05 Jan 2026 18:30:10 CST",
-    "summary": "Mass flight cancellations during peak holiday travel season have forced\ntravelers to miss school and work and to spend thousands on extended tropical\nvacations.\n\n"
+    "title": "Banks Snatch Up MBS That Notched Best Returns Since 2002",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbanks-snatch-up-mortgage-bonds-that-saw-best-returns-since-2002",
+    "published": "Mon, 05 Jan 2026 18:06:30 CST",
+    "summary": "Flush with deposits, US banks are buying up mortgage bonds and betting that\nthe asset class will get a further boost in 2026 from relaxed capital rules.\n\n"
   },
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
@@ -496,12 +514,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F03%2Ffederal-reserve-powell-face-challenges-in-2026.html",
     "published": "Sat, 03 Jan 2026 14:37:41 CST",
     "summary": "The central bank heads into 2026 facing a slew of political and policy\nchallenges.\n\n"
-  },
-  {
-    "title": "Trump cuts have fueled ‘rage-giving’ to US rural public radio. Will it be enough?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F03%2Ftrump-public-radio-cuts-donations",
-    "published": "Sat, 03 Jan 2026 13:00:38 CST",
-    "summary": "Across the US, federal public media cuts have galvanized many communities to\ndonate to their local radio stations\n\nAs soon as the US government voted to cut funding to more than 1,500 public\nmedia outlets last July, Luke Dennis, general manager at WYSO, a public radio\nstation in Yellow Springs, Ohio, kicked into action an emergency funding\ndrive.\n\n“The thing that really bothered me was not so much that the federal funding\nwent away, because I felt like that was inevitable under the current\nadministration, but to give us zero runway to prepare for it,” says Dennis.\n\nContinue reading...\n\n"
   },
   {
     "title": "8 Big Questions for 2026",
@@ -936,12 +948,6 @@
     "summary": "The NBA is exploring the launch of a new professional men’s league in Europe\nin partnership with FIBA.\n\n"
   },
   {
-    "title": "How Build-A-Bear went from a penny stock to a retail winner",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F20%2Fbuild-a-bear-workshop-bbw.html",
-    "published": "Mon, 22 Dec 2025 14:27:27 CST",
-    "summary": "Build-A-Bear Workshop's business plummeted during the pandemic, but under CEO\nSharon Price John, the company has undergone a significant turnaround.\n\n"
-  },
-  {
     "title": "Brick trophies, a life-size pink Cadillac and a team sponsorship: Why Lego is going all in on F1",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F22%2Flego-formula-1-partnership-fan-base.html",
     "published": "Mon, 22 Dec 2025 13:30:01 CST",
@@ -970,12 +976,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F20%2Fus%2Fpolitics%2Fmiddle-class-us-economy-affordability.html",
     "published": "Sat, 20 Dec 2025 10:00:55 CST",
     "summary": "Economists say that a typical middle-class family today is richer than one in\nthe 1960s. Americans in their 20s and 30s don’t believe it.\n\n"
-  },
-  {
-    "title": "Inside the dealmaking that pushed Trump to reclassify pot, expand access",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F19%2Ftrump-pot-executive-order-medicare-cbd-lobbying-donors.html",
-    "published": "Fri, 19 Dec 2025 22:29:34 CST",
-    "summary": "Trump’s pot executive order follows a yearlong industry push blending\nlobbying, donations and insider access, opening the door to a Medicare CBD\npilot.\n\n"
   },
   {
     "title": "‘A Singularly Turbulent Time’: Deeper Uncertainty in Store for Global Economy",
