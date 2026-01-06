@@ -1,12 +1,48 @@
 [
   {
+    "title": "Russian Oil Flows and Prices Plunge to Hammer Putin’s War Chest",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmoscow-s-war-chest-hammered-by-plunge-in-russia-s-oil-exports-and-prices",
+    "published": "Tue, 06 Jan 2026 13:43:06 CST",
+    "summary": "The value of Moscow’s crude shipments slumps to the lowest since the Ukraine\ninvasion\n\n"
+  },
+  {
+    "title": "Saudi Arabia Opens Capital Market to All Foreign Investors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsaudi-arabia-opens-capital-market-to-all-foreign-investors",
+    "published": "Tue, 06 Jan 2026 13:39:31 CST",
+    "summary": "The Saudi Capital Market Authority has approved a regulatory change that opens\nthe kingdom’s capital market to all categories of foreign investors, it said\nin a statement.\n\n"
+  },
+  {
+    "title": "The Rush to Profit From Maduro’s Capture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-chevron.html",
+    "published": "Tue, 06 Jan 2026 13:18:58 CST",
+    "summary": "Trump administration officials are pushing American companies to quickly start\ninvesting in Venezuela. But energy giants have some major concerns.\n\n"
+  },
+  {
+    "title": "Citi Sees Africa Currency Devaluation Risks as Weak Oil Weighs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcitigroup-bank-sees-high-risk-of-currency-devaluations-return-to-africa-in-2026",
+    "published": "Tue, 06 Jan 2026 13:14:48 CST",
+    "summary": "Citigroup Inc. sees an increased risk of currency devaluations in Africa this\nyear after a relatively stable 2025, as low oil prices pressure economies such\nas Angola, Algeria and Gabon.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Vistra, Onestream, Microchip Technology & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-premarket-vst-os-mchp.html",
+    "published": "Tue, 06 Jan 2026 13:13:19 CST",
+    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
+  },
+  {
+    "title": "Danish PM Warns Greenland Attack Would Be End of NATO | The Pulse 1/6/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-pulse-1-6-2026-video",
+    "published": "Tue, 06 Jan 2026 13:08:26 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Christopher Sabatini,\nChatham House, Latin America Senior Fellow; Hugh Gimber, JPMorgan Asset\nManagement Global Market Strategist; Maria Simeonova, European Council on\nForeign Relations, Head of Sofia Office; James Arnold, UBS Co-Head of\nStrategic Insights and Advisory (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "German Inflation Slowing Sharply to 2% Backs ECB Rate Hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgerman-inflation-slowing-sharply-to-2-backs-ecb-rate-hold",
     "published": "Tue, 06 Jan 2026 13:04:24 CST",
     "summary": "German inflation slowed more than expected at the end of last year, offering\nlittle reason for the European Central Bank to change its course.\n\n"
   },
   {
-    "title": "Senegal Aims to Ramp Up Tax Revenue by 40% to Win New IMF Loan",
+    "title": "Senegal Aims to Ramp Up Tax Revenue to Win New IMF Program",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsenegal-aims-to-ramp-up-tax-revenue-by-40-to-win-new-imf-loan",
     "published": "Tue, 06 Jan 2026 13:01:16 CST",
     "summary": "Senegal said strong first-quarter tax collection would boost its chances of\nsecuring a new International Monetary Fund program, while avoiding a painful\nrestructuring of its debts.\n\n"
@@ -16,12 +52,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Frobusta-coffee-falls-as-dry-weather-seen-helping-vietnam-harvest",
     "published": "Tue, 06 Jan 2026 12:48:04 CST",
     "summary": "Robusta coffee declined in London, amid expectation that dry weather in top\ngrower Vietnam will aid harvesting.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Vistra, Onestream, Microchip Technology & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-premarket-vst-os-mchp.html",
-    "published": "Tue, 06 Jan 2026 12:39:10 CST",
-    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
     "title": "New York Times Case Against Pentagon Will Move Quickly",
@@ -132,18 +162,6 @@
     "summary": "Many stock exchanges pull out the showbiz stops to attract IPOs to their\nvenues, employing lasers, gongs, dancers, confetti and more. It's a good time,\nbut it’s also serious business, as exchanges compete for a dwindling number of\nlistings in recent years. Bloomberg Television Anchor Tom Mackenzie takes a\nlook at some of the entertaining ways initial public offerings are celebrated.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trafigura to Discuss Venezuela Return With US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ftrafigura-to-discuss-venezuela-with-us-video",
-    "published": "Tue, 06 Jan 2026 10:32:50 CST",
-    "summary": "Trafigura will have discussions with the US government about Venezuelan oil,\nbut wants to see a proper legal framework for investment in the country. Ben\nLuckock, Trafigura's Global Head of Oil speaks with Vonnie Quinn on 'Bloomberg\nBrief'. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Traders Show No Venezuela Angst But Events Foreshadow 2026 Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-show-no-venezuela-angst-but-events-foreshadow-2026-risks",
-    "published": "Tue, 06 Jan 2026 10:30:00 CST",
-    "summary": "Wall Street bulls need a lot to go right if 2026 is going to deliver a fourth\nstraight year of double-digit returns. Trade tensions between the US and its\nneighbors remain high. The US economy is showing signs of sluggishness,\ninterest rates are elevated even after three cuts and the artificial\nintelligence trade is far from a slam dunk.\n\n"
-  },
-  {
     "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fstyle%2Fmichael-wolff-victoria-wolff-our-amagansett-house.html",
     "published": "Tue, 06 Jan 2026 10:00:30 CST",
@@ -154,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
     "published": "Tue, 06 Jan 2026 10:00:22 CST",
     "summary": "Companies like Kairos Energy are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
-  },
-  {
-    "title": "Gold Miner Aims to Retake Venezuela Assets After Maduro’s Fall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-miner-aims-to-retake-venezuela-assets-after-maduro-s-fall",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "Gold Reserve Ltd. has spent years fighting with Nicolas Maduro’s government\nover two gold deposits seized by Venezuela. Now, after the US captured the\ncountry’s leader on Saturday, the tiny mining company sees a path to regain\nthose prized assets.\n\n"
   },
   {
     "title": "The data center rebellion is here, and it’s reshaping the political landscape",
@@ -174,6 +186,12 @@
     "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
   },
   {
+    "title": "Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Femerging-stocks-move-past-venezuela-risk-to-scale-fresh-highs",
+    "published": "Tue, 06 Jan 2026 09:21:42 CST",
+    "summary": "Emerging-market stocks hit a fresh intraday record as investor focus shifted\naway from geopolitical risks posed by the US intervention in Venezuela and\nbullish sentiment around the global asset class strengthened.\n\n"
+  },
+  {
     "title": "China Slaps Export Controls on Japan Military for Taiwan Remarks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-bans-exports-of-dual-use-items-to-japan-military-users",
     "published": "Tue, 06 Jan 2026 08:09:13 CST",
@@ -186,12 +204,6 @@
     "summary": "Reliance Industries Ltd.’s shares tumbled after analysts warned of rising\ncompetition in the retail sector, where the Mukesh Ambani-controlled\nconglomerate is a major player.\n\n"
   },
   {
-    "title": "InPost Soars After Receiving Bid to Buy Parcel Locker Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finpost-gets-indicative-proposal-for-acquisition-of-company",
-    "published": "Tue, 06 Jan 2026 07:53:54 CST",
-    "summary": "InPost SA, a Polish operator of parcel lockers, received a takeover proposal\nfrom an unidentified company, sending its stock up 20%.\n\n"
-  },
-  {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
@@ -202,12 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fcorporation-for-public-broadcasting-pbs-npr-dissolve%2F",
     "published": "Tue, 06 Jan 2026 03:51:57 CST",
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
-  },
-  {
-    "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcopper-surges-to-fresh-record-as-inventories-locked-in-the-us",
-    "published": "Tue, 06 Jan 2026 03:01:43 CST",
-    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on a tighter market and a risk-on mood took hold\nin broader financial markets.\n\n"
   },
   {
     "title": "Oil Holds Biggest Gain in a Week as Venezuela and Glut in Focus",
@@ -237,7 +243,7 @@
     "title": "US Stock Rally Stalls as Rotation Gathers Pace: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "A New Year’s rally in US stocks paused as a rotation into regional stocks\nbroadened and investors awaited fresh data to gauge the strength of the\nAmerican economy.\n\n"
+    "summary": "A New Year’s rally in US stocks paused as a rotation into regional shares\nbroadened and investors awaited fresh data to gauge the outlook for Federal\nReserve interest rates.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
