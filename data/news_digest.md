@@ -1,49 +1,49 @@
 # NoBS News Digest - January 06, 2026
 
-Generated from **216** unique articles (deduplicated from 216 total) across **1** news sources
+Generated from **217** unique articles (deduplicated from 217 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The sudden U.S. intervention in Venezuela dominates global headlines, with Nicolás Maduro's ouster sparking both geopolitical upheaval and economic speculation. The U.S. now effectively controls 40% of the world's oil reserves, a move that reshapes energy markets and diplomatic alliances. While investors eye Venezuela's $750 billion potential, analysts warn of risks tied to China's debt claims and unresolved rule-of-law issues. Meanwhile, China's internal debate over Venezuela's fate reflects broader tensions, with some viewing it as a template for Taiwan, while others caution against overreach. Elsewhere, emerging markets rally despite the turmoil, and Ukraine's war economy shows resilience as businesses like Nemiroff expand exports amid ongoing conflict. Diplomatic frictions persist, including China's threats to cancel UK trade talks over Taiwan and its ban on Japanese scallops as retaliation for perceived Taiwan support.
+Geopolitical tensions dominate global headlines as the U.S. intervention in Venezuela sends shockwaves through markets and diplomacy. The ouster of Venezuelan President Nicolás Maduro triggers debates in China over potential parallels with Taiwan, while Beijing imposes export controls on Japan in retaliation for remarks supporting the island. Venezuela’s oil sector, already in disrepair, faces uncertainty as China’s billions in loans hang in the balance, though emerging markets rally past the immediate risks. Meanwhile, the U.S. closes Caribbean airspace amid military operations, disrupting flights, while Ukraine’s resilience shines as businesses like vodka maker Nemiroff expand exports despite ongoing war. Domestic shifts also make waves, with the U.S. defunding the Corporation for Public Broadcasting, leading to its dissolution, and Warren Buffett’s departure from Berkshire Hathaway raising questions about the future of its massive equity portfolio.
 
 **Top Articles:**
-- [Rush to Invest in Venezuela Is ‘Nuts,’ $15 Billion Adviser Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Frush-to-invest-in-venezuela-is-nuts-15-billion-advisor-says)
-- [Why Venezuela’s Oil Is a Game Changer for the US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fopinion-venezuela-s-oil-is-a-us-game-changer-video)
-- [Venezuela: Huge Opportunity, Massive Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fvenezuela-huge-opportunity-massive-risk-video)
-- [Nvidia CEO: Chip Demand Still Strong | Open Interest 1/6/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fopen-interest-1-6-2026-video)
+- [CFR's Haass: Venezuelan Oil in a State of Disrepair](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fcfr-s-haass-venezuelan-oil-in-a-state-of-disrepair-video)
 - [Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Femerging-stocks-move-past-venezuela-risk-to-scale-fresh-highs)
+- [China Slaps Export Controls on Japan Military for Taiwan Remarks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-bans-exports-of-dual-use-items-to-japan-military-users)
+- [In China, a Debate About Political Power Ignites After Maduro’s Capture](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html)
+- [Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fcorporation-for-public-broadcasting-pbs-npr-dissolve%2F)
 
-**Sources**: archive.ph (20 articles)
+**Sources**: archive.ph (18 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets kicked off 2026 with a mix of optimism and caution, as the S&P 500 notched fresh records amid a rotation into industrials, materials, and financials, while tech-driven gains continued to fuel bullish sentiment. The Federal Reserve remains a focal point, with traders placing record bets on interest-rate cuts following mixed signals from policymakers, including Minneapolis Fed President Neel Kashkari’s suggestion that further reductions may be limited. Meanwhile, Venezuela’s potential reentry into global oil markets sparked volatility, lifting energy stocks but raising concerns about oversupply, while investors piled into Venezuelan bonds despite geopolitical risks. Corporate activity picked up, with Berkshire Hathaway’s new CEO Greg Abel securing a $25 million salary, Charter Communications issuing $3 billion in junk bonds, and Wall Street banks launching a $7 billion loan sale for Hologic’s buyout. Economic policy shifts, including the U.S. exemption from a global tax deal and Argentina’s dollar purchases ahead of debt payments, added to the complex landscape.
+Global markets kicked off 2026 with strong momentum, as U.S. stocks hit fresh record highs driven by optimism over artificial intelligence and expectations of Federal Reserve rate cuts. The S&P 500 surged, led by gains in materials, industrials, and financials, while Asian stocks enjoyed their best-ever start to a year. However, geopolitical tensions, particularly around Venezuela’s oil sector, introduced volatility, with energy stocks rising on bets of a potential supply shift. Meanwhile, South Korean stocks, including Samsung, continued their rally, buoyed by tech earnings and government support. In corporate news, Berkshire Hathaway’s new CEO Greg Abel received a significant salary bump, while Saks Global faced leadership changes amid bankruptcy rumors. The Fed’s policy path remains a focal point, with analysts debating the balance between inflation and labor market concerns.
 
 **Top Articles:**
-- [The Six Things the Fed Needs to Worry About in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-six-things-the-fed-needs-to-worry-about-in-2026-video)
-- [Berkshire’s Abel to Receive 19% Salary Bump in First Year as CEO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fberkshire-s-abel-to-receive-19-salary-bump-in-first-year-as-ceo)
-- [How Venezuela’s Oil Could Shake Up the World Supply](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html)
-- [Enthusiasm in Private Markets for M&A Demand: Lee](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fenthusiasm-in-private-markets-for-m-a-demand-lee-video)
-- [Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html)
+- [Samsung Bulls Bet Record Earnings Can Sustain $350 Billion Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsamsung-bulls-bet-record-earnings-can-sustain-350-billion-rally)
+- [Bets on Maduro, Jesus Show Promise and Risks of Prediction Boom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Feye-catching-bets-show-promise-risk-of-prediction-boom-video)
+- [Hines' Steinbach: Commercial Real Estate on Firm Footing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fhines-steinbach-commercial-real-estate-on-firm-footing-video)
+- [Korean Stocks’ World-Beating Rally Just a Start, Investors Say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fkorean-stocks-world-beating-rally-just-a-start-investors-say)
+- [Hershey & Shaquille O'Neal Team Up on New Candy Launch](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fhershey-shaquille-o-neal-team-up-on-new-candy-launch-video)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by significant shifts in energy, AI, and global markets. Venezuela's oil industry faces turmoil as Chevron emerges as the sole exporter following political upheaval, while copper prices surge to near $14,000 a ton amid strong demand. In tech, Vista Equity Partners is pushing AI innovation with its 'agentic factory,' though Nvidia's comments at CES sparked concerns over data-center cooling demand. The IPO market is heating up, with space, AI, and crypto firms leading the charge, while BYD overtakes Tesla as the world's top EV seller after U.S. subsidy cuts. Meanwhile, regulatory battles intensify, from Ørsted challenging a U.S. wind farm lease freeze to Uber restructuring contracts to avoid UK taxes. Financial markets show optimism, with Treasury yields expected to dip below 4% and transportation stocks hitting record highs on economic growth hopes.
+The tech and business landscape kicks off 2026 with major developments across AI, corporate strategy, and geopolitical shifts. Discord confidentially files for an IPO, signaling a potential wave of tech listings, while Vista Equity Partners doubles down on 'agentic AI' to transform enterprise software. Meanwhile, Nvidia CEO Jensen Huang's remarks at CES trigger a sell-off in data-center cooling stocks, highlighting the volatile interplay between AI infrastructure and market sentiment. In energy, Chevron emerges as a key player in Venezuela following the ouster of Nicolás Maduro, though industry experts warn that revitalizing the country’s oil sector will require years and billions in investment. Elsewhere, China’s BYD surpasses Tesla as the world’s top EV seller after U.S. subsidy cuts dampen Tesla’s growth, underscoring the intensifying global competition in electric vehicles.
 
 **Top Articles:**
+- [Chat Platform Discord to File Confidentially for IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchat-platform-discord-is-said-to-file-confidentially-for-ipo)
+- [Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Ftravel%2Fhilton-hampton-inn-dhs.html)
 - [Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)
 - [Optimism About Nuclear Energy Is Rising Again. Will It Last?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html)
 - [Bullish Treasuries Wagers Target 10-Year Yields Falling Below 4%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbullish-treasuries-wagers-target-10-year-yields-falling-below-4)
-- [Transport Stocks Leap to New High on US Economic Growth Hopes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftransport-stocks-leap-to-new-high-on-us-economic-growth-hopes)
-- [Top union accuses Texas of targeting teachers over Charlie Kirk posts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftexas-charlie-kirk-social-media)
 
 **Sources**: archive.ph (79 articles)
 
@@ -51,7 +51,7 @@ The tech and business landscape in early 2026 is marked by significant shifts in
 
 ## ⚽ Sports
 
-The sports and entertainment landscape sees notable developments this week, with Fox's free streaming service Tubi emerging as a surprising leader in viewership. According to Nielsen's November Gauge report, Tubi surpasses major competitors like Peacock and HBO Max in streaming minutes, signaling a shift in consumer preferences toward ad-supported platforms. Meanwhile, the NBA makes headlines with its ambitious expansion plans, actively pursuing ownership groups to launch a professional men's basketball league in Europe in partnership with FIBA. This potential league could mark a significant step in the NBA's global growth strategy, tapping into Europe's strong basketball culture. The move aligns with broader trends in sports business, where leagues increasingly explore international markets to expand their reach and revenue streams. As these stories unfold, they highlight the evolving dynamics in both media consumption and professional sports.
+The sports and entertainment landscape sees significant developments as Fox's free streaming service Tubi emerges as a surprising leader in viewership, outpacing major competitors like Peacock and HBO Max in Nielsen's November Gauge report. This shift highlights the growing appeal of ad-supported platforms in the streaming wars, challenging traditional subscription models. Meanwhile, the NBA is making bold international moves, actively pursuing ownership groups to launch a new professional men's basketball league in Europe in partnership with FIBA. The potential expansion marks a strategic effort to grow the sport globally and tap into new markets, though details on timelines and participating teams remain unclear. These developments underscore broader trends in media consumption and sports league globalization, with both sectors adapting to evolving audience preferences and economic opportunities.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -63,17 +63,17 @@ The sports and entertainment landscape sees notable developments this week, with
 
 ## 📰 Other News
 
-The first week of 2026 brings a mix of corporate shake-ups, economic shifts, and cultural trends. In business, Peter Zaffino’s abrupt departure as AIG’s CEO rattles investors, while Ford celebrates its strongest U.S. sales since 2019, signaling resilience in the auto sector. Meanwhile, private equity firms slash management fees amid fundraising struggles, and Manhattan’s office leasing market surges to near pre-pandemic levels, hinting at a cautious return to urban workspaces. On the political front, Congress faces a looming shutdown deadline, with just four weeks to avert another fiscal standoff. The Supreme Court’s growing favoritism toward wealthy litigants, revealed in a new study, underscores rising concerns about judicial bias. In health, Novo Nordisk’s launch of the first GLP-1 obesity pill at competitive prices marks a potential turning point in weight-loss treatment, while a retracted study reignites debates over the safety of Roundup’s glyphosate. Culturally, travel loyalty programs escalate their perks with VIP experiences, and GQ’s outgoing editor, Will Welch, leaves to collaborate with Pharrell at Louis Vuitton, reflecting broader shifts in media and fashion. Housing affordability remains a pressing issue, with starter homes disappearing from the market and down payments still out of reach for many, even as prices dip slightly. The Trump administration’s push for rapid investment in Venezuela post-Maduro’s capture highlights geopolitical tensions, while domestic policies—like tariff rebates and H-1B visa fees—spark legal and economic backlash. Human interest stories, from a couple battling a luxury hotel over bedbug bites to the quirky rise of shoeless offices, add color to the week’s headlines.
+The first week of 2026 brings a mix of corporate shake-ups, economic shifts, and cultural trends. In business, AIG CEO Peter Zaffino announces his step-down, sending the insurer’s stock tumbling, while private equity firms slash management fees amid fundraising challenges. Ford reports its strongest U.S. vehicle sales since 2019, signaling a rebound in auto demand, and Manhattan office leasing hits a six-year high, hinting at a post-pandemic recovery in commercial real estate. Meanwhile, the Supreme Court faces scrutiny over a study suggesting a growing bias toward wealthier litigants, and Democrats seize on President Trump’s avoidance of affordability discussions as a political vulnerability. On the cultural front, GQ editor Will Welch departs after reshaping the magazine’s identity, and travel loyalty programs ramp up exclusive perks to retain fickle customers. Health and housing remain pressing concerns, with malnutrition deaths surging among older Americans and the housing market still out of reach for many first-time buyers despite slight improvements in affordability.
 
 **Top Articles:**
+- [Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fmedia%2Frichard-pollak-dead.html)
 - [Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html)
 - [Private equity management fees hit new low in 2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html)
 - [Ford reports best annual U.S. vehicle sales since 2019](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html)
 - [Manhattan office leasing in the fourth quarter was the strongest in 6 years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html)
-- [Will Welch to Leave GQ After 7 Years as Its Top Editor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fmedia%2Fwill-welch-gq-editor-departure.html)
 
 **Sources**: archive.ph (38 articles)
 
 ---
 
-*Digest generated on January 06, 2026 at 10:47 PM *
+*Digest generated on January 06, 2026 at 11:43 PM *
