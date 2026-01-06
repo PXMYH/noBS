@@ -1,19 +1,19 @@
 # NoBS News Digest - January 06, 2026
 
-Generated from **211** unique articles (deduplicated from 211 total) across **1** news sources
+Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The U.S. capture of Venezuelan President Nicolás Maduro dominates global headlines, as his extradition to New York on charges sends shockwaves through geopolitical and financial markets. The move, described by President Trump as part of a broader plan to 'run' Venezuela, leaves the country in a state of uncertainty, with Maduro pleading not guilty while his regime remains in power for now. Bondholders are scrambling to assess the implications for Venezuela’s $60 billion in defaulted debt, and analysts warn of potential shifts in the global order as China’s oil deals with Caracas hang in the balance. Meanwhile, hedge funds ramp up bullish oil bets amid speculation over U.S. military intervention, though experts downplay Venezuela’s immediate impact on OPEC markets. Beyond Venezuela, tensions flare between China and the West, with Beijing threatening to cancel UK trade talks over a minister’s Taiwan visit and imposing a ban on Japanese scallops in retaliation for Tokyo’s stance on Taiwan. In Ukraine, businesses like vodka maker Nemiroff press on despite wartime disruptions, while global airlines cancel flights after the U.S. closes Caribbean airspace citing safety risks tied to the Venezuela operation.
+The geopolitical landscape is dominated by the U.S. ouster of Venezuelan President Nicolás Maduro, who now faces trial in New York after a dramatic capture. The move, orchestrated by President Donald Trump, has sent shockwaves through global markets, with Venezuela’s bonds surging as investors anticipate potential debt recovery. However, uncertainty looms over Venezuela’s future governance and its oil industry, a critical sector with vast reserves but dwindling production. The intervention also strains U.S.-China relations, as Beijing’s oil-backed loans to Caracas hang in the balance, reflecting broader great-power competition. Meanwhile, China’s diplomatic tensions escalate, with threats to cancel UK trade talks over a minister’s Taiwan visit and a ban on Japanese scallops as retaliation for perceived support of Taiwan. Domestically, Trump’s policies continue to reshape U.S. institutions, from defunding public media to downsizing the federal workforce, leaving long-term efficiency concerns. Elsewhere, Ukraine’s businesses, like vodka exporter Nemiroff, press on amid ongoing conflict, while European defense stocks rise amid heightened geopolitical risks.
 
 **Top Articles:**
+- [Markets in Trump’s New World Order Rally Even After Attacks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmarkets-in-trump-s-new-world-order-rally-even-after-attacks)
+- [Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fcorporation-for-public-broadcasting-pbs-npr-dissolve%2F)
 - [Venezuela Regroups as Maduro Pleads Not Guilty in Court](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fvenezeuala-regroups-as-maduro-pleads-not-guilty-in-court-video)
 - [Venezuela Bondholders Huddle as Maduro Ouster Fans Payout Hopes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-bondholders-huddle-as-maduro-ouster-fans-payout-hopes)
 - [CSIS' Berg: Sanctions Heavily Impact Venezuela's Moves](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fcsis-berg-sanctions-heavily-impact-venezuela-s-moves-video)
-- [Trump Snatches Maduro But Leaves Regime in Charge for Now](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ftrump-snatches-maduro-leaves-regime-in-charge-for-now-video)
-- [CEOs Recognize Venezuela's Potential: Teneo's Kajiwara](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fceos-recognize-venezuela-s-potential-teneo-s-kajiwara-video)
 
 **Sources**: archive.ph (21 articles)
 
@@ -21,37 +21,37 @@ The U.S. capture of Venezuelan President Nicolás Maduro dominates global headli
 
 ## 💰 Finance, Economics & Business
 
-Global markets kicked off 2026 with a mix of optimism and caution, as equities extended record rallies despite geopolitical tensions. Asian stocks climbed to new highs, while the S&P 500's energy sector surged 2.7% on bets tied to Venezuela's oil potential following Nicolas Maduro's capture. Copper hit a record above $13,000 per ton, driven by strong U.S. demand, though silver futures retreated sharply after a volatile run. Meanwhile, central banks remain in focus, with the Fed's December minutes revealing deep divisions over further rate cuts amid lingering inflation concerns. Corporate activity also dominated headlines, including BlueScope Steel's $8.8 billion takeover bid and Jollibee Foods' plans for a U.S. listing of its international business. However, challenges persist, with Saks Global preparing for bankruptcy and the Corporation for Public Broadcasting dissolving after federal funding cuts. Investors are closely watching economic indicators, including Friday's December jobs report, which could signal more rate cuts ahead.
+Global markets kick off 2026 with mixed signals as commodities surge while economic uncertainties linger. Copper hits a record high above $13,000 per ton, driven by tight supplies and strong U.S. demand, while silver retreats sharply after a volatile rally. Asian equities, led by Chinese stocks, reach multi-year highs on AI optimism and signs of economic recovery, though China's steel sector faces prolonged margin pressures due to slower-than-expected capacity cuts. In corporate news, Hg Capital nears a deal to take OneStream private, and BlueScope Steel shares jump after an $8.8 billion takeover bid. Meanwhile, the Federal Reserve remains divided on further rate cuts, with Minneapolis Fed President Neel Kashkari suggesting limited need for deeper reductions. Geopolitical risks, including Venezuela's oil output challenges and Saudi Arabia's price cuts, add to market volatility, while Mexico's $9 billion bond sale highlights robust emerging-market debt activity.
 
 **Top Articles:**
-- [Jollibee Foods Plans a US Listing of Its International Business](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business)
-- [First Brands Creditors Allege Kickbacks on Deals Returning 300%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffirst-brands-creditors-allege-kickbacks-on-deals-returning-300)
-- [Oil Steady After Biggest Gain in a Week With Focus on Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6)
-- [Gold Steadies as Traders Look Beyond Venezuela Risk to US Data](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data)
-- [December Jobs Report Due Friday Expected to Flag More Rate Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fdecember-jobs-report-expected-to-flag-more-rate-cuts-video)
+- [Goldman Sees China Steel-Capacity Cuts Going Slower Than Thought](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-steel-outlook-cut-as-capacity-progress-slows-goldman-says)
+- [Venezuela Oil Output Bump Unlikely Until Decade’s End, ANZ Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-oil-output-bump-unlikely-until-decade-s-end-anz-says)
+- [Buyout Firm Hg Is Nearing a Deal to Take OneStream Private](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbuyout-firm-hg-is-nearing-a-deal-to-take-onestream-private)
+- [Japan 10-Year Bond Sale Demand In Line With 12-Month Average](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjapan-10-year-bond-sale-demand-in-line-with-12-month-average-mk21ig60)
+- [Global Dollar Bond Sales to Accelerate After $61 Billion Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fglobal-dollar-bond-sales-to-accelerate-after-61-billion-surge)
 
-**Sources**: archive.ph (78 articles)
+**Sources**: archive.ph (81 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape kicks off 2026 with significant shifts in AI, automotive, and global markets. China's Kuaishou Technology sees its stock surge 84% after a rapid pivot to AI video generation, highlighting the growing dominance of AI-driven innovations. Meanwhile, BYD overtakes Tesla as the world's top electric vehicle seller, underscoring China's expanding influence in the EV market amid Tesla's slumping sales following the withdrawal of U.S. subsidies. In financial markets, leveraged bets on Taiwan stocks hit a 17-year high, reflecting strong risk appetite, while U.S. stocks rise alongside oil prices following geopolitical developments in Venezuela. Regulatory and legal challenges also take center stage, with Ørsted filing a lawsuit against the U.S. government over a suspended offshore wind farm project, and China tightening AI chatbot regulations around sensitive topics like suicide and gambling. The energy sector remains volatile, with Chevron positioning itself to capitalize on Venezuela's oil industry revival, though analysts warn of steep costs and long timelines for recovery.
+The first week of 2026 brings significant shifts across global markets, tech, and geopolitics. In tech, BYD overtakes Tesla as the world’s top EV seller after Tesla’s deliveries slump amid policy changes, while Lucid reports a 55% increase in EV deliveries. AI developments see China tightening regulations on chatbots, targeting harmful content, as startups like Minimax and Z.ai prepare for IPOs. Meanwhile, geopolitical tensions flare as the U.S. ousts Venezuela’s Maduro, disrupting travel and oil markets, with Chevron positioned to benefit from its long-term presence in the country. Financial markets show strong risk appetite, with Taiwan stocks hitting record leverage levels, and JPMorgan’s Jamie Dimon earning a record $770 million amid deregulation. Elsewhere, Disney’s latest *Avatar* film underperforms, and Uber rewrites driver contracts to avoid UK taxes, highlighting ongoing regulatory battles in tech and entertainment.
 
 **Top Articles:**
 - [Traders Boost Taiwan Stock Leverage to Highest Level Since 2008](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-boost-taiwan-stock-leverage-to-highest-level-since-2008)
 - [US Stocks Rise as Oil Gains on Maduro Ouster | The Close 1/5/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-close-1-5-2026-video)
-- [AI Video Generation Leads China’s Kuaishou to 84% Stock Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fai-video-generation-leads-china-s-kuaishou-to-84-stock-surge)
 - [Chevron’s Risky Bet to Stay in Venezuela May Now Give It an Advantage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html)
-- [Bets on Maduro, Jesus Reveal Promise and Risks of Prediction Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-05%2Fkalshi-and-polymarket-use-sports-gambling-as-entry-point-for-prediction-markets)
+- [Jamie Dimon’s $770 Million Haul Shows How Bankers Are on Top Again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fbanking-deregulation-jamie-dimon.html)
+- [How Chevron Aims to Tap More Oil Below Kazakhstan’s Grassy Plains](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchevron-kazakhstan-oil.html)
 
-**Sources**: archive.ph (75 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports and entertainment landscape sees significant developments as Fox's free streaming service Tubi emerges as a surprising leader in viewership, outpacing major competitors like Peacock and HBO Max in Nielsen's November Gauge report. This shift highlights the growing appeal of ad-supported platforms in the streaming wars, challenging traditional subscription models. Meanwhile, the NBA is making bold international moves, actively pursuing ownership groups to launch a new professional men's basketball league in Europe in partnership with FIBA. The initiative signals the league's ambition to expand its global footprint and tap into Europe's passionate basketball market. These stories underscore broader trends in media consumption and sports league expansion, with both sectors adapting to evolving audience preferences and market opportunities.
+The sports and entertainment landscape sees significant developments as Fox's free streaming service Tubi emerges as a surprising leader in viewership, surpassing major competitors like Peacock and HBO Max in Nielsen's November Gauge report. This shift highlights the growing appeal of ad-supported platforms in the streaming wars, challenging traditional subscription models. Meanwhile, the NBA is making bold international moves, actively pursuing ownership groups to launch a new professional men's basketball league in Europe in partnership with FIBA. The initiative signals the league's ambition to expand its global footprint and tap into Europe's passionate basketball market, potentially reshaping the sport's international structure. These stories underscore broader trends in media consumption and sports globalization, with both industries adapting to evolving audience preferences and market opportunities.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -63,7 +63,7 @@ The sports and entertainment landscape sees significant developments as Fox's fr
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, corporate developments, and societal trends. In business, Hong Kong's luxury real estate market sees a surge, with developers selling $750 million in high-end homes, while Chubu Electric faces scrutiny over nuclear safety data, causing its shares to drop. Meanwhile, Novo Nordisk launches the first GLP-1 obesity pill in the U.S., offering a more affordable option for weight management. On the political front, the Supreme Court's perceived bias toward wealthier litigants sparks debate, with economists noting a rise in pro-rich rulings. Additionally, concerns over affordability persist, as middle-class Americans struggle with housing costs and student loan repayments, despite economic indicators suggesting improved financial standing. Cultural trends also emerge, with travel loyalty programs offering exclusive perks to retain customers and startups adopting casual office policies like 'no shoes' rules. The week closes with notable obituaries, including Richard Pollak, a media critic and biographer, and a viral video prompting a White House response over alleged childcare fraud in Minnesota.
+This week's news highlights a mix of economic shifts, corporate developments, and social trends shaping 2026. In business, Hong Kong's luxury real estate market sees a surge, with developers selling $750 million in high-end homes, while Chubu Electric faces scrutiny over nuclear safety data, causing its shares to drop. Meanwhile, Novo Nordisk launches the first GLP-1 obesity pill in the U.S., offering a more affordable option amid rising healthcare costs. The housing market remains a focal point, with affordability concerns persisting despite slight price drops, and a notable trend of 'no shoes' policies emerging in start-up offices, blurring work-life boundaries. Politically, the Supreme Court's perceived bias toward wealthier litigants sparks debate, while the Trump administration's policies—from auto loan tax breaks to marijuana reclassification—continue to draw attention. Cultural stories, like NPR CEO Katherine Maher's leadership challenges and a viral video prompting White House action, add depth to the week's narrative.
 
 **Top Articles:**
 - [Hong Kong Developers Sell $750 Million of Luxury Homes in Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fhong-kong-developers-sell-750-million-of-luxury-homes-in-weeks)
@@ -76,4 +76,4 @@ This week's news highlights a mix of economic shifts, corporate developments, an
 
 ---
 
-*Digest generated on January 06, 2026 at 02:33 AM *
+*Digest generated on January 06, 2026 at 04:15 AM *
