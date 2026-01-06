@@ -1,5 +1,41 @@
 [
   {
+    "title": "What Trump’s Venezuela Attack Means for Xi and Taiwan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fwhat-trump-s-venezuela-attack-means-for-xi-and-taiwan-video",
+    "published": "Tue, 06 Jan 2026 09:36:01 CST",
+    "summary": "Donald Trump’s surprise attack on Venezuela has generated debate over whether\nthe US leader set a precedent for Xi Jinping to undertake a similar strike in\nTaiwan. But the stakes for Beijing are far higher -- economically and\npolitically. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "JPMorgan's Wiltz 'Bullish' in Capacity to Deliver IPOs in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fjpmorgan-s-wiltz-on-ipos-this-year-video",
+    "published": "Tue, 06 Jan 2026 09:31:08 CST",
+    "summary": "A top JPMorgan's banker, EMEA co-head Mathieu Wiltz, said the US bank is\n'bullish' in its capacity to deliver more IPOs this year. Despite the global\nheadwinds, Matthieu Wiltz said the sentiment is 'positive' for 2026. He spoke\nexclusively with Bloomberg's Anna Edwards, Tom Mackenzie and Guy Johnson from\nParis. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "ECB’s Villeroy Says Attacks on Fed Independence Undermine Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fecb-s-villeroy-says-attacks-on-fed-independence-undermine-dollar",
+    "published": "Tue, 06 Jan 2026 09:26:18 CST",
+    "summary": "The US administration’s criticism of the Federal Reserve threatens the US\ndollar’s role in the global economy, according to European Central Bank\nGoverning Council member Francois Villeroy de Galhau.\n\n"
+  },
+  {
+    "title": "Japan’s Stock Market Has Strongest Start to the Year Since 1990",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjapan-s-stock-market-has-strongest-start-to-the-year-since-1990",
+    "published": "Tue, 06 Jan 2026 09:00:16 CST",
+    "summary": "Japanese stocks made their strongest start in several decades, buoyed by\nrobust buying from overseas investors and individuals.\n\n"
+  },
+  {
+    "title": "BlackRock Sees Prospect of ‘Very Exciting’ Copper Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fblackrock-sees-prospect-of-very-exciting-copper-market-video",
+    "published": "Tue, 06 Jan 2026 08:52:59 CST",
+    "summary": "Evy Hambro, head of fundamental equities thematic and sector investing at\nBlackRock, discusses the outlook for copper prices and the economic transition\nin China, Europe and the US on commodity markets. “We’re seeing this kind of\nindustrial activity. We’re seeing this move away from fossil fuels towards\nkind of renewable power. We’re seeing this increased electrification. We’re\nseeing AI. We’re seeing all of these pressures building and they need\ncommodities to solve them,” Hambro tells Bloomber\n\n"
+  },
+  {
+    "title": "Japan Trading Houses Call for Stable Yen to Protect Investments",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjapan-trading-houses-call-for-stable-yen-to-protect-investments",
+    "published": "Tue, 06 Jan 2026 08:37:58 CST",
+    "summary": "Some of Japan’s biggest trading houses warned that the recent volatility in\nthe yen is boosting investment risks, and urged authorities to help stabilize\nthe currency.\n\n"
+  },
+  {
     "title": "JPMorgan's Bharti on 2026 India IPO Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fjpmorgan-s-bharti-on-2026-india-ipo-outlook-video",
     "published": "Tue, 06 Jan 2026 08:19:10 CST",
@@ -21,7 +57,7 @@
     "title": "China Slaps Export Controls on Japan Military for Taiwan Remarks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-bans-exports-of-dual-use-items-to-japan-military-users",
     "published": "Tue, 06 Jan 2026 08:09:13 CST",
-    "summary": "China imposed controls on exports to Japan that could have military use,\nintensifying a dispute between Asia’s top economies over remarks Japanese\nPrime Minister Sanae Takaichi made last year on Taiwan.\n\n"
+    "summary": "China imposed controls on exports to Japan with any military use, intensifying\na dispute between Asia’s top economies over remarks Japanese Prime Minister\nSanae Takaichi made last year on Taiwan.\n\n"
   },
   {
     "title": "Reliance Heads for Worst Day Since 2024 on Retail Sector Worries",
@@ -33,7 +69,7 @@
     "title": "InPost Gets Indicative Proposal for Acquisition of Company",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finpost-gets-indicative-proposal-for-acquisition-of-company",
     "published": "Tue, 06 Jan 2026 07:53:54 CST",
-    "summary": "InPost said it has received an indicative proposal regarding a potential\nacquisition of all the shares in the Polish logistics firm.\n\n"
+    "summary": "Polish logistics firm InPost SA said it received an indicative proposal\nregarding a potential acquisition of all of its shares. The stock surged as\nmuch as 20% on the news.\n\n"
   },
   {
     "title": "Asian Stocks in Best-Ever Start to a Year, Currencies Strengthen",
@@ -84,12 +120,6 @@
     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Mirae Asset India Veteran Mahendra Jajoo Joins Quant Mutual Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmirae-asset-india-veteran-mahendra-jajoo-joins-quant-mutual-fund",
-    "published": "Tue, 06 Jan 2026 07:14:09 CST",
-    "summary": "Mahendra Jajoo, a veteran Indian money manager, has joined Quant Mutual Fund\nas an executive director, people familiar with the matter said.\n\n"
-  },
-  {
     "title": "FTSE 100 Hits Fresh Record as Miners Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-06%2Fftse-100-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today-mk28k0sz",
     "published": "Tue, 06 Jan 2026 06:55:59 CST",
@@ -102,40 +132,16 @@
     "summary": "Anheuser-Busch InBev SA/NV will reacquire a 49.9% stake in its US metal\ncontainer plants from a consortium of institutional investors led and advised\nby Apollo Global Management Inc. in a deal estimated to be around $3 billion.\n\n"
   },
   {
-    "title": "Bisat: Lebanon's Gap Law Fair Process to Repay Depositors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbisat-lebanon-gap-law-fair-process-to-repay-depositors-video",
-    "published": "Tue, 06 Jan 2026 06:15:46 CST",
-    "summary": "Lebanon's cabinet has approved draft legislation aimed at freeing up bank\ndeposits that have been trapped in its banking system for years. The proposed\nlaw would allow some depositors to recover part of their savings, with larger\nbalances converted into bonds backed by central bank assets. The move is seen\nas a key step towards untangling the financial crisis facing the Middle East's\nmost-indebted nation. Amer Bisat, Lebanon's Economy and Trade Minister spoke\nexclusively to Bloomberg’s Horizons Middle East and Africa anchor Joumanna\nBercetche about Lebanon’s economic recovery. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "The Asia Trade 01/06/26",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-asia-trade-01-06-26-video",
-    "published": "Tue, 06 Jan 2026 06:10:27 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Venezuelan Oil Shunned by China as Offers Get More Expensive",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuelan-oil-shunned-by-china-as-offers-get-more-expensive",
-    "published": "Tue, 06 Jan 2026 06:01:19 CST",
-    "summary": "Chinese buyers shunned offers for Venezuelan crude this week, as a US blockade\non the South American producer constrains exports and pushes up prices.\n\n"
-  },
-  {
-    "title": "Indonesia Sees Return of Foreign Investors Into Sovereign Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Findonesia-sees-return-of-foreign-investors-into-sovereign-debt",
-    "published": "Tue, 06 Jan 2026 05:25:52 CST",
-    "summary": "Indonesia’s government bonds eked out an inflow in 2025 thanks to foreign net\nbuying in December, as investors overcame earlier concerns about a new finance\nminister and nationwide unrest.\n\n"
-  },
-  {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
     "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
   },
   {
-    "title": "Slumping Mideast Oil Market Adds to Signs of Global Weakness",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsoftening-mideast-oil-market-adds-to-signs-of-global-weakness",
-    "published": "Tue, 06 Jan 2026 04:49:10 CST",
-    "summary": "The Middle Eastern crude market is showing further signs of weakness,\namplifying concerns about a global glut that could drag prices lower, while\nenabling Asian traders to shrug off developments in Venezuela.\n\n"
+    "title": "Buyout Firm Hg Is Nearing a Deal to Take OneStream Private",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbuyout-firm-hg-is-nearing-a-deal-to-take-onestream-private",
+    "published": "Tue, 06 Jan 2026 03:54:18 CST",
+    "summary": "Buyout firm Hg is in advanced talks to acquire financial software maker\nOneStream Inc., according to people familiar with the matter.\n\n"
   },
   {
     "title": "Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve",
@@ -150,12 +156,6 @@
     "summary": "Japan’s long maturity bond yields rose after a relatively smooth 10-year\ngovernment bond auction failed to dispel ongoing fiscal and inflation\nconcerns.\n\n"
   },
   {
-    "title": "Credit Markets Rev Up After $61 Billion of Deals in One Day",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fglobal-dollar-bond-sales-to-accelerate-after-61-billion-surge",
-    "published": "Tue, 06 Jan 2026 03:16:16 CST",
-    "summary": "Global credit markets are sending off one of the clearest signals yet that\ninvestors are looking past geopolitics.\n\n"
-  },
-  {
     "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcopper-surges-to-fresh-record-as-inventories-locked-in-the-us",
     "published": "Tue, 06 Jan 2026 03:01:43 CST",
@@ -168,16 +168,10 @@
     "summary": "Chinese stocks climbed to multi-year highs, fueled by sustained optimism over\nthe country’s AI advances and emerging signs of an economic recovery.\n\n"
   },
   {
-    "title": "Oil Steady After Biggest Gain in a Week With Focus on Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
-    "published": "Mon, 05 Jan 2026 23:36:58 CST",
-    "summary": "Oil steadied after the biggest gain in a week as traders weighed the outlook\nfor Venezuela, while concerns about a global glut persisted.\n\n"
-  },
-  {
-    "title": "Gold Steadies as Traders Look Beyond Venezuela Risk to US Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
-    "published": "Mon, 05 Jan 2026 23:19:47 CST",
-    "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US. Silver rose for a third day.\n\n"
+    "title": "McDonald’s Rival Jollibee Soars on Plan to List Global Unit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business",
+    "published": "Tue, 06 Jan 2026 02:19:30 CST",
+    "summary": "Jollibee Foods Corp. will spin off its international business and list it on a\nUS stock exchange as the Philippine fast-food group plots its global\nexpansion, an announcement that fueled its shares’ largest single-day surge\nsince 2008.\n\n"
   },
   {
     "title": "AI Video Creation Leads China’s Kuaishou to 88% Stock Surge",
@@ -388,6 +382,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fmovies%2Fmarty-supreme-cast-kevin-oleary.html",
     "published": "Mon, 05 Jan 2026 07:37:21 CST",
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
+  },
+  {
+    "title": "EM Currencies Steady as USD Loses Haven Appeal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
+    "published": "Mon, 05 Jan 2026 01:52:30 CST",
+    "summary": "Emerging-market currencies held steady as the dollar weakened on Monday even\nas the US capture of Venezuela’s leader Nicolas Maduro increased the\nperception of geopolitical risks.\n\n"
   },
   {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
