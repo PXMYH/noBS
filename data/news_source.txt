@@ -1,15 +1,81 @@
 [
   {
-    "title": "Insurer Prudential Announces $1.2 Billion Share Buyback Program",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finsurer-prudential-announces-1-2-billion-share-buyback-program",
-    "published": "Tue, 06 Jan 2026 07:26:34 CST",
-    "summary": "Prudential Plc will start a $1.2 billion share buyback, as the company looks\nto return excess capital to investors after listing an Indian unit in\nDecember.\n\n"
+    "title": "JPMorgan's Bharti on 2026 India IPO Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fjpmorgan-s-bharti-on-2026-india-ipo-outlook-video",
+    "published": "Tue, 06 Jan 2026 08:19:10 CST",
+    "summary": "Abhinav Bharti, Head of India Equity Capital Markets at JPMorgan, shares his\noutlook for India’s equity capital markets. He expects technology and consumer\nsectors to be the most active in raising funds this year. He spoke on\nBloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Next Lifts Profit Forecast Again on Strong Holiday Season Sales",
+    "title": "Pictet Group Managing Partner on Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fpictet-group-managing-partner-on-markets-video",
+    "published": "Tue, 06 Jan 2026 08:16:32 CST",
+    "summary": "Raymond Sagayam, Managing Partner at Pictet Group, discusses his views on\nmacro risks, opportunities in the markets, and the firm’s 2026 outlook. He\nspoke exclusively on Bloomberg’s Insight with Haslinda Amin. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Equities to Rise Not Just on Asia Tech: 3-Minute MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fequities-to-rise-not-just-on-asia-tech-3-minute-mliv-video",
+    "published": "Tue, 06 Jan 2026 08:15:44 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today's key themes for analysts and investors on \"Bloomberg: The Opening\nTrade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China Slaps Export Controls on Japan Military for Taiwan Remarks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-bans-exports-of-dual-use-items-to-japan-military-users",
+    "published": "Tue, 06 Jan 2026 08:09:13 CST",
+    "summary": "China imposed controls on exports to Japan that could have military use,\nintensifying a dispute between Asia’s top economies over remarks Japanese\nPrime Minister Sanae Takaichi made last year on Taiwan.\n\n"
+  },
+  {
+    "title": "Reliance Heads for Worst Day Since 2024 on Retail Sector Worries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Freliance-heads-for-worst-day-since-2024-on-retail-sector-worries",
+    "published": "Tue, 06 Jan 2026 08:08:18 CST",
+    "summary": "Reliance Industries Ltd.’s shares tumbled after analysts warned of rising\ncompetition in the retail sector, where the Mukesh Ambani-controlled\nconglomerate is a major player.\n\n"
+  },
+  {
+    "title": "InPost Gets Indicative Proposal for Acquisition of Company",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finpost-gets-indicative-proposal-for-acquisition-of-company",
+    "published": "Tue, 06 Jan 2026 07:53:54 CST",
+    "summary": "InPost said it has received an indicative proposal regarding a potential\nacquisition of all the shares in the Polish logistics firm.\n\n"
+  },
+  {
+    "title": "Asian Stocks in Best-Ever Start to a Year, Currencies Strengthen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fasian-stocks-in-best-ever-start-to-a-year-currencies-strengthen",
+    "published": "Tue, 06 Jan 2026 07:47:11 CST",
+    "summary": "Asian stocks are having their best-ever start to a year, with the region’s\ncurrencies and bonds also rallying as investors seek opportunities outside the\nUS.\n\n"
+  },
+  {
+    "title": "French Inflation Decelerates to Seven-Month Low on Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrench-inflation-decelerates-to-seven-month-low-on-energy",
+    "published": "Tue, 06 Jan 2026 07:45:00 CST",
+    "summary": "French inflation slowed slightly in December as energy costs fell, indicating\nlittle change in the backdrop that has allowed the European Central Bank to\nkeep interest rates on hold.\n\n"
+  },
+  {
+    "title": "China Vanke Crisis Prompts Smaller Builder to Reassure Creditors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-vanke-fallout-seen-as-smaller-builder-talks-state-support",
+    "published": "Tue, 06 Jan 2026 07:42:01 CST",
+    "summary": "Ripples from the crisis at Chinese developer China Vanke Co. are reaching all\nthe way to builders fully owned by the state.\n\n"
+  },
+  {
+    "title": "Pictet Co-CEO Sagayam on Global Investment Opportunities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fpictet-co-ceo-sagayam-on-global-investment-opportunities-video",
+    "published": "Tue, 06 Jan 2026 07:41:07 CST",
+    "summary": "Pictet Group Managing Partner and Co-CEO Raymond Sagayam shares his views on\ninvestment opportunities in a rapidly changing global landscape. He speaks on\nInsight With Haslinda Amin. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Nvidia’s CES AI Reveal Fuels Global Tech Optimism | Insight with Haslinda Amin 01/06/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Finsight-with-haslinda-amin-1-6-2026-video",
+    "published": "Tue, 06 Jan 2026 07:38:51 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Insurer Prudential Announces $1.2 Billion Share Buyback",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finsurer-prudential-announces-1-2-billion-share-buyback-program",
+    "published": "Tue, 06 Jan 2026 07:26:34 CST",
+    "summary": "Prudential Plc will start a fresh share buyback of up to $1.2 billion, as the\ncompany looks to return excess capital to investors after listing an Indian\nunit in December.\n\n"
+  },
+  {
+    "title": "Next Lifts Profit Forecast Again on Strong Holiday Sales",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnext-lifts-profit-forecast-again-on-strong-holiday-season-sales",
     "published": "Tue, 06 Jan 2026 07:20:24 CST",
-    "summary": "Next Plc raised its profit forecast for a fifth time this financial year after\nsales at the British retailer rose more than expected over Christmas.\n\n"
+    "summary": "Next Plc raised its profit forecast for a fifth time this financial year after\nsales at the British retailer soared in the key Christmas period.\n\n"
   },
   {
     "title": "Strong Start to 2026 for Chinese Stocks | The China Show 1/6/2026",
@@ -24,13 +90,13 @@
     "summary": "Mahendra Jajoo, a veteran Indian money manager, has joined Quant Mutual Fund\nas an executive director, people familiar with the matter said.\n\n"
   },
   {
-    "title": "FTSE 100 Set to Extend Gains, Pound Rises",
+    "title": "FTSE 100 Hits Fresh Record as Miners Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-06%2Fftse-100-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today-mk28k0sz",
     "published": "Tue, 06 Jan 2026 06:55:59 CST",
     "summary": "\n\n"
   },
   {
-    "title": "AB InBev Reacquires Stake in US Container Plants for $3 Billion",
+    "title": "AB InBev Buys Back Stake in US Metal Plants for $3 Billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fab-inbev-reacquires-stake-in-us-container-plants-for-3-billion",
     "published": "Tue, 06 Jan 2026 06:26:50 CST",
     "summary": "Anheuser-Busch InBev SA/NV will reacquire a 49.9% stake in its US metal\ncontainer plants from a consortium of institutional investors led and advised\nby Apollo Global Management Inc. in a deal estimated to be around $3 billion.\n\n"
@@ -62,7 +128,7 @@
   {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
-    "published": "Tue, 06 Jan 2026 05:00:10 CST",
+    "published": "Tue, 06 Jan 2026 05:00:11 CST",
     "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
   },
   {
@@ -70,36 +136,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsoftening-mideast-oil-market-adds-to-signs-of-global-weakness",
     "published": "Tue, 06 Jan 2026 04:49:10 CST",
     "summary": "The Middle Eastern crude market is showing further signs of weakness,\namplifying concerns about a global glut that could drag prices lower, while\nenabling Asian traders to shrug off developments in Venezuela.\n\n"
-  },
-  {
-    "title": "'Sentiment is Back' in Chinese Onshore Equities: Hong",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2F-sentiment-is-back-in-chinese-onshore-equities-hong-video",
-    "published": "Tue, 06 Jan 2026 04:15:20 CST",
-    "summary": "Lotus Asset Management CIO Hao Hong discusses the surge in China's A-shares,\nwarning that economic fundamentals have not yet caught up with the rally.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman Sees China Steel-Capacity Cuts Going Slower Than Thought",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-steel-outlook-cut-as-capacity-progress-slows-goldman-says",
-    "published": "Tue, 06 Jan 2026 03:58:48 CST",
-    "summary": "Chinese steel mills face an extended period of depressed margins as efforts to\ncut capacity in the sector go slower-than-expected, while exports remain high,\naccording to Goldman Sachs Group Inc.\n\n"
-  },
-  {
-    "title": "Venezuela Oil Output Bump Unlikely Until Decade’s End, ANZ Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-oil-output-bump-unlikely-until-decade-s-end-anz-says",
-    "published": "Tue, 06 Jan 2026 03:56:01 CST",
-    "summary": "Investors betting on growth in Venezuela oil output will need deep pockets and\npatience, as aging infrastructure will require billions of dollars in\nspending, according to Australia and New Zealand Banking Group Ltd.\n\n"
-  },
-  {
-    "title": "Buyout Firm Hg Is Nearing a Deal to Take OneStream Private",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbuyout-firm-hg-is-nearing-a-deal-to-take-onestream-private",
-    "published": "Tue, 06 Jan 2026 03:54:18 CST",
-    "summary": "Buyout firm Hg Capital is in advanced talks to acquire financial software\nmaker OneStream Inc., according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Markets in Trump’s New World Order Rally Even After Attacks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fmarkets-in-trump-s-new-world-order-rally-even-after-attacks",
-    "published": "Tue, 06 Jan 2026 03:52:18 CST",
-    "summary": "Financial markets have quickly gotten used to President Donald Trump’s\nunorthodox approach to military operations around the globe.\n\n"
   },
   {
     "title": "Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve",
@@ -117,13 +153,7 @@
     "title": "Credit Markets Rev Up After $61 Billion of Deals in One Day",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fglobal-dollar-bond-sales-to-accelerate-after-61-billion-surge",
     "published": "Tue, 06 Jan 2026 03:16:16 CST",
-    "summary": "Monday’s $61 billion issuance tally for the global dollar bond market\nshowcases strong investor appetite for credit, one that will likely embolden\nissuers to boost supply early in the year.\n\n"
-  },
-  {
-    "title": "China’s Hengyi Pushes Ahead With Brunei Oil Refinery Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-s-hengyi-pushes-ahead-with-brunei-oil-refinery-expansion",
-    "published": "Tue, 06 Jan 2026 03:03:26 CST",
-    "summary": "China’s Hengyi Petrochemical Co. will embark on a long-planned expansion of\nits Brunei oil refinery, more than doubling its capacity in the country and\nintensifying competition in global markets for fuels and plastics.\n\n"
+    "summary": "Global credit markets are sending off one of the clearest signals yet that\ninvestors are looking past geopolitics.\n\n"
   },
   {
     "title": "Copper Surges to Fresh Record as Inventories ‘Locked in the US’",
@@ -132,34 +162,10 @@
     "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time, as investors bet on a tighter market.\n\n"
   },
   {
-    "title": "ICICI Bank Says Indian Bonds Face Hurdle as Stocks Lure Savings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ficici-bank-says-indian-bonds-face-hurdle-as-stocks-lure-savings",
-    "published": "Tue, 06 Jan 2026 02:59:16 CST",
-    "summary": "Indian bonds have limited scope to rally as a shift in household savings to\nequities and changes to banks’ investment rules dampen demand for long-term\ndebt, according to a senior executive at ICICI Bank Ltd.\n\n"
-  },
-  {
     "title": "Chinese Stocks Rally to Four-Year High in Strong Start to 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchinese-stocks-rally-to-four-year-high-in-strong-start-to-2026",
     "published": "Tue, 06 Jan 2026 02:47:55 CST",
     "summary": "Chinese stocks climbed to multi-year highs, fueled by sustained optimism over\nthe country’s AI advances and emerging signs of an economic recovery.\n\n"
-  },
-  {
-    "title": "McDonald’s Rival Jollibee Plans US Listing for Global Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business",
-    "published": "Tue, 06 Jan 2026 02:19:30 CST",
-    "summary": "Shares of Jollibee Foods Corp. jumped the most in more than five years after\nit announced plans to spin off its international business and list it on a US\nstock exchange by late 2027 as the Philippine fast-food group plots its global\nexpansion.\n\n"
-  },
-  {
-    "title": "Traders Boost Taiwan Stock Leverage to Highest Level Since 2008",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-boost-taiwan-stock-leverage-to-highest-level-since-2008",
-    "published": "Tue, 06 Jan 2026 01:59:02 CST",
-    "summary": "Leveraged bets to buy Taiwan stocks rose to the highest level in 17 years,\nunderscoring strong risk appetite as the benchmark trades at record highs.\n\n"
-  },
-  {
-    "title": "Hong Kong Developers Sell $750 Million of Luxury Homes in Weeks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fhong-kong-developers-sell-750-million-of-luxury-homes-in-weeks",
-    "published": "Tue, 06 Jan 2026 01:51:56 CST",
-    "summary": "Developers in Hong Kong were kept busy during the holiday season as rich\nbuyers went on a shopping spree for luxury homes.\n\n"
   },
   {
     "title": "Oil Steady After Biggest Gain in a Week With Focus on Venezuela",
@@ -174,16 +180,22 @@
     "summary": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy\nlineup of economic data in the US. Silver rose for a third day.\n\n"
   },
   {
+    "title": "AI Video Creation Leads China’s Kuaishou to 88% Stock Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fai-video-generation-leads-china-s-kuaishou-to-84-stock-surge",
+    "published": "Mon, 05 Jan 2026 23:00:00 CST",
+    "summary": "Few major companies have tried to pull off a pivot to AI as swiftly as\nKuaishou Technology.\n\n"
+  },
+  {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Mon, 05 Jan 2026 22:47:32 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "Stocks Extend Record-Breaking Rally, Silver Jumps: Markets Wrap",
+    "title": "Stocks Build on New Year’s Rally as Metals Gain: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "Equities extended their record-breaking rally as investors increasingly\nrotated into regional stocks, drawn by more attractive valuations and stronger\ngrowth prospects.\n\n"
+    "summary": "Equities extended their New Year’s rally as investors increasingly rotated\ninto regional stocks, drawn by more attractive valuations and stronger growth\nprospects.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -348,22 +360,10 @@
     "summary": "Weiss is embroiled in her first major controversy as editor in chief as her\nhandpicked anchor takes evening news show\n\nTaking charge of CBS News in early October with no television industry\nexperience, and already facing both deep skepticism from many network\nemployees and a faltering business model, Bari Weiss began with a lot working\nagainst her.\n\nStill, her three months as editor in chief have been more chaotic than even\nmany of her critics expected. “There is blood in the water,” said one CBS News\njournalist, who, like the others quoted in this story, was not authorized by\nthe network to comment.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Gold, Silver and European Defense Stocks Up on Venezuela Risk | The Opening Trade 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fthe-opening-trade-1-1-2026-video",
-    "published": "Mon, 05 Jan 2026 11:48:44 CST",
-    "summary": "European defense stocks rise following the US military strikes on Venezuela\nand its capture of President Nicolás Maduro. Gold and silver also advance,\nwith investors weighing heightened geopolitical risks. Meanwhile, oil markets\nshrug off the possibility of short-term disruptions, believing any drop in\nVenezuelan output could be offset by increases elsewhere. The Opening Trade\nhas everything you need to know as markets open across Europe. With analysis\nyou won't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Why America stopped building the ‘starter home’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fstarter-home-disappearance%2F",
     "published": "Mon, 05 Jan 2026 11:28:28 CST",
     "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
-  },
-  {
-    "title": "Longi Joins China Solar Push to Cut Costs by Reducing Silver",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs",
-    "published": "Mon, 05 Jan 2026 10:56:45 CST",
-    "summary": "Longi Green Energy Technology Co. will begin substituting base metals for\nsilver in its solar cells, the latest move by the industry to mitigate the\nsurging cost of the precious metal.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
