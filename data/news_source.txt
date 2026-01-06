@@ -1,27 +1,63 @@
 [
   {
-    "title": "S&amp;P 500 Inches Forward as Traders Await Key Economic Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
-    "published": "Tue, 06 Jan 2026 14:39:31 CST",
-    "summary": "US stocks crept higher Tuesday morning, extending gains to start the year as\ninvestors awaited a batch of economic reports headlined by jobs data later\nthis week.\n\n"
+    "title": "Ford reports best annual U.S. vehicle sales since 2019",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
+    "published": "Tue, 06 Jan 2026 15:45:00 CST",
+    "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
+  },
+  {
+    "title": "Effram Kaplan’s Global M&A Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Feffram-kaplan-s-global-m-a-outlook-video",
+    "published": "Tue, 06 Jan 2026 15:37:40 CST",
+    "summary": "Brown Gibbons Lang & Company Co-Chief Executive Officer Effram Kaplan says\n2025 was fantastic for dealmaking and gives his expectations for 2026. He\nspeaks with Norah Mulinda and Vonnie Quinn on “Bloomberg Markets” December 31,\n2025. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Inside Alts: Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvista-equity-reinventing-companies-use-ai.html",
+    "published": "Tue, 06 Jan 2026 15:30:59 CST",
+    "summary": "Vista's aggressive bet on applications and agentic software highlights one of\nthe fastest-growing corners of the AI trade and alternative investments.\n\n"
+  },
+  {
+    "title": "Private equity management fees hit new low in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html",
+    "published": "Tue, 06 Jan 2026 15:30:01 CST",
+    "summary": "Managers have been offering discounts amid difficulty fundraising, and capital\nis increasingly going to bigger funds, dragging down the mean.\n\n"
   },
   {
     "title": "Manhattan office leasing in the fourth quarter was the strongest in 6 years",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html",
-    "published": "Tue, 06 Jan 2026 14:25:58 CST",
+    "published": "Tue, 06 Jan 2026 15:15:17 CST",
     "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019\nand just 2.4% below 2019's pre-pandemic total.\n\n"
+  },
+  {
+    "title": "Will Welch to Leave GQ After 7 Years as Its Top Editor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fmedia%2Fwill-welch-gq-editor-departure.html",
+    "published": "Tue, 06 Jan 2026 15:06:06 CST",
+    "summary": "Mr. Welch worked to move the men’s magazine away from what he called “manly-\nman tropes.” His next role will be with Pharrell, the men’s designer of Louis\nVuitton.\n\n"
+  },
+  {
+    "title": "Data-Center Cooling Stocks Sink After Nvidia CEO Talks at CES",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fdata-center-cooling-stocks-sink-after-nvidia-ceo-talks-at-ces",
+    "published": "Tue, 06 Jan 2026 15:03:59 CST",
+    "summary": "Makers of cooling systems saw their stocks plunge Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
+  },
+  {
+    "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
+    "published": "Tue, 06 Jan 2026 15:02:49 CST",
+    "summary": "Companies like Kairos Energy are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
+  },
+  {
+    "title": "S&amp;P 500 Rises Toward Record as Services Data Fans Rate-Cut Hopes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
+    "published": "Tue, 06 Jan 2026 14:39:31 CST",
+    "summary": "US stocks extended gains Tuesday morning as data showing decelerating service-\nsector activity added to evidence that would support additional Federal\nReserve interest rate cuts.\n\n"
   },
   {
     "title": "FOMC’s New Voters Bring a Hawkish Tilt to Fed Decisions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ffomc-s-new-voters-bring-a-hawkish-tilt-to-fed-decisions-video",
     "published": "Tue, 06 Jan 2026 14:24:50 CST",
     "summary": "The Federal Open Market Committee begins the year with a new rotation of a\nmore hawkish collection of voters who may delay interest-rate cuts. Michael\nMcKee has more on Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Ford reports best annual U.S. vehicle sales since 2019",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
-    "published": "Tue, 06 Jan 2026 14:15:01 CST",
-    "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
   },
   {
     "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
@@ -54,10 +90,10 @@
     "summary": "The value of Moscow’s crude shipments slumps to the lowest since the Ukraine\ninvasion\n\n"
   },
   {
-    "title": "Saudi Arabia Opens Capital Market to All Foreign Investors",
+    "title": "Saudis Open Stocks to All Foreign Investors to Boost Inflows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsaudi-arabia-opens-capital-market-to-all-foreign-investors",
     "published": "Tue, 06 Jan 2026 13:39:31 CST",
-    "summary": "Saudi Arabia opened its equities to all foreign investors, the latest step in\nthe kingdom’s efforts to boost flows into the Middle East’s largest markets.\n\n"
+    "summary": "Saudi Arabia opened its equities to all foreign investors, the latest step in\nthe kingdom’s efforts to boost flows into the Middle East’s largest market.\n\n"
   },
   {
     "title": "US will be exempt from global tax deal targeting profits of large multinationals",
@@ -162,34 +198,10 @@
     "summary": "Traders are just fine with the rand at its strongest level against the dollar\nin more than three years, volatility measures show.\n\n"
   },
   {
-    "title": "Braga: US Gov Taking Transactional Approach to Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbraga-us-gov-taking-transactional-approach-to-venezuela",
-    "published": "Tue, 06 Jan 2026 11:05:57 CST",
-    "summary": "Venezuela's acting president says she is inviting the US to work with her\ncountry, after the US swooped into Caracas seized Nicolas Maduro and flew him\nto New York to face drugs and weapons charges. President Trump said the US\nplans to \"run\" Venezuela, with elections due eventually. Mário Braga,\nGeopolitical Analyst at RANE spoke to Bloomberg's Horizons Middle East and\nAfrica anchor Joumanna Bercetche about what’s next for the South American\ncountry. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump Demands 'Total Access' For His Gamble on Venezuelan Oil | The Pulse 1/5/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-pulse-1-5-2026-video",
-    "published": "Tue, 06 Jan 2026 10:55:01 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Peter Trubowitz, London\nSchool of Economics International Relations Professor; Tina Fordham, Fordham\nGlobal Foresights Founder & Geopolitical Strategist; Wei Li, BlackRock Global\nChief Investment Strategist; Amrita Sen, Energy Aspects Founder & Director of\nMarket Intelligence; Robert Friedland, Sunrise Energy Metals Co-Chair &\nIvanhoe Mines Founder (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Energy Trader Trafigura to Talk With US Over Venezuelan Oil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftrafigura-to-hold-talks-with-us-about-return-to-venezuela",
     "published": "Tue, 06 Jan 2026 10:52:49 CST",
     "summary": "Trafigura Group and other traders will hold talks with the US government about\nhow they can return to buying crude from Venezuela and supplying fuel to the\ncountry after the removal of President Nicolás Maduro over the weekend, said\nthe firm’s global head of oil.\n\n"
-  },
-  {
-    "title": "France, Belgium and Austria Face 50% Chance of Rating Downgrades, JPMorgan Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrance-belgium-and-austria-face-50-chance-of-rating-downgrades-jpmorgan-says",
-    "published": "Tue, 06 Jan 2026 10:49:30 CST",
-    "summary": "France, Belgium and Austria are the euro-zone members most vulnerable to\ncredit-rating downgrades in 2026, according to JPMorgan.\n\n"
-  },
-  {
-    "title": "Thailand Plans New Cannabis Rules to Rein in Dispensary Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fthailand-plans-new-cannabis-rules-to-rein-in-dispensary-boom",
-    "published": "Tue, 06 Jan 2026 10:48:11 CST",
-    "summary": "Thailand’s government is planning to further rein in thousands of cannabis\ndispensaries that have sprung up in the wake of decriminalization by limiting\nsales of the plant mostly to licensed medical facilities.\n\n"
   },
   {
     "title": "Nvidia’s $4 Trillion Stock Rally Faces More Threats Than Ever",
@@ -204,22 +216,16 @@
     "summary": "The author and Trump antagonist Michael Wolff has his wife, Victoria, to thank\nfor his latest chapter: lifestyle influencer. Now she’s becoming one, too.\n\n"
   },
   {
-    "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
-    "published": "Tue, 06 Jan 2026 10:00:22 CST",
-    "summary": "Companies like Kairos Energy are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
+    "title": "Congress has four weeks to dodge another shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
   },
   {
     "title": "The data center rebellion is here, and it’s reshaping the political landscape",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
     "published": "Tue, 06 Jan 2026 10:00:00 CST",
     "summary": "Backlash over the proliferation of data centers has entered the national\npolitical conversation and could affect voters of all political persuasions in\nthis year’s midterm elections.\n\n"
-  },
-  {
-    "title": "Congress has four weeks to dodge another shutdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
   },
   {
     "title": "Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs",
@@ -238,6 +244,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Freliance-heads-for-worst-day-since-2024-on-retail-sector-worries",
     "published": "Tue, 06 Jan 2026 08:08:18 CST",
     "summary": "Reliance Industries Ltd.’s shares tumbled after analysts warned of rising\ncompetition in the retail sector, where the Mukesh Ambani-controlled\nconglomerate is a major player.\n\n"
+  },
+  {
+    "title": "InPost Soars as Advent Is Said to Be Behind Takeover Bid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Finpost-gets-indicative-proposal-for-acquisition-of-company",
+    "published": "Tue, 06 Jan 2026 07:53:54 CST",
+    "summary": "Advent International is looking to take over Polish parcel locker operator\nInPost SA, according to Sky News, sending the target’s stock up 26%.\n\n"
   },
   {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
@@ -270,10 +282,10 @@
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
   },
   {
-    "title": "US Stock Edge Higher as Traders Weigh Fed Outlook: Markets Wrap",
+    "title": "US Stocks Approach Fresh Record With Fed in Focus: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "US stocks posted modest gains at the open on Tuesday, as investors awaited\nfresh data that could help shape the Federal Reserve’s interest rate outlook.\n\n"
+    "summary": "US stocks rose to approach a new record on Tuesday, as investors awaited data\nthat could help shape the Federal Reserve’s interest rate outlook.\n\n"
   },
   {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
@@ -352,6 +364,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbanks-snatch-up-mortgage-bonds-that-saw-best-returns-since-2002",
     "published": "Mon, 05 Jan 2026 18:06:30 CST",
     "summary": "Flush with deposits, US banks are buying up mortgage bonds and betting that\nthe asset class will get a further boost in 2026 from relaxed capital rules.\n\n"
+  },
+  {
+    "title": "Rodriguez Can Manage Venezuela, Hans Humes Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ffor-review-interview-of-hans-humes-on-us-intervention-and-venezuela-s-future",
+    "published": "Mon, 05 Jan 2026 17:58:29 CST",
+    "summary": "Venezuela's acting president Delcy Rodriguez represents within Chavismo the\n“sensible view of managing an economy in the appropriate way,” Greylock\nCapital Management Chief Executive Hans Humes said. Humes touted Rodriguez’s\nwork upping oil production in Venezuela amid strict sanctions. He speaks on\n\"Bloomberg Open Interest\" along with Bloomberg's Erik Schatzker about the\nfuture of Venezuela. (Source: Bloomberg)\n\n"
   },
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
@@ -822,12 +840,6 @@
     "summary": "Chains like Starbucks, Wendy's and Denny's announced plans to close\nunderperforming restaurants in 2025.\n\n"
   },
   {
-    "title": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fus%2Fpolitics%2Ftrump-federal-government-fallout.html",
-    "published": "Tue, 30 Dec 2025 17:02:50 CST",
-    "summary": "President Trump achieved his goal of shrinking the work force. But many\ncurrent and former officials say the government is less dependable and\nefficient than it was a year ago.\n\n"
-  },
-  {
     "title": "Here’s what to expect for commercial real estate in 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fcommercial-real-estate-2026-what-to-expect.html",
     "published": "Tue, 30 Dec 2025 15:15:41 CST",
@@ -954,22 +966,10 @@
     "summary": "Lego and Formula 1 kicked off a multiyear partnership in 2025. Here's how that\ncollaboration is providing value to the toy company and the racing\norganization.\n\n"
   },
   {
-    "title": "Supplements in your stocking: Why wellness gifts are gaining steam for the holidays and beyond",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F22%2Fsupplements-wellness-christmas-gifts.html",
-    "published": "Mon, 22 Dec 2025 12:00:01 CST",
-    "summary": "Retailers are blurring the lines between beauty and wellness as customers look\nfor holiday gifts and focus on self-care.\n\n"
-  },
-  {
     "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F21%2Fus%2Fpolitics%2Fus-coast-guard-venezuela-oil-tankers.html",
     "published": "Mon, 22 Dec 2025 04:58:03 CST",
     "summary": "The latest vessel to be targeted by the United States in its pressure campaign\non Venezuela was sending distress signals as it headed northeast from the\nCaribbean into the Atlantic.\n\n"
-  },
-  {
-    "title": "Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F21%2Fdisneys-avatar-fire-and-ash-box-office.html",
-    "published": "Sun, 21 Dec 2025 17:11:47 CST",
-    "summary": "Disney's \"Avatar: Fire and Ash\" tallied just $88 million during its domestic\ndebut, well shy of the $110 million to $125 million range analysts had\nexpected.\n\n"
   },
   {
     "title": "Why Middle-Class Americans Say Life Is Unaffordable",
