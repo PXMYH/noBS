@@ -1,5 +1,29 @@
 [
   {
+    "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html",
+    "published": "Tue, 06 Jan 2026 20:16:09 CST",
+    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
+  },
+  {
+    "title": "NYC Fights Sale of Bankrupt Rentals After Mamdani Blasts Living Conditions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnyc-fights-sale-of-bankrupt-rentals-after-mamdani-blasts-roaches",
+    "published": "Tue, 06 Jan 2026 20:09:18 CST",
+    "summary": "Newly-inaugurated New York City Mayor Zohran Mamdani’s housing agenda is\nfacing its first test as the city balks at the bankruptcy sale of thousands of\nrent-stabilized apartments owned by Pinnacle Group, where residents have\nrailed against living conditions.\n\n"
+  },
+  {
+    "title": "How Venezuela’s Oil Could Shake Up the World Supply",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
+    "published": "Tue, 06 Jan 2026 19:45:09 CST",
+    "summary": "The country could, eventually, attract investment and re-emerge as a force in\nthe oil markets, but many analysts are concerned about an oversupply.\n\n"
+  },
+  {
+    "title": "KBC and Van Lanschot Kempen to Form Equities Joint Venture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fkbc-and-van-lanschot-kempen-to-form-equities-joint-venture",
+    "published": "Tue, 06 Jan 2026 19:38:19 CST",
+    "summary": "KBC Securities and Van Lanschot Kempen Investment Banking agreed to combine\ntheir equities businesses into an equal joint venture as they seek to broaden\nstock coverage and increase heft in their markets.\n\n"
+  },
+  {
     "title": "Oracle’s Debt ‘Unlikely’ to Trigger Cut to Junk Grade, UBS Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Foracle-s-debt-unlikely-to-trigger-cut-to-junk-grade-ubs-says",
     "published": "Tue, 06 Jan 2026 19:34:36 CST",
@@ -7,7 +31,7 @@
   },
   {
     "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zuffino-aig-corporate-changes.html",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html",
     "published": "Tue, 06 Jan 2026 19:33:05 CST",
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
@@ -30,7 +54,7 @@
     "summary": "A record-sized block trade was placed in the fed funds futures market Tuesday,\njust days ahead of a key set of US labor data that could shape US interest-\nrate expectations.\n\n"
   },
   {
-    "title": "Venezuela’s Dwindling Oil Storage Imperils Output: Kpler",
+    "title": "Venezuela’s Dwindling Oil Storage Threatens Production",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-s-dwindling-oil-storage-imperils-output-kpler-says",
     "published": "Tue, 06 Jan 2026 18:58:13 CST",
     "summary": "Venezuelan oil production is at risk of severe decline within weeks as storage\ntanks approach full capacity and many ships steer clear of Caribbean waters to\navoid a US naval blockade, according to maritime intelligence firm Kpler Ltd.\n\n"
@@ -78,6 +102,12 @@
     "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Nvidia says production of its next-gen AI chip is\non track--but rivals are closing in. We’re live from CES in Las Vegas. And the\nbull market powers ahead despite rising geopolitical risks--from Venezuela to\nGreenland to Taiwan. And hedge funds with stock-picking strategies shine in\n2025--Bloomberg breaks down the winners. Plus, media veteran Kay Koplovitz\njoins us on why Netflix could be the frontrunner to buy Warner Bros.\nDiscovery. (Source: Bloomberg)\n\n"
   },
   {
+    "title": "Trump says US companies will invest billions in Venezuelan oil production. Experts aren’t so sure",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftrump-oil-companies-venezuela",
+    "published": "Tue, 06 Jan 2026 18:19:13 CST",
+    "summary": "Industry insiders say US oil firms want to ‘avoid getting screwed’ and will\nproceed with extreme caution in region\n\n  * Analysis: Trump’s focus on Venezuelan oil reinforces claim action was never about ‘war on drugs’\n\nIndustry experts have expressed skepticism over Donald Trump’s bullish\nprediction that US big oil firms will rapidly invest tens of billions of\ndollars to fix Venezuelan infrastructure and ramp up production after the\nrendition of the country’s president, Nicolás Maduro.\n\nWithout an “iron-clad guarantee” that the US federal government will fully\nreimburse them for the cost of rebuilding the country’s oil market, analysts\nexpect global energy giants to proceed with extreme caution.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "France Seeks Fertilizers Exemption From EU Carbon Border Tax",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffrance-seeks-fertilizers-exemption-from-eu-carbon-border-tax",
     "published": "Tue, 06 Jan 2026 18:06:31 CST",
@@ -108,12 +138,6 @@
     "summary": "Buyout firm Hg has agreed to acquire OneStream Inc. in a deal valuing the\nfinancial software maker at an equity value of about $6.4 billion.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html",
-    "published": "Tue, 06 Jan 2026 17:37:49 CST",
-    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
     "title": "Bets on Maduro, Jesus Show Promise and Risks of Prediction Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fbets-on-maduro-show-promise-risks-of-prediction-boom-video",
     "published": "Tue, 06 Jan 2026 17:36:36 CST",
@@ -136,18 +160,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchevron-lines-up-11-oil-ships-as-venezuela-s-dark-fleet-vanishes",
     "published": "Tue, 06 Jan 2026 17:04:45 CST",
     "summary": "A small fleet of ships booked by Chevron Corp. is sailing to Venezuela as the\ncompany emerges as the only exporter of the country’s oil following the ouster\nof President Nicolas Maduro by US forces.\n\n"
-  },
-  {
-    "title": "Czech Government Seeks Savings After Budget Gap Hit $14 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fczech-government-seeks-savings-after-budget-gap-hit-14-billion",
-    "published": "Tue, 06 Jan 2026 16:54:25 CST",
-    "summary": "The Czech Republic’s budget deficit exceeded the target for 2025, leaving the\nnew government scrambling to find savings and financing for its priorities.\n\n"
-  },
-  {
-    "title": "Irish Corporate Tax Intake Rises Despite Trump Reshoring Vow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Firish-corporate-tax-intake-climbs-despite-trump-reshoring-pledge",
-    "published": "Tue, 06 Jan 2026 16:30:00 CST",
-    "summary": "Ireland recorded a surge in corporation tax receipts last year, despite vows\nby US President Donald Trump to reshore American profits from the\nmultinational hub.\n\n"
   },
   {
     "title": "Private equity management fees hit new low in 2025",
@@ -264,16 +276,16 @@
     "summary": "The author and Trump antagonist Michael Wolff has his wife, Victoria, to thank\nfor his latest chapter: lifestyle influencer. Now she’s becoming one, too.\n\n"
   },
   {
-    "title": "Congress has four weeks to dodge another shutdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
-  },
-  {
     "title": "The data center rebellion is here, and it’s reshaping the political landscape",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
     "published": "Tue, 06 Jan 2026 10:00:00 CST",
     "summary": "As the buildout of AI infrastructure alarms communities, it is fast emerging\nas a potent electoral issue across the political divide.\n\n"
+  },
+  {
+    "title": "Congress has four weeks to dodge another shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
+    "published": "Tue, 06 Jan 2026 10:00:00 CST",
+    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
   },
   {
     "title": "Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs",
@@ -294,7 +306,7 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "Oil Falls as Traders Weigh Ukraine Deal, Geopolitical Risks",
+    "title": "Oil Falls as Traders Weigh Ukraine Deal, Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
     "published": "Mon, 05 Jan 2026 23:36:58 CST",
     "summary": "Oil fell as traders weighed progress on a deal to end Russia’s war in Ukraine,\na possibly bearish development for an oil market staring down a glut.\n\n"
@@ -390,6 +402,12 @@
     "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
   },
   {
+    "title": "Wall Street Banks Kick Off $7 Billion Loan Sale Tied to Hologic Buyout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fwall-street-banks-kick-off-loan-sale-tied-to-hologic-buyout",
+    "published": "Mon, 05 Jan 2026 18:34:30 CST",
+    "summary": "A group of banks has kicked off a roughly $7 billion leveraged loan sale to\nhelp fund the buyout of medical-device maker Hologic Inc., one of the biggest\nacquisition financings expected to hit the market in the coming months for\njunk-rated borrowers.\n\n"
+  },
+  {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
     "published": "Mon, 05 Jan 2026 17:57:44 CST",
@@ -412,12 +430,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fus-stocks-show-little-reaction-to-trumps-extraordinary-venezuela-action-why-investors-see-a-bull-case.html",
     "published": "Mon, 05 Jan 2026 16:49:50 CST",
     "summary": "Geopolitical shocks historically have little impact on the stock market, and,\nadditionally, investors do not expect the attack will escalate further.\n\n"
-  },
-  {
-    "title": "Dense, sticky and heavy: why Venezuelan crude oil appeals to US refineries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F05%2Fvenezuelan-crude-oil-appeals-to-us-refineries",
-    "published": "Mon, 05 Jan 2026 16:27:09 CST",
-    "summary": "South American nation’s tar-like oil is what many Gulf coast facilities were\nbuilt for but ramping up production to 3m barrels a day will be a long game\n\nClustered along the US Gulf coast are some of the largest and most complex\nheavy-oil refineries in the world. These sprawling industrial hubs, owned by\nmajor US oil companies, stand ready to emerge as some of the major victors of\nDonald Trump’s swoop on Venezuela.\n\nIn some ways, these refineries are a relic of another time; built to process\nthe heavy, unctuous crude imported from Latin America before the boom in\nlighter US shale oil emerged earlier this century.\n\nContinue reading...\n\n"
   },
   {
     "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
@@ -630,12 +642,6 @@
     "summary": "Citadel's flagship multistrategy Wellington fund, its largest, gained 10.2% in\n2025, according to a person familiar with the firm's returns.\n\n"
   },
   {
-    "title": "Bloomberg Surveillance 1/2/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-02%2Fbloomberg-surveillance-1-2-2026-video",
-    "published": "Fri, 02 Jan 2026 17:23:39 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Vertiv, Baidu, Warby Parker, RH & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fstocks-making-the-biggest-moves-midday-vrt-bidu-wrby-rh-bidu.html",
     "published": "Fri, 02 Jan 2026 17:02:20 CST",
@@ -820,12 +826,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Ffed-minutes-december-2025.html",
     "published": "Tue, 30 Dec 2025 21:37:46 CST",
     "summary": "The Federal Reserve on Tuesday released minutes from its December meeting.\n\n"
-  },
-  {
-    "title": "Fed Minutes Detail Deep Divide on Timing of Further Rate Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F30%2Fbusiness%2Ffederal-reserve-minutes-december.html",
-    "published": "Tue, 30 Dec 2025 19:49:47 CST",
-    "summary": "Officials at the central bank have splintered over whether rising unemployment\nor elevated inflation poses the bigger economic risk.\n\n"
   },
   {
     "title": "Tech startup Hyphen is bringing AI to the lunch line — with help from Cava and Chipotle",
