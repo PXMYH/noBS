@@ -1,5 +1,65 @@
 [
   {
+    "title": "Jollibee Foods Plans a US Listing of Its International Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fjollibee-foods-plans-a-us-listing-of-its-international-business",
+    "published": "Tue, 06 Jan 2026 02:19:30 CST",
+    "summary": "Jollibee Foods Corp. plans to spin off its international business and list it\non a US stock exchange by late 2027 as the Philippine fast-food group\naccelerates the development of its global brand.\n\n"
+  },
+  {
+    "title": "Traders Boost Taiwan Stock Leverage to Highest Level Since 2008",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftraders-boost-taiwan-stock-leverage-to-highest-level-since-2008",
+    "published": "Tue, 06 Jan 2026 01:59:02 CST",
+    "summary": "Leveraged bets to buy Taiwan stocks rose to the highest level in 17 years,\nunderscoring strong risk appetite as the benchmark trades at record highs.\n\n"
+  },
+  {
+    "title": "Hong Kong Developers Sell $750 Million of Luxury Homes in Weeks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fhong-kong-developers-sell-750-million-of-luxury-homes-in-weeks",
+    "published": "Tue, 06 Jan 2026 01:51:56 CST",
+    "summary": "Developers in Hong Kong were kept busy during the holiday season as rich\nbuyers went on a shopping spree for luxury homes.\n\n"
+  },
+  {
+    "title": "Chubu Electric Shares Drop After Probe Into Nuclear Safety Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchubu-electric-shares-drop-after-probe-into-nuclear-safety-data",
+    "published": "Tue, 06 Jan 2026 01:02:50 CST",
+    "summary": "Shares of Chubu Electric Power Co. dropped after the Japanese regional utility\nannounced it’s investigating possible misconduct in compiling data critical to\nthe safety of its nuclear power plant.\n\n"
+  },
+  {
+    "title": "Venezuela Regroups as Maduro Pleads Not Guilty in Court",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fvenezeuala-regroups-as-maduro-pleads-not-guilty-in-court-video",
+    "published": "Tue, 06 Jan 2026 00:56:55 CST",
+    "summary": "Venezuela’s government is reasserting itself after the capture of Nicolás\nMaduro, who is asserting his innocence in a New York court. Bloomberg’s Jill\nDisis has the latest.\n\n"
+  },
+  {
+    "title": "First Brands Creditors Allege Kickbacks on Deals Returning 300%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ffirst-brands-creditors-allege-kickbacks-on-deals-returning-300",
+    "published": "Tue, 06 Jan 2026 00:17:33 CST",
+    "summary": "A major financier to First Brands Group is accused of orchestrating a kickback\nscheme with the founder’s brother that loaded the now bankrupt auto-parts\nsupplier with expensive debt.\n\n"
+  },
+  {
+    "title": "US Stocks Rise as Oil Gains on Maduro Ouster | The Close 1/5/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-close-1-5-2026-video",
+    "published": "Tue, 06 Jan 2026 00:11:09 CST",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Energy Aspects’ Amrita Sen, Teneo’s Kevin Kajiwara, Kodiak\nAI’s Don Burnette, Columbia Law School’s Tim Wu, Envestnet Solutions’ Dana\nD’Auria, CIBC Private Wealth’s Rebecca Babin, CSIS’ Ryan Berg, Nvidia’s Jensen\nHuang, Davis Polk & Wardwell’s David Portilla. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Venezuela Bondholders Huddle as Maduro Ouster Fans Payout Hopes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fvenezuela-bondholders-huddle-as-maduro-ouster-fans-payout-hopes",
+    "published": "Mon, 05 Jan 2026 23:59:35 CST",
+    "summary": "As prices on Venezuela’s bonds soared Monday, a group of the country’s\nlongtime creditors huddled to discuss how the US ouster of President Nicolas\nMaduro will affect their ability to recoup some of their investment in about\n$60 billion of Venezuela’s defaulted debt.\n\n"
+  },
+  {
+    "title": "CSIS' Berg: Sanctions Heavily Impact Venezuela's Moves",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Fcsis-berg-sanctions-heavily-impact-venezuela-s-moves-video",
+    "published": "Mon, 05 Jan 2026 23:54:24 CST",
+    "summary": "Ryan Berg, director of the Americas Program and head of the Future of\nVenezuela Initiative at CSIS, says the move signals where the US sees itself\nin broader great-power competition with China. He speaks with Romaine Bostick\nand Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Steady After Biggest Gain in a Week With Focus on Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
+    "published": "Mon, 05 Jan 2026 23:36:58 CST",
+    "summary": "Oil steadied after the biggest gain in a week as traders weighed the outlook\nfor Venezuela, while concerns about a global glut persisted.\n\n"
+  },
+  {
     "title": "Trump Snatches Maduro But Leaves Regime in Charge for Now",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-05%2Ftrump-snatches-maduro-leaves-regime-in-charge-for-now-video",
     "published": "Mon, 05 Jan 2026 23:28:37 CST",
@@ -30,7 +90,7 @@
     "summary": "SVB Energy International President & Founder Sara Vakhshouri says Venezuela is\nnot a market-moving OPEC player today, and that OPEC+ is not concerned. She\nspeaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Bluescope Steel Shares Surge After $8.8 Billion Takeover Bid",
+    "title": "BlueScope Steel Shares Surge After $8.8 Billion Takeover Bid",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbluescope-steel-shares-surge-after-8-8-billion-takeover-offer",
     "published": "Mon, 05 Jan 2026 23:02:03 CST",
     "summary": "BlueScope Steel Ltd. shares surged in Sydney, after the company said it was\nconsidering a A$13.2 billion ($8.8 billion) takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
@@ -60,10 +120,10 @@
     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Asian Stocks Poised to Extend Record Global Rally: Markets Wrap",
+    "title": "Asian Stocks Rise to Extend Record Global Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "Asian stocks were set for a positive open Tuesday, extending a record high for\nglobal equities as investors looked past geopolitical concerns to snap up tech\nstocks. Oil and Treasuries climbed.\n\n"
+    "summary": "Asian equities climbed to a new all-time high as geopolitical concerns failed\nto deter investors from adding to their portfolios.\n\n"
   },
   {
     "title": "Travel Loyalty Programs Woo Fickle Customers With Members-Only Experiences",
@@ -108,22 +168,10 @@
     "summary": "Hedge funds boosted bullish bets on crude to the most since November in the\nweek before the US capture of Venezuelan President Nicolás Maduro as markets\nweighed mounting speculation over imminent land strikes on the South American\ncountry.\n\n"
   },
   {
-    "title": "Brazil Fintech PicPay Files for US IPO With Claure Set to Invest",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fbrazil-fintech-picpay-files-for-us-ipo-with-claure-set-to-invest",
-    "published": "Mon, 05 Jan 2026 21:42:43 CST",
-    "summary": "PicPay, the Brazilian mobile banking app owned by the billionaire Batista\nfamily’s investment holding company, has filed for a US initial public\noffering showing a 79% increase in profit in the first nine months of 2025.\n\n"
-  },
-  {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
     "published": "Mon, 05 Jan 2026 21:33:14 CST",
     "summary": "The energy sector of the S&P 500 rose 2.7 percent on Monday, lifting the\nbroader market.\n\n"
-  },
-  {
-    "title": "Hedge Fund Shiprock Snags Converium’s Cura in Latest EM Hire",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhedge-fund-shiprock-snags-converium-s-cura-in-latest-em-hire",
-    "published": "Mon, 05 Jan 2026 21:15:55 CST",
-    "summary": "Shiprock Capital Management hired Nadir Cura as the London-based hedge fund\nbuilds up its roster of emerging-market specialists, according to people\nfamiliar with the matter.\n\n"
   },
   {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
@@ -162,6 +210,12 @@
     "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active\ningredient, glyphosate, have led to calls for the E.P.A. to reassess the\nwidely used chemical.\n\n"
   },
   {
+    "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for Third Month",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fsaudi-arabia-cuts-flagship-oil-price-to-asia-for-a-third-month",
+    "published": "Mon, 05 Jan 2026 19:47:40 CST",
+    "summary": "Saudi Arabia dropped the price of its flagship crude grade to Asia for a third\nmonth on persistent signs of oversupply in the market.\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fstocks-making-the-biggest-moves-midday-coin-anet-cvx-hal.html",
     "published": "Mon, 05 Jan 2026 19:34:35 CST",
@@ -192,12 +246,6 @@
     "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
   },
   {
-    "title": "Canada Heavy Crude Slumps as Maduro Overthrow Shakes Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcanadian-heavy-crude-prices-weaken-after-overthrow-of-maduro",
-    "published": "Mon, 05 Jan 2026 18:52:40 CST",
-    "summary": "The shocking capture of Venezuelan President Nicolas Maduro over the weekend\nby US forces is already reverberating across the oil market in the Americas,\nparticularly Canada.\n\n"
-  },
-  {
     "title": "Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Fvenezuela-caribbean-stranded-travelers.html",
     "published": "Mon, 05 Jan 2026 18:30:10 CST",
@@ -208,12 +256,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
     "published": "Mon, 05 Jan 2026 17:57:43 CST",
     "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
-  },
-  {
-    "title": "Firms Swarm Debt Market With $37 Billion in High-Grade Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fhigh-grade-corporate-bond-sales-see-busiest-day-since-september",
-    "published": "Mon, 05 Jan 2026 17:23:55 CST",
-    "summary": "Firms sold $37 billion of investment-grade bonds in the US on the first Monday\nof 2026, kicking off what’s expected to be a record year for issuance.\n\n"
   },
   {
     "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
@@ -252,40 +294,22 @@
     "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\nMonday, with Liz Myers, who also serves as global chair of investment banking,\nat the helm.\n\n"
   },
   {
-    "title": "Transport Stocks Climb Near Record on Economic Growth Hopes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftransport-stocks-eye-record-on-hopes-of-economic-growth-in-2026",
-    "published": "Mon, 05 Jan 2026 15:41:49 CST",
-    "summary": "A gauge of US transportation stocks closed just shy of a record on Monday\nafter its biggest rally in more than three weeks. The gains were the latest\nleg of a recovery from a long slump fueled by last year’s global trade\nturmoil.\n\n"
-  },
-  {
-    "title": "Comcast Spinoff Versant’s Shares Tumble on First Trading Day",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcomcast-spinoff-versant-s-shares-tumble-on-first-trading-day",
-    "published": "Mon, 05 Jan 2026 15:14:35 CST",
-    "summary": "Versant Media Group Inc., the parent of CNBC, USA and other cable-TV networks,\nfell 13% in its first official day of trading after being spun off from\nComcast Corp.\n\n"
-  },
-  {
-    "title": "US Stocks Rise as Venezuela ‘Spillover’ Seen Muted; Tech, Energy Gain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fus-stocks-rise-as-venezuela-spillover-seen-muted-tech-energy-gain",
-    "published": "Mon, 05 Jan 2026 14:52:32 CST",
-    "summary": "US equities began the first full week of trading in 2026 on a high note, with\ntechnology and energy shares leading the advance as investors showed little\nsign of worry over geopolitical risk following the weekend ouster of\nVenezuelan President Nicolás Maduro.\n\n"
-  },
-  {
     "title": "First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Ffirst-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html",
     "published": "Mon, 05 Jan 2026 14:47:00 CST",
     "summary": "The drug's cash prices are among the lowest on the market, ranging from $149\nto $299 per month, depending on the dose.\n\n"
   },
   {
-    "title": "Colombia’s Bonds Drop Amid Trump and Petro Latest Spat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcolombia-assets-drop-as-trump-and-petro-spar-over-us-threats",
-    "published": "Mon, 05 Jan 2026 14:25:22 CST",
-    "summary": "Colombia’s dollar bonds fell on Monday as tensions mounted between US\nPresident Donald Trump and his counterpart in the South American nation in the\nwake of Nicolas Maduro’s ouster in Venezuela.\n\n"
-  },
-  {
     "title": "‘Chinese Peptides’ Are the Latest Biohacking Trend in the Tech World",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchinese-peptides-silicon-valley.html",
     "published": "Mon, 05 Jan 2026 14:25:21 CST",
     "summary": "The gray-market drugs flooding Silicon Valley reveal a community that believes\nit can move faster than the F.D.A.\n\n"
+  },
+  {
+    "title": "Mexico Raises $9 Billion With Three-Part Bond Deal to Begin 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fmexico-files-to-sell-dollar-bonds-extending-2025-debt-spree",
+    "published": "Mon, 05 Jan 2026 14:18:48 CST",
+    "summary": "Mexico raised $9 billion in a sale of dollar bonds on Monday, kicking off the\nyear with its second-largest debt offering on record.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Chevron, Halliburton, QXO, Duolingo & more",
@@ -312,10 +336,10 @@
     "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
   },
   {
-    "title": "Treasuries Rise on Weak US Manufacturing, Bullish Option Trades",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Ftreasuries-advance-as-drop-in-oil-prices-eases-inflation-fears",
-    "published": "Mon, 05 Jan 2026 10:10:03 CST",
-    "summary": "Treasuries rose to kick off the week after a report signaled a weakening US\neconomy, with investors targeting a move in the benchmark 10-year yield below\n4% in the coming weeks.\n\n"
+    "title": "China’s Longi Joins Solar Push to Cut Costs by Using Less Silver",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fchina-s-longi-to-replace-silver-in-solar-panels-to-reduce-costs",
+    "published": "Mon, 05 Jan 2026 10:56:45 CST",
+    "summary": "Longi Green Energy Technology Co. will begin substituting base metals for\nsilver in its solar cells, the latest move by the industry to mitigate the\nsurging cost of using the precious metal.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
@@ -328,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F29%2Fwhy-are-malnutrition-deaths-soaring-america%2F",
     "published": "Mon, 05 Jan 2026 10:00:40 CST",
     "summary": "According to data, malnutrition deaths have jumped in the United States,\nespecially among those 85 and older. Here’s why the numbers suddenly started\nto rise.\n\n"
-  },
-  {
-    "title": "UBS Raises $3 Billion From Sale of Additional Tier 1 Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fubs-offers-first-at1-since-credit-suisse-ruling-capital-plans",
-    "published": "Mon, 05 Jan 2026 09:56:03 CST",
-    "summary": "UBS Group AG sold $3 billion of Additional Tier 1 bonds on Monday as major\nbanks face modest refinancing needs that are expected to limit supply.\n\n"
   },
   {
     "title": "China decries U.S. action in Venezuela — even as it guards billions at stake",
@@ -354,34 +372,16 @@
     "summary": "When it came to his film acting debut, the“Shark Tank” investor had some notes\nfor the director Josh Safdie.\n\n"
   },
   {
-    "title": "Dollar Retreats From Haven Gains After Weak Manufacturing Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fdollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
-    "published": "Mon, 05 Jan 2026 05:18:56 CST",
-    "summary": "The dollar pulled back from its strongest level in two weeks after a reading\nof US manufacturing activity shrank last month by the most since 2024, wiping\nout gains seen after the US capture of Venezuela’s President Nicolás Maduro.\n\n"
-  },
-  {
-    "title": "Emerging Currencies Shrug Off Weakness as USD Loses Haven Appeal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Femerging-market-stocks-set-for-record-high-on-tech-optimism",
-    "published": "Mon, 05 Jan 2026 01:52:30 CST",
-    "summary": "Emerging-market currencies held steady as the dollar weakened on Monday even\nas the US capture of Venezuela’s leader Nicolas Maduro increased the\nperception of geopolitical risks.\n\n"
-  },
-  {
-    "title": "Gold, Silver Jump as Venezuela Tensions Add to Geopolitical Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Fgold-silver-markets-latest-haven-demand-after-us-captures-venezuelan-leader",
-    "published": "Sun, 04 Jan 2026 23:16:55 CST",
-    "summary": "Gold and silver advanced, with investors weighing heightened geopolitical\nrisks following the US capture of Venezuelan leader Nicolás Maduro.\n\n"
+    "title": "Copper Hits Record Above $13,000 as Bulls Eye US Import Rush",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fcopper-surges-toward-record-on-tariff-concerns-and-risk-on-mood",
+    "published": "Mon, 05 Jan 2026 02:07:02 CST",
+    "summary": "Copper extended its powerful rally after bursting through $13,000 a ton for\nthe first time, as a renewed rush to ship metal to the US fired up bullish\ntraders and investors.\n\n"
   },
   {
     "title": "Behind the Scenes of Our Nicolás Maduro Front Page",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Finsider%2Fnicolas-maduro-front-page.html",
     "published": "Sun, 04 Jan 2026 20:17:35 CST",
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
-  },
-  {
-    "title": "Stocks Rise With Traders Sanguine on Maduro Ouster: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-04%2Foil-stocks-bonds-futures-markets-latest-on-venezuela-trump-markets-wrap",
-    "published": "Sun, 04 Jan 2026 20:00:00 CST",
-    "summary": "US stocks finished higher on Monday, as investors snapped up tech shares even\nwhile the capture of Venezuela’s President Nicolas Maduro fanned worries over\ngeopolitical risk. Oil prices rose, along with gold.\n\n"
   },
   {
     "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
@@ -406,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F04%2Fbusiness-as-usual-boss-bombed-ukrainian-vodka-maker-intent-on-expanding-exports",
     "published": "Sun, 04 Jan 2026 05:00:03 CST",
     "summary": "Nemiroff says products still reaching UK chains such as Sainsbury’s and Tesco\ndespite production difficulties\n\nBusinesses in Ukraine are “not sitting and waiting for the war to end” and are\nworking to expand despite bombs hitting shipments out of the country,\naccording to a leading vodka exporter to the UK.\n\nYuriy Sorochynskyi, the chief executive of Ukraine’s largest spirits export\nbrand, Nemiroff vodka, has said its products have continued to flow to big\nchains including Tesco and Sainsbury’s as it copes with the harsh realities of\nalmost four years of war.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "The big obstacles to Trump’s plan for a Venezuelan oil windfall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F03%2Fvenezuela-oil-production-us-companies%2F",
-    "published": "Sun, 04 Jan 2026 00:05:16 CST",
-    "summary": "It would cost billions to update infrastructure. Will the country be stable\nlong enough for the bet to pay off?\n\n"
   },
   {
     "title": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
