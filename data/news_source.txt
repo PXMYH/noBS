@@ -1,5 +1,47 @@
 [
   {
+    "title": "European Assets’ Fate Isn’t Local: 3-Minute MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Feuropean-assets-fate-isn-t-local-3-minute-mliv-video",
+    "published": "Wed, 07 Jan 2026 08:47:46 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today's key themes for analysts and investors on \"Bloomberg: The Opening\nTrade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Europe Stocks to Benefit as US Investors Diversify: Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Feurope-stocks-to-benefit-as-us-investors-diversify-bell-video",
+    "published": "Wed, 07 Jan 2026 08:47:23 CST",
+    "summary": "Sharon Bell, senior European equity strategist at Goldman Sachs, says European\nstocks are set to benefit as US investors seek further exposure outside the\ntech-heavy US market. “I don’t necessarily think that Europe will super\noutperform in the way it did last year,” Bell tells Bloomberg Television. “It\njust gives you that diversification.”\n\n"
+  },
+  {
+    "title": "BlueScope’s Board Rejects $8.8 Billion Steel Dynamics, SGH Bid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbluescope-s-board-rejects-8-8-billion-steel-dynamics-sgh-bid",
+    "published": "Wed, 07 Jan 2026 08:29:12 CST",
+    "summary": "BlueScope Steel Ltd. rejected an $8.8 billion takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
+  },
+  {
+    "title": "China’s PBOC Adds Gold for 14th Month As Prices Hit Record",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-s-pboc-adds-gold-for-14th-month-as-prices-hit-record",
+    "published": "Wed, 07 Jan 2026 08:20:47 CST",
+    "summary": "China’s central bank extended its gold-buying streak to 14 months,\nunderscoring sustained official demand for bullion as prices surge to record.\n\n"
+  },
+  {
+    "title": "UK Grocers Set for Profit Jump After 2025 Inflation, Cyberattack",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fuk-grocers-set-for-profit-jump-after-2025-inflation-cyberattack",
+    "published": "Wed, 07 Jan 2026 08:15:00 CST",
+    "summary": "British grocers are set for improving earnings in 2026 after a year marked by\npersistent food inflation, rivalry with cheaper competitors and a major\ncyberattack.\n\n"
+  },
+  {
+    "title": "Maduro’s ‘Perfect Union’ With China Hides Deep Economic Rupture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmaduro-s-perfect-union-with-china-hides-deep-economic-rupture",
+    "published": "Wed, 07 Jan 2026 08:00:00 CST",
+    "summary": "Ousted Venezuelan leader Nicolas Maduro may have done more to hollow out\nChina’s presence in his economy than Donald Trump ever could.\n\n"
+  },
+  {
+    "title": "Hong Kong House Sells for $133 Million With 25% Gain Over Decade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fhong-kong-house-sells-for-133-million-with-25-gain-over-decade",
+    "published": "Wed, 07 Jan 2026 07:58:39 CST",
+    "summary": "A mansion at Hong Kong’s prestigious Peak area was sold for HK$1.04 billion\n($133 million), yielding a more than 25% gain for the owner who held it for\nabout a decade.\n\n"
+  },
+  {
     "title": "Saudi Stocks Climb on High Hopes for More Market Liberalization",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsaudi-stocks-climb-on-high-hopes-for-more-market-liberalization",
     "published": "Wed, 07 Jan 2026 07:39:39 CST",
@@ -16,6 +58,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsaudi-arabia-opens-stocks-to-all-foreign-investors-video",
     "published": "Wed, 07 Jan 2026 07:31:16 CST",
     "summary": "Saudi Arabia is opening its stock market to all foreign investors, in the\nkingdom's latest effort to boost flows and revive a market which has lagged\nemerging peers. Bloomberg's Christine Burke joined Horizons Middle East and\nAfrica to explain. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "AI Boom Sparks Global Chip Shortage and Price Surge | Insight with Haslinda Amin 01/07/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Finsight-with-haslinda-amin-1-7-2025-video",
+    "published": "Wed, 07 Jan 2026 07:31:01 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "China Starts Anti-Dumping Probe Into Japan Chipmaking Material",
@@ -36,10 +84,16 @@
     "summary": "A distributor of Diageo Plc’s Kenyan subsidiary asked a court in the East\nAfrican nation to suspend a proposed share sale to Asahi Group Holdings Ltd.\npending the resolution of an earlier case, court filings show.\n\n"
   },
   {
-    "title": "FTSE Poised to Snap Three Day Rally",
+    "title": "FTSE 100 Snaps Winning Run as Oil Firms Fall",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-07%2Fftse-100-oil-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Wed, 07 Jan 2026 06:47:03 CST",
     "summary": "\n\n"
+  },
+  {
+    "title": "Rising Rivalry Slashes $20 Billion Value in Indian Fashion Chain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ffashion-chain-trent-sees-20-billion-wipeout-as-rivals-surge",
+    "published": "Wed, 07 Jan 2026 06:42:31 CST",
+    "summary": "Trent Ltd., once a market darling that topped India’s stock benchmark NSE\nNifty 50 Index in 2024, is stuck in a deepening rout as slowing sales and\nfierce competition worry investors.\n\n"
   },
   {
     "title": "China’s Feud With Japan Worsens | The China Show 1/7/2026",
@@ -90,52 +144,10 @@
     "summary": "The Colombo Stock Exchange halted market-wide trading in a rare such move\nearly Wednesday after noticing “unusual” prices in a debutant’s shares.\n\n"
   },
   {
-    "title": "Palm Oil Gains on Bets for Stronger Exports and Lower Production",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fpalm-oil-gains-on-bets-for-stronger-exports-and-lower-production",
-    "published": "Wed, 07 Jan 2026 05:01:02 CST",
-    "summary": "Palm oil rose as investors hoped for a rebound in Malaysian shipments and\nfurther production declines, although swelling stockpiles in the world’s\nsecond-largest grower capped gains.\n\n"
-  },
-  {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
     "published": "Wed, 07 Jan 2026 05:00:14 CST",
     "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
-  },
-  {
-    "title": "South Africa’s Equity Market Value Rises to Highest Since 2019",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsouth-africa-s-equity-market-value-rises-to-highest-since-2019",
-    "published": "Wed, 07 Jan 2026 05:00:00 CST",
-    "summary": "Rand strength and soaring metal prices have bolstered the capitalization of\nSouth Africa’s benchmark equity index to the highest since 2019.\n\n"
-  },
-  {
-    "title": "China Readies Its Favorite Trade War Weapon in Feud With Japan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-shoulders-its-favorite-trade-war-weapon-in-feud-with-japan",
-    "published": "Wed, 07 Jan 2026 04:57:42 CST",
-    "summary": "China’s warning to Japan that it could choke off supplies of rare earths, its\nfavorite weapon in trade conflicts, targets a persistent vulnerability among\nJapanese manufacturers after more than a decade of Tokyo trying to reduce\nreliance on its rival.\n\n"
-  },
-  {
-    "title": "Trump Says Modi Unhappy Over Tariffs as India Cuts Russian Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftrump-says-modi-unhappy-over-tariffs-cuts-russian-oil-imports",
-    "published": "Wed, 07 Jan 2026 04:51:53 CST",
-    "summary": "US President Donald Trump said Indian Prime Minister Narendra Modi was unhappy\nwith him due to Washington’s high tariffs on the South Asian nation, the\nlatest sign of continued strain between the two countries.\n\n"
-  },
-  {
-    "title": "China Targets Online Commerce Battles in Latest Regulatory Salvo",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-targets-online-commerce-battles-in-latest-regulatory-salvo",
-    "published": "Wed, 07 Jan 2026 04:36:26 CST",
-    "summary": "China unveiled broad regulations Wednesday that ban major platforms such as\nAlibaba Group Holding Ltd. from coercing online merchants into promotions, one\nof a raft of new measures intended to cool rapidly intensifying e-commerce\ncompetition.\n\n"
-  },
-  {
-    "title": "China-Japan Spat Weighs on Asian stocks | The Asia Trade 1/7/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fthe-asia-trade-1-7-2026-video",
-    "published": "Wed, 07 Jan 2026 04:16:01 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan’s Bond Widows Are Finally Having Their Day",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-07%2Fjapan-s-bond-widows-are-finally-having-their-day",
-    "published": "Wed, 07 Jan 2026 04:00:17 CST",
-    "summary": "Yields are their highest since 1999 and accelerating under Takaichi.\n\n"
   },
   {
     "title": "Asian Rare Earth Stocks Surge on New China-Japan Export Curbs",
@@ -154,12 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
     "published": "Wed, 07 Jan 2026 03:19:29 CST",
     "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
-  },
-  {
-    "title": "Goldman Forecasts 20% Gains for China Stocks in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgoldman-forecasts-earnings-driven-2026-gains-for-china-stocks",
-    "published": "Wed, 07 Jan 2026 02:49:47 CST",
-    "summary": "Goldman Sachs Group Inc. projects Chinese stock benchmarks will post another\nyear of growth, though at a slower pace than in 2025, with earnings supported\nby AI and policy measures.\n\n"
   },
   {
     "title": "Nickel Drops From 19-Month High as Metals Rally Takes Breather",
@@ -192,16 +198,10 @@
     "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
   },
   {
-    "title": "Oil Declines as Trump Says Venezuela Will Give Some Crude to US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Flatest-oil-market-news-and-analysis-for-jan-7",
-    "published": "Tue, 06 Jan 2026 23:31:52 CST",
-    "summary": "Oil extended losses after Washington moved to exert greater control over\nVenezuela’s oil industry, with President Donald Trump saying the country would\nturn over millions of barrels of crude to the US.\n\n"
-  },
-  {
-    "title": "Gold Drops as Traders Look Past Geopolitical Risk to US Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
-    "published": "Tue, 06 Jan 2026 23:30:41 CST",
-    "summary": "Gold declined, as traders looked beyond heightened geopolitical tensions to US\neconomic data releases due this week.\n\n"
+    "title": "Samsung Bulls Bet Record Earnings Will Extend $350 Billion Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsamsung-bulls-bet-record-earnings-can-sustain-350-billion-rally",
+    "published": "Tue, 06 Jan 2026 23:30:00 CST",
+    "summary": "A stock rally that has added $350 billion in market value for Samsung\nElectronics Co. since the start of last year may have more room to run as\nbullish analysts eye record profits.\n\n"
   },
   {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
@@ -216,10 +216,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Record-Breaking Stock Rally Loses Steam, Oil Falls: Markets Wrap",
+    "title": "Record-Breaking Stock Rally Loses Steam; Oil Falls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "The record-breaking global stock rally lost momentum in Asia after a sharp\nrun-up left markets showing signs of overheating.\n\n"
+    "summary": "The record-breaking global stock rally lost momentum after a sharp run-up left\nmarkets showing signs of overheating.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
