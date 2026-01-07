@@ -1,57 +1,57 @@
 # NoBS News Digest - January 07, 2026
 
-Generated from **224** unique articles (deduplicated from 224 total) across **1** news sources
+Generated from **223** unique articles (deduplicated from 223 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The U.S. is intensifying its intervention in Venezuela, seizing oil tankers and asserting control over the country’s oil sales after the capture of President Nicolás Maduro. The Trump administration claims an agreement with Venezuela’s government, though negotiations remain ongoing, while the U.S. has also removed some sanctions to facilitate oil sales. The move has triggered global reactions, with China debating its implications for Taiwan and Mexico pledging to continue oil shipments to Cuba as humanitarian aid. Meanwhile, the U.S. has closed Caribbean airspace, citing safety risks, and Canadian oil prices have tumbled amid the shifting energy landscape. Domestically, the Corporation for Public Broadcasting has dissolved after losing federal funding, marking a significant shift in U.S. media policy.
+The Trump administration is intensifying its focus on Venezuela, seizing two oil tankers—including a Russian-flagged vessel—and asserting control over the country’s oil sales after the dramatic capture of Nicolás Maduro. The U.S. plans to lift some sanctions to facilitate Venezuela’s oil exports, a move that has disrupted global markets, causing Canadian crude prices to tumble and raising questions about China’s billions in loans to Caracas. Meanwhile, Mexico vows to continue oil shipments to Cuba as humanitarian aid, defying U.S. pressure. The geopolitical fallout extends beyond Latin America, with China debating lessons for Taiwan and threatening to cancel UK trade talks over a minister’s visit to Taipei. Domestically, Trump is cracking down on defense contractors over executive pay and stock buybacks, while the dissolution of the Corporation for Public Broadcasting marks a shift in media funding under his administration.
 
 **Top Articles:**
 - [U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html)
+- [Trump says he plans crackdown on defense firms over executive pay and stock buybacks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F07%2Ftrump-defense-companies-shareholder-payouts)
 - [U.S. seizes two tankers as Venezuelan oil blockade intensifies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2026%2F01%2F07%2Fus-intercept-oil-tanker-russia-venezuela%2F)
 - [‘I voted so hard for this’: How the new Pentagon press corps covered Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fpentagon-press-hegseth-venezuela%2F)
 - [Mexico’s Oil Shipments to Cuba Will Continue After Maduro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmexico-s-oil-shipments-to-cuba-will-continue-after-maduro-s-fall)
-- [Canadian Oil Price Tumbles as Trump Targets Venezuela’s Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcanadian-crude-price-tumbles-as-trump-targets-venezuela-s-oil)
 
-**Sources**: archive.ph (18 articles)
+**Sources**: archive.ph (19 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are reacting to a mix of geopolitical shifts, economic data, and corporate developments this week. The U.S. is making bold moves in Venezuela, seizing control of its oil exports and marketing crude globally, which has sent energy stocks surging even as oil prices dip on supply concerns. Meanwhile, Treasury yields are falling as weak employment data fuels expectations of Federal Reserve rate cuts, though Minneapolis Fed President Neel Kashkari suggests further cuts may be limited. Corporate activity is brisk, with Blackstone and other housing-related stocks tumbling after President Trump’s proposal to ban institutional investors from buying single-family homes, while GameStop grants CEO Ryan Cohen performance-based options tied to a $100 billion valuation target. Overseas, Saudi Arabia opens its stock market to all foreign investors, and Europe sees a record €61 billion in bond sales, signaling strong appetite for debt amid favorable conditions. The week also marks notable closures, including the Pittsburgh Post-Gazette and the Corporation for Public Broadcasting, reflecting ongoing pressures in media and public funding.
+Global markets are grappling with geopolitical and economic shifts as the U.S. tightens control over Venezuela’s oil industry following the seizure of President Nicolás Maduro. The move has sparked volatility in energy markets, with crude prices declining amid expectations of increased Venezuelan supply, while Venezuela’s bonds surge on hopes of debt restructuring. Meanwhile, Treasury yields fall as weak U.S. employment data fuels bets on Federal Reserve rate cuts, though Fed officials like Minneapolis Fed President Neel Kashkari signal caution on further easing. Corporate America faces mixed fortunes: Blackstone and housing stocks tumble after President Trump’s proposal to ban institutional investors from buying single-family homes, while GameStop grants CEO Ryan Cohen performance-based options tied to a $100 billion valuation target. Elsewhere, Japan’s bond market braces for a supply shock, and Canada’s bank economists push for tax reforms to boost competitiveness. The Fed’s independence is under scrutiny as political pressures mount, while the U.S. secures an exemption from a global corporate tax deal, drawing criticism. In other news, the Corporation for Public Broadcasting dissolves after federal funding cuts, and SpaceX’s anticipated IPO looms as a potential blockbuster event for 2026.
 
 **Top Articles:**
+- [Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html)
+- [World’s Worst Bond Market Faces Another Big Supply Shock](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-worst-bond-market-faces-another-big-supply-shock)
 - [Trump's Housing 'Trial Balloon' Will Be Short-Lived: Meredith Whitney](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-housing-trial-balloon-to-be-short-lived-whitney-video)
 - [Pittsburgh Post-Gazette Announces It Will Cease Operations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html)
 - [US Blue-Chip Bond Sales Hit $88 Billion, Busiest Week Since 2020](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-blue-chip-bond-sales-hit-88-billion-busiest-week-since-2020)
-- [Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html)
-- [Can US Intervention Revive Venezuela Bonds After Years in Default?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fvenezuelan-bonds-why-investors-are-buying-again-despite-high-risk)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (79 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by high-stakes corporate maneuvers and evolving industry trends. Warner Bros. Discovery's board continues to reject Paramount's $108 billion hostile takeover bid, doubling down on its partnership with Netflix as the superior strategic path. Meanwhile, Alaska Airlines makes its largest-ever aircraft order, purchasing 110 Boeing planes to expand its fleet following the acquisition of Hawaiian Airlines. In the AI space, companies are increasingly integrating artificial intelligence to streamline operations, with some adopting four-day workweeks as automation takes over routine tasks. Discord's confidential IPO filing signals a potential surge in tech listings, while Vista Equity Partners pushes forward with its 'agentic factory' model, betting big on AI-driven enterprise software. Regulatory and geopolitical tensions also loom, as China warns of potential rare earth export restrictions, and Venezuela's oil industry becomes a focal point for U.S. energy giants amid political upheaval.
+The tech and business landscape is buzzing with major developments this week. In finance, JPMorgan Chase secures a deal to take over the Apple credit card from Goldman Sachs, signaling a shift in banking partnerships, while the bank also drops controversial proxy advisors in favor of AI-driven analysis for shareholder votes. Meanwhile, Warner Bros. Discovery rejects Paramount’s $108 billion hostile takeover bid, doubling down on its Netflix partnership as the superior strategic move. In aviation, Alaska Airlines makes its largest-ever order of 110 Boeing jets, including 737 Max 10s and 787 Dreamliners, as it expands post-Hawaiian Airlines acquisition. On the regulatory front, Germany investigates another power grid attack, raising concerns about infrastructure security, while the EU considers pausing carbon levies on fertilizers if market disruptions arise. Emerging trends include AI’s role in enabling four-day workweeks and the growing backlash against data center expansions, which is becoming a political flashpoint.
 
 **Top Articles:**
+- [JPMorgan Chase reaches deal to become Apple credit card issuer, source says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html)
+- [Brazil’s Audit Court Backs Off Threat to Undo Master Liquidation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbrazil-s-audit-court-backs-off-threat-to-undo-master-liquidation)
 - [Trump says he’ll ban large investors from buying homes, with few details](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F)
 - [BNP Paribas Loses Bid to Throw Out $21 Million Sudan Verdict](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict)
 - [China’s Threat to Block Rare Earths Has Put Japan on High Alert](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-japan-rare-earths.html)
-- [Bruce Crawford, Arts-Loving Adman Who Led the Met Opera, Dies at 96](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Farts%2Fmusic%2Fbruce-crawford-dead.html)
-- [Trump says he will ban big investors from buying single-family homes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F08%2Ftrump-ban-investor-home-buying)
 
-**Sources**: archive.ph (88 articles)
+**Sources**: archive.ph (87 articles)
 
 ---
 
 ## ⚽ Sports
 
-Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi leads in share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options amid rising subscription costs. The success of Tubi underscores broader trends in the sports and entertainment industries, where accessibility and affordability are increasingly prioritized. Meanwhile, the streaming wars continue to intensify, with platforms vying for audience attention through diverse content offerings and strategic partnerships.
+Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options, challenging traditional subscription models. The success of Tubi underscores broader trends in the industry, where cost-conscious viewers increasingly favor accessible content over premium subscriptions. Meanwhile, the streaming wars continue to intensify, with platforms vying for dominance through diverse content strategies and pricing models.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -62,7 +62,7 @@ Fox's free streaming service Tubi is making waves in the competitive streaming l
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, political scrutiny, and cultural trends. In business, falling shipping rates are boosting U.S. crude exports, while Ford reports its strongest annual sales since 2019. Meanwhile, Manhattan's office leasing market shows signs of recovery, hitting a six-year high. On the political front, the Trump administration intensifies investigations into Democratic-led states like Minnesota, while also facing legal challenges over a controversial $100,000 fee for H-1B visas. In health, Novo Nordisk launches the first GLP-1 pill for obesity in the U.S., offering a more affordable option. Culturally, the soaring costs of youth sports—now reaching up to $3,000 per season—reflect broader affordability concerns, while travel loyalty programs compete with exclusive perks to retain customers. The Supreme Court's growing favoritism toward wealthy litigants and Warren Buffett's unmatched investment legacy also stand out as notable trends.
+This week's news highlights a mix of economic shifts, political scrutiny, and cultural trends. In business, falling shipping rates are boosting U.S. crude exports, while Henkel's takeover bid for Olaplex signals potential consolidation in the beauty industry. Meanwhile, the Trump administration intensifies investigations into Democratic-led states like Minnesota, amid broader debates over affordability and immigration policy. On the cultural front, Michael Wolff and his wife Victoria document their lifestyle in a new book, blending media influence with personal branding. Health and finance also take center stage, with Novo Nordisk launching a new GLP-1 obesity pill and economists critiquing the Supreme Court's growing favoritism toward the wealthy. Housing affordability remains a pressing issue, with down payments still posing barriers despite slight improvements in home prices.
 
 **Top Articles:**
 - [How The Times Is Drawing on Over a Century of Reporting in Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html)
@@ -75,4 +75,4 @@ This week's news highlights a mix of economic shifts, political scrutiny, and cu
 
 ---
 
-*Digest generated on January 07, 2026 at 08:50 PM *
+*Digest generated on January 07, 2026 at 09:43 PM *

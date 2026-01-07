@@ -1,15 +1,45 @@
 [
   {
+    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
+    "published": "Wed, 07 Jan 2026 21:39:40 CST",
+    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
+  },
+  {
+    "title": "JPMorgan Chase reaches deal to become Apple credit card issuer, source says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
+    "published": "Wed, 07 Jan 2026 21:38:31 CST",
+    "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, according to a source.\n\n"
+  },
+  {
+    "title": "Trump says he plans crackdown on defense firms over executive pay and stock buybacks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F07%2Ftrump-defense-companies-shareholder-payouts",
+    "published": "Wed, 07 Jan 2026 21:06:51 CST",
+    "summary": "President accuses US defense companies of delivery failures and attacks\n‘exorbitant’ salaries to top executives\n\nDonald Trump has claimed he plans to crack down on executive compensation and\nshareholder payouts at military defense contractors, as his administration\nramps up spending on the armed forces.\n\nIn a post on social media, the US president said defense giants had been\nfailing to swiftly deliver “vital” equipment to the US military and its allies\nacross the world.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Brazil’s Audit Court Backs Off Threat to Undo Master Liquidation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbrazil-s-audit-court-backs-off-threat-to-undo-master-liquidation",
+    "published": "Wed, 07 Jan 2026 21:04:07 CST",
+    "summary": "The head of Brazil’s Audit Court said that only the Supreme Court can reverse\na central bank decision to liquidate troubled Banco Master SA, effectively\nbacking away from a previous threat to overturn the monetary authority’s\nruling.\n\n"
+  },
+  {
+    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html",
+    "published": "Wed, 07 Jan 2026 21:01:38 CST",
+    "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
+  },
+  {
+    "title": "World’s Worst Bond Market Faces Another Big Supply Shock",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-worst-bond-market-faces-another-big-supply-shock",
+    "published": "Wed, 07 Jan 2026 21:00:00 CST",
+    "summary": "Japan’s government bond market is set for another tough year as investors\ncontend with the largest net increase in supply in well over a decade.\n\n"
+  },
+  {
     "title": "How The Times Is Drawing on Over a Century of Reporting in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html",
     "published": "Wed, 07 Jan 2026 20:43:38 CST",
     "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
-  },
-  {
-    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
-    "published": "Wed, 07 Jan 2026 20:36:19 CST",
-    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
   },
   {
     "title": "Trump's Housing 'Trial Balloon' Will Be Short-Lived: Meredith Whitney",
@@ -60,12 +90,6 @@
     "summary": "Falling tanker rates are improving the export outlook for US crude, and prices\nfor light sweet barrels, in particular, are getting a lift.\n\n"
   },
   {
-    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html",
-    "published": "Wed, 07 Jan 2026 19:33:30 CST",
-    "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
-  },
-  {
     "title": "Olaplex Said to Attract Takeover Offer From Germany’s Henkel",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Folaplex-is-said-to-attract-takeover-offer-from-germany-s-henkel",
     "published": "Wed, 07 Jan 2026 19:26:47 CST",
@@ -90,10 +114,10 @@
     "summary": "Median sale price was at $410,800 last year, according to the Census Bureau,\neven as Trump campaigned on affordability\n\nDonald Trump said his administration was moving to ban large institutional\ninvestors from buying single-family homes in a bid to reduce home prices.\n\nIn a post on Truth Social, his social media platform, the US president said he\nwill be asking Congress to codify the measure and will be discussing\nadditional housing and affordability proposals in a speech at the Davos World\nEconomic Forum.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Global Bond Sales Hit Record $230 Billion to Kick Off 2026",
+    "title": "Global Bond Sales Hit Record $245 Billion to Kick Off 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fglobal-bond-sales-hit-record-230-billion-to-kick-off-2026",
     "published": "Wed, 07 Jan 2026 19:12:29 CST",
-    "summary": "Global bond sales are poised to mark the busiest ever start to a year as\nborrowers of every stripe seize on investors’ insatiable appetite for risk.\n\n"
+    "summary": "Global bond sales had their busiest ever start to a year as borrowers of every\nstripe seize on investors’ insatiable appetite for risk.\n\n"
   },
   {
     "title": "Avelo Airlines to end ICE deportation charters as it cuts commercial flights, jobs",
@@ -138,10 +162,10 @@
     "summary": "German prosecutors are investigating a failed attack on a substation near\nDüsseldorf, in the west of the country, days after a similar incident\ntriggered a power blackout in Berlin.\n\n"
   },
   {
-    "title": "Blackstone, Housing Shares Sink as Trump Targets Big Investors",
+    "title": "Blackstone, Housing Stocks Slip as Trump Targets Big Investors",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblackstone-homebuilder-shares-plunge-on-trump-housing-comments",
     "published": "Wed, 07 Jan 2026 18:34:27 CST",
-    "summary": "Shares of Blackstone Inc. and other housing-related companies tumbled after\nPresident Donald Trump said he would move to ban institutional investors from\nbuying single-family homes.\n\n"
+    "summary": "Shares of Blackstone Inc. and other housing-related companies tumbled\nWednesday after President Donald Trump said he would move to ban institutional\ninvestors from buying single-family homes.\n\n"
   },
   {
     "title": "Why Buy Greenland When You Can Rent It?",
@@ -154,12 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fde-beers-bets-on-india-s-rich-to-boost-natural-diamond-demand",
     "published": "Wed, 07 Jan 2026 18:30:00 CST",
     "summary": "De Beers is betting on India’s surging affluent class to fuel growth in\nnatural diamond demand, even as the global market remains challenging and a\npending US-India trade deal disrupts supply chains.\n\n"
-  },
-  {
-    "title": "Zambia Abandons Plan to Extend IMF Credit Facility by a Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzambia-abandons-plan-to-extend-imf-credit-facility-by-a-year",
-    "published": "Wed, 07 Jan 2026 18:21:55 CST",
-    "summary": "Zambia has decided against pursuing a one-year extension of its International\nMonetary Fund program that’s set to expire this month, the Washington-based\nlender said on Wednesday, an about turn that will surprise investors.\n\n"
   },
   {
     "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
@@ -178,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fpentagon-press-hegseth-venezuela%2F",
     "published": "Wed, 07 Jan 2026 17:56:34 CST",
     "summary": "Newfound access hasn’t provided more information to the largely right-wing\npress corps that signed the Defense Department’s media rules.\n\n"
-  },
-  {
-    "title": "Saudis Open Stocks to All Foreign Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsaudis-open-stocks-to-all-foreign-investors-video",
-    "published": "Wed, 07 Jan 2026 17:55:53 CST",
-    "summary": "Saudi Arabia will open its markets to all foreign investors - as Riyadh seeks\nto boost inflows amid low oil revenues and higher spending. Farah Elbahrawy\nexplains. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Mexico’s Oil Shipments to Cuba Will Continue After Maduro",
@@ -210,10 +222,22 @@
     "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
   },
   {
+    "title": "Blue Owl BDC Allows 17% Redemptions as Investors Storm Exit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblue-owl-bdc-allows-for-17-redemptions-as-investors-storm-exit",
+    "published": "Wed, 07 Jan 2026 17:17:24 CST",
+    "summary": "Blue Owl Capital Inc. is dramatically increasing the amount of money investors\ncan pull from one of its private credit funds after being hit with a deluge of\nredemption requests last month.\n\n"
+  },
+  {
     "title": "KKR-Backed Catalio Exceeds Goal for Private Credit Fund",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fkkr-backed-catalio-exceeds-goal-for-life-sciences-private-fund",
     "published": "Wed, 07 Jan 2026 17:07:48 CST",
     "summary": "Catalio Capital Management, backed by KKR & Co., raised more than $325 million\nin commitments for a private credit fund focused on life sciences, almost\nfourfold how much it pulled in for its previous iteration of the vehicle.\n\n"
+  },
+  {
+    "title": "First Brands Founder Says Jefferies Is Withholding Documents",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ffirst-brands-founder-accuses-jefferies-of-withholding-documents",
+    "published": "Wed, 07 Jan 2026 17:04:57 CST",
+    "summary": "First Brands Group founder Patrick James said Jefferies Financial Group was\nrefusing to turn over documents that would “put the lie” to the financial\nfirm’s claims that he defrauded it.\n\n"
   },
   {
     "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
@@ -318,12 +342,6 @@
     "summary": "The board said the blockbuster deal it reached with Netflix last month posed\nless risk.\n\n"
   },
   {
-    "title": "Europe Bond Sales Top €61 Billion in Record-Breaking Day",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbond-deluge-in-europe-sees-record-tranches-offered-in-single-day",
-    "published": "Wed, 07 Jan 2026 11:03:21 CST",
-    "summary": "Borrowers are set to price more than €61 billion ($71.3 billion) of debt in\nEurope’s primary market on Wednesday, the largest amount ever raised in a\nsingle day as they capitalize on strong market conditions.\n\n"
-  },
-  {
     "title": "The soaring price of youth sports: $50 to try out, $3,000 to play",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fyouth-sports-cost-parents-investors-profit%2F",
     "published": "Wed, 07 Jan 2026 11:00:40 CST",
@@ -366,12 +384,6 @@
     "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
   },
   {
-    "title": "Copper Slumps From Record as Rapid Rally Fuels Profit-Taking",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fnickel-drops-from-19-month-high-as-metals-rally-takes-breather",
-    "published": "Wed, 07 Jan 2026 01:56:03 CST",
-    "summary": "Copper slid from a record high, declining along with other industrial metals,\nas traders booked profits from a swift run-up in prices.\n\n"
-  },
-  {
     "title": "Congress has four weeks to dodge another shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
     "published": "Wed, 07 Jan 2026 01:38:37 CST",
@@ -396,10 +408,10 @@
     "summary": "Oil declined on the prospect of increased Venezuelan crude sales after US\nforces seized two more sanctioned tankers and said it’s already marketing some\nof the country’s supply.\n\n"
   },
   {
-    "title": "Chat Platform Discord Files Confidentially for IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchat-platform-discord-is-said-to-file-confidentially-for-ipo",
-    "published": "Tue, 06 Jan 2026 23:19:48 CST",
-    "summary": "Discord Inc. filed confidentially for an initial public offering, according to\npeople familiar with the matter, adding to a rapidly growing pipeline of\nventure capital-backed tech listings.\n\n"
+    "title": "Silver, Platinum Plunge to Extend Big Spike in Volatility",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
+    "published": "Tue, 06 Jan 2026 23:30:41 CST",
+    "summary": "Silver and platinum plunged, extending a recent run of exceptional volatility\nas traders weighed index rebalancing sales, supply constraints and the risk of\npotential US tariffs. Gold also declined.\n\n"
   },
   {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
@@ -414,7 +426,7 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Record Run in Stocks Hits Pause While Bonds Rise: Markets Wrap",
+    "title": "Stock Bull Run Stalls After Trump Tirade; Bonds Up: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
     "summary": "Wall Street optimism faded as traders digested mixed economic data and took\nstock of shifting geopolitical risks amid a flurry of social media posts from\nthe US President. Yields fell across the globe.\n\n"
@@ -744,12 +756,6 @@
     "summary": "Venezuela claims to have more than 300 billion barrels in the ground, but it\nis only producing about one million barrels a day.\n\n"
   },
   {
-    "title": "US oil giants silent on Trump claim they will spend billions on Venezuelan oil industry",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F03%2Fus-oil-trump-venezuela",
-    "published": "Sat, 03 Jan 2026 22:30:05 CST",
-    "summary": "US president says oil majors primed to invest in rebuilding infrastructure\nfollowing Maduro ouster\n\nUS oil giants have so far remained silent on Donald Trump’s claim that they\nare primed to spend “billions and billions of dollars” rebuilding the\nVenezuelan oil industry following the ouster of Nicolás Maduro​.\n\nChevron, the only US oil company still operating in Venezuela, committed only\nto following “relevant laws and regulations” after the US president suggested\nAmerican energy multinationals would be central to his plans for the country.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Airlines Are Canceling Flights After U.S. Closes Airspace Over the Caribbean",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F03%2Fworld%2Ftrump-united-states-strikes-venezuela%2Fflights-canceled-caribbean-faa-venezuela",
     "published": "Sat, 03 Jan 2026 20:40:17 CST",
@@ -918,12 +924,6 @@
     "summary": "The U.S. added silver to its nationally designated list of critical minerals\nin November.\n\n"
   },
   {
-    "title": "Fed minutes show officials were in tight split over December rate cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Ffed-minutes-december-2025.html",
-    "published": "Tue, 30 Dec 2025 21:37:46 CST",
-    "summary": "The Federal Reserve on Tuesday released minutes from its December meeting.\n\n"
-  },
-  {
     "title": "Tech startup Hyphen is bringing AI to the lunch line — with help from Cava and Chipotle",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fhyphen-automated-makelines-investments-cava-chipotle.html",
     "published": "Tue, 30 Dec 2025 19:19:56 CST",
@@ -1000,12 +1000,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Ftanger-ceo-stephen-yalof-holiday-shopping-consumer-spending-confidence.html",
     "published": "Tue, 23 Dec 2025 18:27:35 CST",
     "summary": "Tanger CEO Stephen Yalof says shoppers kept spending this holiday season as\npromotions and value offset weaker consumer confidence.\n\n"
-  },
-  {
-    "title": "EV realism is here. How automakers react in 2026 will be telling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Fevs-gm-ford-hyundai-tesla.html",
-    "published": "Tue, 23 Dec 2025 12:00:01 CST",
-    "summary": "Detroit automakers are refocusing on large gas-guzzling trucks and SUVs, and\nmany have admitted that policies, not consumers, were driving the charge for\nEVs.\n\n"
   },
   {
     "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
