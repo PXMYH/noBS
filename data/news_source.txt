@@ -1,5 +1,71 @@
 [
   {
+    "title": "Japan’s Bond Widows Are Finally Having Their Day",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-07%2Fjapan-s-bond-widows-are-finally-having-their-day",
+    "published": "Wed, 07 Jan 2026 04:00:17 CST",
+    "summary": "Yields are their highest since 1999 and accelerating under Takaichi.\n\n"
+  },
+  {
+    "title": "Valero to Boost Fuel Imports to California After Refinery Closes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fvalero-to-boost-fuel-imports-to-california-after-refinery-closes",
+    "published": "Wed, 07 Jan 2026 03:57:18 CST",
+    "summary": "Valero Energy Corp. is expecting to increase gasoline imports to the San\nFrancisco Bay Area, as the company moves forward with plans to close a\nrefinery in the region but stops short of fully exiting Northern California\nfor now.\n\n"
+  },
+  {
+    "title": "Baidu’s AI Chip Arm Kunlunxin Is Said to Pick Banks for $2 Billion Hong Kong IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbaidu-ai-chip-unit-kunlunxin-is-said-to-pick-banks-for-2-billion-hong-kong-ipo",
+    "published": "Wed, 07 Jan 2026 03:49:47 CST",
+    "summary": "Baidu Inc.’s artificial-intelligence chip unit has hired banks for an initial\npublic offering in Hong Kong that may raise as much as $2 billion, according\nto people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Asia’s Rare Earth Stocks Climb on New China-Japan Export Curbs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fasia-s-rare-earth-stocks-climb-on-new-china-japan-export-curbs",
+    "published": "Wed, 07 Jan 2026 03:45:13 CST",
+    "summary": "Rare earth-related shares gained across the Asia-Pacific region after China\nimposed a ban on exports of military-use items to Japan, a move with the\npotential to squeeze supply chains.\n\n"
+  },
+  {
+    "title": "Iron Ore Hits Highest Since February on PBOC Outlook, Restocking",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Firon-ore-hits-highest-since-february-on-pboc-outlook-restocking",
+    "published": "Wed, 07 Jan 2026 03:26:57 CST",
+    "summary": "Iron ore hit the highest price since February, buoyed by the outlook for\nmacro-economic support in China and pre-holiday restocking.\n\n"
+  },
+  {
+    "title": "China Stock Volume Jumps in Sign 2026 Rally Has Further to Run",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-stock-volume-jumps-in-sign-2026-rally-has-further-to-run",
+    "published": "Wed, 07 Jan 2026 03:23:01 CST",
+    "summary": "China’s stock trading volume climbed to the highest level in four months,\nsuggesting the equity rally at the start of 2026 has further to run.\n\n"
+  },
+  {
+    "title": "Trump Claims Venezuela Will Send Oil to U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
+    "published": "Wed, 07 Jan 2026 03:19:29 CST",
+    "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
+  },
+  {
+    "title": "Geopolitical Frictions Adding to Market Uncertainty, Amova's Fink Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fgeopolitics-adding-to-market-uncertainty-amova-s-fink-video",
+    "published": "Wed, 07 Jan 2026 03:13:44 CST",
+    "summary": "Naomi Fink of Amova Asset Management says she anticipates \"a bumpier road than\nmarkets are pricing in to get to higher productivity, ultimately, in the end.\nI think geopolitical tensions are rife worldwide right now and the market is\nkind of shifting them aside.\" Fink speaks on Bloomberg Television. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Deutsche Bank Bags Top Slot in India Dollar Bond Deals in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fdeutsche-bags-top-slot-for-arranging-india-dollar-bonds-in-2025",
+    "published": "Wed, 07 Jan 2026 02:51:05 CST",
+    "summary": "Deutsche Bank AG clinched the top slot arranging dollar bonds for Indian\nborrowers for the first time since 2007, taking over from Standard Chartered\nBank as foreign currency debt issuance slowed.\n\n"
+  },
+  {
+    "title": "Goldman Forecasts 20% Gains for China Stocks in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgoldman-forecasts-earnings-driven-2026-gains-for-china-stocks",
+    "published": "Wed, 07 Jan 2026 02:49:47 CST",
+    "summary": "Goldman Sachs Group Inc. projects Chinese stock benchmarks to post another\nyear of growth, though at a slower pace than in 2025, with earnings supported\nby AI and policy measures.\n\n"
+  },
+  {
+    "title": "Deep Robotics on Business Strategy, US Expansion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fdeep-robotics-on-business-strategy-us-expansion-video",
+    "published": "Wed, 07 Jan 2026 02:38:24 CST",
+    "summary": "Eric Wang, Director for Americas at Deep Robotics, discusses the company's\nbusiness strategy and its expansion into the US market. He speaks with Shery\nAhn and Annabelle Droulers from the sidelines of the CES trade show on\n\"Bloomberg Tech: Asia\". (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "China’s Feud With Japan Worsens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fchina-s-feud-with-japan-worsens-video",
     "published": "Wed, 07 Jan 2026 02:14:49 CST",
@@ -72,10 +138,10 @@
     "summary": "For years, the Latin American country was all but off-limits. Now, traders and\ntycoons are pouncing.\n\n"
   },
   {
-    "title": "Trump Says Venezuela to Send US Up to 50 Million Barrels of Oil",
+    "title": "Trump Says Venezuela to Send Oil Worth Up to $2.8 Billion to US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-to-send-us-up-to-50-million-barrels-of-oil-trump-says",
     "published": "Tue, 06 Jan 2026 23:57:29 CST",
-    "summary": "President Donald Trump said Venezuela would relinquish as much as 50 million\nbarrels of oil to the US, declaring it would be sold with the proceeds\nbenefiting both countries.\n\n"
+    "summary": "President Donald Trump said Venezuela would relinquish as much as 50 million\nbarrels of oil to the US, worth roughly $2.8 billion at the current market\nprice, announcing the cargoes would be sold with proceeds benefiting both\ncountries.\n\n"
   },
   {
     "title": "Fmr. Venezuela Ambassador: 'Hope, Not Faith' in Revival",
@@ -108,46 +174,16 @@
     "summary": "A stock rally that has added $350 billion in market value for Samsung\nElectronics Co. since the start of last year may have more room to run as\nbullish analysts and investors eye record profits.\n\n"
   },
   {
-    "title": "CFR's Haass: Venezuelan Oil in a State of Disrepair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fcfr-s-haass-venezuelan-oil-in-a-state-of-disrepair-video",
-    "published": "Tue, 06 Jan 2026 23:20:16 CST",
-    "summary": "Richard Haass, Council on Foreign Relations president emeritus, says\nVenezuela’s oil infrastructure is in disrepair and production will take time\nto recover. He tells Katie Greifeld and Romaine Bostick on “The Close” that\nwith oil near $60 a barrel, markets are not urgently seeking new supply.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Chat Platform Discord Files Confidentially for IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchat-platform-discord-is-said-to-file-confidentially-for-ipo",
-    "published": "Tue, 06 Jan 2026 23:19:48 CST",
-    "summary": "Discord Inc. filed confidentially for an initial public offering, according to\npeople familiar with the matter, adding to a rapidly growing pipeline of\nventure capital-backed tech listings.\n\n"
-  },
-  {
-    "title": "Bets on Maduro, Jesus Show Promise and Risks of Prediction Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Feye-catching-bets-show-promise-risk-of-prediction-boom-video",
-    "published": "Tue, 06 Jan 2026 23:18:58 CST",
-    "summary": "Prediction platforms pitch themselves as tools for insight, but eye-catching\nbets on real-world events are raising questions about access, integrity and\nregulation. The markets represent nothing less than a rebuilding of capitalism\nfrom the inside out. What they possess, their promoters say, is an\nunprecedented ability to churn out intelligence on everything from corporate\npower struggles to geopolitical standoffs. Prediction markets giants\nPolymarket and Kalshi -- the industry’s pioneers -- are harnessing at massive\nscale the raw gambling mania underpinning it all to deliver an information\nhack for the modern economy. Bloomberg News Cross-Asset Reporter Denitsa\nTsekova and Bloomberg News Financial Regulation Reporter Lydia Beyoud join\nBloomberg Businessweek Daily to discuss. They speak with Carol Massar and Tim\nStenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Hines' Steinbach: Commercial Real Estate on Firm Footing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fhines-steinbach-commercial-real-estate-on-firm-footing-video",
-    "published": "Tue, 06 Jan 2026 23:11:33 CST",
-    "summary": "David Steinbach, Hines’ global chief investment officer and managing partner,\ndiscusses the firm’s 2026 real estate investment outlook and the impact of\ndata center demand on the property market with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Ftravel%2Fhilton-hampton-inn-dhs.html",
     "published": "Tue, 06 Jan 2026 23:11:30 CST",
     "summary": "The hotel giant said it took “immediate action” against a Hampton Inn near\nMinneapolis after a video showed a worker declining Department of Homeland\nSecurity reservations.\n\n"
   },
   {
-    "title": "Korean Stocks’ World-Beating Rally Just a Start, Investors Say",
+    "title": "Buy Korea Calls Grow Louder as Stocks Extend Blistering Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fkorean-stocks-world-beating-rally-just-a-start-investors-say",
     "published": "Tue, 06 Jan 2026 23:00:00 CST",
     "summary": "South Korean stocks are seeing no shortage of buy calls after leading global\nmarkets in 2025, drawing investors with attractive valuations, tech-driven\nearnings and strong government support.\n\n"
-  },
-  {
-    "title": "Hershey & Shaquille O'Neal Team Up on New Candy Launch",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fhershey-shaquille-o-neal-team-up-on-new-candy-launch-video",
-    "published": "Tue, 06 Jan 2026 22:59:58 CST",
-    "summary": "Shaquille O’Neal and Hershey CEO Kirk Tanner discuss Hershey’s new hoops\ninspired candy and the company’s partnership with O’Neal. Speaking with\nRomaine Bostick and Katie Greifeld on “The Close,” O’Neal says Hershey is the\nShaq of the candy business. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
@@ -156,22 +192,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Stocks Hit New Highs as Investors Stay Risk-On | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fstocks-hit-new-highs-closing-bell-video",
-    "published": "Tue, 06 Jan 2026 22:49:33 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Record Asian Stock Rally Eases on Japan, Oil Falls: Markets Wrap",
+    "title": "Record Stock Rally Stalls in Asia, Oil Declines: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "Asian stocks, off to their best-ever start to a year, edged lower from record\nlevels as Japanese equities slipped amid rising tensions with China.\n\n"
-  },
-  {
-    "title": "The Six Things the Fed Needs to Worry About in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fthe-six-things-the-fed-needs-to-worry-about-in-2026-video",
-    "published": "Tue, 06 Jan 2026 22:29:42 CST",
-    "summary": "Former Federal Reserve Bank of New York President Bill Dudley, a Bloomberg\nOpinion columnist, says President Donald Trump’s choice to lead the Federal\nReserve isn't the only thing te Fed has to worry about in 2026. He speaks on\n\"Bloomberg The Close.\" (Source: Bloomberg)\n\n"
+    "summary": "The record-breaking global stock rally stalled in Asia as Japanese equities\nslipped amid rising tensions with China.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -182,26 +206,14 @@
   {
     "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
-    "published": "Tue, 06 Jan 2026 22:17:13 CST",
+    "published": "Tue, 06 Jan 2026 22:17:14 CST",
     "summary": "Companies like Kairos Power are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
-  },
-  {
-    "title": "Berkshire’s Abel to Get 19% Salary Bump in First Year as CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fberkshire-s-abel-to-receive-19-salary-bump-in-first-year-as-ceo",
-    "published": "Tue, 06 Jan 2026 22:16:40 CST",
-    "summary": "Berkshire Hathaway Inc. Chief Executive Officer Greg Abel will earn an annual\ncash salary of $25 million, the firm said in a filing Tuesday, far eclipsing\nthe $100,000 that his predecessor Warren Buffett earned for decades in the\nrole.\n\n"
   },
   {
     "title": "Top union accuses Texas of targeting teachers over Charlie Kirk posts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftexas-charlie-kirk-social-media",
     "published": "Tue, 06 Jan 2026 20:54:59 CST",
     "summary": "American Federation of Teachers sues over what it says are unconstitutional\ninvestigations into social media comments\n\nA major Texas teachers’ union filed a federal lawsuit against the state on\nTuesday challenging what it describes as unconstitutional investigations into\nhundreds of educators who posted comments on social media following the\nSeptember killing of conservative activist Charlie Kirk.\n\nThe Texas American Federation of Teachers, which represents approximately\n66,000 public school employees, is asking a federal court to block the Texas\nEducation Agency and its commissioner, Mike Morath, from continuing\ninvestigations that the union argues violate teachers’ free speech\nprotections.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "How Venezuela’s Oil Could Shake Up the World Supply",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
-    "published": "Tue, 06 Jan 2026 20:47:24 CST",
-    "summary": "The country could, eventually, attract investment and re-emerge as a force in\nthe oil markets, but many analysts are concerned about an oversupply.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
@@ -214,6 +226,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
     "published": "Tue, 06 Jan 2026 19:29:25 CST",
     "summary": "Investors are betting that a political transition along with a clearer path to\nasset recovery could unlock value that has been frozen for nearly a decade.\n\n"
+  },
+  {
+    "title": "Bond Trader Places Biggest Ever Fed Funds Bet in Futures",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbond-trader-places-biggest-ever-fed-funds-bet-in-futures-market",
+    "published": "Tue, 06 Jan 2026 19:23:19 CST",
+    "summary": "A record-sized block trade was placed in the federal funds futures market\nTuesday, just days ahead of a key set of US labor data that could shape US\ninterest-rate expectations.\n\n"
   },
   {
     "title": "Trump says US companies will invest billions in Venezuelan oil production. Experts aren’t so sure",
@@ -232,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html",
     "published": "Tue, 06 Jan 2026 16:20:59 CST",
     "summary": "Managers have been offering discounts amid difficulty fundraising, and capital\nis increasingly going to bigger funds, dragging down the mean.\n\n"
-  },
-  {
-    "title": "Charter Prices $3 Billion of Junk Bonds Ahead of Cox Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcharter-taps-junk-market-for-1-75-billion-to-refinance-debt",
-    "published": "Tue, 06 Jan 2026 16:13:15 CST",
-    "summary": "Charter Communications Inc. sold $3 billion of junk bonds Tuesday as it looks\nto pay off debt due through 2027 and repurchase equity.\n\n"
   },
   {
     "title": "Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
@@ -336,12 +348,6 @@
     "summary": "China imposed controls on exports to Japan with any military use, intensifying\na dispute between Asia’s top economies over remarks Japanese Prime Minister\nSanae Takaichi made last year on Taiwan.\n\n"
   },
   {
-    "title": "Asian Stocks in Best-Ever Start to a Year, Currencies Strengthen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fasian-stocks-in-best-ever-start-to-a-year-currencies-strengthen",
-    "published": "Tue, 06 Jan 2026 07:47:11 CST",
-    "summary": "Asian stocks are having their best-ever start to a year, with the region’s\ncurrencies and bonds also rallying as investors seek opportunities outside the\nUS.\n\n"
-  },
-  {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
@@ -358,12 +364,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Mon, 05 Jan 2026 22:47:32 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
-  },
-  {
-    "title": "Light Street Gains 37% in Big Year for Stock-Picking Hedge Funds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flight-street-gains-37-in-big-year-for-stock-picking-hedge-funds",
-    "published": "Mon, 05 Jan 2026 22:14:40 CST",
-    "summary": "Light Street Capital Management soared more than 37% last year, outperforming\nother stock-picking hedge funds, and making investors whole following steep\nlosses in 2021 and 2022.\n\n"
   },
   {
     "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
