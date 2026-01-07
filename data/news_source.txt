@@ -1,5 +1,35 @@
 [
   {
+    "title": "German Dentists’ Pension Fund Sues Advisers Over €1 Billion Loss",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgerman-dentists-pension-fund-sues-advisers-over-1-billion-loss",
+    "published": "Wed, 07 Jan 2026 09:39:10 CST",
+    "summary": "A German pension fund whose foray into private markets led to losses of more\nthan €1 billion ($1.17 billion) has begun legal proceedings against its former\nauditor, an adviser and its own managers to recover the damages.\n\n"
+  },
+  {
+    "title": "World’s Tallest Vertical Farm Opens in Import-Reliant Singapore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-tallest-vertical-farm-opens-in-import-reliant-singapore",
+    "published": "Wed, 07 Jan 2026 09:33:27 CST",
+    "summary": "Singapore opened the world’s tallest vertical farm on Wednesday, as the city-\nstate tries to reduce its reliance on imported food.\n\n"
+  },
+  {
+    "title": "The World Needs a Lot More Copper. But Will There Be Enough Supply?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcopper-price-record-how-supply-crunch-is-looming-just-as-ai-boom-hits",
+    "published": "Wed, 07 Jan 2026 09:32:16 CST",
+    "summary": "Copper is one of the world’s most ubiquitous metals, used in just about\neverything that’s electrified: smartphones, refrigerators, electric vehicles,\npower grids and much more.\n\n"
+  },
+  {
+    "title": "UK Housebuilding in Sharpest Drop Since Covid Lockdown of 2020",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fuk-housebuilding-in-sharpest-drop-since-covid-lockdown-of-2020",
+    "published": "Wed, 07 Jan 2026 09:30:00 CST",
+    "summary": "UK housebuilding dropped at the fastest pace since the first Covid lockdown,\naccording to a closely watched survey that suggests the Labour government is\nfailing to achieve its goal of turbocharging construction.\n\n"
+  },
+  {
+    "title": "<strong>This Is What Maduro's Arrest Means for the Oil Market</strong>",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fthis-is-what-maduro-s-arrest-means-for-the-oil-market",
+    "published": "Wed, 07 Jan 2026 09:00:15 CST",
+    "summary": "**Greg Brew on the history of Venezuelan oil.**\n\n"
+  },
+  {
     "title": "European Assets’ Fate Isn’t Local: 3-Minute MLIV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Feuropean-assets-fate-isn-t-local-3-minute-mliv-video",
     "published": "Wed, 07 Jan 2026 08:47:46 CST",
@@ -12,7 +42,7 @@
     "summary": "Sharon Bell, senior European equity strategist at Goldman Sachs, says European\nstocks are set to benefit as US investors seek further exposure outside the\ntech-heavy US market. “I don’t necessarily think that Europe will super\noutperform in the way it did last year,” Bell tells Bloomberg Television. “It\njust gives you that diversification.”\n\n"
   },
   {
-    "title": "BlueScope’s Board Rejects $8.8 Billion Steel Dynamics, SGH Bid",
+    "title": "BlueScope Board Rejects $8.8 Billion Steel Dynamics, SGH Bid",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbluescope-s-board-rejects-8-8-billion-steel-dynamics-sgh-bid",
     "published": "Wed, 07 Jan 2026 08:29:12 CST",
     "summary": "BlueScope Steel Ltd. rejected an $8.8 billion takeover bid by US steelmaker\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd.\n\n"
@@ -42,7 +72,7 @@
     "summary": "A mansion at Hong Kong’s prestigious Peak area was sold for HK$1.04 billion\n($133 million), yielding a more than 25% gain for the owner who held it for\nabout a decade.\n\n"
   },
   {
-    "title": "Saudi Stocks Climb on High Hopes for More Market Liberalization",
+    "title": "Saudi Stocks Climb on Hopes for More Market Liberalization",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsaudi-stocks-climb-on-high-hopes-for-more-market-liberalization",
     "published": "Wed, 07 Jan 2026 07:39:39 CST",
     "summary": "Saudi Arabian equities climbed after the kingdom opened up its stocks to all\nforeign investors, a step viewed as critical toward a full liberalization of\nthe market as the Gulf nation looks to boost investment from abroad.\n\n"
@@ -102,40 +132,10 @@
     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Citi, JPMorgan Opt Out of $1.4 Billion SBI Funds IPO on Low Fees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fciti-jpmorgan-opt-out-of-1-4-billion-sbi-funds-ipo-on-low-fees",
-    "published": "Wed, 07 Jan 2026 06:07:08 CST",
-    "summary": "Some of Wall Street’s biggest banks have opted out of advising on a planned\n$1.4 billion initial public offering of India’s SBI Funds Management Ltd.\nbecause of low fees, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fziemba-drill-baby-drill-everywhere-except-the-us-video",
-    "published": "Wed, 07 Jan 2026 06:00:56 CST",
-    "summary": "Global markets remained resilient as investors grow accustomed to President\nTrump's unorthodox military operations, viewing them as temporary shocks\nrather than long-term risks. Instead of panicking over the Venezuela\nincursion, traders are focusing on AI growth, potential rate cuts, and a\nstabilized oil supply. Rachel Ziemba, founder of Ziemba Insights spoke to\nBloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche on the\nnew world order created by President Trump. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan Stock Bulls Ignore China Tensions for Buying Opportunities",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjapan-stock-bulls-ignore-china-tensions-for-buying-opportunities",
-    "published": "Wed, 07 Jan 2026 05:55:56 CST",
-    "summary": "Japanese markets are showing resilience despite the country’s escalating\ngeopolitical tensions with China.\n\n"
-  },
-  {
-    "title": "IDC's Ma: 2026 May Be A Down Year For PC Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fidc-s-ma-2026-may-be-a-down-year-for-pc-market-video",
-    "published": "Wed, 07 Jan 2026 05:34:11 CST",
-    "summary": "IDC Devices Research VP Bryan Ma believes 2026 may be a down year for the PC\nmarket, as memory shortage (production gets diverted to AI datacenters) is\ndriving prices upwards instead. He speaks with Haslinda Amin on \"Insight with\nHaslinda Amin.\" (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Chevron and Quantum Energy to Bid for Lukoil Assets, FT Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says",
     "published": "Wed, 07 Jan 2026 05:20:43 CST",
     "summary": "Chevron Corp. and private equity group Quantum Energy Partners will join\nforces to buy the international assets of sanctioned Russian oil company\nLukoil PJSC, according to the Financial Times.\n\n"
-  },
-  {
-    "title": "China's Hesai to Supply Lidar Sensors to Nvidia",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fchina-s-hesai-to-supply-lidar-sensors-to-nvidia-video",
-    "published": "Wed, 07 Jan 2026 05:12:43 CST",
-    "summary": "Nvidia has picked Chinese lidar maker Hesai as its laser technology partner.\nIts co-founder and CEO David Li says the partnership is good news for global\nOEMs as the platform will streamline software, hardware and data in its\nautonomous driving product. He spoke with Bloomberg's Annabelle Droulers from\nthe sidelines of CES in Las Vegas. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Botched Debutant Trade Triggers Halt in Sri Lankan Stocks",
@@ -150,6 +150,12 @@
     "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
   },
   {
+    "title": "China Readies Its Favorite Trade War Weapon For Japan Feud",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-shoulders-its-favorite-trade-war-weapon-in-feud-with-japan",
+    "published": "Wed, 07 Jan 2026 04:57:42 CST",
+    "summary": "China’s warning to Japan that it could choke off supplies of rare earths, its\nfavorite weapon in trade conflicts, targets a persistent vulnerability among\nJapanese manufacturers after more than a decade of Tokyo trying to reduce\nreliance on its rival.\n\n"
+  },
+  {
     "title": "Asian Rare Earth Stocks Surge on New China-Japan Export Curbs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fasia-s-rare-earth-stocks-climb-on-new-china-japan-export-curbs",
     "published": "Wed, 07 Jan 2026 03:45:13 CST",
@@ -162,16 +168,10 @@
     "summary": "Iron ore hit the highest price since February, buoyed by the outlook for\nmacro-economic support in China and pre-holiday restocking.\n\n"
   },
   {
-    "title": "Trump Claims Venezuela Will Send Oil to U.S.",
+    "title": "Trump Claims Venezuela Will Send U.S. 30 to 50 Million Barrels of Oil. Here’s What to Know.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
     "published": "Wed, 07 Jan 2026 03:19:29 CST",
     "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
-  },
-  {
-    "title": "Nickel Drops From 19-Month High as Metals Rally Takes Breather",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fnickel-drops-from-19-month-high-as-metals-rally-takes-breather",
-    "published": "Wed, 07 Jan 2026 01:56:03 CST",
-    "summary": "Nickel retreated from the highest level in 19 months, as a strong rally that’s\nlifted base metals took a breather.\n\n"
   },
   {
     "title": "Congress has four weeks to dodge another shutdown",
@@ -184,12 +184,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F31%2Fai-four-day-workweek%2F",
     "published": "Wed, 07 Jan 2026 01:06:05 CST",
     "summary": "Some companies are giving workers back more time as artificial intelligence\ntakes over more tasks.\n\n"
-  },
-  {
-    "title": "Trump Says Venezuela to Send Oil Worth Up to $2.8 Billion to US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-to-send-us-up-to-50-million-barrels-of-oil-trump-says",
-    "published": "Tue, 06 Jan 2026 23:57:29 CST",
-    "summary": "President Donald Trump said Venezuela would relinquish as much as 50 million\nbarrels of oil to the US, worth roughly $2.8 billion at the current market\nprice, announcing the cargoes would be sold with proceeds benefiting both\ncountries.\n\n"
   },
   {
     "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
