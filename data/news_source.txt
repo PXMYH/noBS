@@ -1,5 +1,53 @@
 [
   {
+    "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
+    "published": "Wed, 07 Jan 2026 15:43:57 CST",
+    "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
+  },
+  {
+    "title": "Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
+    "published": "Wed, 07 Jan 2026 15:31:27 CST",
+    "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
+  },
+  {
+    "title": "US Economy: ISM Services Climb, JOLTS Openings Decline",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-economy-ism-services-climb-jolts-openings-decline-video",
+    "published": "Wed, 07 Jan 2026 15:22:43 CST",
+    "summary": "US services activity expanded in December at the fastest pace in more than a\nyear, while US job openings fell in November to a more than one-year low and\nhiring slowed. Michael McKee breaks down the numbers on Bloomberg Television.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Alaska Airlines to Buy 110 Boeing Planes as It Seeks to Expand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Falaska-airlines-boeing-planes.html",
+    "published": "Wed, 07 Jan 2026 15:22:24 CST",
+    "summary": "Alaska’s order, its largest ever, follows its acquisition of Hawaiian Airlines\nand is part of its plan to expand, including overseas.\n\n"
+  },
+  {
+    "title": "Polymarket to Distribute Prediction Data to Dow Jones Outlets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fpolymarket-to-distribute-prediction-data-to-dow-jones-outlets",
+    "published": "Wed, 07 Jan 2026 15:21:23 CST",
+    "summary": "Polymarket will supply Dow Jones with trading data under a new partnership,\nthe latest in a string of deals between exchanges and media organizations that\nare putting prediction markets in front of a broader audience.\n\n"
+  },
+  {
+    "title": "Eli Lilly Set to Back Aktis Oncology’s Upsized $318 Million IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Feli-lilly-set-to-back-aktis-oncology-s-upsized-318-million-ipo",
+    "published": "Wed, 07 Jan 2026 15:21:15 CST",
+    "summary": "Aktis Oncology Inc. increased the size of its initial public offering by 50%,\nand drew interest from Eli Lilly & Co. for $100 million of shares in the\nlisting.\n\n"
+  },
+  {
+    "title": "U.S. to Control Venezuela Oil Sales ‘Indefinitely,’ Energy Secretary Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
+    "published": "Wed, 07 Jan 2026 15:09:14 CST",
+    "summary": "Chris Wright said the Trump administration was in “active dialogue” with\nVenezuela’s government about the plan.\n\n"
+  },
+  {
+    "title": "US to Control Venezuela Oil Sales, Energy Secretary Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-to-control-venezuela-oil-sales-energy-secretary-says-video",
+    "published": "Wed, 07 Jan 2026 14:58:33 CST",
+    "summary": "Energy Secretary Chris Wright said the Trump Administration plans to control\nfuture sales of oil from Venezuela and use the proceeds to rebuild the\nnation’s beleaguered economy. Wright stated, “we need to have that leverage\nand that control of those oil sales to drive the changes that simply must\nhappen in Venezuela,” during comments at the Goldman Sachs Energy, Clean Tech\n& Utilities Conference in Miami on Wednesday. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "American Airlines keeps frequent flyer status requirements the same, following rivals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html",
     "published": "Wed, 07 Jan 2026 14:45:01 CST",
@@ -18,28 +66,16 @@
     "summary": "The president is again focused on acquiring the mineral-rich island. But lack\nof clarity about his goals and tactics is weighing on political and business\nleaders.\n\n"
   },
   {
-    "title": "U.S. to Control Venezuela Oil Sales ‘Indefinitely,’ Energy Secretary Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
-    "published": "Wed, 07 Jan 2026 14:20:04 CST",
-    "summary": "Chris Wright said the Trump administration was in “active dialogue” with\nVenezuela’s government about the plan.\n\n"
-  },
-  {
-    "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
-    "published": "Wed, 07 Jan 2026 14:19:15 CST",
-    "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
-  },
-  {
     "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
     "published": "Wed, 07 Jan 2026 14:12:57 CST",
     "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
   },
   {
-    "title": "US Will Control Venezuela Oil Sales, Trump’s Energy Boss Says",
+    "title": "US Says It Will Control Venezuela Oil Exports Indefinitely",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-will-control-venezuela-oil-sales-trump-s-energy-boss-says",
     "published": "Wed, 07 Jan 2026 14:01:45 CST",
-    "summary": "The Trump Administration plans to control future sales of oil from Venezuela\nand use the proceeds to rebuild the nation’s beleaguered economy, Energy\nSecretary Chris Wright said\n\n"
+    "summary": "The Trump administration plans to control future sales of oil from Venezuela\nand use the proceeds to rebuild the nation’s beleaguered economy, Energy\nSecretary Chris Wright said.\n\n"
   },
   {
     "title": "Alaska Airlines buys more than 100 Boeing jets in carrier's biggest order ever",
@@ -90,10 +126,10 @@
     "summary": "Employment at US companies increased in December as private-sector payrolls\ngrew by 41,000 after declining in the prior month, according to ADP Research\ndata released Wednesday. Michael McKee reports on Bloomberg Television.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "JPMorgan, Bank of America Shares Cut at Wolfe Ahead of Earnings",
+    "title": "JPMorgan, Bank of America Cut at Wolfe Ahead of Earnings",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjpmorgan-bank-of-america-shares-cut-at-wolfe-ahead-of-earnings",
     "published": "Wed, 07 Jan 2026 13:29:11 CST",
-    "summary": "Shares of JPMorgan Chase & Co. and Bank of America Corp were downgraded at\nWolfe Research LLC, with analysts citing limited upside at current levels as\ninvestors gear up for the largest US banks to kick off earnings season next\nweek.\n\n"
+    "summary": "Analysts at Wolfe Research LLC downgraded shares of JPMorgan Chase & Co. and\nBank of America Corp, citing limited upside at current levels as investors\ngear up for the largest US banks to kick off earnings season next week.\n\n"
   },
   {
     "title": "Europe’s Best-Performing Bank Stock Tipped to Keep Rising",
@@ -156,22 +192,10 @@
     "summary": "A raft of new export projects heralds cheaper fuel for consumers in Asia and\nEurope.\n\n"
   },
   {
-    "title": "What’s Behind Copper’s Rally to a Record High?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fwhat-s-behind-copper-s-rally-to-a-record-high-video",
-    "published": "Wed, 07 Jan 2026 12:13:08 CST",
-    "summary": "Morgan Stanley Lead Metals & Mining Commodities Strategist Amy Gower examines\nthe drivers behind the rally in copper that pushed the metal above $13,000 a\nton for the first time. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Warner Bros. Board Rebuffs Paramount’s Latest Buyout Offer",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fwarner-bros-paramount-netflix.html",
     "published": "Wed, 07 Jan 2026 12:10:07 CST",
     "summary": "The board said the blockbuster deal it reached with Netflix last month posed\nless risk.\n\n"
-  },
-  {
-    "title": "Stocks Head for First 2026 Drop; Trump Says Venezuela Will Give Oil to US | Bloomberg Brief 1/7/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fbloomberg-brief-1-7-2026-video",
-    "published": "Wed, 07 Jan 2026 12:01:08 CST",
-    "summary": "US equity futures decline ahead of jobs data. Oil falls as President Trump\nsays Venezuela would relinquish up to 50 million barrels of crude to the US.\nCayla Seder of State Street sees more room to run in 2025’s stock rally this\nyear. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Warner Bros. Rejects Latest Paramount Bid, Favoring Netflix",
@@ -192,22 +216,10 @@
     "summary": "US mortgage rates fell last week to the lowest level since September 2024, a\nhopeful sign for the sluggish housing market to start the new year.\n\n"
   },
   {
-    "title": "Trump Aims Bumper Aid at US Rice Farmers Facing Bleakest Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftrump-aims-bumper-aid-at-us-rice-farmers-facing-bleakest-outlook",
-    "published": "Wed, 07 Jan 2026 12:00:00 CST",
-    "summary": "The new year may mark the last time Texas farmer LG Raun plants a rice crop.\n\n"
-  },
-  {
-    "title": "Venezuelan Oil Heads to US; Trump Won't Rule Out Taking Greenland by Force | The Pulse 1/7/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fthe-pulse-1-7-2026-video",
-    "published": "Wed, 07 Jan 2026 11:58:58 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Katharine Neiss, PGIM\nFixed Income, Chief European Economist; Dominique de Villepin, Former French\nPrime Minister; Michael Widmer, Bank of America, Head of Metals Research;\nLars-Christian Brask, Danish Parliament, Deputy Speaker (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Nvidia's CEO Boosts Outlook, Trump Mulls Greenland Options | The Opening Trade 1/7/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fthe-opening-trade-1-7-2026-video",
-    "published": "Wed, 07 Jan 2026 11:34:58 CST",
-    "summary": "Nvidia said its revenue forecast has gotten brighter due to strong demand and\nlarge customer deals. The company suggested that revenue from current and\nfuture data center chips by the end of 2026 would eclipse the $500 billion\nlevel. CEO Jensen Huang says \"[Nvidia] should have a very good year\". Defense\ncompanies remain on alert after the White House does not rule out using the\nmilitary to take Greenland. Meanwhile, oil prices fall after Donald Trump says\nVenezuela will send fossil fuel supplies to the US. The Opening Trade has\neverything you need to know as markets open across Europe. With analysis you\nwon't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
+    "title": "Europe Bond Sales Top €57 Billion in Record-Breaking Day",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbond-deluge-in-europe-sees-record-tranches-offered-in-single-day",
+    "published": "Wed, 07 Jan 2026 11:03:21 CST",
+    "summary": "Borrowers are set to price €57.2 billion ($66.8 billion) of debt in Europe’s\nprimary market on Wednesday, the largest amount ever raised in a single day as\nthey look to capitalize on strong market conditions.\n\n"
   },
   {
     "title": "The soaring price of youth sports: $50 to try out, $3,000 to play",
@@ -288,18 +300,6 @@
     "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
   },
   {
-    "title": "Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
-    "published": "Wed, 07 Jan 2026 03:19:29 CST",
-    "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
-  },
-  {
-    "title": "Nickel Edges Higher as Traders Shrug Off Rising Inventories",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fnickel-drops-from-19-month-high-as-metals-rally-takes-breather",
-    "published": "Wed, 07 Jan 2026 01:56:03 CST",
-    "summary": "Nickel touched a fresh 19-month high in choppy trading as traders weighed\nrising inventories against mounting production risks that have fueled a\nbreakneck rally in prices.\n\n"
-  },
-  {
     "title": "Congress has four weeks to dodge another shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
     "published": "Wed, 07 Jan 2026 01:38:37 CST",
@@ -310,6 +310,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F31%2Fai-four-day-workweek%2F",
     "published": "Wed, 07 Jan 2026 01:06:05 CST",
     "summary": "Some companies are giving workers back more time as artificial intelligence\ntakes over more tasks.\n\n"
+  },
+  {
+    "title": "With Maduro Out, Wall Street Chases After Venezuela’s Riches",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-07%2Fwall-street-eyes-venezuela-investments-oil-assets-after-maduro-ouster",
+    "published": "Wed, 07 Jan 2026 00:08:16 CST",
+    "summary": "For years, the Latin American country was all but off-limits. Now, traders and\ntycoons are pouncing.\n\n"
   },
   {
     "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
@@ -324,10 +330,10 @@
     "summary": "Oil swung between gains and losses on the prospect that Venezuelan crude will\ncontinue to flow, particularly to the US, while a Russian flagged tanker was\nseized in the north Atlantic.\n\n"
   },
   {
-    "title": "Gold Drops as Traders Look Past Geopolitical Risk to US Data",
+    "title": "Silver and Platinum Plunge to Extend Big Spike in Volatility",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
     "published": "Tue, 06 Jan 2026 23:30:41 CST",
-    "summary": "Gold declined, as traders looked beyond heightened geopolitical tensions to US\neconomic data releases due this week. Platinum slid amid a retreat in precious\nmetals.\n\n"
+    "summary": "Silver and platinum plunged, extending a recent run of exceptional volatility,\nas traders assessed sales from index re-weightings, market tightness and\npotential US tariffs. Gold also declined.\n\n"
   },
   {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
@@ -342,10 +348,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Stocks Bull Run Takes a Breather as Bonds Rally: Markets Wrap",
+    "title": "Wall Street Stock Bulls Tested as Bonds Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "US stocks traded sideways as investors took stock of a shifting risk landscape\namid ongoing portfolio positioning for the year. Yields fell across the globe.\n\n"
+    "summary": "Wall Street’s enthusiasm for US stocks was put to the test as investors took\nstock of a shifting risk landscape and digested mixed economic data. Yields\nfell across the globe.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -838,12 +844,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fworld%2Feurope%2Fbarcelona-debt-soccer.html",
     "published": "Fri, 02 Jan 2026 05:00:08 CST",
     "summary": "F.C. Barcelona’s liabilities have reached 2.5 billion euros, the result of\nfinancial mismanagement and vaulting ambition.\n\n"
-  },
-  {
-    "title": "How Japanese Scallops Became a Pawn in Diplomatic Tensions With China",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Fbusiness%2Fjapan-china-scallops.html",
-    "published": "Fri, 02 Jan 2026 02:16:13 CST",
-    "summary": "Beijing is using a ban on the humble mollusk to punish Japan over its apparent\nwillingness to defend Taiwan.\n\n"
   },
   {
     "title": "Stellantis resurrects $100,000 Ram TRX V-8 pickup truck amid industry deregulation",

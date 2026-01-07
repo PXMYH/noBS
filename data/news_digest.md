@@ -6,7 +6,7 @@ Generated from **223** unique articles (deduplicated from 223 total) across **1*
 
 ## 🌍 World & Politics
 
-The U.S. is asserting control over Venezuela’s oil sector following the capture of President Nicolás Maduro by American special forces, with the Trump administration engaging in talks with oil companies to revive production. The seizure of a Russian-flagged tanker fleeing Venezuela underscores escalating tensions, while China debates the implications of Maduro’s ouster, with some viewing it as a potential blueprint for Taiwan. Meanwhile, Slovenia’s president nominates a new central bank governor amid political deadlock, and the U.K. faces diplomatic strain with China after a minister’s Taiwan visit. In other developments, Ukraine’s businesses continue operations despite wartime challenges, and global markets react to shifting energy dynamics.
+The U.S. is asserting control over Venezuela’s oil sector following the capture of Nicolás Maduro by American special forces, with the Trump administration engaging in talks with oil companies to revive production. The seizure of a Russian-flagged tanker fleeing Venezuela underscores escalating tensions, while global oil markets fluctuate amid uncertainty over supply. Meanwhile, China debates the implications of Maduro’s ouster, with some viewing it as a potential blueprint for Taiwan, while others warn of ideological risks. Domestically, the U.S. has dissolved the Corporation for Public Broadcasting after defunding it, and airlines cancel flights due to Caribbean airspace closures tied to the Venezuela operation. In Europe, Slovenia’s president nominates a central bank governor to break a political deadlock ahead of elections.
 
 **Top Articles:**
 - [U.S. to Control Venezuela Oil Sales ‘Indefinitely,’ Energy Secretary Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html)
@@ -15,20 +15,20 @@ The U.S. is asserting control over Venezuela’s oil sector following the captur
 - [Trump claims Venezuela is set for an oil boom after US attack – history points to a bumpy road ahead](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F07%2Ftrump-venezuela-oil-regime-after-maduro)
 - [Maga media stars back Trump on Venezuela … mostly: ‘It doesn’t make any sense’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F07%2Fmaga-stars-trump-venezuela)
 
-**Sources**: archive.ph (21 articles)
+**Sources**: archive.ph (20 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-US stocks hover near record highs as traders await key economic data, though futures dip ahead of jobs reports. The market's bull run pauses amid shifting risk sentiment, with bonds rallying globally. Venezuela dominates headlines as the Trump administration announces plans to control its oil sales, sending energy stocks up 2.7% and sparking Wall Street bets on Venezuelan bonds despite geopolitical risks. Meanwhile, Nvidia's CEO boosts revenue forecasts, projecting over $500 billion from data center chips by 2026, while Goldman Sachs advises exiting Wagamama's debt after a rally. Economic shifts include falling US mortgage rates to 6.25% and Germany's bonds surging on ECB easing bets. Corporate moves see JPMorgan and Bank of America downgraded ahead of earnings, while Societe Generale leads European bank gains. Argentina secures a $3 billion loan to cover debt payments, and Saudi stocks climb on market liberalization hopes. The Fed faces political pressures as Trump seeks to reshape the institution, while analysts debate whether rate cuts will continue.
+Global markets are navigating a mix of geopolitical shifts, economic data, and corporate maneuvers as 2026 begins. US stocks hover near record highs, though momentum pauses ahead of key economic reports, while bonds rally amid bets on further Federal Reserve easing. The Fed's independence faces scrutiny as political pressures mount, with analysts debating whether inflation or labor market concerns will dominate policy decisions. Meanwhile, Venezuela emerges as a focal point after Trump's administration announces plans to control its oil exports indefinitely, sparking Wall Street interest in the country's bonds and energy sector. Corporate activity remains brisk, with Eli Lilly backing Aktis Oncology's upsized $318 million IPO and JPMorgan launching a new advisory group for clients. In commodities, silver and platinum prices plunge amid volatility, while the LNG market shifts toward oversupply. Europe sees a record €57 billion in bond sales, reflecting strong demand, while Germany's bonds rise on expectations of ECB rate cuts. Retail and real estate sectors show strain, with Saks Global preparing for potential bankruptcy and commercial real estate adapting to migration trends toward smaller markets.
 
 **Top Articles:**
+- [Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html)
+- [Polymarket to Distribute Prediction Data to Dow Jones Outlets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fpolymarket-to-distribute-prediction-data-to-dow-jones-outlets)
+- [Eli Lilly Set to Back Aktis Oncology’s Upsized $318 Million IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Feli-lilly-set-to-back-aktis-oncology-s-upsized-318-million-ipo)
 - [US Stocks Hover Near Record Highs as Traders Await Economic Data](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-stocks-hover-near-record-highs-as-traders-await-economic-data)
 - [Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html)
-- [US Will Control Venezuela Oil Sales, Trump’s Energy Boss Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-will-control-venezuela-oil-sales-trump-s-energy-boss-says)
-- [US Dollar to Weaken but at a Slower Pace Than 2025, Deutsche Bank’s Saravelos Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-dollar-to-weaken-at-slower-pace-than-2025-saravelos-video)
-- [JPMorgan, Bank of America Shares Cut at Wolfe Ahead of Earnings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjpmorgan-bank-of-america-shares-cut-at-wolfe-ahead-of-earnings)
 
 **Sources**: archive.ph (82 articles)
 
@@ -36,22 +36,22 @@ US stocks hover near record highs as traders await key economic data, though fut
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by high-stakes corporate battles, AI-driven transformations, and shifting global dynamics. Warner Bros. Discovery's board repeatedly rejects Paramount Skydance's $108 billion hostile takeover bid, doubling down on its partnership with Netflix as the superior strategic option. Meanwhile, AI continues to reshape industries, with JPMorgan replacing controversial proxy advisors with AI-driven data analysis and companies adopting four-day workweeks by leveraging automation. In the automotive sector, Alaska Airlines places its largest-ever order for Boeing jets, while Stellantis revives its $100,000 Ram TRX pickup amid deregulation. Geopolitical tensions also loom large, as China warns of potential rare earth restrictions and Venezuela's oil industry becomes a focal point for U.S. energy giants. The entertainment industry sees a resurgence in event cinema, with Netflix's *Stranger Things* finale grossing over $25 million at the box office, signaling a shift in how studios monetize content.
+The tech and business landscape is buzzing with major developments, starting with JPMorgan's shift to AI-driven proxy data analysis, replacing controversial advisors—a move signaling growing corporate reliance on artificial intelligence. Meanwhile, Warner Bros. Discovery continues to fend off Paramount's $108 billion hostile takeover bid, doubling down on its Netflix partnership as the superior strategic option. In aviation, Alaska Airlines makes its largest-ever aircraft order, purchasing 110 Boeing planes to fuel expansion following its Hawaiian Airlines acquisition. On the regulatory front, the U.S. plans to control Venezuela's oil sales to fund economic rebuilding, while China watches closely to protect its own interests in the region. Elsewhere, AI's role in workforce efficiency gains traction, with companies adopting four-day workweeks as automation handles more tasks. The tech sector also sees disruption in data center politics, as local opposition to AI infrastructure becomes a rising electoral issue.
 
 **Top Articles:**
-- [American Airlines keeps frequent flyer status requirements the same, following rivals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html)
-- [Why Trump’s Greenland Strategy Has the World on Edge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fdealbook%2Fbuy-invade-trump-greenland.html)
 - [JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html)
-- [Alaska Airlines buys more than 100 Boeing jets in carrier's biggest order ever](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html)
-- [Warner Bros Discovery tells investors to reject ‘inadequate’ $108bn Paramount bid](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F07%2Fwarner-bros-shareholders-paramount-takeover-bid)
+- [US Economy: ISM Services Climb, JOLTS Openings Decline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-economy-ism-services-climb-jolts-openings-decline-video)
+- [Alaska Airlines to Buy 110 Boeing Planes as It Seeks to Expand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Falaska-airlines-boeing-planes.html)
+- [US to Control Venezuela Oil Sales, Energy Secretary Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-to-control-venezuela-oil-sales-energy-secretary-says-video)
+- [American Airlines keeps frequent flyer status requirements the same, following rivals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html)
 
-**Sources**: archive.ph (82 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## ⚽ Sports
 
-Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi leads in share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options, challenging traditional subscription models. The success of Tubi underscores broader trends in the entertainment industry, where cost-conscious viewers increasingly favor accessible content over premium subscriptions. As streaming wars intensify, Tubi's performance signals a potential reshaping of the market, with implications for both content providers and advertisers.
+Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options amid rising subscription costs. The success of Tubi underscores broader trends in the sports and entertainment industry, where accessibility and affordability are increasingly prioritized by viewers. As traditional paywalls face challenges, Tubi's rise could prompt other networks to reevaluate their streaming strategies to remain competitive.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -62,17 +62,17 @@ Fox's free streaming service Tubi is making waves in the competitive streaming l
 
 ## 📰 Other News
 
-Global financial and economic trends dominate early 2026 headlines, with Zambia’s kwacha facing volatility after a record rally, while copper prices surge to unprecedented highs amid strong demand. Corporate shifts are also in focus, as Pirelli and Sinochem explore reducing stakes to ease U.S. market access, and AIG’s CEO steps down, rattling investor confidence. Meanwhile, domestic U.S. politics remain contentious, with Congress racing to avoid a government shutdown and the Supreme Court facing criticism for increasingly favoring wealthy litigants. On the consumer front, rising costs in youth sports and housing affordability challenges highlight ongoing economic pressures, while Novo Nordisk’s new GLP-1 obesity pill marks a significant development in healthcare. Cultural shifts include GQ’s editor departing to collaborate with Pharrell at Louis Vuitton, reflecting evolving trends in media and fashion.
+This week's news highlights economic and political tensions shaping global markets and domestic policies. Zambia's kwacha, the world's best-performing currency, faces potential volatility in the coming weeks, while European banks maintain strong momentum despite uncertainties. In the U.S., Congress races against a four-week deadline to avert another government shutdown, with funding battles looming. Meanwhile, the Supreme Court's growing favoritism toward wealthy litigants, revealed in a new study, underscores shifting judicial dynamics. On the corporate front, Ford reports its strongest annual U.S. vehicle sales since 2019, and Manhattan office leasing hits a six-year high, signaling cautious optimism in commercial real estate. Cultural shifts are also evident, with GQ's editor departing to collaborate with Pharrell at Louis Vuitton, reflecting evolving trends in media and fashion. Additionally, the rising costs of youth sports and housing affordability challenges continue to strain middle-class Americans, while Novo Nordisk's new GLP-1 obesity pill launches at competitive prices, marking a significant development in healthcare.
 
 **Top Articles:**
 - [Zambia’s World-Beating Kwacha Rally to Be Tested in Coming Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzambia-s-world-beating-kwacha-rally-to-be-tested-in-coming-weeks)
 - [Pirelli, Sinochem Mull Lowering of Stake in Tiremaker to 10%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fpirelli-sinochem-mull-cutting-chinese-stake-in-tiremaker-to-10)
-- [What’s Behind Copper’s Rally to a Record High?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fwhat-s-behind-copper-s-rally-to-a-record-high-video)
 - [The soaring price of youth sports: $50 to try out, $3,000 to play](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fyouth-sports-cost-parents-investors-profit%2F)
 - [The Cuba-born Harvard economist behind Trump’s immigration crackdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-immigration-policy-george-borjas%2F)
+- [Congress has four weeks to dodge another shutdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 07, 2026 at 02:52 PM *
+*Digest generated on January 07, 2026 at 03:50 PM *
