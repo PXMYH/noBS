@@ -1,5 +1,59 @@
 [
   {
+    "title": "IDC's Ma: 2026 May Be A Down Year For PC Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fidc-s-ma-2026-may-be-a-down-year-for-pc-market-video",
+    "published": "Wed, 07 Jan 2026 05:34:11 CST",
+    "summary": "IDC Devices Research VP Bryan Ma believes 2026 may be a down year for the PC\nmarket, as memory shortage (production gets diverted to AI datacenters) is\ndriving prices upwards instead. He speaks with Haslinda Amin on \"Insight with\nHaslinda Amin.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Chevron and Quantum Energy to Bid for Lukoil Assets, FT Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says",
+    "published": "Wed, 07 Jan 2026 05:20:43 CST",
+    "summary": "Chevron Corp. and private equity group Quantum Energy Partners will join\nforces to buy the international assets of sanctioned Russian oil company\nLukoil PJSC, according to the Financial Times.\n\n"
+  },
+  {
+    "title": "China's Hesai to Supply Lidar Sensors to Nvidia",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fchina-s-hesai-to-supply-lidar-sensors-to-nvidia-video",
+    "published": "Wed, 07 Jan 2026 05:12:43 CST",
+    "summary": "Nvidia has picked Chinese lidar maker Hesai as its laser technology partner.\nIts co-founder and CEO David Li says the partnership is good news for global\nOEMs as the platform will streamline software, hardware and data in its\nautonomous driving product. He spoke with Bloomberg's Annabelle Droulers from\nthe sidelines of CES in Las Vegas. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Colombo Bourse Halts Trading on Unusual Prices in Debutant Stock",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcolombo-bourse-halts-trading-on-unusual-prices-in-debutant-stock",
+    "published": "Wed, 07 Jan 2026 05:02:56 CST",
+    "summary": "The Colombo Stock Exchange halted trading after noticing “unusual opening\nprices” in shares of Wealth Trust Securities Ltd. that were to debut on\nWednesday.\n\n"
+  },
+  {
+    "title": "Palm Oil Gains on Bets for Stronger Exports and Lower Production",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fpalm-oil-gains-on-bets-for-stronger-exports-and-lower-production",
+    "published": "Wed, 07 Jan 2026 05:01:02 CST",
+    "summary": "Palm oil rose as investors hoped for a rebound in Malaysian shipments and\nfurther production declines, although swelling stockpiles in the world’s\nsecond-largest grower capped gains.\n\n"
+  },
+  {
+    "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
+    "published": "Wed, 07 Jan 2026 05:00:14 CST",
+    "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
+  },
+  {
+    "title": "South Africa’s Equity Market Value Rises to Highest Since 2019",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsouth-africa-s-equity-market-value-rises-to-highest-since-2019",
+    "published": "Wed, 07 Jan 2026 05:00:00 CST",
+    "summary": "Rand strength and soaring metal prices have bolstered the capitalization of\nSouth Africa’s benchmark equity index to the highest since 2019.\n\n"
+  },
+  {
+    "title": "China Shoulders Its Favorite Trade War Weapon in Feud With Japan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-shoulders-its-favorite-trade-war-weapon-in-feud-with-japan",
+    "published": "Wed, 07 Jan 2026 04:57:42 CST",
+    "summary": "China’s warning to Japan that it could choke off supplies of rare earths, its\nfavorite weapon in trade conflicts, targets a persistent vulnerability among\nJapanese manufacturers after more than a decade of Tokyo trying to reduce\nreliance on its rival.\n\n"
+  },
+  {
+    "title": "Trump Says Modi Unhappy Over Tariffs as India Cuts Russian Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftrump-says-modi-unhappy-over-tariffs-cuts-russian-oil-imports",
+    "published": "Wed, 07 Jan 2026 04:51:53 CST",
+    "summary": "US President Donald Trump said Indian Prime Minister Narendra Modi was unhappy\nwith him due to Washington’s high tariffs on the South Asian nation, the\nlatest sign of continued strain between the two countries.\n\n"
+  },
+  {
     "title": "China Targets Online Commerce Battles in Latest Regulatory Salvo",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-targets-online-commerce-battles-in-latest-regulatory-salvo",
     "published": "Wed, 07 Jan 2026 04:36:26 CST",
@@ -96,12 +150,6 @@
     "summary": "Nickel retreated from the highest level in 19 months, as a strong rally that’s\nlifted base metals took a breather.\n\n"
   },
   {
-    "title": "Once Taboo, IPOs for Brewers Are Back on Thai Bourse’s Agenda",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fonce-taboo-ipos-for-brewers-are-back-on-thai-bourse-s-agenda",
-    "published": "Wed, 07 Jan 2026 01:44:41 CST",
-    "summary": "Thailand’s stock exchange may open the door to alcohol beverage listings, long\na taboo topic in the predominantly Buddhist country, as it seeks to jump-start\nshare sales in its embattled equity market, according to its chairman.\n\n"
-  },
-  {
     "title": "Congress has four weeks to dodge another shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
     "published": "Wed, 07 Jan 2026 01:38:37 CST",
@@ -114,40 +162,10 @@
     "summary": "Some companies are giving workers back more time as artificial intelligence\ntakes over more tasks.\n\n"
   },
   {
-    "title": "Trump to Meet Oil Leaders in Bid for Venezuela Revival",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-to-meet-oil-leaders-in-bid-for-venezuela-revival-video",
-    "published": "Wed, 07 Jan 2026 01:05:52 CST",
-    "summary": "US President Donald Trump is set to meet with energy executives at the White\nHouse to enlist Western companies in rebuilding Venezuela’s oil industry.\nBloomberg's Tyler Kendall reports. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Philippine Peso Drops to Fresh Record Low as Central Bank Says February Rate Cut on Table",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fusd-php-philippine-peso-drops-to-fresh-record-low-on-rate-cut-prospect",
     "published": "Wed, 07 Jan 2026 01:04:27 CST",
     "summary": "The Philippine peso declined to a new record low after the central bank\nsignaled an interest-rate cut and as traders assessed its tolerance for a\nweaker currency.\n\n"
-  },
-  {
-    "title": "Australia’s Core Inflation Eases, Boosting RBA Case to Hold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Faustralia-core-inflation-slows-in-november-boosts-rba-hold-case",
-    "published": "Wed, 07 Jan 2026 00:34:24 CST",
-    "summary": "Australia’s core inflation slowed in November, supporting the case for the\nReserve Bank to keep interest rates unchanged for now as it assesses the\nimpact of earlier policy easing.\n\n"
-  },
-  {
-    "title": "Trump’s New World Order Introduces New, Fatter Tail Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-s-new-world-order-introduces-new-tail-risks-video",
-    "published": "Wed, 07 Jan 2026 00:19:20 CST",
-    "summary": "Global markets are largely taking President Trump's raid and capture of\nVenezuela’s Nicolas Maduro in stride -- in the first full trading day after\nthe weekend's events, stocks gained, along with traditional havens like gold\nand treasuries. As the Trump administration keeps showing that the rules of\ndiplomacy are changing, traders and analysts are catching up to a regime-shift\nsignal for global markets, one that makes geopolitical tail risks fatter going\nforward. Peter Tchir, Head of Macro Strategy at Academy Securities, joins\nBloomberg Businessweek Daily to discuss. He speaks with Carol Massar and Tim\nStenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan’s Corporate Debt Sales Set for Another Banner Year in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjapan-s-corporate-debt-sales-set-for-another-banner-year-in-2026",
-    "published": "Wed, 07 Jan 2026 00:11:31 CST",
-    "summary": "Bankers expect another blockbuster year for sales of yen-denominated corporate\ndebt from Japanese companies following the record tally of bonds issued in\n2025.\n\n"
-  },
-  {
-    "title": "With Maduro Out, Wall Street Chases After Venezuela’s Riches",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-07%2Fwall-street-eyes-venezuela-investments-oil-assets-after-maduro-ouster",
-    "published": "Wed, 07 Jan 2026 00:08:16 CST",
-    "summary": "For years, the Latin American country was all but off-limits. Now, traders and\ntycoons are pouncing.\n\n"
   },
   {
     "title": "Trump Says Venezuela to Send Oil Worth Up to $2.8 Billion to US",
@@ -174,12 +192,6 @@
     "summary": "Gold declined, as traders looked beyond heightened geopolitical tensions to US\neconomic data releases due this week.\n\n"
   },
   {
-    "title": "Samsung Bulls Bet Record Earnings Will Extend $350 Billion Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsamsung-bulls-bet-record-earnings-can-sustain-350-billion-rally",
-    "published": "Tue, 06 Jan 2026 23:30:00 CST",
-    "summary": "A stock rally that has added $350 billion in market value for Samsung\nElectronics Co. since the start of last year may have more room to run as\nbullish analysts and investors eye record profits.\n\n"
-  },
-  {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Ftravel%2Fhilton-hampton-inn-dhs.html",
     "published": "Tue, 06 Jan 2026 23:11:30 CST",
@@ -198,10 +210,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Record Stock Rally Stalls in Asia, Oil Declines: Markets Wrap",
+    "title": "Record-Breaking Stock Rally Loses Steam, Oil Falls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "The record-breaking global stock rally stalled in Asia as signs of overheating\nand rising tensions between Japan and China hurt sentiment.\n\n"
+    "summary": "The record-breaking global stock rally lost momentum in Asia after a sharp\nrun-up left markets showing signs of overheating, while the worsening China-\nJapan feud further weighed on sentiment.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -340,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
     "published": "Tue, 06 Jan 2026 10:00:00 CST",
     "summary": "As the buildout of AI infrastructure alarms communities, it is fast emerging\nas a potent electoral issue across the political divide.\n\n"
-  },
-  {
-    "title": "Taiwan Lifers Cut FX Protection, Fueling Slump in Hedging Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftaiwan-lifers-cut-fx-protection-fueling-slump-in-hedging-costs",
-    "published": "Tue, 06 Jan 2026 09:28:05 CST",
-    "summary": "The cost for Taiwanese investors to hedge against a weaker greenback slumped\nto the lowest since 2016 as local life insurers pared such wagers following an\noverhaul of accounting rules.\n\n"
   },
   {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
@@ -772,12 +778,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F01%2Ftravel%2Fbedbugs-hotel-france.html",
     "published": "Thu, 01 Jan 2026 10:01:42 CST",
     "summary": "A country resort near Paris refused to cover $800 worth of medical and\ncleaning bills for a couple who woke up covered in bites. They’d like their\nstay comped, too.\n\n"
-  },
-  {
-    "title": "Inside China’s Six-Decade Campaign to Dominate Rare Earths",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F31%2Fbusiness%2Fchina-rare-earths-history.html",
-    "published": "Wed, 31 Dec 2025 22:11:24 CST",
-    "summary": "From Deng Xiaoping to Xi Jinping, generations of Communist Party bosses and\nmilitary leaders invested in a strategic but heavily polluting industry.\n\n"
   },
   {
     "title": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
