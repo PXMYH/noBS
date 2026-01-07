@@ -6,52 +6,52 @@ Generated from **223** unique articles (deduplicated from 223 total) across **1*
 
 ## 🌍 World & Politics
 
-The Trump administration is intensifying its focus on Venezuela, seizing two oil tankers—including a Russian-flagged vessel—and asserting control over the country’s oil sales after the dramatic capture of Nicolás Maduro. The U.S. plans to lift some sanctions to facilitate Venezuela’s oil exports, a move that has disrupted global markets, causing Canadian crude prices to tumble and raising questions about China’s billions in loans to Caracas. Meanwhile, Mexico vows to continue oil shipments to Cuba as humanitarian aid, defying U.S. pressure. The geopolitical fallout extends beyond Latin America, with China debating lessons for Taiwan and threatening to cancel UK trade talks over a minister’s visit to Taipei. Domestically, Trump is cracking down on defense contractors over executive pay and stock buybacks, while the dissolution of the Corporation for Public Broadcasting marks a shift in media funding under his administration.
+The Trump administration is making bold moves to reshape Venezuela’s oil industry, announcing plans to seize and sell millions of barrels of Venezuelan crude while easing some sanctions to facilitate ongoing sales. The U.S. has already intercepted two tankers, including a Russian-flagged vessel, as part of an intensifying blockade, signaling a major shift in energy geopolitics. Meanwhile, Mexico pledges to continue oil shipments to Cuba as humanitarian aid, defying U.S. pressure. Domestically, Trump is pushing Congress to curb Wall Street’s purchase of single-family homes and cracking down on defense contractors over executive pay, even as he seeks a record $1.5 trillion military budget. The fallout from Venezuela’s leadership change is rippling globally, with China reassessing its oil deals and debating lessons for Taiwan, while airlines cancel flights amid U.S. airspace restrictions over the Caribbean. The seizure of Nicolás Maduro has sparked debates about interventionism, even among Trump’s usual allies, and left investors scrambling to adapt to the new landscape.
 
 **Top Articles:**
+- [Citgo Mulls Buying Venezuela Oil Again Amid Pending Elliott Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcitgo-mulls-buying-venezuela-oil-again-amid-pending-elliott-deal)
+- [Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html)
 - [U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html)
 - [Trump says he plans crackdown on defense firms over executive pay and stock buybacks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F07%2Ftrump-defense-companies-shareholder-payouts)
 - [U.S. seizes two tankers as Venezuelan oil blockade intensifies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2026%2F01%2F07%2Fus-intercept-oil-tanker-russia-venezuela%2F)
-- [‘I voted so hard for this’: How the new Pentagon press corps covered Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fpentagon-press-hegseth-venezuela%2F)
-- [Mexico’s Oil Shipments to Cuba Will Continue After Maduro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmexico-s-oil-shipments-to-cuba-will-continue-after-maduro-s-fall)
 
-**Sources**: archive.ph (19 articles)
+**Sources**: archive.ph (21 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are grappling with geopolitical and economic shifts as the U.S. tightens control over Venezuela’s oil industry following the seizure of President Nicolás Maduro. The move has sparked volatility in energy markets, with crude prices declining amid expectations of increased Venezuelan supply, while Venezuela’s bonds surge on hopes of debt restructuring. Meanwhile, Treasury yields fall as weak U.S. employment data fuels bets on Federal Reserve rate cuts, though Fed officials like Minneapolis Fed President Neel Kashkari signal caution on further easing. Corporate America faces mixed fortunes: Blackstone and housing stocks tumble after President Trump’s proposal to ban institutional investors from buying single-family homes, while GameStop grants CEO Ryan Cohen performance-based options tied to a $100 billion valuation target. Elsewhere, Japan’s bond market braces for a supply shock, and Canada’s bank economists push for tax reforms to boost competitiveness. The Fed’s independence is under scrutiny as political pressures mount, while the U.S. secures an exemption from a global corporate tax deal, drawing criticism. In other news, the Corporation for Public Broadcasting dissolves after federal funding cuts, and SpaceX’s anticipated IPO looms as a potential blockbuster event for 2026.
+Global markets face headwinds as 2026 momentum fades, with Asian equities poised to open lower amid mixed U.S. economic data and geopolitical tensions. The Federal Reserve's independence is under scrutiny as President Trump pushes policies like banning institutional investors from single-family home purchases, rattling housing stocks and sparking debate over central bank autonomy. Meanwhile, Venezuela dominates energy and bond markets after U.S. forces seized control of its oil exports, prompting a surge in Venezuelan bond trading and volatility in crude prices. Corporate America sees shifts as Warren Buffett exits Berkshire Hathaway, GameStop ties CEO pay to a $100 billion valuation, and SpaceX prepares for a potential record-breaking IPO. Commodities remain volatile, with silver and platinum plunging amid U.S. tariff risks and China's export restrictions, while Japan's bond market braces for a supply shock.
 
 **Top Articles:**
+- [Pittsburgh Post-Gazette Announces It Will Cease Operations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html)
+- [Asian Stocks Set to Fall as 2026 Momentum Fades: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates)
+- [Exxon Says Oil Slump Cut $1 Billion From Fourth-Quarter Results](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fexxon-says-oil-slump-cut-1-billion-from-fourth-quarter-results)
 - [Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html)
 - [World’s Worst Bond Market Faces Another Big Supply Shock](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-worst-bond-market-faces-another-big-supply-shock)
-- [Trump's Housing 'Trial Balloon' Will Be Short-Lived: Meredith Whitney](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-housing-trial-balloon-to-be-short-lived-whitney-video)
-- [Pittsburgh Post-Gazette Announces It Will Cease Operations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html)
-- [US Blue-Chip Bond Sales Hit $88 Billion, Busiest Week Since 2020](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-blue-chip-bond-sales-hit-88-billion-busiest-week-since-2020)
 
-**Sources**: archive.ph (79 articles)
+**Sources**: archive.ph (77 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments this week. In finance, JPMorgan Chase secures a deal to take over the Apple credit card from Goldman Sachs, signaling a shift in banking partnerships, while the bank also drops controversial proxy advisors in favor of AI-driven analysis for shareholder votes. Meanwhile, Warner Bros. Discovery rejects Paramount’s $108 billion hostile takeover bid, doubling down on its Netflix partnership as the superior strategic move. In aviation, Alaska Airlines makes its largest-ever order of 110 Boeing jets, including 737 Max 10s and 787 Dreamliners, as it expands post-Hawaiian Airlines acquisition. On the regulatory front, Germany investigates another power grid attack, raising concerns about infrastructure security, while the EU considers pausing carbon levies on fertilizers if market disruptions arise. Emerging trends include AI’s role in enabling four-day workweeks and the growing backlash against data center expansions, which is becoming a political flashpoint.
+Tech and business headlines this week are dominated by major corporate moves and regulatory shifts. Google and Character.AI settle a lawsuit tied to a teenager's death linked to an AI chatbot, highlighting ongoing concerns about AI's societal impact. In finance, JPMorgan Chase secures a deal to take over Apple's credit card from Goldman Sachs, while Jamie Dimon's record $770 million earnings underscore Wall Street's resurgence under deregulation. Meanwhile, Warner Bros. Discovery rejects Paramount's $108 billion bid, doubling down on its Netflix partnership, and Alaska Airlines makes its largest-ever plane order with Boeing, signaling aggressive expansion. AI continues to reshape workplaces, with companies adopting four-day workweeks powered by automation, while geopolitical tensions flare over China's potential rare earth restrictions and Trump's housing investor ban proposal.
 
 **Top Articles:**
+- [Google and Character.AI to Settle Lawsuit Over Teenager’s Death](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Ftechnology%2Fgoogle-characterai-teenager-lawsuit.html)
 - [JPMorgan Chase reaches deal to become Apple credit card issuer, source says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html)
+- [Alaska Airlines to buy more than 100 Boeing jets in carrier's biggest order ever](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html)
 - [Brazil’s Audit Court Backs Off Threat to Undo Master Liquidation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbrazil-s-audit-court-backs-off-threat-to-undo-master-liquidation)
 - [Trump says he’ll ban large investors from buying homes, with few details](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F)
-- [BNP Paribas Loses Bid to Throw Out $21 Million Sudan Verdict](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict)
-- [China’s Threat to Block Rare Earths Has Put Japan on High Alert](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-japan-rare-earths.html)
 
-**Sources**: archive.ph (87 articles)
+**Sources**: archive.ph (86 articles)
 
 ---
 
 ## ⚽ Sports
 
-Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options, challenging traditional subscription models. The success of Tubi underscores broader trends in the industry, where cost-conscious viewers increasingly favor accessible content over premium subscriptions. Meanwhile, the streaming wars continue to intensify, with platforms vying for dominance through diverse content strategies and pricing models.
+Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This rise highlights the growing appeal of free, ad-based streaming options amid economic pressures and evolving viewer habits. The success of Tubi underscores a broader trend in the industry, where cost-conscious audiences increasingly favor accessible content over subscription-based models. As traditional media giants adapt, Tubi's performance signals a potential reshaping of the streaming market in 2026.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -62,17 +62,17 @@ Fox's free streaming service Tubi is making waves in the competitive streaming l
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, political scrutiny, and cultural trends. In business, falling shipping rates are boosting U.S. crude exports, while Henkel's takeover bid for Olaplex signals potential consolidation in the beauty industry. Meanwhile, the Trump administration intensifies investigations into Democratic-led states like Minnesota, amid broader debates over affordability and immigration policy. On the cultural front, Michael Wolff and his wife Victoria document their lifestyle in a new book, blending media influence with personal branding. Health and finance also take center stage, with Novo Nordisk launching a new GLP-1 obesity pill and economists critiquing the Supreme Court's growing favoritism toward the wealthy. Housing affordability remains a pressing issue, with down payments still posing barriers despite slight improvements in home prices.
+This week's news highlights significant shifts in health, business, and politics. The FDA and HHS unveil new nutrition guidelines emphasizing protein and reducing processed foods, coinciding with a flu surge and the launch of Novo Nordisk's affordable GLP-1 obesity pill. In corporate moves, Henkel's takeover bid for Olaplex and Hisamitsu Pharmaceutical's privatization signal consolidation in global markets, while Ford reports its strongest U.S. sales since 2019. Politically, the Trump administration faces scrutiny over immigration policies and affordability measures, with lawsuits challenging H-1B visa fees and Democrats criticizing his handling of economic concerns. Meanwhile, housing affordability remains a pressing issue, with down payments still a barrier despite slight price drops. Cultural trends include the rising costs of youth sports and GQ editor Will Welch's departure to collaborate with Pharrell at Louis Vuitton.
 
 **Top Articles:**
+- [FDA Commissioner on New Nutrition Guidelines, Flu Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ffda-commmissioner-on-new-nutrition-guidelines-flu-surge-video)
+- [Buyout Wave Seen Among Japan Drugmakers After Hisamitsu Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbuyout-wave-seen-among-japan-drugmakers-after-hisamitsu-deal)
+- [Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html)
 - [How The Times Is Drawing on Over a Century of Reporting in Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html)
 - [Cheaper Shipping Rates Boost Key US Physical Crude Grades](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcheaper-shipping-rates-boost-key-us-physical-crude-grades)
-- [Olaplex Said to Attract Takeover Offer From Germany’s Henkel](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Folaplex-is-said-to-attract-takeover-offer-from-germany-s-henkel)
-- [Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html)
-- [RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Frfk-jr-nutrition-guidelines-protein-processed-food.html)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (38 articles)
 
 ---
 
-*Digest generated on January 07, 2026 at 09:43 PM *
+*Digest generated on January 07, 2026 at 10:46 PM *

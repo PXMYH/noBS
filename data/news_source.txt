@@ -1,21 +1,81 @@
 [
   {
-    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
-    "published": "Wed, 07 Jan 2026 21:39:40 CST",
-    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
+    "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Ftechnology%2Fgoogle-characterai-teenager-lawsuit.html",
+    "published": "Wed, 07 Jan 2026 22:43:05 CST",
+    "summary": "The settlement came in the case of a 14-year-old in Florida who had killed\nhimself after developing a relationship with an A.I. chatbot.\n\n"
+  },
+  {
+    "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
+    "published": "Wed, 07 Jan 2026 22:33:05 CST",
+    "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
+  },
+  {
+    "title": "FDA Commissioner on New Nutrition Guidelines, Flu Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ffda-commmissioner-on-new-nutrition-guidelines-flu-surge-video",
+    "published": "Wed, 07 Jan 2026 22:22:08 CST",
+    "summary": "FDA Commissioner Dr. Marty Makary discusses the new US dietary guidelines that\ncall for more protein and less processed food. Speaking on \"Bloomberg The\nClose,\" Dr. Makary also comments on the recent surge in flu cases. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Citgo Mulls Buying Venezuela Oil Again Amid Pending Elliott Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcitgo-mulls-buying-venezuela-oil-again-amid-pending-elliott-deal",
+    "published": "Wed, 07 Jan 2026 22:12:20 CST",
+    "summary": "Citgo Petroleum Corp., the US refiner indirectly owned by Venezuela, may\nemerge as one of the biggest beneficiaries of President Donald Trump’s plan to\nbring millions of barrels of the country’s oil to the US.\n\n"
+  },
+  {
+    "title": "Asian Stocks Set to Fall as 2026 Momentum Fades: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
+    "published": "Wed, 07 Jan 2026 22:11:15 CST",
+    "summary": "Asian equities look set to open lower Thursday after global shares and\nTreasury yields fell as traders digested mixed US economic data and a quickly\nshifting geopolitical backdrop.\n\n"
   },
   {
     "title": "JPMorgan Chase reaches deal to become Apple credit card issuer, source says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
-    "published": "Wed, 07 Jan 2026 21:38:31 CST",
+    "published": "Wed, 07 Jan 2026 22:08:04 CST",
     "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, according to a source.\n\n"
+  },
+  {
+    "title": "Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html",
+    "published": "Wed, 07 Jan 2026 22:04:46 CST",
+    "summary": "The president said he wanted Congress to stop big investors from buying the\nhouses, which has driven up rents and set obstacles for first-time buyers in\nsome markets.\n\n"
+  },
+  {
+    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
+    "published": "Wed, 07 Jan 2026 22:00:42 CST",
+    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
+  },
+  {
+    "title": "Buyout Wave Seen Among Japan Drugmakers After Hisamitsu Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbuyout-wave-seen-among-japan-drugmakers-after-hisamitsu-deal",
+    "published": "Wed, 07 Jan 2026 22:00:00 CST",
+    "summary": "Hisamitsu Pharmaceutical Co.’s ¥457 billion ($2.9 billion) plan to go private\nis being seen as a prime example of a flight from public markets among Japan’s\ndrugmakers, with analysts expecting more to follow.\n\n"
+  },
+  {
+    "title": "Exxon Says Oil Slump Cut $1 Billion From Fourth-Quarter Results",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fexxon-says-oil-slump-cut-1-billion-from-fourth-quarter-results",
+    "published": "Wed, 07 Jan 2026 21:56:16 CST",
+    "summary": "Exxon Mobil Corp. said lower oil prices reduced fourth-quarter results by $800\nmillion to $1.2 billion, one of the first signs that Big Oil is facing a tough\nearnings season.\n\n"
+  },
+  {
+    "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html",
+    "published": "Wed, 07 Jan 2026 21:52:12 CST",
+    "summary": "The White House is intensifying and broadening its probes into fraud in states\nled by prominent Democrats.\n\n"
   },
   {
     "title": "Trump says he plans crackdown on defense firms over executive pay and stock buybacks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F07%2Ftrump-defense-companies-shareholder-payouts",
-    "published": "Wed, 07 Jan 2026 21:06:51 CST",
-    "summary": "President accuses US defense companies of delivery failures and attacks\n‘exorbitant’ salaries to top executives\n\nDonald Trump has claimed he plans to crack down on executive compensation and\nshareholder payouts at military defense contractors, as his administration\nramps up spending on the armed forces.\n\nIn a post on social media, the US president said defense giants had been\nfailing to swiftly deliver “vital” equipment to the US military and its allies\nacross the world.\n\nContinue reading...\n\n"
+    "published": "Wed, 07 Jan 2026 21:51:05 CST",
+    "summary": "President says he wants to raise military budget to $1.5tn and accuses US\ndefense companies of delivery failures\n\nDonald Trump has claimed he plans to crack down on executive compensation and\nshareholder payouts at military defense contractors, as his administration\nlooks to dramatically**** ramp up spending on the armed forces.\n\nIn a series of**** posts on social media, the US president said he wants to\nincrease the military budget to $1.5tn – and complained that**** defense\ngiants had been failing to swiftly deliver “vital” equipment to the US and its\nallies across the world.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Alaska Airlines to buy more than 100 Boeing jets in carrier's biggest order ever",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html",
+    "published": "Wed, 07 Jan 2026 21:47:48 CST",
+    "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
   },
   {
     "title": "Brazil’s Audit Court Backs Off Threat to Undo Master Liquidation",
@@ -52,12 +112,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2026%2F01%2F07%2Fus-intercept-oil-tanker-russia-venezuela%2F",
     "published": "Wed, 07 Jan 2026 20:11:31 CST",
     "summary": "A Russian-flagged vessel was boarded in the North Atlantic. Another ship was\napprehended near the Caribbean.\n\n"
-  },
-  {
-    "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
-    "published": "Wed, 07 Jan 2026 20:10:32 CST",
-    "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
   },
   {
     "title": "US Blue-Chip Bond Sales Hit $88 Billion, Busiest Week Since 2020",
@@ -126,12 +180,6 @@
     "summary": "Upstart airline Avelo said it would stop flying deportation flights for ICE,\nciting unpredictable revenue and added costs.\n\n"
   },
   {
-    "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html",
-    "published": "Wed, 07 Jan 2026 19:10:53 CST",
-    "summary": "The White House is intensifying and broadening its probes into fraud in states\nled by prominent Democrats.\n\n"
-  },
-  {
     "title": "Zadeh Kicks Founder Sentenced to 70 Months for Sneaker Fraud",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzadeh-kicks-founder-sentenced-to-70-months-for-sneaker-fraud",
     "published": "Wed, 07 Jan 2026 19:06:02 CST",
@@ -144,40 +192,10 @@
     "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Stocks lose steam as fresh ADP data kicks off a\ncrucial week of economic reports -- Washington tightens the screws on\nVenezuelan oil amid global tension from Greenland to China and Russia.\nFinancials sit near record highs; we’ll get a read from Jefferies, Wall\nStreet’s earnings bellwether. And Medline’s blockbuster IPO -- the largest\nprivate-equity backed debut ever -- jumped over 40%. Carlyle Co-Head of\nAmericas Corporate Private Equity, Steve Wise, joined Bloomberg Open Interest\nwith his view of the IPO pipeline. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Bank Economists Urge Tax Overhaul to Jumpstart Canada Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbank-economists-urge-tax-overhaul-to-jumpstart-canada-economy",
-    "published": "Wed, 07 Jan 2026 18:45:36 CST",
-    "summary": "Economists at Canada’s biggest banks are calling on Prime Minister Mark Carney\nto reform taxes, arguing his latest budget investments won’t meaningfully move\nthe needle on competitiveness.\n\n"
-  },
-  {
-    "title": "Blackstone Shares Fall on Trump Housing Comments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-targets-institutional-owner-of-single-family-homes-video",
-    "published": "Wed, 07 Jan 2026 18:42:51 CST",
-    "summary": "President Trump said he would move to ban institutional investors from buying\nsingle-family homes as part of a push to address housing affordability.\nScarlet Fu reports on \"Bloomberg Markets.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "German Authorities Investigate Another Power Grid Attack",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgerman-authorities-investigate-another-power-grid-attack",
-    "published": "Wed, 07 Jan 2026 18:35:50 CST",
-    "summary": "German prosecutors are investigating a failed attack on a substation near\nDüsseldorf, in the west of the country, days after a similar incident\ntriggered a power blackout in Berlin.\n\n"
-  },
-  {
     "title": "Blackstone, Housing Stocks Slip as Trump Targets Big Investors",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblackstone-homebuilder-shares-plunge-on-trump-housing-comments",
     "published": "Wed, 07 Jan 2026 18:34:27 CST",
     "summary": "Shares of Blackstone Inc. and other housing-related companies tumbled\nWednesday after President Donald Trump said he would move to ban institutional\ninvestors from buying single-family homes.\n\n"
-  },
-  {
-    "title": "Why Buy Greenland When You Can Rent It?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fopinion-why-buy-greenland-when-you-can-rent-it-video",
-    "published": "Wed, 07 Jan 2026 18:32:43 CST",
-    "summary": "Marco Rubio reportedly said President Trump is considering buying Greenland.\nBloomberg Opinion columnist Liam Denning explains an easier option. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "De Beers Bets on India’s Rich to Boost Natural Diamond Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fde-beers-bets-on-india-s-rich-to-boost-natural-diamond-demand",
-    "published": "Wed, 07 Jan 2026 18:30:00 CST",
-    "summary": "De Beers is betting on India’s surging affluent class to fuel growth in\nnatural diamond demand, even as the global market remains challenging and a\npending US-India trade deal disrupts supply chains.\n\n"
   },
   {
     "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
@@ -204,34 +222,16 @@
     "summary": "Mexico will continue supplying Cuba with crude oil after the US seized\nVenezuelan leader Nicolas Maduro last weekend, President Claudia Sheinbaum\nannounced, describing Mexican shipments in part as humanitarian aid.\n\n"
   },
   {
-    "title": "US Begins Marketing Venezuelan Crude to Global Buyers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-begins-marketing-venezuelan-crude-to-global-buyers",
-    "published": "Wed, 07 Jan 2026 17:23:42 CST",
-    "summary": "The US has begun marketing Venezuelan crude globally, a move that could make\nit one of the most powerful oil traders in the world.\n\n"
-  },
-  {
     "title": "Chicago Seeks New CFO, Warns of Layoffs After Budget Battle",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchicago-seeks-new-cfo-warns-of-layoffs-after-contentious-budget",
     "published": "Wed, 07 Jan 2026 17:21:36 CST",
     "summary": "Chicago Mayor Brandon Johnson said he is confident the city will find a new\nfinance chief and warned of possible layoffs by mid-year after a budget battle\nfueled concerns about revenue shortfalls.\n\n"
   },
   {
-    "title": "Alaska Airlines to buy more than 100 Boeing jets in carrier's biggest order ever",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html",
-    "published": "Wed, 07 Jan 2026 17:18:59 CST",
-    "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
-  },
-  {
     "title": "Blue Owl BDC Allows 17% Redemptions as Investors Storm Exit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblue-owl-bdc-allows-for-17-redemptions-as-investors-storm-exit",
     "published": "Wed, 07 Jan 2026 17:17:24 CST",
     "summary": "Blue Owl Capital Inc. is dramatically increasing the amount of money investors\ncan pull from one of its private credit funds after being hit with a deluge of\nredemption requests last month.\n\n"
-  },
-  {
-    "title": "KKR-Backed Catalio Exceeds Goal for Private Credit Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fkkr-backed-catalio-exceeds-goal-for-life-sciences-private-fund",
-    "published": "Wed, 07 Jan 2026 17:07:48 CST",
-    "summary": "Catalio Capital Management, backed by KKR & Co., raised more than $325 million\nin commitments for a private credit fund focused on life sciences, almost\nfourfold how much it pulled in for its previous iteration of the vehicle.\n\n"
   },
   {
     "title": "First Brands Founder Says Jefferies Is Withholding Documents",
@@ -300,10 +300,22 @@
     "summary": "US to remove some sanctions to allow it to keep selling country’s supplies\nafter laying claim to blockaded crude\n\n  * US seizes Russian-flagged oil tanker after two-week pursuit\n\n  * Explainer: why so much interest in a rusty tanker in the Atlantic?\n\nThe US plans to control Venezuela’s oil sales “indefinitely” after laying\nclaim to 50m barrels of blockaded crude and seizing a Russian oil tanker\nlinked to the South American country.\n\nThe White House already plans to sell up to $3bn (£2.2bn) worth of Venezuelan\ncrude stranded in tankers and storage facilities into the oversupplied global\nmarket after the American military’s capture of Nicolás Maduro.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Codelco Achieves Copper Growth Goal &mdash; by Slimmest of Margins",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcodelco-delivers-on-copper-growth-goal-by-slimmest-of-margins",
+    "published": "Wed, 07 Jan 2026 14:58:07 CST",
+    "summary": "Codelco Chairman Máximo Pacheco is meeting his goal of raising production at\nthe state-owned copper giant -- though only just.\n\n"
+  },
+  {
     "title": "American Airlines keeps frequent flyer status requirements the same, following rivals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html",
     "published": "Wed, 07 Jan 2026 14:45:01 CST",
     "summary": "American Airlines is keeping frequent flyer status requirements the same for a\nthird consecutive year.\n\n"
+  },
+  {
+    "title": "Stocks Falter Near Record Highs on Trump Comments, Economic Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-stocks-hover-near-record-highs-as-traders-await-economic-data",
+    "published": "Wed, 07 Jan 2026 14:36:06 CST",
+    "summary": "The record-breaking advance in US equities paused on Wednesday as mixed\neconomic reports and a flurry of social media posts from President Donald\nTrump tested risk appetite.\n\n"
   },
   {
     "title": "Why Trump’s Greenland Strategy Has the World on Edge",
@@ -738,12 +750,6 @@
     "summary": "After President Trump’s surprise ouster of Venezuela’s authoritarian leader, a\nteam of New York Times editors set to work redoing the front page.\n\n"
   },
   {
-    "title": "Behind on Student Loans? Here’s What to Do Now for the New Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fstudent-loan-debt-save-plan.html",
-    "published": "Sun, 04 Jan 2026 19:09:46 CST",
-    "summary": "Millions of borrowers who are behind can expect the government to tighten\nrepayment options this year. Experts say take action now to get help.\n\n"
-  },
-  {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F04%2Fbusiness-as-usual-boss-bombed-ukrainian-vodka-maker-intent-on-expanding-exports",
     "published": "Sun, 04 Jan 2026 05:00:03 CST",
@@ -784,12 +790,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fretirement-savings-2026.html",
     "published": "Sat, 03 Jan 2026 10:00:46 CST",
     "summary": "As the new year begins, savings have hit unprecedented levels, but rising\nhealth care costs and growing poverty make retirement unaffordable for many.\n\n"
-  },
-  {
-    "title": "Wall Street Sees Another Banner Year for Markets. Could Anything Stop It?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fdealbook%2Fwall-street-market-prediction.html",
-    "published": "Sat, 03 Jan 2026 02:16:10 CST",
-    "summary": "Analysts have forecast more stellar gains for the S&P 500. But concerns about\ninflation, the dollar and sky-high valuations could make for a choppy run.\n\n"
   },
   {
     "title": "Sprinkles Cupcakes, the Bakery That Sold From Vending Machines, Closes Suddenly",
