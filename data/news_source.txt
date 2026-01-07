@@ -1,5 +1,17 @@
 [
   {
+    "title": "China Targets Online Commerce Battles in Latest Regulatory Salvo",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-targets-online-commerce-battles-in-latest-regulatory-salvo",
+    "published": "Wed, 07 Jan 2026 04:36:26 CST",
+    "summary": "China unveiled broad regulations Wednesday that ban major platforms such as\nAlibaba Group Holding Ltd. from coercing online merchants into promotions, one\nof a raft of new measures intended to cool rapidly intensifying e-commerce\ncompetition.\n\n"
+  },
+  {
+    "title": "China-Japan Spat Weighs on Asian stocks | The Asia Trade 1/7/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fthe-asia-trade-1-7-2026-video",
+    "published": "Wed, 07 Jan 2026 04:16:01 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Japan’s Bond Widows Are Finally Having Their Day",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-07%2Fjapan-s-bond-widows-are-finally-having-their-day",
     "published": "Wed, 07 Jan 2026 04:00:17 CST",
@@ -144,12 +156,6 @@
     "summary": "President Donald Trump said Venezuela would relinquish as much as 50 million\nbarrels of oil to the US, worth roughly $2.8 billion at the current market\nprice, announcing the cargoes would be sold with proceeds benefiting both\ncountries.\n\n"
   },
   {
-    "title": "Fmr. Venezuela Ambassador: 'Hope, Not Faith' in Revival",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ffmr-venezuela-ambassador-hope-not-faith-in-revival-video",
-    "published": "Tue, 06 Jan 2026 23:39:17 CST",
-    "summary": "Patrick Duddy, visiting senior lecturer at Duke University and former U.S.\nambassador to Venezuela, says Maduro’s capture shows that President Trump\nwasn’t bluffing about using force. He speaks with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fmedia%2Frichard-pollak-dead.html",
     "published": "Tue, 06 Jan 2026 23:33:03 CST",
@@ -162,10 +168,10 @@
     "summary": "Oil extended losses after Washington moved to exert greater control over\nVenezuela’s oil industry, with President Donald Trump saying the country would\nturn over millions of barrels of crude to the US.\n\n"
   },
   {
-    "title": "Gold Steadies as Traders Look Past Geopolitical Risk to US Data",
+    "title": "Gold Drops as Traders Look Past Geopolitical Risk to US Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
     "published": "Tue, 06 Jan 2026 23:30:41 CST",
-    "summary": "Gold steadied after three days of gains, with traders looking beyond\nheightened geopolitical tensions to US economic data due this week.\n\n"
+    "summary": "Gold declined, as traders looked beyond heightened geopolitical tensions to US\neconomic data releases due this week.\n\n"
   },
   {
     "title": "Samsung Bulls Bet Record Earnings Will Extend $350 Billion Rally",
@@ -195,7 +201,7 @@
     "title": "Record Stock Rally Stalls in Asia, Oil Declines: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "The record-breaking global stock rally stalled in Asia as Japanese equities\nslipped amid rising tensions with China.\n\n"
+    "summary": "The record-breaking global stock rally stalled in Asia as signs of overheating\nand rising tensions between Japan and China hurt sentiment.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -340,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftaiwan-lifers-cut-fx-protection-fueling-slump-in-hedging-costs",
     "published": "Tue, 06 Jan 2026 09:28:05 CST",
     "summary": "The cost for Taiwanese investors to hedge against a weaker greenback slumped\nto the lowest since 2016 as local life insurers pared such wagers following an\noverhaul of accounting rules.\n\n"
-  },
-  {
-    "title": "China Slaps Export Controls on Japan Military for Taiwan Remarks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchina-bans-exports-of-dual-use-items-to-japan-military-users",
-    "published": "Tue, 06 Jan 2026 08:09:13 CST",
-    "summary": "China imposed controls on exports to Japan with any military use, intensifying\na dispute between Asia’s top economies over remarks Japanese Prime Minister\nSanae Takaichi made last year on Taiwan.\n\n"
   },
   {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
