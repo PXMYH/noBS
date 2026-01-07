@@ -1,9 +1,87 @@
 [
   {
+    "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
+    "published": "Wed, 07 Jan 2026 23:38:29 CST",
+    "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
+  },
+  {
+    "title": "Oil Edges Higher as Traders Weigh More US Control Over Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Flatest-oil-market-news-and-analysis-for-january-8",
+    "published": "Wed, 07 Jan 2026 23:30:38 CST",
+    "summary": "Oil edged higher as traders digested more measures from the US regarding\nVenezuela, including a plan to indefinitely control future crude sales and the\nseizure of two more sanctioned tankers.\n\n"
+  },
+  {
+    "title": "Defense Stocks Slip as Trump Blocks Dividends, Buybacks | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fdefense-stocks-slip-closing-bell-video",
+    "published": "Wed, 07 Jan 2026 23:23:34 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Ftechnology%2Fgoogle-characterai-teenager-lawsuit.html",
-    "published": "Wed, 07 Jan 2026 22:43:05 CST",
+    "published": "Wed, 07 Jan 2026 23:22:13 CST",
     "summary": "The settlement came in the case of a 14-year-old in Florida who had killed\nhimself after developing a relationship with an A.I. chatbot.\n\n"
+  },
+  {
+    "title": "Southern Bancorp CEO: Average Home Prices Ticking Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsouthern-bancorp-ceo-average-home-prices-ticking-up-video",
+    "published": "Wed, 07 Jan 2026 23:12:31 CST",
+    "summary": "Darrin Williams, CEO of Southern Bancorp, says affordability, particularly\ndown payments, remains the biggest deterrent for families. He speaks with\nRomaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Homeowners Battle for Billions to Rebuild a Year After LA Fires",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fla-homeowners-battle-for-billions-to-rebuild-video",
+    "published": "Wed, 07 Jan 2026 23:04:18 CST",
+    "summary": "Many Los Angeles residents are facing a difficult reality as they recover one\nyear after the Eaton and Palisades blazes killed 31 people and charred almost\n40,000 acres. Rebuilding is possible, but only for those who can negotiate\ndeals, absorb losses or take on risk. Even then, the money often doesn’t add\nup. As the toll of the devastation comes into clearer view, disputes over who\nwill bear the cost are escalating. Bloomberg News Los Angeles Bureau Chief\nJohn Gittelsohn joins Bloomberg Businessweek Daily to discuss. He speaks with\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Amherst's Dobson: Trump's Housing Move ‘Patently Wrong'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Famherst-s-dobson-trump-s-housing-move-patently-wrong-video",
+    "published": "Wed, 07 Jan 2026 23:03:08 CST",
+    "summary": "Sean Dobson, CEO of Amherst, says banning institutional investors from the\nsingle-family housing market would not improve affordability. He tells Romaine\nBostick and Katie Greifeld on “The Close” that targeting investors is\n“patently wrong.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Stock Traders Whipsawed as Trump Sets Sights on Defense, Housing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-traders-whipsawed-as-trump-sets-sights-on-defense-housing",
+    "published": "Wed, 07 Jan 2026 23:02:03 CST",
+    "summary": "With a series of incendiary posts on his social-media platform, President\nDonald Trump shook up the stock market on Wednesday by announcing potentially\ngame-changing new policies targeting the housing and defense industries.\n\n"
+  },
+  {
+    "title": "China’s OpenAI Rival Zhipu Debuts in HK After $558 Million IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo",
+    "published": "Wed, 07 Jan 2026 23:00:00 CST",
+    "summary": "Knowledge Atlas Technology JSC Ltd. will start trading in Hong Kong on\nThursday after a $558 million initial public offering, becoming the first\nmajor Chinese generative-AI startup to list.\n\n"
+  },
+  {
+    "title": "Smith: 'Cautious, but Needful' M&A to Define 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsmith-cautious-but-needful-m-a-to-define-2026-video",
+    "published": "Wed, 07 Jan 2026 22:59:24 CST",
+    "summary": "Ted Smith, president and co-founder of Union Square Advisors, discusses M&A\nmomentum and the IPO pipeline heading into 2026 with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html",
+    "published": "Wed, 07 Jan 2026 22:57:06 CST",
+    "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
+  },
+  {
+    "title": "Whitney: Housing May Be Trump’s Shortest ‘Trial Balloon’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fwhitney-housing-may-be-trump-s-shortest-trial-balloon-video",
+    "published": "Wed, 07 Jan 2026 22:53:06 CST",
+    "summary": "Meredith Whitney, CEO of Meredith Whitney Advisory Group, says Trump’s\nproposal to ban investors from single family homes is one of several trial\nballoons from the White House. She speaks with Katie Greifeld and Romaine\nBostick on “The Close.”\n\n"
+  },
+  {
+    "title": "Trump’s Bid to Block Corporate Homebuying Blindsides Wall Street",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftrump-s-bid-to-block-corporate-homebuying-blindsides-wall-street",
+    "published": "Wed, 07 Jan 2026 22:52:48 CST",
+    "summary": "The time of the corporate landlord as America’s housing villain was supposed\nto be over.\n\n"
+  },
+  {
+    "title": "Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html",
+    "published": "Wed, 07 Jan 2026 22:49:47 CST",
+    "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
     "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
@@ -18,7 +96,7 @@
     "summary": "FDA Commissioner Dr. Marty Makary discusses the new US dietary guidelines that\ncall for more protein and less processed food. Speaking on \"Bloomberg The\nClose,\" Dr. Makary also comments on the recent surge in flu cases. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Citgo Mulls Buying Venezuela Oil Again Amid Pending Elliott Deal",
+    "title": "Citgo Considers Buying Venezuela Oil Again Amid Pending Sale",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcitgo-mulls-buying-venezuela-oil-again-amid-pending-elliott-deal",
     "published": "Wed, 07 Jan 2026 22:12:20 CST",
     "summary": "Citgo Petroleum Corp., the US refiner indirectly owned by Venezuela, may\nemerge as one of the biggest beneficiaries of President Donald Trump’s plan to\nbring millions of barrels of the country’s oil to the US.\n\n"
@@ -28,18 +106,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
     "summary": "Asian equities look set to open lower Thursday after global shares and\nTreasury yields fell as traders digested mixed US economic data and a quickly\nshifting geopolitical backdrop.\n\n"
-  },
-  {
-    "title": "JPMorgan Chase reaches deal to become Apple credit card issuer, source says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
-    "published": "Wed, 07 Jan 2026 22:08:04 CST",
-    "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, according to a source.\n\n"
-  },
-  {
-    "title": "Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html",
-    "published": "Wed, 07 Jan 2026 22:04:46 CST",
-    "summary": "The president said he wanted Congress to stop big investors from buying the\nhouses, which has driven up rents and set obstacles for first-time buyers in\nsome markets.\n\n"
   },
   {
     "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
@@ -84,16 +150,16 @@
     "summary": "The head of Brazil’s Audit Court said that only the Supreme Court can reverse\na central bank decision to liquidate troubled Banco Master SA, effectively\nbacking away from a previous threat to overturn the monetary authority’s\nruling.\n\n"
   },
   {
-    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html",
-    "published": "Wed, 07 Jan 2026 21:01:38 CST",
-    "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
-  },
-  {
     "title": "World’s Worst Bond Market Faces Another Big Supply Shock",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-worst-bond-market-faces-another-big-supply-shock",
     "published": "Wed, 07 Jan 2026 21:00:00 CST",
     "summary": "Japan’s government bond market is set for another tough year as investors\ncontend with the largest net increase in supply in well over a decade.\n\n"
+  },
+  {
+    "title": "Pittsburgh Post-Gazette to shut down and publish final edition in May",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F07%2Fpittsburgh-post-gazette-closing",
+    "published": "Wed, 07 Jan 2026 20:47:06 CST",
+    "summary": "Newspaper’s closure follows two decades of financial losses totaling over\n$350m and legal ruling favoring its union\n\nThe Pittsburgh Post-Gazette has announced it will cease operations, with its\nfinal edition scheduled for 3 May.\n\nThe decision to shutter the newspaper – with its origins dating back to 1786 –\nwas disclosed on Wednesday by Block Communications, the newspaper’s parent\ncompany based in Toledo, Ohio.\n\nContinue reading...\n\n"
   },
   {
     "title": "How The Times Is Drawing on Over a Century of Reporting in Venezuela",
@@ -114,12 +180,6 @@
     "summary": "A Russian-flagged vessel was boarded in the North Atlantic. Another ship was\napprehended near the Caribbean.\n\n"
   },
   {
-    "title": "US Blue-Chip Bond Sales Hit $88 Billion, Busiest Week Since 2020",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-blue-chip-bond-sales-hit-88-billion-busiest-week-since-2020",
-    "published": "Wed, 07 Jan 2026 20:07:12 CST",
-    "summary": "Investment-grade firms are on their biggest US borrowing spree since the\npandemic-era boom.\n\n"
-  },
-  {
     "title": "Trump says he’ll ban large investors from buying homes, with few details",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F",
     "published": "Wed, 07 Jan 2026 20:01:50 CST",
@@ -138,28 +198,10 @@
     "summary": "Tokyo is concerned at signs that Beijing may be laying the groundwork to\nrestrict access to the metals vital to manufacturing.\n\n"
   },
   {
-    "title": "Cheaper Shipping Rates Boost Key US Physical Crude Grades",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcheaper-shipping-rates-boost-key-us-physical-crude-grades",
-    "published": "Wed, 07 Jan 2026 19:45:02 CST",
-    "summary": "Falling tanker rates are improving the export outlook for US crude, and prices\nfor light sweet barrels, in particular, are getting a lift.\n\n"
-  },
-  {
-    "title": "Olaplex Said to Attract Takeover Offer From Germany’s Henkel",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Folaplex-is-said-to-attract-takeover-offer-from-germany-s-henkel",
-    "published": "Wed, 07 Jan 2026 19:26:47 CST",
-    "summary": "Henkel AG has submitted a takeover offer for Olaplex Holdings Inc, according\nto people with knowledge of the matter, after the shampoo maker lost over 90%\nof its value since its initial public offering. The stock rose more than 36%.\n\n"
-  },
-  {
     "title": "Bruce Crawford, Arts-Loving Adman Who Led the Met Opera, Dies at 96",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Farts%2Fmusic%2Fbruce-crawford-dead.html",
     "published": "Wed, 07 Jan 2026 19:22:16 CST",
     "summary": "He helped build the ad agency BBDO International into a powerhouse before\nchanneling his passion for opera into managing the Met and revitalizing\nLincoln Center.\n\n"
-  },
-  {
-    "title": "Can US Intervention Revive Venezuela Bonds After Years in Default?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fvenezuelan-bonds-why-investors-are-buying-again-despite-high-risk",
-    "published": "Wed, 07 Jan 2026 19:21:02 CST",
-    "summary": "Venezuela’s bonds are back on investors’ radar following the seizure of\nPresident Nicolas Maduro by US special forces on Jan. 3, with markets\nincreasingly pricing in the possibility of a long-delayed debt restructuring.\n\n"
   },
   {
     "title": "Trump says he will ban big investors from buying single-family homes",
@@ -178,18 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Favelo-airlines-ice-deportation-flights-job-cuts.html",
     "published": "Wed, 07 Jan 2026 19:11:10 CST",
     "summary": "Upstart airline Avelo said it would stop flying deportation flights for ICE,\nciting unpredictable revenue and added costs.\n\n"
-  },
-  {
-    "title": "Zadeh Kicks Founder Sentenced to 70 Months for Sneaker Fraud",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzadeh-kicks-founder-sentenced-to-70-months-for-sneaker-fraud",
-    "published": "Wed, 07 Jan 2026 19:06:02 CST",
-    "summary": "The founder of sneaker reseller Zadeh Kicks was sentenced to almost six years\nin prison for a fraud conspiracy that led to the infamous collapse of the\nonline platform and $80 million in losses for customers and financial\ninstitutions.\n\n"
-  },
-  {
-    "title": "Market Risk Appetite Put to the Test | Open Interest 1/7/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fopen-interest-1-7-2026-video",
-    "published": "Wed, 07 Jan 2026 19:00:21 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Stocks lose steam as fresh ADP data kicks off a\ncrucial week of economic reports -- Washington tightens the screws on\nVenezuelan oil amid global tension from Greenland to China and Russia.\nFinancials sit near record highs; we’ll get a read from Jefferies, Wall\nStreet’s earnings bellwether. And Medline’s blockbuster IPO -- the largest\nprivate-equity backed debut ever -- jumped over 40%. Carlyle Co-Head of\nAmericas Corporate Private Equity, Steve Wise, joined Bloomberg Open Interest\nwith his view of the IPO pipeline. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Blackstone, Housing Stocks Slip as Trump Targets Big Investors",
@@ -222,12 +252,6 @@
     "summary": "Mexico will continue supplying Cuba with crude oil after the US seized\nVenezuelan leader Nicolas Maduro last weekend, President Claudia Sheinbaum\nannounced, describing Mexican shipments in part as humanitarian aid.\n\n"
   },
   {
-    "title": "Chicago Seeks New CFO, Warns of Layoffs After Budget Battle",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchicago-seeks-new-cfo-warns-of-layoffs-after-contentious-budget",
-    "published": "Wed, 07 Jan 2026 17:21:36 CST",
-    "summary": "Chicago Mayor Brandon Johnson said he is confident the city will find a new\nfinance chief and warned of possible layoffs by mid-year after a budget battle\nfueled concerns about revenue shortfalls.\n\n"
-  },
-  {
     "title": "Blue Owl BDC Allows 17% Redemptions as Investors Storm Exit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblue-owl-bdc-allows-for-17-redemptions-as-investors-storm-exit",
     "published": "Wed, 07 Jan 2026 17:17:24 CST",
@@ -252,22 +276,10 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "EU May Pause Carbon Levy on Fertilizers If Market Damage Emerges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ffrance-says-eu-set-to-suspend-carbon-border-tax-on-fertilizers",
-    "published": "Wed, 07 Jan 2026 16:16:55 CST",
-    "summary": "The European Union may temporarily suspend its carbon border levies on goods\nincluding fertilizers should monitoring uncover any “unforeseen” market\nimpact, Trade Commissioner Maros Sefcovic said.\n\n"
-  },
-  {
     "title": "WBD once again rejects Paramount offer in favor of Netflix deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fwbd-rejects-paramount-offer-again-netflix-deal.html",
     "published": "Wed, 07 Jan 2026 16:12:28 CST",
     "summary": "Warner Bros. Discovery's board still sees its deal with Netflix as the\nsuperior option over Paramount's recently amended hostile offer.\n\n"
-  },
-  {
-    "title": "Treasuries Advance on Latest Signs of Weakness in US Employment",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftreasuries-rally-cut-short-by-conflicting-job-market-indicators",
-    "published": "Wed, 07 Jan 2026 15:46:14 CST",
-    "summary": "Treasuries rose Wednesday amid fresh signs of weakness in US employment that\nkept alive bets for at least two Federal Reserve interest-rate cuts this year.\n\n"
   },
   {
     "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
@@ -328,12 +340,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
     "published": "Wed, 07 Jan 2026 14:12:57 CST",
     "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
-  },
-  {
-    "title": "US Says It Will Control Venezuela Oil Exports Indefinitely",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-will-control-venezuela-oil-sales-trump-s-energy-boss-says",
-    "published": "Wed, 07 Jan 2026 14:01:45 CST",
-    "summary": "The Trump administration plans to control future sales of Venezuelan oil and\nhold the proceeds in US accounts, Energy Secretary Chris Wright said, making\nthe clearest statement yet on Washington’s strategy to bring the impoverished\nnation’s crude to market and control its most valuable resource.\n\n"
   },
   {
     "title": "Warner Bros Discovery tells investors to reject ‘inadequate’ $108bn Paramount bid",
@@ -598,12 +604,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
     "published": "Mon, 05 Jan 2026 21:02:46 CST",
     "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
-  },
-  {
-    "title": "Corporation for Public Broadcasting formally dissolves after federal funding cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F05%2Fcorporation-for-public-broadcasting-board-dissolves",
-    "published": "Mon, 05 Jan 2026 20:42:28 CST",
-    "summary": "Board of directors vote to dissolve organization after nearly 60 years in\noperation after funding cuts under Trump\n\nThe non-profit charged by Congress with allocating funds to NPR, PBS and other\nUS public radio and television stations announced it is dissolving after\nmassive federal funding cuts under Donald Trump.\n\nThe Corporation for Public Broadcasting (CPB) announced on Monday that its\nboard of directors had voted to dissolve the organization after nearly 60\nyears in operation.\n\nContinue reading...\n\n"
   },
   {
     "title": "Corporation for Public Broadcasting Votes to Shut Down",
