@@ -1,12 +1,108 @@
 [
   {
+    "title": "China’s Feud With Japan Worsens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fchina-s-feud-with-japan-worsens-video",
+    "published": "Wed, 07 Jan 2026 02:14:49 CST",
+    "summary": "Tokyo has protested China’s announcement of export controls on items shipped\nto Japan that could have military uses. Bloomberg's Minmin Low has the latest.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "TSMC’s Record Stock Rally Spurs Wall Street Rush to Hike Targets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftsmc-s-record-stock-rally-spurs-wall-street-rush-to-hike-targets",
+    "published": "Wed, 07 Jan 2026 02:00:28 CST",
+    "summary": "Research analysts are scrambling to raise price targets on Taiwan\nSemiconductor Manufacturing Co. shares, underscoring continued bullishness on\nthe chipmaking giant after its record surge.\n\n"
+  },
+  {
+    "title": "Nickel Drops From 19-Month High as Metals Rally Takes Breather",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fnickel-drops-from-19-month-high-as-metals-rally-takes-breather",
+    "published": "Wed, 07 Jan 2026 01:56:03 CST",
+    "summary": "Nickel retreated from the highest level in 19 months, as a strong rally that’s\nlifted base metals took a breather.\n\n"
+  },
+  {
+    "title": "Once Taboo, IPOs for Brewers Are Back on Thai Bourse’s Agenda",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fonce-taboo-ipos-for-brewers-are-back-on-thai-bourse-s-agenda",
+    "published": "Wed, 07 Jan 2026 01:44:41 CST",
+    "summary": "Thailand’s stock exchange may open the door to alcohol beverage listings, long\na taboo topic in the predominantly Buddhist country, as it seeks to jump-start\nshare sales in its embattled equity market, according to its chairman.\n\n"
+  },
+  {
+    "title": "Congress has four weeks to dodge another shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
+    "published": "Wed, 07 Jan 2026 01:38:37 CST",
+    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
+  },
+  {
+    "title": "These companies say AI is key to their four-day workweeks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F31%2Fai-four-day-workweek%2F",
+    "published": "Wed, 07 Jan 2026 01:06:05 CST",
+    "summary": "Some companies are giving workers back more time as artificial intelligence\ntakes over more tasks.\n\n"
+  },
+  {
+    "title": "Trump to Meet Oil Leaders in Bid for Venezuela Revival",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-to-meet-oil-leaders-in-bid-for-venezuela-revival-video",
+    "published": "Wed, 07 Jan 2026 01:05:52 CST",
+    "summary": "US President Donald Trump is set to meet with energy executives at the White\nHouse to enlist Western companies in rebuilding Venezuela’s oil industry.\nBloomberg's Tyler Kendall reports. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Philippine Peso Drops to Fresh Record Low as Central Bank Says February Rate Cut on Table",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fusd-php-philippine-peso-drops-to-fresh-record-low-on-rate-cut-prospect",
+    "published": "Wed, 07 Jan 2026 01:04:27 CST",
+    "summary": "The Philippine peso declined to a new record low after the central bank\nsignaled an interest-rate cut and as traders assessed its tolerance for a\nweaker currency.\n\n"
+  },
+  {
+    "title": "Australia’s Core Inflation Eases, Boosting RBA Case to Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Faustralia-core-inflation-slows-in-november-boosts-rba-hold-case",
+    "published": "Wed, 07 Jan 2026 00:34:24 CST",
+    "summary": "Australia’s core inflation slowed in November, supporting the case for the\nReserve Bank to keep interest rates unchanged for now as it assesses the\nimpact of earlier policy easing.\n\n"
+  },
+  {
+    "title": "Trump’s New World Order Introduces New, Fatter Tail Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-s-new-world-order-introduces-new-tail-risks-video",
+    "published": "Wed, 07 Jan 2026 00:19:20 CST",
+    "summary": "Global markets are largely taking President Trump's raid and capture of\nVenezuela’s Nicolas Maduro in stride -- in the first full trading day after\nthe weekend's events, stocks gained, along with traditional havens like gold\nand treasuries. As the Trump administration keeps showing that the rules of\ndiplomacy are changing, traders and analysts are catching up to a regime-shift\nsignal for global markets, one that makes geopolitical tail risks fatter going\nforward. Peter Tchir, Head of Macro Strategy at Academy Securities, joins\nBloomberg Businessweek Daily to discuss. He speaks with Carol Massar and Tim\nStenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan’s Corporate Debt Sales Set for Another Banner Year in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjapan-s-corporate-debt-sales-set-for-another-banner-year-in-2026",
+    "published": "Wed, 07 Jan 2026 00:11:31 CST",
+    "summary": "Bankers expect another blockbuster year for sales of yen-denominated corporate\ndebt from Japanese companies following the record tally of bonds issued in\n2025.\n\n"
+  },
+  {
+    "title": "With Maduro Out, Wall Street Chases After Venezuela’s Riches",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-07%2Fwall-street-eyes-venezuela-investments-oil-assets-after-maduro-ouster",
+    "published": "Wed, 07 Jan 2026 00:08:16 CST",
+    "summary": "For years, the Latin American country was all but off-limits. Now, traders and\ntycoons are pouncing.\n\n"
+  },
+  {
+    "title": "Trump Says Venezuela to Send US Up to 50 Million Barrels of Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fvenezuela-to-send-us-up-to-50-million-barrels-of-oil-trump-says",
+    "published": "Tue, 06 Jan 2026 23:57:29 CST",
+    "summary": "President Donald Trump said Venezuela would relinquish as much as 50 million\nbarrels of oil to the US, declaring it would be sold with the proceeds\nbenefiting both countries.\n\n"
+  },
+  {
+    "title": "Fmr. Venezuela Ambassador: 'Hope, Not Faith' in Revival",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ffmr-venezuela-ambassador-hope-not-faith-in-revival-video",
+    "published": "Tue, 06 Jan 2026 23:39:17 CST",
+    "summary": "Patrick Duddy, visiting senior lecturer at Duke University and former U.S.\nambassador to Venezuela, says Maduro’s capture shows that President Trump\nwasn’t bluffing about using force. He speaks with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fmedia%2Frichard-pollak-dead.html",
     "published": "Tue, 06 Jan 2026 23:33:03 CST",
     "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
   },
   {
-    "title": "Samsung Bulls Bet Record Earnings Can Sustain $350 Billion Rally",
+    "title": "Oil Declines as Trump Says Venezuela Will Give Some Crude to US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Flatest-oil-market-news-and-analysis-for-jan-7",
+    "published": "Tue, 06 Jan 2026 23:31:52 CST",
+    "summary": "Oil extended losses after Washington moved to exert greater control over\nVenezuela’s oil industry, with President Donald Trump saying the country would\nturn over millions of barrels of crude to the US.\n\n"
+  },
+  {
+    "title": "Gold Steadies as Traders Look Past Geopolitical Risk to US Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
+    "published": "Tue, 06 Jan 2026 23:30:41 CST",
+    "summary": "Gold steadied after three days of gains, with traders looking beyond\nheightened geopolitical tensions to US economic data due this week.\n\n"
+  },
+  {
+    "title": "Samsung Bulls Bet Record Earnings Will Extend $350 Billion Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsamsung-bulls-bet-record-earnings-can-sustain-350-billion-rally",
     "published": "Tue, 06 Jan 2026 23:30:00 CST",
     "summary": "A stock rally that has added $350 billion in market value for Samsung\nElectronics Co. since the start of last year may have more room to run as\nbullish analysts and investors eye record profits.\n\n"
@@ -18,7 +114,7 @@
     "summary": "Richard Haass, Council on Foreign Relations president emeritus, says\nVenezuela’s oil infrastructure is in disrepair and production will take time\nto recover. He tells Katie Greifeld and Romaine Bostick on “The Close” that\nwith oil near $60 a barrel, markets are not urgently seeking new supply.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Chat Platform Discord to File Confidentially for IPO",
+    "title": "Chat Platform Discord Files Confidentially for IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchat-platform-discord-is-said-to-file-confidentially-for-ipo",
     "published": "Tue, 06 Jan 2026 23:19:48 CST",
     "summary": "Discord Inc. filed confidentially for an initial public offering, according to\npeople familiar with the matter, adding to a rapidly growing pipeline of\nventure capital-backed tech listings.\n\n"
@@ -66,10 +162,10 @@
     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "China-Japan Dispute Set to Weigh on Asian Stocks: Markets Wrap",
+    "title": "Record Asian Stock Rally Eases on Japan, Oil Falls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "Asian stocks look set to take a breather after their best-ever start to a\nyear, even as optimism over artificial intelligence and expectations of\nFederal Reserve easing drove US shares to a new high.\n\n"
+    "summary": "Asian stocks, off to their best-ever start to a year, edged lower from record\nlevels as Japanese equities slipped amid rising tensions with China.\n\n"
   },
   {
     "title": "The Six Things the Fed Needs to Worry About in 2026",
@@ -96,28 +192,10 @@
     "summary": "Berkshire Hathaway Inc. Chief Executive Officer Greg Abel will earn an annual\ncash salary of $25 million, the firm said in a filing Tuesday, far eclipsing\nthe $100,000 that his predecessor Warren Buffett earned for decades in the\nrole.\n\n"
   },
   {
-    "title": "Bullish Treasuries Wagers Target 10-Year Yields Falling Below 4%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fbullish-treasuries-wagers-target-10-year-yields-falling-below-4",
-    "published": "Tue, 06 Jan 2026 21:30:00 CST",
-    "summary": "Traders in Treasury options are boosting bets that US 10-year yields will bust\nout of their recent range and tumble below 4% in the coming weeks to levels\nlast seen in November.\n\n"
-  },
-  {
-    "title": "Transport Stocks Leap to New High on US Economic Growth Hopes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftransport-stocks-leap-to-new-high-on-us-economic-growth-hopes",
-    "published": "Tue, 06 Jan 2026 21:08:06 CST",
-    "summary": "US transportation stocks closed at a record level Tuesday capping off a\nrebound fueled by prospects of strong economic growth this year.\n\n"
-  },
-  {
     "title": "Top union accuses Texas of targeting teachers over Charlie Kirk posts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftexas-charlie-kirk-social-media",
     "published": "Tue, 06 Jan 2026 20:54:59 CST",
     "summary": "American Federation of Teachers sues over what it says are unconstitutional\ninvestigations into social media comments\n\nA major Texas teachers’ union filed a federal lawsuit against the state on\nTuesday challenging what it describes as unconstitutional investigations into\nhundreds of educators who posted comments on social media following the\nSeptember killing of conservative activist Charlie Kirk.\n\nThe Texas American Federation of Teachers, which represents approximately\n66,000 public school employees, is asking a federal court to block the Texas\nEducation Agency and its commissioner, Mike Morath, from continuing\ninvestigations that the union argues violate teachers’ free speech\nprotections.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Copper Could Hit $14,000 a Ton, Max Layton Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Ftargeting-14k-for-copper-max-layton-video",
-    "published": "Tue, 06 Jan 2026 20:47:37 CST",
-    "summary": "Copper extended a powerful rally after bursting through $13,000 a ton for the\nfirst time. Citi's Global Head of Commodities Research Max Layton said that he\nis staying bullish on copper in the near-term and is targeting copper price\naround $14,000 a ton now. He discussed his outlook on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
     "title": "How Venezuela’s Oil Could Shake Up the World Supply",
@@ -126,34 +204,16 @@
     "summary": "The country could, eventually, attract investment and re-emerge as a force in\nthe oil markets, but many analysts are concerned about an oversupply.\n\n"
   },
   {
-    "title": "Enthusiasm in Private Markets for M&A Demand: Lee",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fenthusiasm-in-private-markets-for-m-a-demand-lee-video",
-    "published": "Tue, 06 Jan 2026 20:47:02 CST",
-    "summary": "Christina Lee, Co-Portfolio Manager for US Private Debt Strategy at Oaktree\nCapital Management, sees enthusiasm in private equity for M&A and expects a\nbacklog of deals to hit in 2026. She speaks to Bloomberg's Tim Stenovec and\nCarol Massar on 'Bloomberg Businessweek Daily.' (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html",
     "published": "Tue, 06 Jan 2026 20:16:09 CST",
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "NYC Fights Sale of Bankrupt Rentals After Mamdani Blasts Living Conditions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fnyc-fights-sale-of-bankrupt-rentals-after-mamdani-blasts-roaches",
-    "published": "Tue, 06 Jan 2026 20:09:18 CST",
-    "summary": "Newly-inaugurated New York City Mayor Zohran Mamdani’s housing agenda is\nfacing its first test as the city balks at the bankruptcy sale of thousands of\nrent-stabilized apartments owned by Pinnacle Group, where residents have\nrailed against living conditions.\n\n"
-  },
-  {
     "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
     "published": "Tue, 06 Jan 2026 19:29:25 CST",
     "summary": "Investors are betting that a political transition along with a clearer path to\nasset recovery could unlock value that has been frozen for nearly a decade.\n\n"
-  },
-  {
-    "title": "Phillips 66 CEO Says Change in Venezuela a Boon to Oil Refiners",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fp66-ceo-says-change-in-venezuela-is-a-boon-to-oil-refiners",
-    "published": "Tue, 06 Jan 2026 18:41:49 CST",
-    "summary": "One of the largest US oil refiners sees a potential reopening of Venezuela’s\noil industry as a major boost to fuel-makers that rely on heavier crude\ngrades.\n\n"
   },
   {
     "title": "Trump says US companies will invest billions in Venezuelan oil production. Experts aren’t so sure",
@@ -168,12 +228,6 @@
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
-    "title": "Chevron Lines Up 11 Ships as Venezuela’s Dark Fleet Vanishes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fchevron-lines-up-11-oil-ships-as-venezuela-s-dark-fleet-vanishes",
-    "published": "Tue, 06 Jan 2026 17:04:45 CST",
-    "summary": "A small fleet of ships booked by Chevron Corp. is sailing to Venezuela as the\ncompany emerges as the only exporter of the country’s oil following the ouster\nof President Nicolas Maduro by US forces.\n\n"
-  },
-  {
     "title": "Private equity management fees hit new low in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html",
     "published": "Tue, 06 Jan 2026 16:20:59 CST",
@@ -184,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fcharter-taps-junk-market-for-1-75-billion-to-refinance-debt",
     "published": "Tue, 06 Jan 2026 16:13:15 CST",
     "summary": "Charter Communications Inc. sold $3 billion of junk bonds Tuesday as it looks\nto pay off debt due through 2027 and repurchase equity.\n\n"
-  },
-  {
-    "title": "Treasury Yield Gap Widens on Fed Outlook, Corporate Bond Supply",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftreasury-10-year-yield-approaches-2025-high-relative-to-two-year",
-    "published": "Tue, 06 Jan 2026 15:49:53 CST",
-    "summary": "US Treasuries approached a key milestone Tuesday as 10-year yields reached the\nhighest level relative to two-year rates in nearly nine months, signaling\ntraders’ bets on Federal Reserve interest-rate cuts in 2026.\n\n"
   },
   {
     "title": "Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
@@ -214,18 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fmedia%2Fwill-welch-gq-editor-departure.html",
     "published": "Tue, 06 Jan 2026 15:06:06 CST",
     "summary": "Mr. Welch worked to move the men’s magazine away from what he called “manly-\nman tropes.” His next role will be with Pharrell, the men’s designer of Louis\nVuitton.\n\n"
-  },
-  {
-    "title": "Data-Center Cooling Stocks Sink After Nvidia CEO’s CES Talk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fdata-center-cooling-stocks-sink-after-nvidia-ceo-talks-at-ces",
-    "published": "Tue, 06 Jan 2026 15:03:59 CST",
-    "summary": "Makers of cooling systems saw their stocks sell off Tuesday after comments by\nNvidia Corp.’s chief executive raised fears about demand for their products\nfrom data centers.\n\n"
-  },
-  {
-    "title": "S&amp;P 500 Notches Fresh Record With Rotation Trade Gathering Pace",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fs-p-500-inches-forward-as-traders-await-key-economic-data",
-    "published": "Tue, 06 Jan 2026 14:39:31 CST",
-    "summary": "US stocks closed at an all-time high Tuesday, led by advances in materials,\nindustrials and financials as a market rotation into laggards gained traction.\n\n"
   },
   {
     "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
@@ -282,22 +318,16 @@
     "summary": "The author and Trump antagonist Michael Wolff has his wife, Victoria, to thank\nfor his latest chapter: lifestyle influencer. Now she’s becoming one, too.\n\n"
   },
   {
-    "title": "Congress has four weeks to dodge another shutdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fgovernment-shutdown-deadline-looms%2F",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "Lawmakers have little time to pass nine appropriations bills or another\nfunding extension before the next shutdown deadline hits.\n\n"
-  },
-  {
     "title": "The data center rebellion is here, and it’s reshaping the political landscape",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
     "published": "Tue, 06 Jan 2026 10:00:00 CST",
     "summary": "As the buildout of AI infrastructure alarms communities, it is fast emerging\nas a potent electoral issue across the political divide.\n\n"
   },
   {
-    "title": "Emerging Assets Move Past Venezuela Risk to Scale Fresh Highs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Femerging-stocks-move-past-venezuela-risk-to-scale-fresh-highs",
-    "published": "Tue, 06 Jan 2026 09:21:42 CST",
-    "summary": "Emerging-market stocks hit a fresh record high and currencies edged higher as\ninvestor focus shifted away from geopolitical risks posed by the US\nintervention in Venezuela and bullish sentiment around the global asset class\nstrengthened.\n\n"
+    "title": "Taiwan Lifers Cut FX Protection, Fueling Slump in Hedging Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Ftaiwan-lifers-cut-fx-protection-fueling-slump-in-hedging-costs",
+    "published": "Tue, 06 Jan 2026 09:28:05 CST",
+    "summary": "The cost for Taiwanese investors to hedge against a weaker greenback slumped\nto the lowest since 2016 as local life insurers pared such wagers following an\noverhaul of accounting rules.\n\n"
   },
   {
     "title": "China Slaps Export Controls on Japan Military for Taiwan Remarks",
@@ -324,28 +354,10 @@
     "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
-    "title": "Oil Falls as Traders Weigh Ukraine Deal, Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Flatest-oil-market-news-and-analysis-for-jan-6",
-    "published": "Mon, 05 Jan 2026 23:36:58 CST",
-    "summary": "Oil fell as traders weighed progress on a deal to end Russia’s war in Ukraine,\na possibly bearish development for an oil market staring down a glut.\n\n"
-  },
-  {
-    "title": "Gold Climbs as Traders Look Beyond Venezuela Risk to US Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fgold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
-    "published": "Mon, 05 Jan 2026 23:19:47 CST",
-    "summary": "Gold rose as traders looked beyond tensions in Venezuela toward a busy lineup\nof economic data in the US. Silver rallied for a third day.\n\n"
-  },
-  {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F04%2Fbusiness%2Fmore-people-are-lifting-weights-its-changing-gym-culture.html",
     "published": "Mon, 05 Jan 2026 22:47:32 CST",
     "summary": "Colleen Keating, chief executive of Planet Fitness, wants them to do it in a\n“judgment-free zone.”\n\n"
-  },
-  {
-    "title": "US Stocks Notch Fresh High in Tech-Fueled Bull Run: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Mon, 05 Jan 2026 22:30:02 CST",
-    "summary": "US stocks closed at a new record on Tuesday, continuing a run driven by\ninvestor optimism over artificial intelligence and expectations of easier\nmonetary policy from the Federal Reserve.\n\n"
   },
   {
     "title": "Light Street Gains 37% in Big Year for Stock-Picking Hedge Funds",
@@ -424,12 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-us-chevron.html",
     "published": "Mon, 05 Jan 2026 19:05:33 CST",
     "summary": "It will take years and billions in investment to revitalize Venezuela’s oil\nindustry, and energy producers will likely be cautious before stepping in.\n\n"
-  },
-  {
-    "title": "Wall Street Banks Kick Off $7 Billion Loan Sale Tied to Hologic Buyout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-05%2Fwall-street-banks-kick-off-loan-sale-tied-to-hologic-buyout",
-    "published": "Mon, 05 Jan 2026 18:34:30 CST",
-    "summary": "A group of banks has kicked off a roughly $7 billion leveraged loan sale to\nhelp fund the buyout of medical-device maker Hologic Inc., one of the biggest\nacquisition financings expected to hit the market in the coming months for\njunk-rated borrowers.\n\n"
   },
   {
     "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
