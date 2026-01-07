@@ -1,5 +1,77 @@
 [
   {
+    "title": "American Airlines keeps frequent flyer status requirements the same, following rivals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html",
+    "published": "Wed, 07 Jan 2026 14:45:01 CST",
+    "summary": "American Airlines is keeping frequent flyer status requirements the same for a\nthird consecutive year.\n\n"
+  },
+  {
+    "title": "US Stocks Hover Near Record Highs as Traders Await Economic Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-stocks-hover-near-record-highs-as-traders-await-economic-data",
+    "published": "Wed, 07 Jan 2026 14:36:06 CST",
+    "summary": "The record-breaking advance in US equities paused early Wednesday, as Wall\nStreet awaits a batch of economic reports.\n\n"
+  },
+  {
+    "title": "Why Trump’s Greenland Strategy Has the World on Edge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fdealbook%2Fbuy-invade-trump-greenland.html",
+    "published": "Wed, 07 Jan 2026 14:22:15 CST",
+    "summary": "The president is again focused on acquiring the mineral-rich island. But lack\nof clarity about his goals and tactics is weighing on political and business\nleaders.\n\n"
+  },
+  {
+    "title": "U.S. to Control Venezuela Oil Sales ‘Indefinitely,’ Energy Secretary Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
+    "published": "Wed, 07 Jan 2026 14:20:04 CST",
+    "summary": "Chris Wright said the Trump administration was in “active dialogue” with\nVenezuela’s government about the plan.\n\n"
+  },
+  {
+    "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
+    "published": "Wed, 07 Jan 2026 14:19:15 CST",
+    "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
+  },
+  {
+    "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
+    "published": "Wed, 07 Jan 2026 14:12:57 CST",
+    "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
+  },
+  {
+    "title": "US Will Control Venezuela Oil Sales, Trump’s Energy Boss Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-will-control-venezuela-oil-sales-trump-s-energy-boss-says",
+    "published": "Wed, 07 Jan 2026 14:01:45 CST",
+    "summary": "The Trump Administration plans to control future sales of oil from Venezuela\nand use the proceeds to rebuild the nation’s beleaguered economy, Energy\nSecretary Chris Wright said\n\n"
+  },
+  {
+    "title": "Alaska Airlines buys more than 100 Boeing jets in carrier's biggest order ever",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html",
+    "published": "Wed, 07 Jan 2026 14:00:01 CST",
+    "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
+  },
+  {
+    "title": "U.S. seizes Russian-flagged tanker that fled Venezuela blockade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2026%2F01%2F07%2Fus-intercept-oil-tanker-russia-venezuela%2F",
+    "published": "Wed, 07 Jan 2026 13:57:22 CST",
+    "summary": "The tanker Marinera had been pursued by the U.S. Coast Guard for weeks.\n\n"
+  },
+  {
+    "title": "Zambia’s World-Beating Kwacha Rally to Be Tested in Coming Weeks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzambia-s-world-beating-kwacha-rally-to-be-tested-in-coming-weeks",
+    "published": "Wed, 07 Jan 2026 13:54:29 CST",
+    "summary": "Zambia’s kwacha faces risks in the coming weeks that may snap a year-end rally\nthat has extended into 2026 and made it the world’s best-performing currency.\n\n"
+  },
+  {
+    "title": "Warner Bros Discovery tells investors to reject ‘inadequate’ $108bn Paramount bid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F07%2Fwarner-bros-shareholders-paramount-takeover-bid",
+    "published": "Wed, 07 Jan 2026 13:52:22 CST",
+    "summary": "Board unwilling to accept hostile takeover despite $40bn guarantee from\nbillionaire Larry Ellison\n\nWarner Bros Discovery (WBD) has again told its shareholders to reject an\n“inadequate” $108.4bn (£80bn) hostile takeover bid by Paramount Skydance amid\nan extraordinary corporate battle to control the media conglomerate.\n\nParamount, controlled by the billionaire Ellison family, had sought to combat\nWBD’s criticism of its offer and claims it had “consistently misled” investors\nby saying it had a “full backstop” – a safety net to ensure it has sufficient\nfunds – from the Ellisons.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Slovenian President Proposes Dolenc as Central Bank Governor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fslovenian-president-proposes-dolenc-as-central-bank-governor",
+    "published": "Wed, 07 Jan 2026 13:49:47 CST",
+    "summary": "Slovenia’s president nominated Primoz Dolenc to lead the central bank, a last-\nditch attempt to break political stalemate over the country’s top monetary-\npolicy job before elections.\n\n"
+  },
+  {
     "title": "US Dollar to Weaken but at a Slower Pace Than 2025, Deutsche Bank’s Saravelos Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fus-dollar-to-weaken-at-slower-pace-than-2025-saravelos-video",
     "published": "Wed, 07 Jan 2026 13:41:41 CST",
@@ -18,12 +90,6 @@
     "summary": "Employment at US companies increased in December as private-sector payrolls\ngrew by 41,000 after declining in the prior month, according to ADP Research\ndata released Wednesday. Michael McKee reports on Bloomberg Television.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "US Attempts to Seize Russia-Flagged Ship ‘Marinera’ in Atlantic",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-attempts-to-seize-russia-flagged-ship-marinera-in-atlantic",
-    "published": "Wed, 07 Jan 2026 13:29:54 CST",
-    "summary": "US forces are attempting to seize a Venezuela-linked, Russia-flagged ship in\nthe north Atlantic that’s been at the center of a dramatic sea chase across\nthe ocean, according to people familiar with the matter.\n\n"
-  },
-  {
     "title": "JPMorgan, Bank of America Shares Cut at Wolfe Ahead of Earnings",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjpmorgan-bank-of-america-shares-cut-at-wolfe-ahead-of-earnings",
     "published": "Wed, 07 Jan 2026 13:29:11 CST",
@@ -34,12 +100,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Feurope-s-best-performing-bank-stock-tipped-to-keep-rising",
     "published": "Wed, 07 Jan 2026 13:27:21 CST",
     "summary": "Societe Generale has led gains in Europe’s best-performing sector over the\npast year, and according to Rothschild & Co Redburn, the party isn’t over just\nyet.\n\n"
-  },
-  {
-    "title": "Why Trump’s Greenland Strategy Has the World on Edge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fdealbook%2Fbuy-invade-trump-greenland.html",
-    "published": "Wed, 07 Jan 2026 13:21:33 CST",
-    "summary": "The president is again focused on acquiring the mineral-rich island. But lack\nof clarity about his goals and tactics is weighing on political and business\nleaders.\n\n"
   },
   {
     "title": "Goldman Recommends Investors Ditch Debt of Apollo’s Wagamama",
@@ -66,16 +126,10 @@
     "summary": "Pirelli & C. SpA is in talks with its largest shareholder, China’s Sinochem\nGroup, over options that include reducing the Chinese conglomerate’s stake in\nthe Italian tiremaker to about 10% to ease concerns over access to the US\nmarket, according to people familiar with the matter.\n\n"
   },
   {
-    "title": "Warner Bros Discovery tells investors to reject latest $108bn hostile Paramount bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F07%2Fwarner-bros-shareholders-paramount-takeover-bid",
-    "published": "Wed, 07 Jan 2026 12:35:48 CST",
-    "summary": "Board unwilling to accept hostile takeover despite $40bn guarantee from\nbillionaire Larry Ellison\n\nWarner Bros Discovery (WBD) has again told its shareholders to reject an\n“inadequate” $108.4bn (£80bn) hostile takeover bid by Paramount Skydance amid\nan extraordinary corporate battle to control the media conglomerate.\n\nParamount, controlled by the billionaire Ellison family, had sought to combat\nWBD’s criticism of its offer and claims it had “consistently misled” investors\nby saying it had a “full backstop” – a safety net to ensure it has sufficient\nfunds – from the Ellisons.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Argentina Secures $3 Billion Bank Repo Ahead of Debt Payment",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fargentina-signs-3-billion-repo-with-banks-ahead-of-debt-payment",
     "published": "Wed, 07 Jan 2026 12:31:28 CST",
-    "summary": "Argentina struck a repurchase agreement, or repo, with a group of banks\ntotaling $3 billion to help cover a $4.3 billion sovereign-debt payment due\nthis week.\n\n"
+    "summary": "Argentina secured a $3 billion loan from a group of international banks to\nhelp cover a foreign debt payment due in two days and replenish the country’s\ndepleted coffers.\n\n"
   },
   {
     "title": "Americans are changing where they're moving. Here's how that could affect commercial real estate",
@@ -120,10 +174,10 @@
     "summary": "US equity futures decline ahead of jobs data. Oil falls as President Trump\nsays Venezuela would relinquish up to 50 million barrels of crude to the US.\nCayla Seder of State Street sees more room to run in 2025’s stock rally this\nyear. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Warner Bros. Dismisses Latest Paramount Bid as Inadequate",
+    "title": "Warner Bros. Rejects Latest Paramount Bid, Favoring Netflix",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fwarner-bros-says-amended-paramount-offer-is-inadequate",
     "published": "Wed, 07 Jan 2026 12:00:42 CST",
-    "summary": "Warner Bros. Discovery Inc. determined that an amended takeover offer from\nParamount Skydance Corp. is inferior to the deal it already has in place with\nNetflix Inc. and urged its shareholders not to tender their shares to the\ninterloper.\n\n"
+    "summary": "Warner Bros. Discovery Inc. rejected an amended takeover offer from Paramount\nSkydance Corp. and encouraged shareholders to stick with a deal it has in\nplace with Netflix Inc., voicing skepticism about the interloper’s ability to\npull off what it said would effectively be the largest leveraged buyout in\nhistory.\n\n"
   },
   {
     "title": "Trump claims Venezuela is set for an oil boom after US attack – history points to a bumpy road ahead",
@@ -156,24 +210,6 @@
     "summary": "Nvidia said its revenue forecast has gotten brighter due to strong demand and\nlarge customer deals. The company suggested that revenue from current and\nfuture data center chips by the end of 2026 would eclipse the $500 billion\nlevel. CEO Jensen Huang says \"[Nvidia] should have a very good year\". Defense\ncompanies remain on alert after the White House does not rule out using the\nmilitary to take Greenland. Meanwhile, oil prices fall after Donald Trump says\nVenezuela will send fossil fuel supplies to the US. The Opening Trade has\neverything you need to know as markets open across Europe. With analysis you\nwon't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Ex-Jefferies Banker Pleads Not Guilty to UK Insider Dealing Charge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fex-jefferies-banker-pleads-not-guilty-to-uk-insider-dealing-charge",
-    "published": "Wed, 07 Jan 2026 11:17:17 CST",
-    "summary": "An ex-banker at Jefferies Financial Group Inc.’s UK arm pleaded not guilty to\nan insider dealing charge brought by the markets watchdog.\n\n"
-  },
-  {
-    "title": "Bond Traders Place Bullish Bets Ahead of Data Deluge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-07%2Fbond-traders-place-bullish-bets-ahead-of-data-deluge",
-    "published": "Wed, 07 Jan 2026 11:10:35 CST",
-    "summary": "Yield on 10-year Treasuries seen dropping below 4% in coming weeks.\n\n"
-  },
-  {
-    "title": "Explaining Trump's Focus on Greenland",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fexplaining-trump-s-focus-on-greenland-video",
-    "published": "Wed, 07 Jan 2026 11:01:16 CST",
-    "summary": "US President Donald Trump is set on taking control of Greenland, the world's\nbiggest island, and a self-ruling territory of Denmark. The advances have\nfrustrated -- and baffled -- officials in Copenhagen, who insist the island\nisn't for sale, and that it's future will be its own. But, why is the US\nPresident so interested in Greenland? Bloomberg's Lizzy Burden explains.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "The soaring price of youth sports: $50 to try out, $3,000 to play",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fyouth-sports-cost-parents-investors-profit%2F",
     "published": "Wed, 07 Jan 2026 11:00:40 CST",
@@ -192,7 +228,7 @@
     "summary": "German government bonds extended gains on Wednesday as weak economic data\nprompted traders to increase their bets on rate cuts, offsetting the prospect\nof a jump in debt sales.\n\n"
   },
   {
-    "title": "Stellantis Car Output in Italy Sinks to 1950s Levels",
+    "title": "Stellantis Car Output in Italy Sinks to 1950s-Era Levels",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstellantis-italy-car-output-fell-25-in-2025-union-says",
     "published": "Wed, 07 Jan 2026 10:23:14 CST",
     "summary": "Stellantis NV’s car production in Italy slumped by nearly a quarter last year\nto levels of the mid-1950s, highlighting the Fiat maker’s struggle to revive\nmanufacturing at a time of intense political pressure to keep factories\nrunning.\n\n"
@@ -240,12 +276,6 @@
     "summary": "A German pension fund whose foray into private markets led to losses that\ntotaled half of the fund’s assets has begun legal proceedings against its\nformer auditor, an adviser and its own managers to recover the damages.\n\n"
   },
   {
-    "title": "Maduro’s ‘Perfect Union’ With China Hides Deep Economic Rupture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmaduro-s-perfect-union-with-china-hides-deep-economic-rupture",
-    "published": "Wed, 07 Jan 2026 08:00:00 CST",
-    "summary": "Ousted Venezuelan leader Nicolas Maduro may have done more to hollow out\nChina’s presence in his economy than Donald Trump ever could.\n\n"
-  },
-  {
     "title": "Saudi Stocks Climb on Hopes for More Market Liberalization",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsaudi-stocks-climb-on-high-hopes-for-more-market-liberalization",
     "published": "Wed, 07 Jan 2026 07:39:39 CST",
@@ -288,6 +318,12 @@
     "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
   },
   {
+    "title": "Oil Swings on Venezuela Supply Outlook, US Tanker Seizure",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Flatest-oil-market-news-and-analysis-for-jan-7",
+    "published": "Tue, 06 Jan 2026 23:31:52 CST",
+    "summary": "Oil swung between gains and losses on the prospect that Venezuelan crude will\ncontinue to flow, particularly to the US, while a Russian flagged tanker was\nseized in the north Atlantic.\n\n"
+  },
+  {
     "title": "Gold Drops as Traders Look Past Geopolitical Risk to US Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
     "published": "Tue, 06 Jan 2026 23:30:41 CST",
@@ -306,10 +342,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "US Stock Futures Claw Back Losses as Bonds Rally: Markets Wrap",
+    "title": "Stocks Bull Run Takes a Breather as Bonds Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "US stock futures trimmed early losses as traders took stock of a shifting risk\nlandscape amid ongoing portfolio positioning for the year. Yields fell across\nthe globe.\n\n"
+    "summary": "US stocks traded sideways as investors took stock of a shifting risk landscape\namid ongoing portfolio positioning for the year. Yields fell across the globe.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -864,12 +900,6 @@
     "summary": "The U.S. added silver to its nationally designated list of critical minerals\nin November.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: Molina Healthcare, Intel, AXT, OceanFirst Financial & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fstocks-making-the-biggest-moves-midday-moh-intc-axti-ocfc.html",
-    "published": "Tue, 30 Dec 2025 21:47:31 CST",
-    "summary": "Check out some of the stocks posting the biggest moves in midday trading.\n\n"
-  },
-  {
     "title": "Fed minutes show officials were in tight split over December rate cut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Ffed-minutes-december-2025.html",
     "published": "Tue, 30 Dec 2025 21:37:46 CST",
@@ -898,12 +928,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fcommercial-real-estate-2026-what-to-expect.html",
     "published": "Tue, 30 Dec 2025 15:15:41 CST",
     "summary": "Experts and research firms forecast a year of stabilization and recovery for\ncommercial real estate in 2026.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Applied Digital, Meta Platforms, Boeing & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fstocks-making-the-biggest-moves-premarket-apld-meta-ba.html",
-    "published": "Tue, 30 Dec 2025 12:18:29 CST",
-    "summary": "These are the stocks posting the largest moves premarket.\n\n"
   },
   {
     "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
@@ -976,18 +1000,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F22%2Ffda-approves-first-glp-1-pill-for-obesity-from-novo-nordisk.html",
     "published": "Tue, 23 Dec 2025 03:09:27 CST",
     "summary": "The approval gives Novo Nordisk a head start over chief rival Eli Lilly, which\nis racing to launch its own obesity pill.\n\n"
-  },
-  {
-    "title": "Paramount guarantees Larry Ellison backing in amended WBD bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F22%2Fwbd-bid-paramount-larry-ellison-backing-bid.html",
-    "published": "Mon, 22 Dec 2025 23:53:35 CST",
-    "summary": "Paramount notably did not increase its bid on Monday, reiterating that it\nbelieves the deal is superior to Netflix's.\n\n"
-  },
-  {
-    "title": "Why Warner Bros. Discovery shareholders might opt for Paramount's offer — and why they might not",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F22%2Fparamount-wbd-tender-offer-arguments.html",
-    "published": "Mon, 22 Dec 2025 18:09:08 CST",
-    "summary": "WBD shareholders must weigh pros and cons of tendering their shares to\nParamount for $30 per share. CNBC lays out the arguments on both sides.\n\n"
   },
   {
     "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
