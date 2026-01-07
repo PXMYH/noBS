@@ -1,15 +1,45 @@
 [
   {
+    "title": "Ex-Jefferies Banker Pleads Not Guilty to UK Insider Dealing Charge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fex-jefferies-banker-pleads-not-guilty-to-uk-insider-dealing-charge",
+    "published": "Wed, 07 Jan 2026 11:17:17 CST",
+    "summary": "An ex-banker at Jefferies Financial Group Inc.’s UK arm pleaded not guilty to\nan insider dealing charge brought by the markets watchdog.\n\n"
+  },
+  {
+    "title": "Bond Traders Place Bullish Bets Ahead of Data Deluge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-07%2Fbond-traders-place-bullish-bets-ahead-of-data-deluge",
+    "published": "Wed, 07 Jan 2026 11:10:35 CST",
+    "summary": "Yield on 10-year Treasuries seen dropping below 4% in coming weeks.\n\n"
+  },
+  {
+    "title": "Explaining Trump's Focus on Greenland",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fexplaining-trump-s-focus-on-greenland-video",
+    "published": "Wed, 07 Jan 2026 11:01:16 CST",
+    "summary": "US President Donald Trump is set on taking control of Greenland, the world's\nbiggest island, and a self-ruling territory of Denmark. The advances have\nfrustrated -- and baffled -- officials in Copenhagen, who insist the island\nisn't for sale, and that it's future will be its own. But, why is the US\nPresident so interested in Greenland? Bloomberg's Lizzy Burden explains.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "The soaring price of youth sports: $50 to try out, $3,000 to play",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fyouth-sports-cost-parents-investors-profit%2F",
+    "published": "Wed, 07 Jan 2026 11:00:40 CST",
+    "summary": "Parents are struggling to keep up as costs and luxury options rise. Investors\nsee an opportunity.\n\n"
+  },
+  {
+    "title": "How to practice financial forgiveness and achieve your money goals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fmoney-habits-financial-forgiveness%2F",
+    "published": "Wed, 07 Jan 2026 11:00:00 CST",
+    "summary": "Here’s how to stick to your New Year’s financial resolutions in 2026.\n\n"
+  },
+  {
     "title": "AI ‘Fatigue’ Leaves Investors Focused on S&amp;P’s Other 493 Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fai-fatigue-leaves-investors-focused-on-s-p-s-other-493-stocks",
     "published": "Wed, 07 Jan 2026 10:30:00 CST",
     "summary": "Bets on artificial intelligence companies have dominated US equity markets for\nthree years, powering a 78% gain. A growing number of investors are now\nwagering that run, led by the Magnificent Seven, is about to end.\n\n"
   },
   {
-    "title": "Bunds Rally as Weak Economic Data Outweigh German Bond Surge",
+    "title": "German Bonds Jump as Traders Add to Wagers on ECB Rate Cuts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbunds-rally-as-weak-economic-data-outweigh-german-bond-surge",
     "published": "Wed, 07 Jan 2026 10:27:30 CST",
-    "summary": "German government bonds extended gains on Wednesday as weak economic data\nprompted traders to push back bets for rate hikes, offsetting the prospect of\na jump in debt sales.\n\n"
+    "summary": "German government bonds extended gains on Wednesday as weak economic data\nprompted traders to increase their bets on rate cuts, offsetting the prospect\nof a jump in debt sales.\n\n"
   },
   {
     "title": "Stellantis Italy Car Output Fell 25% in 2025, Union Says",
@@ -132,12 +162,6 @@
     "summary": "Ousted Venezuelan leader Nicolas Maduro may have done more to hollow out\nChina’s presence in his economy than Donald Trump ever could.\n\n"
   },
   {
-    "title": "Hong Kong House Sells for $133 Million With 25% Gain Over Decade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fhong-kong-house-sells-for-133-million-with-25-gain-over-decade",
-    "published": "Wed, 07 Jan 2026 07:58:39 CST",
-    "summary": "A mansion at Hong Kong’s prestigious Peak area was sold for HK$1.04 billion\n($133 million), yielding a more than 25% gain for the owner who held it for\nabout a decade.\n\n"
-  },
-  {
     "title": "Saudi Stocks Climb on Hopes for More Market Liberalization",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fsaudi-stocks-climb-on-high-hopes-for-more-market-liberalization",
     "published": "Wed, 07 Jan 2026 07:39:39 CST",
@@ -150,22 +174,10 @@
     "summary": "Indonesia plans to reclaim millions more hectares of land that it deems are\nbeing used illegally, intensifying a campaign to tighten oversight of its vast\nresources sector.\n\n"
   },
   {
-    "title": "FTSE 100 Snaps Winning Run as Oil Firms Fall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-07%2Fftse-100-oil-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today",
-    "published": "Wed, 07 Jan 2026 06:47:03 CST",
-    "summary": "\n\n"
-  },
-  {
     "title": "Citi, JPMorgan Opt Out of $1.4 Billion SBI Funds IPO on Fees",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fciti-jpmorgan-opt-out-of-1-4-billion-sbi-funds-ipo-on-low-fees",
     "published": "Wed, 07 Jan 2026 06:07:08 CST",
     "summary": "Some of Wall Street’s biggest banks have opted out of advising on a planned\n$1.4 billion initial public offering of India’s SBI Funds Management Ltd.\nbecause of low fees, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Chevron and Quantum Energy to Bid for Lukoil Assets, FT Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says",
-    "published": "Wed, 07 Jan 2026 05:20:43 CST",
-    "summary": "Chevron Corp. and private equity group Quantum Energy Partners will join\nforces to buy the international assets of sanctioned Russian oil company\nLukoil PJSC, according to the Financial Times.\n\n"
   },
   {
     "title": "Botched Trade of Debutant Triggers Halt in Sri Lankan Stocks",
@@ -184,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-shoulders-its-favorite-trade-war-weapon-in-feud-with-japan",
     "published": "Wed, 07 Jan 2026 04:57:42 CST",
     "summary": "China’s warning to Japan that it could choke off supplies of rare earths, its\nfavorite weapon in trade conflicts, targets a persistent vulnerability among\nJapanese manufacturers after more than a decade of Tokyo trying to reduce\nreliance on its rival.\n\n"
-  },
-  {
-    "title": "Iron Ore Hits Highest Since February on PBOC Outlook, Restocking",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Firon-ore-hits-highest-since-february-on-pboc-outlook-restocking",
-    "published": "Wed, 07 Jan 2026 03:26:57 CST",
-    "summary": "Iron ore hit the highest price since February, buoyed by the outlook for\nmacro-economic support in China and pre-holiday restocking.\n\n"
   },
   {
     "title": "Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.",
@@ -216,6 +222,12 @@
     "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
   },
   {
+    "title": "Oil Declines as Trump Says Venezuela Will Give Some Crude to US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Flatest-oil-market-news-and-analysis-for-jan-7",
+    "published": "Tue, 06 Jan 2026 23:31:52 CST",
+    "summary": "Oil extended losses after Washington moved to exert greater control over\nVenezuela’s oil industry, with President Donald Trump saying the country would\nturn over millions of barrels to the US.\n\n"
+  },
+  {
     "title": "Samsung Bulls Bet Record Earnings Will Extend $350 Billion Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fsamsung-bulls-bet-record-earnings-can-sustain-350-billion-rally",
     "published": "Tue, 06 Jan 2026 23:30:00 CST",
@@ -234,10 +246,10 @@
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
   },
   {
-    "title": "Stocks Head for First 2026 Drop on Rising Risks: Markets Wrap",
+    "title": "Stocks Head for First 2026 Drop as Bonds Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "US stocks are heading for their first down day of 2026 as traders take stock\nof a shifting risk landscape at a time when many are building positions for\nthe year ahead.\n\n"
+    "summary": "Stocks are heading for their first down day of 2026 as traders take stock of a\nshifting risk landscape when many are building positions for the year ahead.\nYields fell across the globe.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -532,12 +544,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F05%2Fbari-weiss-cbs-news",
     "published": "Mon, 05 Jan 2026 12:00:34 CST",
     "summary": "Weiss is embroiled in her first major controversy as editor in chief as her\nhandpicked anchor takes evening news show\n\nTaking charge of CBS News in early October with no television industry\nexperience, and already facing both deep skepticism from many network\nemployees and a faltering business model, Bari Weiss began with a lot working\nagainst her.\n\nStill, her three months as editor in chief have been more chaotic than even\nmany of her critics expected. “There is blood in the water,” said one CBS News\njournalist, who, like the others quoted in this story, was not authorized by\nthe network to comment.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Why America stopped building the ‘starter home’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fstarter-home-disappearance%2F",
-    "published": "Mon, 05 Jan 2026 11:28:28 CST",
-    "summary": "Concepts about starter homes seem inconsistent with today’s prices and\nexpansive floor plans, leaving many first-time homebuyers with few options.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
