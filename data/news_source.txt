@@ -1,5 +1,29 @@
 [
   {
+    "title": "FTSE Poised to Snap Three Day Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-07%2Fftse-100-oil-venezuela-trump-latest-pound-dollar-stocks-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Wed, 07 Jan 2026 06:47:03 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Citi, JPMorgan Opt Out of $1.4 Billion SBI Funds IPO on Low Fees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fciti-jpmorgan-opt-out-of-1-4-billion-sbi-funds-ipo-on-low-fees",
+    "published": "Wed, 07 Jan 2026 06:07:08 CST",
+    "summary": "Some of Wall Street’s biggest banks have opted out of advising on a planned\n$1.4 billion initial public offering of India’s SBI Funds Management Ltd.\nbecause of low fees, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fziemba-drill-baby-drill-everywhere-except-the-us-video",
+    "published": "Wed, 07 Jan 2026 06:00:56 CST",
+    "summary": "Global markets remained resilient as investors grow accustomed to President\nTrump's unorthodox military operations, viewing them as temporary shocks\nrather than long-term risks. Instead of panicking over the Venezuela\nincursion, traders are focusing on AI growth, potential rate cuts, and a\nstabilized oil supply. Rachel Ziemba, founder of Ziemba Insights spoke to\nBloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche on the\nnew world order created by President Trump. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan Stock Bulls Ignore China Tensions for Buying Opportunities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fjapan-stock-bulls-ignore-china-tensions-for-buying-opportunities",
+    "published": "Wed, 07 Jan 2026 05:55:56 CST",
+    "summary": "Japanese markets are showing resilience despite the country’s escalating\ngeopolitical tensions with China.\n\n"
+  },
+  {
     "title": "IDC's Ma: 2026 May Be A Down Year For PC Market",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fidc-s-ma-2026-may-be-a-down-year-for-pc-market-video",
     "published": "Wed, 07 Jan 2026 05:34:11 CST",
@@ -18,10 +42,10 @@
     "summary": "Nvidia has picked Chinese lidar maker Hesai as its laser technology partner.\nIts co-founder and CEO David Li says the partnership is good news for global\nOEMs as the platform will streamline software, hardware and data in its\nautonomous driving product. He spoke with Bloomberg's Annabelle Droulers from\nthe sidelines of CES in Las Vegas. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Colombo Bourse Halts Trading on Unusual Prices in Debutant Stock",
+    "title": "Botched Debutant Trade Triggers Halt in Sri Lankan Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcolombo-bourse-halts-trading-on-unusual-prices-in-debutant-stock",
     "published": "Wed, 07 Jan 2026 05:02:56 CST",
-    "summary": "The Colombo Stock Exchange halted trading after noticing “unusual opening\nprices” in shares of Wealth Trust Securities Ltd. that were to debut on\nWednesday.\n\n"
+    "summary": "The Colombo Stock Exchange halted market-wide trading in a rare such move\nearly Wednesday after noticing “unusual” prices in a debutant’s shares.\n\n"
   },
   {
     "title": "Palm Oil Gains on Bets for Stronger Exports and Lower Production",
@@ -42,7 +66,7 @@
     "summary": "Rand strength and soaring metal prices have bolstered the capitalization of\nSouth Africa’s benchmark equity index to the highest since 2019.\n\n"
   },
   {
-    "title": "China Shoulders Its Favorite Trade War Weapon in Feud With Japan",
+    "title": "China Readies Its Favorite Trade War Weapon in Feud With Japan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-shoulders-its-favorite-trade-war-weapon-in-feud-with-japan",
     "published": "Wed, 07 Jan 2026 04:57:42 CST",
     "summary": "China’s warning to Japan that it could choke off supplies of rare earths, its\nfavorite weapon in trade conflicts, targets a persistent vulnerability among\nJapanese manufacturers after more than a decade of Tokyo trying to reduce\nreliance on its rival.\n\n"
@@ -84,7 +108,7 @@
     "summary": "Baidu Inc.’s artificial-intelligence chip unit has hired banks for an initial\npublic offering in Hong Kong that may raise as much as $2 billion, according\nto people familiar with the matter.\n\n"
   },
   {
-    "title": "Asia’s Rare Earth Stocks Climb on New China-Japan Export Curbs",
+    "title": "Asian Rare Earth Stocks Surge on New China-Japan Export Curbs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fasia-s-rare-earth-stocks-climb-on-new-china-japan-export-curbs",
     "published": "Wed, 07 Jan 2026 03:45:13 CST",
     "summary": "Rare earth-related shares gained across the Asia-Pacific region after China\nimposed a ban on exports of military-use items to Japan, a move with the\npotential to squeeze supply chains.\n\n"
@@ -114,34 +138,10 @@
     "summary": "Naomi Fink of Amova Asset Management says she anticipates \"a bumpier road than\nmarkets are pricing in to get to higher productivity, ultimately, in the end.\nI think geopolitical tensions are rife worldwide right now and the market is\nkind of shifting them aside.\" Fink speaks on Bloomberg Television. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Deutsche Bank Bags Top Slot in India Dollar Bond Deals in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fdeutsche-bags-top-slot-for-arranging-india-dollar-bonds-in-2025",
-    "published": "Wed, 07 Jan 2026 02:51:05 CST",
-    "summary": "Deutsche Bank AG clinched the top slot arranging dollar bonds for Indian\nborrowers for the first time since 2007, taking over from Standard Chartered\nBank as foreign currency debt issuance slowed.\n\n"
-  },
-  {
     "title": "Goldman Forecasts 20% Gains for China Stocks in 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgoldman-forecasts-earnings-driven-2026-gains-for-china-stocks",
     "published": "Wed, 07 Jan 2026 02:49:47 CST",
     "summary": "Goldman Sachs Group Inc. projects Chinese stock benchmarks to post another\nyear of growth, though at a slower pace than in 2025, with earnings supported\nby AI and policy measures.\n\n"
-  },
-  {
-    "title": "Deep Robotics on Business Strategy, US Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fdeep-robotics-on-business-strategy-us-expansion-video",
-    "published": "Wed, 07 Jan 2026 02:38:24 CST",
-    "summary": "Eric Wang, Director for Americas at Deep Robotics, discusses the company's\nbusiness strategy and its expansion into the US market. He speaks with Shery\nAhn and Annabelle Droulers from the sidelines of the CES trade show on\n\"Bloomberg Tech: Asia\". (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "China’s Feud With Japan Worsens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fchina-s-feud-with-japan-worsens-video",
-    "published": "Wed, 07 Jan 2026 02:14:49 CST",
-    "summary": "Tokyo has protested China’s announcement of export controls on items shipped\nto Japan that could have military uses. Bloomberg's Minmin Low has the latest.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "TSMC’s Record Stock Rally Spurs Wall Street Rush to Hike Targets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftsmc-s-record-stock-rally-spurs-wall-street-rush-to-hike-targets",
-    "published": "Wed, 07 Jan 2026 02:00:28 CST",
-    "summary": "Research analysts are scrambling to raise price targets on Taiwan\nSemiconductor Manufacturing Co. shares, underscoring continued bullishness on\nthe chipmaking giant after its record surge.\n\n"
   },
   {
     "title": "Nickel Drops From 19-Month High as Metals Rally Takes Breather",
@@ -213,7 +213,7 @@
     "title": "Record-Breaking Stock Rally Loses Steam, Oil Falls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "The record-breaking global stock rally lost momentum in Asia after a sharp\nrun-up left markets showing signs of overheating, while the worsening China-\nJapan feud further weighed on sentiment.\n\n"
+    "summary": "The record-breaking global stock rally lost momentum in Asia after a sharp\nrun-up left markets showing signs of overheating.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
