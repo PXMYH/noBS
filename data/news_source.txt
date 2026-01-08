@@ -1,5 +1,47 @@
 [
   {
+    "title": "House votes to subpoena journalist for naming alleged Delta Force commander",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fseth-harp-first-amendment-luna-subpoena%2F",
+    "published": "Thu, 08 Jan 2026 21:34:05 CST",
+    "summary": "A lawmaker accused Seth Harp of “leaking classified intel” after he posted a\nphotograph of a person he identified as the head of the elite unit responsible\nfor the Venezuela operation.\n\n"
+  },
+  {
+    "title": "GM to record $7.1 billion in fourth-quarter charges due to EV pullback, China restructuring",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
+    "published": "Thu, 08 Jan 2026 21:20:29 CST",
+    "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
+  },
+  {
+    "title": "Market Bubbles Go Way Beyond AI, Says Richard Bernstein Advisors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fmarket-bubbles-go-way-beyond-ai-says-richard-bernstein-advisors",
+    "published": "Thu, 08 Jan 2026 21:16:54 CST",
+    "summary": "Excess liquidity has inflated asset prices across markets beyond just\nartificial intelligence, according to Richard Bernstein Advisors.\n\n"
+  },
+  {
+    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
+    "published": "Thu, 08 Jan 2026 21:10:04 CST",
+    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
+  },
+  {
+    "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html",
+    "published": "Thu, 08 Jan 2026 21:09:32 CST",
+    "summary": "Polymarket users bet on whether the U.S. would invade Venezuela, but the\nprediction market said the Venezuelan president’s capture did not constitute\nan invasion.\n\n"
+  },
+  {
+    "title": "G.M. Books a $7.1 Billion Loss as It Scales Back E.V. Ambitions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fgeneral-motors-electric-vehicles-writedown.html",
+    "published": "Thu, 08 Jan 2026 21:05:46 CST",
+    "summary": "General Motors said it was writing down the value of battery and electric\nvehicle factories after changes in federal policy undercut demand.\n\n"
+  },
+  {
+    "title": "Saks Fifth Avenue Is Facing A Potential Bankruptcy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fsaks-fifth-avenue-is-facing-a-potential-bankruptcy-video",
+    "published": "Thu, 08 Jan 2026 20:57:50 CST",
+    "summary": "Saks Fifth Avenue, one of America’s most iconic luxury department stores, is\nfacing a potential Chapter 11 bankruptcy as mounting debt and missed interest\npayments pressure the company’s future. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "KKR to Book 4.5 Times Return on OneStream Via Latest Buyout",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkkr-to-book-4-5-times-return-on-onestream-via-latest-buyout",
     "published": "Thu, 08 Jan 2026 20:40:22 CST",
@@ -16,12 +58,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html",
     "published": "Thu, 08 Jan 2026 20:38:42 CST",
     "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
-  },
-  {
-    "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html",
-    "published": "Thu, 08 Jan 2026 20:35:02 CST",
-    "summary": "Polymarket users bet on whether the U.S. would invade Venezuela, but the\nprediction market said Venezuelan president’s capture did not constitute an\ninvasion.\n\n"
   },
   {
     "title": "Argentina Construction Posts Largest Monthly Drop of 2025",
@@ -144,36 +180,6 @@
     "summary": "Brazilian investors are betting equity funds will rebound after a year of\nrecord outflows, when locals ditched stocks even as foreigners drove the\nbenchmark index to the highest levels ever.\n\n"
   },
   {
-    "title": "New Fortress Seeks to Push Debt Deadline as Restructuring Looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fnew-fortress-seeks-to-push-debt-deadline-as-restructuring-looms",
-    "published": "Thu, 08 Jan 2026 18:35:45 CST",
-    "summary": "New Fortress Energy Inc. is asking its creditors for yet more time to hash out\na debt restructuring before a forbearance period on some of its borrowings\nexpires, according to people familiar with the situation.\n\n"
-  },
-  {
-    "title": "Czech Defense Firm CSG Plans IPO Launch as Soon as Next Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fczech-defense-firm-csg-said-to-plan-ipo-launch-soon-as-next-week",
-    "published": "Thu, 08 Jan 2026 18:24:06 CST",
-    "summary": "Armored vehicle and munitions maker Czechoslovak Group AS is planning to\nlaunch an initial public offering in Amsterdam as soon as next week, according\nto people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Smart Glasses Pioneer Xreal Raises $100 Million in New Funding",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsmart-glasses-pioneer-xreal-raises-100-million-in-new-funding",
-    "published": "Thu, 08 Jan 2026 18:23:46 CST",
-    "summary": "Smart glasses maker Xreal Inc. recently raised $100 million, its chief\nexecutive officer said, adding to the firm’s coffers as competition in the\ncategory heats up.\n\n"
-  },
-  {
-    "title": "Macro Trading’s Big Year Has a Familiar Winner in Louis Bacon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fmacro-trading-s-big-year-has-a-familiar-winner-in-louis-bacon",
-    "published": "Thu, 08 Jan 2026 18:16:55 CST",
-    "summary": "Louis Bacon’s main fund at Moore Capital Management gained 23% last year.\n\n"
-  },
-  {
-    "title": "Nobody Really Wants to Fight the Affordability Crisis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-08%2Fnobody-really-wants-to-fight-the-affordability-crisis",
-    "published": "Thu, 08 Jan 2026 18:14:21 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "Private Equity Outlook with GTCR Co-CEO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fprivate-equity-outlook-with-gtcr-co-ceo-video",
     "published": "Thu, 08 Jan 2026 16:51:15 CST",
@@ -222,6 +228,12 @@
     "summary": "Rolling coverage of the latest economic and financial news\n\n  * **Labour to announce pub business rates U-turn after industry outcry**\n\n**  \n**\n\n**  \n**\n\n**Ouch! Shares in Associated British Foods have dropped by over 10% after it\nstartled the City with a profit warning at 7am.**\n\n**ABF** told shareholders this morning that sales growth at its **Primark**\nchain were below expections in the last 16 weeks, and that the discount\nclothing chain struggled in Europe and in the US.\n\n“Primark has had a challenging start to the financial year, with a mixed\nperformance. In the UK, focused actions and investments to strengthen our\ncustomer proposition have driven improved trading and market share gains,\nwhile trading has remained weak in continental Europe.\n\nIn a challenging consumer environment, our focus is on factors within our\ncontrol, including initiatives now underway in Europe aimed at improving\nperformance. We are also making good progress to deliver Primark’s medium and\nlonger-term growth opportunities.\n\nIn the UK, the focus on Thursday is on domestic matters, specifically who were\nthe retail winners from the crucial Christmas trading period. Tesco reported\nearnings that missed estimates, 3Q Like for like sales were 3.1%, versus\nestimates of a 4.8% gain. However, sales picked up over the Christmas period,\nrising 3.3%. This contributed to their highest UK market share in over a\ndecade and allowed the company to confirm its earnings guidance for this\nfinancial year at the high end of estimates. Thus, earrings were saved by\nChristmas for the grocer and they could be up to £3.1bn. Online sales were\nalso strong and rose more than 11%.\n\nOverall, its earnings have not been a roaring success, although the pickup in\nChristmas trade is encouraging, and managing to retain the high end earnings\nguidance for this year could also boost sentiment towards the UK’s largest\nsupermarket chain. Its stock price has been static for the past month, as\ninvestors wait for a driver. This earnings report may not set the world\nalight, but it could boost the share price later as it suggests that Tesco can\nmaintain market share and profits in a challenging operating environment and\nwhere the UK consumer is constrained.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Tech Stocks Stumble, Small Caps Jump As Rotation Gathers Pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fs-p-500-extends-retreat-from-record-high-as-defense-stocks-soar",
+    "published": "Thu, 08 Jan 2026 14:45:35 CST",
+    "summary": "Investors swapped technology high-flyers for last year’s laggards on Thursday,\nresuming an intermittent rotation that has characterized US equity trading in\nearly 2026.\n\n"
+  },
+  {
     "title": "Family office deals cooled off in December, but heirs placed bets in health and media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Ffamily-office-deals-bets-december.html",
     "published": "Thu, 08 Jan 2026 14:36:58 CST",
@@ -240,10 +252,10 @@
     "summary": "President Trump appears committed to laying claim to Venezuelan oil for a long\ntime. But there are plenty of reasons for U.S. businesses to be wary.\n\n"
   },
   {
-    "title": "US Trade Gap Shrinks to Smallest Since 2009 on Imports Drop",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fus-trade-deficit-narrows-to-smallest-since-2009-on-imports-drop",
-    "published": "Thu, 08 Jan 2026 13:33:37 CST",
-    "summary": "The US trade deficit unexpectedly narrowed in October to the smallest since\n2009 on a sharp pullback in imports, notably pharmaceuticals.\n\n"
+    "title": "David Rubenstein Show: Ray Dalio",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fdavid-rubenstein-show-ray-dalio-video",
+    "published": "Thu, 08 Jan 2026 13:30:26 CST",
+    "summary": "Billionaire investor Ray Dalio joins David Rubenstein for a wide-ranging\nconversation on the risks facing the US economy; from soaring debt and\ncurrency devaluation to tariffs and inflation - and why gold remains \"money\"\nin times of stress. He's on this week's episode of The David Rubenstein Show:\nPeer to Peer Conversations. This interview was recorded June 26 at the 92nd\nStreet Y in New York. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Lockheed Martin, Northrop Grumman, Gap, Alcoa & more",
@@ -258,7 +270,7 @@
     "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
   },
   {
-    "title": "Defense Stock Rally Extends Into 2026 as Geopolitics Stays Tense",
+    "title": "Defense Stock Rally Extends as Geopolitics Stays Tense",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdefense-stocks-soar-again-as-trump-plans-military-budget-boost",
     "published": "Thu, 08 Jan 2026 12:23:26 CST",
     "summary": "US defense stocks are off to a strong start in 2026, extending last year’s\nstellar performance as geopolitical tensions ratchet higher and military\nspending plans rise to match them.\n\n"
@@ -336,10 +348,16 @@
     "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
   },
   {
-    "title": "Oil Moves Higher as Traders Assess Venezuelan Supply Outlook",
+    "title": "Silver Extends Drop as Traders Brace for Wider Index Rebalancing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgold-steadies-as-traders-await-commodity-index-rebalancing-data",
+    "published": "Wed, 07 Jan 2026 23:40:05 CST",
+    "summary": "Silver fell for a second day with investors positioning for an annual\nrebalancing of commodity indexes that will see futures contracts worth\nbillions of dollars sold in the next few days. Gold steadied, paring earlier\nlosses.\n\n"
+  },
+  {
+    "title": "Oil Moves Higher as Traders Assess Iran Risks, Venezuela Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Flatest-oil-market-news-and-analysis-for-january-8",
     "published": "Wed, 07 Jan 2026 23:30:38 CST",
-    "summary": "Oil moved higher, rebounding from recent declines, as traders digested US\nmeasures to exert control over Venezuela’s oil.\n\n"
+    "summary": "Oil moved higher as traders digested a mix of geopolitical risks that could\nadd a premium to prices while continuing to assess US measures to exert\ncontrol over Venezuela’s oil.\n\n"
   },
   {
     "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
@@ -354,10 +372,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Stock Rotation Hits Big Tech as Small Caps Rally: Markets Wrap",
+    "title": "Big Tech Bets Hit by Rotation as Small Caps Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Big tech stocks tumbled as traders locked in profits from the artificial-\nintelligence trade while smaller firms rallied. An advance in global bonds\nstalled.\n\n"
+    "summary": "Sharp cross-currents buffeted US stocks beneath a placid surface Thursday, as\nlast year’s technology winners sold off and investors dove into energy\nproducers, consumer companies and small caps. An advance in global bonds\nstalled.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -994,12 +1012,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fcommercial-real-estate-2026-what-to-expect.html",
     "published": "Tue, 30 Dec 2025 15:15:41 CST",
     "summary": "Experts and research firms forecast a year of stabilization and recovery for\ncommercial real estate in 2026.\n\n"
-  },
-  {
-    "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F29%2Fgm-stock-tesla-ford.html",
-    "published": "Mon, 29 Dec 2025 21:36:36 CST",
-    "summary": "General Motors' stock is having its best year since the company's reemergence\nfrom bankruptcy in 2009.\n\n"
   },
   {
     "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
