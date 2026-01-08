@@ -1,5 +1,101 @@
 [
   {
+    "title": "China Kicks Off 2026 With Record Pace of Sovereign Bond Issuance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-kicks-off-2026-with-record-pace-of-sovereign-bond-issuance",
+    "published": "Thu, 08 Jan 2026 04:01:09 CST",
+    "summary": "China is starting the year with a record clip of government bond issuance,\nrattling a market where demand is already weak.\n\n"
+  },
+  {
+    "title": "JD.com Weighs Raising $1.4 Billion in Debut Dim Sum Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjd-com-weighs-raising-1-4-billion-in-debut-dim-sum-bond-sale",
+    "published": "Thu, 08 Jan 2026 03:58:41 CST",
+    "summary": "JD.com Inc. is considering its first dim sum bond sale, with a potential\noffering that could raise about 10 billion yuan ($1.4 billion), according to\npeople familiar with the matter, joining a slew of Chinese e-commerce\ncompanies looking to lock in cheap funding as competition intensifies.\n\n"
+  },
+  {
+    "title": "Citi’s Rohit Garg on AI Momentum in Asia",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fciti-s-rohit-garg-on-ai-momentum-in-asia-video",
+    "published": "Thu, 08 Jan 2026 03:56:30 CST",
+    "summary": "Citi Research Head of EM Asia Strategy Rohit Garg shares his take on growth\npotential among AI equities in South Korea, Taiwan and China. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjapan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mk4wjha0",
+    "published": "Thu, 08 Jan 2026 03:42:56 CST",
+    "summary": "Japan’s 30-year government bond auction Thursday saw demand that was weaker\nthan the 12-month average as fiscal concerns weighed on investor appetite.\n\n"
+  },
+  {
+    "title": "Billionaire Hedge Fund Manager Michael Platt Invests in UK Biotech Firm Engitix",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fbillionaire-hedge-fund-manager-michael-platt-invests-in-uk-biotech-firm-engitix",
+    "published": "Thu, 08 Jan 2026 03:40:59 CST",
+    "summary": "UK-based biotechnology company Engitix Ltd. has raised a further $25 million\nfrom billionaire Michael Platt to help develop its therapies for cancer and\nfibrosis.\n\n"
+  },
+  {
+    "title": "Hyundai Motor VP on Future of Robotics",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fhyundai-motor-vp-on-future-of-robotics-video",
+    "published": "Thu, 08 Jan 2026 03:40:43 CST",
+    "summary": "Hyundai Motor's first autonomous mobility robot platform has won a top\ninnovation award at CES 2026 in Las Vegas. Dong Jin Hyun, Vice President and\nHead of Robotics LAB at the company, discusses AI trends and robotics\ntechnology with Bloomberg's Shery Ahn on the sidelines of the trade show.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fed Independence Key for Dollar, Brainard Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Ffed-independence-key-for-dollar-brainard-says-video",
+    "published": "Thu, 08 Jan 2026 03:38:56 CST",
+    "summary": "Former Federal Reserve Vice Chair Lael Brainard says the central bank's\nindependence is key to keeping global investors confident in the dollar.\nSpeaking on Bloomberg's The China Show, she also predicts that US growth could\naccelerate in the first half of 2026. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
+    "published": "Thu, 08 Jan 2026 03:37:31 CST",
+    "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
+  },
+  {
+    "title": "Insta360 Co-founder on Business Strategy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Finsta360-co-founder-on-business-strategy-video",
+    "published": "Thu, 08 Jan 2026 03:35:38 CST",
+    "summary": "Max Richter, co-founder of Chinese action camera maker Insta360, discusses the\ncompany's business outlook and protect strategy, and the role of AI as a\ngrowth driver. He speaks with Annabelle Droulers on the sidelines of CES in\nLas Vegas. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "India Regulator Alleges BofA Workers Shared Private Information",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Findia-regulator-alleges-bofa-workers-shared-private-information",
+    "published": "Thu, 08 Jan 2026 03:19:46 CST",
+    "summary": "India’s market regulator is alleging that Bank of America Corp. employees\nshared non-public information with other colleagues inside the firm about a\nblock trade of shares in 2024, according to a person familiar with the matter.\n\n"
+  },
+  {
+    "title": "Mamdani Hosts Influencer Summit, Sidestepping Traditional Media",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html",
+    "published": "Thu, 08 Jan 2026 03:03:30 CST",
+    "summary": "A friendly summit at New York’s City Hall with digital content creators and\nsocial media stars symbolized the new mayor’s attitude toward the changing\nnews media.\n\n"
+  },
+  {
+    "title": "Nickel Steadies After Slump as Traders Seek Clarity on Supply",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fnickel-steadies-after-slump-as-traders-seek-clarity-on-supply",
+    "published": "Thu, 08 Jan 2026 02:57:10 CST",
+    "summary": "Nickel steadied after a period of volatile trading as investors continued to\nbet on risks to output in top supplier Indonesia.\n\n"
+  },
+  {
+    "title": "Colombia Looks to Turn the Page With US After Petro–Trump Call",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fcolombia-looks-to-turn-the-page-with-us-after-petro-trump-call",
+    "published": "Thu, 08 Jan 2026 02:55:57 CST",
+    "summary": "Colombia expects tensions with the US to ease and cooperation on drug\ntrafficking to strengthen following an hour-long phone call between Donald\nTrump and Gustavo Petro, a senior Colombian diplomat said later on Wednesday.\n\n"
+  },
+  {
+    "title": "AntiGravity CEO on New 8K 360-Degree Drone",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fantigravity-ceo-on-new-8k-360-degree-drone-video",
+    "published": "Thu, 08 Jan 2026 02:37:23 CST",
+    "summary": "Michael Shabun, CEO at Antigravity, discusses the company's new consumer drone\nfeaturing a built-in 8K 360-degree camera. He speaks with Annabelle Droulers\non \"The Asia Trade\". (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Boston Dynamics CEO on Atlas Humanoid Robot",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fboston-dynamics-ceo-on-atlas-humanoid-robot-video",
+    "published": "Thu, 08 Jan 2026 02:32:21 CST",
+    "summary": "Robert Playter, CEO at Boston Dynamics, discusses the company's new Atlas\nhumanoid robot designed to work in Hyundai’s manufacturing plants starting in\n2028. He speaks with Ed Ludlow on \"The Asia Trade\". (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Global Military Risks Boost Shares of Japan’s Weapons Makers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fglobal-military-risks-boost-shares-of-japan-s-weapons-makers",
+    "published": "Thu, 08 Jan 2026 02:14:20 CST",
+    "summary": "Japanese defense shares are expected to carry their rally into 2026, as\nheightened geopolitical tensions underscore the case for higher spending on\narmaments.\n\n"
+  },
+  {
     "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
     "published": "Thu, 08 Jan 2026 01:56:11 CST",
@@ -12,7 +108,7 @@
     "summary": "Villagers near China’s capital are facing a bitter winter, with many unable to\nafford gas heating after the phaseout of local subsidies intended to relieve\nthe cost of Beijing’s campaign for cleaner air.\n\n"
   },
   {
-    "title": "Korea Prosecutors Seek Arrest Warrant for PE Billionaire MBK",
+    "title": "Korea Prosecutors Seek Arrest Warrant for Private Equity Billionaire",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkorea-prosecutors-seek-arrest-warrant-for-pe-billionaire-mbk",
     "published": "Thu, 08 Jan 2026 00:57:23 CST",
     "summary": "South Korean prosecutors said they have sought an arrest warrant for Michael\nByungJu Kim, the billionaire co-founder and chairman of private equity firm\nMBK Partners Ltd.\n\n"
@@ -78,40 +174,10 @@
     "summary": "The settlement came in the case of a 14-year-old in Florida who had killed\nhimself after developing a relationship with an A.I. chatbot.\n\n"
   },
   {
-    "title": "Southern Bancorp CEO: Average Home Prices Ticking Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsouthern-bancorp-ceo-average-home-prices-ticking-up-video",
-    "published": "Wed, 07 Jan 2026 23:12:31 CST",
-    "summary": "Darrin Williams, CEO of Southern Bancorp, says affordability, particularly\ndown payments, remains the biggest deterrent for families. He speaks with\nRomaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Homeowners Battle for Billions to Rebuild a Year After LA Fires",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fla-homeowners-battle-for-billions-to-rebuild-video",
-    "published": "Wed, 07 Jan 2026 23:04:18 CST",
-    "summary": "Many Los Angeles residents are facing a difficult reality as they recover one\nyear after the Eaton and Palisades blazes killed 31 people and charred almost\n40,000 acres. Rebuilding is possible, but only for those who can negotiate\ndeals, absorb losses or take on risk. Even then, the money often doesn’t add\nup. As the toll of the devastation comes into clearer view, disputes over who\nwill bear the cost are escalating. Bloomberg News Los Angeles Bureau Chief\nJohn Gittelsohn joins Bloomberg Businessweek Daily to discuss. He speaks with\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Amherst's Dobson: Trump's Housing Move ‘Patently Wrong'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Famherst-s-dobson-trump-s-housing-move-patently-wrong-video",
-    "published": "Wed, 07 Jan 2026 23:03:08 CST",
-    "summary": "Sean Dobson, CEO of Amherst, says banning institutional investors from the\nsingle-family housing market would not improve affordability. He tells Romaine\nBostick and Katie Greifeld on “The Close” that targeting investors is\n“patently wrong.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Stock Traders Whipsawed as Trump Sets Sights on Defense, Housing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-traders-whipsawed-as-trump-sets-sights-on-defense-housing",
-    "published": "Wed, 07 Jan 2026 23:02:03 CST",
-    "summary": "With a series of incendiary posts on his social-media platform, President\nDonald Trump shook up the stock market on Wednesday by announcing potentially\ngame-changing new policies targeting the housing and defense industries.\n\n"
-  },
-  {
-    "title": "OpenAI Rival Zhipu Has Muted Debut After $558 Million IPO",
+    "title": "China’s OpenAI Rival Zhipu Rises After $558 Million IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo",
     "published": "Wed, 07 Jan 2026 23:00:00 CST",
-    "summary": "Shares of Knowledge Atlas Technology JSC Ltd. eked out gains on their Hong\nKong debut, following a $558 million initial public offering that made it the\nfirst major Chinese generative-AI startup to go public.\n\n"
-  },
-  {
-    "title": "Smith: 'Cautious, but Needful' M&A to Define 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fsmith-cautious-but-needful-m-a-to-define-2026-video",
-    "published": "Wed, 07 Jan 2026 22:59:24 CST",
-    "summary": "Ted Smith, president and co-founder of Union Square Advisors, discusses M&A\nmomentum and the IPO pipeline heading into 2026 with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
+    "summary": "Shares of Knowledge Atlas Technology JSC Ltd. gained on their Hong Kong debut,\nfollowing a $558 million initial public offering that made it the first major\nChinese generative-AI startup to go public.\n\n"
   },
   {
     "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
@@ -120,52 +186,22 @@
     "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
   },
   {
-    "title": "Whitney: Housing May Be Trump’s Shortest ‘Trial Balloon’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fwhitney-housing-may-be-trump-s-shortest-trial-balloon-video",
-    "published": "Wed, 07 Jan 2026 22:53:06 CST",
-    "summary": "Meredith Whitney, CEO of Meredith Whitney Advisory Group, says Trump’s\nproposal to ban investors from single family homes is one of several trial\nballoons from the White House. She speaks with Katie Greifeld and Romaine\nBostick on “The Close.”\n\n"
-  },
-  {
-    "title": "Trump’s Bid to Block Corporate Homebuying Blindsides Wall Street",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ftrump-s-bid-to-block-corporate-homebuying-blindsides-wall-street",
-    "published": "Wed, 07 Jan 2026 22:52:48 CST",
-    "summary": "The time of the corporate landlord as America’s housing villain was supposed\nto be over.\n\n"
-  },
-  {
     "title": "Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html",
     "published": "Wed, 07 Jan 2026 22:49:47 CST",
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "FDA Commissioner on New Nutrition Guidelines, Flu Surge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ffda-commmissioner-on-new-nutrition-guidelines-flu-surge-video",
-    "published": "Wed, 07 Jan 2026 22:22:08 CST",
-    "summary": "FDA Commissioner Dr. Marty Makary discusses the new US dietary guidelines that\ncall for more protein and less processed food. Speaking on \"Bloomberg The\nClose,\" Dr. Makary also comments on the recent surge in flu cases. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Citgo Considers Buying Venezuela Oil Again Amid Pending Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcitgo-mulls-buying-venezuela-oil-again-amid-pending-elliott-deal",
-    "published": "Wed, 07 Jan 2026 22:12:20 CST",
-    "summary": "Citgo Petroleum Corp., the US refiner indirectly owned by Venezuela, may\nemerge as one of the biggest beneficiaries of President Donald Trump’s plan to\nbring millions of barrels of the country’s oil to the US.\n\n"
-  },
-  {
-    "title": "Stocks Stay Range-Bound, Treasuries Hold Gains: Markets Wrap",
+    "title": "Asian Stocks Edge Lower for Second Day, Oil Gains: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Asian stocks edged marginally lower as investors largely stayed on the\nsidelines amid a lack of fresh catalysts ahead of key US economic data.\nTreasuries held their gains.\n\n"
+    "summary": "Asian stocks edged marginally lower as investors stayed on the sidelines ahead\nof Friday’s US economic data, which will offer clues on the path of interest\nrates. Oil rose for the first time in three sessions.\n\n"
   },
   {
     "title": "Buyout Wave Seen Among Japan Drugmakers After Hisamitsu Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbuyout-wave-seen-among-japan-drugmakers-after-hisamitsu-deal",
     "published": "Wed, 07 Jan 2026 22:00:00 CST",
     "summary": "Hisamitsu Pharmaceutical Co.’s ¥457 billion ($2.9 billion) plan to go private\nis being seen as a prime example of a flight from public markets among Japan’s\ndrugmakers, with analysts expecting more to follow.\n\n"
-  },
-  {
-    "title": "Exxon Says Oil Slump Cut $1 Billion From Fourth-Quarter Results",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fexxon-says-oil-slump-cut-1-billion-from-fourth-quarter-results",
-    "published": "Wed, 07 Jan 2026 21:56:16 CST",
-    "summary": "Exxon Mobil Corp. said lower oil prices reduced fourth-quarter results by $800\nmillion to $1.2 billion, one of the first signs that Big Oil is facing a tough\nearnings season.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -234,7 +270,7 @@
     "summary": "Median sale price was at $410,800 last year, according to the Census Bureau,\neven as Trump campaigned on affordability\n\nDonald Trump said his administration was moving to ban large institutional\ninvestors from buying single-family homes in a bid to reduce home prices.\n\nIn a post on Truth Social, his social media platform, the US president said he\nwill be asking Congress to codify the measure and will be discussing\nadditional housing and affordability proposals in a speech at the Davos World\nEconomic Forum.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Global Bond Sales Hit Record $245 Billion to Kick Off 2026",
+    "title": "Global Bond Sales Hit Record $260 Billion to Kick Off 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fglobal-bond-sales-hit-record-230-billion-to-kick-off-2026",
     "published": "Wed, 07 Jan 2026 19:12:29 CST",
     "summary": "Global bond sales had their busiest ever start to a year as borrowers of every\nstripe seize on investors’ insatiable appetite for risk.\n\n"
@@ -244,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Favelo-airlines-ice-deportation-flights-job-cuts.html",
     "published": "Wed, 07 Jan 2026 19:11:10 CST",
     "summary": "Upstart airline Avelo said it would stop flying deportation flights for ICE,\nciting unpredictable revenue and added costs.\n\n"
-  },
-  {
-    "title": "Blackstone, Housing Stocks Slip as Trump Targets Big Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblackstone-homebuilder-shares-plunge-on-trump-housing-comments",
-    "published": "Wed, 07 Jan 2026 18:34:27 CST",
-    "summary": "Shares of Blackstone Inc. and other housing-related companies tumbled\nWednesday after President Donald Trump said he would move to ban institutional\ninvestors from buying single-family homes.\n\n"
   },
   {
     "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
@@ -268,12 +298,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fpentagon-press-hegseth-venezuela%2F",
     "published": "Wed, 07 Jan 2026 17:56:34 CST",
     "summary": "Newfound access hasn’t provided more information to the largely right-wing\npress corps that signed the Defense Department’s media rules.\n\n"
-  },
-  {
-    "title": "First Brands Founder Says Jefferies Is Withholding Documents",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ffirst-brands-founder-accuses-jefferies-of-withholding-documents",
-    "published": "Wed, 07 Jan 2026 17:04:57 CST",
-    "summary": "First Brands Group founder Patrick James said Jefferies Financial Group was\nrefusing to turn over documents that would “put the lie” to the financial\nfirm’s claims that he defrauded it.\n\n"
   },
   {
     "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
@@ -318,22 +342,10 @@
     "summary": "US to remove some sanctions to allow it to keep selling country’s supplies\nafter laying claim to blockaded crude\n\n  * US seizes Russian-flagged oil tanker after two-week pursuit\n\n  * Explainer: why so much interest in a rusty tanker in the Atlantic?\n\nThe US plans to control Venezuela’s oil sales “indefinitely” after laying\nclaim to 50m barrels of blockaded crude and seizing a Russian oil tanker\nlinked to the South American country.\n\nThe White House already plans to sell up to $3bn (£2.2bn) worth of Venezuelan\ncrude stranded in tankers and storage facilities into the oversupplied global\nmarket after the American military’s capture of Nicolás Maduro.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Codelco Achieves Copper Growth Goal &mdash; by Slimmest of Margins",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcodelco-delivers-on-copper-growth-goal-by-slimmest-of-margins",
-    "published": "Wed, 07 Jan 2026 14:58:07 CST",
-    "summary": "Codelco Chairman Máximo Pacheco is meeting his goal of raising production at\nthe state-owned copper giant -- though only just.\n\n"
-  },
-  {
     "title": "American Airlines keeps frequent flyer status requirements the same, following rivals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html",
     "published": "Wed, 07 Jan 2026 14:45:01 CST",
     "summary": "American Airlines is keeping frequent flyer status requirements the same for a\nthird consecutive year.\n\n"
-  },
-  {
-    "title": "Stocks Falter Near Record Highs on Trump Comments, Economic Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fus-stocks-hover-near-record-highs-as-traders-await-economic-data",
-    "published": "Wed, 07 Jan 2026 14:36:06 CST",
-    "summary": "The record-breaking advance in US equities paused on Wednesday as mixed\neconomic reports and a flurry of social media posts from President Donald\nTrump tested risk appetite.\n\n"
   },
   {
     "title": "Why Trump’s Greenland Strategy Has the World on Edge",
@@ -408,16 +420,16 @@
     "summary": "Gamblers who placed wagers totalling $10.5m angered after capture of Nicolás\nMaduro deemed not to qualify\n\nThe online wager platform Polymarket has angered some gamblers by declaring it\nwill not settle millions of dollars’ worth of bets on a US invasion of\nVenezuela, arguing that the capture of the then president, Nicolás Maduro,\ndoes not qualify.\n\nBefore Donald Trump’s forces seized Maduro on Saturday morning, some traders\nappeared to have anticipated the shock move by placing bets on “prediction\nmarkets”.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Maduro’s ‘Perfect Union’ With China Hides Deep Economic Rupture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmaduro-s-perfect-union-with-china-hides-deep-economic-rupture",
+    "published": "Wed, 07 Jan 2026 08:00:00 CST",
+    "summary": "Ousted Venezuelan leader Nicolas Maduro may have done more to hollow out\nChina’s presence in his economy than Donald Trump ever could.\n\n"
+  },
+  {
     "title": "Chevron, Quantum Capital Bid on Lukoil Assets, FT Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says",
     "published": "Wed, 07 Jan 2026 05:20:43 CST",
     "summary": "Chevron Corp. and private equity group Quantum Capital Group LLC will join\nforces to buy the international assets of sanctioned Russian oil company\nLukoil PJSC, according to the Financial Times.\n\n"
-  },
-  {
-    "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
-    "published": "Wed, 07 Jan 2026 05:00:14 CST",
-    "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
   },
   {
     "title": "Congress has four weeks to dodge another shutdown",
@@ -448,12 +460,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html",
     "published": "Tue, 06 Jan 2026 22:54:22 CST",
     "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
-  },
-  {
-    "title": "Stock Bull Run Stalls After Trump Tirade; Bonds Up: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 06 Jan 2026 22:40:59 CST",
-    "summary": "Wall Street optimism faded as traders digested mixed economic data and took\nstock of shifting geopolitical risks amid a flurry of social media posts from\nthe US President. Yields fell across the globe.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
@@ -586,12 +592,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
     "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
-  },
-  {
-    "title": "Corporation for Public Broadcasting, gutted of federal funds, votes to dissolve",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F05%2Fcorporation-for-public-broadcasting-pbs-npr-dissolve%2F",
-    "published": "Tue, 06 Jan 2026 03:51:57 CST",
-    "summary": "President Donald Trump and congressional Republicans succeeded this summer in\nstripping federal funds from public media. Now the 58-year-old organization is\ngone.\n\n"
   },
   {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
@@ -820,12 +820,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fsaks-ceo-marc-metrick-steps-down.html",
     "published": "Fri, 02 Jan 2026 21:34:55 CST",
     "summary": "Saks Global’s executive chairman, Richard Baker, is taking over the luxury\nretailer he created with the 2024 acquisition of Neiman Marcus and Bergdorf\nGoodman.\n\n"
-  },
-  {
-    "title": "China’s BYD Surpasses Tesla as World Leader in Electric Car Sales",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Ftesla-electric-vehicles-fourth-quarter-sales.html",
-    "published": "Fri, 02 Jan 2026 19:47:35 CST",
-    "summary": "As the largest maker of electric vehicles in the United States, Tesla suffered\nmore than other carmakers from the elimination of federal incentives.\n\n"
   },
   {
     "title": "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever",
