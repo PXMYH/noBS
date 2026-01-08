@@ -1,5 +1,35 @@
 [
   {
+    "title": "Philippine Central Bank Gold Holdings Jump 70% in 2025 to Record",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fusd-php-philippine-central-bank-gold-holdings-jump-70-in-2025-to-record",
+    "published": "Thu, 08 Jan 2026 04:42:43 CST",
+    "summary": "The value of the Philippine central bank’s gold holdings surged almost 70%\nlast year to a record high as the metal jumped.\n\n"
+  },
+  {
+    "title": "Australian Bonds Rally on Dovish Rate Outlook, Treasuries Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Faustralian-bonds-rally-on-dovish-rate-outlook-treasuries-rise",
+    "published": "Thu, 08 Jan 2026 04:33:35 CST",
+    "summary": "Australian bonds rallied, lifted by an overnight rise in Treasuries and a\ndovish interpretation of central bank comments on its fight against inflation.\n\n"
+  },
+  {
+    "title": "K Now Means Kicking Private Equity Out of the House",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-08%2Fk-now-means-kicking-private-equity-out-of-the-house",
+    "published": "Thu, 08 Jan 2026 04:29:33 CST",
+    "summary": "There’s opportunity in inequality. There’s also an election coming up.\n\n"
+  },
+  {
+    "title": "Sumitomo’s Energy Arm May Set Up LNG Trading Desk in Singapore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsumitomo-s-energy-arm-may-set-up-lng-trading-desk-in-singapore",
+    "published": "Thu, 08 Jan 2026 04:26:32 CST",
+    "summary": "The energy trading arm of Sumitomo Corp. is considering setting up an LNG desk\nin Singapore, the latest move by the Japanese company to strengthen its\nfoothold in the seaborne market for the fuel.\n\n"
+  },
+  {
+    "title": "Chinese Teahouse Chain Chagee Is Said to Explore Hong Kong Listing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchinese-teahouse-chain-chagee-is-said-to-explore-hong-kong-listing",
+    "published": "Thu, 08 Jan 2026 04:24:01 CST",
+    "summary": "Chinese tea chain Chagee Holdings Ltd. is considering a listing in Hong Kong,\naccording to people familiar with the matter, joining a rush of firms being\ndrawn to sell shares in the Asian financial hub.\n\n"
+  },
+  {
     "title": "China Kicks Off 2026 With Record Pace of Sovereign Bond Issuance",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-kicks-off-2026-with-record-pace-of-sovereign-bond-issuance",
     "published": "Thu, 08 Jan 2026 04:01:09 CST",
@@ -18,10 +48,10 @@
     "summary": "Citi Research Head of EM Asia Strategy Rohit Garg shares his take on growth\npotential among AI equities in South Korea, Taiwan and China. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
+    "title": "Japan Bond Futures Hold Gains After 30-Year Sale Allays Concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjapan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mk4wjha0",
     "published": "Thu, 08 Jan 2026 03:42:56 CST",
-    "summary": "Japan’s 30-year government bond auction Thursday saw demand that was weaker\nthan the 12-month average as fiscal concerns weighed on investor appetite.\n\n"
+    "summary": "Japan’s bond futures held onto gains after the lowest price at an auction of\n30-year debt was slightly above forecasts, even though the bid-to-cover ratio\nshowed lackluster demand.\n\n"
   },
   {
     "title": "Billionaire Hedge Fund Manager Michael Platt Invests in UK Biotech Firm Engitix",
@@ -102,16 +132,10 @@
     "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
   },
   {
-    "title": "Chinese Villagers Shiver in Winter as Gas Subsidies Phased Out",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchinese-villagers-shiver-in-winter-as-gas-subsidies-phased-out",
-    "published": "Thu, 08 Jan 2026 01:03:27 CST",
-    "summary": "Villagers near China’s capital are facing a bitter winter, with many unable to\nafford gas heating after the phaseout of local subsidies intended to relieve\nthe cost of Beijing’s campaign for cleaner air.\n\n"
-  },
-  {
     "title": "Korea Prosecutors Seek Arrest Warrant for Private Equity Billionaire",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkorea-prosecutors-seek-arrest-warrant-for-pe-billionaire-mbk",
     "published": "Thu, 08 Jan 2026 00:57:23 CST",
-    "summary": "South Korean prosecutors said they have sought an arrest warrant for Michael\nByungJu Kim, the billionaire co-founder and chairman of private equity firm\nMBK Partners Ltd.\n\n"
+    "summary": "South Korean prosecutors said they have sought an arrest warrant for Michael\nByungJu Kim, the billionaire co-founder and chairman of MBK Partners Ltd,\nmarking a sharp escalation in the long-simmering dispute over the firm’s\nmanagement of beleaguered supermarket chain Homeplus.\n\n"
   },
   {
     "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
@@ -124,12 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
     "published": "Thu, 08 Jan 2026 00:35:45 CST",
     "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
-  },
-  {
-    "title": "Asian Scorecard Shows Philippine Bonds With Most Promise in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fwhy-philippine-bonds-offer-the-best-yield-potential-on-the-2026-asian-scorecard",
-    "published": "Thu, 08 Jan 2026 00:00:26 CST",
-    "summary": "Philippine bonds look well-placed to beat Asian peers in early 2026 as they\noffer attractive yields, with the debt expected to jump in value on the\nprospect of further interest-rate cuts, according to a Bloomberg analysis.\n\n"
   },
   {
     "title": "China’s Metals in Grip of Frenzy as Investors Bet on Rally",
@@ -156,18 +174,6 @@
     "summary": "Oil edged higher as traders digested more measures from the US to exert\ncontrol over Venezuela, including a plan to indefinitely manage future crude\nsales and the seizure of two more sanctioned tankers.\n\n"
   },
   {
-    "title": "BlueScope Shares Slip After Spurning Steel Dynamics, SGH Bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbluescope-shares-slip-after-spurning-steel-dynamics-sgh-bid",
-    "published": "Wed, 07 Jan 2026 23:30:19 CST",
-    "summary": "BlueScope Steel Ltd. shares slipped after it turned down the latest takeover\napproach from the US’s Steel Dynamics Inc., arguing an $8.8 billion joint\noffer with Australian conglomerate SGH Ltd. “very significantly” undervalued\nits assets.\n\n"
-  },
-  {
-    "title": "Defense Stocks Slip as Trump Blocks Dividends, Buybacks | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Fdefense-stocks-slip-closing-bell-video",
-    "published": "Wed, 07 Jan 2026 23:23:34 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Ftechnology%2Fgoogle-characterai-teenager-lawsuit.html",
     "published": "Wed, 07 Jan 2026 23:22:13 CST",
@@ -192,10 +198,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Asian Stocks Edge Lower for Second Day, Oil Gains: Markets Wrap",
+    "title": "Treasuries Extend Gain, Corporate Bond Sales Soar: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Asian stocks edged marginally lower as investors stayed on the sidelines ahead\nof Friday’s US economic data, which will offer clues on the path of interest\nrates. Oil rose for the first time in three sessions.\n\n"
+    "summary": "A rally in global government bonds and Treasuries extended into Asia amid weak\nUS economic data and rising geopolitical tensions.\n\n"
   },
   {
     "title": "Buyout Wave Seen Among Japan Drugmakers After Hisamitsu Deal",
@@ -244,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F",
     "published": "Wed, 07 Jan 2026 20:01:50 CST",
     "summary": "Politicians in both parties are trying to respond to voter anger over the\nprice of housing.\n\n"
-  },
-  {
-    "title": "BNP Paribas Loses Bid to Throw Out $21 Million Sudan Verdict",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict",
-    "published": "Wed, 07 Jan 2026 19:47:20 CST",
-    "summary": "A New York judge denied BNP Paribas SA’s request to throw out a $20.75 million\nverdict against the bank for funding a regime that committed widespread human\nrights abuses in Sudan.\n\n"
   },
   {
     "title": "China’s Threat to Block Rare Earths Has Put Japan on High Alert",
