@@ -1,6 +1,42 @@
 [
   {
-    "title": "S&amp;P 500 Extends Retreat From Record High As Defense Stocks Soar",
+    "title": "Used vehicle pricing expected to increase 2% in 2026, a historically stable rate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html",
+    "published": "Thu, 08 Jan 2026 15:44:45 CST",
+    "summary": "Cox Automotive expects wholesale prices on the Manheim Used Vehicle Value\nIndex will end this year 2% higher than December 2025.\n\n"
+  },
+  {
+    "title": "Pub chain shares rise on reports of government U-turn over business rates – as it happened",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F08%2Fmarks-spencer-tesco-greggs-christmas-trading-house-prices-stock-markets-business-live-news-updates",
+    "published": "Thu, 08 Jan 2026 15:26:30 CST",
+    "summary": "Rolling coverage of the latest economic and financial news\n\n  * **Labour to announce pub business rates U-turn after industry outcry**\n\n**  \n**\n\n**  \n**\n\n**Ouch! Shares in Associated British Foods have dropped by over 10% after it\nstartled the City with a profit warning at 7am.**\n\n**ABF** told shareholders this morning that sales growth at its **Primark**\nchain were below expections in the last 16 weeks, and that the discount\nclothing chain struggled in Europe and in the US.\n\n“Primark has had a challenging start to the financial year, with a mixed\nperformance. In the UK, focused actions and investments to strengthen our\ncustomer proposition have driven improved trading and market share gains,\nwhile trading has remained weak in continental Europe.\n\nIn a challenging consumer environment, our focus is on factors within our\ncontrol, including initiatives now underway in Europe aimed at improving\nperformance. We are also making good progress to deliver Primark’s medium and\nlonger-term growth opportunities.\n\nIn the UK, the focus on Thursday is on domestic matters, specifically who were\nthe retail winners from the crucial Christmas trading period. Tesco reported\nearnings that missed estimates, 3Q Like for like sales were 3.1%, versus\nestimates of a 4.8% gain. However, sales picked up over the Christmas period,\nrising 3.3%. This contributed to their highest UK market share in over a\ndecade and allowed the company to confirm its earnings guidance for this\nfinancial year at the high end of estimates. Thus, earrings were saved by\nChristmas for the grocer and they could be up to £3.1bn. Online sales were\nalso strong and rose more than 11%.\n\nOverall, its earnings have not been a roaring success, although the pickup in\nChristmas trade is encouraging, and managing to retain the high end earnings\nguidance for this year could also boost sentiment towards the UK’s largest\nsupermarket chain. Its stock price has been static for the past month, as\ninvestors wait for a driver. This earnings report may not set the world\nalight, but it could boost the share price later as it suggests that Tesco can\nmaintain market share and profits in a challenging operating environment and\nwhere the UK consumer is constrained.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Inside Wealth: California's controversial wealth tax proposal leaves billionaires with little way out",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcalifornia-wealth-tax-proposal-leaves-billionaires-with-little-way-out.html",
+    "published": "Thu, 08 Jan 2026 15:14:52 CST",
+    "summary": "The Billionaire Tax Act would impose a one-time tax of 5% on the total wealth\nof California tax residents whose net worth is $1 billion or more.\n\n"
+  },
+  {
+    "title": "Italy’s Defense Costs Won’t Dent Social Spending, Giorgetti Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fitaly-s-defense-costs-won-t-dent-social-spending-giorgetti-says",
+    "published": "Thu, 08 Jan 2026 15:02:23 CST",
+    "summary": "Italy’s promise to raise defense spending to meet NATO targets will not impact\nthe country’s social safety net, Finance Minister Giancarlo Giorgetti said.\n\n"
+  },
+  {
+    "title": "Fed’s Miran on Rate Cuts, Inflation, Future at Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Ffed-s-miran-on-rate-cuts-inflation-future-at-fed-video",
+    "published": "Thu, 08 Jan 2026 14:56:37 CST",
+    "summary": "Federal Reserve Governor Stephen Miran said he is looking for about 150 basis\npoints of interest rate cuts this year to boost the labor market. Miran\nrepeated his argument that the current stance of policy remains well above his\nestimate for neutral and said it remains unclear whether he might remain at\nthe central bank after his term expires. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Advent Said in Talks to Partner With InPost CEO, PPF on Buyout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fadvent-said-in-talks-to-partner-with-inpost-ceo-ppf-on-buyout",
+    "published": "Thu, 08 Jan 2026 14:52:31 CST",
+    "summary": "Buyout firm Advent is in talks to team up with InPost SA’s founder and Czech\ninvestment firm PPF Group NV on a potential buyout of the Amsterdam-listed\nlogistics company, people with knowledge of the matter said.\n\n"
+  },
+  {
+    "title": "S&amp;P 500 Wavers as Tech Weakness Offsets Rally in Defense Shares",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fs-p-500-extends-retreat-from-record-high-as-defense-stocks-soar",
     "published": "Thu, 08 Jan 2026 14:45:35 CST",
     "summary": "US stocks fell on Thursday, with traders dialing back risk as they assess\nmixed signals on the US economy. President Donald Trump’s plans to ratchet up\nthe US military budget buoyed defense stocks around the world.\n\n"
@@ -22,12 +58,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Feconomy%2Fus-trade-deficit-tariffs.html",
     "published": "Thu, 08 Jan 2026 14:31:15 CST",
     "summary": "The monthly trade deficit continued to shrink in October after President Trump\nimposed sweeping tariffs on foreign imports.\n\n"
-  },
-  {
-    "title": "Pub chain shares rise on reports of government U-turn over business rates – business live",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F08%2Fmarks-spencer-tesco-greggs-christmas-trading-house-prices-stock-markets-business-live-news-updates",
-    "published": "Thu, 08 Jan 2026 14:29:31 CST",
-    "summary": "Rolling coverage of the latest economic and financial news\n\n  * **Labour to announce pub business rates U-turn after industry outcry**\n\n**  \n**\n\n**  \n**\n\n**Ouch! Shares in Associated British Foods have dropped by over 10% after it\nstartled the City with a profit warning at 7am.**\n\n**ABF** told shareholders this morning that sales growth at its **Primark**\nchain were below expections in the last 16 weeks, and that the discount\nclothing chain struggled in Europe and in the US.\n\n“Primark has had a challenging start to the financial year, with a mixed\nperformance. In the UK, focused actions and investments to strengthen our\ncustomer proposition have driven improved trading and market share gains,\nwhile trading has remained weak in continental Europe.\n\nIn a challenging consumer environment, our focus is on factors within our\ncontrol, including initiatives now underway in Europe aimed at improving\nperformance. We are also making good progress to deliver Primark’s medium and\nlonger-term growth opportunities.\n\nIn the UK, the focus on Thursday is on domestic matters, specifically who were\nthe retail winners from the crucial Christmas trading period. Tesco reported\nearnings that missed estimates, 3Q Like for like sales were 3.1%, versus\nestimates of a 4.8% gain. However, sales picked up over the Christmas period,\nrising 3.3%. This contributed to their highest UK market share in over a\ndecade and allowed the company to confirm its earnings guidance for this\nfinancial year at the high end of estimates. Thus, earrings were saved by\nChristmas for the grocer and they could be up to £3.1bn. Online sales were\nalso strong and rose more than 11%.\n\nOverall, its earnings have not been a roaring success, although the pickup in\nChristmas trade is encouraging, and managing to retain the high end earnings\nguidance for this year could also boost sentiment towards the UK’s largest\nsupermarket chain. Its stock price has been static for the past month, as\ninvestors wait for a driver. This earnings report may not set the world\nalight, but it could boost the share price later as it suggests that Tesco can\nmaintain market share and profits in a challenging operating environment and\nwhere the UK consumer is constrained.\n\nContinue reading...\n\n"
   },
   {
     "title": "ConocoPhillips and Exxon Look at Venezuela Role After Maduro Ouster, US Energy Boss Says",
@@ -58,6 +88,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fcentral-banker-says-23-wage-hike-boosts-colombia-rate-hike-case",
     "published": "Thu, 08 Jan 2026 14:00:01 CST",
     "summary": "Colombia’s record minimum wage increase is a significant inflation shock that\nbolsters the case for higher interest rates, according to a senior central\nbanker.\n\n"
+  },
+  {
+    "title": "Qube’s Main Hedge Fund Gained 30%, Torus Made 20% Last Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fqube-s-main-hedge-fund-gained-30-torus-made-20-last-year",
+    "published": "Thu, 08 Jan 2026 13:47:43 CST",
+    "summary": "Qube Research & Technologies’ main hedge fund gained about 30% last year, in\nline with its long-term average performance, according to people with\nknowledge of the matter.\n\n"
   },
   {
     "title": "The (Many) Wrinkles in Trump’s Vision for Venezuela",
@@ -126,40 +162,22 @@
     "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
   },
   {
-    "title": "Defense Stocks Soar Again as Trump Plans Military Budget Boost",
+    "title": "Defense Stocks Soar on Trump’s Military Budget Plan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdefense-stocks-soar-again-as-trump-plans-military-budget-boost",
     "published": "Thu, 08 Jan 2026 12:23:26 CST",
     "summary": "President Donald Trump’s plans to request an increase in the US military\nbudget is giving a fresh boost to defense stocks around the world, with those\nin Europe having a particularly strong start to a year that looks set to be\ndominated by geopolitics.\n\n"
   },
   {
-    "title": "Obesity, M&amp;A, Biotech Resurgence: A 2026 Guide to Health Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fobesity-m-a-biotech-resurgence-a-2026-guide-to-health-stocks",
-    "published": "Thu, 08 Jan 2026 12:15:00 CST",
-    "summary": "The health-care corner of the US equity market has traditionally been viewed\nas defensive, thanks to steady growth and healthy dividend yields among the\nindustry’s stalwarts. That narrative is changing.\n\n"
-  },
-  {
-    "title": "Trump Policies May Bring Markets ‘Moment of Pause,’ Says Principal’s Shah",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Ftrump-policies-may-bring-markets-moment-of-pause-shah-video",
-    "published": "Thu, 08 Jan 2026 12:06:11 CST",
-    "summary": "Seema Shah, chief global strategist at Principal Asset Management, says policy\nmoves by the Trump administration may make 2026 “not as smooth” as investors\nhave anticipated. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Emerging Stocks, Currencies Drop as Geopolitical Risks Mount",
+    "title": "Emerging Currencies Dip as USD Rises on Data, Geopolitical Risks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Femerging-stocks-currencies-drop-as-geopolitical-risks-mount",
     "published": "Thu, 08 Jan 2026 12:01:27 CST",
-    "summary": "Emerging-market stocks and currencies fell for a second day as rising\ngeopolitical risks turned traders cautious a day before key US jobs data.\n\n"
+    "summary": "Emerging-market currencies extended losses against the dollar after the latest\nUS economic data eased fear of a sharper slowdown in the labor market and the\neconomy.\n\n"
   },
   {
     "title": "Trump plans to use Venezuela’s huge crude reserves ‘to cut US oil price to $50 a barrel’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F08%2Ftrump-plans-use-venezuela-huge-oil-reserves-to-cut-us-consumer-price-to-50-a-barrel",
     "published": "Thu, 08 Jan 2026 12:00:47 CST",
     "summary": "President reportedly hopes falling price will cut domestic consumer energy\nbills\n\n  * Business live – latest updates\n\nDonald Trump plans to use Venezuela’s vast crude reserves to establish control\nof most of the western hemisphere’s oil in an attempt to drive the market\nprice down to about $50 (£37) a barrel, according to reports.\n\nThe US president has repeatedly raised the prospect of producing enough crude\nfrom Venezuela’s oilfields to drive down the US oil price from more than $56 a\nbarrel today to about $50 in an effort to cut energy costs for consumers,\naccording to the Wall Street Journal, which cited senior Trump administration\nofficials.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "A US Trader’s Guide to the Supreme Court’s Looming Tariff Ruling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fa-us-trader-s-guide-to-the-supreme-court-s-looming-tariff-ruling",
-    "published": "Thu, 08 Jan 2026 12:00:00 CST",
-    "summary": "An upcoming Supreme Court ruling on the legality of the sweeping tariffs that\nPresident Donald Trump rolled out in April, briefly sending shockwaves through\nmarkets, looms as one of the next big tests for US stocks and bonds.\n\n"
   },
   {
     "title": "Trump administration jails migrant teens in facility known for child abuse",
@@ -184,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fheritage-report-promote-marriage-births%2F",
     "published": "Thu, 08 Jan 2026 11:00:00 CST",
     "summary": "The conservative think tank aims to boost U.S. marriage and births through\ndiscouraging online dating, restricting pornography and creating tax credits\nfor families.\n\n"
-  },
-  {
-    "title": "Goldman Sees Consumer Stocks Gaining Amid AI Valuation Worries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgoldman-sees-us-consumer-powering-wider-equity-rally-in-2026",
-    "published": "Thu, 08 Jan 2026 10:30:00 CST",
-    "summary": "Strategists across Wall Street are looking for new engines to power the bull\nmarket in American stocks, amid concerns about a slowdown in the artificial\nintelligence trade.\n\n"
   },
   {
     "title": "Best Stock Trade of 2025 Keeps Running, Question Is for How Long",
@@ -238,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fheirs-to-billionaire-castel-s-beer-empire-lose-bid-to-oust-ceo",
     "published": "Thu, 08 Jan 2026 08:43:04 CST",
     "summary": "Two heirs to one of Europe’s richest drinks families lost the first round in\ntheir battle to oust the top executive of their family’s eponymous firm,\nCastel Group.\n\n"
-  },
-  {
-    "title": "European Gas and Power Set for Near-Round-the-Clock Trading",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Feuropean-gas-and-power-will-trade-22-hours-a-day-in-major-shift",
-    "published": "Thu, 08 Jan 2026 08:11:20 CST",
-    "summary": "European natural gas and power markets are set to undergo a major overhaul\namid plans to extend trading hours and align them with other global\ncommodities.\n\n"
   },
   {
     "title": "German Factory Orders Jump Most in a Year in Recovery Sign",
@@ -318,10 +324,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Tech Drags Stocks Lower as Defense Outperforms: Markets Wrap",
+    "title": "Nasdaq 100 Drops 1% While Defense Names Outperform: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Big tech weighed on US stocks as traders locked in profits after a strong\nrally in the artificial-intelligence trade. Defense shares jumped as President\nDonald Trump signaled plans to ramp up military spending.\n\n"
+    "summary": "Big tech stocks weighed on US equities as traders locked in profits after a\nstrong rally in the artificial-intelligence trade. Defense shares jumped as\nPresident Donald Trump signaled plans to ramp up military spending.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -358,6 +364,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F",
     "published": "Wed, 07 Jan 2026 20:01:50 CST",
     "summary": "Politicians in both parties are trying to respond to voter anger over the\nprice of housing.\n\n"
+  },
+  {
+    "title": "BNP Paribas Loses Bid to Throw Out $21 Million Sudan Verdict",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict",
+    "published": "Wed, 07 Jan 2026 19:47:20 CST",
+    "summary": "A New York judge denied BNP Paribas SA’s request to throw out a $20.75 million\nverdict against the bank for funding a regime that committed widespread human\nrights abuses in Sudan.\n\n"
   },
   {
     "title": "China’s Threat to Block Rare Earths Has Put Japan on High Alert",
@@ -984,22 +996,10 @@
     "summary": "General Motors' stock is having its best year since the company's reemergence\nfrom bankruptcy in 2009.\n\n"
   },
   {
-    "title": "Airlines cancel 1,400 more flights but disruptions from winter storm ease. Here’s what to know",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F26%2Fwinter-storm-flight-cancellations.html",
-    "published": "Sun, 28 Dec 2025 17:03:54 CST",
-    "summary": "Airlines waived change fees ahead of a large winter storm and low temperatures\nafter Christmas holiday.\n\n"
-  },
-  {
     "title": "Restaurants' hottest menu item in 2025 was 'value.' That won't change next year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F28%2Fvalue-meals-restaurants-mcdonalds-chilis-taco-bell.html",
     "published": "Sun, 28 Dec 2025 13:00:01 CST",
     "summary": "Restaurant chains bet on value in 2025, and they're not likely to ditch the\nstrategy next year.\n\n"
-  },
-  {
-    "title": "Tariffs hit boots, bags and more as leather prices jump — and relief could be years away",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F25%2Fleather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html",
-    "published": "Fri, 26 Dec 2025 13:16:42 CST",
-    "summary": "Leather prices are expected to continue rising in 2026 as Trump's tariffs\ncrimple a global supply-chain while domestic manufacturing and cattle herds\nare down.\n\n"
   },
   {
     "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
