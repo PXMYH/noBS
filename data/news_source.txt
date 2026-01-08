@@ -1,9 +1,63 @@
 [
   {
+    "title": "AB Foods Warns on Profit Hurt by Weaker Primark, Food Sales",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fab-foods-warns-on-profit-hurt-by-weaker-primark-food-sales",
+    "published": "Thu, 08 Jan 2026 07:32:22 CST",
+    "summary": "Associated British Foods Plc profit will be lower than expected this fiscal\nyear, hit by weaker Primark sales and a mixed performance in its food\nbusiness.\n\n"
+  },
+  {
+    "title": "Switzerland’s Inflation Picks Up for First Time in Five Months",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fswitzerland-s-inflation-picks-up-for-first-time-in-five-months",
+    "published": "Thu, 08 Jan 2026 07:30:09 CST",
+    "summary": "Swiss inflation ticked up last month for the first time since July, easing\npressure on the Swiss National Bank to reintroduce negative interest rates.\n\n"
+  },
+  {
+    "title": "Tesco Sees Profit at High End of Forecast on Holiday Sales Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Ftesco-sees-profit-at-high-end-of-forecast-on-holiday-sales-gain",
+    "published": "Thu, 08 Jan 2026 07:18:05 CST",
+    "summary": "Tesco Plc said profit for this financial year will likely be at the upper end\nof its forecast after strong sales during the crucial Christmas period.\n\n"
+  },
+  {
+    "title": "Shell Signals Weak Oil Trading Result to Cap Rocky Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fshell-signals-weak-oil-trading-result-to-cap-rocky-year",
+    "published": "Thu, 08 Jan 2026 07:10:21 CST",
+    "summary": "Shell Plc said its oil trading performance significantly worsened in the\nfourth quarter as crude prices slumped.\n\n"
+  },
+  {
+    "title": "UK House Prices Tumbled at the End of the Year, Halifax Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fuk-house-prices-tumbled-at-the-end-of-the-year-halifax-says",
+    "published": "Thu, 08 Jan 2026 07:09:22 CST",
+    "summary": "UK house prices fell in December, according to figures from a mortgage lender\nthat suggested Labour’s tax-raising budget discouraged aspiring buyers.\n\n"
+  },
+  {
+    "title": "German Factory Orders Jump Most in a Year in Sign of Recovery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgerman-factory-orders-jump-most-in-a-year-in-sign-of-recovery",
+    "published": "Thu, 08 Jan 2026 07:08:45 CST",
+    "summary": "German factory orders unexpectedly rose for a third month in November,\nsuggesting that a recovery is taking hold in Europe’s largest economy.\n\n"
+  },
+  {
+    "title": "Galp, Mubadala-Owned Moeve Explore Iberian Downstream Tie-Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgalp-mubadala-owned-moeve-explore-iberian-downstream-tie-up",
+    "published": "Thu, 08 Jan 2026 07:02:46 CST",
+    "summary": "Galp Energia SGPS SA said it’s holding early discussions with the owners of\nSpain’s Moeve about a possible combination of their downstream assets in\nIberia.\n\n"
+  },
+  {
+    "title": "Trump Targets China With Donroe Doctrine | Insight with Haslinda Amin 01/08/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Finsight-with-haslinda-amin-1-8-2026-video",
+    "published": "Thu, 08 Jan 2026 06:54:16 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "FTSE 100 Set for Second Day of Declines",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-08%2Fftse-100-tesco-oil-trump-venezuela-latest-pound-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 08 Jan 2026 06:48:00 CST",
     "summary": "\n\n"
+  },
+  {
+    "title": "KKR Secures $2.5 Billion for Second Asia Private Credit Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkkr-secures-2-5-billion-for-second-asia-private-credit-fund",
+    "published": "Thu, 08 Jan 2026 06:21:39 CST",
+    "summary": "KKR & Co. closed its second Asia-focused credit fund late December, securing\n$2.5 billion in total investments, according to people familiar with the\nmatter.\n\n"
   },
   {
     "title": "ICE Agent Fatally Shoots Woman in Minneapolis",
@@ -48,76 +102,16 @@
     "summary": "Australian bonds rallied, lifted by an overnight rise in Treasuries and a\ndovish interpretation of central bank comments on its fight against inflation.\n\n"
   },
   {
-    "title": "K Now Means Kicking Private Equity Out of the House",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-08%2Fk-now-means-kicking-private-equity-out-of-the-house",
-    "published": "Thu, 08 Jan 2026 04:29:33 CST",
-    "summary": "There’s opportunity in inequality. There’s also an election coming up.\n\n"
-  },
-  {
-    "title": "Sumitomo’s Energy Arm May Set Up LNG Trading Desk in Singapore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsumitomo-s-energy-arm-may-set-up-lng-trading-desk-in-singapore",
-    "published": "Thu, 08 Jan 2026 04:26:32 CST",
-    "summary": "The energy trading arm of Sumitomo Corp. is considering setting up an LNG desk\nin Singapore, the latest move by the Japanese company to strengthen its\nfoothold in the seaborne market for the fuel.\n\n"
-  },
-  {
-    "title": "Chinese Teahouse Chain Chagee Is Said to Explore Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchinese-teahouse-chain-chagee-is-said-to-explore-hong-kong-listing",
-    "published": "Thu, 08 Jan 2026 04:24:01 CST",
-    "summary": "Chinese tea chain Chagee Holdings Ltd. is considering a listing in Hong Kong,\naccording to people familiar with the matter, joining a rush of firms being\ndrawn to sell shares in the Asian financial hub.\n\n"
-  },
-  {
-    "title": "China Kicks Off 2026 With Record Pace of Sovereign Bond Issuance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-kicks-off-2026-with-record-pace-of-sovereign-bond-issuance",
-    "published": "Thu, 08 Jan 2026 04:01:09 CST",
-    "summary": "China is starting the year with a record clip of government bond issuance,\nrattling a market where demand is already weak.\n\n"
-  },
-  {
-    "title": "JD.com Weighs Raising $1.4 Billion in Debut Dim Sum Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjd-com-weighs-raising-1-4-billion-in-debut-dim-sum-bond-sale",
-    "published": "Thu, 08 Jan 2026 03:58:41 CST",
-    "summary": "JD.com Inc. is considering its first dim sum bond sale, with a potential\noffering that could raise about 10 billion yuan ($1.4 billion), according to\npeople familiar with the matter, joining a slew of Chinese e-commerce\ncompanies looking to lock in cheap funding as competition intensifies.\n\n"
-  },
-  {
-    "title": "Citi’s Rohit Garg on AI Momentum in Asia",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fciti-s-rohit-garg-on-ai-momentum-in-asia-video",
-    "published": "Thu, 08 Jan 2026 03:56:30 CST",
-    "summary": "Citi Research Head of EM Asia Strategy Rohit Garg shares his take on growth\npotential among AI equities in South Korea, Taiwan and China. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Japan Bond Futures Rise After 30-Year Auction Allays Concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjapan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mk4wjha0",
     "published": "Thu, 08 Jan 2026 03:42:56 CST",
     "summary": "Japanese government bond futures rose following an auction of 30-year bonds\nthat was seen as passing smoothly, easing some investor concerns.\n\n"
   },
   {
-    "title": "Billionaire Hedge Fund Manager Michael Platt Invests in UK Biotech Firm Engitix",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fbillionaire-hedge-fund-manager-michael-platt-invests-in-uk-biotech-firm-engitix",
-    "published": "Thu, 08 Jan 2026 03:40:59 CST",
-    "summary": "UK-based biotechnology company Engitix Ltd. has raised a further $25 million\nfrom billionaire Michael Platt to help develop its therapies for cancer and\nfibrosis.\n\n"
-  },
-  {
-    "title": "Hyundai Motor VP on Future of Robotics",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fhyundai-motor-vp-on-future-of-robotics-video",
-    "published": "Thu, 08 Jan 2026 03:40:43 CST",
-    "summary": "Hyundai Motor's first autonomous mobility robot platform has won a top\ninnovation award at CES 2026 in Las Vegas. Dong Jin Hyun, Vice President and\nHead of Robotics LAB at the company, discusses AI trends and robotics\ntechnology with Bloomberg's Shery Ahn on the sidelines of the trade show.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Fed Independence Key for Dollar, Brainard Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Ffed-independence-key-for-dollar-brainard-says-video",
-    "published": "Thu, 08 Jan 2026 03:38:56 CST",
-    "summary": "Former Federal Reserve Vice Chair Lael Brainard says the central bank's\nindependence is key to keeping global investors confident in the dollar.\nSpeaking on Bloomberg's The China Show, she also predicts that US growth could\naccelerate in the first half of 2026. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
     "published": "Thu, 08 Jan 2026 03:37:31 CST",
     "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
-  },
-  {
-    "title": "Insta360 Co-founder on Business Strategy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Finsta360-co-founder-on-business-strategy-video",
-    "published": "Thu, 08 Jan 2026 03:35:38 CST",
-    "summary": "Max Richter, co-founder of Chinese action camera maker Insta360, discusses the\ncompany's business outlook and protect strategy, and the role of AI as a\ngrowth driver. He speaks with Annabelle Droulers on the sidelines of CES in\nLas Vegas. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Mamdani Hosts Influencer Summit, Sidestepping Traditional Media",
@@ -160,6 +154,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
     "published": "Thu, 08 Jan 2026 00:35:45 CST",
     "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
+  },
+  {
+    "title": "Asian Scorecard Ranks Philippine Debt Most Promising in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fwhy-philippine-bonds-offer-the-best-yield-potential-on-the-2026-asian-scorecard",
+    "published": "Thu, 08 Jan 2026 00:00:26 CST",
+    "summary": "Philippine bonds look well-placed to beat Asian peers in early 2026 as they\noffer attractive yields, with the debt expected to jump in value on the\nprospect of further interest-rate cuts, according to a Bloomberg analysis.\n\n"
   },
   {
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
@@ -318,6 +318,12 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
+    "title": "UBS Compromise Plan Gets Backing of Largest Swiss Party",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fubs-capital-compromise-plan-gets-backing-of-largest-swiss-party",
+    "published": "Wed, 07 Jan 2026 16:29:13 CST",
+    "summary": "The largest party in Switzerland’s parliament backed a compromise proposal in\nthe ongoing debate over UBS Group AG’s capital requirements, bringing the\nprospect of a deal to defuse the standoff a step closer.\n\n"
+  },
+  {
     "title": "WBD once again rejects Paramount offer in favor of Netflix deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fwbd-rejects-paramount-offer-again-netflix-deal.html",
     "published": "Wed, 07 Jan 2026 16:12:28 CST",
@@ -418,12 +424,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F07%2Fwager-platform-polymarket-will-not-pay-out-on-bets-on-us-invasion-of-venezuela",
     "published": "Wed, 07 Jan 2026 08:56:29 CST",
     "summary": "Gamblers who placed wagers totalling $10.5m angered after capture of Nicolás\nMaduro deemed not to qualify\n\nThe online wager platform Polymarket has angered some gamblers by declaring it\nwill not settle millions of dollars’ worth of bets on a US invasion of\nVenezuela, arguing that the capture of the then president, Nicolás Maduro,\ndoes not qualify.\n\nBefore Donald Trump’s forces seized Maduro on Saturday morning, some traders\nappeared to have anticipated the shock move by placing bets on “prediction\nmarkets”.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Maduro’s ‘Perfect Union’ With China Hides Deep Economic Rupture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmaduro-s-perfect-union-with-china-hides-deep-economic-rupture",
-    "published": "Wed, 07 Jan 2026 08:00:00 CST",
-    "summary": "Ousted Venezuelan leader Nicolas Maduro may have done more to hollow out\nChina’s presence in his economy than Donald Trump ever could.\n\n"
   },
   {
     "title": "AI Boom Sparks Global Chip Shortage and Price Surge | Insight with Haslinda Amin 01/07/2026",
