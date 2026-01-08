@@ -1,9 +1,51 @@
 [
   {
+    "title": "Sabic Slumps on Move to Downsize With Asset Sales in Europe, US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsabic-slumps-on-move-to-downsize-with-asset-sales-in-europe-us",
+    "published": "Thu, 08 Jan 2026 08:40:57 CST",
+    "summary": "Sabic sank to a 16-year low in Riyadh trading after shrinking its business by\nselling assets in Europe and the US.\n\n"
+  },
+  {
+    "title": "Baillie Gifford, GIC Are Said to Buy Shares in MiniMax’s $619 Million Hong Kong IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgic-baillie-gifford-are-said-to-buy-shares-in-minimax-s-hong-kong-ipo",
+    "published": "Thu, 08 Jan 2026 08:18:00 CST",
+    "summary": "Investment firm Baillie Gifford and Singapore’s sovereign wealth fund GIC Pte\nare among those buying shares in MiniMax Group Inc.’s much-awaited HK$4.8\nbillion ($619 million) initial public offering in Hong Kong, according to\npeople familiar with the matter.\n\n"
+  },
+  {
+    "title": "AI Spending Boom Fuels 24-Year High for Convertible Bond Deals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fai-spending-boom-fuels-24-year-high-for-convertible-bond-deals",
+    "published": "Thu, 08 Jan 2026 08:17:35 CST",
+    "summary": "Companies around the world are issuing convertible bonds at the fastest pace\nin 24 years, as the development of artificial intelligence spurs a hunt for\ncheaper financing.\n\n"
+  },
+  {
+    "title": "Bassiri Tabrizi: Another Iran-Israel Escalation Likely",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbassiri-tabrizi-another-iran-israel-escalation-likely-video",
+    "published": "Thu, 08 Jan 2026 08:16:41 CST",
+    "summary": "Iran's president has ordered security forces not to target peaceful protesters\nin a bid to defuse violent unrest that activists say has left at least 36\npeople dead. Masoud Pezeshkian's comments come as security forces have\nforcibly broken up demonstrations and raided hospitals. The protests, which\nbegan over the weakening currency and the associated rise in prices, have\nprompted President Donald Trump to threaten US intervention if protestors die\nduring demonstrations. Aniseh Bassiri Tabrizi, Senior Analyst at Control Risks\nspoke to Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche\non the protests plus relations between Iran and Israel. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "European Gas and Power Will Trade 22 Hours a Day in Major Shift",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Feuropean-gas-and-power-will-trade-22-hours-a-day-in-major-shift",
+    "published": "Thu, 08 Jan 2026 08:11:20 CST",
+    "summary": "European gas and power trading is set to undergo a major overhaul, with\ntrading hours extended to align the contracts with other global energy\nproducts.\n\n"
+  },
+  {
+    "title": "China Vows Japan’s Civilian Trade ‘Not Affected’ by Latest Curbs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-vows-japan-s-civilian-trade-not-affected-by-latest-curbs",
+    "published": "Thu, 08 Jan 2026 07:59:10 CST",
+    "summary": "China sought to reassure Japanese businesses that its latest export controls\nare narrowly targeted, saying that civilian use will remain unaffected by\ncurbs intended to limit military applications.\n\n"
+  },
+  {
+    "title": "Thai Gold Traders Plan Dollar-Based Trading to Curb Baht Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fthai-gold-traders-plan-dollar-based-trading-to-curb-baht-rally",
+    "published": "Thu, 08 Jan 2026 07:48:40 CST",
+    "summary": "Thailand’s largest gold traders plan to promote dollar-denominated\ntransactions, aiming to weaken the metal’s influence on the local currency and\nhead off the threat of a punitive tax.\n\n"
+  },
+  {
     "title": "AB Foods Warns on Profit Hurt by Weaker Primark, Food Sales",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fab-foods-warns-on-profit-hurt-by-weaker-primark-food-sales",
     "published": "Thu, 08 Jan 2026 07:32:22 CST",
-    "summary": "Associated British Foods Plc profit will be lower than expected this fiscal\nyear, hit by weaker Primark sales and a mixed performance in its food\nbusiness.\n\n"
+    "summary": "Associated British Foods Plc warned that profit will be lower than expected\nthis fiscal year, hit by weaker Primark sales and a mixed performance in its\nfood business.\n\n"
   },
   {
     "title": "Switzerland’s Inflation Picks Up for First Time in Five Months",
@@ -12,10 +54,10 @@
     "summary": "Swiss inflation ticked up last month for the first time since July, easing\npressure on the Swiss National Bank to reintroduce negative interest rates.\n\n"
   },
   {
-    "title": "Tesco Sees Profit at High End of Forecast on Holiday Sales Gain",
+    "title": "Tesco’s Christmas Sales Disappoint as Shoppers Curtail Spending",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Ftesco-sees-profit-at-high-end-of-forecast-on-holiday-sales-gain",
     "published": "Thu, 08 Jan 2026 07:18:05 CST",
-    "summary": "Tesco Plc said profit for this financial year will likely be at the upper end\nof its forecast after strong sales during the crucial Christmas period.\n\n"
+    "summary": "Tesco Plc’s sales rose less than analysts expected during the crucial\nChristmas period as inflation-squeezed shoppers curtailed spending.\n\n"
   },
   {
     "title": "Shell Signals Weak Oil Trading Result to Cap Rocky Year",
@@ -24,10 +66,10 @@
     "summary": "Shell Plc said its oil trading performance significantly worsened in the\nfourth quarter as crude prices slumped.\n\n"
   },
   {
-    "title": "UK House Prices Tumbled at the End of the Year, Halifax Says",
+    "title": "UK House Prices in Steepest Drop Since August 2023, Halifax Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fuk-house-prices-tumbled-at-the-end-of-the-year-halifax-says",
     "published": "Thu, 08 Jan 2026 07:09:22 CST",
-    "summary": "UK house prices fell in December, according to figures from a mortgage lender\nthat suggested Labour’s tax-raising budget discouraged aspiring buyers.\n\n"
+    "summary": "UK house prices dropped at the sharpest rate in almost two-and-a-half years in\nDecember, according to figures from a mortgage lender that suggested Labour’s\ntax-raising budget discouraged aspiring buyers.\n\n"
   },
   {
     "title": "German Factory Orders Jump Most in a Year in Sign of Recovery",
@@ -39,7 +81,7 @@
     "title": "Galp, Mubadala-Owned Moeve Explore Iberian Downstream Tie-Up",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgalp-mubadala-owned-moeve-explore-iberian-downstream-tie-up",
     "published": "Thu, 08 Jan 2026 07:02:46 CST",
-    "summary": "Galp Energia SGPS SA said it’s holding early discussions with the owners of\nSpain’s Moeve about a possible combination of their downstream assets in\nIberia.\n\n"
+    "summary": "Galp Energia SGPS SA said it’s holding early discussions with the owners of\nSpain’s Moeve about a possible combination of their Iberian filling stations\nand refining plants.\n\n"
   },
   {
     "title": "Trump Targets China With Donroe Doctrine | Insight with Haslinda Amin 01/08/2026",
@@ -48,7 +90,7 @@
     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "FTSE 100 Set for Second Day of Declines",
+    "title": "FTSE 100 Falls a Second Day as AB Foods, Tesco Drop",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-08%2Fftse-100-tesco-oil-trump-venezuela-latest-pound-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 08 Jan 2026 06:48:00 CST",
     "summary": "\n\n"
@@ -78,28 +120,10 @@
     "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "ETM's Mamadou On Greenland’s Mineral Potential",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fetm-s-mamadou-on-greenland-s-mineral-potential-video",
-    "published": "Thu, 08 Jan 2026 05:38:40 CST",
-    "summary": "Energy Transition Minerals MD Daniel Mamadou says greater Western interest in\nGreenland’s strategic and mineral potential is welcome. His company is an\nAustralian miner with a rare earths project in Greenland. Daniel speaks with\nHaslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "UI Boustead Is Said to Seek $700 Million Singapore IPO in March",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fui-boustead-is-said-to-seek-700-million-singapore-ipo-in-march",
-    "published": "Thu, 08 Jan 2026 05:20:47 CST",
-    "summary": "UI Boustead REIT is gearing up for a listing in Singapore as early as March,\ntargeting proceeds of at least S$900 million ($700 million), according to\npeople familiar with the matter.\n\n"
-  },
-  {
-    "title": "Philippine Central Bank Gold Holdings Jump 70% in 2025 to Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fusd-php-philippine-central-bank-gold-holdings-jump-70-in-2025-to-record",
-    "published": "Thu, 08 Jan 2026 04:42:43 CST",
-    "summary": "The value of the Philippine central bank’s gold holdings surged almost 70%\nlast year to a record high as the metal jumped.\n\n"
-  },
-  {
-    "title": "Australian Bonds Rally on Dovish Rate Outlook, Treasuries Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Faustralian-bonds-rally-on-dovish-rate-outlook-treasuries-rise",
-    "published": "Thu, 08 Jan 2026 04:33:35 CST",
-    "summary": "Australian bonds rallied, lifted by an overnight rise in Treasuries and a\ndovish interpretation of central bank comments on its fight against inflation.\n\n"
+    "title": "Greenland Miner That Surged 80% Says Rare Earth Supply in Focus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgreenland-rare-earths-miner-says-supply-security-drives-prices",
+    "published": "Thu, 08 Jan 2026 06:09:30 CST",
+    "summary": "An Australian miner with a rare-earths project in Greenland, the Danish\nterritory attracting the interest of the Trump administration, said resource\nsecurity is increasingly driving prices.\n\n"
   },
   {
     "title": "Japan Bond Futures Rise After 30-Year Auction Allays Concerns",
@@ -132,18 +156,6 @@
     "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
   },
   {
-    "title": "Chinese 'AI Tiger' Z.ai Jumps in Hong Kong Debut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fz-ai-chairman-liu-debing-speaks-with-btv-video",
-    "published": "Thu, 08 Jan 2026 01:30:11 CST",
-    "summary": "Shares of Z.ai, the first of China's so-called \"AI Tigers\" to go public, rose\nin their Hong Kong debut after a $558-million initial public offering. The\ngenerative-AI startup, better known as Zhipu and trading under the name\nKnowledge Atlas Technology, plans to use a bulk of the IPO proceeds for\nresearch and development. Its co-founder and chairman Liu Debing spoke\nexclusively to Bloomberg. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Korea Prosecutors Seek Arrest Warrant for Private Equity Billionaire",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkorea-prosecutors-seek-arrest-warrant-for-pe-billionaire-mbk",
-    "published": "Thu, 08 Jan 2026 00:57:23 CST",
-    "summary": "South Korean prosecutors said they have sought an arrest warrant for Michael\nByungJu Kim, the billionaire co-founder and chairman of MBK Partners Ltd,\nmarking a sharp escalation in the long-simmering dispute over the firm’s\nmanagement of beleaguered supermarket chain Homeplus.\n\n"
-  },
-  {
     "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
     "published": "Thu, 08 Jan 2026 00:40:05 CST",
@@ -174,18 +186,6 @@
     "summary": "Gold and silver fell for a second day, with investors bracing for an annual\nrebalancing of commodity indexes that could see futures contracts worth\nbillions of dollars sold in the next few days.\n\n"
   },
   {
-    "title": "Oil Edges Higher as Traders Weigh More US Control Over Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Flatest-oil-market-news-and-analysis-for-january-8",
-    "published": "Wed, 07 Jan 2026 23:30:38 CST",
-    "summary": "Oil edged higher as traders digested more measures from the US to exert\ncontrol over Venezuela, including a plan to indefinitely manage future crude\nsales and the seizure of two more sanctioned tankers.\n\n"
-  },
-  {
-    "title": "BlueScope Shares Slip After Spurning Steel Dynamics, SGH Bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbluescope-shares-slip-after-spurning-steel-dynamics-sgh-bid",
-    "published": "Wed, 07 Jan 2026 23:30:19 CST",
-    "summary": "BlueScope Steel Ltd. shares slipped after it turned down the latest takeover\napproach from the US’s Steel Dynamics Inc., arguing an $8.8 billion joint\noffer with Australian conglomerate SGH Ltd. “very significantly” undervalued\nits assets.\n\n"
-  },
-  {
     "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Ftechnology%2Fgoogle-characterai-teenager-lawsuit.html",
     "published": "Wed, 07 Jan 2026 23:22:13 CST",
@@ -210,10 +210,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Treasuries Gain, Stocks Set for Back-to-Back Loss: Markets Wrap",
+    "title": "Stocks Fall as Traders Grapple With Rising Risks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "A rally in global government bonds and Treasuries carried into Asia on weak US\neconomic data and rising geopolitical tensions. Stocks were poised for their\nsecond consecutive day of losses.\n\n"
+    "summary": "Stocks fell as traders cut back on risk as they grapple with a steady stream\nof headlines whose implications range from trade and the US economy to\ngeopolitical risk.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -256,6 +256,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F",
     "published": "Wed, 07 Jan 2026 20:01:50 CST",
     "summary": "Politicians in both parties are trying to respond to voter anger over the\nprice of housing.\n\n"
+  },
+  {
+    "title": "BNP Paribas Loses Bid to Throw Out $21 Million Sudan Verdict",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict",
+    "published": "Wed, 07 Jan 2026 19:47:20 CST",
+    "summary": "A New York judge denied BNP Paribas SA’s request to throw out a $20.75 million\nverdict against the bank for funding a regime that committed widespread human\nrights abuses in Sudan.\n\n"
   },
   {
     "title": "China’s Threat to Block Rare Earths Has Put Japan on High Alert",
@@ -424,12 +430,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F07%2Fwager-platform-polymarket-will-not-pay-out-on-bets-on-us-invasion-of-venezuela",
     "published": "Wed, 07 Jan 2026 08:56:29 CST",
     "summary": "Gamblers who placed wagers totalling $10.5m angered after capture of Nicolás\nMaduro deemed not to qualify\n\nThe online wager platform Polymarket has angered some gamblers by declaring it\nwill not settle millions of dollars’ worth of bets on a US invasion of\nVenezuela, arguing that the capture of the then president, Nicolás Maduro,\ndoes not qualify.\n\nBefore Donald Trump’s forces seized Maduro on Saturday morning, some traders\nappeared to have anticipated the shock move by placing bets on “prediction\nmarkets”.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "AI Boom Sparks Global Chip Shortage and Price Surge | Insight with Haslinda Amin 01/07/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Finsight-with-haslinda-amin-1-7-2025-video",
-    "published": "Wed, 07 Jan 2026 07:31:01 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Congress has four weeks to dodge another shutdown",
