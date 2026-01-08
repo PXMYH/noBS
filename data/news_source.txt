@@ -1,15 +1,69 @@
 [
   {
+    "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
+    "published": "Thu, 08 Jan 2026 01:56:11 CST",
+    "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
+  },
+  {
+    "title": "Chinese Villagers Shiver in Winter as Gas Subsidies Phased Out",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchinese-villagers-shiver-in-winter-as-gas-subsidies-phased-out",
+    "published": "Thu, 08 Jan 2026 01:03:27 CST",
+    "summary": "Villagers near China’s capital are facing a bitter winter, with many unable to\nafford gas heating after the phaseout of local subsidies intended to relieve\nthe cost of Beijing’s campaign for cleaner air.\n\n"
+  },
+  {
+    "title": "Korea Prosecutors Seek Arrest Warrant for PE Billionaire MBK",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkorea-prosecutors-seek-arrest-warrant-for-pe-billionaire-mbk",
+    "published": "Thu, 08 Jan 2026 00:57:23 CST",
+    "summary": "South Korean prosecutors said they have sought an arrest warrant for Michael\nByungJu Kim, the billionaire co-founder and chairman of private equity firm\nMBK Partners Ltd.\n\n"
+  },
+  {
+    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
+    "published": "Thu, 08 Jan 2026 00:40:04 CST",
+    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
+  },
+  {
+    "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
+    "published": "Thu, 08 Jan 2026 00:35:45 CST",
+    "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
+  },
+  {
+    "title": "Asian Scorecard Shows Philippine Bonds With Most Promise in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fwhy-philippine-bonds-offer-the-best-yield-potential-on-the-2026-asian-scorecard",
+    "published": "Thu, 08 Jan 2026 00:00:26 CST",
+    "summary": "Philippine bonds look well-placed to beat Asian peers in early 2026 as they\noffer attractive yields, with the debt expected to jump in value on the\nprospect of further interest-rate cuts, according to a Bloomberg analysis.\n\n"
+  },
+  {
+    "title": "China’s Metals in Grip of Frenzy as Investors Bet on Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-metals-in-grip-of-frenzy-as-investors-bet-on-global-rally",
+    "published": "Wed, 07 Jan 2026 23:56:43 CST",
+    "summary": "China’s metal markets are in the grip of a speculative frenzy, with trading\nvalues in Shanghai surging more than 260% from a year earlier, as traders and\ndeep-pocketed funds pile into commodities like copper, nickel and lithium.\n\n"
+  },
+  {
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
-    "published": "Wed, 07 Jan 2026 23:38:29 CST",
+    "published": "Wed, 07 Jan 2026 23:53:48 CST",
     "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
+  },
+  {
+    "title": "Gold Steadies as Traders Brace for Index Rebalancing, US Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgold-steadies-as-traders-await-commodity-index-rebalancing-data",
+    "published": "Wed, 07 Jan 2026 23:40:05 CST",
+    "summary": "Gold steadied, after slipping nearly 1% in the previous session, ahead of an\nannual rebalancing of commodity indexes and the release of key US economic\ndata.\n\n"
   },
   {
     "title": "Oil Edges Higher as Traders Weigh More US Control Over Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Flatest-oil-market-news-and-analysis-for-january-8",
     "published": "Wed, 07 Jan 2026 23:30:38 CST",
-    "summary": "Oil edged higher as traders digested more measures from the US regarding\nVenezuela, including a plan to indefinitely control future crude sales and the\nseizure of two more sanctioned tankers.\n\n"
+    "summary": "Oil edged higher as traders digested more measures from the US to exert\ncontrol over Venezuela, including a plan to indefinitely manage future crude\nsales and the seizure of two more sanctioned tankers.\n\n"
+  },
+  {
+    "title": "BlueScope Shares Slip After Spurning Steel Dynamics, SGH Bid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbluescope-shares-slip-after-spurning-steel-dynamics-sgh-bid",
+    "published": "Wed, 07 Jan 2026 23:30:19 CST",
+    "summary": "BlueScope Steel Ltd. shares slipped after it turned down the latest takeover\napproach from the US’s Steel Dynamics Inc., arguing an $8.8 billion joint\noffer with Australian conglomerate SGH Ltd. “very significantly” undervalued\nits assets.\n\n"
   },
   {
     "title": "Defense Stocks Slip as Trump Blocks Dividends, Buybacks | Closing Bell",
@@ -48,10 +102,10 @@
     "summary": "With a series of incendiary posts on his social-media platform, President\nDonald Trump shook up the stock market on Wednesday by announcing potentially\ngame-changing new policies targeting the housing and defense industries.\n\n"
   },
   {
-    "title": "China’s OpenAI Rival Zhipu Debuts in HK After $558 Million IPO",
+    "title": "OpenAI Rival Zhipu Has Muted Debut After $558 Million IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchina-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo",
     "published": "Wed, 07 Jan 2026 23:00:00 CST",
-    "summary": "Knowledge Atlas Technology JSC Ltd. will start trading in Hong Kong on\nThursday after a $558 million initial public offering, becoming the first\nmajor Chinese generative-AI startup to list.\n\n"
+    "summary": "Shares of Knowledge Atlas Technology JSC Ltd. eked out gains on their Hong\nKong debut, following a $558 million initial public offering that made it the\nfirst major Chinese generative-AI startup to go public.\n\n"
   },
   {
     "title": "Smith: 'Cautious, but Needful' M&A to Define 2026",
@@ -84,12 +138,6 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
-    "published": "Wed, 07 Jan 2026 22:33:05 CST",
-    "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
-  },
-  {
     "title": "FDA Commissioner on New Nutrition Guidelines, Flu Surge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ffda-commmissioner-on-new-nutrition-guidelines-flu-surge-video",
     "published": "Wed, 07 Jan 2026 22:22:08 CST",
@@ -102,16 +150,10 @@
     "summary": "Citgo Petroleum Corp., the US refiner indirectly owned by Venezuela, may\nemerge as one of the biggest beneficiaries of President Donald Trump’s plan to\nbring millions of barrels of the country’s oil to the US.\n\n"
   },
   {
-    "title": "Asian Stocks Set to Fall as 2026 Momentum Fades: Markets Wrap",
+    "title": "Stocks Stay Range-Bound, Treasuries Hold Gains: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Asian equities look set to open lower Thursday after global shares and\nTreasury yields fell as traders digested mixed US economic data and a quickly\nshifting geopolitical backdrop.\n\n"
-  },
-  {
-    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
-    "published": "Wed, 07 Jan 2026 22:00:42 CST",
-    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
+    "summary": "Asian stocks edged marginally lower as investors largely stayed on the\nsidelines amid a lack of fresh catalysts ahead of key US economic data.\nTreasuries held their gains.\n\n"
   },
   {
     "title": "Buyout Wave Seen Among Japan Drugmakers After Hisamitsu Deal",
@@ -144,18 +186,6 @@
     "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
   },
   {
-    "title": "Brazil’s Audit Court Backs Off Threat to Undo Master Liquidation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fbrazil-s-audit-court-backs-off-threat-to-undo-master-liquidation",
-    "published": "Wed, 07 Jan 2026 21:04:07 CST",
-    "summary": "The head of Brazil’s Audit Court said that only the Supreme Court can reverse\na central bank decision to liquidate troubled Banco Master SA, effectively\nbacking away from a previous threat to overturn the monetary authority’s\nruling.\n\n"
-  },
-  {
-    "title": "World’s Worst Bond Market Faces Another Big Supply Shock",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fworld-s-worst-bond-market-faces-another-big-supply-shock",
-    "published": "Wed, 07 Jan 2026 21:00:00 CST",
-    "summary": "Japan’s government bond market is set for another tough year as investors\ncontend with the largest net increase in supply in well over a decade.\n\n"
-  },
-  {
     "title": "Pittsburgh Post-Gazette to shut down and publish final edition in May",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F07%2Fpittsburgh-post-gazette-closing",
     "published": "Wed, 07 Jan 2026 20:47:06 CST",
@@ -166,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html",
     "published": "Wed, 07 Jan 2026 20:43:38 CST",
     "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
-  },
-  {
-    "title": "Trump's Housing 'Trial Balloon' Will Be Short-Lived: Meredith Whitney",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-07%2Ftrump-housing-trial-balloon-to-be-short-lived-whitney-video",
-    "published": "Wed, 07 Jan 2026 20:26:11 CST",
-    "summary": "Meredith Whitney Advisory Group founder and CEO Meredith Whitney says\nPresident Donald Trump's planned move to ban institutional investors from\nbuying single-family homes in an effort to address housing affordability will\nbe the \"shortest floated trial balloon\" out of the White House. She speaks on\n\"Bloomberg The Close.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "U.S. seizes two tankers as Venezuelan oil blockade intensifies",
@@ -246,18 +270,6 @@
     "summary": "Newfound access hasn’t provided more information to the largely right-wing\npress corps that signed the Defense Department’s media rules.\n\n"
   },
   {
-    "title": "Mexico’s Oil Shipments to Cuba Will Continue After Maduro",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fmexico-s-oil-shipments-to-cuba-will-continue-after-maduro-s-fall",
-    "published": "Wed, 07 Jan 2026 17:37:09 CST",
-    "summary": "Mexico will continue supplying Cuba with crude oil after the US seized\nVenezuelan leader Nicolas Maduro last weekend, President Claudia Sheinbaum\nannounced, describing Mexican shipments in part as humanitarian aid.\n\n"
-  },
-  {
-    "title": "Blue Owl BDC Allows 17% Redemptions as Investors Storm Exit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fblue-owl-bdc-allows-for-17-redemptions-as-investors-storm-exit",
-    "published": "Wed, 07 Jan 2026 17:17:24 CST",
-    "summary": "Blue Owl Capital Inc. is dramatically increasing the amount of money investors\ncan pull from one of its private credit funds after being hit with a deluge of\nredemption requests last month.\n\n"
-  },
-  {
     "title": "First Brands Founder Says Jefferies Is Withholding Documents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Ffirst-brands-founder-accuses-jefferies-of-withholding-documents",
     "published": "Wed, 07 Jan 2026 17:04:57 CST",
@@ -286,12 +298,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
     "published": "Wed, 07 Jan 2026 15:43:57 CST",
     "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
-  },
-  {
-    "title": "Canadian Oil Price Tumbles as Trump Targets Venezuela’s Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fcanadian-crude-price-tumbles-as-trump-targets-venezuela-s-oil",
-    "published": "Wed, 07 Jan 2026 15:41:48 CST",
-    "summary": "Canadian crude prices on the US Gulf Coast collapsed after President Donald\nTrump announced that Venezuela would relinquish as much as 50 million barrels\nof oil to the US that would be sold at market prices.\n\n"
   },
   {
     "title": "Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.",
@@ -354,6 +360,12 @@
     "summary": "Americans are increasingly moving to smaller markets rather than urban cores\nas they seek cheaper housing and better quality of life.\n\n"
   },
   {
+    "title": "Xi Is Testing Japan’s Ties With Trump in Latest Trade Battle",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fxi-is-testing-japan-s-ties-with-trump-by-escalating-trade-battle",
+    "published": "Wed, 07 Jan 2026 12:30:00 CST",
+    "summary": "China is testing Donald Trump’s support for America’s top ally in Asia by\nimposing export controls on Japan months after the US leader boasted he’d\nsettled the rare earth issue “for the world.”\n\n"
+  },
+  {
     "title": "Warner Bros. Board Rebuffs Paramount’s Latest Buyout Offer",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fwarner-bros-paramount-netflix.html",
     "published": "Wed, 07 Jan 2026 12:10:07 CST",
@@ -396,6 +408,12 @@
     "summary": "Gamblers who placed wagers totalling $10.5m angered after capture of Nicolás\nMaduro deemed not to qualify\n\nThe online wager platform Polymarket has angered some gamblers by declaring it\nwill not settle millions of dollars’ worth of bets on a US invasion of\nVenezuela, arguing that the capture of the then president, Nicolás Maduro,\ndoes not qualify.\n\nBefore Donald Trump’s forces seized Maduro on Saturday morning, some traders\nappeared to have anticipated the shock move by placing bets on “prediction\nmarkets”.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Chevron, Quantum Capital Bid on Lukoil Assets, FT Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fchevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says",
+    "published": "Wed, 07 Jan 2026 05:20:43 CST",
+    "summary": "Chevron Corp. and private equity group Quantum Capital Group LLC will join\nforces to buy the international assets of sanctioned Russian oil company\nLukoil PJSC, according to the Financial Times.\n\n"
+  },
+  {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
     "published": "Wed, 07 Jan 2026 05:00:14 CST",
@@ -418,18 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fmedia%2Frichard-pollak-dead.html",
     "published": "Tue, 06 Jan 2026 23:33:03 CST",
     "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
-  },
-  {
-    "title": "Crude Falls as US Deepens Involvement in Venezuelan Oil Industry",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Flatest-oil-market-news-and-analysis-for-jan-7",
-    "published": "Tue, 06 Jan 2026 23:31:52 CST",
-    "summary": "Oil declined on the prospect of increased Venezuelan crude sales after US\nforces seized two more sanctioned tankers and said it’s already marketing some\nof the country’s supply.\n\n"
-  },
-  {
-    "title": "Silver, Platinum Plunge to Extend Big Spike in Volatility",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-06%2Fgold-steadies-as-traders-look-past-geopolitical-risk-to-us-data",
-    "published": "Tue, 06 Jan 2026 23:30:41 CST",
-    "summary": "Silver and platinum plunged, extending a recent run of exceptional volatility\nas traders weighed index rebalancing sales, supply constraints and the risk of\npotential US tariffs. Gold also declined.\n\n"
   },
   {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
@@ -988,12 +994,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F24%2Fus%2Fpolitics%2Ftrump-artificial-intelligence-economy-risks.html",
     "published": "Wed, 24 Dec 2025 10:02:31 CST",
     "summary": "The administration has downplayed concerns — from mass job losses, to a\npotential financial bubble — as President Trump cheers soaring stock prices\nand faster growth.\n\n"
-  },
-  {
-    "title": "Southwest's profits are down 42% this year but it's the top U.S. airline stock",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Fsouthwest-luv-airline-stocks.html",
-    "published": "Tue, 23 Dec 2025 19:01:55 CST",
-    "summary": "Southwest's stock has gained nearly 24% so far this year, more than any other\nairline.\n\n"
   },
   {
     "title": "Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season",
