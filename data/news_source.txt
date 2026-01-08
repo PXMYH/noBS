@@ -1,5 +1,47 @@
 [
   {
+    "title": "Foreigners Rushed to Buy Japanese Stocks on Trump Fears in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fforeigners-rushed-to-buy-japanese-stocks-on-trump-fears-in-2025",
+    "published": "Thu, 08 Jan 2026 09:27:29 CST",
+    "summary": "Foreign investors flocked to Japanese equities last year, purchasing the most\nsince 2013 as they sought refuge from US economic uncertainty under President\nDonald Trump.\n\n"
+  },
+  {
+    "title": "JPMorgan’s Call Triggers Rally in South African Food Producers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjpmorgan-s-call-triggers-rally-in-south-african-food-producers",
+    "published": "Thu, 08 Jan 2026 09:25:47 CST",
+    "summary": "South African food producers climbed to an almost eight-year high after\nJPMorgan Chase & Co. recommended buying the stock, citing robust prospects.\n\n"
+  },
+  {
+    "title": "Italy Draws €190 Billion of Bids in First Bond Sale of 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fitaly-draws-190-billion-of-bids-in-first-bond-sale-of-2026",
+    "published": "Thu, 08 Jan 2026 09:24:27 CST",
+    "summary": "Italy is kicking off its 2026 funding program with a dual-tranche euro bond\nsale, capitalizing on strong investor demand for its debt as political\nuncertainty elsewhere in Europe reshapes flows.\n\n"
+  },
+  {
+    "title": "Equinor Inks Deals Worth $10 Billion to Sustain Norway Output",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fequinor-inks-deals-worth-10-billion-to-sustain-norway-output",
+    "published": "Thu, 08 Jan 2026 09:19:32 CST",
+    "summary": "Equinor ASA signed contracts worth about 100 billion kroner ($9.9 billion) to\nhelp maintain its current oil and gas output in Norway for at least another\ndecade.\n\n"
+  },
+  {
+    "title": "Here’s What Could Happen to Venezuela’s Messy $170 Billion of Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fhere-s-what-could-happen-to-venezuela-s-messy-170-billion-of-debt",
+    "published": "Thu, 08 Jan 2026 09:00:15 CST",
+    "summary": "Legendary lawyer Lee Buchheit on a potential sovereign debt restructuring.\n\n"
+  },
+  {
+    "title": "Geopolitics Needs Policy to Move Risk: 3-Minute MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fgeopolitics-needs-policy-to-move-risk-3-minute-mliv-video",
+    "published": "Thu, 08 Jan 2026 08:52:26 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today’s key themes for analysts and investors on “Bloomberg: The Opening\nTrade.”\n\n"
+  },
+  {
+    "title": "Heirs to Billionaire Castel’s Empire Lose Bid to Oust CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fheirs-to-billionaire-castel-s-beer-empire-lose-bid-to-oust-ceo",
+    "published": "Thu, 08 Jan 2026 08:43:04 CST",
+    "summary": "Two heirs to one of Europe’s richest drinks families lost the first round in\ntheir battle to oust the top executive of their family’s eponymous firm,\nCastel Group.\n\n"
+  },
+  {
     "title": "Sabic Slumps on Move to Downsize With Asset Sales in Europe, US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsabic-slumps-on-move-to-downsize-with-asset-sales-in-europe-us",
     "published": "Thu, 08 Jan 2026 08:40:57 CST",
@@ -24,10 +66,10 @@
     "summary": "Iran's president has ordered security forces not to target peaceful protesters\nin a bid to defuse violent unrest that activists say has left at least 36\npeople dead. Masoud Pezeshkian's comments come as security forces have\nforcibly broken up demonstrations and raided hospitals. The protests, which\nbegan over the weakening currency and the associated rise in prices, have\nprompted President Donald Trump to threaten US intervention if protestors die\nduring demonstrations. Aniseh Bassiri Tabrizi, Senior Analyst at Control Risks\nspoke to Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche\non the protests plus relations between Iran and Israel. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "European Gas and Power Will Trade 22 Hours a Day in Major Shift",
+    "title": "European Gas and Power Set for Near-Round-the-Clock Trading",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Feuropean-gas-and-power-will-trade-22-hours-a-day-in-major-shift",
     "published": "Thu, 08 Jan 2026 08:11:20 CST",
-    "summary": "European gas and power trading is set to undergo a major overhaul, with\ntrading hours extended to align the contracts with other global energy\nproducts.\n\n"
+    "summary": "European power and natural gas markets are set to undergo a major overhaul\namid plans to extend trading hours and align them with other global\ncommodities.\n\n"
   },
   {
     "title": "China Vows Japan’s Civilian Trade ‘Not Affected’ by Latest Curbs",
@@ -54,7 +96,7 @@
     "summary": "Swiss inflation ticked up last month for the first time since July, easing\npressure on the Swiss National Bank to reintroduce negative interest rates.\n\n"
   },
   {
-    "title": "Tesco’s Christmas Sales Disappoint as Shoppers Curtail Spending",
+    "title": "Tesco’s Holiday Sales Disappoint as Shoppers Trim Spending",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Ftesco-sees-profit-at-high-end-of-forecast-on-holiday-sales-gain",
     "published": "Thu, 08 Jan 2026 07:18:05 CST",
     "summary": "Tesco Plc’s sales rose less than analysts expected during the crucial\nChristmas period as inflation-squeezed shoppers curtailed spending.\n\n"
@@ -63,7 +105,7 @@
     "title": "Shell Signals Weak Oil Trading Result to Cap Rocky Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fshell-signals-weak-oil-trading-result-to-cap-rocky-year",
     "published": "Thu, 08 Jan 2026 07:10:21 CST",
-    "summary": "Shell Plc said its oil trading performance significantly worsened in the\nfourth quarter as crude prices slumped.\n\n"
+    "summary": "Shell Plc said its oil trading performance worsened in the fourth quarter as\ncrude prices slumped, adding to signs that Big Oil is heading into a tougher\nearnings season.\n\n"
   },
   {
     "title": "UK House Prices in Steepest Drop Since August 2023, Halifax Says",
@@ -84,52 +126,16 @@
     "summary": "Galp Energia SGPS SA said it’s holding early discussions with the owners of\nSpain’s Moeve about a possible combination of their Iberian filling stations\nand refining plants.\n\n"
   },
   {
-    "title": "Trump Targets China With Donroe Doctrine | Insight with Haslinda Amin 01/08/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Finsight-with-haslinda-amin-1-8-2026-video",
-    "published": "Thu, 08 Jan 2026 06:54:16 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "FTSE 100 Falls a Second Day as AB Foods, Tesco Drop",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-08%2Fftse-100-tesco-oil-trump-venezuela-latest-pound-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 08 Jan 2026 06:48:00 CST",
     "summary": "\n\n"
   },
   {
-    "title": "KKR Secures $2.5 Billion for Second Asia Private Credit Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkkr-secures-2-5-billion-for-second-asia-private-credit-fund",
-    "published": "Thu, 08 Jan 2026 06:21:39 CST",
-    "summary": "KKR & Co. closed its second Asia-focused credit fund late December, securing\n$2.5 billion in total investments, according to people familiar with the\nmatter.\n\n"
-  },
-  {
-    "title": "ICE Agent Fatally Shoots Woman in Minneapolis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fice-agent-fatally-shoots-woman-in-minneapolis-video",
-    "published": "Thu, 08 Jan 2026 06:17:50 CST",
-    "summary": "An ICE agent fatally shot a woman during a confrontation in Minneapolis,\nfueling backlash over the agency’s presence in the city amid the Trump\nadministration’s migrant crackdown. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Xi Tests Japan’s Ties With Trump | The China Show 1/8/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fthe-china-show-1-8-2026-video",
-    "published": "Thu, 08 Jan 2026 06:12:29 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "US to Control Venezuelan Oil, Samsung Profit Triples | The Asia Trade 1/8/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fthe-asia-trade-1-8-26-video",
-    "published": "Thu, 08 Jan 2026 06:09:46 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Greenland Miner That Surged 80% Says Rare Earth Supply in Focus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgreenland-rare-earths-miner-says-supply-security-drives-prices",
-    "published": "Thu, 08 Jan 2026 06:09:30 CST",
-    "summary": "An Australian miner with a rare-earths project in Greenland, the Danish\nterritory attracting the interest of the Trump administration, said resource\nsecurity is increasingly driving prices.\n\n"
-  },
-  {
-    "title": "Japan Bond Futures Rise After 30-Year Auction Allays Concerns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjapan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mk4wjha0",
-    "published": "Thu, 08 Jan 2026 03:42:56 CST",
-    "summary": "Japanese government bond futures rose following an auction of 30-year bonds\nthat was seen as passing smoothly, easing some investor concerns.\n\n"
+    "title": "JD Weighs Raising $1.4 Billion in Debut Dim Sum Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjd-com-weighs-raising-1-4-billion-in-debut-dim-sum-bond-sale",
+    "published": "Thu, 08 Jan 2026 03:58:41 CST",
+    "summary": "JD.com Inc. is considering its first dim sum bond sale, with a potential\noffering that could raise about 10 billion yuan ($1.4 billion), according to\npeople familiar with the matter, joining a slew of Chinese e-commerce\ncompanies looking to lock in cheap funding as competition intensifies.\n\n"
   },
   {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
@@ -142,12 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html",
     "published": "Thu, 08 Jan 2026 03:03:30 CST",
     "summary": "A friendly summit at New York’s City Hall with digital content creators and\nsocial media stars symbolized the new mayor’s attitude toward the changing\nnews media.\n\n"
-  },
-  {
-    "title": "Nickel Extends Drop After Indonesia Delays Clarifying Output Cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fnickel-steadies-after-slump-as-traders-seek-clarity-on-supply",
-    "published": "Thu, 08 Jan 2026 02:57:10 CST",
-    "summary": "Nickel fell further from a 19-month high after Indonesia did not provide\ndetails on output cuts that had earlier fueled a sharp rally.\n\n"
   },
   {
     "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
@@ -180,10 +180,10 @@
     "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
   },
   {
-    "title": "Gold, Silver Fall as Traders Brace for Wider Index Rebalancing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fgold-steadies-as-traders-await-commodity-index-rebalancing-data",
-    "published": "Wed, 07 Jan 2026 23:40:05 CST",
-    "summary": "Gold and silver fell for a second day, with investors bracing for an annual\nrebalancing of commodity indexes that could see futures contracts worth\nbillions of dollars sold in the next few days.\n\n"
+    "title": "Oil Holds Loss as Traders Weigh More US Control Over Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Flatest-oil-market-news-and-analysis-for-january-8",
+    "published": "Wed, 07 Jan 2026 23:30:38 CST",
+    "summary": "Oil held onto declines as traders digested more measures from the US to exert\ncontrol over Venezuela, including a plan to indefinitely manage future crude\nsales.\n\n"
   },
   {
     "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
@@ -210,10 +210,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Stocks Fall as Traders Grapple With Rising Risks: Markets Wrap",
+    "title": "Stocks Slip as Traders Grapple With Trump Policies: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Stocks fell as traders cut back on risk as they grapple with a steady stream\nof headlines whose implications range from trade and the US economy to\ngeopolitical risk.\n\n"
+    "summary": "Stocks fell after US President Donald Trump followed his intervention in\nVenezuela with moves targeting the US housing and defense industries,\nsignaling further volatility in the second year of his latest term.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -286,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Favelo-airlines-ice-deportation-flights-job-cuts.html",
     "published": "Wed, 07 Jan 2026 19:11:10 CST",
     "summary": "Upstart airline Avelo said it would stop flying deportation flights for ICE,\nciting unpredictable revenue and added costs.\n\n"
-  },
-  {
-    "title": "Zambia Abandons Plan to Extend IMF Credit Facility by a Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fzambia-abandons-plan-to-extend-imf-credit-facility-by-a-year",
-    "published": "Wed, 07 Jan 2026 18:21:55 CST",
-    "summary": "Zambia has decided against pursuing a one-year extension of its International\nMonetary Fund program that’s set to expire this month, the Washington-based\nlender said on Wednesday, an about turn that will surprise investors.\n\n"
   },
   {
     "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
