@@ -1,5 +1,71 @@
 [
   {
+    "title": "Goldman Sees US Consumer Powering Wider Equity Rally in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgoldman-sees-us-consumer-powering-wider-equity-rally-in-2026",
+    "published": "Thu, 08 Jan 2026 10:30:00 CST",
+    "summary": "Strategists across Wall Street are looking for new engines to power the bull\nmarket in American stocks, amid concerns about a slowdown in the artificial\nintelligence trade.\n\n"
+  },
+  {
+    "title": "Best Stock Trade of 2025 Keeps Running, Question Is for How Long",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fbest-stock-trade-of-2025-keeps-running-question-is-for-how-long",
+    "published": "Thu, 08 Jan 2026 10:10:35 CST",
+    "summary": "The hottest corner of the stock market in 2025 remains scorching in the new\nyear, but the relentless momentum has some Wall Street pros wondering if a\nreversal is coming.\n\n"
+  },
+  {
+    "title": "Minimum Wage Rises in Some States as Workers Struggle with Basic Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fus%2Fminimum-wage-increases.html",
+    "published": "Thu, 08 Jan 2026 10:02:20 CST",
+    "summary": "This year, for the first time, more Americans will earn a minimum wage of $15\nper hour or higher than will earn the federal minimum of $7.25 per hour.\n\n"
+  },
+  {
+    "title": "Push to Audit Private Equity and Venture Capital Falters Under Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Firs-private-equity-venture-capital-audits.html",
+    "published": "Thu, 08 Jan 2026 10:00:37 CST",
+    "summary": "Specialists have left the I.R.S. and audits have been abandoned since the\npresident returned to office.\n\n"
+  },
+  {
+    "title": "On Wall Street, investors ignore Trump’s talk of war",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fus-economy-geopolitics-uncertainty%2F",
+    "published": "Thu, 08 Jan 2026 10:00:37 CST",
+    "summary": "President Donald Trump’s rejection of the postwar global system has sparked\nconcerns about the future of international relations and the U.S. economy.\n\n"
+  },
+  {
+    "title": "Real estate agents say the housing market is starting to balance out",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcnbc-housing-market-survey-agents-balance-out.html",
+    "published": "Thu, 08 Jan 2026 10:00:01 CST",
+    "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
+  },
+  {
+    "title": "More workers are stuck in part-time jobs in warning for the economy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fmultiple-part-time-jobs-economy%2F",
+    "published": "Thu, 08 Jan 2026 10:00:00 CST",
+    "summary": "More Americans are stuck in part-time positions or having to patch together\nmultiple jobs to make ends meet, employment data shows.\n\n"
+  },
+  {
+    "title": "UK’s Biggest Retailers Set Back by Grim Sales at Christmas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fa-grim-christmas-delivers-disappointment-for-ailing-uk-retailers",
+    "published": "Thu, 08 Jan 2026 09:53:44 CST",
+    "summary": "Three of Britain’s biggest retailers faced a tough Christmas marked by\nvolatile consumer demand and intense price competition.\n\n"
+  },
+  {
+    "title": "HSBC Agrees to Pay €300 Million to End French Tax Dividend Probes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fhsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes",
+    "published": "Thu, 08 Jan 2026 09:43:59 CST",
+    "summary": "HSBC Holdings Plc has agreed to pay about €300 million ($350 million) to\nsettle a twin criminal and tax case in France into its alleged role in the\n“Cum-Cum” scandal that’s embroiled some of the biggest banks in the country.\n\n"
+  },
+  {
+    "title": "French Farmers Roll Tractors to Paris to Protest Free-Trade Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Ffrench-farmers-roll-tractors-to-paris-to-protest-free-trade-deal",
+    "published": "Thu, 08 Jan 2026 09:42:18 CST",
+    "summary": "French farmers drove dozens of tractors to the Eiffel Tower and other Parisian\nlandmarks to pressure the government not to support a European Union free-\ntrade deal with South American nations.\n\n"
+  },
+  {
+    "title": "AI Race in Europe Fires Up Market for Data-Center Backed Bonds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fai-race-in-europe-fires-up-market-for-data-center-backed-bonds",
+    "published": "Thu, 08 Jan 2026 09:40:20 CST",
+    "summary": "A spate of debt deals backed by European data centers is set to come to market\nthis year as the region strives to catch up with the US in the race to\ncapitalize on the booming artificial intelligence industry.\n\n"
+  },
+  {
     "title": "Foreigners Rushed to Buy Japanese Stocks on Trump Fears in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fforeigners-rushed-to-buy-japanese-stocks-on-trump-fears-in-2025",
     "published": "Thu, 08 Jan 2026 09:27:29 CST",
@@ -60,7 +126,7 @@
     "summary": "Companies around the world are issuing convertible bonds at the fastest pace\nin 24 years, as the development of artificial intelligence spurs a hunt for\ncheaper financing.\n\n"
   },
   {
-    "title": "Bassiri Tabrizi: Another Iran-Israel Escalation Likely",
+    "title": "Another Iran-Israel Escalation Likely, Bassiri Tabrizi Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbassiri-tabrizi-another-iran-israel-escalation-likely-video",
     "published": "Thu, 08 Jan 2026 08:16:41 CST",
     "summary": "Iran's president has ordered security forces not to target peaceful protesters\nin a bid to defuse violent unrest that activists say has left at least 36\npeople dead. Masoud Pezeshkian's comments come as security forces have\nforcibly broken up demonstrations and raided hospitals. The protests, which\nbegan over the weakening currency and the associated rise in prices, have\nprompted President Donald Trump to threaten US intervention if protestors die\nduring demonstrations. Aniseh Bassiri Tabrizi, Senior Analyst at Control Risks\nspoke to Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche\non the protests plus relations between Iran and Israel. (Source: Bloomberg)\n\n"
@@ -72,28 +138,10 @@
     "summary": "European power and natural gas markets are set to undergo a major overhaul\namid plans to extend trading hours and align them with other global\ncommodities.\n\n"
   },
   {
-    "title": "China Vows Japan’s Civilian Trade ‘Not Affected’ by Latest Curbs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-vows-japan-s-civilian-trade-not-affected-by-latest-curbs",
-    "published": "Thu, 08 Jan 2026 07:59:10 CST",
-    "summary": "China sought to reassure Japanese businesses that its latest export controls\nare narrowly targeted, saying that civilian use will remain unaffected by\ncurbs intended to limit military applications.\n\n"
-  },
-  {
-    "title": "Thai Gold Traders Plan Dollar-Based Trading to Curb Baht Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fthai-gold-traders-plan-dollar-based-trading-to-curb-baht-rally",
-    "published": "Thu, 08 Jan 2026 07:48:40 CST",
-    "summary": "Thailand’s largest gold traders plan to promote dollar-denominated\ntransactions, aiming to weaken the metal’s influence on the local currency and\nhead off the threat of a punitive tax.\n\n"
-  },
-  {
     "title": "AB Foods Warns on Profit Hurt by Weaker Primark, Food Sales",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fab-foods-warns-on-profit-hurt-by-weaker-primark-food-sales",
     "published": "Thu, 08 Jan 2026 07:32:22 CST",
     "summary": "Associated British Foods Plc warned that profit will be lower than expected\nthis fiscal year, hit by weaker Primark sales and a mixed performance in its\nfood business.\n\n"
-  },
-  {
-    "title": "Switzerland’s Inflation Picks Up for First Time in Five Months",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fswitzerland-s-inflation-picks-up-for-first-time-in-five-months",
-    "published": "Thu, 08 Jan 2026 07:30:09 CST",
-    "summary": "Swiss inflation ticked up last month for the first time since July, easing\npressure on the Swiss National Bank to reintroduce negative interest rates.\n\n"
   },
   {
     "title": "Tesco’s Holiday Sales Disappoint as Shoppers Trim Spending",
@@ -106,18 +154,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fshell-signals-weak-oil-trading-result-to-cap-rocky-year",
     "published": "Thu, 08 Jan 2026 07:10:21 CST",
     "summary": "Shell Plc said its oil trading performance worsened in the fourth quarter as\ncrude prices slumped, adding to signs that Big Oil is heading into a tougher\nearnings season.\n\n"
-  },
-  {
-    "title": "UK House Prices in Steepest Drop Since August 2023, Halifax Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fuk-house-prices-tumbled-at-the-end-of-the-year-halifax-says",
-    "published": "Thu, 08 Jan 2026 07:09:22 CST",
-    "summary": "UK house prices dropped at the sharpest rate in almost two-and-a-half years in\nDecember, according to figures from a mortgage lender that suggested Labour’s\ntax-raising budget discouraged aspiring buyers.\n\n"
-  },
-  {
-    "title": "German Factory Orders Jump Most in a Year in Sign of Recovery",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgerman-factory-orders-jump-most-in-a-year-in-sign-of-recovery",
-    "published": "Thu, 08 Jan 2026 07:08:45 CST",
-    "summary": "German factory orders unexpectedly rose for a third month in November,\nsuggesting that a recovery is taking hold in Europe’s largest economy.\n\n"
   },
   {
     "title": "Galp, Mubadala-Owned Moeve Explore Iberian Downstream Tie-Up",
@@ -166,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
     "published": "Thu, 08 Jan 2026 00:35:45 CST",
     "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
-  },
-  {
-    "title": "Asian Scorecard Ranks Philippine Debt Most Promising in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fwhy-philippine-bonds-offer-the-best-yield-potential-on-the-2026-asian-scorecard",
-    "published": "Thu, 08 Jan 2026 00:00:26 CST",
-    "summary": "Philippine bonds look well-placed to beat Asian peers in early 2026 as they\noffer attractive yields, with the debt expected to jump in value on the\nprospect of further interest-rate cuts, according to a Bloomberg analysis.\n\n"
   },
   {
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
@@ -438,12 +468,6 @@
     "summary": "Some companies are giving workers back more time as artificial intelligence\ntakes over more tasks.\n\n"
   },
   {
-    "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fbusiness%2Fmedia%2Frichard-pollak-dead.html",
-    "published": "Tue, 06 Jan 2026 23:33:03 CST",
-    "summary": "He was a founder of More, which skewered the foibles of the press in the\n1970s, and later wrote a critical biography of the psychoanalyst Bruno\nBettelheim.\n\n"
-  },
-  {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Ftravel%2Fhilton-hampton-inn-dhs.html",
     "published": "Tue, 06 Jan 2026 23:11:30 CST",
@@ -576,12 +600,6 @@
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
   },
   {
-    "title": "The data center rebellion is here, and it’s reshaping the political landscape",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F06%2Fdata-centers-backlash-impact-local-communities-opposition%2F",
-    "published": "Tue, 06 Jan 2026 10:00:00 CST",
-    "summary": "As the buildout of AI infrastructure alarms communities, it is fast emerging\nas a potent electoral issue across the political divide.\n\n"
-  },
-  {
     "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
@@ -622,12 +640,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fchevron-kazakhstan-oil.html",
     "published": "Mon, 05 Jan 2026 20:22:33 CST",
     "summary": "After spending nearly $50 billion to expand the country’s Tengiz oil field,\nthe American oil giant and its partners encounter more uncertainty.\n\n"
-  },
-  {
-    "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F02%2Fclimate%2Fglyphosate-roundup-retracted-study.html",
-    "published": "Mon, 05 Jan 2026 19:55:04 CST",
-    "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active\ningredient, glyphosate, have led to calls for the E.P.A. to reassess the\nwidely used chemical.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
@@ -984,12 +996,6 @@
     "summary": "The administration has downplayed concerns — from mass job losses, to a\npotential financial bubble — as President Trump cheers soaring stock prices\nand faster growth.\n\n"
   },
   {
-    "title": "Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F23%2Ftanger-ceo-stephen-yalof-holiday-shopping-consumer-spending-confidence.html",
-    "published": "Tue, 23 Dec 2025 18:27:35 CST",
-    "summary": "Tanger CEO Stephen Yalof says shoppers kept spending this holiday season as\npromotions and value offset weaker consumer confidence.\n\n"
-  },
-  {
     "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F21%2Fus%2Fpolitics%2Fus-coast-guard-venezuela-oil-tankers.html",
     "published": "Mon, 22 Dec 2025 04:58:03 CST",
@@ -1072,12 +1078,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F11%2Fbusiness%2Feconomy%2Ftrump-tariffs-trade-deficit.html",
     "published": "Thu, 11 Dec 2025 17:06:12 CST",
     "summary": "The monthly trade deficit fell to its lowest level in five years after the\npresident’s imposition of sweeping global tariffs. But it’s unclear whether\nthe trend will persist.\n\n"
-  },
-  {
-    "title": "Trump Doesn’t Want to Talk About Affordability. Democrats Say That’s a Gift.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F11%2Fus%2Fpolitics%2Ftrump-affordability-democrats.html",
-    "published": "Thu, 11 Dec 2025 14:24:28 CST",
-    "summary": "The president continues to brush off an issue that he said he would solve in\nhis first months in office. Some Democrats say he is making the same mistake\nas his predecessor.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",

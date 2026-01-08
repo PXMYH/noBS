@@ -6,52 +6,52 @@ Generated from **222** unique articles (deduplicated from 222 total) across **1*
 
 ## 🌍 World & Politics
 
-Tensions escalate as the U.S. tightens its grip on Venezuela’s oil industry, seizing two tankers—including a Russian-flagged vessel—and asserting control over the country’s crude sales after the ouster of President Nicolás Maduro. The Trump administration’s aggressive moves, which include plans to ramp up military spending while cracking down on defense contractors, have rattled markets and drawn mixed reactions from conservative media. Meanwhile, China faces uncertainty over its oil investments in Venezuela, sparking internal debates about geopolitical strategy amid comparisons to Taiwan. Elsewhere, Iran’s president orders security forces to ease crackdowns on protesters, while Ukraine’s businesses, like vodka exporter Nemiroff, push forward despite ongoing war disruptions. The U.S. also closes Caribbean airspace, citing safety risks, as airlines scramble to adjust flights.
+Global tensions escalate as the U.S. intensifies its intervention in Venezuela, seizing oil tankers and asserting control over the country’s oil sales after the ouster of President Nicolás Maduro. The move, which includes lifting some sanctions to secure Venezuelan crude, has triggered geopolitical ripple effects, with China reassessing its oil deals with Caracas and debating the implications for Taiwan. Meanwhile, financial markets react to President Trump’s aggressive policy shifts, including a crackdown on defense contractors and housing market reforms, fueling volatility. In Europe, French farmers stage protests against an EU-South America trade deal, while Iran faces internal unrest as its president attempts to curb security forces’ crackdown on protesters. Elsewhere, businesses in Ukraine adapt to wartime challenges, and diplomatic strains persist between China and the UK over Taiwan.
 
 **Top Articles:**
-- [Bassiri Tabrizi: Another Iran-Israel Escalation Likely](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbassiri-tabrizi-another-iran-israel-escalation-likely-video)
+- [French Farmers Roll Tractors to Paris to Protest Free-Trade Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Ffrench-farmers-roll-tractors-to-paris-to-protest-free-trade-deal)
+- [Another Iran-Israel Escalation Likely, Bassiri Tabrizi Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbassiri-tabrizi-another-iran-israel-escalation-likely-video)
 - [Mamdani Hosts Influencer Summit, Sidestepping Traditional Media](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html)
 - [U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html)
 - [Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ftrump-wall-street-investors-homes.html)
-- [Stocks Slip as Traders Grapple With Trump Policies: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates)
 
-**Sources**: archive.ph (20 articles)
+**Sources**: archive.ph (21 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, corporate shifts, and economic policy changes in early 2026. Investors are flocking to Japanese equities as a safe haven amid US uncertainty under President Trump, while Italy draws strong demand for its bond sales amid European political shifts. Venezuela dominates energy headlines, with the US asserting control over its oil sales and companies like Exxon Mobil seeking billions in compensation for past asset seizures. Meanwhile, corporate earnings reveal strain: Tesco and AB Foods report weaker holiday sales, Shell signals a rocky quarter for oil trading, and Saks Global faces leadership changes amid financial struggles. The Fed’s independence is under scrutiny as Trump seeks to reshape the institution, while JPMorgan’s takeover of the Apple Card from Goldman Sachs marks a significant shift in consumer finance. In commodities, European gas and power markets prepare for extended trading hours, and China tightens silver export controls, echoing its rare earths strategy.
+Global markets open 2026 with cautious optimism as investors weigh geopolitical risks and shifting economic policies. Wall Street strategists, including Goldman Sachs, predict a broader equity rally driven by resilient U.S. consumer spending, though concerns linger over the sustainability of the AI-driven market surge that dominated 2025. Meanwhile, geopolitical tensions—particularly U.S. actions in Venezuela—are reshaping energy markets, with oil prices volatile amid uncertainty over Venezuela’s future crude sales and unresolved claims from firms like Exxon Mobil. In Europe, Italy’s strong bond sale highlights investor appetite for sovereign debt, while the UK’s retail sector faces headwinds after lackluster holiday sales at major chains like Tesco and AB Foods. Corporate shake-ups are also in focus, with JPMorgan Chase taking over the Apple Card from Goldman Sachs and Warren Buffett’s formal exit from Berkshire Hathaway marking a leadership transition. The Fed’s independence faces pressure as political and policy challenges mount, while the anticipated SpaceX IPO looms as a potential blockbuster event for markets.
 
 **Top Articles:**
-- [Foreigners Rushed to Buy Japanese Stocks on Trump Fears in 2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fforeigners-rushed-to-buy-japanese-stocks-on-trump-fears-in-2025)
-- [Italy Draws €190 Billion of Bids in First Bond Sale of 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fitaly-draws-190-billion-of-bids-in-first-bond-sale-of-2026)
-- [Geopolitics Needs Policy to Move Risk: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fgeopolitics-needs-policy-to-move-risk-3-minute-mliv-video)
-- [Heirs to Billionaire Castel’s Empire Lose Bid to Oust CEO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fheirs-to-billionaire-castel-s-beer-empire-lose-bid-to-oust-ceo)
-- [Sabic Slumps on Move to Downsize With Asset Sales in Europe, US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fsabic-slumps-on-move-to-downsize-with-asset-sales-in-europe-us)
+- [Goldman Sees US Consumer Powering Wider Equity Rally in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgoldman-sees-us-consumer-powering-wider-equity-rally-in-2026)
+- [Best Stock Trade of 2025 Keeps Running, Question Is for How Long](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fbest-stock-trade-of-2025-keeps-running-question-is-for-how-long)
+- [On Wall Street, investors ignore Trump’s talk of war](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fus-economy-geopolitics-uncertainty%2F)
+- [Real estate agents say the housing market is starting to balance out](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcnbc-housing-market-survey-agents-balance-out.html)
+- [UK’s Biggest Retailers Set Back by Grim Sales at Christmas](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fa-grim-christmas-delivers-disappointment-for-ailing-uk-retailers)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (79 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, particularly in AI and corporate strategy. Companies are aggressively pursuing AI-driven growth, with convertible bond issuances hitting a 24-year high to fund AI initiatives, while firms like Vista Equity Partners are betting big on 'agentic' AI applications. In corporate news, Warner Bros. Discovery continues to reject Paramount's $108 billion takeover bid, favoring its Netflix partnership, and Alaska Airlines makes its largest-ever aircraft order with 110 Boeing planes. Meanwhile, regulatory and geopolitical tensions simmer as China reassures Japan over export controls and Venezuela's debt restructuring looms. AI's societal impact is also under scrutiny, with Google and Character.AI settling a lawsuit tied to a teenager's death linked to an AI chatbot, and companies experimenting with four-day workweeks powered by AI automation.
+The tech and business landscape is buzzing with major developments, particularly in AI and corporate strategy. Companies are aggressively pursuing AI-driven growth, with a surge in convertible bond deals to fund innovation, while JPMorgan’s asset management arm replaces proxy advisors with AI-powered analysis. In automotive, Ford joins the race for eyes-off driving tech, targeting a $30,000 EV by 2028, as Lucid reports a 55% increase in EV deliveries. Meanwhile, corporate battles intensify: Warner Bros. Discovery rejects Paramount’s $108 billion bid, favoring its Netflix partnership, and Alaska Airlines places its largest-ever order for 110 Boeing jets. Regulatory and geopolitical tensions also loom, as China warns of potential rare earth restrictions and Venezuela’s debt restructuring remains uncertain. AI’s societal impact is under scrutiny, with Google and Character.AI settling a lawsuit tied to a teen’s death, while companies experiment with AI to enable four-day workweeks.
 
 **Top Articles:**
 - [Here’s What Could Happen to Venezuela’s Messy $170 Billion of Debt](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fhere-s-what-could-happen-to-venezuela-s-messy-170-billion-of-debt)
 - [AI Spending Boom Fuels 24-Year High for Convertible Bond Deals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fai-spending-boom-fuels-24-year-high-for-convertible-bond-deals)
-- [China Vows Japan’s Civilian Trade ‘Not Affected’ by Latest Curbs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchina-vows-japan-s-civilian-trade-not-affected-by-latest-curbs)
-- [UK House Prices in Steepest Drop Since August 2023, Halifax Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fuk-house-prices-tumbled-at-the-end-of-the-year-halifax-says)
 - [Galp, Mubadala-Owned Moeve Explore Iberian Downstream Tie-Up](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgalp-mubadala-owned-moeve-explore-iberian-downstream-tie-up)
+- [JD Weighs Raising $1.4 Billion in Debut Dim Sum Bond Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjd-com-weighs-raising-1-4-billion-in-debut-dim-sum-bond-sale)
+- [Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html)
 
-**Sources**: archive.ph (86 articles)
+**Sources**: archive.ph (83 articles)
 
 ---
 
 ## ⚽ Sports
 
-Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options amid rising subscription costs and economic pressures. Tubi's success underscores a broader trend in the entertainment industry, where accessibility and affordability are increasingly prioritized by viewers. The platform's ability to attract a substantial audience without a paywall could prompt other media companies to reevaluate their streaming strategies, potentially accelerating the adoption of hybrid or ad-supported models across the sector.
+Fox's free streaming service Tubi is making waves in the competitive streaming landscape, surpassing major players like Peacock and HBO Max in viewership. According to Nielsen's November Gauge report, Tubi secures a larger share of streaming minutes, marking a significant shift in consumer preferences toward ad-supported platforms. This surge highlights the growing appeal of free, ad-based streaming options, challenging subscription-based models. The success of Tubi underscores broader trends in the media industry, where cost-conscious viewers increasingly favor accessible content without subscription fees. Meanwhile, the streaming wars continue to evolve, with platforms vying for dominance through diverse content strategies and pricing models.
 
 **Top Articles:**
 - [Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F24%2Ftubi-fox-streaming-free.html)
@@ -62,17 +62,17 @@ Fox's free streaming service Tubi is making waves in the competitive streaming l
 
 ## 📰 Other News
 
-Global markets and economic recovery take center stage as German factory orders surge for a third consecutive month, signaling a potential rebound in Europe’s largest economy. Meanwhile, Equinor’s $10 billion investment in Norway’s oil and gas sector underscores long-term energy commitments, while South African food producers rally on JPMorgan’s bullish outlook. In the U.S., political and economic tensions persist, with the Trump administration facing legal challenges over a $100,000 H-1B visa fee and intensifying scrutiny of Democratic-led states like Minnesota. On the corporate front, leadership shake-ups at AIG and GQ reflect broader industry shifts, while Ford reports its strongest annual U.S. vehicle sales since 2019. Social trends also emerge, with rising costs in youth sports and housing affordability squeezing middle-class families, even as Novo Nordisk launches a groundbreaking GLP-1 obesity pill at competitive prices. Cultural moments include the Wolffs’ foray into lifestyle influencing and a retrospective on The New York Times’ century-long coverage of Venezuela’s tumultuous history.
+This week's news highlights a mix of economic pressures and policy shifts shaping American life. More states now enforce a $15 minimum wage, yet many workers remain trapped in part-time roles or multiple jobs to afford basic costs, underscoring persistent affordability struggles. The Trump administration faces legal challenges over its $100,000 H-1B visa fee and intensifies scrutiny of Democratic-led states like Minnesota, while pushing tax breaks and rebates to ease financial strain. Meanwhile, corporate moves dominate headlines: Equinor's $10 billion Norway oil deals signal long-term energy commitments, while Ford reports its best U.S. sales since 2019. Cultural shifts emerge as travel loyalty programs offer exclusive perks to retain customers, and youth sports costs soar, reflecting broader economic disparities. The Supreme Court's growing favoritism toward wealthy litigants and Warren Buffett's unmatched investment legacy add historical context to today's financial landscape.
 
 **Top Articles:**
+- [Minimum Wage Rises in Some States as Workers Struggle with Basic Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fus%2Fminimum-wage-increases.html)
+- [Push to Audit Private Equity and Venture Capital Falters Under Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Firs-private-equity-venture-capital-audits.html)
+- [More workers are stuck in part-time jobs in warning for the economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fmultiple-part-time-jobs-economy%2F)
 - [JPMorgan’s Call Triggers Rally in South African Food Producers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fjpmorgan-s-call-triggers-rally-in-south-african-food-producers)
 - [Equinor Inks Deals Worth $10 Billion to Sustain Norway Output](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fequinor-inks-deals-worth-10-billion-to-sustain-norway-output)
-- [German Factory Orders Jump Most in a Year in Sign of Recovery](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgerman-factory-orders-jump-most-in-a-year-in-sign-of-recovery)
-- [FTSE 100 Falls a Second Day as AB Foods, Tesco Drop](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-08%2Fftse-100-tesco-oil-trump-venezuela-latest-pound-what-s-moving-uk-markets-right-now-markets-today)
-- [Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (38 articles)
 
 ---
 
-*Digest generated on January 08, 2026 at 09:51 AM *
+*Digest generated on January 08, 2026 at 10:53 AM *
