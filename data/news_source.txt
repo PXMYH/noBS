@@ -1,5 +1,71 @@
 [
   {
+    "title": "KKR to Book 4.5 Times Return on OneStream Via Latest Buyout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkkr-to-book-4-5-times-return-on-onestream-via-latest-buyout",
+    "published": "Thu, 08 Jan 2026 20:40:22 CST",
+    "summary": "KKR & Co. has more than quadrupled its money in a bet on financial software\nmaker OneStream Inc.\n\n"
+  },
+  {
+    "title": "Why Trump is going after institutional homebuyers: They dominate markets like Atlanta, Jacksonville",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Ftrump-goes-after-institutional-home-buyers-who-dominate-some-sun-belt-markets.html",
+    "published": "Thu, 08 Jan 2026 20:40:06 CST",
+    "summary": "Trump's message may be aimed at places like Atlanta and Jacksonville,\nmetropolitan areas where investor ownership is more visible than elsewhere.\n\n"
+  },
+  {
+    "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html",
+    "published": "Thu, 08 Jan 2026 20:38:42 CST",
+    "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
+  },
+  {
+    "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html",
+    "published": "Thu, 08 Jan 2026 20:35:02 CST",
+    "summary": "Polymarket users bet on whether the U.S. would invade Venezuela, but the\nprediction market said Venezuelan president’s capture did not constitute an\ninvasion.\n\n"
+  },
+  {
+    "title": "Argentina Construction Posts Largest Monthly Drop of 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fargentina-construction-posts-largest-monthly-drop-of-2025",
+    "published": "Thu, 08 Jan 2026 20:32:24 CST",
+    "summary": "Argentina’s construction sector posted its largest monthly decline of last\nyear after crucial midterm elections, while the country’s manufacturing\nindustry also saw activity slow.\n\n"
+  },
+  {
+    "title": "Veja os Três Assuntos Que Marcaram a Semana no Brasil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fveja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video",
+    "published": "Thu, 08 Jan 2026 20:28:48 CST",
+    "summary": "Os repórteres Beatriz Reis e Daniel Carvalho contam os assuntos que marcaram a\nsemana no Brasil. Com edição de Raphael Almeida e produção de Patricia Xavier.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Portugal’s Centeno Says He’s Running for ECB Vice President Role",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fportugal-s-centeno-says-he-s-running-for-ecb-vice-president-role",
+    "published": "Thu, 08 Jan 2026 20:24:16 CST",
+    "summary": "Portugal’s former central-bank Governor Mario Centeno said he is running for\nthe role of European Central Bank vice president.\n\n"
+  },
+  {
+    "title": "Nvidia-Backed Nscale Is Said to Eye $2 Billion Funding Round",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fnvidia-backed-nscale-is-said-to-eye-2-billion-funding-round",
+    "published": "Thu, 08 Jan 2026 20:21:43 CST",
+    "summary": "Data center company Nscale is in talks with investors to raise about $2\nbillion, according to people familiar with the matter, a little over three\nmonths after closing its last funding round.\n\n"
+  },
+  {
+    "title": "RFK Jr.'s new food guidelines could boost beaten down fast-casual chains like Chipotle and Sweetgreen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Frfk-jr-food-guidelines-chipotle-sweetgreen.html",
+    "published": "Thu, 08 Jan 2026 20:04:27 CST",
+    "summary": "The restaurant industry had mixed reactions to new federal nutrition\nguidelines, which recommend reduced intake of processed foods and sugary\ndrinks.\n\n"
+  },
+  {
+    "title": "Chevron Is Loading Venezuela Oil Onto Tankers at the Fastest Pace in Months",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchevron-is-loading-venezuela-oil-onto-tankers-at-the-fastest-pace-in-months",
+    "published": "Thu, 08 Jan 2026 20:02:17 CST",
+    "summary": "Chevron Corp., the sole Western supermajor permitted to pump Venezuelan oil,\nis loading tankers at the fastest pace in seven months as the US government\nmoves to control the Latin American nation’s crude riches.\n\n"
+  },
+  {
+    "title": "Democratic lawmakers ask for an investigation of the Middle East envoy Steve Witkoff.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F08%2Fus%2Ftrump-news%2Fwitkoff-crypto-democrats-investigation",
+    "published": "Thu, 08 Jan 2026 19:42:09 CST",
+    "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
+  },
+  {
     "title": "White House Mulling Bipartisan CFTC Picks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fwhite-house-mulling-bipartisan-cftc-picks-video",
     "published": "Thu, 08 Jan 2026 19:32:11 CST",
@@ -30,12 +96,6 @@
     "summary": "BGC Partners Advisory, a boutique restructuring firm started in 2024 by ex-\nCitigroup Inc. public finance bankers, is dissolving.\n\n"
   },
   {
-    "title": "Democratic lawmakers ask for an investigation of the Middle East envoy Steve Witkoff.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fdemocratic-lawmakers-ask-for-an-investigation-of-the-middle-east-envoy-steve-witkoff.html",
-    "published": "Thu, 08 Jan 2026 19:13:01 CST",
-    "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
-  },
-  {
     "title": "Investors Brace for US Jobs Reports, Trump Floats Pentagon Budget Boost | Bloomberg Markets 1/6/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbloomberg-markets-1-6-2026-video",
     "published": "Thu, 08 Jan 2026 19:11:09 CST",
@@ -46,12 +106,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Frokos-hedge-fund-joins-macro-peers-surge-with-gains-of-21",
     "published": "Thu, 08 Jan 2026 19:09:52 CST",
     "summary": "Billionaire Chris Rokos’ hedge fund posted yet another year of double-digit\ngains, joining peers cashing in on macro trades last year.\n\n"
-  },
-  {
-    "title": "Why Trump is going after institutional homebuyers: They dominate markets like Atlanta, Jacksonville",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Ftrump-goes-after-institutional-home-buyers-who-dominate-some-sun-belt-markets.html",
-    "published": "Thu, 08 Jan 2026 19:03:00 CST",
-    "summary": "Trump's message may be aimed at places like Atlanta and Jacksonville,\nmetropolitan areas where investor ownership is more visible than elsewhere.\n\n"
   },
   {
     "title": "US Overdose Deaths Drop as Fentanyl Supply Weakens, Study Finds",
@@ -70,12 +124,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fbessent-says-fed-rates-still-substantially-above-neutral-video",
     "published": "Thu, 08 Jan 2026 18:55:23 CST",
     "summary": "US Treasury Secretary Scott Bessent says the Federal Reserve must do its part\nto spur investment in the economy during remarks to the Economic Club of\nMinnesota in Minneapolis. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "RFK Jr.'s new food guidelines could boost beaten down fast-casual chains like Chipotle and Sweetgreen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Frfk-jr-food-guidelines-chipotle-sweetgreen.html",
-    "published": "Thu, 08 Jan 2026 18:41:40 CST",
-    "summary": "The restaurant industry had mixed reactions to new federal nutrition\nguidelines, which recommend reduced intake of processed foods and sugary\ndrinks.\n\n"
   },
   {
     "title": "Big Tech Drags Stocks Lower | Open Interest 1/8/2026",
@@ -124,24 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-08%2Fnobody-really-wants-to-fight-the-affordability-crisis",
     "published": "Thu, 08 Jan 2026 18:14:21 CST",
     "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
-    "title": "Gold Exports Mask Weakness in Canada’s Broader Trade Picture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-exports-mask-weakness-in-canada-s-broader-trade-picture",
-    "published": "Thu, 08 Jan 2026 18:00:01 CST",
-    "summary": "Canada posted a C$583 million ($421 million) trade deficit in October, but\nsurging precious‑metal exports -- mostly gold -- are doing a lot of heavy\nlifting. Strip those out, and Canada would have a C$8.2 billion shortfall. The\ngap underscores how dependent the country’s trade fortunes have become on\nglobal demand for bullion.\n\n"
-  },
-  {
-    "title": "Vitol Is in Talks With US Refiners to Gauge Interest in Venezuela’s Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fvitol-is-in-talks-with-us-refiners-to-gauge-interest-in-venezuela-s-oil",
-    "published": "Thu, 08 Jan 2026 17:53:41 CST",
-    "summary": "Vitol Group, one of the world’s biggest commodities traders, is in discussions\nwith US refiners to gauge their interest in buying Venezuelan oil after\nPresident Donald Trump said the South American country would relinquish as\nmany as 50 million barrels to the US.\n\n"
-  },
-  {
-    "title": "Mercuria Redoubles Metals Push With $1.2 Billion Kazakh Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fmercuria-redoubles-metals-push-with-1-2-billion-kazakh-deal",
-    "published": "Thu, 08 Jan 2026 17:49:27 CST",
-    "summary": "Mercuria Energy Group Ltd. is lending $1.2 billion to help fund the buyout of\nmajor Kazakh copper producer Kazakhmys, the latest in a breakneck series of\ndeals from the trading house that’s rapidly becoming a major force in metals.\n\n"
   },
   {
     "title": "Private Equity Outlook with GTCR Co-CEO",
@@ -228,28 +258,16 @@
     "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
   },
   {
-    "title": "Obesity, M&amp;A, Biotech Revival: A 2026 Guide to Health Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fobesity-m-a-biotech-resurgence-a-2026-guide-to-health-stocks",
-    "published": "Thu, 08 Jan 2026 12:15:00 CST",
-    "summary": "The health-care corner of the US equity market has traditionally been viewed\nas defensive, thanks to steady growth and healthy dividend yields among the\nindustry’s stalwarts. That narrative is changing.\n\n"
-  },
-  {
-    "title": "Emerging Currencies Dip as USD Rises on Data, Geopolitical Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Femerging-stocks-currencies-drop-as-geopolitical-risks-mount",
-    "published": "Thu, 08 Jan 2026 12:01:27 CST",
-    "summary": "Emerging-market currencies fell against the dollar after the latest US\neconomic data eased fear of a sharper slowdown in the labor market and the\neconomy.\n\n"
+    "title": "Defense Stock Rally Extends Into 2026 as Geopolitics Stays Tense",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdefense-stocks-soar-again-as-trump-plans-military-budget-boost",
+    "published": "Thu, 08 Jan 2026 12:23:26 CST",
+    "summary": "US defense stocks are off to a strong start in 2026, extending last year’s\nstellar performance as geopolitical tensions ratchet higher and military\nspending plans rise to match them.\n\n"
   },
   {
     "title": "Trump plans to use Venezuela’s huge crude reserves ‘to cut US oil price to $50 a barrel’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F08%2Ftrump-plans-use-venezuela-huge-oil-reserves-to-cut-us-consumer-price-to-50-a-barrel",
     "published": "Thu, 08 Jan 2026 12:00:47 CST",
     "summary": "President reportedly hopes falling price will cut domestic consumer energy\nbills\n\n  * Business live – latest updates\n\nDonald Trump plans to use Venezuela’s vast crude reserves to establish control\nof most of the western hemisphere’s oil in an attempt to drive the market\nprice down to about $50 (£37) a barrel, according to reports.\n\nThe US president has repeatedly raised the prospect of producing enough crude\nfrom Venezuela’s oilfields to drive down the US oil price from more than $56 a\nbarrel today to about $50 in an effort to cut energy costs for consumers,\naccording to the Wall Street Journal, which cited senior Trump administration\nofficials.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "A US Trader’s Guide to the Supreme Court’s Looming Tariff Ruling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fa-us-trader-s-guide-to-the-supreme-court-s-looming-tariff-ruling",
-    "published": "Thu, 08 Jan 2026 12:00:00 CST",
-    "summary": "An upcoming Supreme Court ruling on the legality of the sweeping tariffs that\nPresident Donald Trump rolled out in April, briefly sending shockwaves through\nmarkets, looms as one of the next big tests for US stocks and bonds.\n\n"
   },
   {
     "title": "Trump administration jails migrant teens in facility known for child abuse",
@@ -294,12 +312,6 @@
     "summary": "A friendly summit at New York’s City Hall with digital content creators and\nsocial media stars symbolized the new mayor’s attitude toward the changing\nnews media.\n\n"
   },
   {
-    "title": "Nickel Extends Drop Amid Lack of Detail on Indonesia Output Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fnickel-steadies-after-slump-as-traders-seek-clarity-on-supply",
-    "published": "Thu, 08 Jan 2026 02:57:10 CST",
-    "summary": "Nickel fell further from a 19-month high after Indonesia didn’t provide\ndetails on its pledge for output cuts, which had earlier fueled a sharp rally.\n\n"
-  },
-  {
     "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
     "published": "Thu, 08 Jan 2026 01:56:11 CST",
@@ -342,10 +354,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Big Tech Drags on Stocks as Defense Outperforms: Markets Wrap",
+    "title": "Stock Rotation Hits Big Tech as Small Caps Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-07%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 07 Jan 2026 22:11:15 CST",
-    "summary": "Big tech stocks tumbled as traders locked in profits from the artificial-\nintelligence trade while defense shares jumped on President Donald Trump’s\nplan to ramp up military spending. An advance in global bonds stalled.\n\n"
+    "summary": "Big tech stocks tumbled as traders locked in profits from the artificial-\nintelligence trade while smaller firms rallied. An advance in global bonds\nstalled.\n\n"
   },
   {
     "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
@@ -768,12 +780,6 @@
     "summary": "Geopolitical shocks historically have little impact on the stock market, and,\nadditionally, investors do not expect the attack will escalate further.\n\n"
   },
   {
-    "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html",
-    "published": "Mon, 05 Jan 2026 16:19:39 CST",
-    "summary": "Lucid Group significantly increased its production and sales last year, as it\ncontinues to ramp-up production of its new Gravity SUV.\n\n"
-  },
-  {
     "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
     "published": "Mon, 05 Jan 2026 15:56:57 CST",
@@ -862,12 +868,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Feconomy%2Ftrump-tariffs-prices-impact.html",
     "published": "Sat, 03 Jan 2026 10:00:59 CST",
     "summary": "Steep import taxes have raised prices and affected U.S. businesses, but not\nquite as much as expected. A new report offers some reasons.\n\n"
-  },
-  {
-    "title": "Retirement 2026 by the Numbers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Fretirement-savings-2026.html",
-    "published": "Sat, 03 Jan 2026 10:00:46 CST",
-    "summary": "As the new year begins, savings have hit unprecedented levels, but rising\nhealth care costs and growing poverty make retirement unaffordable for many.\n\n"
   },
   {
     "title": "Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins",
