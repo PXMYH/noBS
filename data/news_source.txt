@@ -1,5 +1,35 @@
 [
   {
+    "title": "China Vanke Preps Debt Restructuring Plan in Move Toward Default",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-vanke-preps-debt-restructuring-plan-in-move-toward-default",
+    "published": "Fri, 09 Jan 2026 07:30:59 CST",
+    "summary": "China Vanke Co. is preparing a debt restructuring plan at the request of\nauthorities, people familiar with the matter said, pushing one of the\ncountry’s largest real estate developers closer to default.\n\n"
+  },
+  {
+    "title": "Copper Pushes Higher With Metals Set for Fourth Weekly Advance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcopper-pushes-higher-with-metals-set-for-fourth-weekly-advance",
+    "published": "Fri, 09 Jan 2026 07:23:39 CST",
+    "summary": "Base metals including copper and aluminum pushed higher, extending a powerful\nrally for the sector on concerns about tightening supplies, as well as rising\ninvestor enthusiasm for commodities.\n\n"
+  },
+  {
+    "title": "Sainsbury’s Christmas Sales Disappoint as UK Retail Struggles",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsainsbury-s-christmas-sales-disappoint-as-uk-retail-struggles",
+    "published": "Fri, 09 Jan 2026 07:21:09 CST",
+    "summary": "J Sainsbury Plc reported weaker-than-expected sales over the holiday season,\njoining the list of British retailers that faced a tough Christmas.\n\n"
+  },
+  {
+    "title": "German Production Unexpectedly Rises on Pickup in Auto Output",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fgerman-production-unexpectedly-rises-on-pickup-in-auto-output",
+    "published": "Fri, 09 Jan 2026 07:16:55 CST",
+    "summary": "German industrial production unexpectedly increased for a third month, the\nlatest signal that a recovery might be taking hold in Europe’s biggest\neconomy.\n\n"
+  },
+  {
+    "title": "Modi’s Failure to Call Trump Derailed Trade Deal, Lutnick Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fmodi-s-failure-to-call-trump-derailed-trade-deal-lutnick-says",
+    "published": "Fri, 09 Jan 2026 06:46:57 CST",
+    "summary": "US Commerce Secretary Howard Lutnick said a trade deal with India did not\nmaterialize last year because Prime Minister Narendra Modi did not call\nPresident Donald Trump.\n\n"
+  },
+  {
     "title": "Hopes rise for Chinese property support ahead of key March meeting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fchina-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html",
     "published": "Fri, 09 Jan 2026 06:44:40 CST",
@@ -30,7 +60,7 @@
     "summary": "From oil and arms to AI and chips, the Trump administration is reshaping its\nrelations with Gulf states around business interests. But Saudi Arabia, the\nUAE, and Qatar are hedging by deepening economic ties with China, raising\nquestions about whether Washington can remain the region’s dominant partner.\nOliver Crook reports. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Saudi Oil Sales to Asia to Remain Robust After Third Price Drop",
+    "title": "Saudi Oil Sales to Asia Remain Robust After Third Price Cut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsaudi-oil-sales-to-asia-to-remain-robust-after-third-price-drop",
     "published": "Fri, 09 Jan 2026 05:44:32 CST",
     "summary": "Crude oil sales from Saudi Arabia to East Asia are set to persist above usual\nlevels after the world’s biggest exporter cut prices for a third month on\nsigns of oversupply in the market.\n\n"
@@ -69,7 +99,7 @@
     "title": "Korea to Launch 24-Hour FX Trading in July to Secure Upgrade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkorea-to-launch-24-hour-fx-trading-in-july-to-secure-upgrade",
     "published": "Fri, 09 Jan 2026 05:00:26 CST",
-    "summary": "South Korea will introduce 24-hour currency exchange trading in July and relax\nrules for offshore transactions by September, the latest step in its years-\nlong effort to secure developed-market status from MSCI Inc.\n\n"
+    "summary": "South Korea will introduce 24-hour foreign exchange trading in July and relax\nrules for offshore transactions by September, the latest step in its years-\nlong effort to secure developed-market status from MSCI Inc.\n\n"
   },
   {
     "title": "Call Me Mrs. Crisis: Lagarde Confronts Europe’s Perils in Last Act",
@@ -120,30 +150,6 @@
     "summary": "BNP Paribas Chief Economist Isabelle Mateos y Lago speaks on Bloomberg TV\nabout the growth outlook for equities in 2026, and shares her thoughts on\nwhether optimism towards AI and tech stocks will endure. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Japanese Insurer Sompo to Ramp Up Overseas Credit Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fjapanese-insurer-sompo-to-ramp-up-overseas-credit-investments",
-    "published": "Fri, 09 Jan 2026 02:40:36 CST",
-    "summary": "Sompo Holdings Inc. is aiming to increase investments in higher-yielding\noverseas credit to boost profits as traditional business flounders at Japan’s\nthird-biggest property and casualty insurer.\n\n"
-  },
-  {
-    "title": "Doosan Bobcat CEO on AI in Manufacturing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fdoosan-bobcat-ceo-on-ai-in-manufacturing-video",
-    "published": "Fri, 09 Jan 2026 02:37:10 CST",
-    "summary": "Scott Park, CEO at Doosan Bobcat, discusses the company's business strategy\nand its new AI-voiced controlled construction equipment. He speaks with Shery\nAhn from the sidelines of the CES trade show on \"The Asia Trade\". (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "DeepX CEO on Business Strategy, New Chip",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fdeepx-ceo-on-business-strategy-new-chip-video",
-    "published": "Fri, 09 Jan 2026 02:35:47 CST",
-    "summary": "Lokwon Kim, CEO at DeepX, discusses the company's business strategy and its\nnew DX-M2 chip. He speaks with Shery Ahn and Annabelle Droulers from the\nsidelines of the CES trade show on \"The Asia Trade\". (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "TCS, Infosys to Offer Clues on 2026 Demand as Street Estimates Look Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftcs-infosys-to-offer-clues-on-2026-demand-as-street-estimates-look-up",
-    "published": "Fri, 09 Jan 2026 02:30:45 CST",
-    "summary": "Tata Consultancy Services Ltd. and Infosys Ltd. will give clues on how\nclients’ 2026 budgets are shaping up as the sector heads into another muted\nearnings season.\n\n"
-  },
-  {
     "title": "China’s Industrial Buyers Shun Copper After Prices Hit Record",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-s-industrial-buyers-shun-copper-after-prices-hit-record",
     "published": "Fri, 09 Jan 2026 02:28:09 CST",
@@ -160,12 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
-  },
-  {
-    "title": "NBA Star Jaylen Brown Calls for Player Equity",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fnba-star-jaylen-brown-calls-for-player-equity-video",
-    "published": "Fri, 09 Jan 2026 00:18:06 CST",
-    "summary": "Jaylen Brown of the Boston Celtics, a four-time NBA All-Star, Finals MVP,\nentrepreneur and philanthropist says players should be allowed to build equity\nalongside owners, arguing the league’s labor rules lag far behind the wealth\ncreated by the sport. He speaks with Brooke Sutherland in Boston. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Gold Heads for Weekly Gain as Traders Turn Attention to US Data",
