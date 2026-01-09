@@ -1,5 +1,47 @@
 [
   {
+    "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
+    "published": "Fri, 09 Jan 2026 18:42:02 CST",
+    "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
+  },
+  {
+    "title": "US hiring held firm in December capping weakest year of growth since pandemic",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fus-jobs-data-december-2025",
+    "published": "Fri, 09 Jan 2026 18:30:56 CST",
+    "summary": "White House is meanwhile facing questions about an apparent embargo breach\nover Trump’s social media post\n\nHiring held firm in the US last month, official data showed, amid uncertainty\nover the strength and direction of the world’s largest economy.\n\nEmployers added 50,000 jobs to the US labor force last month, capping the\nweakest year of growth since the pandemic, according to data released from the\nUS Bureau of Labor Statistics on Friday.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Stellantis scraps Jeep, Chrysler plug-in hybrid vehicles amid EV slowdown, recall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstellantis-scraps-jeep-chrysler-phevs-amid-ev-slowdown-recall.html",
+    "published": "Fri, 09 Jan 2026 18:24:27 CST",
+    "summary": "The decision is an about-face for the automaker, which has touted its sales\nleadership of the models, known as PHEVs, for years.\n\n"
+  },
+  {
+    "title": "Why There Isn’t Really a ‘Donroe Doctrine’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fwhy-there-isn-t-really-a-donroe-doctrine",
+    "published": "Fri, 09 Jan 2026 18:05:54 CST",
+    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
+  },
+  {
+    "title": "With ‘The Rip,’ Netflix Makes an Exception for Ben Affleck and Matt Damon",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fmedia%2Fnetflix-the-rip-ben-affleck-matt-damon.html",
+    "published": "Fri, 09 Jan 2026 18:01:24 CST",
+    "summary": "The streaming giant agreed to pay the entire production crew of the pair’s new\nmovie a bonus if the film performs well on the service.\n\n"
+  },
+  {
+    "title": "Apple Shares on Pace to Match Longest Losing Streak Since 1991",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fapple-shares-on-pace-to-match-longest-losing-streak-since-1991",
+    "published": "Fri, 09 Jan 2026 17:55:21 CST",
+    "summary": "Apple Inc. shares are on pace to tie their longest losing streak in more than\nthree decades.\n\n"
+  },
+  {
+    "title": "Hedge Fund Unifi Joins Billion-Dollar Club With Pension Backing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-fund-unifi-joins-billion-dollar-club-with-pension-backing",
+    "published": "Fri, 09 Jan 2026 17:44:28 CST",
+    "summary": "Unifi Asset Management, the hedge fund started by ex-One William Street\npartner Omer Gundogdu early last year, has joined the small group of newbie\nfirms that have topped the billion-dollar threshold in a tough fundraising\nclimate.\n\n"
+  },
+  {
     "title": "KBW's Bullish Bank Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fkbw-s-bullish-bank-outlook-video",
     "published": "Fri, 09 Jan 2026 17:40:09 CST",
@@ -78,12 +120,6 @@
     "summary": "A tanker meandering in the Caribbean near Venezuela underscores the steep\nhurdles to ramping up the country’s oil production following the US capture of\nPresident Nicolás Maduro.\n\n"
   },
   {
-    "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
-    "published": "Fri, 09 Jan 2026 16:53:41 CST",
-    "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
-  },
-  {
     "title": "Chevron Could See $700 Million-a-Year Boost From Venezuelan Oil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchevron-could-see-700-million-a-year-boost-from-venezuelan-oil",
     "published": "Fri, 09 Jan 2026 16:51:45 CST",
@@ -108,13 +144,7 @@
     "summary": "Elizabeth Bell of Hamilton Lane talks about President Donald Trump's efforts\nto solve the housing affordability crisis. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "US hiring held firm in December capping weakest year of growth since pandemic",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fus-jobs-data-december-2025",
-    "published": "Fri, 09 Jan 2026 16:28:07 CST",
-    "summary": "White House is meanwhile facing questions about an apparent embargo breach\nover Trump’s social media post\n\nHiring held firm in the US last month, official data showed, amid uncertainty\nover the strength and direction of the world’s largest economy.\n\nEmployers added 50,000 jobs to the US labor force last month, capping the\nweakest year of growth since the pandemic, according to data released from the\nUS Bureau of Labor Statistics on Friday.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Google Guys Say Bye to California",
+    "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgoogle-founders-california-wealth-tax.html",
     "published": "Fri, 09 Jan 2026 16:26:13 CST",
     "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
@@ -160,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbanks-launch-1-8-billion-of-leveraged-loans-for-hillenbrand-lbo",
     "published": "Fri, 09 Jan 2026 15:51:25 CST",
     "summary": "Banks led by Bank of America Corp. and UBS Group AG have kicked off a $1.8\nbillion leveraged-loan deal to help fund the buyout US plastic-parts and\nequipment maker Hillenbrand Inc.\n\n"
-  },
-  {
-    "title": "US Consumer Sentiment Improves to Four-Month High",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-consumer-sentiment-improves-to-four-month-high-video",
-    "published": "Fri, 09 Jan 2026 15:40:15 CST",
-    "summary": "US consumer sentiment climbed to 54 from 52.9 in December, according to the\nUniversity of Michigan, on slightly more upbeat views about the economy as\ntariff concerns fade. Michael McKee reports on Bloomberg Television. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Trump Posted Unpublished Jobs Data Early on Social Media",
@@ -240,16 +264,10 @@
     "summary": "Experts offered a variety of suggestions, including paring your list of goals,\nmaking saving automatic and avoiding spending temptations like marketing\nemails.\n\n"
   },
   {
-    "title": "Onex Seals $1.6 Billion Continuation Fund, Eyes Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fonex-seals-1-6-billion-continuation-fund-as-it-eyes-expansion",
-    "published": "Fri, 09 Jan 2026 13:56:17 CST",
-    "summary": "Onex Corp. collected $1.6 billion for a deal that will let it hold on to three\nassets for longer as the firm prepares for its next round of fundraising.\n\n"
-  },
-  {
     "title": "Traders See Almost No Chance of Fed Cut This Month After Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftraders-see-almost-no-shot-of-fed-rate-cut-this-month-after-data",
     "published": "Fri, 09 Jan 2026 13:43:53 CST",
-    "summary": "Treasuries fell and traders all but wiped out their bets that the Federal\nReserve would cut interest rates later this month after the unemployment rate\nfor December fell more than expected.\n\n"
+    "summary": "Bond traders all but wiped out their bets that the Federal Reserve would cut\ninterest rates later this month after the unemployment rate for December fell\nmore than expected.\n\n"
   },
   {
     "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
@@ -324,12 +342,6 @@
     "summary": "Emerging-market borrowers are taking advantage of a start of the year sellers’\nmarket, with spreads narrowing over US Treasuries and investors piling cash\ninto developing nations’ bonds.\n\n"
   },
   {
-    "title": "With ‘The Rip,’ Netflix Makes an Exception for Ben Affleck and Matt Damon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fmedia%2Fnetflix-the-rip-ben-affleck-matt-damon.html",
-    "published": "Fri, 09 Jan 2026 10:01:58 CST",
-    "summary": "The streaming giant agreed to pay the entire production crew of the pair’s new\nmovie a bonus if the film performs well on the service.\n\n"
-  },
-  {
     "title": "‘We are not for sale’: chair of Greenland’s top labor union rebukes Trump’s call for annexation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F09%2Fgreenland-labor-union-chair-trump-annexation",
     "published": "Fri, 09 Jan 2026 10:00:36 CST",
@@ -364,12 +376,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
     "published": "Thu, 08 Jan 2026 23:58:50 CST",
     "summary": "Gold steadied as traders maintained expectations that the Federal Reserve will\nhold rates steady at their January meeting, after key US jobs data gave mixed\nsignals about the health of the US economy.\n\n"
-  },
-  {
-    "title": "Oil Holds Biggest Gain Since October as Iran Protests Escalate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
-    "published": "Thu, 08 Jan 2026 23:30:24 CST",
-    "summary": "Oil held onto its biggest daily gain since October, as Iran attempted to quell\nescalating protests and President Donald Trump threatened repercussions if\ndemonstrators were targeted.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
@@ -640,18 +646,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Frfk-jr-nutrition-guidelines-protein-processed-food.html",
     "published": "Wed, 07 Jan 2026 18:17:17 CST",
     "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. and Agriculture\nSecretary Brooke Rollins announced new nutrition guidelines.\n\n"
-  },
-  {
-    "title": "U.S. vows to control Venezuela oil sales ‘indefinitely’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-oil-venezuela-subsidies%2F",
-    "published": "Wed, 07 Jan 2026 18:13:33 CST",
-    "summary": "The move comes as officials struggle to persuade U.S. firms to invest in\nexpansive drilling operations there.\n\n"
-  },
-  {
-    "title": "‘I voted so hard for this’: How the new Pentagon press corps covered Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fpentagon-press-hegseth-venezuela%2F",
-    "published": "Wed, 07 Jan 2026 17:56:34 CST",
-    "summary": "Newfound access hasn’t provided more information to the largely right-wing\npress corps that signed the Defense Department’s media rules.\n\n"
   },
   {
     "title": "Victoria and Michael Wolff Document Their Lifestyle in ‘Our Amagansett House’",
@@ -1012,12 +1006,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fairline-industry-2026.html",
     "published": "Fri, 02 Jan 2026 12:30:01 CST",
     "summary": "Airlines are continuing their focus on premium travelers, adding lounges, new\nfirst-class cabins and other perks for customers willing to spend more to fly.\n\n"
-  },
-  {
-    "title": "Stellantis resurrects $100,000 Ram TRX V-8 pickup truck amid industry deregulation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F01%2Fram-trx-v8-pickup-truck.html",
-    "published": "Thu, 01 Jan 2026 15:00:02 CST",
-    "summary": "The 2027 Ram 1500 SRT TRX will be available late next year after a roughly\nthree-year hiatus for around $100,000.\n\n"
   },
   {
     "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
