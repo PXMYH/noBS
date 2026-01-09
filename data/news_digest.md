@@ -1,34 +1,34 @@
 # NoBS News Digest - January 09, 2026
 
-Generated from **222** unique articles (deduplicated from 222 total) across **1** news sources
+Generated from **220** unique articles (deduplicated from 220 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The U.S. seizure of Venezuelan President Nicolás Maduro dominates global headlines, as the Trump administration asserts control over Venezuela’s oil resources, sparking a surge in crude held at sea and raising concerns among Western oil executives. The move has triggered geopolitical ripple effects, with China debating its implications for Taiwan and facing uncertainty over billions in loans to Caracas. Meanwhile, Democratic lawmakers call for an investigation into U.S. Middle East envoy Steve Witkoff, while Trump pushes Congress to curb Wall Street’s single-family home purchases. In Ukraine, businesses like Nemiroff vodka press on amid ongoing conflict, while diplomatic tensions flare between China and the UK over a minister’s Taiwan visit.
+The U.S. seizure of Venezuelan President Nicolás Maduro dominates global headlines, with the Trump administration asserting control over Venezuela’s oil resources and seizing tankers to enforce a blockade. The move has sent shockwaves through energy markets, with oil prices surging amid escalating protests in Iran and U.S. threats of repercussions. Meanwhile, China faces uncertainty over its billions in loans to Venezuela, sparking internal debates about political power and comparisons to Taiwan. In Ukraine, Russia’s missile strikes—including a symbolic attack on Lviv—signal a shift toward strategic coercion rather than outright destruction, while Ukrainian businesses like Nemiroff Vodka press on despite wartime disruptions. On the diplomatic front, tensions flare as Democratic lawmakers call for an investigation into U.S. Middle East envoy Steve Witkoff, and China threatens to derail UK trade talks over a minister’s Taiwan visit. The geopolitical fallout from Maduro’s capture is reshaping alliances, with oil companies wary of investing in Venezuela despite Trump’s push for U.S. dominance in the sector.
 
 **Top Articles:**
 - [Wary of Investing in Venezuela, Big Oil Heads to the White House](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html)
+- [Russia’s Oreshnik Missile Attack Aims for ‘Strategic Coercion’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frussia-s-oreshnik-missile-attack-aims-for-strategic-coercion)
 - [Venezuelan Oil Being Held at Sea Swells After US Intervention](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuelan-oil-being-held-at-sea-swells-after-us-intervention)
-- [Oil Pares Gains as Traders Weigh Iran Risks, Venezuela Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9)
-- [Democratic lawmakers ask for an investigation of the Middle East envoy Steve Witkoff.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F08%2Fus%2Ftrump-news%2Fwitkoff-crypto-democrats-investigation)
-- [Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html)
+- [Lutnick Says Modi’s Failure to Call Trump Stalled Trade Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fmodi-s-failure-to-call-trump-derailed-trade-deal-lutnick-says)
+- [Oil Holds Biggest Gain Since October as Iran Protests Escalate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9)
 
-**Sources**: archive.ph (19 articles)
+**Sources**: archive.ph (21 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are bracing for volatility as investors await the U.S. jobs report and a potential Supreme Court ruling on President Trump’s tariffs, which could influence the Federal Reserve’s interest-rate path. The dollar and Treasury yields rise amid uncertainty, while stocks waver. Meanwhile, corporate earnings reveal mixed signals: General Motors posts a $7.1 billion loss after scaling back EV ambitions, and Reliance Industries loses $15 billion in market cap due to weak retail outlooks and geopolitical pressures. Mergers and IPOs are also making headlines, with Rio Tinto reportedly open to acquiring Glencore’s coal business in a potential mega-deal, and Chinese AI startup MiniMax surging in its Hong Kong debut. Energy markets remain in focus as Trump’s plans to leverage Venezuela’s oil reserves aim to drive prices down to $50 a barrel, though experts question the feasibility. Elsewhere, India’s economy faces risks from higher tariffs and Chinese competition, while South Korea advances its bid for developed-market status with 24-hour FX trading.
+Global markets are navigating a mix of economic data, geopolitical tensions, and corporate shifts as 2026 begins. Investors are closely watching Friday’s U.S. jobs report, which could influence the Federal Reserve’s interest-rate path, while bond traders brace for volatility amid potential Supreme Court rulings on Trump’s tariffs. The dollar and Treasury yields are rising as the resilient U.S. economy overshadows political uncertainty. In corporate news, General Motors reports a $7.1 billion loss after scaling back its electric vehicle ambitions, and Reliance Industries suffers a $15 billion market cap wipeout due to weak retail outlooks and geopolitical pressures. Meanwhile, emerging-market borrowers are capitalizing on narrowing spreads, and Venezuela’s oil sector is drawing intense speculation following Trump’s plans to leverage its crude reserves. M&A activity is also in focus, with Rio Tinto potentially retaining Glencore’s coal business in a merger, and JPMorgan Chase taking over the Apple Card from Goldman Sachs.
 
 **Top Articles:**
+- [Stock Bulls Look to Supreme Court to Overturn Trump Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fstock-bulls-look-to-supreme-court-to-overturn-trump-tariffs)
+- [It’s a Sellers’ Market for Emerging Issuers as Spreads Narrow](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fit-s-a-sellers-market-for-emerging-issuers-as-spreads-narrow)
 - [Retail Crowd’s Buying Power Signals More Gains for US Stocks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fretail-crowd-s-buying-power-signals-more-gains-for-us-stocks)
 - [Rio Tinto Said to Be Open to Owning Coal If It Buys Glencore](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-tinto-said-to-be-open-to-owning-coal-if-it-buys-glencore)
 - [What to Know About the Latest Jobs Report](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html)
-- [Reliance Loses $15 Billion Market Cap in Bruising Start to 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Freliance-slides-6-in-bruising-start-to-year-ahead-of-earnings)
-- [Trade and Jobs Skew Bond Risks Negative: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftrade-and-jobs-skew-bond-risks-negative-3-minute-mliv-video)
 
 **Sources**: archive.ph (80 articles)
 
@@ -36,22 +36,22 @@ Global markets are bracing for volatility as investors await the U.S. jobs repor
 
 ## 💻 Technology
 
-The tech and business landscape is marked by significant shifts in corporate strategy, regulatory scrutiny, and emerging trends. In the automotive sector, Ford announces plans to introduce eyes-off driving technology in a $30,000 EV by 2028, joining competitors like Tesla and GM in the race for advanced autonomous features. Meanwhile, GM reports a 5.5% U.S. sales gain for 2025, though it faces challenges with a $7.1 billion charge due to EV market slowdowns and restructuring in China. The aviation industry sees major moves as Alaska Airlines places its largest-ever order for 110 Boeing jets, signaling expansion plans post-Hawaiian Airlines acquisition. Regulatory tensions rise as China investigates Meta’s acquisition of AI startup Manus, reflecting growing scrutiny over cross-border tech deals. In AI, Google and Character.AI settle a lawsuit tied to a teenager’s death linked to an AI chatbot, underscoring ethical concerns in the rapidly evolving sector. Financial markets remain volatile, with JPMorgan’s asset management arm dropping controversial proxy advisors in favor of AI-driven analysis, while Citadel’s flagship hedge fund posts a 10.2% gain for 2025.
+This week's tech and business landscape is marked by major corporate moves and regulatory scrutiny. In the tech sector, Warner Bros. Discovery (WBD) continues to reject Paramount's $108 billion hostile takeover bid, favoring its existing deal with Netflix, while China investigates Meta's acquisition of AI startup Manus over compliance concerns. Meanwhile, AI developments take center stage as JPMorgan shifts from controversial proxy advisors to AI-driven analysis for shareholder votes, and Vista Equity Partners pushes its 'agentic factory' to revolutionize enterprise AI adoption. The automotive industry sees mixed fortunes: GM records a $7.1 billion charge due to EV market struggles, while Lucid reports a 55% increase in 2025 deliveries, and Ford joins the race for eyes-off driving tech with a planned 2028 launch. Regulatory and geopolitical tensions also dominate, with China threatening rare earth export restrictions, raising alarms in Japan, and Venezuela's potential Bitcoin holdings drawing speculation amid U.S. sanctions. In aviation, Alaska Airlines places its largest-ever order for 110 Boeing jets, signaling expansion plans post-Hawaiian Airlines acquisition.
 
 **Top Articles:**
+- [InPost Catapulted From Laggard to Leader After Takeover Proposal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Finpost-catapulted-from-laggard-to-leader-after-takeover-proposal)
 - [These Trump supporters don’t want ICE detention warehouses in their towns](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-immigration-ice-detention%2F)
-- [Defense Firm Vincorion Said to Eye IPO Soon as the First Quarter](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdefense-firm-vincorion-said-to-eye-ipo-soon-as-the-first-quarter)
+- [Defense Firm Vincorion Said to Eye IPO Soon as This Quarter](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdefense-firm-vincorion-said-to-eye-ipo-soon-as-the-first-quarter)
 - [Vodafone Idea Is Said to Consider Raising Debt to Boost Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvodafone-idea-is-said-to-consider-raising-debt-to-boost-growth)
 - [IAG Switches Finance Chief With Cadbury Departing in June](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fiag-switches-finance-chief-with-cadbury-leaving-in-2026)
-- [China Vanke Preps Restructuring Plan in Move Toward Default](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-vanke-preps-debt-restructuring-plan-in-move-toward-default)
 
-**Sources**: archive.ph (83 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 📰 Other News
 
-The first week of 2026 reveals a mixed economic landscape, with signs of recovery in some sectors and lingering challenges in others. German industrial production unexpectedly rises for a third month, signaling potential growth in Europe’s largest economy, while British retailers face a sluggish holiday season despite strong food sales at Sainsbury’s. The U.S. labor market shows modest improvement, but many workers remain stuck in part-time roles or juggling multiple jobs to make ends meet. Meanwhile, the Supreme Court’s growing favoritism toward wealthy litigants and California’s controversial billionaire tax proposal highlight deepening economic divides. In corporate news, Netflix makes an exception for Ben Affleck and Matt Damon’s new film by offering crew bonuses tied to performance, and Ford reports its best annual U.S. vehicle sales since 2019. The political sphere remains volatile, with the Trump administration intensifying scrutiny of Democratic-led states and facing legal challenges over policies like the $100,000 H-1B visa fee. On the cultural front, the soaring costs of youth sports and the shifting dynamics of homeownership underscore broader affordability crises, while travel loyalty programs ramp up exclusive perks to retain fickle customers.
+The first week of 2026 brings a mix of economic shifts, political tensions, and cultural developments. The labor market shows signs of strain, with 2025 marked as the toughest year since the 2020 recession, though December saw slight improvement. Meanwhile, Germany's industrial production unexpectedly rises for a third month, hinting at a potential European recovery, while British retailers face a challenging holiday season amid weak demand for non-food items. In the U.S., economic pressures persist as more workers remain stuck in part-time jobs, and states like California push controversial wealth taxes targeting billionaires. The Supreme Court's growing favoritism toward wealthy litigants and Trump's intensified scrutiny of Democratic-led states add to the political landscape. On the cultural front, Netflix makes an exception for Ben Affleck and Matt Damon's new film, offering crew bonuses tied to performance, while GQ's editor-in-chief exits after reshaping the magazine's identity. Health and business trends also emerge, with Novo Nordisk launching the first GLP-1 obesity pill in the U.S. and private equity firms facing fundraising challenges amid lower management fees.
 
 **Top Articles:**
 - [With ‘The Rip,’ Netflix Makes an Exception for Ben Affleck and Matt Damon](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fmedia%2Fnetflix-the-rip-ben-affleck-matt-damon.html)
@@ -60,8 +60,8 @@ The first week of 2026 reveals a mixed economic landscape, with signs of recover
 - [Sainsbury’s Food Growth Undermined by Wider UK Retail Slump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsainsbury-s-christmas-sales-disappoint-as-uk-retail-struggles)
 - [German Production Unexpectedly Rises on Higher Auto Output](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fgerman-production-unexpectedly-rises-on-pickup-in-auto-output)
 
-**Sources**: archive.ph (40 articles)
+**Sources**: archive.ph (39 articles)
 
 ---
 
-*Digest generated on January 09, 2026 at 10:50 AM *
+*Digest generated on January 09, 2026 at 11:42 AM *

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html",
+    "published": "Fri, 09 Jan 2026 11:29:22 CST",
+    "summary": "The amounts of money, time and political uncertainty trouble executives at\nlarge Western oil companies, who plan to meet with President Trump on Friday.\n\n"
+  },
+  {
+    "title": "InPost Catapulted From Laggard to Leader After Takeover Proposal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Finpost-catapulted-from-laggard-to-leader-after-takeover-proposal",
+    "published": "Fri, 09 Jan 2026 11:16:26 CST",
+    "summary": "A takeover approach has propelled shares of Polish parcel-locker operator\nInPost SA to their strongest weekly gain on record, turning one of Europe’s\nbiggest underperformers of 2025 into its leading stock.\n\n"
+  },
+  {
+    "title": "Russia’s Oreshnik Missile Attack Aims for ‘Strategic Coercion’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frussia-s-oreshnik-missile-attack-aims-for-strategic-coercion",
+    "published": "Fri, 09 Jan 2026 11:07:04 CST",
+    "summary": "The Russian Oreshnik ballistic missile that hit the Ukrainian city of Lviv\ncarried no explosives and hit nothing of military value, implying it was meant\nto coerce rather than inflict major damage.\n\n"
+  },
+  {
+    "title": "Stock Bulls Look to Supreme Court to Overturn Trump Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fstock-bulls-look-to-supreme-court-to-overturn-trump-tariffs",
+    "published": "Fri, 09 Jan 2026 10:58:43 CST",
+    "summary": "Clothing, toy, furniture shares seen gaining if justices rule against\npresident.\n\n"
+  },
+  {
+    "title": "It’s a Sellers’ Market for Emerging Issuers as Spreads Narrow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fit-s-a-sellers-market-for-emerging-issuers-as-spreads-narrow",
+    "published": "Fri, 09 Jan 2026 10:54:35 CST",
+    "summary": "Emerging-market borrowers are taking advantage of a start of the year sellers’\nmarket, with spreads narrowing over US Treasuries and investors piling cash\ninto developing nations’ bonds.\n\n"
+  },
+  {
     "title": "Retail Crowd’s Buying Power Signals More Gains for US Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fretail-crowd-s-buying-power-signals-more-gains-for-us-stocks",
     "published": "Fri, 09 Jan 2026 10:30:00 CST",
@@ -10,12 +40,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-tinto-said-to-be-open-to-owning-coal-if-it-buys-glencore",
     "published": "Fri, 09 Jan 2026 10:23:56 CST",
     "summary": "Rio Tinto Group is open to retaining Glencore Plc’s massive coal business if\nmerger talks between the two companies are successful, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html",
-    "published": "Fri, 09 Jan 2026 10:02:34 CST",
-    "summary": "The amounts of money, time and political uncertainty trouble executives at\nlarge Western oil companies, who plan to meet with President Trump on Friday.\n\n"
   },
   {
     "title": "What to Know About the Latest Jobs Report",
@@ -45,10 +69,10 @@
     "title": "Reliance Loses $15 Billion Market Cap in Bruising Start to 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Freliance-slides-6-in-bruising-start-to-year-ahead-of-earnings",
     "published": "Fri, 09 Jan 2026 09:52:44 CST",
-    "summary": "Reliance Industries Ltd. is off to bruising start to the year, with shares\ndown more than 6% as investors digest weak retail outlooks and tougher US\nrhetoric on India’s Russian oil purchases -- putting the onus on upcoming\nearnings to arrest the slide.\n\n"
+    "summary": "Reliance Industries Ltd. is off to a bruising start to the year, with shares\ndown more than 6% as investors digest weak retail outlooks and tougher US\nrhetoric on India’s Russian oil purchases -- putting the onus on upcoming\nearnings to arrest the slide.\n\n"
   },
   {
-    "title": "Defense Firm Vincorion Said to Eye IPO Soon as the First Quarter",
+    "title": "Defense Firm Vincorion Said to Eye IPO Soon as This Quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdefense-firm-vincorion-said-to-eye-ipo-soon-as-the-first-quarter",
     "published": "Fri, 09 Jan 2026 09:48:15 CST",
     "summary": "Star Capital is considering holding German defense technology firm Vincorion’s\ninitial public offering in Frankfurt as soon as the first quarter of this\nyear, according to people familiar with the matter.\n\n"
@@ -102,22 +126,10 @@
     "summary": "India’s economy is not showing signs of a robust recovery and the risk of\nhigher US tariffs as well as increased dumping of low-cost Chinese goods could\nweaken the outlook, former Chief Economic Adviser Arvind Subramanian said in\nan interview.\n\n"
   },
   {
-    "title": "Trump’s Tariffs Ruling; Rio Tinto, Glencore Merger | Horizons Middle East & Africa 1/9/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fhorizons-middle-east-and-africa-1-9-2026-video",
-    "published": "Fri, 09 Jan 2026 07:51:54 CST",
-    "summary": "Stocks swing as markets brace for the US payrolls report and a possible\nSupreme Court ruling on US President Donald Trump's reciprocal tariffs. Also\non the show: Rio Tinto and Glencore resuming talks to create what could become\nthe world's biggest mining company; Zambia says it will seek a new loan\nprogram with the IMF; Saudi Arabia is moving to end the UAE's role in Yemen;\nsecurity guarantees for Ukraine are a key sticking point as Trump seeks to\nbroker a peace deal to end Russia's war. Guests include: Brett McGonegal,\nCapital Link, CEO; Casey Sprake, AG Capital, Market Strategist. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "IAG Switches Finance Chief With Cadbury Departing in June",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fiag-switches-finance-chief-with-cadbury-leaving-in-2026",
     "published": "Fri, 09 Jan 2026 07:38:21 CST",
     "summary": "IAG SA, the parent of British Airways, said Chief Financial Officer Nicholas\nCadbury will step down and leave the group in the middle of this year.\n\n"
-  },
-  {
-    "title": "China Vanke Preps Restructuring Plan in Move Toward Default",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-vanke-preps-debt-restructuring-plan-in-move-toward-default",
-    "published": "Fri, 09 Jan 2026 07:30:59 CST",
-    "summary": "China Vanke Co. is preparing a debt restructuring plan at the request of\nauthorities, people familiar with the matter said, pushing one of the\ncountry’s largest real estate developers closer to default.\n\n"
   },
   {
     "title": "Sainsbury’s Food Growth Undermined by Wider UK Retail Slump",
@@ -132,6 +144,12 @@
     "summary": "German industrial production unexpectedly increased for a third month, the\nlatest signal that a recovery might be taking hold in Europe’s biggest\neconomy.\n\n"
   },
   {
+    "title": "Lutnick Says Modi’s Failure to Call Trump Stalled Trade Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fmodi-s-failure-to-call-trump-derailed-trade-deal-lutnick-says",
+    "published": "Fri, 09 Jan 2026 06:46:57 CST",
+    "summary": "US Commerce Secretary Howard Lutnick said a trade deal with India did not\nmaterialize last year because Prime Minister Narendra Modi did not call\nPresident Donald Trump.\n\n"
+  },
+  {
     "title": "Hopes rise for Chinese property support ahead of key March meeting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fchina-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html",
     "published": "Fri, 09 Jan 2026 06:44:40 CST",
@@ -144,34 +162,10 @@
     "summary": "\n\n"
   },
   {
-    "title": "Saudi Oil Sales to Asia Remain Robust After Third Price Cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsaudi-oil-sales-to-asia-to-remain-robust-after-third-price-drop",
-    "published": "Fri, 09 Jan 2026 05:44:32 CST",
-    "summary": "Crude oil sales from Saudi Arabia to East Asia are set to persist above usual\nlevels after the world’s biggest exporter cut prices for a third month on\nsigns of oversupply in the market.\n\n"
-  },
-  {
-    "title": "Korea to Launch 24-Hour FX Trading in July to Secure Upgrade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkorea-to-launch-24-hour-fx-trading-in-july-to-secure-upgrade",
-    "published": "Fri, 09 Jan 2026 05:00:26 CST",
-    "summary": "South Korea will introduce 24-hour foreign exchange trading in July and relax\nrules for offshore transactions by September, the latest step in its years-\nlong effort to secure developed-market status from MSCI Inc.\n\n"
-  },
-  {
     "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Fnicolai-tangen-in-good-company-podcast-norges-bank.html",
     "published": "Fri, 09 Jan 2026 05:00:13 CST",
     "summary": "Nicolai Tangen wanted to raise the profile of Norway’s $2.1 trillion oil fund\nand change corporate behavior, but he may have helped embroil it in a\ngeopolitical tangle.\n\n"
-  },
-  {
-    "title": "LG Energy Sees Surprise Loss as EV Demand Outlook Cools",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Flg-energy-sees-surprise-fourth-quarter-loss-as-ev-demand-slows",
-    "published": "Fri, 09 Jan 2026 04:21:49 CST",
-    "summary": "LG Energy Solution Ltd. reported a surprise preliminary operating loss for the\nfourth quarter, as the slow unraveling of electric vehicle demand in key\nmarkets darkens the outlook for South Korea’s largest battery maker.\n\n"
-  },
-  {
-    "title": "Chinese Demand for Copper Vanishes After Prices Hit Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-s-industrial-buyers-shun-copper-after-prices-hit-record",
-    "published": "Fri, 09 Jan 2026 02:28:09 CST",
-    "summary": "A significant chunk of Chinese copper demand has all but evaporated after the\nmetal’s stunning surge to record levels.\n\n"
   },
   {
     "title": "Cathay Pacific to Cut Costs by 20% by 2030 in Efficiency Push",
@@ -192,16 +186,22 @@
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
   },
   {
+    "title": "Private Credit Risks Need Urgent Attention, UK Lawmakers Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Flords-report-slams-uk-treasury-for-apathy-to-private-credit-risk",
+    "published": "Fri, 09 Jan 2026 00:01:00 CST",
+    "summary": "A prominent group of lawmakers from the UK’s House of Lords has criticized the\nTreasury for its “limited grasp” of risks related to the boom in private\ncapital markets and said that the Bank of England needs to move faster in its\nplans for stress testing the sector.\n\n"
+  },
+  {
     "title": "Silver Rises, Gold Steadies as Traders Turn Attention to US Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
     "published": "Thu, 08 Jan 2026 23:58:50 CST",
     "summary": "Gold and silver both headed for weekly gains as traders looked to US jobs data\ndue Friday for clues to the Federal Reserve’s next move on interest rates.\n\n"
   },
   {
-    "title": "Oil Pares Gains as Traders Weigh Iran Risks, Venezuela Outlook",
+    "title": "Oil Holds Biggest Gain Since October as Iran Protests Escalate",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
     "published": "Thu, 08 Jan 2026 23:30:24 CST",
-    "summary": "Oil pared gains as traders weighed US moves to revive Venezuelan crude\nproduction and President Donald Trump’s warnings against Iran.\n\n"
+    "summary": "Oil held onto its biggest daily gain since October, as Iran attempted to quell\nescalating protests while President Donald Trump threatened repercussions if\ndemonstrators were targeted.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
@@ -228,10 +228,10 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Dollar, Yields Rise Ahead of Jobs as Stocks Waver: Markets Wrap",
+    "title": "Dollar, Yields and Stocks Rise Ahead of Payrolls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "The dollar hit a one-month high along with rising Treasury yields as investors\nbraced for Friday’s payrolls report and a possible Supreme Court ruling on\nPresident Donald Trump’s tariffs. Stock futures wavered.\n\n"
+    "summary": "The dollar hit a one-month high along with rising Treasury yields as investors\nbraced for Friday’s payrolls report and a possible Supreme Court ruling on\nPresident Donald Trump’s tariffs. US stock futures edged higher.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
@@ -580,18 +580,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fwarner-bros-paramount-netflix.html",
     "published": "Wed, 07 Jan 2026 12:10:07 CST",
     "summary": "The board said the blockbuster deal it reached with Netflix last month posed\nless risk.\n\n"
-  },
-  {
-    "title": "The soaring price of youth sports: $50 to try out, $3,000 to play",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fyouth-sports-cost-parents-investors-profit%2F",
-    "published": "Wed, 07 Jan 2026 11:00:40 CST",
-    "summary": "Parents are struggling to keep up as costs and luxury options rise. Investors\nsee an opportunity.\n\n"
-  },
-  {
-    "title": "How to practice financial forgiveness and achieve your money goals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Fmoney-habits-financial-forgiveness%2F",
-    "published": "Wed, 07 Jan 2026 11:00:00 CST",
-    "summary": "Here’s how to stick to your New Year’s financial resolutions in 2026.\n\n"
   },
   {
     "title": "Fed’s Independence Faces Critical Tests as Trump Seeks to Remake Institution",
