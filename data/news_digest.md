@@ -1,67 +1,78 @@
-# NoBS News Digest - January 08, 2026
+# NoBS News Digest - January 09, 2026
 
-Generated from **226** unique articles (deduplicated from 226 total) across **1** news sources
+Generated from **224** unique articles (deduplicated from 224 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The U.S. has intensified its intervention in Venezuela, removing President Nicolás Maduro from power and seizing control of the country’s oil reserves. Chevron is accelerating oil shipments, while major traders like Vitol and Trafigura explore deals with U.S. refiners. The move has triggered a 124% rally in Venezuelan assets but raises concerns over legal and geopolitical risks. Meanwhile, China faces uncertainty over its oil-backed loans to Venezuela, sparking domestic debates about Taiwan. Defense stocks surge amid heightened global tensions, and the U.S. has closed Caribbean airspace, disrupting flights. Elsewhere, Ukraine’s businesses, including a vodka exporter, press on despite ongoing war challenges.
+The U.S. seizure of Venezuelan President Nicolás Maduro dominates global headlines, sparking geopolitical tensions and economic uncertainty. The Trump administration claims control over Venezuela’s oil reserves, though negotiations with the state-owned oil company remain unresolved. The U.S. has intensified its blockade, seizing two tankers—one Russian-flagged—while closing Caribbean airspace, disrupting flights. China, a major creditor to Venezuela, faces potential losses on billions in loans, fueling internal debates over whether Maduro’s ouster could serve as a template for Taiwan. Meanwhile, Democratic lawmakers call for an investigation into U.S. Middle East envoy Steve Witkoff, and Ukraine’s Nemiroff vodka maker defies wartime challenges by expanding exports despite ongoing Russian attacks.
 
 **Top Articles:**
-- [Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html)
-- [Chevron Is Loading Venezuela Oil Onto Tankers at the Fastest Pace in Months](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchevron-is-loading-venezuela-oil-onto-tankers-at-the-fastest-pace-in-months)
+- [Venezuela Is No Template for Taiwan, Eurasia's Wang Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fvenezuela-is-no-template-for-taiwan-eurasia-s-wang-says-video)
 - [Democratic lawmakers ask for an investigation of the Middle East envoy Steve Witkoff.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F08%2Fus%2Ftrump-news%2Fwitkoff-crypto-democrats-investigation)
-- [Post-Maduro 124% Rally Stuns Venezuela’s Battered Stock Exchange](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fpost-maduro-124-rally-stuns-venezuela-s-battered-stock-exchange)
-- [Vitol, Trafigura Are in Talks With US Refiners to Gauge Interest in Venezuelan Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fvitol-is-in-talks-with-us-refiners-to-gauge-interest-in-venezuela-s-oil)
+- [Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html)
+- [The (Many) Wrinkles in Trump’s Vision for Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fdealbook%2Ftrump-venezuela-oil.html)
+- [Mamdani Hosts Influencer Summit, Sidestepping Traditional Media](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html)
 
-**Sources**: archive.ph (23 articles)
+**Sources**: archive.ph (19 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are reacting to a mix of geopolitical developments and economic signals as 2026 begins. President Trump’s aggressive push to reshape housing policy—including a $200 billion mortgage bond purchase plan and a crackdown on institutional homebuyers—sparked volatility in real estate and mortgage-backed securities, while his controversial moves in Venezuela, aimed at securing oil supplies and lowering prices to $50 a barrel, sent energy stocks surging. Meanwhile, the Fed’s path remains in focus, with Treasury Secretary Scott Bessent hinting at a potential new Fed chair pick in January, even as Minneapolis Fed President Neel Kashkari suggests limited room for further rate cuts. Corporate America is seeing shifts, with General Motors posting a $7.1 billion loss as it scales back EV ambitions, Saks Fifth Avenue teetering on the brink of bankruptcy, and JPMorgan Chase taking over the Apple Card from Goldman Sachs. Investors are also rotating out of tech stocks into small caps and energy, while emerging-market currencies dip amid a stronger dollar and resilient U.S. economic data.
+Global markets are bracing for volatility as traders await a pivotal U.S. jobs report and a potential Supreme Court ruling on President Trump’s tariffs, which could reshape trade dynamics. The Fed’s independence faces scrutiny amid political pressures, while Trump’s aggressive housing policies—including a $200 billion mortgage bond purchase—spark rallies in mortgage-backed securities and home-lender stocks. In corporate news, General Motors reports a $7.1 billion loss after scaling back EV ambitions, and Rio Tinto’s potential $200 billion merger with Glencore could create the world’s largest mining giant. Meanwhile, Venezuela’s oil sector dominates headlines as Trump seeks to leverage its reserves to slash U.S. oil prices, though experts remain skeptical about investor appetite. Asian markets show mixed reactions, with China’s inflation hitting a 34-month high driven by food costs, while MiniMax’s AI startup debuts strongly in Hong Kong.
 
 **Top Articles:**
-- [Trump Targets Corporate Homebuying In Affordable Housing Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Ftrump-targets-corporate-homebuying-video)
-- [Morgan Stanley's Betsy Graseck Previews Bank Earnings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fmorgan-stanley-s-betsy-graseck-previews-bank-earnings-video)
-- [Asian Stocks to Rise Before Payrolls, Oil Jumps: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates)
-- [Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fstocks-making-the-biggest-moves-after-hours-gm-intc-tlry.html)
-- [Saks Global struggles to line up financing as potential bankruptcy filing looms](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fsaks-global-struggles-to-line-up-bankruptcy-financing.html)
+- [Japanese Insurer Sompo to Ramp Up Overseas Credit Investments](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fjapanese-insurer-sompo-to-ramp-up-overseas-credit-investments)
+- [Doosan Bobcat CEO on AI in Manufacturing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fdoosan-bobcat-ceo-on-ai-in-manufacturing-video)
+- [DeepX CEO on Business Strategy, New Chip](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fdeepx-ceo-on-business-strategy-new-chip-video)
+- [China Inflation Hits 34-Month High in Rebound Driven by Food](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchinese-inflation-reaches-34-month-high-in-pickup-driven-by-food)
+- [Rio Tinto in Talks to Buy Glencore](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Frio-tinto-in-talks-to-buy-glencore-video)
 
-**Sources**: archive.ph (82 articles)
+**Sources**: archive.ph (83 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, from AI advancements to corporate shake-ups. Nvidia-backed data center company Nscale is reportedly seeking a $2 billion funding round, underscoring the relentless growth in AI infrastructure. Meanwhile, Google and Character.AI have settled a lawsuit tied to a teenager’s death linked to an AI chatbot, highlighting the ethical and legal challenges surrounding AI. In corporate news, Warner Bros. Discovery continues to reject Paramount’s $108 billion hostile takeover bid, favoring its existing deal with Netflix, while Alaska Airlines makes its largest-ever aircraft order with 110 Boeing planes. The EV sector faces headwinds as GM and Ford announce significant writedowns amid a broader market reset, though Lucid Group reports a 55% increase in deliveries. Regulatory tensions escalate as China investigates Meta’s acquisition of AI startup Manus, and Japan grows wary of potential rare earth export restrictions from Beijing.
+The tech and business landscape opens 2026 with a mix of strategic shifts and regulatory scrutiny. In the automotive sector, Ford announces plans to introduce eyes-off driving technology in a $30,000 EV by 2028, joining rivals Tesla and GM in the autonomous race, while GM records a $7.1 billion charge tied to its EV pullback and China restructuring. Meanwhile, AI continues to reshape industries, with JPMorgan’s asset management arm replacing controversial proxy advisors with AI-driven analysis, and the SEC clarifying that investment advisors can use AI for proxy voting decisions. Regulatory tensions rise as China investigates Meta’s acquisition of AI startup Manus over compliance concerns, and Finra proposes extended transaction holds to combat elder fraud. In corporate maneuvers, Warner Bros. Discovery reiterates its rejection of Paramount’s $108 billion bid, favoring its Netflix partnership, while Alaska Airlines places its largest-ever order for 110 Boeing jets amid expansion plans. The intersection of AI, regulation, and corporate strategy dominates early 2026, with industries from finance to aviation adapting to technological and economic pressures.
 
 **Top Articles:**
-- [DPI's Runa Alam: Africa's Growth Should Outpace Asia in '26](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fdpi-s-alam-africa-s-growth-should-outpace-asia-in-26-video)
-- [GM to record $7.1 billion in fourth-quarter charges due to EV pullback, China restructuring](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html)
-- [Market Bubbles Go Way Beyond AI, Says Richard Bernstein Advisors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fmarket-bubbles-go-way-beyond-ai-says-richard-bernstein-advisors)
-- [KKR to Book 4.5 Times Return on OneStream Via Latest Buyout](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fkkr-to-book-4-5-times-return-on-onestream-via-latest-buyout)
-- [Lucid increases EV deliveries by 55% in 2025, meets lowered guidance](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Flucid-ev-deliveries-2025.html)
+- [US Developer Glenfarne Launches Financing for Texas LNG Project](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-developer-glenfarne-launches-financing-for-texas-lng-project)
+- [BNP's Mateos y Lago on Outlook for 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbnp-s-mateos-y-lago-on-outlook-for-2026-video)
+- [China’s Industrial Buyers Shun Copper After Prices Hit Record](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-s-industrial-buyers-shun-copper-after-prices-hit-record)
+- [Eli Lilly-Backed Aktis Oncology Gets $317.7 Million in US IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-oncology-gets-317-7-million-in-us-ipo)
+- [Hoa Phat Agriculture Raises $48 Million From Vietnam IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhoa-phat-agriculture-raises-48-million-from-vietnam-ipo)
 
-**Sources**: archive.ph (81 articles)
+**Sources**: archive.ph (84 articles)
+
+---
+
+## ⚽ Sports
+
+Boston Celtics star Jaylen Brown is making waves off the court by advocating for NBA players to gain equity stakes in teams, arguing that current labor rules fail to reflect the league's massive financial growth. In a recent interview, the four-time All-Star and 2024 Finals MVP highlights the disparity between player contributions and ownership rewards, framing it as a broader issue of economic justice in professional sports. Brown, known for his activism and entrepreneurial ventures, suggests that players should share in the long-term value they help create, a stance that could spark broader discussions about revenue sharing and labor rights in the NBA. His comments come as the league continues to see record-breaking valuations and media deals, raising questions about how wealth is distributed among stakeholders.
+
+**Top Articles:**
+- [NBA Star Jaylen Brown Calls for Player Equity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fnba-star-jaylen-brown-calls-for-player-equity-video)
+
+**Sources**: archive.ph (1 article)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights significant economic and political shifts, with notable developments in labor, policy, and corporate leadership. The Bank of Canada sees senior departures as Prime Minister Mark Carney pushes budget cuts, reflecting broader public sector tightening. Meanwhile, the U.S. faces economic pressures as more workers remain stuck in part-time jobs, while minimum wage increases in some states offer limited relief. In corporate news, Ford reports its best annual U.S. vehicle sales since 2019, signaling a rebound in the auto industry, while Manhattan office leasing hits a six-year high, suggesting urban recovery. On the political front, the Trump administration intensifies scrutiny of Minnesota and other Democratic-led states, while Congress races to avoid another government shutdown. Cultural trends include the rising costs of youth sports and the launch of Novo Nordisk’s first GLP-1 pill for obesity, marking a shift in healthcare accessibility. The Supreme Court’s growing favoritism toward wealthy litigants and Warren Buffett’s unmatched legacy in finance also stand out as key themes.
+The first week of 2026 reveals a mixed economic landscape, with signs of resilience in some sectors and lingering challenges for workers. Major IT firms like TCS and Infosys are set to provide insights into 2026 demand, signaling cautious optimism in the tech sector amid a muted earnings season. Meanwhile, the labor market shows strain, as more Americans remain stuck in part-time jobs or juggle multiple gigs to cover rising costs, despite minimum wage increases in several states pushing more workers to a $15 baseline. Housing affordability remains a pressing issue, with home prices slightly easing but down payments still out of reach for many, while the Supreme Court faces criticism for increasingly favoring wealthy litigants in rulings. On the political front, the Trump administration intensifies scrutiny of Democratic-led states like Minnesota, while pushing controversial policies such as a $100,000 fee for H-1B visas, sparking legal challenges from states like California and New York. Cultural shifts are also notable, with GQ’s editor Will Welch departing to collaborate with Pharrell at Louis Vuitton, reflecting evolving trends in media and fashion. Health and wellness take center stage as Novo Nordisk launches the first GLP-1 pill for obesity in the U.S., offering a more affordable weight-loss option, while RFK Jr. unveils new nutrition guidelines emphasizing protein and unprocessed foods. The week also highlights the soaring costs of youth sports, now a $3,000-per-season commitment for many families, and the growing influence of lifestyle influencers like Victoria Wolff, wife of author Michael Wolff, who are reshaping personal branding in the digital age.
 
 **Top Articles:**
-- [Bank of Canada Sees Senior Departures As Carney Pushes Budget Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fbank-of-canada-sees-senior-departures-as-carney-pushes-budget-cuts)
-- [House votes to subpoena journalist for naming alleged Delta Force commander](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fseth-harp-first-amendment-luna-subpoena%2F)
-- [Argentina Construction Posts Largest Monthly Drop of 2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fargentina-construction-posts-largest-monthly-drop-of-2025)
-- [Veja os Três Assuntos Que Marcaram a Semana no Brasil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fveja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video)
+- [TCS, Infosys to Offer Clues on 2026 Demand as Street Estimates Look Up](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftcs-infosys-to-offer-clues-on-2026-demand-as-street-estimates-look-up)
+- [House votes to subpoena journalist over report on Delta Force commander](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fseth-harp-first-amendment-luna-subpoena%2F)
 - [Used vehicle pricing expected to increase 2% in 2026, a historically stable rate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html)
+- [California's controversial wealth tax proposal leaves billionaires with little way out](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcalifornia-wealth-tax-proposal-leaves-billionaires-with-little-way-out.html)
+- [Push to Audit Private Equity and Venture Capital Falters Under Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Firs-private-equity-venture-capital-audits.html)
 
-**Sources**: archive.ph (40 articles)
+**Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 08, 2026 at 10:47 PM *
+*Digest generated on January 09, 2026 at 04:26 AM *
