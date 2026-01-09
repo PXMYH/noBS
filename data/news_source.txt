@@ -1,9 +1,45 @@
 [
   {
-    "title": "U.S. Hiring Turned Sluggish Over First Year of Trump’s Second Term",
+    "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
-    "published": "Fri, 09 Jan 2026 20:33:58 CST",
+    "published": "Fri, 09 Jan 2026 21:39:14 CST",
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
+  },
+  {
+    "title": "Exxon Takes Long View on Venezuela, CEO Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fexxon-takes-long-view-on-venezuela-ceo-says-video",
+    "published": "Fri, 09 Jan 2026 21:23:13 CST",
+    "summary": "Exxon Mobil Corp. Darren Woods says the company is taking a long-term view on\nVenezuela after meeting with President Donald Trump at the White House.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Small Stocks Are Crushing It, But Investors Still Hate Them",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fsmall-cap-stocks-are-crushing-it-investors-still-hate-them",
+    "published": "Fri, 09 Jan 2026 20:59:03 CST",
+    "summary": "Small-cap stocks are soaring, and investors have never been so eager to sell\nthem\n\n"
+  },
+  {
+    "title": "Expect Tariff Ruling To Say Not Permitted: Hillman",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fexpect-tariff-ruling-to-say-not-permitted-hillman-video",
+    "published": "Fri, 09 Jan 2026 20:55:34 CST",
+    "summary": "As markets wait on the Supreme Court’s next opinion day on Wednesday, Jennifer\nHillman, Former Vice Chair of the US Internal Trade Commission and a former\nMember of the World Trade Organization Appellate Body, tells Bloomberg that\nshe expects the justices will ultimately find the tariffs not permitted under\nthe International Emergency Economic Powers Act. She discusses more on\n\"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
+    "published": "Fri, 09 Jan 2026 20:48:03 CST",
+    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
+  },
+  {
+    "title": "Goldman Sachs, Morgan Stanley, RBC picked for First Student IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feqt-backed-school-bus-firm-first-student-said-to-pick-ipo-banks",
+    "published": "Fri, 09 Jan 2026 20:44:23 CST",
+    "summary": "EQT AB-backed First Student Inc. has selected banks to arrange an initial\npublic offering of the student transportation company, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
+    "title": "Vanessa Neumann on Energy Executives' Plan For Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fvanessa-neumann-on-energy-executives-plan-for-venezuela-video",
+    "published": "Fri, 09 Jan 2026 20:42:43 CST",
+    "summary": "Vanessa Neumann, a former Venezuelan opposition representative to the UK and\nfounder of advisory firm Asymmetrica, tells Bloomberg that while many\nVenezuelans are celebrating Maduro’s removal, lasting investment will depend\non maintaining order, ensuring sanctions relief is durable, and restoring\nbasic infrastructure. She joined the conversation on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
     "title": "EquipmentShare, Motive to Weigh Marketing IPOs Next Week",
@@ -80,7 +116,7 @@
   {
     "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
-    "published": "Fri, 09 Jan 2026 19:33:14 CST",
+    "published": "Fri, 09 Jan 2026 19:33:15 CST",
     "summary": "China built a dominant strategic position in the region as the leading lender\nand trading partner. It is watching President Trump’s next moves closely.\n\n"
   },
   {
@@ -162,24 +198,6 @@
     "summary": "As the Supreme Court defers a decision on challenges to President Trump’s\ntariffs, the uncertainty is already hitting small businesses. Retaliatory\ntariffs overseas have targeted American whiskey, squeezing exporters and\nthreatening shelf space abroad. Sonat Birnecker Hart, the founder and\npresident of Koval Distillery in Chicago, joined Bloomberg Open Interest to\ntalk about how trade wars are reshaping the craft spirits industry. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Meta Signs Multi-Gigawatt Nuclear Deals to Power AI Data Center",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeta-signs-multi-gigawatt-nuclear-deals-video",
-    "published": "Fri, 09 Jan 2026 17:33:44 CST",
-    "summary": "Meta will purchase electricity from three existing Vistra plants and support\nseveral small reactors that Sam Altman-backed Oklo and Bill Gates-backed\nTerraPower are planning to build over the next decade. Bloomberg's Mandeep\nSingh joins to discuss with Paul Sweeney and Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "ECB’s No. 2 Job Attracts Bids From Six Euro-Area Countries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fecb-s-no-2-job-attracts-bids-from-six-euro-area-countries",
-    "published": "Fri, 09 Jan 2026 17:28:46 CST",
-    "summary": "Six countries have placed bids for the vice presidency of the European Central\nBank, putting nations from the euro area’s periphery in competition for one of\nthe region’s key economic posts.\n\n"
-  },
-  {
-    "title": "US Household Worth Climbs to Fresh Record on Stock Market Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-household-worth-climbs-to-fresh-record-on-stock-market-rally",
-    "published": "Fri, 09 Jan 2026 17:22:48 CST",
-    "summary": "US household wealth rose in the third quarter to a fresh record as the stock\nmarket continued to rally.\n\n"
-  },
-  {
     "title": "Venezuela’s Oil Industry: A Timeline of Key Events",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fvenezuela-oil-industry-timeline-trump.html",
     "published": "Fri, 09 Jan 2026 17:19:48 CST",
@@ -198,30 +216,6 @@
     "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
   },
   {
-    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
-    "published": "Fri, 09 Jan 2026 17:11:20 CST",
-    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
-  },
-  {
-    "title": "Ukraine Railways Suspends Upcoming Bond Coupons to Preserve Cash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fukraine-railways-suspends-upcoming-bond-coupons-to-preserve-cash",
-    "published": "Fri, 09 Jan 2026 17:02:06 CST",
-    "summary": "Ukrainian Railways is “temporarily” suspending coupon payments on its dollar\nbonds due in 2026 and 2028 as Russia’s nearly four-year full-scale invasion\nravages its finances.\n\n"
-  },
-  {
-    "title": "Drifting Tanker Reveals Major Hurdle for Trump Plan to Revive Venezuela’s Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdrifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuela-s-oil",
-    "published": "Fri, 09 Jan 2026 17:00:08 CST",
-    "summary": "A tanker meandering in the Caribbean near Venezuela underscores the steep\nhurdles to ramping up the country’s oil production following the US capture of\nPresident Nicolás Maduro.\n\n"
-  },
-  {
-    "title": "Chevron Could See $700 Million-a-Year Boost From Venezuelan Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchevron-could-see-700-million-a-year-boost-from-venezuelan-oil",
-    "published": "Fri, 09 Jan 2026 16:51:45 CST",
-    "summary": "Chevron Corp. could grow its cash flow by as much as $700 million a year from\nincreasing oil production in Venezuela as the Trump administration seeks to\ncontrol the South American country’s crude supplies, one analyst says.\n\n"
-  },
-  {
     "title": "Trump officials prepare executive order on housing affordability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-housing-affordability-executive-order%2F",
     "published": "Fri, 09 Jan 2026 16:31:33 CST",
@@ -234,10 +228,10 @@
     "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
   },
   {
-    "title": "Eli Lilly-Backed Aktis Jumps 27% After $318 Million US IPO",
+    "title": "Eli Lilly-Backed Aktis Jumps 24% After $318 Million US IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-jumps-50-after-318-million-us-ipo",
     "published": "Fri, 09 Jan 2026 16:16:25 CST",
-    "summary": "Aktis Oncology Inc. shares jumped 27% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
+    "summary": "Aktis Oncology Inc. shares jumped 24% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
   },
   {
     "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
@@ -276,6 +270,12 @@
     "summary": "\n\n"
   },
   {
+    "title": "Traders Send Stocks to Fresh Highs in Strong First Week of 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fstocks-rise-as-traders-weigh-jobs-data-brace-for-tariff-ruling",
+    "published": "Fri, 09 Jan 2026 14:37:40 CST",
+    "summary": "US equities extended their bullish early-January run on Friday to notch new\nclosing records, as bets on economic growth coalesced with expectations that\nthe Federal Reserve remains on track to cut rates further this year.\n\n"
+  },
+  {
     "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fexecutives-exchange-funds-diversify-wealth.html",
     "published": "Fri, 09 Jan 2026 14:26:04 CST",
@@ -286,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
     "published": "Fri, 09 Jan 2026 14:23:54 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
-  },
-  {
-    "title": "Oil Traders Face New Iran Risks Days After Venezuela Crisis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Foil-traders-confront-new-iran-risks-days-after-venezuela-crisis",
-    "published": "Fri, 09 Jan 2026 14:05:38 CST",
-    "summary": "The oil market is becoming increasingly responsive to events in Iran, where\nthere have been deadly protests -- and threats of US retaliation -- in the\npast several days.\n\n"
   },
   {
     "title": "How to Make, and Keep, New Year’s Financial Resolutions",
@@ -436,6 +430,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
+  },
+  {
+    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
+    "published": "Thu, 08 Jan 2026 21:10:04 CST",
+    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
   },
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
