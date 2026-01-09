@@ -1,9 +1,81 @@
 [
   {
+    "title": "U.S. Hiring Turned Sluggish Over First Year of Trump’s Second Term",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
+    "published": "Fri, 09 Jan 2026 20:33:58 CST",
+    "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
+  },
+  {
+    "title": "EquipmentShare, Motive to Weigh Marketing IPOs Next Week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fequipmentshare-motive-said-to-weigh-marketing-ipos-next-week",
+    "published": "Fri, 09 Jan 2026 20:17:24 CST",
+    "summary": "EquipmentShare.com Inc. and Motive Technologies Inc. are set to begin formal\nmarketing for their initial public offerings as soon as next week, according\nto people familiar with the matter, as a busy year for listings gets underway.\n\n"
+  },
+  {
+    "title": "How IMAX crushed other theater stocks in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
+    "published": "Fri, 09 Jan 2026 20:11:15 CST",
+    "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
+  },
+  {
+    "title": "Rosner, Gwinn on Jobs Report, Fed Policy, Trump's Mortgage Bond Announcement",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Frosner-gwinn-on-jobs-report-fed-policy-mortgages-video",
+    "published": "Fri, 09 Jan 2026 20:07:07 CST",
+    "summary": "Bond traders all but wiped out their bets that the Federal Reserve would cut\ninterest rates later this month after the unemployment rate for December fell\nmore than expected. On \"Bloomberg Real Yield\", Lindsay Rosner, head of multi-\nsector fixed income investing at Goldman Sachs Asset Management, and Blake\nGwinn, head of US rates strategy at RBC Capital Markets, speaks with Scarlet\nFu about the jobs report, Fed monetary policy and President Trump's mortgage\nbond announcement. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "X Sues Music Publishers, Alleging ‘Collusion’ Over Licensing Deals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Farts%2Fmusic%2Fx-music-publishers-lawsuit.html",
+    "published": "Fri, 09 Jan 2026 20:06:49 CST",
+    "summary": "The social media platform says it was pressured into licensing agreements for\nsongs “at inflated rates.” In 2023, publishers sued the company for copyright\nviolations.\n\n"
+  },
+  {
+    "title": "Traders See Minimal Chance of Jan. Rate Cut | Real Yield 1/9/2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Freal-yield-1-9-2025-video",
+    "published": "Fri, 09 Jan 2026 20:04:28 CST",
+    "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: Goldman Sachs Asset Management Head of Multi Sector Fixed\nIncome Investing Lindsay Rosner, RBC Capital Markets Head of US Rates Strategy\nBlake Gwinn, BNP Paribas Head of US Credit Strategy Meghan Robson,\nCreditSights Head of US IG and Macro Strategy Zachary Griffiths (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Walmart-Backed ‘Super App’ OnePay Hits $4 Billion Valuation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fwalmart-backed-super-app-onepay-hits-4-billion-valuation",
+    "published": "Fri, 09 Jan 2026 20:03:51 CST",
+    "summary": "OnePay, the Walmart Inc.-backed fintech firm behind the “super app” that the\nworld’s largest retailer is incorporating for customers, recently bought back\nshares from employees at a price that values the closely-held company at more\nthan $4 billion, according to a person with knowledge of the matter.\n\n"
+  },
+  {
+    "title": "Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html",
+    "published": "Fri, 09 Jan 2026 19:58:46 CST",
+    "summary": "In an executive order, President Trump is aiming to punish defense contractors\nthat don’t deliver weapons quickly enough.\n\n"
+  },
+  {
+    "title": "Bill Gates Makes a Multibillion-Dollar Divorce Payout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fgates-divorce-settlement.html",
+    "published": "Fri, 09 Jan 2026 19:54:17 CST",
+    "summary": "The billionaire and philanthropist has made a nearly $8 billion payment to the\nprivate foundation of his ex-wife, Melinda French Gates, tax filings show.\n\n"
+  },
+  {
+    "title": "First Brands Sues Founder’s Brother, Largest Creditor for Fraud",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ffirst-brands-sues-founder-s-brother-largest-creditor-for-fraud",
+    "published": "Fri, 09 Jan 2026 19:53:18 CST",
+    "summary": "Bankrupt auto-parts maker First Brands Group has sued Edward James -- its\nformer executive and the brother of company founder Patrick James -- and its\nlargest creditor Onset Financial for conspiring “to defraud creditors out of\nbillions of dollars and property.”\n\n"
+  },
+  {
+    "title": "Glencore and Rio Tinto Restart Talks to Create a Mining Giant",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fglencore-rio-tinto-copper-merger.html",
+    "published": "Fri, 09 Jan 2026 19:45:53 CST",
+    "summary": "The negotiations come amid an increase in deal-making across the mining\nindustry as demand for copper and other metals soars.\n\n"
+  },
+  {
     "title": "'Fed Will Not Be Cutting In January': Lindsay Rosner",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2F-fed-will-not-be-cutting-in-january-lindsay-rosner-video",
     "published": "Fri, 09 Jan 2026 19:37:20 CST",
     "summary": "\"January is unambiguous, the Fed will not be cutting.\" Goldman Sachs Asset\nManagement's Lindsay Rosner joins \"Bloomberg Real Yield\" to give her reaction\nto today's US jobs report that showed nonfarm payrolls increase by 50,000 last\nmonth after downward revisions to the prior two months. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Hedge Fund D1’s SpaceX Bet Fuels Its 39% Private Book Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-fund-d1-s-spacex-bet-fuels-its-39-private-book-gain",
+    "published": "Fri, 09 Jan 2026 19:37:00 CST",
+    "summary": "D1 Capital Partners’ portfolio of private investments climbed 39% last year --\npowered by a bet on Elon Musk’s SpaceX, which nabbed an $800 billion valuation\nlast month.\n\n"
   },
   {
     "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
@@ -132,12 +204,6 @@
     "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
   },
   {
-    "title": "Glencore and Rio Tinto Restart Talks to Create a Mining Giant",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fglencore-rio-tinto-copper-merger.html",
-    "published": "Fri, 09 Jan 2026 17:03:31 CST",
-    "summary": "The negotiations come amid an increase in deal-making across the mining\nindustry as demand for copper and other metals soars.\n\n"
-  },
-  {
     "title": "Ukraine Railways Suspends Upcoming Bond Coupons to Preserve Cash",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fukraine-railways-suspends-upcoming-bond-coupons-to-preserve-cash",
     "published": "Fri, 09 Jan 2026 17:02:06 CST",
@@ -156,22 +222,10 @@
     "summary": "Chevron Corp. could grow its cash flow by as much as $700 million a year from\nincreasing oil production in Venezuela as the Trump administration seeks to\ncontrol the South American country’s crude supplies, one analyst says.\n\n"
   },
   {
-    "title": "Adams Street Leads Private Debt Deal for Military Gear Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fadams-street-leads-private-debt-deal-for-military-gear-business",
-    "published": "Fri, 09 Jan 2026 16:31:43 CST",
-    "summary": "Adams Street Partners led a private credit financing of as much as $400\nmillion to back the acquisition by two investment firms of aerospace and\ndefense equipment business Beaufort.\n\n"
-  },
-  {
     "title": "Trump officials prepare executive order on housing affordability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-housing-affordability-executive-order%2F",
     "published": "Fri, 09 Jan 2026 16:31:33 CST",
     "summary": "More details are expected when President Donald Trump speaks at the World\nEconomic Forum in Davos, Switzerland, later this month.\n\n"
-  },
-  {
-    "title": "Solving the Housing Affordability Crisis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsolving-the-housing-affordability-crisis-video",
-    "published": "Fri, 09 Jan 2026 16:28:19 CST",
-    "summary": "Elizabeth Bell of Hamilton Lane talks about President Donald Trump's efforts\nto solve the housing affordability crisis. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
@@ -190,24 +244,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
     "published": "Fri, 09 Jan 2026 16:14:42 CST",
     "summary": "Kevin Hassett said the White House could deploy alternative tariff authorities\nif the Supreme Court rules against President Donald Trump.\n\n"
-  },
-  {
-    "title": "Venezuela Investors Eye Start of $60 Billion Bond Restructuring",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-investors-eye-start-of-60-billion-bond-restructuring",
-    "published": "Fri, 09 Jan 2026 16:11:22 CST",
-    "summary": "A group of global investors said it stands ready to start talks over $60\nbillion of defaulted Venezuelan bonds, a first step in one of the world’s\nlargest and most complex government debt restructurings\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/9/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbloomberg-surveillance-1-9-2026-video",
-    "published": "Fri, 09 Jan 2026 16:03:02 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "I Squared Is Said to Drop Pursuit of Ströer’s Billboard Unit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fi-squared-is-said-to-drop-pursuit-of-stroer-s-billboard-unit",
-    "published": "Fri, 09 Jan 2026 16:02:45 CST",
-    "summary": "An investor group led by I Squared Capital has dropped its pursuit of German\nmedia group Ströer SE & Co.’s core advertising business, people with knowledge\nof the matter said.\n\n"
   },
   {
     "title": "The Market Bet With Zero Insider Trading",
@@ -240,18 +276,6 @@
     "summary": "\n\n"
   },
   {
-    "title": "Bill Gates Makes a Multibillion-Dollar Divorce Payout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fgates-divorce-settlement.html",
-    "published": "Fri, 09 Jan 2026 14:49:51 CST",
-    "summary": "The billionaire and philanthropist has made a nearly $8 billion payment to the\nprivate foundation of his ex-wife, Melinda French Gates, new tax filings show.\n\n"
-  },
-  {
-    "title": "Stocks Push to Fresh Highs After Jobs Data, No Ruling on Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fstocks-rise-as-traders-weigh-jobs-data-brace-for-tariff-ruling",
-    "published": "Fri, 09 Jan 2026 14:37:40 CST",
-    "summary": "US equities rose Friday to new all-time highs as December’s employment report\ndid little to alter expectations for leaving interest rates on hold.\nMeanwhile, the Supreme Court did not deliver a highly awaited decision on the\nlegality of President Donald Trump’s tariffs.\n\n"
-  },
-  {
     "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fexecutives-exchange-funds-diversify-wealth.html",
     "published": "Fri, 09 Jan 2026 14:26:04 CST",
@@ -262,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
     "published": "Fri, 09 Jan 2026 14:23:54 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
-  },
-  {
-    "title": "US Jobs Report Unlikely to Trigger Fed Move, Rosenberg Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fjobs-report-won-t-trigger-fed-move-rosenberg-says-video",
-    "published": "Fri, 09 Jan 2026 14:13:58 CST",
-    "summary": "BlackRock's Jeffrey Rosenberg reacts to the US monthly jobs report on\n\"Bloomberg Surveillance.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "Oil Traders Face New Iran Risks Days After Venezuela Crisis",
@@ -310,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fus%2Fminimum-wage-increases.html",
     "published": "Fri, 09 Jan 2026 12:49:47 CST",
     "summary": "This year, for the first time, more workers will live in states with a minimum\nwage of at least $15 per hour than in states with the federal minimum of\n$7.25.\n\n"
-  },
-  {
-    "title": "How IMAX crushed other theater stocks in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
-    "published": "Fri, 09 Jan 2026 12:37:21 CST",
-    "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
   },
   {
     "title": "Cocoa Prices Plunge 13% as Exporter Hedging Offsets Index Buying",
@@ -376,6 +388,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
+  },
+  {
+    "title": "Oil Posts Third Straight Weekly Gain as Iran Protests Escalate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
+    "published": "Thu, 08 Jan 2026 23:30:24 CST",
+    "summary": "Oil notched its longest streak of weekly gains since June as Iran intensified\na crackdown on protests across the country and US President Donald Trump\nthreatened repercussions if demonstrators were targeted.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
@@ -612,18 +630,6 @@
     "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
   },
   {
-    "title": "U.S. seizes two tankers as Venezuelan oil blockade intensifies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2026%2F01%2F07%2Fus-intercept-oil-tanker-russia-venezuela%2F",
-    "published": "Wed, 07 Jan 2026 20:11:31 CST",
-    "summary": "A Russian-flagged vessel was boarded in the North Atlantic. Another ship was\napprehended near the Caribbean.\n\n"
-  },
-  {
-    "title": "Trump says he’ll ban large investors from buying homes, with few details",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F07%2Ftrump-ban-housing-investors%2F",
-    "published": "Wed, 07 Jan 2026 20:01:50 CST",
-    "summary": "Politicians in both parties are trying to respond to voter anger over the\nprice of housing.\n\n"
-  },
-  {
     "title": "China’s Threat to Block Rare Earths Has Put Japan on High Alert",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-japan-rare-earths.html",
     "published": "Wed, 07 Jan 2026 19:47:11 CST",
@@ -798,12 +804,6 @@
     "summary": "Mr. Welch worked to move the men’s magazine away from what he called “manly-\nman tropes.” His next role will be with Pharrell, the men’s designer of Louis\nVuitton.\n\n"
   },
   {
-    "title": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fenergy-environment%2Fvenezuela-chevron-trump-oil.html",
-    "published": "Tue, 06 Jan 2026 14:06:59 CST",
-    "summary": "The second-largest U.S. oil company, which kept pumping oil in the country\nafter others left, could find it relatively easy to expand its operations if\nthe political conditions there improve.\n\n"
-  },
-  {
     "title": "The Rush to Profit From Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-chevron.html",
     "published": "Tue, 06 Jan 2026 13:18:58 CST",
@@ -828,22 +828,10 @@
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
   },
   {
-    "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
-    "published": "Tue, 06 Jan 2026 05:00:11 CST",
-    "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
-  },
-  {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
     "published": "Mon, 05 Jan 2026 21:02:46 CST",
     "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
-  },
-  {
-    "title": "Corporation for Public Broadcasting Votes to Shut Down",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fmedia%2Fcorporation-for-public-broadcasting.html",
-    "published": "Mon, 05 Jan 2026 20:41:04 CST",
-    "summary": "Executives debated whether to allow the corporation to lie dormant after\nfederal funding ended last year, but decided against it.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
@@ -1060,12 +1048,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F16%2Fus%2Fpolitics%2Ftrump-administration-unemployment-rate-economy.html",
     "published": "Tue, 16 Dec 2025 20:33:08 CST",
     "summary": "The Trump administration looked to recast elements of a dour jobs report\nTuesday as a sign of strength.\n\n"
-  },
-  {
-    "title": "Europe May Roll Back Combustion Engine Ban",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F16%2Fbusiness%2Feconomy%2Feurope-auto-emissions-ban.html",
-    "published": "Tue, 16 Dec 2025 19:00:16 CST",
-    "summary": "A proposal to revise an E.U. law requiring carmakers to stop producing\ncombustion engines by 2035 would offer some relief to automakers, but it sets\nback the region’s climate goals.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
