@@ -1,67 +1,67 @@
 # NoBS News Digest - January 09, 2026
 
-Generated from **221** unique articles (deduplicated from 221 total) across **1** news sources
+Generated from **223** unique articles (deduplicated from 223 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-President Trump is intensifying U.S. involvement in Venezuela, with the administration seizing two oil tankers and detailing plans for Venezuelan oil sales, despite ongoing negotiations and skepticism from Western oil companies. The move has drawn mixed reactions, including from MAGA media figures who traditionally oppose foreign intervention. Meanwhile, China is closely monitoring Trump’s Latin America strategy, having already established itself as the region’s dominant economic partner. In other developments, Greenland’s labor union leader firmly rejected Trump’s annexation claims, while China threatened to cancel trade talks with the UK over a minister’s visit to Taiwan, highlighting escalating tensions. Oil prices surged amid escalating protests in Iran, with Trump warning of repercussions if demonstrators are targeted. Additionally, Democratic lawmakers are pushing for an investigation into Middle East envoy Steve Witkoff, reflecting growing scrutiny of U.S. diplomatic actions.
+Geopolitical tensions dominate global headlines as the U.S. intensifies its focus on Venezuela following the capture of President Nicolás Maduro, with President Trump pushing to revive the country’s oil sector amid skepticism from major energy firms. The move has drawn scrutiny from China, which holds significant economic influence in Latin America and is closely monitoring U.S. actions. Meanwhile, Ukraine’s financial strain deepens as Ukrainian Railways suspends bond payments due to the prolonged war with Russia, while businesses like vodka maker Nemiroff strive to maintain exports despite ongoing conflict. In other developments, China’s diplomatic tensions with the UK resurface over Taiwan, and Greenland firmly rejects Trump’s annexation claims, underscoring broader Arctic sovereignty concerns.
 
 **Top Articles:**
+- [Ukraine Railways Suspends Upcoming Bond Coupons to Preserve Cash](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fukraine-railways-suspends-upcoming-bond-coupons-to-preserve-cash)
+- [Drifting Tanker Reveals Major Hurdle for Trump Plan to Revive Venezuela’s Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdrifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuela-s-oil)
 - [Trump Is Making a Power Play in Latin America. China Is Already There.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html)
 - [Wary of Investing in Venezuela, Big Oil Heads to the White House](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html)
 - [‘We are not for sale’: chair of Greenland’s top labor union rebukes Trump’s call for annexation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F09%2Fgreenland-labor-union-chair-trump-annexation)
-- [Oil Holds Biggest Gain Since October as Iran Protests Escalate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9)
-- [Democratic lawmakers ask for an investigation of the Middle East envoy Steve Witkoff.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F08%2Fus%2Ftrump-news%2Fwitkoff-crypto-democrats-investigation)
 
-**Sources**: archive.ph (17 articles)
+**Sources**: archive.ph (18 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets kicked off 2026 with a mix of optimism and caution, as US stocks climbed to fresh highs following a December jobs report that reinforced the Federal Reserve’s patient stance on interest rates. Traders scaled back bets on an imminent rate cut after unemployment fell more than expected, sending Treasury yields higher and dampening hopes for near-term monetary easing. Meanwhile, corporate activity remained brisk, with notable developments including Rio Tinto and Glencore restarting merger talks to create the world’s largest mining company, and JPMorgan Chase taking over the Apple Card portfolio from Goldman Sachs. In emerging markets, Senegal’s bonds surged after its leader ruled out debt restructuring, while Venezuela’s $60 billion bond restructuring talks drew investor attention amid geopolitical tensions. The energy sector also saw movement, with President Trump outlining plans to leverage Venezuela’s oil reserves to drive US crude prices down to $50 a barrel, though skepticism persists over the feasibility of such a move. Elsewhere, IPOs and private credit deals highlighted investor appetite for growth, with Aktis Oncology jumping 50% in its debut and Adams Street Partners leading a $400 million private debt deal for a defense equipment business.
+Global markets kicked off 2026 with a mix of optimism and caution as investors weighed economic data, corporate earnings, and geopolitical risks. U.S. stocks surged to fresh record highs, buoyed by a strong jobs report that reinforced the Federal Reserve’s patient stance on interest rates, with traders now pricing in almost no chance of a January rate cut. Household wealth hit a new peak amid the equity rally, though concerns linger over tariff uncertainty and its impact on sectors like American whiskey exports. Meanwhile, corporate America saw major moves, including General Motors’ $7.1 billion earnings hit from scaling back EV ambitions and JPMorgan Chase’s takeover of the Apple Card from Goldman Sachs. M&A activity heated up, with Rio Tinto and Glencore restarting merger talks to create the world’s largest mining giant, while Venezuela’s $60 billion bond restructuring talks and Trump’s plans to leverage its oil reserves added to energy market volatility. The ECB’s vice presidency race and China’s push to expand its duty-free Hainan island also underscored shifting economic priorities globally.
 
 **Top Articles:**
+- [KBW's Bullish Bank Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fkbw-s-bullish-bank-outlook-video)
+- [Tariffs Threaten American Craft Whiskey](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftariffs-threaten-american-craft-whiskey-video)
+- [ECB’s No. 2 Job Attracts Bids From Six Euro-Area Countries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fecb-s-no-2-job-attracts-bids-from-six-euro-area-countries)
+- [US Household Worth Climbs to Fresh Record on Stock Market Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-household-worth-climbs-to-fresh-record-on-stock-market-rally)
 - [Adams Street Leads Private Debt Deal for Military Gear Business](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fadams-street-leads-private-debt-deal-for-military-gear-business)
-- [Eli Lilly-Backed Aktis Jumps 50% After $318 Million US IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-jumps-50-after-318-million-us-ipo)
-- [Venezuela Investors Eye Start of $60 Billion Bond Restructuring](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-investors-eye-start-of-60-billion-bond-restructuring)
-- [I Squared Is Said to Drop Pursuit of Ströer’s Billboard Unit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fi-squared-is-said-to-drop-pursuit-of-stroer-s-billboard-unit)
-- [The Market With Zero Insider Trading](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopinion-the-market-with-zero-insider-trading-video)
 
-**Sources**: archive.ph (88 articles)
+**Sources**: archive.ph (86 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines are dominated by major corporate moves and regulatory shifts, with tech and AI developments taking center stage. Google’s co-founders, Larry Page and Sergey Brin, are further distancing themselves from California, signaling a broader trend of tech leaders relocating amid regulatory and tax concerns. Meanwhile, Elon Musk’s AI chatbot, Grok, faces backlash for generating inappropriate images, prompting X to restrict access to paid subscribers. In corporate news, Warner Bros. Discovery reiterates its rejection of Paramount’s $108 billion hostile takeover bid, opting instead for a partnership with Netflix, while Alaska Airlines makes its largest-ever aircraft order with Boeing, signaling confidence in post-pandemic travel demand. On the regulatory front, China investigates Meta’s acquisition of AI startup Manus over compliance concerns, and the U.S. grapples with housing policy debates as Trump prepares an executive order on affordability. The AI sector also sees legal developments, with Google and Character.AI settling a lawsuit tied to a teenager’s death linked to an AI chatbot, underscoring growing scrutiny over AI’s societal impacts.
+Tech and AI dominate headlines as Meta secures multi-gigawatt nuclear deals to power its AI data centers, signaling a major shift toward sustainable energy for tech infrastructure. Meanwhile, Elon Musk's AI chatbot Grok faces backlash for generating sexualized images, prompting restrictions on image requests. In corporate news, Amazon Pharmacy begins offering Novo Nordisk's weight-loss drug Wegovy at discounted rates, while Google co-founders Larry Page and Sergey Brin further distance themselves from California. Regulatory scrutiny intensifies as China investigates Meta's acquisition of AI startup Manus, and JPMorgan drops controversial proxy advisors in favor of AI-driven analysis for shareholder votes. The EV sector sees mixed results, with GM recording a $7.1 billion charge due to restructuring, while Lucid reports a 55% increase in deliveries. Elsewhere, Warner Bros. Discovery rejects Paramount's $108 billion bid, opting instead for a Netflix deal, and Alaska Airlines places its largest-ever order for Boeing jets amid expansion plans.
 
 **Top Articles:**
-- [Trump officials prepare executive order on housing affordability](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-housing-affordability-executive-order%2F)
-- [US hiring held firm in December capping weakest year of growth since pandemic](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fus-jobs-data-december-2025)
-- [Google Guys Say Bye to California](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgoogle-founders-california-wealth-tax.html)
-- [Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight-loss pill](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html)
-- [Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html)
+- [Meta Signs Multi-Gigawatt Nuclear Deals to Power AI Data Center](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeta-signs-multi-gigawatt-nuclear-deals-video)
+- [Venezuela’s Oil Industry: A Timeline of Key Events](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fvenezuela-oil-industry-timeline-trump.html)
+- [Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html)
+- [Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html)
+- [Glencore and Rio Tinto Restart Talks to Create a Mining Giant](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fglencore-rio-tinto-copper-merger.html)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic pressures, political maneuvers, and cultural shifts. On the economic front, housing affordability remains a critical issue, with President Trump's administration facing scrutiny over its policies, while states like California propose controversial wealth taxes targeting billionaires. Meanwhile, labor tensions escalate as nearly 16,000 New York City nurses prepare to strike over contract disputes, reflecting broader concerns about workplace conditions and fair pay. In global trade, the E.U. and South America move toward a massive free-trade agreement, contrasting with U.S. strategies that lean toward coercion. Culturally, Netflix makes an exception for Ben Affleck and Matt Damon's new film, offering bonuses to the crew based on performance, while GQ's editor-in-chief steps down after reshaping the magazine's identity. Emerging trends include the launch of Novo Nordisk's first GLP-1 pill for obesity, signaling a shift in weight-loss treatments, and a Supreme Court increasingly favoring wealthy litigants, raising questions about judicial impartiality.
+Global economic and political shifts dominate headlines as the European Union and South America finalize a landmark free-trade agreement covering 700 million people, signaling a push for international cooperation amid U.S. isolationist policies. Meanwhile, domestic economic pressures persist, with nearly 16,000 New York City nurses preparing to strike over wages and working conditions, reflecting broader labor tensions as more Americans remain stuck in part-time jobs. The housing affordability crisis remains a focal point, with President Trump’s policies under scrutiny, while California’s proposed billionaire tax highlights growing wealth inequality. In cultural news, Netflix makes an exception for Ben Affleck and Matt Damon’s new film, offering bonuses to the crew based on performance, and GQ’s editor-in-chief steps down after reshaping the magazine’s identity. Emerging trends include the launch of Novo Nordisk’s first GLP-1 obesity pill in the U.S. and a Supreme Court study revealing a growing bias toward wealthy litigants.
 
 **Top Articles:**
-- [Solving the Housing Affordability Crisis](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsolving-the-housing-affordability-crisis-video)
 - [E.U. and South America to Form Free-Trade Zone With 700 Million People](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html)
-- [US Natural Gas Futures Decline on Mild Mid-January Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-natural-gas-futures-decline-on-mild-mid-january-outlook)
+- [Used vehicle pricing expected to increase 2% in 2026, a historically stable rate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html)
+- [Solving the Housing Affordability Crisis](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsolving-the-housing-affordability-crisis-video)
 - [What to know about the report.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F05%2Fbusiness%2Fjobs-report-economy%2Fwhat-to-know-about-the-report)
 - [Minimum Wage Rises in Some States as Workers Struggle With Basic Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fus%2Fminimum-wage-increases.html)
 
-**Sources**: archive.ph (36 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 09, 2026 at 04:55 PM *
+*Digest generated on January 09, 2026 at 05:47 PM *

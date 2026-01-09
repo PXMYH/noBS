@@ -1,5 +1,95 @@
 [
   {
+    "title": "KBW's Bullish Bank Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fkbw-s-bullish-bank-outlook-video",
+    "published": "Fri, 09 Jan 2026 17:40:09 CST",
+    "summary": "Bank earnings kick off next week--and 2026 guidance is already front and\ncenter. Christopher McGratty, KBW Head of US Bank Research joined Bloomberg\nOpen Interest to talk about why he expects double-digit EPS growth, where\ncapital returns are accelerating, and why he’s rotating into select regionals.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Tariffs Threaten American Craft Whiskey",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftariffs-threaten-american-craft-whiskey-video",
+    "published": "Fri, 09 Jan 2026 17:35:20 CST",
+    "summary": "As the Supreme Court defers a decision on challenges to President Trump’s\ntariffs, the uncertainty is already hitting small businesses. Retaliatory\ntariffs overseas have targeted American whiskey, squeezing exporters and\nthreatening shelf space abroad. Sonat Birnecker Hart, the founder and\npresident of Koval Distillery in Chicago, joined Bloomberg Open Interest to\ntalk about how trade wars are reshaping the craft spirits industry. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
+    "published": "Fri, 09 Jan 2026 17:34:13 CST",
+    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States turning to coercion in its dealings with other countries.\n\n"
+  },
+  {
+    "title": "Meta Signs Multi-Gigawatt Nuclear Deals to Power AI Data Center",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeta-signs-multi-gigawatt-nuclear-deals-video",
+    "published": "Fri, 09 Jan 2026 17:33:44 CST",
+    "summary": "Meta will purchase electricity from three existing Vistra plants and support\nseveral small reactors that Sam Altman-backed Oklo and Bill Gates-backed\nTerraPower are planning to build over the next decade. Bloomberg's Mandeep\nSingh joins to discuss with Paul Sweeney and Scarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "ECB’s No. 2 Job Attracts Bids From Six Euro-Area Countries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fecb-s-no-2-job-attracts-bids-from-six-euro-area-countries",
+    "published": "Fri, 09 Jan 2026 17:28:46 CST",
+    "summary": "Six countries have placed bids for the vice presidency of the European Central\nBank, putting nations from the euro area’s periphery in competition for one of\nthe region’s key economic posts.\n\n"
+  },
+  {
+    "title": "US Household Worth Climbs to Fresh Record on Stock Market Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-household-worth-climbs-to-fresh-record-on-stock-market-rally",
+    "published": "Fri, 09 Jan 2026 17:22:48 CST",
+    "summary": "US household wealth rose in the third quarter to a fresh record as the stock\nmarket continued to rally.\n\n"
+  },
+  {
+    "title": "Venezuela’s Oil Industry: A Timeline of Key Events",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fvenezuela-oil-industry-timeline-trump.html",
+    "published": "Fri, 09 Jan 2026 17:19:48 CST",
+    "summary": "The country’s oil industry has undergone major shifts and two waves of\nnationalization since its first well started pumping in 1914.\n\n"
+  },
+  {
+    "title": "Used vehicle pricing expected to increase 2% in 2026, a historically stable rate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html",
+    "published": "Fri, 09 Jan 2026 17:11:49 CST",
+    "summary": "Cox Automotive expects wholesale prices on the Manheim Used Vehicle Value\nIndex will end this year 2% higher than December 2025.\n\n"
+  },
+  {
+    "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
+    "published": "Fri, 09 Jan 2026 17:11:25 CST",
+    "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
+  },
+  {
+    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
+    "published": "Fri, 09 Jan 2026 17:11:20 CST",
+    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
+  },
+  {
+    "title": "Glencore and Rio Tinto Restart Talks to Create a Mining Giant",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fglencore-rio-tinto-copper-merger.html",
+    "published": "Fri, 09 Jan 2026 17:03:31 CST",
+    "summary": "The negotiations come amid an increase in deal-making across the mining\nindustry as demand for copper and other metals soars.\n\n"
+  },
+  {
+    "title": "Ukraine Railways Suspends Upcoming Bond Coupons to Preserve Cash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fukraine-railways-suspends-upcoming-bond-coupons-to-preserve-cash",
+    "published": "Fri, 09 Jan 2026 17:02:06 CST",
+    "summary": "Ukrainian Railways is “temporarily” suspending coupon payments on its dollar\nbonds due in 2026 and 2028 as Russia’s nearly four-year full-scale invasion\nravages its finances.\n\n"
+  },
+  {
+    "title": "Drifting Tanker Reveals Major Hurdle for Trump Plan to Revive Venezuela’s Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdrifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuela-s-oil",
+    "published": "Fri, 09 Jan 2026 17:00:08 CST",
+    "summary": "A tanker meandering in the Caribbean near Venezuela underscores the steep\nhurdles to ramping up the country’s oil production following the US capture of\nPresident Nicolás Maduro.\n\n"
+  },
+  {
+    "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
+    "published": "Fri, 09 Jan 2026 16:53:41 CST",
+    "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
+  },
+  {
+    "title": "Chevron Could See $700 Million-a-Year Boost From Venezuelan Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchevron-could-see-700-million-a-year-boost-from-venezuelan-oil",
+    "published": "Fri, 09 Jan 2026 16:51:45 CST",
+    "summary": "Chevron Corp. could grow its cash flow by as much as $700 million a year from\nincreasing oil production in Venezuela as the Trump administration seeks to\ncontrol the South American country’s crude supplies, one analyst says.\n\n"
+  },
+  {
     "title": "Adams Street Leads Private Debt Deal for Military Gear Business",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fadams-street-leads-private-debt-deal-for-military-gear-business",
     "published": "Fri, 09 Jan 2026 16:31:43 CST",
@@ -30,16 +120,10 @@
     "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
   },
   {
-    "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight-loss pill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
-    "published": "Fri, 09 Jan 2026 16:21:56 CST",
-    "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
-  },
-  {
-    "title": "Eli Lilly-Backed Aktis Jumps 50% After $318 Million US IPO",
+    "title": "Eli Lilly-Backed Aktis Jumps 27% After $318 Million US IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-jumps-50-after-318-million-us-ipo",
     "published": "Fri, 09 Jan 2026 16:16:25 CST",
-    "summary": "Aktis Oncology Inc. shares jumped 50% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
+    "summary": "Aktis Oncology Inc. shares jumped 27% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
   },
   {
     "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
@@ -54,13 +138,19 @@
     "summary": "A group of global investors said it stands ready to start talks over $60\nbillion of defaulted Venezuelan bonds, a first step in one of the world’s\nlargest and most complex government debt restructurings\n\n"
   },
   {
+    "title": "Bloomberg Surveillance 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbloomberg-surveillance-1-9-2026-video",
+    "published": "Fri, 09 Jan 2026 16:03:02 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
+  },
+  {
     "title": "I Squared Is Said to Drop Pursuit of Ströer’s Billboard Unit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fi-squared-is-said-to-drop-pursuit-of-stroer-s-billboard-unit",
     "published": "Fri, 09 Jan 2026 16:02:45 CST",
     "summary": "An investor group led by I Squared Capital has dropped its pursuit of German\nmedia group Ströer SE & Co.’s core advertising business, people with knowledge\nof the matter said.\n\n"
   },
   {
-    "title": "The Market With Zero Insider Trading",
+    "title": "The Market Bet With Zero Insider Trading",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopinion-the-market-with-zero-insider-trading-video",
     "published": "Fri, 09 Jan 2026 15:55:54 CST",
     "summary": "Betting on the second coming of Jesus sounds ridiculous, but it avoids a big\nconcern on prediction markets, Bloomberg Opinion columnist Paul J. Davies\nsays. (Source: Bloomberg)\n\n"
@@ -72,22 +162,10 @@
     "summary": "Banks led by Bank of America Corp. and UBS Group AG have kicked off a $1.8\nbillion leveraged-loan deal to help fund the buyout US plastic-parts and\nequipment maker Hillenbrand Inc.\n\n"
   },
   {
-    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
-    "published": "Fri, 09 Jan 2026 15:47:23 CST",
-    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States turning to coercion in its dealings with other countries.\n\n"
-  },
-  {
     "title": "US Consumer Sentiment Improves to Four-Month High",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-consumer-sentiment-improves-to-four-month-high-video",
     "published": "Fri, 09 Jan 2026 15:40:15 CST",
     "summary": "US consumer sentiment climbed to 54 from 52.9 in December, according to the\nUniversity of Michigan, on slightly more upbeat views about the economy as\ntariff concerns fade. Michael McKee reports on Bloomberg Television. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "UniCredit Positions Itself to Boost Alpha Bank Stake to 32.1%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Funicredit-positions-itself-to-boost-alpha-bank-stake-to-32-1",
-    "published": "Fri, 09 Jan 2026 15:31:13 CST",
-    "summary": "UniCredit holds an extra 2.3% of Alpha Bank through various financial\ninstruments, a move that will enable it to boost its total stake in the Greek\nlender to around 32.1%.\n\n"
   },
   {
     "title": "Trump Posted Unpublished Jobs Data Early on Social Media",
@@ -102,34 +180,10 @@
     "summary": "Returns have been fabulous but consider the potential for setbacks in this\nalready hazardous year, our columnist says.\n\n"
   },
   {
-    "title": "BlackRock's Rieder Reacts to Being Considered for Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fblackrock-s-rieder-reacts-to-being-fed-chair-candidate-video",
-    "published": "Fri, 09 Jan 2026 15:06:18 CST",
-    "summary": "\"I don't know,\" BlackRock CIO of Global Fixed Income Rick Rieder says when\nasked about being one of the Trump administration's candidates to replace\nFederal Reserve Chair Jerome Powell. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Natural Gas Futures Decline on Mild Mid-January Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-natural-gas-futures-decline-on-mild-mid-january-outlook",
-    "published": "Fri, 09 Jan 2026 15:05:48 CST",
-    "summary": "Us natural gas futures dipped as forecasts showed mild temperatures over much\nof the US, dampening demand for the heating fuel.\n\n"
-  },
-  {
     "title": "What to know about the report.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F05%2Fbusiness%2Fjobs-report-economy%2Fwhat-to-know-about-the-report",
     "published": "Fri, 09 Jan 2026 15:05:02 CST",
     "summary": "\n\n"
-  },
-  {
-    "title": "US Consumer Sentiment Rises to Four-Month High on Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-consumer-sentiment-rises-to-four-month-high-on-economy-views",
-    "published": "Fri, 09 Jan 2026 15:00:00 CST",
-    "summary": "US consumer sentiment rose in recent weeks on slightly more upbeat views about\nthe economy as tariff concerns fade.\n\n"
-  },
-  {
-    "title": "Senegal Bonds Surge as Leader Again Rules Out Debt Restructuring",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsenegal-bonds-surge-as-leader-again-rules-out-debt-restructuring",
-    "published": "Fri, 09 Jan 2026 14:59:19 CST",
-    "summary": "Senegal’s dollar bonds surged after Prime Minister Ousmane Sonko again\nrejected a debt restructuring, saying the West African nation would rely on\ndomestic markets to finance its budget and debt-servicing costs.\n\n"
   },
   {
     "title": "Trump Ready to Pivot If Court Overturns Tariffs, Aide Says",
@@ -144,34 +198,16 @@
     "summary": "The billionaire and philanthropist has made a nearly $8 billion payment to the\nprivate foundation of his ex-wife, Melinda French Gates, new tax filings show.\n\n"
   },
   {
-    "title": "Argentina Pays US Swap Line, Bondholders in Boost for Milei",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbessent-says-argentina-repaid-drawdown-on-20-billion-swap-line",
-    "published": "Fri, 09 Jan 2026 14:41:26 CST",
-    "summary": "Argentina has fully repaid the $2.5 billion it drew down from a $20 billion\nswap line with the Trump administration while also making key payments to\nbondholders.\n\n"
-  },
-  {
-    "title": "Bob’s Discount Furniture Files for IPO Showing Revenue Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbob-s-discount-furniture-files-for-ipo-showing-revenue-growth",
-    "published": "Fri, 09 Jan 2026 14:38:46 CST",
-    "summary": "Bain Capital’s Bob’s Discount Furniture Inc., a home furnishings retailer,\nfiled for an initial public offering, disclosing growing revenue and profit.\n\n"
-  },
-  {
     "title": "Stocks Push to Fresh Highs After Jobs Data, No Ruling on Tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fstocks-rise-as-traders-weigh-jobs-data-brace-for-tariff-ruling",
     "published": "Fri, 09 Jan 2026 14:37:40 CST",
     "summary": "US equities rose Friday to new all-time highs as December’s employment report\ndid little to alter expectations for leaving interest rates on hold.\nMeanwhile, the Supreme Court did not deliver a highly awaited decision on the\nlegality of President Donald Trump’s tariffs.\n\n"
   },
   {
-    "title": "Commodity Hedge Fund Conductor Capital Closes Down",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcommodity-hedge-fund-conductor-capital-closes-down",
-    "published": "Fri, 09 Jan 2026 14:35:15 CST",
-    "summary": "Conductor Capital Ltd., a specialist commodity hedge fund started by former\nEDF Trading executives, is closing down.\n\n"
-  },
-  {
     "title": "Employers added 50,000 jobs in December, capping off slow 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
     "published": "Fri, 09 Jan 2026 14:33:43 CST",
-    "summary": "Last year, 2025, marked the fewest jobs gained for workers since 2020 and the\nhighest unemployment rate since 2021.\n\n"
+    "summary": "The unemployment rate ticked down to 4.4 percent, as layoffs remain low\ndespite the worst year for job creation since 2020.\n\n"
   },
   {
     "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
@@ -192,10 +228,10 @@
     "summary": "BlackRock's Jeffrey Rosenberg reacts to the US monthly jobs report on\n\"Bloomberg Surveillance.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
-    "published": "Fri, 09 Jan 2026 14:10:21 CST",
-    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
+    "title": "Oil Traders Face New Iran Risks Days After Venezuela Crisis",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Foil-traders-confront-new-iran-risks-days-after-venezuela-crisis",
+    "published": "Fri, 09 Jan 2026 14:05:38 CST",
+    "summary": "The oil market is becoming increasingly responsive to events in Iran, where\nthere have been deadly protests -- and threats of US retaliation -- in the\npast several days.\n\n"
   },
   {
     "title": "How to Make, and Keep, New Year’s Financial Resolutions",
@@ -228,6 +264,12 @@
     "summary": "President Donald Trump is set to outline his vision for rebuilding Venezuela’s\nbattered oil sector Friday in a meeting with representatives from 17 energy\ncompanies, including crude producers, refiners and commodity traders.\n\n"
   },
   {
+    "title": "Doge cuts cost US taxpayers $10bn to cover workers’ paid leave, analysis finds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Fdoge-taxpayer-costs-federal-workers",
+    "published": "Fri, 09 Jan 2026 13:00:37 CST",
+    "summary": "Analysis estimates Trump administration ‘wasted’ billions to compensate over\n154,000 federal employees on leave\n\nThe Trump administration “wasted” $10bn on paid leave, or paying workers to\nstay home, as part of the “department of government efficiency’s” assault on\nthe federal workforce, a new analysis by Public Employees for Environmental\nResponsibility (Peer) estimates.\n\nIn a letter sent to the Government Accountability Office (GAO), Peer estimates\nthat more than 154,000 employees were put on paid leave in 2025, making up\nnearly 7% of the federal civilian workforce. That costs taxpayers\napproximately $10bn in compensation for workers who were staying home and not\nworking.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html",
     "published": "Fri, 09 Jan 2026 12:53:11 CST",
@@ -246,10 +288,10 @@
     "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
   },
   {
-    "title": "Cocoa Prices Fall as Exporter Hedges Offset Index Buying",
+    "title": "Cocoa Prices Plunge 12% as Exporter Hedging Offsets Index Buying",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcocoa-prices-swing-as-exporter-hedges-offset-index-buying",
     "published": "Fri, 09 Jan 2026 12:36:28 CST",
-    "summary": "Cocoa declined in New York, as exporters took advantage of buying related to\nindex rebalancing to lock in more favorable prices.\n\n"
+    "summary": "Cocoa in New York plunged the most since July as exporters took advantage of\nbuying related to index rebalancing to lock in more favorable prices.\n\n"
   },
   {
     "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
@@ -268,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fblackrocks-bull-case-for-bitcoin-access-among-retail-investors.html",
     "published": "Fri, 09 Jan 2026 12:00:01 CST",
     "summary": "It could be the year Main Street's appetite for cryptocurrency exposure\nmeaningfully grows.\n\n"
-  },
-  {
-    "title": "Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fnetflix-stock-is-pricey-even-after-warner-bros-induced-selloff",
-    "published": "Fri, 09 Jan 2026 11:34:13 CST",
-    "summary": "Shares of Netflix Inc. have tumbled since October, when the streaming giant\nbecame one of the presumed suitors for Warner Bros. Discovery Inc. But despite\na 28% plunge in less than three months, the stock still appears to be too\nexpensive to entice investors.\n\n"
   },
   {
     "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
@@ -309,7 +345,7 @@
     "title": "Mining firms Rio Tinto and Glencore restart $260bn merger talks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fmining-firms-rio-tinto-and-glencore-restart-merger-talks",
     "published": "Fri, 09 Jan 2026 08:09:04 CST",
-    "summary": "Deal would create world’s largest mining company and come almost a year after\nprevious discussions failed\n\n  * Business live – latest updates\n\nRio Tinto and Glencore have restarted talks over a merger that would create\nthe world’s largest mining company.\n\nThe talks come almost a year after previous discussions between the two mining\ncompanies collapsed. If a deal is agreed, it would create a global mining\nbusiness with an enterprise value of more than $260bn (£193bn).\n\nContinue reading...\n\n"
+    "summary": "Deal would create world’s largest mining company and come almost a year after\nprevious discussions failed\n\n  * Nils Pratley: Glencore and Rio Tinto are at it again – and the markets smell action\n\nRio Tinto and Glencore have restarted talks over a merger that would create\nthe world’s largest mining company.\n\nThe talks come almost a year after previous discussions between the two mining\ncompanies collapsed. If a deal is agreed, it would create a global mining\nbusiness with an enterprise value of more than $260bn (£193bn).\n\nContinue reading...\n\n"
   },
   {
     "title": "Hopes rise for Chinese property support ahead of key March meeting",
@@ -354,10 +390,10 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Stocks Shrug Off Tariff, Rates Woes as Bonds Slip: Markets Wrap",
+    "title": "Stocks Rally to Close Out Big Week as Bonds Slip: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "US stocks climbed to session highs as investors brushed aside concerns about\nthe Trump administration’s tariff regime and data that suggested Federal\nReserve interest-rate cuts were unlikely in the near term. Bonds remained\nunder pressure.\n\n"
+    "summary": "Wall Street brushed aside concerns about the Trump administration’s tariff\nregime and the path of interest rates to put US stocks on pace for another\nrecord close. Bonds remained under pressure.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
@@ -376,12 +412,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
-  },
-  {
-    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
-    "published": "Thu, 08 Jan 2026 21:10:04 CST",
-    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
   },
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
@@ -418,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Thu, 08 Jan 2026 18:56:53 CST",
     "summary": "Regulators said they would look at whether the deal for Manus, a Singapore\nstart-up with Chinese roots, complied with China’s export and investment\nrules.\n\n"
-  },
-  {
-    "title": "Used vehicle pricing expected to increase 2% in 2026, a historically stable rate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html",
-    "published": "Thu, 08 Jan 2026 16:41:48 CST",
-    "summary": "Cox Automotive expects wholesale prices on the Manheim Used Vehicle Value\nIndex will end this year 2% higher than December 2025.\n\n"
   },
   {
     "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
@@ -702,12 +726,6 @@
     "summary": "The central bank faces two major hurdles early on in 2026 that will determine\nthe extent to which it operates free of political meddling.\n\n"
   },
   {
-    "title": "Maga media stars back Trump on Venezuela … mostly: ‘It doesn’t make any sense’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F07%2Fmaga-stars-trump-venezuela",
-    "published": "Wed, 07 Jan 2026 10:00:39 CST",
-    "summary": "Maga media used to hate US foreign intervention – now some are cheering it on\n\n“I’m not going to start a war. I’m going to stop wars,” Donald Trump said\nafter declaring victory on 6 November 2024. It wasn’t his first pledge to\ndisengage the US from foreign conflicts, and Trump’s top allies in\nconservative media and the “Make America Great Again” (Maga) movement have all\nrallied to his pledge to “put America first”.\n\nNow that the US president seems to have broken his pledge by launching an\ninvasion of Venezuela, not to mention threatening future actions against Cuba\nand Colombia and potentially Greenland, some have reasonably wondered whether\nTrump’s supporters in Maga media would hammer him for that inconsistency.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Hilton Drops Bookings for Minnesota Hotel Accused of Turning Away DHS Agents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Ftravel%2Fhilton-hampton-inn-dhs.html",
     "published": "Tue, 06 Jan 2026 23:11:30 CST",
@@ -792,12 +810,6 @@
     "summary": "The second-largest U.S. oil company, which kept pumping oil in the country\nafter others left, could find it relatively easy to expand its operations if\nthe political conditions there improve.\n\n"
   },
   {
-    "title": "Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Ftravel%2Fvenezuela-caribbean-stranded-travelers.html",
-    "published": "Tue, 06 Jan 2026 13:55:24 CST",
-    "summary": "Mass flight cancellations during peak holiday travel season have forced\ntravelers to miss school and work and to spend thousands on extended tropical\nvacations.\n\n"
-  },
-  {
     "title": "The Rush to Profit From Maduro’s Capture",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-chevron.html",
     "published": "Tue, 06 Jan 2026 13:18:58 CST",
@@ -826,12 +838,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-china-maduro.html",
     "published": "Tue, 06 Jan 2026 05:00:11 CST",
     "summary": "The reactions online revealed a Chinese society divided: Some saw what\nhappened in Venezuela as a playbook for seizing Taiwan, while others warned\nabout ideological rigidity.\n\n"
-  },
-  {
-    "title": "S&P 500’s Energy Sector Rises 2.7% on Investors’ Venezuela Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Foil-stocks-venezuela.html",
-    "published": "Mon, 05 Jan 2026 21:33:14 CST",
-    "summary": "The energy sector of the S&P 500 rose 2.7 percent on Monday, lifting the\nbroader market.\n\n"
   },
   {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
