@@ -1,8 +1,38 @@
 [
   {
+    "title": "'Fed Will Not Be Cutting In January': Lindsay Rosner",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2F-fed-will-not-be-cutting-in-january-lindsay-rosner-video",
+    "published": "Fri, 09 Jan 2026 19:37:20 CST",
+    "summary": "\"January is unambiguous, the Fed will not be cutting.\" Goldman Sachs Asset\nManagement's Lindsay Rosner joins \"Bloomberg Real Yield\" to give her reaction\nto today's US jobs report that showed nonfarm payrolls increase by 50,000 last\nmonth after downward revisions to the prior two months. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
+    "published": "Fri, 09 Jan 2026 19:33:14 CST",
+    "summary": "China built a dominant strategic position in the region as the leading lender\nand trading partner. It is watching President Trump’s next moves closely.\n\n"
+  },
+  {
+    "title": "Trump’s $200 Billion MBS Order Asserts New Power Over Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-s-200-billion-mbs-order-asserts-new-power-over-markets",
+    "published": "Fri, 09 Jan 2026 19:17:05 CST",
+    "summary": "With his directive ordering Fannie Mae and Freddie Mac to buy $200 billion of\nmortgage bonds, President Donald Trump has opened a new front in the\nadministration’s effort to bolster housing affordability.\n\n"
+  },
+  {
+    "title": "Employers added 50,000 jobs in December, capping off slow 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
+    "published": "Fri, 09 Jan 2026 19:13:37 CST",
+    "summary": "The unemployment rate ticked down to 4.4 percent, as layoffs remain low\ndespite the worst year for job creation since 2020.\n\n"
+  },
+  {
+    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
+    "published": "Fri, 09 Jan 2026 19:05:38 CST",
+    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
+  },
+  {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
-    "published": "Fri, 09 Jan 2026 18:42:02 CST",
+    "published": "Fri, 09 Jan 2026 18:57:53 CST",
     "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
   },
   {
@@ -16,6 +46,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstellantis-scraps-jeep-chrysler-phevs-amid-ev-slowdown-recall.html",
     "published": "Fri, 09 Jan 2026 18:24:27 CST",
     "summary": "The decision is an about-face for the automaker, which has touted its sales\nleadership of the models, known as PHEVs, for years.\n\n"
+  },
+  {
+    "title": "Jobs Data Disappoints | Open Interest 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopen-interest-1-9-2026-video",
+    "published": "Fri, 09 Jan 2026 18:09:28 CST",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Jobs data disappoints as markets hold their breath.\nRick Rieder of Blackrock weights in on the data. The Supreme Court keeps\nweighing the fate of President Trump’s tariffs. Koval Distillery founder Sonat\nBirnecker Hart joins us on how reciprocal tariffs hit her bottom line. Plus,\nthe AI power arms race heats up -- Meta locking in nuclear energy as Rio Tinto\ntalks Glencore. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Why There Isn’t Really a ‘Donroe Doctrine’",
@@ -52,12 +88,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftariffs-threaten-american-craft-whiskey-video",
     "published": "Fri, 09 Jan 2026 17:35:20 CST",
     "summary": "As the Supreme Court defers a decision on challenges to President Trump’s\ntariffs, the uncertainty is already hitting small businesses. Retaliatory\ntariffs overseas have targeted American whiskey, squeezing exporters and\nthreatening shelf space abroad. Sonat Birnecker Hart, the founder and\npresident of Koval Distillery in Chicago, joined Bloomberg Open Interest to\ntalk about how trade wars are reshaping the craft spirits industry. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
-    "published": "Fri, 09 Jan 2026 17:34:13 CST",
-    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States turning to coercion in its dealings with other countries.\n\n"
   },
   {
     "title": "Meta Signs Multi-Gigawatt Nuclear Deals to Power AI Data Center",
@@ -186,10 +216,10 @@
     "summary": "Betting on the second coming of Jesus sounds ridiculous, but it avoids a big\nconcern on prediction markets, Bloomberg Opinion columnist Paul J. Davies\nsays. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Banks Launch $1.8 Billion of Leveraged Loans for Hillenbrand LBO",
+    "title": "Hillenbrand Deal Adds to M&amp;A Debt Wave in Junk Loan Market",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbanks-launch-1-8-billion-of-leveraged-loans-for-hillenbrand-lbo",
     "published": "Fri, 09 Jan 2026 15:51:25 CST",
-    "summary": "Banks led by Bank of America Corp. and UBS Group AG have kicked off a $1.8\nbillion leveraged-loan deal to help fund the buyout US plastic-parts and\nequipment maker Hillenbrand Inc.\n\n"
+    "summary": "Hillenbrand Inc.’s $1.8 billion leveraged loan buyout financing deal kicked\noff on Friday, joining the surge of M&A-related activity hitting the junk-\nrated debt market this year.\n\n"
   },
   {
     "title": "Trump Posted Unpublished Jobs Data Early on Social Media",
@@ -210,12 +240,6 @@
     "summary": "\n\n"
   },
   {
-    "title": "Trump Ready to Pivot If Court Overturns Tariffs, Aide Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-ready-to-pivot-if-court-strikes-down-tariffs-aide-says",
-    "published": "Fri, 09 Jan 2026 14:57:32 CST",
-    "summary": "Donald Trump’s administration is ready to use other authorities to quickly\nreimpose tariffs if the Supreme Court strikes down the president’s global\nlevies, National Economic Council Director Kevin Hassett said.\n\n"
-  },
-  {
     "title": "Bill Gates Makes a Multibillion-Dollar Divorce Payout",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fgates-divorce-settlement.html",
     "published": "Fri, 09 Jan 2026 14:49:51 CST",
@@ -226,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fstocks-rise-as-traders-weigh-jobs-data-brace-for-tariff-ruling",
     "published": "Fri, 09 Jan 2026 14:37:40 CST",
     "summary": "US equities rose Friday to new all-time highs as December’s employment report\ndid little to alter expectations for leaving interest rates on hold.\nMeanwhile, the Supreme Court did not deliver a highly awaited decision on the\nlegality of President Donald Trump’s tariffs.\n\n"
-  },
-  {
-    "title": "Employers added 50,000 jobs in December, capping off slow 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
-    "published": "Fri, 09 Jan 2026 14:33:43 CST",
-    "summary": "The unemployment rate ticked down to 4.4 percent, as layoffs remain low\ndespite the worst year for job creation since 2020.\n\n"
   },
   {
     "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
@@ -270,12 +288,6 @@
     "summary": "Bond traders all but wiped out their bets that the Federal Reserve would cut\ninterest rates later this month after the unemployment rate for December fell\nmore than expected.\n\n"
   },
   {
-    "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
-    "published": "Fri, 09 Jan 2026 13:19:31 CST",
-    "summary": "China built a dominant strategic position in the region as the leading lender\nand trading partner. It is watching President Trump’s next moves closely.\n\n"
-  },
-  {
     "title": "Trump to Meet Energy Executives, Outline Plan for Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-to-meet-energy-executives-outline-plan-for-venezuela",
     "published": "Fri, 09 Jan 2026 13:11:37 CST",
@@ -306,10 +318,10 @@
     "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
   },
   {
-    "title": "Cocoa Prices Plunge 12% as Exporter Hedging Offsets Index Buying",
+    "title": "Cocoa Prices Plunge 13% as Exporter Hedging Offsets Index Buying",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcocoa-prices-swing-as-exporter-hedges-offset-index-buying",
     "published": "Fri, 09 Jan 2026 12:36:28 CST",
-    "summary": "Cocoa in New York plunged the most since July as exporters took advantage of\nbuying related to index rebalancing to lock in more favorable prices.\n\n"
+    "summary": "Cocoa in New York plunged the most intraday since July 2024 as exporters took\nadvantage of buying related to index rebalancing to lock in more favorable\nprices.\n\n"
   },
   {
     "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
@@ -334,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html",
     "published": "Fri, 09 Jan 2026 11:29:22 CST",
     "summary": "The amounts of money, time and political uncertainty trouble executives at\nlarge Western oil companies, who plan to meet with President Trump on Friday.\n\n"
-  },
-  {
-    "title": "Emerging Issuers Utilize Sellers’ Market as Spreads Narrow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fit-s-a-sellers-market-for-emerging-issuers-as-spreads-narrow",
-    "published": "Fri, 09 Jan 2026 10:54:35 CST",
-    "summary": "Emerging-market borrowers are taking advantage of a start of the year sellers’\nmarket, with spreads narrowing over US Treasuries and investors piling cash\ninto developing nations’ bonds.\n\n"
   },
   {
     "title": "‘We are not for sale’: chair of Greenland’s top labor union rebukes Trump’s call for annexation",
@@ -372,12 +378,6 @@
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
   },
   {
-    "title": "Gold Steadies as Mixed US Data Dims Fed Rate-Cut Bets This Month",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
-    "published": "Thu, 08 Jan 2026 23:58:50 CST",
-    "summary": "Gold steadied as traders maintained expectations that the Federal Reserve will\nhold rates steady at their January meeting, after key US jobs data gave mixed\nsignals about the health of the US economy.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fstocks-making-the-biggest-moves-after-hours-gm-intc-tlry.html",
     "published": "Thu, 08 Jan 2026 23:06:32 CST",
@@ -399,7 +399,7 @@
     "title": "Stocks Rally to Close Out Big Week as Bonds Slip: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "Wall Street brushed aside concerns about the Trump administration’s tariff\nregime and the path of interest rates to put US stocks on pace for another\nrecord close. Bonds remained under pressure.\n\n"
+    "summary": "Wall Street brushed aside concerns about the Trump administration’s tariff\nregime to send US stocks to all-time highs in the first trading week of the\nnew year. Bonds remained under pressure.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
