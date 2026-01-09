@@ -1,39 +1,177 @@
 [
   {
-    "title": "Bessent Says Argentina Repaid Drawdown on $20 Billion Swap Line",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbessent-says-argentina-repaid-drawdown-on-20-billion-swap-line",
-    "published": "Fri, 09 Jan 2026 14:41:26 CST",
-    "summary": "Argentina has fully repaid what Javier Milei’s government drew down from a $20\nbillion swap line with the Trump administration, Treasury Secretary Scott\nBessent confirmed Friday.\n\n"
+    "title": "Adams Street Leads Private Debt Deal for Military Gear Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fadams-street-leads-private-debt-deal-for-military-gear-business",
+    "published": "Fri, 09 Jan 2026 16:31:43 CST",
+    "summary": "Adams Street Partners led a private credit financing of as much as $400\nmillion to back the acquisition by two investment firms of aerospace and\ndefense equipment business Beaufort.\n\n"
+  },
+  {
+    "title": "Trump officials prepare executive order on housing affordability",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-housing-affordability-executive-order%2F",
+    "published": "Fri, 09 Jan 2026 16:31:33 CST",
+    "summary": "More details are expected when President Donald Trump speaks at the World\nEconomic Forum in Davos, Switzerland, later this month.\n\n"
+  },
+  {
+    "title": "Solving the Housing Affordability Crisis",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsolving-the-housing-affordability-crisis-video",
+    "published": "Fri, 09 Jan 2026 16:28:19 CST",
+    "summary": "Elizabeth Bell of Hamilton Lane talks about President Donald Trump's efforts\nto solve the housing affordability crisis. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US hiring held firm in December capping weakest year of growth since pandemic",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fus-jobs-data-december-2025",
+    "published": "Fri, 09 Jan 2026 16:28:07 CST",
+    "summary": "White House is meanwhile facing questions about an apparent embargo breach\nover Trump’s social media post\n\nHiring held firm in the US last month, official data showed, amid uncertainty\nover the strength and direction of the world’s largest economy.\n\nEmployers added 50,000 jobs to the US labor force last month, capping the\nweakest year of growth since the pandemic, according to data released from the\nUS Bureau of Labor Statistics on Friday.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Google Guys Say Bye to California",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgoogle-founders-california-wealth-tax.html",
+    "published": "Fri, 09 Jan 2026 16:26:13 CST",
+    "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
+  },
+  {
+    "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight-loss pill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
+    "published": "Fri, 09 Jan 2026 16:21:56 CST",
+    "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
+  },
+  {
+    "title": "Eli Lilly-Backed Aktis Jumps 50% After $318 Million US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-jumps-50-after-318-million-us-ipo",
+    "published": "Fri, 09 Jan 2026 16:16:25 CST",
+    "summary": "Aktis Oncology Inc. shares jumped 50% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
+  },
+  {
+    "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
+    "published": "Fri, 09 Jan 2026 16:14:42 CST",
+    "summary": "Kevin Hassett said the White House could deploy alternative tariff authorities\nif the Supreme Court rules against President Donald Trump.\n\n"
+  },
+  {
+    "title": "Venezuela Investors Eye Start of $60 Billion Bond Restructuring",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-investors-eye-start-of-60-billion-bond-restructuring",
+    "published": "Fri, 09 Jan 2026 16:11:22 CST",
+    "summary": "A group of global investors said it stands ready to start talks over $60\nbillion of defaulted Venezuelan bonds, a first step in one of the world’s\nlargest and most complex government debt restructurings\n\n"
+  },
+  {
+    "title": "I Squared Is Said to Drop Pursuit of Ströer’s Billboard Unit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fi-squared-is-said-to-drop-pursuit-of-stroer-s-billboard-unit",
+    "published": "Fri, 09 Jan 2026 16:02:45 CST",
+    "summary": "An investor group led by I Squared Capital has dropped its pursuit of German\nmedia group Ströer SE & Co.’s core advertising business, people with knowledge\nof the matter said.\n\n"
+  },
+  {
+    "title": "The Market With Zero Insider Trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopinion-the-market-with-zero-insider-trading-video",
+    "published": "Fri, 09 Jan 2026 15:55:54 CST",
+    "summary": "Betting on the second coming of Jesus sounds ridiculous, but it avoids a big\nconcern on prediction markets, Bloomberg Opinion columnist Paul J. Davies\nsays. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Banks Launch $1.8 Billion of Leveraged Loans for Hillenbrand LBO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbanks-launch-1-8-billion-of-leveraged-loans-for-hillenbrand-lbo",
+    "published": "Fri, 09 Jan 2026 15:51:25 CST",
+    "summary": "Banks led by Bank of America Corp. and UBS Group AG have kicked off a $1.8\nbillion leveraged-loan deal to help fund the buyout US plastic-parts and\nequipment maker Hillenbrand Inc.\n\n"
+  },
+  {
+    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
+    "published": "Fri, 09 Jan 2026 15:47:23 CST",
+    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States turning to coercion in its dealings with other countries.\n\n"
+  },
+  {
+    "title": "US Consumer Sentiment Improves to Four-Month High",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-consumer-sentiment-improves-to-four-month-high-video",
+    "published": "Fri, 09 Jan 2026 15:40:15 CST",
+    "summary": "US consumer sentiment climbed to 54 from 52.9 in December, according to the\nUniversity of Michigan, on slightly more upbeat views about the economy as\ntariff concerns fade. Michael McKee reports on Bloomberg Television. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "UniCredit Positions Itself to Boost Alpha Bank Stake to 32.1%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Funicredit-positions-itself-to-boost-alpha-bank-stake-to-32-1",
+    "published": "Fri, 09 Jan 2026 15:31:13 CST",
+    "summary": "UniCredit holds an extra 2.3% of Alpha Bank through various financial\ninstruments, a move that will enable it to boost its total stake in the Greek\nlender to around 32.1%.\n\n"
+  },
+  {
+    "title": "Trump Posted Unpublished Jobs Data Early on Social Media",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-posted-unpublished-jobs-data-early-in-social-media-post",
+    "published": "Fri, 09 Jan 2026 15:25:09 CST",
+    "summary": "President Donald Trump posted a chart on social media Thursday evening that\nincluded figures in the yet-to-be released December employment report.\n\n"
+  },
+  {
+    "title": "Will Stock Markets Sizzle Into 2026?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fstock-market-investing-returns.html",
+    "published": "Fri, 09 Jan 2026 15:19:52 CST",
+    "summary": "Returns have been fabulous but consider the potential for setbacks in this\nalready hazardous year, our columnist says.\n\n"
+  },
+  {
+    "title": "BlackRock's Rieder Reacts to Being Considered for Fed Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fblackrock-s-rieder-reacts-to-being-fed-chair-candidate-video",
+    "published": "Fri, 09 Jan 2026 15:06:18 CST",
+    "summary": "\"I don't know,\" BlackRock CIO of Global Fixed Income Rick Rieder says when\nasked about being one of the Trump administration's candidates to replace\nFederal Reserve Chair Jerome Powell. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Natural Gas Futures Decline on Mild Mid-January Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-natural-gas-futures-decline-on-mild-mid-january-outlook",
+    "published": "Fri, 09 Jan 2026 15:05:48 CST",
+    "summary": "Us natural gas futures dipped as forecasts showed mild temperatures over much\nof the US, dampening demand for the heating fuel.\n\n"
   },
   {
     "title": "What to know about the report.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F05%2Fbusiness%2Fjobs-report-economy%2Fbusiness-economy-jobs-report-december",
-    "published": "Fri, 09 Jan 2026 14:36:40 CST",
-    "summary": "Data on the labor market in December will be closely watched for clues on the\nstate of the economy.\n\n"
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F05%2Fbusiness%2Fjobs-report-economy%2Fwhat-to-know-about-the-report",
+    "published": "Fri, 09 Jan 2026 15:05:02 CST",
+    "summary": "\n\n"
   },
   {
-    "title": "BlackRock's Rieder Sees 'Productivity Revolution' in US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fblackrock-s-rieder-sees-productivity-revolution-in-us-video",
-    "published": "Fri, 09 Jan 2026 14:35:03 CST",
-    "summary": "BlackRock CIO of Global Fixed Income Rick Rieder reacts to the December US\nemployment report and says the US is losing jobs amid a productivity boom. He\nspeaks on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
+    "title": "US Consumer Sentiment Rises to Four-Month High on Economy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-consumer-sentiment-rises-to-four-month-high-on-economy-views",
+    "published": "Fri, 09 Jan 2026 15:00:00 CST",
+    "summary": "US consumer sentiment rose in recent weeks on slightly more upbeat views about\nthe economy as tariff concerns fade.\n\n"
   },
   {
-    "title": "EU Carbon Climbs to Highest Since August 2023 on Tighter Supply",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feu-carbon-climbs-to-highest-since-august-2023-on-tighter-supply",
-    "published": "Fri, 09 Jan 2026 14:33:56 CST",
-    "summary": "European Union carbon futures climbed to the highest since August 2023,\nheading for a fifth straight weekly gain, amid tightening supply.\n\n"
+    "title": "Senegal Bonds Surge as Leader Again Rules Out Debt Restructuring",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsenegal-bonds-surge-as-leader-again-rules-out-debt-restructuring",
+    "published": "Fri, 09 Jan 2026 14:59:19 CST",
+    "summary": "Senegal’s dollar bonds surged after Prime Minister Ousmane Sonko again\nrejected a debt restructuring, saying the West African nation would rely on\ndomestic markets to finance its budget and debt-servicing costs.\n\n"
+  },
+  {
+    "title": "Trump Ready to Pivot If Court Overturns Tariffs, Aide Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-ready-to-pivot-if-court-strikes-down-tariffs-aide-says",
+    "published": "Fri, 09 Jan 2026 14:57:32 CST",
+    "summary": "Donald Trump’s administration is ready to use other authorities to quickly\nreimpose tariffs if the Supreme Court strikes down the president’s global\nlevies, National Economic Council Director Kevin Hassett said.\n\n"
+  },
+  {
+    "title": "Bill Gates Makes a Multibillion-Dollar Divorce Payout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fgates-divorce-settlement.html",
+    "published": "Fri, 09 Jan 2026 14:49:51 CST",
+    "summary": "The billionaire and philanthropist has made a nearly $8 billion payment to the\nprivate foundation of his ex-wife, Melinda French Gates, new tax filings show.\n\n"
+  },
+  {
+    "title": "Argentina Pays US Swap Line, Bondholders in Boost for Milei",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbessent-says-argentina-repaid-drawdown-on-20-billion-swap-line",
+    "published": "Fri, 09 Jan 2026 14:41:26 CST",
+    "summary": "Argentina has fully repaid the $2.5 billion it drew down from a $20 billion\nswap line with the Trump administration while also making key payments to\nbondholders.\n\n"
+  },
+  {
+    "title": "Bob’s Discount Furniture Files for IPO Showing Revenue Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbob-s-discount-furniture-files-for-ipo-showing-revenue-growth",
+    "published": "Fri, 09 Jan 2026 14:38:46 CST",
+    "summary": "Bain Capital’s Bob’s Discount Furniture Inc., a home furnishings retailer,\nfiled for an initial public offering, disclosing growing revenue and profit.\n\n"
+  },
+  {
+    "title": "Stocks Push to Fresh Highs After Jobs Data, No Ruling on Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fstocks-rise-as-traders-weigh-jobs-data-brace-for-tariff-ruling",
+    "published": "Fri, 09 Jan 2026 14:37:40 CST",
+    "summary": "US equities rose Friday to new all-time highs as December’s employment report\ndid little to alter expectations for leaving interest rates on hold.\nMeanwhile, the Supreme Court did not deliver a highly awaited decision on the\nlegality of President Donald Trump’s tariffs.\n\n"
+  },
+  {
+    "title": "Commodity Hedge Fund Conductor Capital Closes Down",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcommodity-hedge-fund-conductor-capital-closes-down",
+    "published": "Fri, 09 Jan 2026 14:35:15 CST",
+    "summary": "Conductor Capital Ltd., a specialist commodity hedge fund started by former\nEDF Trading executives, is closing down.\n\n"
   },
   {
     "title": "Employers added 50,000 jobs in December, capping off slow 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
     "published": "Fri, 09 Jan 2026 14:33:43 CST",
     "summary": "Last year, 2025, marked the fewest jobs gained for workers since 2020 and the\nhighest unemployment rate since 2021.\n\n"
-  },
-  {
-    "title": "Why Is Modi Rescuing a Failing Telecom Giant?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwhy-is-modi-rescuing-a-failing-telecom-giant-video",
-    "published": "Fri, 09 Jan 2026 14:31:43 CST",
-    "summary": "The Modi government is capping billions in telecom dues as Vodafone Idea\nstruggles to survive in a market dominated by Reliance Jio and Bharti Airtel.\nHere's why. (Source: Bloomberg)\n\n"
   },
   {
     "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
@@ -48,24 +186,6 @@
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
   },
   {
-    "title": "Advent Is Said to Pick Banks for US IPO of Gas Motor Firm Innio",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fadvent-is-said-to-pick-banks-for-us-ipo-of-gas-motor-firm-innio",
-    "published": "Fri, 09 Jan 2026 14:19:34 CST",
-    "summary": "Buyout firm Advent has picked banks to lead a planned US initial public\noffering of Innio, as the Austrian power equipment maker benefits from booming\ndemand from data centers, people with knowledge of the matter said.\n\n"
-  },
-  {
-    "title": "Singer’s Elliott Sued by PE Firm in Escalating Fight Over Money",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsinger-s-elliott-sued-by-pe-firm-in-escalating-fight-over-money",
-    "published": "Fri, 09 Jan 2026 14:15:58 CST",
-    "summary": "A Texas private equity firm accused Paul Singer’s Elliott Investment\nManagement of withholding “tens of millions of dollars” from the sale of oil\nand gas assets, according to a new lawsuit in the escalating fight over their\nfailed partnership.\n\n"
-  },
-  {
-    "title": "Brookfield Asset Management Kickstarts 10% Share Buyback Plan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbrookfield-asset-management-kickstarts-10-share-buyback-plan",
-    "published": "Fri, 09 Jan 2026 14:14:05 CST",
-    "summary": "Brookfield Asset Management renewed its plan to buy back roughly 10% of its\noutstanding shares, the company said in a filing on Friday.\n\n"
-  },
-  {
     "title": "US Jobs Report Unlikely to Trigger Fed Move, Rosenberg Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fjobs-report-won-t-trigger-fed-move-rosenberg-says-video",
     "published": "Fri, 09 Jan 2026 14:13:58 CST",
@@ -78,58 +198,16 @@
     "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
   },
   {
-    "title": "Saks Eyes Filing for Chapter 11 Bankruptcy as Soon as Sunday",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsaks-eyes-filing-for-chapter-11-bankruptcy-as-soon-as-sunday",
-    "published": "Fri, 09 Jan 2026 14:06:47 CST",
-    "summary": "Saks Global Enterprises, the cash-strapped luxury retailer, is planning to\nfile for Chapter 11 bankruptcy protection as soon as Sunday, according to\npeople familiar with the matter.\n\n"
-  },
-  {
-    "title": "Oil Traders Confront New Iran Risks Days After Venezuela Crisis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Foil-traders-confront-new-iran-risks-days-after-venezuela-crisis",
-    "published": "Fri, 09 Jan 2026 14:05:38 CST",
-    "summary": "The oil market is becoming increasingly responsive to events in Iran, where\nthere have been deadly protests -- and and threats of US retaliation -- in the\npast several days.\n\n"
-  },
-  {
     "title": "How to Make, and Keep, New Year’s Financial Resolutions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fyour-money%2Fnew-years-financial-resolutions.html",
     "published": "Fri, 09 Jan 2026 14:00:08 CST",
     "summary": "Experts offered a variety of suggestions, including paring your list of goals,\nmaking saving automatic and avoiding spending temptations like marketing\nemails.\n\n"
   },
   {
-    "title": "Will Stock Markets Sizzle Into 2026?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fstock-market-investing-returns.html",
-    "published": "Fri, 09 Jan 2026 14:00:07 CST",
-    "summary": "Returns have been fabulous but consider the potential for setbacks in this\nalready hazardous year, our columnist says.\n\n"
-  },
-  {
-    "title": "US hiring held firm in December capping weakest year of growth since the pandemic",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fus-jobs-data-december-2025",
-    "published": "Fri, 09 Jan 2026 13:59:32 CST",
-    "summary": "Employers added 50,000 jobs, according to the US Bureau of Labor Statistics,\ndespite a year of uneven growth\n\nHiring held firm in the US last month, official data showed, amid uncertainty\nover the strength and direction of the world’s largest economy.\n\nEmployers added 50,000 jobs to the US labor force last month, capping the\nweakest year of growth since the pandemic, according to data released from the\nUS Bureau of Labor Statistics on Friday.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "US Unemployment Rate Declines to 4.4%, But Payrolls Fall Short of Forecasts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-unemployment-rate-falls-payrolls-rise-below-forecast-video",
-    "published": "Fri, 09 Jan 2026 13:58:15 CST",
-    "summary": "US job growth fell below expectations in December, with nonfarm payrolls\nincreasing by 50,000 last month after downward revisions to the prior two\nmonths, according to Bureau of Labor Statistics data out Friday. The\nunemployment rate fell to 4.4%. Michael McKee reports on Bloomberg Television.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Baillie Gifford Says UK Trust Didn’t Cut SpaceX Stake for Merger",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbaillie-gifford-says-uk-trust-didn-t-cut-spacex-stake-for-merger",
-    "published": "Fri, 09 Jan 2026 13:56:44 CST",
-    "summary": "Baillie Gifford & Co. pushed back against an attack by activist investor Boaz\nWeinstein, who’s demanded the Scottish fund house explain why one of its\ntrusts sold down a stake in SpaceX.\n\n"
-  },
-  {
-    "title": "Onex Seals $1.6 Billion Continuation Fund as It Eyes Expansion",
+    "title": "Onex Seals $1.6 Billion Continuation Fund, Eyes Expansion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fonex-seals-1-6-billion-continuation-fund-as-it-eyes-expansion",
     "published": "Fri, 09 Jan 2026 13:56:17 CST",
     "summary": "Onex Corp. collected $1.6 billion for a deal that will let it hold on to three\nassets for longer as the firm prepares for its next round of fundraising.\n\n"
-  },
-  {
-    "title": "ECB’s Lane Sees Euro Benefiting as Investors Question Dollar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fecb-s-lane-sees-euro-benefiting-as-investors-question-dollar",
-    "published": "Fri, 09 Jan 2026 13:46:30 CST",
-    "summary": "European Central Bank Chief Economist Philip Lane said he expects the euro to\nplay a bigger role in investors’ portfolios as US President Donald Trump’s\neconomic policies lead them to rethink their dollar holdings.\n\n"
   },
   {
     "title": "Traders See Almost No Chance of Fed Cut This Month After Data",
@@ -138,28 +216,10 @@
     "summary": "Treasuries fell and traders all but wiped out their bets that the Federal\nReserve would cut interest rates later this month after the unemployment rate\nfor December fell more than expected.\n\n"
   },
   {
-    "title": "Meloni Open to Eventual Sale of Italy’s Remaining Paschi Stake",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fmeloni-open-to-eventual-sale-of-italy-s-remaining-paschi-stake",
-    "published": "Fri, 09 Jan 2026 13:41:19 CST",
-    "summary": "Italy’s Prime Minister Giorgia Meloni said the government is open to selling\nits remaining Banca Monte dei Paschi di Siena SpA, even though there is “no\nrush” to do so.\n\n"
-  },
-  {
-    "title": "BNP Paribas Gains Three New Bulls as Analysts Say Stock Is Cheap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbnp-paribas-gains-three-new-bulls-as-analysts-say-stock-is-cheap",
-    "published": "Fri, 09 Jan 2026 13:24:09 CST",
-    "summary": "BNP Paribas SA gained a trio of bulls in one week as analysts turned positive\non the stock, with JPMorgan Chase & Co. calling it the cheapest bank in\nEurope.\n\n"
-  },
-  {
     "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
     "published": "Fri, 09 Jan 2026 13:19:31 CST",
     "summary": "China built a dominant strategic position in the region as the leading lender\nand trading partner. It is watching President Trump’s next moves closely.\n\n"
-  },
-  {
-    "title": "Polestar Sales Rise on Newer Models After Yet Another Bailout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fpolestar-sales-rise-on-newer-models-after-yet-another-bailout",
-    "published": "Fri, 09 Jan 2026 13:13:47 CST",
-    "summary": "Polestar Automotive Holding UK Plc is showing some promising signs with a jump\nin sales after the troubled electric-car maker required more handouts from its\nparent to keep going.\n\n"
   },
   {
     "title": "Trump to Meet Energy Executives, Outline Plan for Venezuela",
@@ -168,34 +228,10 @@
     "summary": "President Donald Trump is set to outline his vision for rebuilding Venezuela’s\nbattered oil sector Friday in a meeting with representatives from 17 energy\ncompanies, including crude producers, refiners and commodity traders.\n\n"
   },
   {
-    "title": "Credit Agricole Veteran Jean-Luc Lamarque Leaves After 30 Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcredit-agricole-veteran-jean-luc-lamarque-leaves-after-30-years",
-    "published": "Fri, 09 Jan 2026 13:10:39 CST",
-    "summary": "Bond market veteran Jean-Luc Lamarque has left Credit Agricole SA after a\ncareer at the bank spanning almost 30 years, according to a person familiar\nwith the matter.\n\n"
-  },
-  {
-    "title": "European Union Agrees to Landmark Free-Trade Deal With South America",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
-    "published": "Fri, 09 Jan 2026 13:08:59 CST",
-    "summary": "The agreement with Argentina, Brazil, Paraguay and Uruguay represents a push\nfor deeper global cooperation, in contrast to the United States turning to\ncoercion in its dealings with other countries.\n\n"
-  },
-  {
-    "title": "How Americans Can Actually Move to Europe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fhow-americans-can-actually-move-to-europe-video",
-    "published": "Fri, 09 Jan 2026 13:00:05 CST",
-    "summary": "More Americans are exploring a move to Europe. How can you actually make it\nhappen? Charlie Wells explains the options. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html",
     "published": "Fri, 09 Jan 2026 12:53:11 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "Worldline CEO Open to Further Disposals After Payment Scandal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fworldline-ceo-open-to-further-disposals-after-payment-scandal",
-    "published": "Fri, 09 Jan 2026 12:51:05 CST",
-    "summary": "Worldline SA is open to selling further assets outside of its core European\npayments offering as the firm attempts to streamline operations after a\nbruising 2025.\n\n"
   },
   {
     "title": "Minimum Wage Rises in Some States as Workers Struggle With Basic Costs",
@@ -204,22 +240,16 @@
     "summary": "This year, for the first time, more workers will live in states with a minimum\nwage of at least $15 per hour than in states with the federal minimum of\n$7.25.\n\n"
   },
   {
-    "title": "Bill Gates Makes a Multibillion-Dollar Divorce Payout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fdealbook%2Fgates-divorce-settlement.html",
-    "published": "Fri, 09 Jan 2026 12:43:02 CST",
-    "summary": "The billionaire and philanthropist has made a nearly $8 billion payment to the\nprivate foundation of his ex-wife, Melinda French Gates, new tax filings show.\n\n"
-  },
-  {
-    "title": "US Payrolls Rise Less Than Expected, Unemployment Dips",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-09%2Fus-employment-report-for-december",
-    "published": "Fri, 09 Jan 2026 12:41:18 CST",
-    "summary": "A worker arc welds a metal door in Sacramento, California. Photographer: David\nPaul Morris/Bloomberg\n\n"
-  },
-  {
     "title": "How IMAX crushed other theater stocks in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
     "published": "Fri, 09 Jan 2026 12:37:21 CST",
     "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
+  },
+  {
+    "title": "Cocoa Prices Fall as Exporter Hedges Offset Index Buying",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcocoa-prices-swing-as-exporter-hedges-offset-index-buying",
+    "published": "Fri, 09 Jan 2026 12:36:28 CST",
+    "summary": "Cocoa declined in New York, as exporters took advantage of buying related to\nindex rebalancing to lock in more favorable prices.\n\n"
   },
   {
     "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
@@ -240,28 +270,22 @@
     "summary": "It could be the year Main Street's appetite for cryptocurrency exposure\nmeaningfully grows.\n\n"
   },
   {
+    "title": "Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fnetflix-stock-is-pricey-even-after-warner-bros-induced-selloff",
+    "published": "Fri, 09 Jan 2026 11:34:13 CST",
+    "summary": "Shares of Netflix Inc. have tumbled since October, when the streaming giant\nbecame one of the presumed suitors for Warner Bros. Discovery Inc. But despite\na 28% plunge in less than three months, the stock still appears to be too\nexpensive to entice investors.\n\n"
+  },
+  {
     "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Fvenezuela-oil-trump.html",
     "published": "Fri, 09 Jan 2026 11:29:22 CST",
     "summary": "The amounts of money, time and political uncertainty trouble executives at\nlarge Western oil companies, who plan to meet with President Trump on Friday.\n\n"
   },
   {
-    "title": "Russia’s Attack With Oreshnik Missile Meant to Intimidate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frussia-s-oreshnik-missile-attack-aims-for-strategic-coercion",
-    "published": "Fri, 09 Jan 2026 11:07:04 CST",
-    "summary": "The Russian Oreshnik ballistic missile that hit the Ukrainian city of Lviv\ncarried no explosives and hit nothing of military value, implying it was meant\nto coerce rather than inflict major damage.\n\n"
-  },
-  {
-    "title": "Trump’s MBS Purchases Hand Traders Reason to Buy Long Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-s-mbs-purchases-hand-traders-reason-to-buy-long-term-bonds",
-    "published": "Fri, 09 Jan 2026 11:03:47 CST",
-    "summary": "By asking Fannie Mae and Freddie Mac to purchase $200 billion in mortgage\nbonds, US President Donald Trump is showing once again his determination to\nkeep down key market interest rates and, indirectly, apply pressure to the\nFederal Reserve.\n\n"
-  },
-  {
-    "title": "Rio Said to Be Open to Owning Coal to Unlock Glencore Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-tinto-said-to-be-open-to-owning-coal-if-it-buys-glencore",
-    "published": "Fri, 09 Jan 2026 10:23:56 CST",
-    "summary": "Rio Tinto Group is open to retaining Glencore Plc’s massive coal business if\nmerger talks between the two companies are successful, according to people\nfamiliar with the matter.\n\n"
+    "title": "Emerging Issuers Utilize Sellers’ Market as Spreads Narrow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fit-s-a-sellers-market-for-emerging-issuers-as-spreads-narrow",
+    "published": "Fri, 09 Jan 2026 10:54:35 CST",
+    "summary": "Emerging-market borrowers are taking advantage of a start of the year sellers’\nmarket, with spreads narrowing over US Treasuries and investors piling cash\ninto developing nations’ bonds.\n\n"
   },
   {
     "title": "With ‘The Rip,’ Netflix Makes an Exception for Ben Affleck and Matt Damon",
@@ -276,16 +300,10 @@
     "summary": "Exclusive: SIK leader Jess Berthelsen rejects Trump claim that the US needs\nGreenland for ‘national security’\n\nGreenland “will not be annexed”, the longtime leader of its largest labor\nunion has declared, refuting Donald Trump’s claims that the Arctic territory’s\ncurrent status poses a national security threat to the US.\n\nIn an interview with the Guardian, Jess Berthelsen, chair of SIK, Greenland’s\nnational trade union confederation, said people in the territory do not\nrecognize the US president’s allegations that Russian and Chinese ships are\nscattered throughout its waters. “We can’t see it, we can’t recognize it and\nwe can’t understand it,” he said.\n\nContinue reading...\n\n"
   },
   {
-    "title": "These Trump supporters don’t want ICE detention warehouses in their towns",
+    "title": "Georgia town of 5,000 vows to fight ICE plan to warehouse 9,000 detainees",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-immigration-ice-detention%2F",
     "published": "Fri, 09 Jan 2026 10:00:00 CST",
     "summary": "Some small cities and towns say they don’t have the sewer systems or other\ninfrastructure needed to absorb thousands of detainees.\n\n"
-  },
-  {
-    "title": "Yara Vows to Control Spending Amid Unease Over US Project",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fyara-to-keep-spending-strict-amid-concern-over-us-project-cost",
-    "published": "Fri, 09 Jan 2026 08:52:31 CST",
-    "summary": "Fertilizer giant Yara International ASA sought to assuage investor concerns\nthat capital spending could balloon as it seeks to expand ammonia production\nin the US.\n\n"
   },
   {
     "title": "Mining firms Rio Tinto and Glencore restart $260bn merger talks",
@@ -306,10 +324,16 @@
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
   },
   {
+    "title": "Gold Steadies as Mixed US Data Dims Fed Rate-Cut Bets This Month",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
+    "published": "Thu, 08 Jan 2026 23:58:50 CST",
+    "summary": "Gold steadied as traders maintained expectations that the Federal Reserve will\nhold rates steady at their January meeting, after key US jobs data gave mixed\nsignals about the health of the US economy.\n\n"
+  },
+  {
     "title": "Oil Holds Biggest Gain Since October as Iran Protests Escalate",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
     "published": "Thu, 08 Jan 2026 23:30:24 CST",
-    "summary": "Oil held onto its biggest daily gain since October, as Iran attempted to quell\nescalating protests while President Donald Trump threatened repercussions if\ndemonstrators were targeted.\n\n"
+    "summary": "Oil held onto its biggest daily gain since October, as Iran attempted to quell\nescalating protests and President Donald Trump threatened repercussions if\ndemonstrators were targeted.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
@@ -330,10 +354,10 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Treasuries Slip, Stocks Edge Higher After US Jobs: Markets Wrap",
+    "title": "Stocks Shrug Off Tariff, Rates Woes as Bonds Slip: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "Stocks edged higher while Treasuries remained under pressure after the latest\nUS jobs report reinforced Wall Street’s bets that the Federal Reserve will\nleave interest rates on hold for the near term.\n\n"
+    "summary": "US stocks climbed to session highs as investors brushed aside concerns about\nthe Trump administration’s tariff regime and data that suggested Federal\nReserve interest-rate cuts were unlikely in the near term. Bonds remained\nunder pressure.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
@@ -352,6 +376,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
+  },
+  {
+    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
+    "published": "Thu, 08 Jan 2026 21:10:04 CST",
+    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
   },
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
@@ -388,12 +418,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Thu, 08 Jan 2026 18:56:53 CST",
     "summary": "Regulators said they would look at whether the deal for Manus, a Singapore\nstart-up with Chinese roots, complied with China’s export and investment\nrules.\n\n"
-  },
-  {
-    "title": "Czech Defense Firm CSG Plans IPO Launch as Soon as Next Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fczech-defense-firm-csg-said-to-plan-ipo-launch-soon-as-next-week",
-    "published": "Thu, 08 Jan 2026 18:24:06 CST",
-    "summary": "Armored vehicle and munitions maker Czechoslovak Group AS is planning to\nlaunch an initial public offering in Amsterdam as soon as next week, according\nto people familiar with the matter.\n\n"
   },
   {
     "title": "Used vehicle pricing expected to increase 2% in 2026, a historically stable rate",
@@ -882,12 +906,6 @@
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
   },
   {
-    "title": "How Nicolás Maduro’s Capture Could Reshape the Global Order",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-global-order.html",
-    "published": "Mon, 05 Jan 2026 13:24:47 CST",
-    "summary": "The U.S. seizure of Venezuela’s president has governments, executives and\ninvestors bracing for wide-reaching business and geopolitical fallout.\n\n"
-  },
-  {
     "title": "‘Blood in the water’: Bari Weiss’s chaotic first three months in charge of CBS News",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F05%2Fbari-weiss-cbs-news",
     "published": "Mon, 05 Jan 2026 12:00:34 CST",
@@ -966,12 +984,6 @@
     "summary": "Fed Chair Jay Powell has so far skirted the question of whether he'll stay on\nwith the Fed when his term ends this year.\n\n"
   },
   {
-    "title": "Buffett says Berkshire has the best odds of any company for lasting 100 more years as he hands over reins",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fwarren-buffett-retirement-final-interview-berkshire-has-the-best-odds-of-lasting-a-century.html",
-    "published": "Fri, 02 Jan 2026 14:16:55 CST",
-    "summary": "Berkshire has \"a better chance I think of being here 100 years from now than\nany company I can think of,\" Buffett said.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Baidu, Wayfair, Tesla, Taiwan Semiconductor & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fstocks-making-the-biggest-moves-premarket-.html",
     "published": "Fri, 02 Jan 2026 14:10:28 CST",
@@ -1000,12 +1012,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F01%2Fram-trx-v8-pickup-truck.html",
     "published": "Thu, 01 Jan 2026 15:00:02 CST",
     "summary": "The 2027 Ram 1500 SRT TRX will be available late next year after a roughly\nthree-year hiatus for around $100,000.\n\n"
-  },
-  {
-    "title": "Home prices are getting slightly more affordable, but down payments are still holding buyers back",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F30%2Fhome-prices-affordable-down-payments-buyers.html",
-    "published": "Tue, 30 Dec 2025 17:56:27 CST",
-    "summary": "Housing is getting more affordable thanks to lower prices and lower mortgage\nrates, but it still takes more time to save for a down payment than pre-\npandemic.\n\n"
   },
   {
     "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
@@ -1060,12 +1066,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F16%2Fus%2Fpolitics%2Ftrump-administration-unemployment-rate-economy.html",
     "published": "Tue, 16 Dec 2025 20:33:08 CST",
     "summary": "The Trump administration looked to recast elements of a dour jobs report\nTuesday as a sign of strength.\n\n"
-  },
-  {
-    "title": "Jobs Report Could Provide Overdue Clarity on Uncertain Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F16%2Fbusiness%2Feconomy%2Fjobs-report-unemployment-november.html",
-    "published": "Tue, 16 Dec 2025 20:26:21 CST",
-    "summary": "Employers added 64,000 jobs in November, according to data delayed by the\ngovernment shutdown, but the unemployment rate rose to a four-year high of 4.6\npercent.\n\n"
   },
   {
     "title": "Europe May Roll Back Combustion Engine Ban",
