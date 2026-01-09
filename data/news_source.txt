@@ -1,9 +1,57 @@
 [
   {
+    "title": "The Trump Administration’s Case for Venezuela’s Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-oil-and-trump-s-plans-for-an-oil-empire",
+    "published": "Fri, 09 Jan 2026 22:22:27 CST",
+    "summary": "On today’s Big Take podcast: President Trump has big plans for Venezuela’s\noil. What will it take to make them a reality?\n\n"
+  },
+  {
+    "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
+    "published": "Fri, 09 Jan 2026 22:06:42 CST",
+    "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
+  },
+  {
+    "title": "Rio-Glencore Deal Closer Than Ever With Premium and CEO in Focus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-glencore-deal-closer-than-ever-with-premium-and-ceo-in-focus",
+    "published": "Fri, 09 Jan 2026 22:06:40 CST",
+    "summary": "Glencore Plc boss Gary Nagle has called it the most obvious deal in mining.\nHis predecessor and mentor Ivan Glasenberg has been trying to pull it off for\nnearly two decades. And yet the merger of Glencore with Rio Tinto Group has\nproven elusive – until now.\n\n"
+  },
+  {
+    "title": "Trump Says Venezuela Is Open for Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftrump-says-venezuela-is-open-for-business-video",
+    "published": "Fri, 09 Jan 2026 21:51:48 CST",
+    "summary": "President Donald Trump says China and Russia can buy all the oil they want\nfrom the US or Venezuela. He says there was no need for a second attack on the\ncountry after capturing former President Nicolás Maduro. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Data Center Electrical Equipment Maker Forgent Files for US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdata-center-electrical-equipment-maker-forgent-files-for-us-ipo",
+    "published": "Fri, 09 Jan 2026 21:49:56 CST",
+    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, filed for a US initial public offering.\n\n"
+  },
+  {
+    "title": "KKR Chief Operating Officer Ryan Stork Steps Down From Role",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkkr-chief-operating-officer-ryan-stork-steps-down-from-role",
+    "published": "Fri, 09 Jan 2026 21:48:41 CST",
+    "summary": "KKR & Co. Chief Operating Officer Ryan Stork is stepping down from his role\neffective immediately, the firm said in a regulatory filing.\n\n"
+  },
+  {
+    "title": "Hedge Funds Turn More Bullish on Oil Amid Venezuela, Iran Unrest",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-funds-turn-more-bullish-on-oil-amid-venezuela-iran-unrest",
+    "published": "Fri, 09 Jan 2026 21:41:47 CST",
+    "summary": "Hedge funds hiked bullish wagers on US crude to a five-month high as the\ninitial shock of the US capture of Venezuelan President Nicolás Maduro gave\nway to fears of stunted oil flows from the Middle East as deadly protests grip\nIran.\n\n"
+  },
+  {
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
-    "published": "Fri, 09 Jan 2026 21:39:14 CST",
+    "published": "Fri, 09 Jan 2026 21:39:15 CST",
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
+  },
+  {
+    "title": "Wall Street's Risk-On Fever Shows No Signs of Abating in New Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fwall-street-catches-early-cycle-fever-three-years-into-bull-run",
+    "published": "Fri, 09 Jan 2026 21:32:53 CST",
+    "summary": "Wall Street’s risk complex is booming anew. In the first full week of 2026, a\nsynchronized cross-asset rally -- from meme stocks and high-yield bonds to\nsmall-company shares -- shows no sign of slowing.\n\n"
   },
   {
     "title": "Exxon Takes Long View on Venezuela, CEO Says",
@@ -156,46 +204,10 @@
     "summary": "The decision is an about-face for the automaker, which has touted its sales\nleadership of the models, known as PHEVs, for years.\n\n"
   },
   {
-    "title": "Jobs Data Disappoints | Open Interest 1/9/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopen-interest-1-9-2026-video",
-    "published": "Fri, 09 Jan 2026 18:09:28 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Jobs data disappoints as markets hold their breath.\nRick Rieder of Blackrock weights in on the data. The Supreme Court keeps\nweighing the fate of President Trump’s tariffs. Koval Distillery founder Sonat\nBirnecker Hart joins us on how reciprocal tariffs hit her bottom line. Plus,\nthe AI power arms race heats up -- Meta locking in nuclear energy as Rio Tinto\ntalks Glencore. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Why There Isn’t Really a ‘Donroe Doctrine’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fwhy-there-isn-t-really-a-donroe-doctrine",
-    "published": "Fri, 09 Jan 2026 18:05:54 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "With ‘The Rip,’ Netflix Makes an Exception for Ben Affleck and Matt Damon",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fmedia%2Fnetflix-the-rip-ben-affleck-matt-damon.html",
     "published": "Fri, 09 Jan 2026 18:01:24 CST",
     "summary": "The streaming giant agreed to pay the entire production crew of the pair’s new\nmovie a bonus if the film performs well on the service.\n\n"
-  },
-  {
-    "title": "Apple Shares on Pace to Match Longest Losing Streak Since 1991",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fapple-shares-on-pace-to-match-longest-losing-streak-since-1991",
-    "published": "Fri, 09 Jan 2026 17:55:21 CST",
-    "summary": "Apple Inc. shares are on pace to tie their longest losing streak in more than\nthree decades.\n\n"
-  },
-  {
-    "title": "Hedge Fund Unifi Joins Billion-Dollar Club With Pension Backing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-fund-unifi-joins-billion-dollar-club-with-pension-backing",
-    "published": "Fri, 09 Jan 2026 17:44:28 CST",
-    "summary": "Unifi Asset Management, the hedge fund started by ex-One William Street\npartner Omer Gundogdu early last year, has joined the small group of newbie\nfirms that have topped the billion-dollar threshold in a tough fundraising\nclimate.\n\n"
-  },
-  {
-    "title": "KBW's Bullish Bank Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fkbw-s-bullish-bank-outlook-video",
-    "published": "Fri, 09 Jan 2026 17:40:09 CST",
-    "summary": "Bank earnings kick off next week--and 2026 guidance is already front and\ncenter. Christopher McGratty, KBW Head of US Bank Research joined Bloomberg\nOpen Interest to talk about why he expects double-digit EPS growth, where\ncapital returns are accelerating, and why he’s rotating into select regionals.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Tariffs Threaten American Craft Whiskey",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftariffs-threaten-american-craft-whiskey-video",
-    "published": "Fri, 09 Jan 2026 17:35:20 CST",
-    "summary": "As the Supreme Court defers a decision on challenges to President Trump’s\ntariffs, the uncertainty is already hitting small businesses. Retaliatory\ntariffs overseas have targeted American whiskey, squeezing exporters and\nthreatening shelf space abroad. Sonat Birnecker Hart, the founder and\npresident of Koval Distillery in Chicago, joined Bloomberg Open Interest to\ntalk about how trade wars are reshaping the craft spirits industry. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Venezuela’s Oil Industry: A Timeline of Key Events",
@@ -238,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
     "published": "Fri, 09 Jan 2026 16:14:42 CST",
     "summary": "Kevin Hassett said the White House could deploy alternative tariff authorities\nif the Supreme Court rules against President Donald Trump.\n\n"
-  },
-  {
-    "title": "The Market Bet With Zero Insider Trading",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fopinion-the-market-with-zero-insider-trading-video",
-    "published": "Fri, 09 Jan 2026 15:55:54 CST",
-    "summary": "Betting on the second coming of Jesus sounds ridiculous, but it avoids a big\nconcern on prediction markets, Bloomberg Opinion columnist Paul J. Davies\nsays. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Hillenbrand Deal Adds to M&amp;A Debt Wave in Junk Loan Market",
@@ -298,12 +304,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftraders-see-almost-no-shot-of-fed-rate-cut-this-month-after-data",
     "published": "Fri, 09 Jan 2026 13:43:53 CST",
     "summary": "Bond traders all but wiped out their bets that the Federal Reserve would cut\ninterest rates later this month after the unemployment rate for December fell\nmore than expected.\n\n"
-  },
-  {
-    "title": "Trump to Meet Energy Executives, Outline Plan for Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-to-meet-energy-executives-outline-plan-for-venezuela",
-    "published": "Fri, 09 Jan 2026 13:11:37 CST",
-    "summary": "President Donald Trump is set to outline his vision for rebuilding Venezuela’s\nbattered oil sector Friday in a meeting with representatives from 17 energy\ncompanies, including crude producers, refiners and commodity traders.\n\n"
   },
   {
     "title": "Doge cuts cost US taxpayers $10bn to cover workers’ paid leave, analysis finds",
@@ -382,6 +382,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
+  },
+  {
+    "title": "Gold Edges Up as Traders Weigh US Jobs Data, Fed Rate Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
+    "published": "Thu, 08 Jan 2026 23:58:50 CST",
+    "summary": "Gold edged higher as traders assessed the US Federal Reserve’s interest rate\noutlook after jobs data delivered mixed signals on the health of the world’s\nlargest economy.\n\n"
   },
   {
     "title": "Oil Posts Third Straight Weekly Gain as Iran Protests Escalate",
@@ -742,12 +748,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
     "published": "Tue, 06 Jan 2026 22:18:49 CST",
     "summary": "Although it's hard to say how much bitcoin could be held by Venezuela, it's\nlikely the regime has amassed considerable holdings of the token, experts\nsaid.\n\n"
-  },
-  {
-    "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fenergy-environment%2Fkairos-small-modular-nuclear-power.html",
-    "published": "Tue, 06 Jan 2026 22:17:14 CST",
-    "summary": "Companies like Kairos Power are building new types of reactors with the\nencouragement of the Trump administration, but their success is far from\nassured.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG & more",
