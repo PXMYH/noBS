@@ -1,9 +1,63 @@
 [
   {
+    "title": "Hopes rise for Chinese property support ahead of key March meeting",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fchina-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html",
+    "published": "Fri, 09 Jan 2026 06:44:40 CST",
+    "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
+  },
+  {
+    "title": "FTSE 100 Set to Rise Amid Mining Mega-Deal Talks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-09%2Fftse-100-live-glencore-rio-tinto-trump-oil-pound-bonds-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Fri, 09 Jan 2026 06:42:27 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "India’s 7.4% Growth: Strong Signal or Misleading Headline?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Findia-s-7-4-growth-strong-signal-or-misleading-headline",
+    "published": "Fri, 09 Jan 2026 06:31:48 CST",
+    "summary": "India’s economy posted a 7.4% growth rate, but is it as robust as it seems? On\nInsight with Haslinda Amin, India's former Chief Economic Advisor spoke to\nMenaka Doshi, breaks down the numbers, warning against overconfidence. He\nhighlights slowing nominal indicators, decelerating GDP trends, and external\npressures like tariff shocks and geopolitical tensions. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Natixis CIB’s Narain on APAC M&A Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fnatixis-cib-s-narain-on-apac-m-a-outlook-video",
+    "published": "Fri, 09 Jan 2026 06:12:48 CST",
+    "summary": "Raghu Narain, Head of APAC Investment Banking at Natixis CIB, shares his 2026\noutlook on deal‑making across Asia Pacific -- from M&A momentum to\nopportunities in tech, the energy transition, and regional growth. He joins\nPaul Allen exclusively on Bloomberg’s Insight with Haslinda Amin. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "US–Gulf Ties Shift as China Looms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-gulf-ties-shift-as-china-looms-video",
+    "published": "Fri, 09 Jan 2026 05:57:35 CST",
+    "summary": "From oil and arms to AI and chips, the Trump administration is reshaping its\nrelations with Gulf states around business interests. But Saudi Arabia, the\nUAE, and Qatar are hedging by deepening economic ties with China, raising\nquestions about whether Washington can remain the region’s dominant partner.\nOliver Crook reports. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Saudi Oil Sales to Asia to Remain Robust After Third Price Drop",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsaudi-oil-sales-to-asia-to-remain-robust-after-third-price-drop",
+    "published": "Fri, 09 Jan 2026 05:44:32 CST",
+    "summary": "Crude oil sales from Saudi Arabia to East Asia are set to persist above usual\nlevels after the world’s biggest exporter cut prices for a third month on\nsigns of oversupply in the market.\n\n"
+  },
+  {
+    "title": "Trump’s Rivalry With China Plays Out in a Sleepy Greek Port",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-09%2Fgreece-sees-us-china-rivalry-play-out-in-port-town-elefsina",
+    "published": "Fri, 09 Jan 2026 05:30:15 CST",
+    "summary": "The US doesn’t like Beijing’s ownership of the country’s biggest port, so it’s\ntrying to come up with an alternative plan.\n\n"
+  },
+  {
+    "title": "Australian Energy Storage Company Akaysha Is Said to Consider Stake Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Faustralian-energy-storage-company-akaysha-is-said-to-consider-stake-sale",
+    "published": "Fri, 09 Jan 2026 05:26:32 CST",
+    "summary": "Australia’s Akaysha Energy Pty is considering options to raise more funds,\nincluding selling a significant minority stake, as demand for energy storage\ngrows, according to people with knowledge of the matter.\n\n"
+  },
+  {
     "title": "Gave: Doubtful Oil Cos. Will Rush to Invest in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fgave-doubtful-oil-cos-will-rush-to-invest-in-venezuela-video",
     "published": "Fri, 09 Jan 2026 05:23:30 CST",
     "summary": "Gavekal Founding Partner and CEO Louis-Vincent Gave says he is doubtful\nwhether oil companies will rush to invest in Venezuela. He speaks with Paul\nAllen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Asia Stock Trader’s Guide to Looming Supreme Court Tariff Ruling",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fasia-stock-traders-guide-to-looming-supreme-court-tariff-ruling",
+    "published": "Fri, 09 Jan 2026 05:16:12 CST",
+    "summary": "Asian stock markets, having weathered turbulence from Donald Trump’s sweeping\ntariffs last year, face another inflection point as the US Supreme Court\nprepares to rule possibly as early as Friday on their validity.\n\n"
   },
   {
     "title": "Ghana Plans $935 Million Debut Domestic Infrastructure Bond Sale",
@@ -96,52 +150,10 @@
     "summary": "A significant chunk of Chinese copper demand has all but evaporated after the\nmetal’s stunning surge to record levels.\n\n"
   },
   {
-    "title": "Venezuela Is No Template for Taiwan, Eurasia's Wang Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fvenezuela-is-no-template-for-taiwan-eurasia-s-wang-says-video",
-    "published": "Fri, 09 Jan 2026 02:16:20 CST",
-    "summary": "While the US operation in Venezuela threatens to open up new flashpoints with\nChina, Eurasia Group's China Director Dan Wang argues that it will not\nembolden Beijing to seize Taiwan through military force. She believes China\nwill adopt a more cautious strategy toward Latin America, and potentially\nincrease more economic pressure on Taiwan. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Eli Lilly-Backed Aktis Oncology Gets $317.7 Million in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-oncology-gets-317-7-million-in-us-ipo",
-    "published": "Fri, 09 Jan 2026 02:08:33 CST",
-    "summary": "Aktis Oncology Inc., a clinical-stage biotechnology company that counts Eli\nLilly & Co. among its backers, raised $317.7 million in an initial public\noffering priced at the top of the marketed range.\n\n"
-  },
-  {
     "title": "Chinese Rebound in Consumer Prices Masks Deflationary Risk Ahead",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchinese-inflation-reaches-34-month-high-in-pickup-driven-by-food",
     "published": "Fri, 09 Jan 2026 01:38:38 CST",
     "summary": "China’s consumer-price growth accelerated last month thanks largely to higher\nfood costs, as deflationary risks stalk the world’s second-biggest economy in\nthe absence of more forceful stimulus measures.\n\n"
-  },
-  {
-    "title": "Hoa Phat Agriculture Raises $48 Million From Vietnam IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhoa-phat-agriculture-raises-48-million-from-vietnam-ipo",
-    "published": "Fri, 09 Jan 2026 01:28:57 CST",
-    "summary": "Hoa Phat Agriculture Development JSC raised about 1.257 trillion dong ($48\nmillion) in its initial public offering after receiving more bids than shares\nit offered.\n\n"
-  },
-  {
-    "title": "Rio Tinto in Talks to Buy Glencore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Frio-tinto-in-talks-to-buy-glencore-video",
-    "published": "Fri, 09 Jan 2026 01:19:11 CST",
-    "summary": "Rio Tinto Group is in talks to buy Glencore Plc to create the world’s biggest\nmining company with a combined market value of more than $200 billion.\nBloomberg's Clara Ferreira Marques shares what we know so far. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "BlueScope’s Top Investor Backs Rejection of $8.8 Billion Offer",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbluescope-s-top-investor-backs-rejection-of-8-8-billion-offer",
-    "published": "Fri, 09 Jan 2026 01:11:30 CST",
-    "summary": "BlueScope Steel Ltd.’s largest shareholder, AustralianSuper, backed the\ncompany’s rejection of a A$13.2 billion ($8.8 billion) takeover approach from\nSteel Dynamics Inc. and Australian conglomerate SGH Ltd., saying it\nundervalued the business.\n\n"
-  },
-  {
-    "title": "Cathay Pacific Seeks Savings, Cuts Some Jobs in Efficiency Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcathay-pacific-seeks-savings-cuts-some-jobs-in-efficiency-push",
-    "published": "Fri, 09 Jan 2026 01:00:57 CST",
-    "summary": "Cathay Pacific Airways Ltd. has asked all departments to identify savings and\nefficiencies in an attempt to rein in expenses, as Hong Kong’s flagship\ncarrier prepares for a slower rate of growth this year, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Bond Traders’ Risk-Filled Day Kicks Off With Key US Jobs Report",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fbond-traders-risk-filled-day-kicks-off-with-key-us-jobs-report",
-    "published": "Fri, 09 Jan 2026 01:00:00 CST",
-    "summary": "Bond traders are on guard for an especially volatile Friday as a pivotal US\njobs report and a potential Supreme Court ruling on President Donald Trump’s\ntariffs threaten to jolt the Treasuries market out of its doldrums.\n\n"
   },
   {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
@@ -150,16 +162,16 @@
     "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
   },
   {
-    "title": "NBA Star Jaylen Brown on Entrepreneurial Goals, Player Equity",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fnba-s-jaylen-brown-on-entrepreneurial-goals-union-role-video",
-    "published": "Fri, 09 Jan 2026 00:28:15 CST",
-    "summary": "Bloomberg hosts a fireside chat with Jaylen Brown of the Boston Celtics.\nJaylen is a four-time NBA All-Star, Finals MVP, entrepreneur and\nphilanthropist. The conversation focuses on his efforts to build a modern day\nBlack Wall Street in the Boston area and his other philanthropic and\nentrepreneurial endeavors. Brown also discusses his leadership role in the NBA\nplayers union. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "NBA Star Jaylen Brown Calls for Player Equity",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fnba-star-jaylen-brown-calls-for-player-equity-video",
     "published": "Fri, 09 Jan 2026 00:18:06 CST",
     "summary": "Jaylen Brown of the Boston Celtics, a four-time NBA All-Star, Finals MVP,\nentrepreneur and philanthropist says players should be allowed to build equity\nalongside owners, arguing the league’s labor rules lag far behind the wealth\ncreated by the sport. He speaks with Brooke Sutherland in Boston. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Gold Heads for Weekly Gain as Traders Turn Attention to US Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
+    "published": "Thu, 08 Jan 2026 23:58:50 CST",
+    "summary": "Gold headed for a weekly gain, as traders looked to US jobs data due Friday\nfor clues to the Federal Reserve’s next move on interest rates.\n\n"
   },
   {
     "title": "Oil Extends Gain as Traders Focus on Iran Risks and Venezuela",
@@ -174,7 +186,7 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "MiniMax Jumps 54% in Hong Kong Debut After $619 Million IPO",
+    "title": "MiniMax Jumps 91% in Hong Kong Debut After $619 Million IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fai-firm-minimax-set-for-hong-kong-debut-after-619-million-ipo",
     "published": "Thu, 08 Jan 2026 23:00:00 CST",
     "summary": "MiniMax Group Inc., one of China’s largest generative AI startups, surged in\nHong Kong after an initial public offering that raised $619 million.\n\n"
@@ -192,10 +204,10 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Stocks Range-Bound Before Jobs Data, Tariff Ruling: Markets Wrap",
+    "title": "Dollar Edges Up Before Jobs Data, Tariff Ruling: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "Asian equities traded in a narrow range in the run-up to Friday’s US payrolls\nreport and a possible Supreme Court ruling on President Donald Trump’s\ntariffs.\n\n"
+    "summary": "The dollar rose along with Treasury yields as investors brace for Friday’s US\npayrolls report and a possible Supreme Court ruling on President Donald\nTrump’s tariffs. Oil extended gains.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
@@ -352,12 +364,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgic-baillie-gifford-are-said-to-buy-shares-in-minimax-s-hong-kong-ipo",
     "published": "Thu, 08 Jan 2026 08:18:00 CST",
     "summary": "Investment firm Baillie Gifford and Singapore’s sovereign wealth fund GIC Pte\nare among those buying shares in MiniMax Group Inc.’s much-awaited HK$4.8\nbillion ($619 million) initial public offering in Hong Kong, according to\npeople familiar with the matter.\n\n"
-  },
-  {
-    "title": "Chinese Teahouse Chain Chagee Is Said to Explore Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fchinese-teahouse-chain-chagee-is-said-to-explore-hong-kong-listing",
-    "published": "Thu, 08 Jan 2026 04:24:01 CST",
-    "summary": "Chinese tea chain Chagee Holdings Ltd. is considering a listing in Hong Kong,\naccording to people familiar with the matter, joining a rush of firms being\ndrawn to sell shares in the Asian financial hub.\n\n"
   },
   {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
@@ -976,12 +982,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F31%2Fstocks-making-the-biggest-moves-midday-nke-cort-tsm.html",
     "published": "Wed, 31 Dec 2025 17:22:36 CST",
     "summary": "These are the stocks posting the largest moves midday.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Intel, Hyatt Hotels, Taiwan Semiconductor & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2025%2F12%2F31%2Fstocks-making-the-biggest-moves-premarket-intc-h-tsm.html",
-    "published": "Wed, 31 Dec 2025 14:33:50 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
     "title": "Tech startup Hyphen is bringing AI to the lunch line — with help from Cava and Chipotle",
