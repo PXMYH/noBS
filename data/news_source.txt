@@ -1,5 +1,17 @@
 [
   {
+    "title": "Alibaba Shares Rise as China Plans Approval of H200 Imports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Falibaba-shares-rise-as-china-plans-approval-of-h200-imports",
+    "published": "Fri, 09 Jan 2026 04:27:17 CST",
+    "summary": "Alibaba Group Holding Ltd. shares jumped on optimism that the tech giant can\nbenefit if Nvidia Corp.’s H200 chips are made available in China.\n\n"
+  },
+  {
+    "title": "LG Energy Sees Surprise Fourth Quarter Loss as EV Demand Slows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Flg-energy-sees-surprise-fourth-quarter-loss-as-ev-demand-slows",
+    "published": "Fri, 09 Jan 2026 04:21:49 CST",
+    "summary": "LG Energy Solution Ltd. reported a surprise preliminary operating loss for the\nfourth-quarter as slowing demand for electric vehicles, including the rollback\nof subsidies in some markets, darkens the outlook for South Korea’s largest\nbattery maker.\n\n"
+  },
+  {
     "title": "US Developer Glenfarne Launches Financing for Texas LNG Project",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-developer-glenfarne-launches-financing-for-texas-lng-project",
     "published": "Fri, 09 Jan 2026 03:52:03 CST",
@@ -54,10 +66,10 @@
     "summary": "Aktis Oncology Inc., a clinical-stage biotechnology company that counts Eli\nLilly & Co. among its backers, raised $317.7 million in an initial public\noffering priced at the top of the marketed range.\n\n"
   },
   {
-    "title": "China Inflation Hits 34-Month High in Rebound Driven by Food",
+    "title": "Chinese Rebound in Consumer Prices Masks Deflationary Risk Ahead",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchinese-inflation-reaches-34-month-high-in-pickup-driven-by-food",
     "published": "Fri, 09 Jan 2026 01:38:38 CST",
-    "summary": "China’s inflation accelerated last month at the fastest pace in nearly three\nyears, in an upswing largely driven by higher food costs that are masking\ndeeper deflationary pressure.\n\n"
+    "summary": "China’s consumer-price growth accelerated last month thanks largely to higher\nfood costs, as deflationary risks stalk the world’s second-biggest economy in\nthe absence of more forceful stimulus measures.\n\n"
   },
   {
     "title": "Hoa Phat Agriculture Raises $48 Million From Vietnam IPO",
@@ -138,22 +150,10 @@
     "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Bank of America Merrill Lynch’s Jill Carey Hall, Cyera’s\nYotam Segev, Morgan Stanley’s Betsy Graseck, Development Partners\nInternational’s Runa Alam, Franklin Templeton’s Berkeley Belknap, Former\nReserve Bank of India Governor Raghuram Rajan, Council on Foreign Relations’\nShannon O’Neil, Hamilton Lane’s Elizabeth Bell, Brown Harris Stevens’ Bess\nFreedman, IMAX’s Richard Gelfond. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Defense Stocks Rebound as Markets Eye Jobs Report and Tariff Ruling | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fmarkets-eye-jobs-report-and-tariff-ruling-closing-bell-video",
-    "published": "Thu, 08 Jan 2026 23:32:40 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Oil Extends Gain as Traders Focus on Iran Risks and Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
     "published": "Thu, 08 Jan 2026 23:30:24 CST",
     "summary": "Oil extended a gain as the market weighed US President Donald Trump’s threat\nagainst Iran, while also focusing on his administration’s moves to exert\ncontrol over Venezuela’s exports and energy sector.\n\n"
-  },
-  {
-    "title": "IMAX CEO: Much More Demand From Filmmakers for Our Tech",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-08%2Fimax-ceo-much-more-demand-from-filmmakers-for-our-tech-video",
-    "published": "Thu, 08 Jan 2026 23:20:16 CST",
-    "summary": "Richard Gelfond, IMAX CEO, says 2025 was a record year for the IMAX box\noffice. He speaks with Romaine Bostick and Katie Greifeld on “The Close.”\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Mortgage Bonds, Home Lenders Jump as Trump Targets Housing Costs",
@@ -196,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F08%2Fgeneral-motors-earnings-loss",
     "published": "Thu, 08 Jan 2026 22:12:29 CST",
     "summary": "GM says end of tax incentives and less stringent emissions regulations slowed\nconsumer demand for EVs in 2025\n\nGeneral Motors said on Thursday it will record a one-time earnings hit of\n$7.1bn in its quarterly financial results, mostly due to its pullback from\nelectric vehicles in light of shifting US policies.\n\nThe Detroit auto giant’s fourth-quarter results will be dented by $6bn in\ncharges connected to reversals on EV investments, according to a securities\nfiling. The remaining $1.1bn includes costs from the company’s restructuring\nof its China operations.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Mortgage Bonds Rally as Trump Demands $200 Billion of Purchases",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fmortgage-bonds-rally-as-trump-demands-200-billion-of-purchases",
-    "published": "Thu, 08 Jan 2026 21:59:16 CST",
-    "summary": "Mortgage backed securities rallied relative to Treasuries on Thursday after US\nPresident Donald Trump said he was directing the purchase of $200 billion of\nmortgage bonds.\n\n"
   },
   {
     "title": "House votes to subpoena journalist over report on Delta Force commander",
