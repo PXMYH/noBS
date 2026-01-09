@@ -1,9 +1,51 @@
 [
   {
-    "title": "China Vanke Preps Debt Restructuring Plan in Move Toward Default",
+    "title": "US Jobs: What to Expect From Today's Payrolls Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fus-jobs-what-to-expect-from-today-s-payrolls-data-video",
+    "published": "Fri, 09 Jan 2026 08:48:33 CST",
+    "summary": "Themis Themistocleous, EMEA CIO at UBS Global Wealth Management, previews\ntoday's nonfarm payrolls data and its potential impact on the Federal\nReserve's interest-rate trajectory. Speaking on Bloomberg Television, he also\ncomments on the Supreme Court's looming decision on the legality of President\nDonald Trump's tariffs. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Vodafone Idea Is Said to Consider Raising Debt to Boost Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvodafone-idea-is-said-to-consider-raising-debt-to-boost-growth",
+    "published": "Fri, 09 Jan 2026 08:27:32 CST",
+    "summary": "Vodafone Idea Ltd. is considering raising debt financing to accelerate growth,\npeople familiar with the matter said, following the Indian government’s\ndecision to cap annual payouts for past spectrum fees.\n\n"
+  },
+  {
+    "title": "Venezuelan Oil Being Held at Sea Swells After US Intervention",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuelan-oil-being-held-at-sea-swells-after-us-intervention",
+    "published": "Fri, 09 Jan 2026 08:07:29 CST",
+    "summary": "The volume of Venezuelan crude floating at sea has spiked to the highest level\nin more than three years after the US seized the country’s leader, Nicolas\nMaduro, and asserted control over its energy resources.\n\n"
+  },
+  {
+    "title": "India’s Economy at Risk From Higher Tariffs, Says Former Adviser",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Findia-s-economy-at-risk-from-higher-tariffs-says-former-adviser",
+    "published": "Fri, 09 Jan 2026 08:05:45 CST",
+    "summary": "India’s economy is not showing signs of a robust recovery and the risk of\nhigher US tariffs as well as increased dumping of low-cost Chinese goods could\nweaken the outlook, former Chief Economic Adviser Arvind Subramanian said in\nan interview.\n\n"
+  },
+  {
+    "title": "Trump’s Tariffs Ruling; Rio Tinto, Glencore Merger | Horizons Middle East & Africa 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fhorizons-middle-east-and-africa-1-9-2026-video",
+    "published": "Fri, 09 Jan 2026 07:51:54 CST",
+    "summary": "Stocks swing as markets brace for the US payrolls report and a possible\nSupreme Court ruling on US President Donald Trump's reciprocal tariffs. Also\non the show: Rio Tinto and Glencore resuming talks to create what could become\nthe world's biggest mining company; Zambia says it will seek a new loan\nprogram with the IMF; Saudi Arabia is moving to end the UAE's role in Yemen;\nsecurity guarantees for Ukraine are a key sticking point as Trump seeks to\nbroker a peace deal to end Russia's war. Guests include: Brett McGonegal,\nCapital Link, CEO; Casey Sprake, AG Capital, Market Strategist. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "IAG Switches Finance Chief, With Cadbury Departing in June",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fiag-switches-finance-chief-with-cadbury-leaving-in-2026",
+    "published": "Fri, 09 Jan 2026 07:38:21 CST",
+    "summary": "IAG SA, the parent of British Airways, said Chief Financial Officer Nicholas\nCadbury will step down and leave the group in the middle of the year.\n\n"
+  },
+  {
+    "title": "China Vanke Preps Restructuring Plan in Move Toward Default",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-vanke-preps-debt-restructuring-plan-in-move-toward-default",
     "published": "Fri, 09 Jan 2026 07:30:59 CST",
     "summary": "China Vanke Co. is preparing a debt restructuring plan at the request of\nauthorities, people familiar with the matter said, pushing one of the\ncountry’s largest real estate developers closer to default.\n\n"
+  },
+  {
+    "title": "RRJ Capital Raises $1.1 Billion for Debut Private Credit Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frrj-capital-raises-1-1-billion-for-debut-private-credit-fund",
+    "published": "Fri, 09 Jan 2026 07:25:15 CST",
+    "summary": "RRJ Capital, a private equity firm founded by a former Goldman Sachs Group\nInc. banker, raised $1.1 billion via the first round of financing for its\ndebut private credit fund focusing on investments in Asia Pacific, according\nto people familiar with the matter.\n\n"
   },
   {
     "title": "Copper Pushes Higher With Metals Set for Fourth Weekly Advance",
@@ -12,16 +54,22 @@
     "summary": "Base metals including copper and aluminum pushed higher, extending a powerful\nrally for the sector on concerns about tightening supplies, as well as rising\ninvestor enthusiasm for commodities.\n\n"
   },
   {
-    "title": "Sainsbury’s Christmas Sales Disappoint as UK Retail Struggles",
+    "title": "Sainsbury’s Food Growth Undermined by Wider UK Retail Slump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fsainsbury-s-christmas-sales-disappoint-as-uk-retail-struggles",
     "published": "Fri, 09 Jan 2026 07:21:09 CST",
-    "summary": "J Sainsbury Plc reported weaker-than-expected sales over the holiday season,\njoining the list of British retailers that faced a tough Christmas.\n\n"
+    "summary": "J Sainsbury Plc reported solid food sales over the holiday season but faced\nweak demand for clothing and electricals over a challenging Christmas for\nBritish retailers.\n\n"
   },
   {
-    "title": "German Production Unexpectedly Rises on Pickup in Auto Output",
+    "title": "German Production Unexpectedly Rises on Higher Auto Output",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fgerman-production-unexpectedly-rises-on-pickup-in-auto-output",
     "published": "Fri, 09 Jan 2026 07:16:55 CST",
     "summary": "German industrial production unexpectedly increased for a third month, the\nlatest signal that a recovery might be taking hold in Europe’s biggest\neconomy.\n\n"
+  },
+  {
+    "title": "Insight with Haslinda Amin 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Finsight-with-haslinda-amin-1-9-2026-video",
+    "published": "Fri, 09 Jan 2026 06:51:10 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Modi’s Failure to Call Trump Derailed Trade Deal, Lutnick Says",
@@ -36,7 +84,7 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
-    "title": "FTSE 100 Set to Rise Amid Mining Mega-Deal Talks",
+    "title": "FTSE 100 Buoyed by Glencore-Rio Tinto Merger Talks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-09%2Fftse-100-live-glencore-rio-tinto-trump-oil-pound-bonds-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Fri, 09 Jan 2026 06:42:27 CST",
     "summary": "\n\n"
@@ -84,28 +132,10 @@
     "summary": "Gavekal Founding Partner and CEO Louis-Vincent Gave says he is doubtful\nwhether oil companies will rush to invest in Venezuela. He speaks with Paul\nAllen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Asia Stock Trader’s Guide to Looming Supreme Court Tariff Ruling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fasia-stock-traders-guide-to-looming-supreme-court-tariff-ruling",
-    "published": "Fri, 09 Jan 2026 05:16:12 CST",
-    "summary": "Asian stock markets, having weathered turbulence from Donald Trump’s sweeping\ntariffs last year, face another inflection point as the US Supreme Court\nprepares to rule possibly as early as Friday on their validity.\n\n"
-  },
-  {
-    "title": "Ghana Plans $935 Million Debut Domestic Infrastructure Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fghana-plans-935-million-debut-domestic-infrastructure-bond-sale",
-    "published": "Fri, 09 Jan 2026 05:15:00 CST",
-    "summary": "Ghana is planning to raise 10 billion cedis ($935 million) in its first\ndomestic infrastructure bond issuance to fund roads and interchanges in the\nWest African nation, according to two people familiar with the matter.\n\n"
-  },
-  {
     "title": "Korea to Launch 24-Hour FX Trading in July to Secure Upgrade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkorea-to-launch-24-hour-fx-trading-in-july-to-secure-upgrade",
     "published": "Fri, 09 Jan 2026 05:00:26 CST",
     "summary": "South Korea will introduce 24-hour foreign exchange trading in July and relax\nrules for offshore transactions by September, the latest step in its years-\nlong effort to secure developed-market status from MSCI Inc.\n\n"
-  },
-  {
-    "title": "Call Me Mrs. Crisis: Lagarde Confronts Europe’s Perils in Last Act",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchristine-lagarde-ecb-chief-on-inflation-trump-and-central-bank-independence",
-    "published": "Fri, 09 Jan 2026 05:00:17 CST",
-    "summary": "The woman who calls herself Europe’s “Mrs. Crisis” is approaching the final\nstretch of her career with the world barely recognizable from the one she once\nknew.\n\n"
   },
   {
     "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
@@ -114,52 +144,16 @@
     "summary": "Nicolai Tangen wanted to raise the profile of Norway’s $2.1 trillion oil fund\nand change corporate behavior, but he may have helped embroil it in a\ngeopolitical tangle.\n\n"
   },
   {
-    "title": "The China Show 1/9/2026 (Video)",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fthe-china-show-1-9-2026-video",
-    "published": "Fri, 09 Jan 2026 04:35:49 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Rio, Glencore In Talks to Form World's Biggest Miner | The Asia Trade 1/9/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fthe-asia-trade-1-9-2025-video",
-    "published": "Fri, 09 Jan 2026 04:28:25 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Alibaba Shares Rise as China Plans Approval of H200 Imports",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Falibaba-shares-rise-as-china-plans-approval-of-h200-imports",
-    "published": "Fri, 09 Jan 2026 04:27:17 CST",
-    "summary": "Alibaba Group Holding Ltd. shares jumped on optimism that the tech giant can\nbenefit if Nvidia Corp.’s H200 chips are made available in China.\n\n"
-  },
-  {
     "title": "LG Energy Sees Surprise Loss as EV Demand Outlook Cools",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Flg-energy-sees-surprise-fourth-quarter-loss-as-ev-demand-slows",
     "published": "Fri, 09 Jan 2026 04:21:49 CST",
     "summary": "LG Energy Solution Ltd. reported a surprise preliminary operating loss for the\nfourth quarter, as the slow unraveling of electric vehicle demand in key\nmarkets darkens the outlook for South Korea’s largest battery maker.\n\n"
   },
   {
-    "title": "US Developer Glenfarne Launches Financing for Texas LNG Project",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fus-developer-glenfarne-launches-financing-for-texas-lng-project",
-    "published": "Fri, 09 Jan 2026 03:52:03 CST",
-    "summary": "Privately-held US developer Glenfarne Group LLC said it’s in the process of\nfinancing its planned liquefied natural gas export project in Texas.\n\n"
-  },
-  {
-    "title": "BNP's Mateos y Lago on Outlook for 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbnp-s-mateos-y-lago-on-outlook-for-2026-video",
-    "published": "Fri, 09 Jan 2026 03:34:48 CST",
-    "summary": "BNP Paribas Chief Economist Isabelle Mateos y Lago speaks on Bloomberg TV\nabout the growth outlook for equities in 2026, and shares her thoughts on\nwhether optimism towards AI and tech stocks will endure. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "China’s Industrial Buyers Shun Copper After Prices Hit Record",
+    "title": "Chinese Demand for Copper Vanishes After Prices Hit Record",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchina-s-industrial-buyers-shun-copper-after-prices-hit-record",
     "published": "Fri, 09 Jan 2026 02:28:09 CST",
     "summary": "A significant chunk of Chinese copper demand has all but evaporated after the\nmetal’s stunning surge to record levels.\n\n"
-  },
-  {
-    "title": "Chinese Rebound in Consumer Prices Masks Deflationary Risk Ahead",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fchinese-inflation-reaches-34-month-high-in-pickup-driven-by-food",
-    "published": "Fri, 09 Jan 2026 01:38:38 CST",
-    "summary": "China’s consumer-price growth accelerated last month thanks largely to higher\nfood costs, as deflationary risks stalk the world’s second-biggest economy in\nthe absence of more forceful stimulus measures.\n\n"
   },
   {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
@@ -204,10 +198,10 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Dollar Edges Up Before Jobs Data, Tariff Ruling: Markets Wrap",
+    "title": "Dollar Hits One-Month High Ahead of US Payrolls: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "The dollar rose along with Treasury yields as investors brace for Friday’s US\npayrolls report and a possible Supreme Court ruling on President Donald\nTrump’s tariffs. Oil extended gains.\n\n"
+    "summary": "The dollar rose along with Treasury yields as investors braced for Friday’s US\npayrolls report and a possible Supreme Court ruling on President Donald\nTrump’s tariffs. US stock futures wavered.\n\n"
   },
   {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
@@ -226,6 +220,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
+  },
+  {
+    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
+    "published": "Thu, 08 Jan 2026 21:10:04 CST",
+    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
   },
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
