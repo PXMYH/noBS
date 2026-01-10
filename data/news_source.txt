@@ -1,5 +1,11 @@
 [
   {
+    "title": "Nephew of Former Thai Premier Thaksin Faces Balancing Act to Win Over Electorate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fthaksin-nephew-faces-balancing-act-to-win-over-thai-electorate",
+    "published": "Sat, 10 Jan 2026 22:55:16 CST",
+    "summary": "Yodchanan Wongsawat, the Pheu Thai Party’s top candidate for prime minister,\nfaces a delicate balancing act in his quest to run the Southeast Asian country\n-- he must leverage his family’s legacy to win the support of the party\nfaithful, while showing he has fresh ideas to revitalize the economy.\n\n"
+  },
+  {
     "title": "US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters",
     "published": "Sat, 10 Jan 2026 22:09:08 CST",
@@ -274,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwyclef-jean-on-new-role-as-circle-global-culture-advisor-video",
     "published": "Fri, 09 Jan 2026 23:08:13 CST",
     "summary": "Wyclef Jean, Fugees founding member and Circle Global Culture advisor, and\nKash Razzaghi, Circle chief business officer, discuss bringing stablecoin\ninnovation to the global stage with Romaine Bostick and Katie Greifeld on “The\nClose.” Jean says he wants to promote a borderless vision for stablecoins.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Lindsay Rosner on Jobs Report, Fed Monetary Policy, Mortgages",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Flindsay-rosner-on-jobs-report-fed-policy-mortgages-video",
-    "published": "Fri, 09 Jan 2026 23:04:58 CST",
-    "summary": "Lindsay Rosner, head of multi-sector fixed income investing at Goldman Sachs\nAsset Management speaks with Scarlet Fu about the jobs report, Fed monetary\npolicy and President Trump's mortgage bond announcement. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
