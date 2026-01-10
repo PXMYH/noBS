@@ -1,5 +1,17 @@
 [
   {
+    "title": "Troubled World Heralds Next Stage of the Defense Stocks Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Ftroubled-world-heralds-next-stage-of-the-defense-stocks-rally",
+    "published": "Sat, 10 Jan 2026 09:30:00 CST",
+    "summary": "If the tumultuous first 10 days of 2026 have convinced investors in Europe and\nAsia of anything, it’s that defense stocks are poised for another strong year.\n\n"
+  },
+  {
+    "title": "Gold Investors Stay Bullish After Record Rally in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fgold-investors-stay-bullish-after-record-rally-in-2025",
+    "published": "Sat, 10 Jan 2026 08:30:00 CST",
+    "summary": "After one of the most explosive rallies in modern market history, few\ninvestors expect gold to pull off a repeat in 2026. But many top money\nmanagers are still betting on further gains, arguing that the forces that\npropelled bullion to a record remain in place.\n\n"
+  },
+  {
     "title": "Stock Stamp Duty May Hand Hong Kong Operating Surplus, RTHK Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fstock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says",
     "published": "Sat, 10 Jan 2026 07:15:36 CST",
@@ -186,28 +198,10 @@
     "summary": "Glencore Plc boss Gary Nagle has called it the most obvious deal in mining.\nHis predecessor and mentor Ivan Glasenberg has been trying to pull it off for\nnearly two decades. And yet the merger of Glencore with Rio Tinto Group has\nproven elusive – until now.\n\n"
   },
   {
-    "title": "Trump Says Venezuela Is Open for Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Ftrump-says-venezuela-is-open-for-business-video",
-    "published": "Fri, 09 Jan 2026 21:51:48 CST",
-    "summary": "President Donald Trump says China and Russia can buy all the oil they want\nfrom the US or Venezuela. He says there was no need for a second attack on the\ncountry after capturing former President Nicolás Maduro. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Data Center Electrical Equipment Maker Forgent Files for US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdata-center-electrical-equipment-maker-forgent-files-for-us-ipo",
-    "published": "Fri, 09 Jan 2026 21:49:56 CST",
-    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, filed for a US initial public offering.\n\n"
-  },
-  {
     "title": "KKR Chief Operating Officer Ryan Stork Steps Down From Role",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkkr-chief-operating-officer-ryan-stork-steps-down-from-role",
     "published": "Fri, 09 Jan 2026 21:48:41 CST",
     "summary": "KKR & Co. Chief Operating Officer Ryan Stork is stepping down from his role\neffective immediately, the firm said in a regulatory filing.\n\n"
-  },
-  {
-    "title": "Hedge Funds Turn More Bullish on Oil Amid Venezuela, Iran Unrest",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-funds-turn-more-bullish-on-oil-amid-venezuela-iran-unrest",
-    "published": "Fri, 09 Jan 2026 21:41:47 CST",
-    "summary": "Hedge funds hiked bullish wagers on US crude to a five-month high as the\ninitial shock of the US capture of Venezuelan President Nicolás Maduro gave\nway to fears of stunted oil flows from the Middle East as deadly protests grip\nIran.\n\n"
   },
   {
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
@@ -502,6 +496,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Thu, 08 Jan 2026 18:56:53 CST",
     "summary": "Regulators said they would look at whether the deal for Manus, a Singapore\nstart-up with Chinese roots, complied with China’s export and investment\nrules.\n\n"
+  },
+  {
+    "title": "Vitol, Trafigura Are in Talks With US Refiners to Gauge Interest in Venezuelan Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fvitol-is-in-talks-with-us-refiners-to-gauge-interest-in-venezuela-s-oil",
+    "published": "Thu, 08 Jan 2026 17:53:41 CST",
+    "summary": "Trafigura Group and Vitol Group, two of the world’s largest commodities\ntrading houses, are in discussions with US refiners to gauge interest in\nbuying Venezuelan oil after President Donald Trump said the South American\ncountry would relinquish as many as 50 million barrels to the US.\n\n"
   },
   {
     "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
