@@ -1,5 +1,11 @@
 [
   {
+    "title": "Switzerland’s Secret Sauce on Jobs Is a Model Merz Can Dream of",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fswitzerland-s-secret-sauce-on-jobs-is-a-model-merz-can-dream-of",
+    "published": "Sat, 10 Jan 2026 06:00:00 CST",
+    "summary": "Switzerland’s economic resilience is showcasing the prowess of one of Europe’s\nmost business-friendly domains, where companies can fire workers with relative\nimpunity.\n\n"
+  },
+  {
     "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fvolkswagen-tariffs-trump.html",
     "published": "Sat, 10 Jan 2026 05:00:04 CST",
@@ -304,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
     "published": "Fri, 09 Jan 2026 16:14:42 CST",
     "summary": "Kevin Hassett said the White House could deploy alternative tariff authorities\nif the Supreme Court rules against President Donald Trump.\n\n"
-  },
-  {
-    "title": "Trump Posted Unpublished Jobs Data Early on Social Media",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftrump-posted-unpublished-jobs-data-early-in-social-media-post",
-    "published": "Fri, 09 Jan 2026 15:25:09 CST",
-    "summary": "President Donald Trump posted a chart on social media Thursday evening that\nincluded figures in the yet-to-be released December employment report.\n\n"
   },
   {
     "title": "Will Stock Markets Sizzle Into 2026?",
