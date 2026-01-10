@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
+    "published": "Sat, 10 Jan 2026 18:48:49 CST",
+    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
+  },
+  {
     "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
     "published": "Sat, 10 Jan 2026 15:19:51 CST",
@@ -28,12 +34,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F",
     "published": "Sat, 10 Jan 2026 14:27:14 CST",
     "summary": "Financial institutions and other credit card issuers say the cap, which the\npresident wants in effect by Jan. 20, would limit consumers’ access to credit.\n\n"
-  },
-  {
-    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
-    "published": "Sat, 10 Jan 2026 14:20:04 CST",
-    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
   },
   {
     "title": "China AI Leaders Warn of Widening Gap With US After $1B IPO Week",
