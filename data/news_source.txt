@@ -1,8 +1,14 @@
 [
   {
+    "title": "US Inflation to Pick Up After Muddy November CPI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-inflation-to-pick-up-after-muddy-november-cpi",
+    "published": "Sat, 10 Jan 2026 21:00:00 CST",
+    "summary": "US consumers probably experienced only a modest pickup in inflation as 2025\ndrew to a close, consistent with price pressures that are gradually abating.\n\n"
+  },
+  {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
-    "published": "Sat, 10 Jan 2026 20:27:30 CST",
+    "published": "Sat, 10 Jan 2026 20:27:31 CST",
     "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
   },
   {
@@ -268,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Flindsay-rosner-on-jobs-report-fed-policy-mortgages-video",
     "published": "Fri, 09 Jan 2026 23:04:58 CST",
     "summary": "Lindsay Rosner, head of multi-sector fixed income investing at Goldman Sachs\nAsset Management speaks with Scarlet Fu about the jobs report, Fed monetary\npolicy and President Trump's mortgage bond announcement. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman Sachs' Best Strategies for Utilities Stocks in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fgoldman-sachs-best-strategies-for-utilities-stocks-video",
-    "published": "Fri, 09 Jan 2026 23:00:03 CST",
-    "summary": "Carly Davenport, U.S. utilities analyst at Goldman Sachs, says the firm\nexpects increased natural gas use, fewer coal plant retirements, more nuclear\npower added to the grid, and continued growth in renewables. She speaks with\nRomaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
