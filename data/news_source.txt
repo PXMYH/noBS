@@ -1,5 +1,11 @@
 [
   {
+    "title": "The new vs. used car debate is dead. They’re both expensive debt traps.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2F1000-payments-car-debt-trap%2F",
+    "published": "Sat, 10 Jan 2026 11:00:00 CST",
+    "summary": "A record number of buyers — of both new and used vehicles — are locked into\nmonthly payments of $1,000 or more, new data shows.\n\n"
+  },
+  {
     "title": "Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html",
     "published": "Sat, 10 Jan 2026 10:02:45 CST",
@@ -598,12 +604,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F24%2Fmigrant-teens-facility-child-abuse-trump%2F",
     "published": "Thu, 08 Jan 2026 11:44:12 CST",
     "summary": "Pennsylvania recently revoked a license for the secure juvenile detention\ncenter where the administration sends some migrant children, even some with no\npending criminal charges.\n\n"
-  },
-  {
-    "title": "Heritage paper on families calls for ‘marriage bootcamp,’ more babies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fheritage-report-promote-marriage-births%2F",
-    "published": "Thu, 08 Jan 2026 11:00:00 CST",
-    "summary": "The conservative think tank aims to boost U.S. marriage and births through\ndiscouraging online dating, restricting pornography and creating tax credits\nfor families.\n\n"
   },
   {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
