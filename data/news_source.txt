@@ -1,5 +1,35 @@
 [
   {
+    "title": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html",
+    "published": "Sat, 10 Jan 2026 13:00:05 CST",
+    "summary": "During a meeting at the White House, the industry leaders appeared wary of\nmaking long-term investments in the country.\n\n"
+  },
+  {
+    "title": "Commodities Rule, From Oil to Crops",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela",
+    "published": "Sat, 10 Jan 2026 13:00:01 CST",
+    "summary": "One Thing Motivates Trump’s Actions in Venezuela, Richard Haass Says\n\n"
+  },
+  {
+    "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2F2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
+    "published": "Sat, 10 Jan 2026 13:00:01 CST",
+    "summary": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk,\nand a rival oral drug from Eli Lilly is slated for U.S. approval later this\nyear.\n\n"
+  },
+  {
+    "title": "Gen Z and social media are helping men’s makeup go mainstream. The beauty industry is trying to capitalize",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fmens-makeup-gen-z-tiktok-instagram-ulta-sephora.html",
+    "published": "Sat, 10 Jan 2026 13:00:01 CST",
+    "summary": "Men’s makeup is shedding stigma as TikTok and Gen Z drives growth, retailers\nrethink displays and brands chase one of beauty’s last untapped markets.\n\n"
+  },
+  {
+    "title": "Indian Insurer’s Worker Posts Draft Earnings in WhatsApp Status",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Findian-insurer-s-worker-posts-draft-earnings-in-whatsapp-status",
+    "published": "Sat, 10 Jan 2026 12:22:19 CST",
+    "summary": "ICICI Lombard General Insurance Co., a unit of India’s second-largest private\nlender, said an employee uploaded undisclosed information about third quarter\nearnings as a personal WhatsApp status, days ahead of the planned release.\n\n"
+  },
+  {
     "title": "The new vs. used car debate is dead. They’re both expensive debt traps.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2F1000-payments-car-debt-trap%2F",
     "published": "Sat, 10 Jan 2026 11:00:00 CST",
@@ -216,22 +246,10 @@
     "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Vanessa\nNeumann, a former Venezuelan opposition representative to the UK and founder\nof advisory firm Asymmetrica, Jennifer Hillmant, Former Vice Chair of the US\nInternal Trade Commission and a former Member of the World Trade Organization\nAppellate Body (Source: Bloomberg)\n\n"
   },
   {
-    "title": "The Trump Administration’s Case for Venezuela’s Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-oil-and-trump-s-plans-for-an-oil-empire",
-    "published": "Fri, 09 Jan 2026 22:22:27 CST",
-    "summary": "On today’s Big Take podcast: President Trump has big plans for Venezuela’s\noil. What will it take to make them a reality?\n\n"
-  },
-  {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Ftrump-oil-company-executives-meeting-venezuela",
     "published": "Fri, 09 Jan 2026 22:07:25 CST",
     "summary": "Country is ‘uninvestable’ today, president told, but CEOs signal they are\nready to spend with support\n\nDonald Trump promised oil giants “total safety, total security” in Venezuela\nin an effort to persuade them to invest $100bn in the country’s infrastructure\nafter US forces toppled Nicolás Maduro from power.\n\nAt a roundtable press conference at the White House on Friday afternoon with\nmore than a dozen oil executives, including leaders from Chevron, ExxonMobil\nand ConocoPhilips, the US president doubled down on claims that Maduro’s\narrest presents American oil companies with an unprecedented opportunity for\nextraction.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Rio-Glencore Deal Closer Than Ever With Premium and CEO in Focus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-glencore-deal-closer-than-ever-with-premium-and-ceo-in-focus",
-    "published": "Fri, 09 Jan 2026 22:06:40 CST",
-    "summary": "Glencore Plc boss Gary Nagle has called it the most obvious deal in mining.\nHis predecessor and mentor Ivan Glasenberg has been trying to pull it off for\nnearly two decades. And yet the merger of Glencore with Rio Tinto Group has\nproven elusive – until now.\n\n"
   },
   {
     "title": "KKR Chief Operating Officer Ryan Stork Steps Down From Role",
@@ -600,12 +618,6 @@
     "summary": "President reportedly hopes falling price will cut domestic consumer energy\nbills\n\n  * Business live – latest updates\n\nDonald Trump plans to use Venezuela’s vast crude reserves to establish control\nof most of the western hemisphere’s oil in an attempt to drive the market\nprice down to about $50 (£37) a barrel, according to reports.\n\nThe US president has repeatedly raised the prospect of producing enough crude\nfrom Venezuela’s oilfields to drive down the US oil price from more than $56 a\nbarrel today to about $50 in an effort to cut energy costs for consumers,\naccording to the Wall Street Journal, which cited senior Trump administration\nofficials.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Trump administration jails migrant teens in facility known for child abuse",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2025%2F12%2F24%2Fmigrant-teens-facility-child-abuse-trump%2F",
-    "published": "Thu, 08 Jan 2026 11:44:12 CST",
-    "summary": "Pennsylvania recently revoked a license for the secure juvenile detention\ncenter where the administration sends some migrant children, even some with no\npending criminal charges.\n\n"
-  },
-  {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
     "published": "Thu, 08 Jan 2026 03:37:31 CST",
@@ -706,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
     "published": "Wed, 07 Jan 2026 15:43:57 CST",
     "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
-  },
-  {
-    "title": "Trump Claims Venezuela Will Send U.S. Millions of Barrels of Oil. Here’s What to Know.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fvenezuela-oil-supply.html",
-    "published": "Wed, 07 Jan 2026 15:31:28 CST",
-    "summary": "It is unclear what, if anything, Venezuela would get in return for the oil,\nwhich is worth somewhere between $1.8 billion and $3 billion at current market\nprices.\n\n"
   },
   {
     "title": "Alaska Airlines to Buy 110 Boeing Planes as It Seeks to Expand",
@@ -942,12 +948,6 @@
     "summary": "Investors digested the formal end of Warren Buffett's six-decade tenure as\nchief executive and the start of a new era under successor Greg Abel.\n\n"
   },
   {
-    "title": "Saks Global announces new CEO as it reportedly prepares for bankruptcy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fsaks-global-new-ceo-richard-baker-bankruptcy-reports.html",
-    "published": "Fri, 02 Jan 2026 22:10:21 CST",
-    "summary": "The company was created in July 2024 after Hudson's Bay Co. acquired Neiman\nMarcus.\n\n"
-  },
-  {
     "title": "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fspacex-ipo-musk-2026.html",
     "published": "Fri, 02 Jan 2026 19:45:41 CST",
@@ -994,12 +994,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F02%2Fchina-threatened-to-cancel-key-trade-talks-after-uk-ministers-taiwan-visit-in-june",
     "published": "Fri, 02 Jan 2026 13:00:10 CST",
     "summary": "Exclusive: diplomats had to scramble to contain fallout with Beijing after\nDouglas Alexander’s trip to Taipei\n\nChina threatened to cancel high-level trade talks with the UK earlier this\nyear over a government minister’s visit to Taiwan, the Guardian can disclose.\n\nBeijing told the British government it would pull its first trade and economic\ndialogue with the UK in seven years after Douglas Alexander, then a trade\nminister, travelled to Taipei in late June.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fairline-industry-2026.html",
-    "published": "Fri, 02 Jan 2026 12:30:01 CST",
-    "summary": "Airlines are continuing their focus on premium travelers, adding lounges, new\nfirst-class cabins and other perks for customers willing to spend more to fly.\n\n"
   },
   {
     "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",

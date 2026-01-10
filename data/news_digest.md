@@ -1,27 +1,27 @@
 # NoBS News Digest - January 10, 2026
 
-Generated from **219** unique articles (deduplicated from 219 total) across **1** news sources
+Generated from **218** unique articles (deduplicated from 218 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions dominate global headlines as the Trump administration intensifies its focus on Venezuela’s oil reserves, pushing for U.S. investment despite skepticism from major oil executives. The U.S. claims an agreement with Venezuela’s government to secure millions of barrels, though details remain unclear, while Mexico’s oil shipment to Cuba further strains U.S.-Latin America relations. Meanwhile, China asserts its influence in the region, closely monitoring U.S. moves as it maintains its role as Latin America’s top trading partner. Elsewhere, Greenland’s labor leader rejects Trump’s annexation claims, and the UK faces diplomatic fallout with China after a minister’s Taiwan visit. Domestic U.S. politics see Trump pressing Congress to curb Wall Street’s single-family home purchases and targeting defense contractors over delays. In Ukraine, businesses like Nemiroff Vodka adapt to wartime challenges, expanding exports despite ongoing conflict.
+Geopolitical tensions escalate as the U.S. and China vie for influence in Latin America following the ouster of Venezuelan President Nicolás Maduro. President Trump pushes for U.S. oil companies to invest in Venezuela, though executives remain hesitant due to political risks. Meanwhile, Mexico's oil shipment to Cuba heightens U.S. tensions, while China warns against U.S. moves in the region, having already established deep economic ties. In other developments, Greenland rejects Trump's annexation claims, and Democratic lawmakers call for an investigation into a Middle East envoy. Domestically, Trump seeks new powers to pressure defense contractors and proposes legislation to curb Wall Street's single-family home purchases. Ukraine's resilience is highlighted as businesses like Nemiroff continue exports despite ongoing conflict.
 
 **Top Articles:**
 - [Estate in Deadly HK Fire Won’t Be Reused as Housing, RTHK Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Festate-in-deadly-hk-fire-won-t-be-reused-as-housing-rthk-says)
 - [Mexico Oil Shipment Reaches Cuba, Increasing Tensions With US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmexico-oil-shipment-reaches-cuba-increasing-tensions-with-us)
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
-- [The Trump Administration’s Case for Venezuela’s Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fvenezuela-oil-and-trump-s-plans-for-an-oil-empire)
 - [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
+- [Trump Is Making a Power Play in Latin America. China Is Already There.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html)
 
-**Sources**: archive.ph (18 articles)
+**Sources**: archive.ph (17 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are showing mixed signals in early 2026, with U.S. stocks lagging behind international peers despite a strong 2025 driven by AI optimism. Investors are diversifying away from U.S. assets, while defense stocks in Europe and Asia surge amid geopolitical tensions. Gold remains a favored safe haven after its record 2025 rally, though analysts caution against expecting a repeat performance. Meanwhile, the Federal Reserve maintains a cautious stance on rate cuts, awaiting clearer signs of rising unemployment, even as December’s jobs data suggests a cooling labor market. Corporate earnings reveal struggles in key sectors, with General Motors posting a $7.1 billion loss after scaling back its electric vehicle ambitions, while Volkswagen faces steep declines in U.S. sales due to tariffs and expired EV tax credits. Mergers and acquisitions are heating up, particularly in mining, where Rio Tinto and Glencore restart talks on a potential $260 billion merger that could create the world’s largest mining company. In policy moves, President Trump orders Fannie Mae and Freddie Mac to purchase $200 billion in mortgage bonds to boost housing affordability, a controversial step reminiscent of pre-2008 risks. Venezuela’s oil sector is back in focus as Trump seeks to leverage its reserves to drive down U.S. oil prices to $50 a barrel, though oil executives remain skeptical about the country’s investability without major reforms.
+Global markets are showing mixed signals in early 2026, with U.S. stocks lagging behind international peers despite a strong 2025 driven by AI optimism. Investors are diversifying away from the dollar, while defense stocks surge amid geopolitical tensions. Gold remains a favored asset after its record 2025 rally, though analysts caution against expecting a repeat performance. Meanwhile, the Federal Reserve maintains a cautious stance on rate cuts, awaiting clearer signs of economic softening, even as December’s jobs report shows slowing payroll growth. Corporate earnings reveal struggles in the auto and EV sectors, with General Motors posting a $7.1 billion loss due to scaled-back electric vehicle ambitions. Mergers and acquisitions are heating up, notably with Rio Tinto and Glencore restarting talks for a $260 billion mining megadeal. Venezuela’s oil sector is in focus as Trump pushes for U.S. investment, though industry experts remain skeptical. The housing market shows signs of balancing, while the Fed’s independence faces political pressure.
 
 **Top Articles:**
 - [Why U.S. stocks are being outdone by the rest of the world](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Fmarkets-trade-tariffs%2F)
@@ -30,38 +30,38 @@ Global markets are showing mixed signals in early 2026, with U.S. stocks lagging
 - [Stock Stamp Duty May Hand Hong Kong Operating Surplus, RTHK Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fstock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says)
 - [Egypt Inflation Holds Steady, May Give Scope for More Rate Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fegypt-inflation-holds-steady-may-give-scope-for-more-rate-cuts)
 
-**Sources**: archive.ph (83 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 💻 Technology
 
-This week's tech and business landscape is marked by significant shifts in AI, corporate strategy, and regulatory scrutiny. Elon Musk's AI chatbot, Grok, faces backlash after generating sexualized images of real people, prompting X to restrict image requests to paid subscribers. Meanwhile, Google and Character.AI settle a lawsuit tied to a teenager's death linked to an AI chatbot, underscoring growing concerns over AI's societal impact. In corporate moves, Walmart joins the Nasdaq 100, replacing AstraZeneca, while Warner Bros. Discovery rejects Paramount's $108 billion takeover bid, favoring its Netflix partnership. The EV sector sees mixed signals: GM records a $7.1 billion charge due to EV pullbacks, while Lucid reports a 55% increase in deliveries. Alaska Airlines makes its largest-ever plane order with Boeing, signaling confidence in post-pandemic travel demand. Regulatory tensions rise as China investigates Meta's acquisition of AI startup Manus, and Japan grows wary of potential rare earth export restrictions from Beijing. The labor market shows signs of cooling, with U.S. job growth in 2025 hitting a five-year low, though unemployment ticks down to 4.4%.
+This week’s headlines highlight significant developments across tech, business, and geopolitics. In AI, Elon Musk’s Grok faces backlash for generating inappropriate images, prompting restrictions, while Google and Character.AI settle a lawsuit tied to a teenager’s death linked to an AI chatbot. Corporate moves dominate, with Walmart joining the Nasdaq 100, replacing AstraZeneca, and Alaska Airlines placing its largest-ever order for 110 Boeing jets. Meanwhile, Venezuela’s oil industry remains a focal point as Trump urges $100 billion in investments, though executives express skepticism. The U.S. job market shows signs of slowing, with December adding only 50,000 jobs, capping the weakest year of growth since the pandemic. In entertainment, Warner Bros. Discovery rejects Paramount’s $108 billion bid, favoring its Netflix deal, while HBO Max’s 'Heated Rivalry' gains unexpected traction. Finally, the obesity drug market heats up as Novo Nordisk’s Wegovy becomes available via Amazon Pharmacy, and Eli Lilly prepares a rival oral treatment for U.S. approval.
 
 **Top Articles:**
+- [$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html)
+- [2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2F2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
+- [Gen Z and social media are helping men’s makeup go mainstream. The beauty industry is trying to capitalize](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fmens-makeup-gen-z-tiktok-instagram-ulta-sephora.html)
+- [Indian Insurer’s Worker Posts Draft Earnings in WhatsApp Status](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Findian-insurer-s-worker-posts-draft-earnings-in-whatsapp-status)
 - [Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html)
-- [Trump Calls for 10 Percent Credit Card Interest Cap, After Killing Other Fee Limits](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fcredit-card-interest-cap.html)
-- [Walmart To Join Nasdaq 100 on Jan. 20 as AstraZeneca Exits](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fwalmart-to-join-nasdaq-100-next-week-as-astrazeneca-exits)
-- [Investor Michael Burry Reveals Options Bet Against Oracle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Finvestor-michael-burry-reveals-options-bet-against-oracle-shares)
-- [U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (82 articles)
 
 ---
 
 ## 📰 Other News
 
-This week’s news highlights economic pressures and shifting global dynamics. The cost of living remains a dominant theme, with record-high car payments—both new and used—trapping buyers in $1,000-plus monthly debts, while minimum wage hikes in several states offer modest relief. Meanwhile, labor tensions escalate as 16,000 New York City nurses prepare to strike over staffing and pay, underscoring broader workforce discontent. On the global stage, the EU and South America finalize a landmark free-trade deal covering 700 million people, contrasting with the U.S.’s more coercive trade approach. Cultural shifts also stand out, with indie studio Neon leading Golden Globe nominations with non-English films, signaling a growing appetite for diverse storytelling. In business, IPO filings from biotech firms like Eikon Therapeutics and Veradermics reflect ongoing innovation in healthcare, while Trump’s policies—from auto loan tax breaks to wealth audits—spark debate over economic equity.
+Global economic and political shifts dominate headlines as the EU and South America finalize a landmark free-trade agreement covering 700 million people, contrasting with the U.S.'s more coercive foreign policy approach. Meanwhile, domestic tensions rise as nearly 16,000 New York City nurses prepare to strike over staffing and pay, while California's proposed billionaire tax sparks debate over wealth redistribution. In business, Ford reports its strongest annual U.S. sales since 2019, and Manhattan office leasing hits a six-year high, signaling cautious optimism in commercial real estate. Cultural highlights include Neon studio leading Golden Globe nominations with non-English films, and Netflix making an exception for Ben Affleck and Matt Damon’s new movie by offering crew bonuses tied to performance. Emerging trends in healthcare see Novo Nordisk launching the first GLP-1 obesity pill in the U.S., while economic studies reveal the Supreme Court increasingly favors wealthy litigants.
 
 **Top Articles:**
+- [Commodities Rule, From Oil to Crops](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela)
 - [The new vs. used car debate is dead. They’re both expensive debt traps.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2F1000-payments-car-debt-trap%2F)
 - [The Boss Who Hates Sick Day Requests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fwhy-doesnt-my-boss-respect-sick-days.html)
 - [Neon, an Indie Studio With an International Bent, Tops Globes Nominations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fneon-golden-globes.html)
 - [Tony Dokoupil sets new tone for ‘CBS Evening News’ in first week as anchor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Ftony-dokoupil-cbs-evening-news%2F)
-- [E.U. and South America to Form Free-Trade Zone With 700 Million People](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (39 articles)
 
 ---
 
-*Digest generated on January 10, 2026 at 11:39 AM *
+*Digest generated on January 10, 2026 at 01:07 PM *
