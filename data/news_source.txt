@@ -1,5 +1,17 @@
 [
   {
+    "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fvolkswagen-tariffs-trump.html",
+    "published": "Sat, 10 Jan 2026 05:00:04 CST",
+    "summary": "The German automaker’s sales in the United States plunged last year, hit by\ntariffs and the end of tax credits for electric vehicles.\n\n"
+  },
+  {
+    "title": "Estate in Deadly HK Fire Won’t Be Reused as Housing, RTHK Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Festate-in-deadly-hk-fire-won-t-be-reused-as-housing-rthk-says",
+    "published": "Sat, 10 Jan 2026 04:23:49 CST",
+    "summary": "The Hong Kong government doesn’t plan to reuse the devastated housing estate\nthat was involved in the city’s deadliest fire in nearly eight decades as a\nresidential area, a government minister told broadcaster RTHK.\n\n"
+  },
+  {
     "title": "Trump Calls for 10 Percent Credit Card Interest Cap, After Killing Other Fee Limits",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fcredit-card-interest-cap.html",
     "published": "Sat, 10 Jan 2026 04:13:46 CST",
@@ -438,12 +450,6 @@
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
   },
   {
-    "title": "Stocks Rally to Close Out Big Week as Bonds Slip: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 08 Jan 2026 22:16:58 CST",
-    "summary": "Wall Street brushed aside concerns about the Trump administration’s tariff\nregime to send US stocks to all-time highs in the first trading week of the\nnew year. Bonds remained under pressure.\n\n"
-  },
-  {
     "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F08%2Fgeneral-motors-earnings-loss",
     "published": "Thu, 08 Jan 2026 22:12:29 CST",
@@ -814,12 +820,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-chevron.html",
     "published": "Tue, 06 Jan 2026 13:18:58 CST",
     "summary": "Trump administration officials are pushing American companies to quickly start\ninvesting in Venezuela. But energy giants have some major concerns.\n\n"
-  },
-  {
-    "title": "New York Times Case Against Pentagon Will Move Quickly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fmedia%2Fnew-york-times-pentagon-lawsuit.html",
-    "published": "Tue, 06 Jan 2026 12:29:56 CST",
-    "summary": "The lawsuit, over the Defense Department’s new rules for journalists, is\nheaded for oral arguments in March.\n\n"
   },
   {
     "title": "The strangest thing: is the future of cinema … not new movies?",
