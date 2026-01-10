@@ -1,5 +1,17 @@
 [
   {
+    "title": "Low Inflation Helping India’s Economic Growth, Modi Adviser Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Flow-inflation-helping-india-s-economic-growth-modi-adviser-says",
+    "published": "Sat, 10 Jan 2026 03:53:58 CST",
+    "summary": "The Indian economy is resilient and expected to be the world’s fastest-\ngrowing, buoyed by low inflation and underpinned by financial stability,\naccording to a key adviser to Prime Minister Narendra Modi.\n\n"
+  },
+  {
+    "title": "Mexico Oil Shipment Reaches Cuba, Increasing Tensions With US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmexico-oil-shipment-reaches-cuba-increasing-tensions-with-us",
+    "published": "Sat, 10 Jan 2026 02:52:36 CST",
+    "summary": "A tanker carrying between 85,000 and 90,000 barrels of oil arrived in Havana\nfrom Mexico amid growing tensions with the US over the shipments after the\nfall of Venezuela’s ousted President Nicolás Maduro last week.\n\n"
+  },
+  {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
     "published": "Sat, 10 Jan 2026 01:56:19 CST",
@@ -40,6 +52,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Finvestor-michael-burry-reveals-options-bet-against-oracle-shares",
     "published": "Sat, 10 Jan 2026 00:02:59 CST",
     "summary": "Michael Burry, the famed investor who has drawn attention in recent months for\ncriticism of the artificial intelligence boom, is betting against Oracle Corp.\n\n"
+  },
+  {
+    "title": "Barnes & Noble CEO James Daunt on the Bookstore Renaissance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbarnes-noble-ceo-on-the-bookstore-renaissance-video",
+    "published": "Fri, 09 Jan 2026 23:57:58 CST",
+    "summary": "Barnes & Noble is the largest retail bookseller in the United States. The\ncompany has approximately 600 bookstores across the United States, as well as\nits online bookstore at BN.com, the NOOK Digital business, which offers both\neBooks and an audio book subscriptions service, the SparkNotes educational\nservice, and stationery and gift retailer Paper Source. James Daunt serves as\nthe CEO of Barnes & Noble. He discusses his stewardship and rejuvenation of\nthe popular chain, as well as whether the Elliott Advisors-owned company might\nonce again go public. James speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Colombia Leader Resumes Criticism of US After Detente With Trump",
@@ -168,12 +186,6 @@
     "summary": "Wall Street’s risk complex is booming anew. In the first full week of 2026, a\nsynchronized cross-asset rally -- from meme stocks and high-yield bonds to\nsmall-company shares -- shows no sign of slowing.\n\n"
   },
   {
-    "title": "Exxon Takes Long View on Venezuela, CEO Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fexxon-takes-long-view-on-venezuela-ceo-says-video",
-    "published": "Fri, 09 Jan 2026 21:23:13 CST",
-    "summary": "Exxon Mobil Corp. Darren Woods says the company is taking a long-term view on\nVenezuela after meeting with President Donald Trump at the White House.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
     "published": "Fri, 09 Jan 2026 20:48:03 CST",
@@ -268,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgoogle-founders-california-wealth-tax.html",
     "published": "Fri, 09 Jan 2026 16:26:13 CST",
     "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
-  },
-  {
-    "title": "Eli Lilly-Backed Aktis Jumps 24% After $318 Million US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feli-lilly-backed-aktis-jumps-50-after-318-million-us-ipo",
-    "published": "Fri, 09 Jan 2026 16:16:25 CST",
-    "summary": "Aktis Oncology Inc. shares jumped 24% in their trading debut after the\nclinical-stage biotechnology company raised $317.7 million in an initial\npublic offering.\n\n"
   },
   {
     "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
@@ -448,12 +454,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
-  },
-  {
-    "title": "Dollar Defies Trump Turmoil, Rising With Focus on the Fed’s Path",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fdollar-defies-trump-turmoil-rising-with-focus-on-the-fed-s-path",
-    "published": "Thu, 08 Jan 2026 21:10:04 CST",
-    "summary": "When it comes to the dollar, the surprising resilience of the US economy is\noverpowering the geopolitical turmoil unleashed by President Donald Trump.\n\n"
   },
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
