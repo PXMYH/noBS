@@ -1,4 +1,4 @@
-# NoBS News Digest - January 09, 2026
+# NoBS News Digest - January 10, 2026
 
 Generated from **219** unique articles (deduplicated from 219 total) across **1** news sources
 
@@ -6,7 +6,7 @@ Generated from **219** unique articles (deduplicated from 219 total) across **1*
 
 ## 🌍 World & Politics
 
-President Donald Trump is making aggressive moves to reshape Venezuela’s oil sector following the capture of former President Nicolás Maduro, pushing U.S. energy executives to invest in the country’s vast reserves. However, major oil companies remain hesitant due to political instability, sanctions uncertainty, and competition from China and Russia, which maintain strong economic ties in the region. The administration’s plans, including potential oil sales agreements, face skepticism from industry leaders, though hedge funds are growing bullish on oil amid escalating unrest in Iran and Venezuela’s shifting dynamics. Meanwhile, Trump’s broader geopolitical strategy in Latin America is drawing scrutiny, with China closely monitoring U.S. actions as it seeks to protect its own interests in the region. Elsewhere, tensions flare as Greenland rejects Trump’s annexation claims, and China threatens to derail UK trade talks over a minister’s visit to Taiwan, underscoring the fragile state of international relations.
+President Donald Trump is aggressively pursuing a major economic and geopolitical play in Venezuela, pushing U.S. oil executives to invest in the country’s vast reserves following the capture of former President Nicolás Maduro. Despite Trump’s assurances that Venezuela is 'open for business,' major oil companies remain hesitant due to political instability and long-term risks, though hedge funds are growing bullish on oil amid broader regional unrest, including deadly protests in Iran. The administration’s moves in Latin America are drawing scrutiny from China, which has long held significant economic influence in the region, while Greenland’s leadership firmly rejects Trump’s renewed calls for annexation, citing national sovereignty. Meanwhile, domestic political tensions rise as Democratic lawmakers demand an investigation into Middle East envoy Steve Witkoff, and Trump presses Congress to curb Wall Street’s purchase of single-family homes to address housing affordability. Internationally, China’s diplomatic pressure on the UK over a minister’s Taiwan visit underscores Beijing’s escalating assertiveness on territorial issues.
 
 **Top Articles:**
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
@@ -15,53 +15,53 @@ President Donald Trump is making aggressive moves to reshape Venezuela’s oil s
 - [Hedge Funds Turn More Bullish on Oil Amid Venezuela, Iran Unrest](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-funds-turn-more-bullish-on-oil-amid-venezuela-iran-unrest)
 - [Exxon Takes Long View on Venezuela, CEO Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fexxon-takes-long-view-on-venezuela-ceo-says-video)
 
-**Sources**: archive.ph (20 articles)
+**Sources**: archive.ph (18 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Markets kicked off 2026 with a risk-on rally, as U.S. stocks surged to fresh highs amid optimism over economic growth and expectations of further Federal Reserve rate cuts. However, December’s jobs report tempered immediate rate-cut bets, with traders now pricing in a more cautious Fed approach. The dollar remained resilient despite geopolitical tensions, while gold edged higher as investors weighed mixed economic signals. In corporate news, General Motors reported a $7.1 billion loss tied to its EV pullback, and Rio Tinto and Glencore revived merger talks that could create the world’s largest mining company. Meanwhile, Venezuela’s oil sector took center stage as Trump pushed for U.S. investment, though industry leaders like Exxon called the country ‘uninvestable’ without major reforms. The week also saw strong IPO activity, with Aktis Oncology jumping 24% in its debut, and Goldman Sachs highlighting utilities as a key sector for 2026.
+Global markets kicked off 2026 with a risk-on rally, as US stocks surged to fresh highs amid optimism over economic growth and expectations of further Federal Reserve rate cuts. The S&P 500 and Nasdaq extended their bullish run, fueled by strong corporate earnings and a synchronized cross-asset rally, though December’s jobs report reinforced the Fed’s cautious stance on future cuts. Meanwhile, Wall Street’s appetite for risk assets—from meme stocks to high-yield bonds—showed no signs of abating, even as geopolitical tensions and Trump’s tariff policies loomed. In corporate news, Rio Tinto and Glencore revived merger talks in a potential $260 billion deal that could reshape the mining sector, while General Motors reported a $7.1 billion earnings hit after scaling back its electric vehicle ambitions. The housing market saw mixed signals, with Trump ordering Fannie Mae and Freddie Mac to buy $200 billion in mortgage bonds to boost affordability, even as real estate agents noted a shift toward more balanced conditions. Elsewhere, Venezuela’s oil sector took center stage as Trump pushed for US investment to tap its reserves, though Exxon’s CEO called the country ‘uninvestable’ without major reforms. The SEC also dropped a long-running fraud case against Rio Tinto’s former CFO, while Aktis Oncology’s IPO soared 24% in its debut, highlighting continued biotech investor enthusiasm.
 
 **Top Articles:**
+- [Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F)
+- [SEC to Drop Long-Running Fraud Case Against Ex-Rio Tinto CFO over African Coal Assets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fsec-to-drop-long-running-fraud-case-against-ex-rio-tinto-cfo)
+- [Stocks Rise as Payroll Growth Slows: Trump Meets Oil Executives | The Close 1/9/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fthe-close-1-9-2026-video)
 - [Meghan Robson on Credit Market, Saks Bonds Slump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeghan-robson-on-credit-market-saks-bonds-slump-video)
 - [Lindsay Rosner on Jobs Report, Fed Monetary Policy, Mortgages](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Flindsay-rosner-on-jobs-report-fed-policy-mortgages-video)
-- [Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F)
-- [Goldman Sachs' Best Strategies for Utilities Stocks in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fgoldman-sachs-best-strategies-for-utilities-stocks-video)
-- [Supply Is Manageable for Spreads: BNP's Robson](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsupply-is-manageable-for-spreads-bnp-s-robson-video)
-
-**Sources**: archive.ph (81 articles)
-
----
-
-## 💻 Technology
-
-This week's tech and business landscape is marked by significant developments in AI, corporate strategy, and regulatory challenges. Elon Musk's AI chatbot, Grok, faces backlash for generating inappropriate images, prompting X to restrict access to paid subscribers. Meanwhile, Google and Character.AI settle a lawsuit tied to a teenager's death linked to an AI chatbot, underscoring growing concerns about AI's societal impact. In corporate news, Warner Bros. Discovery rejects Paramount's $108 billion takeover bid, opting instead for a partnership with Netflix, while Alaska Airlines places its largest-ever order for 110 Boeing jets, signaling confidence in post-pandemic travel demand. The EV sector sees mixed results, with GM recording a $7.1 billion charge due to slowing demand, while Lucid reports a 55% increase in deliveries. Regulatory tensions rise as China investigates Meta's acquisition of AI startup Manus, and Japan grows wary of potential rare earth export restrictions from Beijing.
-
-**Top Articles:**
-- [U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html)
-- [IEA's Fmr. Oil Head: China Doesn't Need Venezuelan Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fiea-s-fmr-oil-head-china-doesn-t-need-venezuelan-oil-video)
-- [Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Ftrump-oil-company-executives-meeting-venezuela)
-- [Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html)
-- [Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html)
 
 **Sources**: archive.ph (80 articles)
 
 ---
 
-## 📰 Other News
+## 💻 Technology
 
-This week’s news highlights a mix of economic shifts, corporate maneuvering, and cultural developments. In business, Eikon Therapeutics and Forgent Power Solutions filed for IPOs, signaling confidence in cancer research and data center infrastructure, while KKR’s COO stepped down abruptly. The EU and South America’s landmark free-trade agreement, covering 700 million people, contrasts with U.S. protectionist trends, including Trump’s scrutiny of Minnesota and a controversial California wealth tax targeting billionaires. Labor tensions escalate as 16,000 New York City nurses prepare to strike over staffing and pay, while minimum wage hikes in several states push more workers above the $15 threshold. Culturally, Netflix’s unusual bonus deal for Ben Affleck and Matt Damon’s film crew underscores Hollywood’s evolving compensation models, and Wyclef Jean’s new role as a stablecoin advisor reflects crypto’s growing mainstream appeal. Meanwhile, the Supreme Court’s perceived bias toward wealthy litigants and the launch of Novo Nordisk’s affordable GLP-1 obesity pill underscore broader societal debates around equity and health.
+This week's tech and business landscape is marked by significant corporate moves, regulatory scrutiny, and AI controversies. Walmart joins the Nasdaq 100, replacing AstraZeneca, while investor Michael Burry bets against Oracle amid skepticism about the AI boom. Elon Musk's AI chatbot, Grok, faces backlash for generating explicit images, prompting X to restrict access to paid subscribers. Meanwhile, Google co-founders Larry Page and Sergey Brin reduce ties to California, signaling a shift in tech leadership. In corporate news, GM and Ford announce major EV strategy adjustments, with GM recording a $7.1 billion charge due to EV pullbacks and China restructuring. The U.S. job market shows signs of slowing, with December adding only 50,000 jobs, the weakest growth since the pandemic. Regulatory tensions rise as China investigates Meta's acquisition of AI startup Manus, and the Trump administration faces scrutiny over early jobs data leaks and immigration policies. The entertainment sector sees Warner Bros. Discovery rejecting Paramount's $108 billion bid in favor of a Netflix deal, while Netflix's cinematic release of *Stranger Things* signals a shift in film distribution trends.
 
 **Top Articles:**
-- [Wyclef Jean on New Role as Circle Global Culture Advisor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwyclef-jean-on-new-role-as-circle-global-culture-advisor-video)
-- [Eikon Therapeutics Files for IPO Led By Merck Veterans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feikon-therapeutics-files-for-ipo-led-by-merck-veterans)
-- [Data Center Electrical Equipment Maker Forgent Files for US IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fdata-center-electrical-equipment-maker-forgent-files-for-us-ipo)
-- [KKR Chief Operating Officer Ryan Stork Steps Down From Role](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkkr-chief-operating-officer-ryan-stork-steps-down-from-role)
-- [X Sues Music Publishers, Alleging ‘Collusion’ Over Licensing Deals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Farts%2Fmusic%2Fx-music-publishers-lawsuit.html)
+- [Walmart To Join Nasdaq 100 on Jan. 20 as AstraZeneca Exits](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fwalmart-to-join-nasdaq-100-next-week-as-astrazeneca-exits)
+- [Investor Michael Burry Reveals Options Bet Against Oracle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Finvestor-michael-burry-reveals-options-bet-against-oracle-shares)
+- [U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html)
+- [IEA's Fmr. Oil Head: China Doesn't Need Venezuelan Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fiea-s-fmr-oil-head-china-doesn-t-need-venezuelan-oil-video)
+- [Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Ftrump-oil-company-executives-meeting-venezuela)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (81 articles)
 
 ---
 
-*Digest generated on January 09, 2026 at 11:42 PM *
+## 📰 Other News
+
+Global economic and political shifts dominate headlines as the European Union and South America finalize a landmark free-trade agreement, creating a 700-million-person market amid rising U.S. protectionism. Meanwhile, domestic tensions escalate with California’s proposed 5% wealth tax on billionaires and a looming strike by 16,000 New York City nurses over wages and staffing conditions. In business, a flurry of IPO filings—including Veradermics’ hair-growth pill and Eikon Therapeutics’ cancer drugs—signals optimism in biotech, while Ford reports its strongest U.S. sales since 2019. Culturally, Netflix makes an exception for Ben Affleck and Matt Damon’s new film, offering crew bonuses tied to performance, and Wyclef Jean advocates for stablecoin innovation as a borderless financial tool. The Supreme Court’s growing favoritism toward wealthy litigants and the middle class’s affordability crisis underscore deepening economic divides.
+
+**Top Articles:**
+- [E.U. and South America to Form Free-Trade Zone With 700 Million People](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html)
+- [Veradermics Files for Initial Public Offering to Fund Hair-Growth Pill](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fveradermics-files-for-initial-public-offering-to-fund-hair-growth-pill)
+- [Colombia Leader Resumes Criticism of US After Detente With Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcolombia-s-gustavo-petro-resumes-criticism-of-us-after-one-day-truce-with-trump)
+- [Wyclef Jean on New Role as Circle Global Culture Advisor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwyclef-jean-on-new-role-as-circle-global-culture-advisor-video)
+- [Eikon Therapeutics Files for IPO Led By Merck Veterans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feikon-therapeutics-files-for-ipo-led-by-merck-veterans)
+
+**Sources**: archive.ph (40 articles)
+
+---
+
+*Digest generated on January 10, 2026 at 02:29 AM *

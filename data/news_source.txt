@@ -1,5 +1,59 @@
 [
   {
+    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
+    "published": "Sat, 10 Jan 2026 01:56:19 CST",
+    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
+  },
+  {
+    "title": "Walmart To Join Nasdaq 100 on Jan. 20 as AstraZeneca Exits",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fwalmart-to-join-nasdaq-100-next-week-as-astrazeneca-exits",
+    "published": "Sat, 10 Jan 2026 01:45:41 CST",
+    "summary": "Walmart Inc. will join the Nasdaq 100 Index, replacing AstraZeneca Plc, Nasdaq\nGlobal Indexes said Friday.\n\n"
+  },
+  {
+    "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
+    "published": "Sat, 10 Jan 2026 01:40:34 CST",
+    "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
+  },
+  {
+    "title": "Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
+    "published": "Sat, 10 Jan 2026 00:39:14 CST",
+    "summary": "Trump holds a meeting of oil CEOs at the White House to project support for\nhis Venezuela plans. But the companies are skeptical.\n\n"
+  },
+  {
+    "title": "SEC to Drop Long-Running Fraud Case Against Ex-Rio Tinto CFO over African Coal Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fsec-to-drop-long-running-fraud-case-against-ex-rio-tinto-cfo",
+    "published": "Sat, 10 Jan 2026 00:19:56 CST",
+    "summary": "The US Securities and Exchange Commission is dropping a fraud lawsuit against\nformer Rio Tinto Ltd. chief financial officer Guy Elliott, eight years after\naccusing him and others of inflating the value of African coal assets the\ncompany acquired in a disastrous 2011 deal.\n\n"
+  },
+  {
+    "title": "Veradermics Files for Initial Public Offering to Fund Hair-Growth Pill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fveradermics-files-for-initial-public-offering-to-fund-hair-growth-pill",
+    "published": "Sat, 10 Jan 2026 00:18:12 CST",
+    "summary": "Veradermics Inc. filed for an initial public offering to help commercialize\nits hair re-growth pill.\n\n"
+  },
+  {
+    "title": "Investor Michael Burry Reveals Options Bet Against Oracle",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Finvestor-michael-burry-reveals-options-bet-against-oracle-shares",
+    "published": "Sat, 10 Jan 2026 00:02:59 CST",
+    "summary": "Michael Burry, the famed investor who has drawn attention in recent months for\ncriticism of the artificial intelligence boom, is betting against Oracle Corp.\n\n"
+  },
+  {
+    "title": "Colombia Leader Resumes Criticism of US After Detente With Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcolombia-s-gustavo-petro-resumes-criticism-of-us-after-one-day-truce-with-trump",
+    "published": "Fri, 09 Jan 2026 23:52:00 CST",
+    "summary": "Colombian President Gustavo Petro renewed his criticism of US policy after\nbriefly softening his tone this week following a phone call with Donald Trump.\n\n"
+  },
+  {
+    "title": "Stocks Rise as Payroll Growth Slows: Trump Meets Oil Executives | The Close 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fthe-close-1-9-2026-video",
+    "published": "Fri, 09 Jan 2026 23:44:12 CST",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Hartree Partners’ Ed Morse, Goldman Sachs’ Carly Davenport,\nPipeline’s Katica Roy, Gabelli Funds’ John Belton, National Center for\nEnergy’s Neil Atkinson, Eurasia Group’s Jon Lieber, Stord’s Sean Henry,\nCircle’s Wyclef Jean and Kash Razzaghi. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
     "published": "Fri, 09 Jan 2026 23:17:05 CST",
@@ -12,12 +66,6 @@
     "summary": "Meghan Robson, head of US credit strategy at BNP Paribas discusses the credit\nmarket and Sacs bond slump in an interview with Scarlet Fu on \"Real Yield.\"\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
-    "published": "Fri, 09 Jan 2026 23:10:16 CST",
-    "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
-  },
-  {
     "title": "Wyclef Jean on New Role as Circle Global Culture Advisor",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwyclef-jean-on-new-role-as-circle-global-culture-advisor-video",
     "published": "Fri, 09 Jan 2026 23:08:13 CST",
@@ -28,12 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Flindsay-rosner-on-jobs-report-fed-policy-mortgages-video",
     "published": "Fri, 09 Jan 2026 23:04:58 CST",
     "summary": "Lindsay Rosner, head of multi-sector fixed income investing at Goldman Sachs\nAsset Management speaks with Scarlet Fu about the jobs report, Fed monetary\npolicy and President Trump's mortgage bond announcement. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
-    "published": "Fri, 09 Jan 2026 23:00:30 CST",
-    "summary": "Trump holds a meeting of oil CEOs at the White House to project support for\nhis Venezuela plans. But the companies are skeptical.\n\n"
   },
   {
     "title": "Goldman Sachs' Best Strategies for Utilities Stocks in 2026",
@@ -132,34 +174,10 @@
     "summary": "Exxon Mobil Corp. Darren Woods says the company is taking a long-term view on\nVenezuela after meeting with President Donald Trump at the White House.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Small Stocks Are Crushing It, But Investors Still Hate Them",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-09%2Fsmall-cap-stocks-are-crushing-it-investors-still-hate-them",
-    "published": "Fri, 09 Jan 2026 20:59:03 CST",
-    "summary": "Small-cap stocks are soaring, and investors have never been so eager to sell\nthem\n\n"
-  },
-  {
-    "title": "Expect Tariff Ruling To Say Not Permitted: Hillman",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fexpect-tariff-ruling-to-say-not-permitted-hillman-video",
-    "published": "Fri, 09 Jan 2026 20:55:34 CST",
-    "summary": "As markets wait on the Supreme Court’s next opinion day on Wednesday, Jennifer\nHillman, Former Vice Chair of the US Internal Trade Commission and a former\nMember of the World Trade Organization Appellate Body, tells Bloomberg that\nshe expects the justices will ultimately find the tariffs not permitted under\nthe International Emergency Economic Powers Act. She discusses more on\n\"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
     "published": "Fri, 09 Jan 2026 20:48:03 CST",
     "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
-  },
-  {
-    "title": "Goldman Sachs, Morgan Stanley, RBC picked for First Student IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Feqt-backed-school-bus-firm-first-student-said-to-pick-ipo-banks",
-    "published": "Fri, 09 Jan 2026 20:44:23 CST",
-    "summary": "EQT AB-backed First Student Inc. has selected banks to arrange an initial\npublic offering of the student transportation company, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Vanessa Neumann on Energy Executives' Plan For Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fvanessa-neumann-on-energy-executives-plan-for-venezuela-video",
-    "published": "Fri, 09 Jan 2026 20:42:43 CST",
-    "summary": "Vanessa Neumann, a former Venezuelan opposition representative to the UK and\nfounder of advisory firm Asymmetrica, tells Bloomberg that while many\nVenezuelans are celebrating Maduro’s removal, lasting investment will depend\non maintaining order, ensuring sanctions relief is durable, and restoring\nbasic infrastructure. She joined the conversation on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
     "title": "How IMAX crushed other theater stocks in 2025",
@@ -192,12 +210,6 @@
     "summary": "The negotiations come amid an increase in deal-making across the mining\nindustry as demand for copper and other metals soars.\n\n"
   },
   {
-    "title": "Hedge Fund D1’s SpaceX Bet Fuels Its 39% Private Book Gain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fhedge-fund-d1-s-spacex-bet-fuels-its-39-private-book-gain",
-    "published": "Fri, 09 Jan 2026 19:37:00 CST",
-    "summary": "D1 Capital Partners’ portfolio of private investments climbed 39% last year --\npowered by a bet on Elon Musk’s SpaceX, which nabbed an $800 billion valuation\nlast month.\n\n"
-  },
-  {
     "title": "Trump Is Making a Power Play in Latin America. China Is Already There.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
     "published": "Fri, 09 Jan 2026 19:33:15 CST",
@@ -208,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
     "published": "Fri, 09 Jan 2026 19:13:37 CST",
     "summary": "The unemployment rate ticked down to 4.4 percent, as layoffs remain low\ndespite the worst year for job creation since 2020.\n\n"
-  },
-  {
-    "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
-    "published": "Fri, 09 Jan 2026 19:05:38 CST",
-    "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
   },
   {
     "title": "US hiring held firm in December capping weakest year of growth since pandemic",
@@ -318,12 +324,6 @@
     "summary": "Experts offered a variety of suggestions, including paring your list of goals,\nmaking saving automatic and avoiding spending temptations like marketing\nemails.\n\n"
   },
   {
-    "title": "Traders See Almost No Chance of Fed Cut This Month After Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftraders-see-almost-no-shot-of-fed-rate-cut-this-month-after-data",
-    "published": "Fri, 09 Jan 2026 13:43:53 CST",
-    "summary": "Bond traders all but wiped out their bets that the Federal Reserve would cut\ninterest rates later this month after the unemployment rate for December fell\nmore than expected.\n\n"
-  },
-  {
     "title": "Doge cuts cost US taxpayers $10bn to cover workers’ paid leave, analysis finds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Fdoge-taxpayer-costs-federal-workers",
     "published": "Fri, 09 Jan 2026 13:00:37 CST",
@@ -390,6 +390,12 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
+    "title": "India’s 7.4% Growth: Strong Signal or Misleading Headline?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Findia-s-7-4-growth-strong-signal-or-misleading-headline",
+    "published": "Fri, 09 Jan 2026 06:31:48 CST",
+    "summary": "India’s economy posted a 7.4% growth rate, but is it as robust as it seems? On\nInsight with Haslinda Amin, India's former Chief Economic Advisor spoke to\nMenaka Doshi, breaks down the numbers, warning against overconfidence. He\nhighlights slowing nominal indicators, decelerating GDP trends, and external\npressures like tariff shocks and geopolitical tensions. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
@@ -400,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fgold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues",
     "published": "Thu, 08 Jan 2026 23:58:50 CST",
     "summary": "Gold edged higher as traders assessed the US Federal Reserve’s interest rate\noutlook after jobs data delivered mixed signals on the health of the world’s\nlargest economy.\n\n"
-  },
-  {
-    "title": "Oil Posts Third Straight Weekly Gain as Iran Protests Escalate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Flatest-oil-market-news-and-analysis-for-jan-9",
-    "published": "Thu, 08 Jan 2026 23:30:24 CST",
-    "summary": "Oil notched its longest streak of weekly gains since June as Iran intensified\na crackdown on protests across the country and US President Donald Trump\nthreatened repercussions if demonstrators were targeted.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
@@ -458,7 +458,7 @@
   {
     "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html",
-    "published": "Thu, 08 Jan 2026 21:09:32 CST",
+    "published": "Thu, 08 Jan 2026 21:09:33 CST",
     "summary": "Polymarket users bet on whether the U.S. would invade Venezuela, but the\nprediction market said the Venezuelan president’s capture did not constitute\nan invasion.\n\n"
   },
   {
