@@ -1,5 +1,35 @@
 [
   {
+    "title": "Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html",
+    "published": "Sat, 10 Jan 2026 10:02:45 CST",
+    "summary": "The show, streaming on HBO Max, doesn’t have one of the biggest audiences, but\nviewership grew very quickly in just a few weeks.\n\n"
+  },
+  {
+    "title": "The Boss Who Hates Sick Day Requests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fwhy-doesnt-my-boss-respect-sick-days.html",
+    "published": "Sat, 10 Jan 2026 10:02:36 CST",
+    "summary": "Plus, the impossibility of being a middle manager.\n\n"
+  },
+  {
+    "title": "Neon, an Indie Studio With an International Bent, Tops Globes Nominations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fneon-golden-globes.html",
+    "published": "Sat, 10 Jan 2026 10:02:24 CST",
+    "summary": "Neon scored more film nominations at the Golden Globes than any other studio\nthis year with a slate of six non-English language films.\n\n"
+  },
+  {
+    "title": "Tony Dokoupil sets new tone for ‘CBS Evening News’ in first week as anchor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Ftony-dokoupil-cbs-evening-news%2F",
+    "published": "Sat, 10 Jan 2026 10:00:47 CST",
+    "summary": "The storied newscast once helmed by Walter Cronkite now runs third behind its\ncompetitors and is being closely watched as CBS News’ top editor promises a\npolitical reset.\n\n"
+  },
+  {
+    "title": "Why U.S. stocks are being outdone by the rest of the world",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Fmarkets-trade-tariffs%2F",
+    "published": "Sat, 10 Jan 2026 10:00:00 CST",
+    "summary": "Investors began diversifying away from U.S.-based assets and the dollar in\n2025 even as AI-fueled optimism powered the S&P 500 more than 16 percent\nhigher.\n\n"
+  },
+  {
     "title": "Troubled World Heralds Next Stage of the Defense Stocks Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Ftroubled-world-heralds-next-stage-of-the-defense-stocks-rally",
     "published": "Sat, 10 Jan 2026 09:30:00 CST",
@@ -24,7 +54,7 @@
     "summary": "Egypt’s inflation rate was unchanged in December, potentially giving the\ncentral bank scope to further cut borrowing costs in 2026.\n\n"
   },
   {
-    "title": "Switzerland’s Secret Sauce on Jobs Is a Model Merz Can Dream of",
+    "title": "Swiss Ability to Fire Staff at Will Is a Model Merz Can Dream Of",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fswitzerland-s-secret-sauce-on-jobs-is-a-model-merz-can-dream-of",
     "published": "Sat, 10 Jan 2026 06:00:00 CST",
     "summary": "Switzerland’s economic resilience is showcasing the prowess of one of Europe’s\nmost business-friendly domains, where companies can fire workers with relative\nimpunity.\n\n"
@@ -576,18 +606,6 @@
     "summary": "The conservative think tank aims to boost U.S. marriage and births through\ndiscouraging online dating, restricting pornography and creating tax credits\nfor families.\n\n"
   },
   {
-    "title": "On Wall Street, investors ignore Trump’s talk of war",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fus-economy-geopolitics-uncertainty%2F",
-    "published": "Thu, 08 Jan 2026 10:00:37 CST",
-    "summary": "President Donald Trump’s rejection of the postwar global system has sparked\nconcerns about the future of international relations and the U.S. economy.\n\n"
-  },
-  {
-    "title": "More workers are stuck in part-time jobs in warning for the economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fmultiple-part-time-jobs-economy%2F",
-    "published": "Thu, 08 Jan 2026 10:00:00 CST",
-    "summary": "More Americans are stuck in part-time positions or having to patch together\nmultiple jobs to make ends meet, employment data shows.\n\n"
-  },
-  {
     "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
     "published": "Thu, 08 Jan 2026 03:37:31 CST",
@@ -750,12 +768,6 @@
     "summary": "The hotel giant said it took “immediate action” against a Hampton Inn near\nMinneapolis after a video showed a worker declining Department of Homeland\nSecurity reservations.\n\n"
   },
   {
-    "title": "Peter Zaffino, AIG’s Chief, Is Stepping Down in Latest Executive Reshuffling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fpeter-zaffino-aig-corporate-changes.html",
-    "published": "Tue, 06 Jan 2026 22:54:22 CST",
-    "summary": "The announcement that Peter Zaffino would step down as chief executive in June\nand become executive chairman sent the insurer’s stock tumbling.\n\n"
-  },
-  {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
     "published": "Tue, 06 Jan 2026 22:18:49 CST",
@@ -808,18 +820,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html",
     "published": "Tue, 06 Jan 2026 15:15:17 CST",
     "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019\nand just 2.4% below 2019's pre-pandemic total.\n\n"
-  },
-  {
-    "title": "Will Welch to Leave GQ After 7 Years as Its Top Editor",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fmedia%2Fwill-welch-gq-editor-departure.html",
-    "published": "Tue, 06 Jan 2026 15:06:06 CST",
-    "summary": "Mr. Welch worked to move the men’s magazine away from what he called “manly-\nman tropes.” His next role will be with Pharrell, the men’s designer of Louis\nVuitton.\n\n"
-  },
-  {
-    "title": "The Rush to Profit From Maduro’s Capture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F06%2Fbusiness%2Fdealbook%2Fvenezuela-trump-oil-chevron.html",
-    "published": "Tue, 06 Jan 2026 13:18:58 CST",
-    "summary": "Trump administration officials are pushing American companies to quickly start\ninvesting in Venezuela. But energy giants have some major concerns.\n\n"
   },
   {
     "title": "The strangest thing: is the future of cinema … not new movies?",
