@@ -1,27 +1,27 @@
 # NoBS News Digest - January 10, 2026
 
-Generated from **219** unique articles (deduplicated from 219 total) across **1** news sources
+Generated from **218** unique articles (deduplicated from 218 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The Trump administration is making bold moves in Latin America, particularly in Venezuela, where President Trump is pushing for U.S. control over the country's oil reserves following the ouster of Nicolás Maduro. Major oil companies and commodities traders like Vitol and Trafigura are cautiously exploring opportunities in Venezuela, though many remain skeptical due to political and financial risks. Meanwhile, the fall of Maduro has eased tensions for neighboring Guyana, which stands to benefit from its own oil wealth without the threat of border conflicts. Elsewhere, China is closely monitoring U.S. actions in the region, where it has long held significant economic influence, while also flexing its diplomatic muscle by threatening to cancel trade talks with the UK over a minister’s visit to Taiwan. Domestically, Trump is seeking expanded powers to pressure defense contractors and curb Wall Street’s purchase of single-family homes, reflecting his broader economic agenda.
+The US is making significant moves in Latin America following the ouster of Venezuelan President Nicolás Maduro, with Treasury Secretary Scott Bessent indicating potential sanctions relief to facilitate oil sales. President Trump is pushing oil executives to invest in Venezuela, though many remain hesitant due to political uncertainty. Meanwhile, Guyana stands to benefit from reduced border tensions, while Mexico's oil shipments to Cuba heighten US-Cuba tensions. In other developments, Trump seeks expanded powers to pressure defense contractors over delays, and China watches US actions in Latin America closely, having already established deep economic ties in the region. Greenland's labor leader rejects Trump's annexation claims, and Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff. Additionally, Ukraine's Nemiroff vodka maker continues exports despite wartime challenges, and China previously threatened to cancel UK trade talks over a minister's Taiwan visit.
 
 **Top Articles:**
+- [US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters)
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
 - [Maduro’s Fall Defuses Border-Conflict Risk for Oil-Rich Guyana](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmaduro-s-fall-defuses-border-conflict-risk-for-oil-rich-guyana)
 - [Estate in Deadly HK Fire Won’t Be Reused as Housing, RTHK Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Festate-in-deadly-hk-fire-won-t-be-reused-as-housing-rthk-says)
 - [Mexico Oil Shipment Reaches Cuba, Increasing Tensions With US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmexico-oil-shipment-reaches-cuba-increasing-tensions-with-us)
-- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
 
-**Sources**: archive.ph (18 articles)
+**Sources**: archive.ph (19 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets kick off 2026 with cautious optimism as inflation shows signs of stabilizing, though risks linger. U.S. inflation remains subdued, reinforcing expectations of gradual Fed rate cuts, while Egypt's steady inflation opens the door for further monetary easing. However, corporate bond markets face pressure as more firms teeter on the edge of junk status, and Saks Global struggles to secure financing amid potential bankruptcy. Meanwhile, geopolitical and energy shifts dominate headlines, with President Trump's aggressive push to seize Venezuela's oil industry drawing skepticism from major firms like Exxon, which deem the country 'uninvestable' without reforms. Defense stocks rally as global tensions persist, while gold investors remain bullish after a record 2025. In corporate news, Rio Tinto and Glencore revive merger talks in a potential $260 billion mining mega-deal, and General Motors posts a $7.1 billion loss as it scales back EV ambitions. India's 7.4% growth rate fuels debate over its economic resilience, while China promotes its duty-free Hainan island amid a $1 trillion trade surplus.
+Global markets open 2026 with cautious optimism as inflation trends show signs of stabilization, though risks linger. U.S. inflation remains subdued, reinforcing expectations of gradual Fed rate cuts, while Egypt's steady inflation may pave the way for further monetary easing. However, corporate bond markets face pressure, with a growing number of investment-grade issuers teetering on the brink of junk status. In equities, defense stocks surge amid geopolitical tensions, while gold investors remain bullish after a record 2025 rally. Meanwhile, BlackRock predicts continued strength in AI-driven stocks but advises targeted bets. Major M&A activity is underway, with Rio Tinto and Glencore restarting merger talks that could create the world's largest mining firm. President Trump's aggressive energy policies dominate headlines, as he pushes for U.S. control of Venezuela's oil reserves—a move met with skepticism from oil executives. The housing market shows signs of balancing, though Trump's mortgage bond initiative sparks debate over financial risks. Elsewhere, India's 7.4% GDP growth draws scrutiny, and China promotes its duty-free Hainan island amid trade surplus tensions.
 
 **Top Articles:**
 - [US Inflation to Pick Up After Muddy November CPI](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-inflation-to-pick-up-after-muddy-november-cpi)
@@ -36,7 +36,7 @@ Global markets kick off 2026 with cautious optimism as inflation shows signs of 
 
 ## 💻 Technology
 
-This week's tech and business landscape is marked by significant developments in AI, corporate strategy, and regulatory challenges. China's AI leaders warn of a widening gap with the U.S. despite a $1 billion IPO week, while Elon Musk's Grok AI faces backlash for generating sexualized images of real people, prompting restrictions on image generation for non-paid users. In corporate news, Walmart joins the Nasdaq 100, replacing AstraZeneca, and Google co-founders Larry Page and Sergey Brin reduce their ties to California. The EV market sees mixed signals, with GM recording a $7.1 billion charge due to an EV pullback, while Lucid reports a 55% increase in deliveries. Meanwhile, regulatory scrutiny intensifies as China investigates Meta's acquisition of AI startup Manus, and JPMorgan's asset management arm drops controversial proxy advisors in favor of AI-driven analysis.
+This week’s tech and business landscape is marked by significant developments in AI, corporate strategy, and regulatory challenges. China’s AI leaders warn of a widening gap with the U.S. after a $1 billion IPO week, underscoring the intensifying global AI race. Meanwhile, Elon Musk’s AI chatbot, Grok, faces backlash for generating sexualized images of real people, prompting restrictions for paid subscribers. In corporate news, Walmart joins the Nasdaq 100, replacing AstraZeneca, while GM and Ford announce major financial charges tied to EV market slowdowns. Regulatory scrutiny is also in focus, with China investigating Meta’s acquisition of AI startup Manus and JPMorgan dropping controversial proxy advisors in favor of AI-driven analysis. Additionally, Alaska Airlines makes its largest-ever aircraft order, signaling expansion plans post-Hawaiian Airlines acquisition.
 
 **Top Articles:**
 - [Bird Flu Viruses Raise Mounting Concerns Among Scientists](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html)
@@ -51,7 +51,7 @@ This week's tech and business landscape is marked by significant developments in
 
 ## 📰 Other News
 
-Global economic and political shifts dominate headlines as the EU and South America finalize a landmark free-trade agreement covering 700 million people, contrasting with the U.S.'s more coercive foreign policy approach. Meanwhile, domestic tensions rise as nearly 16,000 New York City nurses prepare to strike over staffing and pay, while California's proposed billionaire tax sparks debate over wealth redistribution. In business, Ford reports its strongest U.S. sales since 2019, and Manhattan office leasing hits a six-year high, signaling cautious optimism in commercial real estate. Cultural highlights include Neon studio leading Golden Globe nominations with non-English films, and Wyclef Jean advocating for stablecoin innovation in a new advisory role. Emerging trends in healthcare see Novo Nordisk launching the first GLP-1 obesity pill in the U.S., while economic studies reveal the Supreme Court increasingly favors wealthy litigants.
+Global economic and political shifts dominate headlines as the EU and South America finalize a landmark free-trade agreement covering 700 million people, signaling a push for international cooperation amid U.S. isolationist policies. Meanwhile, domestic tensions rise as nearly 16,000 New York City nurses prepare to strike over staffing and pay, reflecting broader labor unrest as minimum wages increase in several states. In business, Ford reports its strongest annual U.S. vehicle sales since 2019, while the auto market grapples with record-high monthly payments for both new and used cars. Cultural highlights include Neon’s Golden Globe dominance with non-English films, and Netflix’s unprecedented bonus deal for Ben Affleck and Matt Damon’s new movie. Emerging trends in healthcare and finance also stand out, with Novo Nordisk launching the first GLP-1 obesity pill in the U.S. and Veradermics filing for an IPO to fund a hair-growth treatment.
 
 **Top Articles:**
 - [Commodities Rule, From Oil to Crops](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela)
@@ -60,8 +60,8 @@ Global economic and political shifts dominate headlines as the EU and South Amer
 - [Neon, an Indie Studio With an International Bent, Tops Globes Nominations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fneon-golden-globes.html)
 - [Tony Dokoupil sets new tone for ‘CBS Evening News’ in first week as anchor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Ftony-dokoupil-cbs-evening-news%2F)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 10, 2026 at 09:40 PM *
+*Digest generated on January 10, 2026 at 10:44 PM *

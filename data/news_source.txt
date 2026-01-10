@@ -1,5 +1,11 @@
 [
   {
+    "title": "US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters",
+    "published": "Sat, 10 Jan 2026 22:09:08 CST",
+    "summary": "The US may lift additional sanctions on Venezuela as early as next week to\nfacilitate oil sales, Reuters reported, citing an interview with Treasury\nSecretary Scott Bessent.\n\n"
+  },
+  {
     "title": "US Inflation to Pick Up After Muddy November CPI",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-inflation-to-pick-up-after-muddy-november-cpi",
     "published": "Sat, 10 Jan 2026 21:00:00 CST",
@@ -288,12 +294,6 @@
     "summary": "Glencore Plc boss Gary Nagle has called it the most obvious deal in mining.\nHis predecessor and mentor Ivan Glasenberg has been trying to pull it off for\nnearly two decades. And yet the merger of Glencore with Rio Tinto Group has\nproven elusive – until now.\n\n"
   },
   {
-    "title": "KKR Chief Operating Officer Ryan Stork Steps Down From Role",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fkkr-chief-operating-officer-ryan-stork-steps-down-from-role",
-    "published": "Fri, 09 Jan 2026 21:48:41 CST",
-    "summary": "KKR & Co. Chief Operating Officer Ryan Stork is stepping down from his role\neffective immediately, the firm said in a regulatory filing.\n\n"
-  },
-  {
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
     "published": "Fri, 09 Jan 2026 21:39:15 CST",
@@ -526,12 +526,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F08%2Fus%2Ftrump-news%2Fwitkoff-crypto-democrats-investigation",
     "published": "Thu, 08 Jan 2026 22:46:21 CST",
     "summary": "The request by a group of Congress members cites reporting by The Times and\nechoes a similar request by Democratic senators in September.\n\n"
-  },
-  {
-    "title": "House votes to subpoena journalist over report on Delta Force commander",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F08%2Fseth-harp-first-amendment-luna-subpoena%2F",
-    "published": "Thu, 08 Jan 2026 21:53:16 CST",
-    "summary": "A lawmaker accused Seth Harp of “leaking classified intel” after he posted a\nphotograph of a person he identified as the head of the elite unit responsible\nfor the Venezuela operation.\n\n"
   },
   {
     "title": "GM to record $7.1 billion in fourth-quarter charges due to EV pullback, China restructuring",
