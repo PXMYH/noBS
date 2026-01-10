@@ -1,5 +1,11 @@
 [
   {
+    "title": "Stock Stamp Duty May Hand Hong Kong Operating Surplus, RTHK Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fstock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says",
+    "published": "Sat, 10 Jan 2026 07:15:36 CST",
+    "summary": "Higher stock trading stamp duty revenue may enable the Hong Kong government to\nreturn its day-to-day budget back to a surplus sooner than expected, Financial\nSecretary Paul Chan told RTHK on Saturday.\n\n"
+  },
+  {
     "title": "Switzerland’s Secret Sauce on Jobs Is a Model Merz Can Dream of",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fswitzerland-s-secret-sauce-on-jobs-is-a-model-merz-can-dream-of",
     "published": "Sat, 10 Jan 2026 06:00:00 CST",
@@ -202,12 +208,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
     "published": "Fri, 09 Jan 2026 21:39:15 CST",
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
-  },
-  {
-    "title": "Wall Street's Risk-On Fever Shows No Signs of Abating in New Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fwall-street-catches-early-cycle-fever-three-years-into-bull-run",
-    "published": "Fri, 09 Jan 2026 21:32:53 CST",
-    "summary": "Wall Street’s risk complex is booming anew. In the first full week of 2026, a\nsynchronized cross-asset rally -- from meme stocks and high-yield bonds to\nsmall-company shares -- shows no sign of slowing.\n\n"
   },
   {
     "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
