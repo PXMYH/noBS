@@ -1,9 +1,27 @@
 [
   {
-    "title": "Trump calls for 10 percent cap on credit card interest rates for a year",
+    "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
+    "published": "Sat, 10 Jan 2026 15:19:50 CST",
+    "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
+  },
+  {
+    "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fblackrock-investing-bull-market-portfolio-stocks.html",
+    "published": "Sat, 10 Jan 2026 15:07:23 CST",
+    "summary": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026,\nbut says investors should focus on targeted bets and turning cash into income.\n\n"
+  },
+  {
+    "title": "Maduro’s Fall Defuses Border-Conflict Risk for Oil-Rich Guyana",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmaduro-s-fall-defuses-border-conflict-risk-for-oil-rich-guyana",
+    "published": "Sat, 10 Jan 2026 15:00:02 CST",
+    "summary": "Guyana, home to the world’s biggest oil discovery in decades, appears to be an\nearly beneficiary of US President Donald Trump’s ouster of Venezuelan\nstrongman Nicolas Maduro.\n\n"
+  },
+  {
+    "title": "Banks criticize Trump’s push for 10 percent credit card interest rate cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F",
     "published": "Sat, 10 Jan 2026 14:27:14 CST",
-    "summary": "President Donald Trump, who has sought to emphasize affordability ahead of\nthis year’s mid-term elections, did not specify how the proposal would be\nimplemented.\n\n"
+    "summary": "Financial institutions and other credit card issuers say the cap, which the\npresident wants in effect by Jan. 20, would limit consumers’ access to credit.\n\n"
   },
   {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
@@ -174,12 +192,6 @@
     "summary": "Walmart Inc. will join the Nasdaq 100 Index, replacing AstraZeneca Plc, Nasdaq\nGlobal Indexes said Friday.\n\n"
   },
   {
-    "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html",
-    "published": "Sat, 10 Jan 2026 01:40:34 CST",
-    "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
-  },
-  {
     "title": "Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
     "published": "Sat, 10 Jan 2026 00:39:14 CST",
@@ -262,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fiea-s-fmr-oil-head-china-doesn-t-need-venezuelan-oil-video",
     "published": "Fri, 09 Jan 2026 22:51:40 CST",
     "summary": "Neil Atkinson, visiting fellow at the National Center for Energy Analytics and\nformer IEA oil markets chief, says Venezuela’s oil industry has severely\ndeteriorated. He tells Katie Greifeld and Romaine Bostick on “The Close” that\nChina’s involvement is driven more by political influence than oil demand.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Hartree's Ed Morse Reacts to Trump Venezuela Oil Exec Meeting",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fed-morse-reacts-to-trump-venezuela-oil-exec-meeting-video",
-    "published": "Fri, 09 Jan 2026 22:44:05 CST",
-    "summary": "Ed Morse, Hartree Partners senior advisor, says Venezuela’s political\nuncertainty is a major risk for oil markets. He tells Romaine Bostick and\nKatie Greifeld on “The Close” that its vast oil reserves are also among the\nworld’s most costly to produce. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
@@ -982,12 +988,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Ffed-chair-powell-staying-on-fed-board-or-going.html",
     "published": "Fri, 02 Jan 2026 14:18:15 CST",
     "summary": "Fed Chair Jay Powell has so far skirted the question of whether he'll stay on\nwith the Fed when his term ends this year.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Baidu, Wayfair, Tesla, Taiwan Semiconductor & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fstocks-making-the-biggest-moves-premarket-.html",
-    "published": "Fri, 02 Jan 2026 14:10:28 CST",
-    "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
   },
   {
     "title": "Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’",
