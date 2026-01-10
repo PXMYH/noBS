@@ -2,8 +2,14 @@
   {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
-    "published": "Sat, 10 Jan 2026 18:48:49 CST",
+    "published": "Sat, 10 Jan 2026 20:27:30 CST",
     "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
+  },
+  {
+    "title": "More Bonds Are Teetering on the Brink of Junk: Credit Weekly",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmore-bonds-are-teetering-on-the-brink-of-junk-credit-weekly",
+    "published": "Sat, 10 Jan 2026 20:00:00 CST",
+    "summary": "Beneath the calm surface of the US corporate bond market, there are worrying\nsigns about companies that could lose their investment-grade status.\n\n"
   },
   {
     "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
@@ -268,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fgoldman-sachs-best-strategies-for-utilities-stocks-video",
     "published": "Fri, 09 Jan 2026 23:00:03 CST",
     "summary": "Carly Davenport, U.S. utilities analyst at Goldman Sachs, says the firm\nexpects increased natural gas use, fewer coal plant retirements, more nuclear\npower added to the grid, and continued growth in renewables. She speaks with\nRomaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Supply Is Manageable for Spreads: BNP's Robson",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fsupply-is-manageable-for-spreads-bnp-s-robson-video",
-    "published": "Fri, 09 Jan 2026 22:56:03 CST",
-    "summary": "On \"Bloomberg Real Yield\", Meghan Robson, head of US credit strategy at BNP\nParibas, and Zachary Griffiths, head of US IG & macro strategy at\nCreditSights, speak with Scarlet Fu about the credit market. Global bond sales\nhad their busiest ever start to a year. US high grade sales this week topped\n$90 billion and was the busiest week ever for a non-Covid year. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
