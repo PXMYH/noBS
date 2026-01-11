@@ -1,5 +1,35 @@
 [
   {
+    "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
+    "published": "Sun, 11 Jan 2026 13:38:09 CST",
+    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
+  },
+  {
+    "title": "Venezuela Surge Leaves Slim Pickings in Emerging Distressed Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fvenezuela-surge-leaves-slim-pickings-in-emerging-distressed-debt",
+    "published": "Sun, 11 Jan 2026 13:30:00 CST",
+    "summary": "The ouster of Venezuelan leader Nicolas Maduro drove an outsize rally in the\ncountry’s bonds, making the already shrinking universe of deep-distress\nopportunities in emerging-market debt even smaller.\n\n"
+  },
+  {
+    "title": "A powerful force has been holding back the housing market. It’s finally easing.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F11%2Fmortgage-lock-in-effect%2F",
+    "published": "Sun, 11 Jan 2026 13:20:29 CST",
+    "summary": "The U.S. housing market recently reached a key milestone that could lead to\nsome easing.\n\n"
+  },
+  {
+    "title": "Lawmakers are preparing to try again on major crypto bill. Why it matters and what happens next",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fcrypto-lawmakers-are-preparing-to-try-again-on-major-bill-what-can-happen-next.html",
+    "published": "Sun, 11 Jan 2026 13:17:05 CST",
+    "summary": "Some lawmakers will meet on Thursday to discuss and edit draft legislation on\ncrypto market structure, with the aim of passing a comprehensive law this\nyear.\n\n"
+  },
+  {
+    "title": "Where stock analysts predict China’s consumers will spend in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fwhere-stock-analysts-predict-chinas-consumers-will-spend-in-2026.html",
+    "published": "Sun, 11 Jan 2026 13:11:54 CST",
+    "summary": "Beneath China's flat consumer prices, trends are emerging in the experiences\neconomy.\n\n"
+  },
+  {
     "title": "How a Puzzling 401(k) Plan Changed One Woman’s Life",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
     "published": "Sun, 11 Jan 2026 13:06:14 CST",
@@ -16,12 +46,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Firaq-cuts-february-basrah-medium-crude-to-asia-to-1-30-discount",
     "published": "Sun, 11 Jan 2026 11:53:18 CST",
     "summary": "Iraq cut the pricing of its Basrah Medium crude for Asian customers in\nFebruary, following a similar move by Saudi Arabia to lower the cost of its\nflagship oil to buyers in the biggest market.\n\n"
-  },
-  {
-    "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
-    "published": "Sun, 11 Jan 2026 10:52:57 CST",
-    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -304,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fsec-to-drop-long-running-fraud-case-against-ex-rio-tinto-cfo",
     "published": "Sat, 10 Jan 2026 00:19:56 CST",
     "summary": "The US Securities and Exchange Commission is dropping a fraud lawsuit against\nformer Rio Tinto Ltd. chief financial officer Guy Elliott, eight years after\naccusing him and others of inflating the value of African coal assets the\ncompany acquired in a disastrous 2011 deal.\n\n"
-  },
-  {
-    "title": "Veradermics Files for Initial Public Offering to Fund Hair-Growth Pill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fveradermics-files-for-initial-public-offering-to-fund-hair-growth-pill",
-    "published": "Sat, 10 Jan 2026 00:18:12 CST",
-    "summary": "Veradermics Inc. filed for an initial public offering to help commercialize\nits hair re-growth pill.\n\n"
   },
   {
     "title": "Investor Michael Burry Reveals Options Bet Against Oracle",
@@ -960,12 +978,6 @@
     "summary": "Investors have already thrown their weight behind the company ahead of its\nplanned IPO.\n\n"
   },
   {
-    "title": "The 2026 stock market is looking a lot like the bifurcated market of 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fmeet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html",
-    "published": "Fri, 02 Jan 2026 18:13:44 CST",
-    "summary": "A look inside the S&P 500 shows a major division, with five sectors higher,\nled by industrials, and six sectors lower, led by consumer discretionary.\n\n"
-  },
-  {
     "title": "Ken Griffin’s flagship hedge fund at Citadel rises 10.2% in volatile 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fken-griffins-flagship-hedge-fund-at-citadel-rises-10point2percent-in-volatile-2025.html",
     "published": "Fri, 02 Jan 2026 17:45:39 CST",
@@ -976,12 +988,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fstocks-making-the-biggest-moves-midday-vrt-bidu-wrby-rh-bidu.html",
     "published": "Fri, 02 Jan 2026 17:02:20 CST",
     "summary": "These are the stocks posting the largest moves midday.\n\n"
-  },
-  {
-    "title": "Will he stay or will he go? Powell is not saying whether he'll stay on Fed board when chair term ends",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Ffed-chair-powell-staying-on-fed-board-or-going.html",
-    "published": "Fri, 02 Jan 2026 14:18:15 CST",
-    "summary": "Fed Chair Jay Powell has so far skirted the question of whether he'll stay on\nwith the Fed when his term ends this year.\n\n"
   },
   {
     "title": "Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’",
