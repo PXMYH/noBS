@@ -1,5 +1,23 @@
 [
   {
+    "title": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html",
+    "published": "Sun, 11 Jan 2026 16:38:56 CST",
+    "summary": "During a meeting at the White House, the industry leaders appeared wary of\nmaking long-term investments in the country.\n\n"
+  },
+  {
+    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
+    "published": "Sun, 11 Jan 2026 16:22:44 CST",
+    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
+  },
+  {
+    "title": "Iran Protests Escalate During Internet Crackdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-11%2Fprotests-in-iran-enter-third-week-video",
+    "published": "Sun, 11 Jan 2026 15:45:20 CST",
+    "summary": "Iran restricted internet and phone access overnight to quell escalating\nprotests across the country, as Supreme Leader Ayatollah Ali Khamenei warned\nthat he won’t back down against the demonstrators. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Ukraine Strikes Russian Oil Drilling Platforms in Caspian Sea",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fukraine-strikes-russian-oil-drilling-platforms-in-caspian-sea",
     "published": "Sun, 11 Jan 2026 15:23:26 CST",
@@ -228,12 +246,6 @@
     "summary": "President Donald Trump promises his hostile takeover of Venezuela’s oil\nindustry will inspire billions of dollars of investment from American energy\ncompanies, and it will make the people of the South American nation rich.\n\n"
   },
   {
-    "title": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html",
-    "published": "Sat, 10 Jan 2026 13:00:05 CST",
-    "summary": "During a meeting at the White House, the industry leaders appeared wary of\nmaking long-term investments in the country.\n\n"
-  },
-  {
     "title": "Commodities Rule, From Oil to Crops",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela",
     "published": "Sat, 10 Jan 2026 13:00:01 CST",
@@ -340,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fvolkswagen-tariffs-trump.html",
     "published": "Sat, 10 Jan 2026 05:00:05 CST",
     "summary": "The German automaker’s sales in the United States plunged last year, hit by\ntariffs and the end of tax credits for electric vehicles.\n\n"
-  },
-  {
-    "title": "Estate in Deadly HK Fire Won’t Be Reused as Housing, RTHK Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Festate-in-deadly-hk-fire-won-t-be-reused-as-housing-rthk-says",
-    "published": "Sat, 10 Jan 2026 04:23:49 CST",
-    "summary": "The Hong Kong government doesn’t plan to reuse the devastated housing estate\nthat was involved in the city’s deadliest fire in nearly eight decades as a\nresidential area, a government minister told broadcaster RTHK.\n\n"
   },
   {
     "title": "Trump Wants 10% Cap on Credit Card Interest Rates, After Killing Other Fee Limits",
@@ -472,12 +478,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
     "published": "Fri, 09 Jan 2026 17:11:25 CST",
     "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
-  },
-  {
-    "title": "Trump officials prepare executive order on housing affordability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-housing-affordability-executive-order%2F",
-    "published": "Fri, 09 Jan 2026 16:31:33 CST",
-    "summary": "More details are expected when President Donald Trump speaks at the World\nEconomic Forum in Davos, Switzerland, later this month.\n\n"
   },
   {
     "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
@@ -808,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Famerican-airlines-aadvantage-frequent-flyer-status-requirements.html",
     "published": "Wed, 07 Jan 2026 14:45:01 CST",
     "summary": "American Airlines is keeping frequent flyer status requirements the same for a\nthird consecutive year.\n\n"
-  },
-  {
-    "title": "Why Trump’s Greenland Strategy Has the World on Edge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fdealbook%2Fbuy-invade-trump-greenland.html",
-    "published": "Wed, 07 Jan 2026 14:22:15 CST",
-    "summary": "The president is again focused on acquiring the mineral-rich island. But lack\nof clarity about his goals and tactics is weighing on political and business\nleaders.\n\n"
   },
   {
     "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
