@@ -1,5 +1,17 @@
 [
   {
+    "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fgm-hq-detroit-artifacts-company-history.html",
+    "published": "Sun, 11 Jan 2026 09:00:01 CST",
+    "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
+  },
+  {
+    "title": "Congo Central Bank to Intervene to Curb Currency Speculation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fcongo-central-bank-to-intervene-to-curb-currency-speculation",
+    "published": "Sun, 11 Jan 2026 08:34:21 CST",
+    "summary": "The central bank of the Democratic Republic of Congo said it plans to continue\nintervening in the foreign exchange market to curb currency speculation.\n\n"
+  },
+  {
     "title": "Greggs Tests Limit of Britain’s Appetite for Its Sausage Rolls",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgreggs-tests-limit-of-britain-s-appetite-for-its-sausage-rolls",
     "published": "Sun, 11 Jan 2026 08:30:00 CST",
@@ -268,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbarnes-noble-ceo-on-the-bookstore-renaissance-video",
     "published": "Fri, 09 Jan 2026 23:57:58 CST",
     "summary": "Barnes & Noble is the largest retail bookseller in the United States. The\ncompany has approximately 600 bookstores across the United States, as well as\nits online bookstore at BN.com, the NOOK Digital business, which offers both\neBooks and an audio book subscriptions service, the SparkNotes educational\nservice, and stationery and gift retailer Paper Source. James Daunt serves as\nthe CEO of Barnes & Noble. He discusses his stewardship and rejuvenation of\nthe popular chain, as well as whether the Elliott Advisors-owned company might\nonce again go public. James speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Colombia Leader Resumes Criticism of US After Detente With Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Fcolombia-s-gustavo-petro-resumes-criticism-of-us-after-one-day-truce-with-trump",
-    "published": "Fri, 09 Jan 2026 23:52:00 CST",
-    "summary": "Colombian President Gustavo Petro renewed his criticism of US policy after\nbriefly softening his tone this week following a phone call with Donald Trump.\n\n"
   },
   {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
@@ -880,12 +886,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fminneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html",
     "published": "Mon, 05 Jan 2026 17:00:38 CST",
     "summary": "In a CNBC interview, he said the key now is whether the Fed should be more\nfocused on the labor market or inflation.\n\n"
-  },
-  {
-    "title": "Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchick-fil-a-launches-80th-anniversary-marketing-campaign.html",
-    "published": "Mon, 05 Jan 2026 16:53:57 CST",
-    "summary": "Chick-fil-A's anniversary campaign gives the chicken chain the opportunity to\nattract more customers to its restaurants.\n\n"
   },
   {
     "title": "U.S. stocks show little reaction to Trump's extraordinary Venezuela action. Why investors see a bull case",
