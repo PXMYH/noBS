@@ -1,9 +1,39 @@
 [
   {
+    "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
+    "published": "Sun, 11 Jan 2026 10:02:25 CST",
+    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
+  },
+  {
+    "title": "How a Puzzling 401(k) Plan Changed One Woman’s Life",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
+    "published": "Sun, 11 Jan 2026 10:01:54 CST",
+    "summary": "Eryn Schultz was an H-E-B grocery store leader with an M.B.A. A slow pivot\ntoward a big career change began when she found her retirement plan wanting.\n\n"
+  },
+  {
+    "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
+    "published": "Sun, 11 Jan 2026 10:01:48 CST",
+    "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
+  },
+  {
+    "title": "This new crash test dummy could keep women safer in car accidents",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F11%2Ffemale-crash-test-dummy%2F",
+    "published": "Sun, 11 Jan 2026 10:00:00 CST",
+    "summary": "While regulators have been testing crash impacts for decades, there’s a dearth\nof data on women, who face a higher risk of death in auto accidents.\n\n"
+  },
+  {
     "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fgm-hq-detroit-artifacts-company-history.html",
     "published": "Sun, 11 Jan 2026 09:00:01 CST",
     "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
+  },
+  {
+    "title": "Germany Open to ‘Joint Action’ to Secure Supply Chains, Vice Chancellor Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgermany-open-to-joint-action-to-secure-supply-chains-minister",
+    "published": "Sun, 11 Jan 2026 09:00:00 CST",
+    "summary": "Germany is open to taking “joint action” with international partners to\nbolster supply chains and ensure access to materials critical to\nmanufacturing, Vice Chancellor and Finance Minister Lars Klingbeil said before\ndeparting for a two-day visit to the US.\n\n"
   },
   {
     "title": "Congo Central Bank to Intervene to Curb Currency Speculation",
@@ -276,12 +306,6 @@
     "summary": "Michael Burry, the famed investor who has drawn attention in recent months for\ncriticism of the artificial intelligence boom, is betting against Oracle Corp.\n\n"
   },
   {
-    "title": "Barnes & Noble CEO James Daunt on the Bookstore Renaissance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fbarnes-noble-ceo-on-the-bookstore-renaissance-video",
-    "published": "Fri, 09 Jan 2026 23:57:58 CST",
-    "summary": "Barnes & Noble is the largest retail bookseller in the United States. The\ncompany has approximately 600 bookstores across the United States, as well as\nits online bookstore at BN.com, the NOOK Digital business, which offers both\neBooks and an audio book subscriptions service, the SparkNotes educational\nservice, and stationery and gift retailer Paper Source. James Daunt serves as\nthe CEO of Barnes & Noble. He discusses his stewardship and rejuvenation of\nthe popular chain, as well as whether the Elliott Advisors-owned company might\nonce again go public. James speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
     "published": "Fri, 09 Jan 2026 23:17:05 CST",
@@ -486,12 +510,6 @@
     "summary": "Exclusive: SIK leader Jess Berthelsen rejects Trump claim that the US needs\nGreenland for ‘national security’\n\nGreenland “will not be annexed”, the longtime leader of its largest labor\nunion has declared, refuting Donald Trump’s claims that the Arctic territory’s\ncurrent status poses a national security threat to the US.\n\nIn an interview with the Guardian, Jess Berthelsen, chair of SIK, Greenland’s\nnational trade union confederation, said people in the territory do not\nrecognize the US president’s allegations that Russian and Chinese ships are\nscattered throughout its waters. “We can’t see it, we can’t recognize it and\nwe can’t understand it,” he said.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Georgia town of 5,000 vows to fight ICE plan to warehouse 9,000 detainees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-immigration-ice-detention%2F",
-    "published": "Fri, 09 Jan 2026 10:00:00 CST",
-    "summary": "Some small cities and towns say they don’t have the sewer systems or other\ninfrastructure needed to absorb thousands of detainees.\n\n"
-  },
-  {
     "title": "Mining firms Rio Tinto and Glencore restart $260bn merger talks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F09%2Fmining-firms-rio-tinto-and-glencore-restart-merger-talks",
     "published": "Fri, 09 Jan 2026 08:09:04 CST",
@@ -642,12 +660,6 @@
     "summary": "President reportedly hopes falling price will cut domestic consumer energy\nbills\n\n  * Business live – latest updates\n\nDonald Trump plans to use Venezuela’s vast crude reserves to establish control\nof most of the western hemisphere’s oil in an attempt to drive the market\nprice down to about $50 (£37) a barrel, according to reports.\n\nThe US president has repeatedly raised the prospect of producing enough crude\nfrom Venezuela’s oilfields to drive down the US oil price from more than $56 a\nbarrel today to about $50 in an effort to cut energy costs for consumers,\naccording to the Wall Street Journal, which cited senior Trump administration\nofficials.\n\nContinue reading...\n\n"
   },
   {
-    "title": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-hainan-island-duty-free.html",
-    "published": "Thu, 08 Jan 2026 03:37:31 CST",
-    "summary": "Policies meant to lure importers to Hainan, a resort island off China’s coast,\nsignal an opening up, Beijing says. One expert calls it a “bait and switch.”\n\n"
-  },
-  {
     "title": "Mamdani Hosts Influencer Summit, Sidestepping Traditional Media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html",
     "published": "Thu, 08 Jan 2026 03:03:30 CST",
@@ -706,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html",
     "published": "Wed, 07 Jan 2026 20:43:39 CST",
     "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
-  },
-  {
-    "title": "China’s Threat to Block Rare Earths Has Put Japan on High Alert",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fchina-japan-rare-earths.html",
-    "published": "Wed, 07 Jan 2026 19:47:11 CST",
-    "summary": "Tokyo is concerned at signs that Beijing may be laying the groundwork to\nrestrict access to the metals vital to manufacturing.\n\n"
   },
   {
     "title": "Bruce Crawford, Arts-Loving Adman Who Led the Met Opera, Dies at 96",
@@ -778,12 +784,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fwarner-bros-paramount-netflix.html",
     "published": "Wed, 07 Jan 2026 12:10:07 CST",
     "summary": "The board said the blockbuster deal it reached with Netflix last month posed\nless risk.\n\n"
-  },
-  {
-    "title": "Fed’s Independence Faces Critical Tests as Trump Seeks to Remake Institution",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Ffed-independence-trump.html",
-    "published": "Wed, 07 Jan 2026 10:01:57 CST",
-    "summary": "The central bank faces two major hurdles early on in 2026 that will determine\nthe extent to which it operates free of political meddling.\n\n"
   },
   {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
