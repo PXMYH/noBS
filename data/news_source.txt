@@ -12,12 +12,6 @@
     "summary": "Asia’s technology stocks began 2026 on a tear, with investors betting their\nmomentum and outperformance against US peers will last through the year.\n\n"
   },
   {
-    "title": "Nephew of Former Thai Premier Thaksin Faces Balancing Act to Win Over Electorate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fthaksin-nephew-faces-balancing-act-to-win-over-thai-electorate",
-    "published": "Sat, 10 Jan 2026 22:55:16 CST",
-    "summary": "Yodchanan Wongsawat, the Pheu Thai Party’s top candidate for prime minister,\nfaces a delicate balancing act in his quest to run the Southeast Asian country\n-- he must leverage his family’s legacy to win the support of the party\nfaithful, while showing he has fresh ideas to revitalize the economy.\n\n"
-  },
-  {
     "title": "US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters",
     "published": "Sat, 10 Jan 2026 22:09:08 CST",
@@ -280,6 +274,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
     "published": "Fri, 09 Jan 2026 23:17:05 CST",
     "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
+  },
+  {
+    "title": "Meghan Robson on Credit Market, Saks Bonds Slump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeghan-robson-on-credit-market-saks-bonds-slump-video",
+    "published": "Fri, 09 Jan 2026 23:15:35 CST",
+    "summary": "Meghan Robson, head of US credit strategy at BNP Paribas discusses the credit\nmarket and Sacs bond slump in an interview with Scarlet Fu on \"Real Yield.\"\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
