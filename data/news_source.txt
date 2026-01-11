@@ -1,8 +1,14 @@
 [
   {
+    "title": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
+    "published": "Sun, 11 Jan 2026 19:28:26 CST",
+    "summary": "Grok, the chatbot created by Elon Musk’s artificial intelligence company, has\nproduced a flood of explicit images featuring real people in recent weeks.\n\n"
+  },
+  {
     "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
-    "published": "Sun, 11 Jan 2026 17:00:41 CST",
+    "published": "Sun, 11 Jan 2026 18:51:51 CST",
     "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
   },
   {
@@ -46,12 +52,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2F-captain-condor-wipeout-offers-harsh-lesson-in-managing-risk",
     "published": "Sun, 11 Jan 2026 15:00:00 CST",
     "summary": "It wasn’t some YOLO trade that took down a successful options trader over\nChristmas, but a centuries-old gambling strategy popular with amateur\nblackjack players.\n\n"
-  },
-  {
-    "title": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
-    "published": "Sun, 11 Jan 2026 14:11:47 CST",
-    "summary": "Grok, the chatbot created by Elon Musk’s artificial intelligence company, has\nproduced a flood of explicit images featuring real people in recent weeks.\n\n"
   },
   {
     "title": "Magnificent 7’s Stock Market Dominance Shows Signs of Cracking",
@@ -436,12 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html",
     "published": "Fri, 09 Jan 2026 19:33:15 CST",
     "summary": "China built a dominant strategic position in the region as the leading lender\nand trading partner. It is watching President Trump’s next moves closely.\n\n"
-  },
-  {
-    "title": "Employers added 50,000 jobs in December, capping off slow 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Fjobs-report-unemployment-rate%2F",
-    "published": "Fri, 09 Jan 2026 19:13:37 CST",
-    "summary": "The unemployment rate ticked down to 4.4 percent, as layoffs remain low\ndespite the worst year for job creation since 2020.\n\n"
   },
   {
     "title": "US hiring held firm in December capping weakest year of growth since pandemic",
