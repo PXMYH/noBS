@@ -1,5 +1,17 @@
 [
   {
+    "title": "New York, US East Will Chill for Mid-January While West Warms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fnew-york-us-east-will-chill-for-mid-january-while-west-warms",
+    "published": "Sun, 11 Jan 2026 21:04:17 CST",
+    "summary": "The middle of January is looking to be warm and dry in the western US and\ncooler in central and eastern parts of the country, which may drive energy\ndemand as the densely populated cities from Chicago to New York feel the\nchill, the US Climate Prediction Center said.\n\n"
+  },
+  {
+    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
+    "published": "Sun, 11 Jan 2026 20:47:15 CST",
+    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
+  },
+  {
     "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
     "published": "Sun, 11 Jan 2026 20:28:39 CST",
@@ -16,12 +28,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
     "published": "Sun, 11 Jan 2026 19:28:26 CST",
     "summary": "Grok, the chatbot created by Elon Musk’s artificial intelligence company, has\nproduced a flood of explicit images featuring real people in recent weeks.\n\n"
-  },
-  {
-    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
-    "published": "Sun, 11 Jan 2026 18:51:51 CST",
-    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
   },
   {
     "title": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
@@ -340,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fstock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says",
     "published": "Sat, 10 Jan 2026 07:15:36 CST",
     "summary": "Higher stock trading stamp duty revenue may enable the Hong Kong government to\nreturn its day-to-day budget back to a surplus sooner than expected, Financial\nSecretary Paul Chan told RTHK on Saturday.\n\n"
-  },
-  {
-    "title": "Egypt Inflation Holds Steady, May Give Scope for More Rate Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fegypt-inflation-holds-steady-may-give-scope-for-more-rate-cuts",
-    "published": "Sat, 10 Jan 2026 06:54:16 CST",
-    "summary": "Egypt’s inflation rate was unchanged in December, potentially giving the\ncentral bank scope to further cut borrowing costs in 2026.\n\n"
   },
   {
     "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
