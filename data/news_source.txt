@@ -1,5 +1,35 @@
 [
   {
+    "title": "Ukraine Strikes Russian Oil Drilling Platforms in Caspian Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fukraine-strikes-russian-oil-drilling-platforms-in-caspian-sea",
+    "published": "Sun, 11 Jan 2026 15:23:26 CST",
+    "summary": "Ukraine overnight targeted three drilling platforms in the Caspian Sea owned\nby Russian oil major Lukoil in the latest move to weaken Russia’s economic\ncapacity to fund its war effort.\n\n"
+  },
+  {
+    "title": "Trump Firm Sharpens Saudi Property Focus as Prince Opens Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Ftrump-firm-sharpens-saudi-property-focus-as-prince-opens-market",
+    "published": "Sun, 11 Jan 2026 15:15:18 CST",
+    "summary": "The Trump Organization and luxury developer Dar Global Plc are kicking off\nsales at real estate projects in Saudi Arabia valued at $10 billion, seeking\nto capitalize on new rules that will soon make it easier for foreigners to\ninvest.\n\n"
+  },
+  {
+    "title": "Why Mount Everest Became a Playground for the Ultra-Rich",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-11%2Fwhy-mount-everest-became-a-playground-for-the-ultra-rich-video",
+    "published": "Sun, 11 Jan 2026 15:05:04 CST",
+    "summary": "With expeditions priced as high as $230,000, heated tents and Western chefs at\nbase camp, Everest is now a luxury playground for the ultra-wealthy. Growing\ndemand for Everest expeditions is the latest in a growing trend from the\nwealthy to seek out adventure in their travels. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Are a record number of mom and pops going bankrupt? Kinda but not really",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fsmall-business-bankruptcy",
+    "published": "Sun, 11 Jan 2026 15:00:28 CST",
+    "summary": "Yes, the number of small businesses that filed for bankruptcy in 2025\nincreased from 2024. But only by 10\n\nAre mom-and-pop stores going bankrupt at historically high levels? That would\nseem to be the impression you’d get from recent news reports referencing data\nreleased from Epiq Bankruptcy Analytics, a provider of legal services that\nspecializes in bankruptcy services.\n\nUh-oh! Some have seen this as proof that Donald Trump’s policies are\nbankrupting Main Street. Well, no, not quite.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "‘Captain Condor’ Wipeout Offers Harsh Lesson in Managing Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2F-captain-condor-wipeout-offers-harsh-lesson-in-managing-risk",
+    "published": "Sun, 11 Jan 2026 15:00:00 CST",
+    "summary": "It wasn’t some YOLO trade that took down a successful options trader over\nChristmas, but a centuries-old gambling strategy popular with amateur\nblackjack players.\n\n"
+  },
+  {
     "title": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
     "published": "Sun, 11 Jan 2026 14:11:47 CST",
@@ -64,6 +94,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Firaq-cuts-february-basrah-medium-crude-to-asia-to-1-30-discount",
     "published": "Sun, 11 Jan 2026 11:53:18 CST",
     "summary": "Iraq cut the pricing of its Basrah Medium crude for Asian customers in\nFebruary, following a similar move by Saudi Arabia to lower the cost of its\nflagship oil to buyers in the biggest market.\n\n"
+  },
+  {
+    "title": "Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us",
+    "published": "Sun, 11 Jan 2026 11:33:31 CST",
+    "summary": "Oil is US president’s motivation but his concept of economic success feels as\noutdated as his music tastes\n\nThe word “loot” entered the English language from Hindi in the late 18th\ncentury, as the rapacious East India Company plundered its way across the\nsubcontinent.\n\nIt was a trading company, not a state – but it had the imprimatur of the\nEnglish crown and its own large private army, mingling commerce and military\nforce and opening the way for British imperial dominance of India.\n\nContinue reading...\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -318,40 +354,16 @@
     "summary": "The president revived a campaign promise he has not actively pursued since\ntaking office.\n\n"
   },
   {
-    "title": "Low Inflation Helping India’s Economic Growth, Modi Adviser Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Flow-inflation-helping-india-s-economic-growth-modi-adviser-says",
-    "published": "Sat, 10 Jan 2026 03:53:58 CST",
-    "summary": "The Indian economy is resilient and expected to be the world’s fastest-\ngrowing, buoyed by low inflation and underpinned by financial stability,\naccording to a key adviser to Prime Minister Narendra Modi.\n\n"
-  },
-  {
-    "title": "Mexico Oil Shipment Reaches Cuba, Increasing Tensions With US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmexico-oil-shipment-reaches-cuba-increasing-tensions-with-us",
-    "published": "Sat, 10 Jan 2026 02:52:36 CST",
-    "summary": "A tanker carrying between 85,000 and 90,000 barrels of oil arrived in Havana\nfrom Mexico amid growing tensions with the US over the shipments after the\nfall of Venezuela’s ousted President Nicolás Maduro last week.\n\n"
-  },
-  {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
     "published": "Sat, 10 Jan 2026 01:56:20 CST",
     "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
   },
   {
-    "title": "Walmart To Join Nasdaq 100 on Jan. 20 as AstraZeneca Exits",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fwalmart-to-join-nasdaq-100-next-week-as-astrazeneca-exits",
-    "published": "Sat, 10 Jan 2026 01:45:41 CST",
-    "summary": "Walmart Inc. will join the Nasdaq 100 Index, replacing AstraZeneca Plc, Nasdaq\nGlobal Indexes said Friday.\n\n"
-  },
-  {
     "title": "Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
     "published": "Sat, 10 Jan 2026 00:39:14 CST",
     "summary": "Trump holds a meeting of oil CEOs at the White House to project support for\nhis Venezuela plans. But the companies are skeptical.\n\n"
-  },
-  {
-    "title": "Investor Michael Burry Reveals Options Bet Against Oracle",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Finvestor-michael-burry-reveals-options-bet-against-oracle-shares",
-    "published": "Sat, 10 Jan 2026 00:02:59 CST",
-    "summary": "Michael Burry, the famed investor who has drawn attention in recent months for\ncriticism of the artificial intelligence boom, is betting against Oracle Corp.\n\n"
   },
   {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
@@ -834,12 +846,6 @@
     "summary": "Investors are betting that a political transition along with a clearer path to\nasset recovery could unlock value that has been frozen for nearly a decade.\n\n"
   },
   {
-    "title": "Trump says US companies will invest billions in Venezuelan oil production. Experts aren’t so sure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F06%2Ftrump-oil-companies-venezuela",
-    "published": "Tue, 06 Jan 2026 18:19:13 CST",
-    "summary": "Industry insiders say US oil firms want to ‘avoid getting screwed’ and will\nproceed with extreme caution in region\n\n  * Analysis: Trump’s focus on Venezuelan oil reinforces claim action was never about ‘war on drugs’\n\nIndustry experts have expressed skepticism over Donald Trump’s bullish\nprediction that US big oil firms will rapidly invest tens of billions of\ndollars to fix Venezuelan infrastructure and ramp up production after the\nrendition of the country’s president, Nicolás Maduro.\n\nWithout an “iron-clad guarantee” that the US federal government will fully\nreimburse them for the cost of rebuilding the country’s oil market, analysts\nexpect global energy giants to proceed with extreme caution.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Vistra, Onestream, Microchip Technology & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fstocks-making-the-biggest-moves-premarket-vst-os-mchp.html",
     "published": "Tue, 06 Jan 2026 17:46:24 CST",
@@ -868,12 +874,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html",
     "published": "Tue, 06 Jan 2026 15:15:17 CST",
     "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019\nand just 2.4% below 2019's pre-pandemic total.\n\n"
-  },
-  {
-    "title": "The strangest thing: is the future of cinema … not new movies?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F06%2Fnon-traditional-cinema-releases",
-    "published": "Tue, 06 Jan 2026 12:04:12 CST",
-    "summary": "Netflix’s big-screen release of the Stranger Things finale is estimated to\nhave made over $25m at the US box office, the latest example of event cinema\nproving popular\n\nIt was a lucrative holiday period at the North American box office these past\ntwo weeks, with titles like Avatar: Fire and Ash, The Housemaid, Marty\nSupreme, Anaconda and Zootopia 2 bringing a welcome diversity of hit movies\nafter an underwhelming fall. But during that period, the biggest single-day\ngross posted by any release wasn’t really a gross – or a movie. It was the\nseries finale of the Netflix TV show Stranger Things.\n\nNetflix made a deal to put the feature-length episode in theaters\nsimultaneously with its streaming debut, and estimates put the numbers for the\n24 hours’ worth of shows, beginning at 8pm on New Year’s Eve and continuing\nthroughout New Year’s Day, around $25m. That’s bigger than any single day of\nAvatar: Fire and Ash after its opening weekend. In fact, if the Stranger\nThings release banked over $30m, as some estimated, that would make it the\nsecond-biggest 24 hours for any release in December, beaten only by Avatar 3’s\nopening day.\n\nContinue reading...\n\n"
   },
   {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
