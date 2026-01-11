@@ -1,9 +1,33 @@
 [
   {
-    "title": "Asian Stocks Set to Track US Gains, Oil in Focus: Markets Wrap",
+    "title": "Oil Rises for a Third Day as Focus Shifts to Iranian Protests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12",
+    "published": "Sun, 11 Jan 2026 23:17:54 CST",
+    "summary": "Oil rose for a third day as escalating protests in Iran threatened supply from\nOPEC’s fourth-biggest producer.\n\n"
+  },
+  {
+    "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
+    "published": "Sun, 11 Jan 2026 23:16:14 CST",
+    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
+  },
+  {
+    "title": "Macquarie’s Latest Data Center Bet is a Tiny German Startup",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fmacquarie-loans-117-million-to-polarise-for-data-center-fit-outs",
+    "published": "Sun, 11 Jan 2026 23:01:00 CST",
+    "summary": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to\nGerman data center infrastructure startup Polarise GmbH, as a debt-fueled boom\nin the sector continues into 2026.\n\n"
+  },
+  {
+    "title": "OmniVision Set for Hong Kong Debut After $616 Million Offering",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fomnivision-set-for-hong-kong-debut-after-616-million-offering",
+    "published": "Sun, 11 Jan 2026 23:00:00 CST",
+    "summary": "Hong Kong is set to add another chip designer to its bourse, as a wave of\nChinese artificial-intelligence companies races to tap capital in the\nfinancial hub for expansion.\n\n"
+  },
+  {
+    "title": "Asian Stocks Set to Follow US Gains, Oil in Focus: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
-    "summary": "Asian equities were poised to climb in early trading after US jobs data\nsupported new highs for stocks on Friday. Investors were also focused on oil\nprices as protests in Iran intensified.\n\n"
+    "summary": "Asian equities were poised to climb in early trading after US jobs data\nsupported new highs for stocks on Friday. Oil climbed as protests in Iran\nintensified.\n\n"
   },
   {
     "title": "New York, US East Will Chill for Mid-January While West Warms",
@@ -16,12 +40,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
     "published": "Sun, 11 Jan 2026 20:47:15 CST",
     "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
-  },
-  {
-    "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
-    "published": "Sun, 11 Jan 2026 20:28:39 CST",
-    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
   },
   {
     "title": "Bond Traders’ Big Bet for 2026 Vindicated by Soft US Job Growth",
@@ -342,18 +360,6 @@
     "summary": "Investors began diversifying away from U.S.-based assets and the dollar in\n2025 even as AI-fueled optimism powered the S&P 500 more than 16 percent\nhigher.\n\n"
   },
   {
-    "title": "Troubled World Heralds Next Stage of the Defense Stocks Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Ftroubled-world-heralds-next-stage-of-the-defense-stocks-rally",
-    "published": "Sat, 10 Jan 2026 09:30:00 CST",
-    "summary": "If the tumultuous first 10 days of 2026 have convinced investors in Europe and\nAsia of anything, it’s that defense stocks are poised for another strong year.\n\n"
-  },
-  {
-    "title": "Gold Investors Stay Bullish After Record Rally in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fgold-investors-stay-bullish-after-record-rally-in-2025",
-    "published": "Sat, 10 Jan 2026 08:30:00 CST",
-    "summary": "After one of the most explosive rallies in modern market history, few\ninvestors expect gold to pull off a repeat in 2026. But many top money\nmanagers are still betting on further gains, arguing that the forces that\npropelled bullion to a record remain in place.\n\n"
-  },
-  {
     "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fvolkswagen-tariffs-trump.html",
     "published": "Sat, 10 Jan 2026 05:00:05 CST",
@@ -640,12 +646,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Thu, 08 Jan 2026 18:56:53 CST",
     "summary": "Regulators said they would look at whether the deal for Manus, a Singapore\nstart-up with Chinese roots, complied with China’s export and investment\nrules.\n\n"
-  },
-  {
-    "title": "Vitol, Trafigura Are in Talks With US Refiners to Gauge Interest in Venezuelan Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-08%2Fvitol-is-in-talks-with-us-refiners-to-gauge-interest-in-venezuela-s-oil",
-    "published": "Thu, 08 Jan 2026 17:53:41 CST",
-    "summary": "Trafigura Group and Vitol Group, two of the world’s largest commodities\ntrading houses, are in discussions with US refiners to gauge interest in\nbuying Venezuelan oil after President Donald Trump said the South American\ncountry would relinquish as many as 50 million barrels to the US.\n\n"
   },
   {
     "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
