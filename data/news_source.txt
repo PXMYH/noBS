@@ -1,15 +1,15 @@
 [
   {
+    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
+    "published": "Sun, 11 Jan 2026 17:00:41 CST",
+    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
+  },
+  {
     "title": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html",
     "published": "Sun, 11 Jan 2026 16:38:56 CST",
     "summary": "During a meeting at the White House, the industry leaders appeared wary of\nmaking long-term investments in the country.\n\n"
-  },
-  {
-    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
-    "published": "Sun, 11 Jan 2026 16:22:44 CST",
-    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
   },
   {
     "title": "Iran Protests Escalate During Internet Crackdown",
