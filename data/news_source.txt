@@ -1,5 +1,17 @@
 [
   {
+    "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
+    "published": "Sun, 11 Jan 2026 20:28:39 CST",
+    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
+  },
+  {
+    "title": "Bond Traders’ Big Bet for 2026 Vindicated by Soft US Job Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fbond-traders-big-bet-for-2026-vindicated-by-soft-us-job-growth",
+    "published": "Sun, 11 Jan 2026 20:00:00 CST",
+    "summary": "Bond investors’ overarching wager on the path of the Federal Reserve and the\nTreasuries market in 2026 looks like it has room to run.\n\n"
+  },
+  {
     "title": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
     "published": "Sun, 11 Jan 2026 19:28:26 CST",
@@ -58,12 +70,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fmagnificent-7-s-stock-market-dominance-shows-signs-of-cracking",
     "published": "Sun, 11 Jan 2026 14:00:07 CST",
     "summary": "To beat the market in recent years, many investors applied a simple strategy:\nLoad up on the biggest US technology stocks.\n\n"
-  },
-  {
-    "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
-    "published": "Sun, 11 Jan 2026 13:38:09 CST",
-    "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
   },
   {
     "title": "Venezuela Surge Leaves Slim Pickings in Emerging Distressed Debt",
@@ -309,7 +315,7 @@
     "title": "Tony Dokoupil sets new tone for ‘CBS Evening News’ in first week as anchor",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2Ftony-dokoupil-cbs-evening-news%2F",
     "published": "Sat, 10 Jan 2026 10:00:47 CST",
-    "summary": "The storied newscast once helmed by Walter Cronkite now runs third behind its\ncompetitors and is being closely watched as CBS News’ top editor promises a\npolitical reset.\n\n"
+    "summary": "The newscast once helmed by Walter Cronkite now runs third behind its\ncompetitors and is being closely watched as CBS News’s top editor promises a\npolitical reset.\n\n"
   },
   {
     "title": "Why U.S. stocks are being outdone by the rest of the world",
@@ -340,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fegypt-inflation-holds-steady-may-give-scope-for-more-rate-cuts",
     "published": "Sat, 10 Jan 2026 06:54:16 CST",
     "summary": "Egypt’s inflation rate was unchanged in December, potentially giving the\ncentral bank scope to further cut borrowing costs in 2026.\n\n"
-  },
-  {
-    "title": "Swiss Ability to Fire Staff at Will Is a Model Merz Can Dream Of",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fswitzerland-s-secret-sauce-on-jobs-is-a-model-merz-can-dream-of",
-    "published": "Sat, 10 Jan 2026 06:00:00 CST",
-    "summary": "Switzerland’s economic resilience is showcasing the prowess of one of Europe’s\nmost business-friendly domains, where companies can fire workers with relative\nimpunity.\n\n"
   },
   {
     "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
