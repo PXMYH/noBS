@@ -1,5 +1,17 @@
 [
   {
+    "title": "Greggs Tests Limit of Britain’s Appetite for Its Sausage Rolls",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgreggs-tests-limit-of-britain-s-appetite-for-its-sausage-rolls",
+    "published": "Sun, 11 Jan 2026 08:30:00 CST",
+    "summary": "Its sausage rolls are idolized on socks and T-shirts, and its thousands of\nshops make it Britain’s most unmissable baker. But Greggs Plc is showing the\nstrain of expansion, and investors are piling up bets against it.\n\n"
+  },
+  {
+    "title": "German Stockholders Want a Right to Invest Good Money After Bad",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgerman-stockholders-want-a-right-to-invest-good-money-after-bad",
+    "published": "Sun, 11 Jan 2026 08:00:00 CST",
+    "summary": "In Germany, some small investors who lost everything on companies on the verge\nof insolvency are complaining that they haven’t been allowed to put more money\ninto the collapsed businesses.\n\n"
+  },
+  {
     "title": "China Debuts Mid-Altitude, Low-Cost Cargo Aircraft: CCTV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fchina-debuts-mid-altitude-low-cost-cargo-aircraft-cctv",
     "published": "Sun, 11 Jan 2026 03:54:16 CST",
@@ -264,22 +276,10 @@
     "summary": "Colombian President Gustavo Petro renewed his criticism of US policy after\nbriefly softening his tone this week following a phone call with Donald Trump.\n\n"
   },
   {
-    "title": "Stocks Rise as Payroll Growth Slows: Trump Meets Oil Executives | The Close 1/9/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fthe-close-1-9-2026-video",
-    "published": "Fri, 09 Jan 2026 23:44:12 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Hartree Partners’ Ed Morse, Goldman Sachs’ Carly Davenport,\nPipeline’s Katica Roy, Gabelli Funds’ John Belton, National Center for\nEnergy’s Neil Atkinson, Eurasia Group’s Jon Lieber, Stord’s Sean Henry,\nCircle’s Wyclef Jean and Kash Razzaghi. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
     "published": "Fri, 09 Jan 2026 23:17:05 CST",
     "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
-  },
-  {
-    "title": "Meghan Robson on Credit Market, Saks Bonds Slump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeghan-robson-on-credit-market-saks-bonds-slump-video",
-    "published": "Fri, 09 Jan 2026 23:15:35 CST",
-    "summary": "Meghan Robson, head of US credit strategy at BNP Paribas discusses the credit\nmarket and Sacs bond slump in an interview with Scarlet Fu on \"Real Yield.\"\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
