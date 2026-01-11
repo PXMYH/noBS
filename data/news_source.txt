@@ -1,15 +1,27 @@
 [
   {
+    "title": "How a Puzzling 401(k) Plan Changed One Woman’s Life",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
+    "published": "Sun, 11 Jan 2026 13:06:14 CST",
+    "summary": "Eryn Schultz was an H-E-B grocery store leader with an M.B.A. A slow pivot\ntoward a big career change began when she found her retirement plan wanting.\n\n"
+  },
+  {
+    "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fboeing-plane-deliveries-production-pace.html",
+    "published": "Sun, 11 Jan 2026 12:00:01 CST",
+    "summary": "Boeing is set to outline its production increase plans later this month after\nit's expected to post its best year for deliveries since 2018.\n\n"
+  },
+  {
+    "title": "Iraq Cuts February Basrah Medium Crude to Asia to $1.30 Discount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Firaq-cuts-february-basrah-medium-crude-to-asia-to-1-30-discount",
+    "published": "Sun, 11 Jan 2026 11:53:18 CST",
+    "summary": "Iraq cut the pricing of its Basrah Medium crude for Asian customers in\nFebruary, following a similar move by Saudi Arabia to lower the cost of its\nflagship oil to buyers in the biggest market.\n\n"
+  },
+  {
     "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
     "published": "Sun, 11 Jan 2026 10:52:57 CST",
     "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
-  },
-  {
-    "title": "How a Puzzling 401(k) Plan Changed One Woman’s Life",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
-    "published": "Sun, 11 Jan 2026 10:01:54 CST",
-    "summary": "Eryn Schultz was an H-E-B grocery store leader with an M.B.A. A slow pivot\ntoward a big career change began when she found her retirement plan wanting.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -522,12 +534,6 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
-    "title": "India’s 7.4% Growth: Strong Signal or Misleading Headline?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Findia-s-7-4-growth-strong-signal-or-misleading-headline",
-    "published": "Fri, 09 Jan 2026 06:31:48 CST",
-    "summary": "India’s economy posted a 7.4% growth rate, but is it as robust as it seems? On\nInsight with Haslinda Amin, India's former Chief Economic Advisor spoke to\nMenaka Doshi, breaks down the numbers, warning against overconfidence. He\nhighlights slowing nominal indicators, decelerating GDP trends, and external\npressures like tariff shocks and geopolitical tensions. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
@@ -898,12 +904,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
     "published": "Mon, 05 Jan 2026 15:56:57 CST",
     "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\nMonday, with Liz Myers, who also serves as global chair of investment banking,\nat the helm.\n\n"
-  },
-  {
-    "title": "First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Ffirst-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html",
-    "published": "Mon, 05 Jan 2026 14:47:00 CST",
-    "summary": "The drug's cash prices are among the lowest on the market, ranging from $149\nto $299 per month, depending on the dose.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Chevron, Halliburton, QXO, Duolingo & more",
