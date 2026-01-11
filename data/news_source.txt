@@ -1,5 +1,11 @@
 [
   {
+    "title": "Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fglobal-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang",
+    "published": "Sun, 11 Jan 2026 00:00:00 CST",
+    "summary": "Asia’s technology stocks began 2026 on a tear, with investors betting their\nmomentum and outperformance against US peers will last through the year.\n\n"
+  },
+  {
     "title": "Nephew of Former Thai Premier Thaksin Faces Balancing Act to Win Over Electorate",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fthaksin-nephew-faces-balancing-act-to-win-over-thai-electorate",
     "published": "Sat, 10 Jan 2026 22:55:16 CST",
@@ -274,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeghan-robson-on-credit-market-saks-bonds-slump-video",
     "published": "Fri, 09 Jan 2026 23:15:35 CST",
     "summary": "Meghan Robson, head of US credit strategy at BNP Paribas discusses the credit\nmarket and Sacs bond slump in an interview with Scarlet Fu on \"Real Yield.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Wyclef Jean on New Role as Circle Global Culture Advisor",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fwyclef-jean-on-new-role-as-circle-global-culture-advisor-video",
-    "published": "Fri, 09 Jan 2026 23:08:13 CST",
-    "summary": "Wyclef Jean, Fugees founding member and Circle Global Culture advisor, and\nKash Razzaghi, Circle chief business officer, discuss bringing stablecoin\ninnovation to the global stage with Romaine Bostick and Katie Greifeld on “The\nClose.” Jean says he wants to promote a borderless vision for stablecoins.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
