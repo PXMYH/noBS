@@ -1,5 +1,11 @@
 [
   {
+    "title": "China Debuts Mid-Altitude, Low-Cost Cargo Aircraft: CCTV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fchina-debuts-mid-altitude-low-cost-cargo-aircraft-cctv",
+    "published": "Sun, 11 Jan 2026 03:54:16 CST",
+    "summary": "China has completed the maiden flight of the Tianma-1000, an unmanned cargo\naircraft capable of logistics and emergency responses, China Central\nTelevision reported Sunday.\n\n"
+  },
+  {
     "title": "Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fglobal-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang",
     "published": "Sun, 11 Jan 2026 00:00:00 CST",
@@ -218,7 +224,7 @@
   {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
-    "published": "Sat, 10 Jan 2026 01:56:19 CST",
+    "published": "Sat, 10 Jan 2026 01:56:20 CST",
     "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
   },
   {
@@ -274,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
     "published": "Fri, 09 Jan 2026 23:17:05 CST",
     "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
-  },
-  {
-    "title": "Meghan Robson on Credit Market, Saks Bonds Slump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-09%2Fmeghan-robson-on-credit-market-saks-bonds-slump-video",
-    "published": "Fri, 09 Jan 2026 23:15:35 CST",
-    "summary": "Meghan Robson, head of US credit strategy at BNP Paribas discusses the credit\nmarket and Sacs bond slump in an interview with Scarlet Fu on \"Real Yield.\"\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
@@ -698,7 +698,7 @@
   {
     "title": "How The Times Is Drawing on Over a Century of Reporting in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html",
-    "published": "Wed, 07 Jan 2026 20:43:38 CST",
+    "published": "Wed, 07 Jan 2026 20:43:39 CST",
     "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
   },
   {

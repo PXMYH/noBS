@@ -6,17 +6,7 @@ Generated from **218** unique articles (deduplicated from 218 total) across **1*
 
 ## 🌍 World & Politics
 
-{
-    "summary": "The US is making significant moves in Latin America, particularly in Venezuela, where the Trump administration is pushing to lift sanctions and secure oil deals following the ouster of Nicolás Maduro. Treasury Secretary Scott Bessent indicates sanctions relief could come as early as next week, while major oil traders like Vitol and Trafigura explore US refiner interest in Venezuelan crude. However, oil executives remain cautious about investing in the politically unstable country, despite Trump’s $100 billion plan to revive its oil sector. The shift in Venezuela’s leadership also eases tensions for Guyana, which faces reduced border-conflict risks amid its own oil boom. Meanwhile, China watches closely as the US expands its influence in a region where Beijing has long held economic dominance, particularly as Mexico sends oil shipments to Cuba, further straining US relations.
-
-Elsewhere, Greenland’s labor union leader rejects Trump’s annexation claims, asserting the territory is 'not for sale,' while Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff. In Ukraine, businesses like vodka maker Nemiroff press on with exports despite ongoing war disruptions, highlighting resilience amid conflict. Domestically, Trump seeks new powers to pressure defense contractors over delays and urges Congress to block Wall Street from buying single-family homes, aiming to address housing market challenges.",
-    "key_stories": [
-        "US nears lifting Venezuela sanctions to secure oil deals",
-        "Greenland rejects Trump’s annexation push",
-        "Ukrainian businesses expand exports despite war",
-        "Trump targets defense contractors over delays"
-    ]
-}
+The US is making significant moves in Latin America following the ouster of Venezuelan President Nicolás Maduro, with the Trump administration pushing to lift sanctions and secure Venezuelan oil reserves. Treasury Secretary Scott Bessent signals potential sanctions relief to facilitate oil sales, while major trading firms like Vitol and Trafigura explore deals with US refiners. However, oil executives remain cautious about investing in Venezuela despite Trump’s $100 billion plan, citing political and financial risks. The shift in Caracas has also eased tensions for Guyana, which faces less border conflict risk amid its booming oil sector. Meanwhile, Mexico’s oil shipments to Cuba are escalating US-Cuba tensions, highlighting the region’s shifting alliances. Elsewhere, Greenland’s labor leader rejects Trump’s annexation claims, and China warns the UK over Taiwan-related diplomatic disputes, underscoring broader geopolitical friction. Domestically, Trump seeks new powers to pressure defense contractors and calls for Congress to curb Wall Street’s single-family home purchases, reflecting his economic priorities.
 
 **Top Articles:**
 - [US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters)
@@ -31,7 +21,7 @@ Elsewhere, Greenland’s labor union leader rejects Trump’s annexation claims,
 
 ## 💰 Finance, Economics & Business
 
-Global markets open 2026 with cautious optimism as inflation trends show gradual cooling, though risks linger. U.S. inflation remains subdued, reinforcing expectations of measured Fed rate cuts, while Egypt's steady inflation hints at potential easing. However, corporate bond markets face pressure as more firms teeter near junk status, and Saks Global struggles to secure financing amid bankruptcy concerns. Meanwhile, geopolitical and energy shifts dominate headlines, with President Trump's aggressive push into Venezuela's oil sector drawing skepticism from major firms like Exxon, which call the country 'uninvestable' without reforms. Defense stocks rally as global tensions persist, while gold investors stay bullish after a record 2025. In corporate moves, Rio Tinto and Glencore restart merger talks in a potential $260 billion mining mega-deal, and JPMorgan takes over the Apple Card from Goldman Sachs. India's 7.4% growth fuels debate over its sustainability, while China promotes its duty-free Hainan island amid trade surplus tensions. The housing market shows signs of balancing, though Trump's policies—from mortgage bond purchases to credit card rate caps—spark industry backlash.
+Global markets open 2026 with cautious optimism as inflation trends show signs of stabilization, though risks linger. U.S. inflation remains subdued, reinforcing the Federal Reserve’s patient stance on rate cuts, while Egypt’s steady inflation raises hopes for further monetary easing. However, corporate bond markets face pressure as more firms teeter on the edge of junk status, and defense stocks rally amid geopolitical tensions. In corporate news, Rio Tinto and Glencore revive merger talks in a potential $260 billion deal that could reshape the mining sector, while General Motors posts a $7.1 billion loss after scaling back its electric vehicle ambitions. Meanwhile, Trump’s aggressive push into Venezuela’s oil industry sparks skepticism from energy giants like Exxon, which deem the country 'uninvestable' without major reforms. Gold investors remain bullish after a record 2025 rally, and BlackRock predicts a surge in retail crypto adoption this year. The housing market shows signs of balancing, though institutional buyers continue to dominate key U.S. metros.
 
 **Top Articles:**
 - [US Inflation to Pick Up After Muddy November CPI](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-inflation-to-pick-up-after-muddy-november-cpi)
@@ -40,28 +30,28 @@ Global markets open 2026 with cautious optimism as inflation trends show gradual
 - [Banks criticize Trump’s push for 10 percent credit card interest rate cap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F)
 - [A Trader’s Guide to Venezuela as Trump Takes Over Oil Industry](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fa-trader-s-guide-to-venezuela-as-trump-takes-over-oil-industry)
 
-**Sources**: archive.ph (79 articles)
+**Sources**: archive.ph (78 articles)
 
 ---
 
 ## 💻 Technology
 
-The global tech landscape in early 2026 is marked by Asia's surging dominance in AI, with Chinese leaders warning of a widening gap with the U.S. despite a $1 billion IPO week. Meanwhile, Elon Musk's AI chatbot, Grok, faces backlash for generating sexualized images, prompting restrictions. In corporate moves, Google's co-founders reduce ties to California, while JPMorgan shifts to AI-driven proxy voting. The EV market shows mixed signals, with GM recording $7.1 billion in charges due to slowdowns, while Lucid reports a 55% delivery increase. Regulatory scrutiny intensifies as China investigates Meta's AI startup acquisition, and Venezuela's potential Bitcoin stash draws attention amid Trump's push for oil investments.
+The tech and business landscape in early 2026 is marked by significant developments in AI, corporate strategy, and regulatory shifts. Asia's tech stocks surge as investors bet on the region's AI leadership, though Chinese AI leaders warn of a widening gap with the U.S. despite a $1 billion IPO week. Meanwhile, Elon Musk's AI chatbot, Grok, faces backlash for generating sexualized images, prompting restrictions on image requests. In corporate news, Walmart joins the Nasdaq 100, replacing AstraZeneca, while GM and Ford announce major restructuring and EV strategy shifts amid a slowing electric vehicle market. Regulatory scrutiny intensifies as China investigates Meta's acquisition of AI startup Manus, and JPMorgan drops controversial proxy advisors in favor of AI-driven analysis. The U.S. labor market shows signs of weakening, with December job growth hitting the lowest in five years, raising questions about economic stability under Trump's second term.
 
 **Top Articles:**
+- [China Debuts Mid-Altitude, Low-Cost Cargo Aircraft: CCTV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fchina-debuts-mid-altitude-low-cost-cargo-aircraft-cctv)
 - [Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fglobal-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)
 - [Nephew of Former Thai Premier Thaksin Faces Balancing Act to Win Over Electorate](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fthaksin-nephew-faces-balancing-act-to-win-over-thai-electorate)
 - [Bird Flu Viruses Raise Mounting Concerns Among Scientists](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html)
 - [Wall Street Week | US-Venezuela Policy, Farming Without Subsidies, Robotaxis, Everest Exclusivity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-10%2Fwall-street-week-farming-without-subsidies-robotaxis-video)
-- [China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fchina-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)
 
-**Sources**: archive.ph (85 articles)
+**Sources**: archive.ph (86 articles)
 
 ---
 
 ## 📰 Other News
 
-Global economic and political shifts dominate headlines as the EU and South America finalize a landmark free-trade agreement covering 700 million people, signaling a push for deeper international cooperation amid U.S. isolationist policies. Meanwhile, domestic tensions rise as nearly 16,000 New York City nurses prepare to strike over staffing and pay, reflecting broader labor struggles as minimum wages increase in several states. In business, Ford reports its strongest annual U.S. vehicle sales since 2019, while the auto market grapples with record-high monthly payments for both new and used cars. Culturally, Neon studio leads Golden Globe nominations with a slate of non-English films, highlighting a growing appetite for international cinema. Emerging trends include the launch of Novo Nordisk’s first GLP-1 obesity pill and a controversial California wealth tax targeting billionaires, underscoring evolving debates around healthcare and economic inequality.
+Global economic and political shifts dominate headlines as the EU and South America finalize a landmark free-trade agreement covering 700 million people, contrasting with the U.S.'s more coercive approach under Trump. Meanwhile, domestic tensions rise as nearly 16,000 New York City nurses prepare to strike over staffing and pay, while California’s proposed billionaire tax targets the ultra-wealthy. In business, Ford reports its strongest annual U.S. sales since 2019, and Manhattan office leasing hits a six-year high, signaling cautious optimism in commercial real estate. Culturally, Neon leads Golden Globe nominations with non-English films, reflecting a growing appetite for international cinema, while Netflix makes an exception for Ben Affleck and Matt Damon’s new movie, offering crew bonuses tied to performance. Emerging trends include the launch of Novo Nordisk’s first GLP-1 obesity pill and a surge in high car payments, with both new and used vehicles trapping buyers in $1,000-plus monthly debts.
 
 **Top Articles:**
 - [Commodities Rule, From Oil to Crops](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela)
@@ -74,4 +64,4 @@ Global economic and political shifts dominate headlines as the EU and South Amer
 
 ---
 
-*Digest generated on January 11, 2026 at 02:44 AM *
+*Digest generated on January 11, 2026 at 04:34 AM *
