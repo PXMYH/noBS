@@ -1,5 +1,17 @@
 [
   {
+    "title": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fworld%2Fasia%2Fmalaysia-indonesia-grok-ban.html",
+    "published": "Sun, 11 Jan 2026 14:11:47 CST",
+    "summary": "Grok, the chatbot created by Elon Musk’s artificial intelligence company, has\nproduced a flood of explicit images featuring real people in recent weeks.\n\n"
+  },
+  {
+    "title": "Magnificent 7’s Stock Market Dominance Shows Signs of Cracking",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fmagnificent-7-s-stock-market-dominance-shows-signs-of-cracking",
+    "published": "Sun, 11 Jan 2026 14:00:07 CST",
+    "summary": "To beat the market in recent years, many investors applied a simple strategy:\nLoad up on the biggest US technology stocks.\n\n"
+  },
+  {
     "title": "With the Golden Globes, Podcasts Are Ready for Their Close-Up",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
     "published": "Sun, 11 Jan 2026 13:38:09 CST",
@@ -34,6 +46,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
     "published": "Sun, 11 Jan 2026 13:06:14 CST",
     "summary": "Eryn Schultz was an H-E-B grocery store leader with an M.B.A. A slow pivot\ntoward a big career change began when she found her retirement plan wanting.\n\n"
+  },
+  {
+    "title": "Game On: the Swiss sports brand using hi-tech and chutzpah to challenge Nike and Adidas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fgame-on-the-swiss-sports-brand-using-hi-tech-and-chutzpah-to-challenge-nike-and-adidas",
+    "published": "Sun, 11 Jan 2026 12:00:27 CST",
+    "summary": "Zurich-based firm taps into latest robot tech to ‘fibre-spray’ high-end sports\nshoes worn by the likes of Roger Federer\n\nA robot leg whirs around in a complex ballet as an almost invisible spray of\n“flying fibre” builds a hi-tech £300 sports shoe at its foot.\n\nThis nearly entirely automated process – like a sci-fi future brought to life\n– is part of the gameplan from On, the Swiss sports brand that is taking on\nthe sector’s mighty champions Nike and Adidas with a mix of technology and\nchutzpah.\n\nContinue reading...\n\n"
   },
   {
     "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
@@ -124,6 +142,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmore-bonds-are-teetering-on-the-brink-of-junk-credit-weekly",
     "published": "Sat, 10 Jan 2026 20:00:00 CST",
     "summary": "Beneath the calm surface of the US corporate bond market, there are worrying\nsigns about companies that could lose their investment-grade status.\n\n"
+  },
+  {
+    "title": "Trump announces one-year 10% cap on credit card interest rates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F10%2Ftrump-credit-card-interest-rate-cap",
+    "published": "Sat, 10 Jan 2026 16:02:43 CST",
+    "summary": "Critics express doubt president can implement such a move without approval\nfrom Congress\n\nDonald Trump announced a one-year cap that would limit credit card interest\nrates to 10% this week, in a move that has prompted mixed reaction from\nlawmakers and beyond.\n\nThe president’s social media post on Friday night said the restriction would\ntake effect on 20 January, but he did not provide specifics on how the\ngovernment would implement it or ensure that companies comply.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception",
@@ -322,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
     "published": "Sat, 10 Jan 2026 00:39:14 CST",
     "summary": "Trump holds a meeting of oil CEOs at the White House to project support for\nhis Venezuela plans. But the companies are skeptical.\n\n"
-  },
-  {
-    "title": "SEC to Drop Long-Running Fraud Case Against Ex-Rio Tinto CFO over African Coal Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fsec-to-drop-long-running-fraud-case-against-ex-rio-tinto-cfo",
-    "published": "Sat, 10 Jan 2026 00:19:56 CST",
-    "summary": "The US Securities and Exchange Commission is dropping a fraud lawsuit against\nformer Rio Tinto Ltd. chief financial officer Guy Elliott, eight years after\naccusing him and others of inflating the value of African coal assets the\ncompany acquired in a disastrous 2011 deal.\n\n"
   },
   {
     "title": "Investor Michael Burry Reveals Options Bet Against Oracle",
@@ -678,12 +696,6 @@
     "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
   },
   {
-    "title": "Trump plans to use Venezuela’s huge crude reserves ‘to cut US oil price to $50 a barrel’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F08%2Ftrump-plans-use-venezuela-huge-oil-reserves-to-cut-us-consumer-price-to-50-a-barrel",
-    "published": "Thu, 08 Jan 2026 12:00:47 CST",
-    "summary": "President reportedly hopes falling price will cut domestic consumer energy\nbills\n\n  * Business live – latest updates\n\nDonald Trump plans to use Venezuela’s vast crude reserves to establish control\nof most of the western hemisphere’s oil in an attempt to drive the market\nprice down to about $50 (£37) a barrel, according to reports.\n\nThe US president has repeatedly raised the prospect of producing enough crude\nfrom Venezuela’s oilfields to drive down the US oil price from more than $56 a\nbarrel today to about $50 in an effort to cut energy costs for consumers,\naccording to the Wall Street Journal, which cited senior Trump administration\nofficials.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Mamdani Hosts Influencer Summit, Sidestepping Traditional Media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fzohran-mamdani-social-media-creators.html",
     "published": "Thu, 08 Jan 2026 03:03:30 CST",
@@ -804,12 +816,6 @@
     "summary": "Americans are increasingly moving to smaller markets rather than urban cores\nas they seek cheaper housing and better quality of life.\n\n"
   },
   {
-    "title": "Warner Bros. Board Rebuffs Paramount’s Latest Buyout Offer",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fwarner-bros-paramount-netflix.html",
-    "published": "Wed, 07 Jan 2026 12:10:07 CST",
-    "summary": "The board said the blockbuster deal it reached with Netflix last month posed\nless risk.\n\n"
-  },
-  {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
     "published": "Tue, 06 Jan 2026 22:18:49 CST",
@@ -928,12 +934,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fstocks-making-the-biggest-moves-premarket-cvx-qxo-duol.html",
     "published": "Mon, 05 Jan 2026 14:06:35 CST",
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
-  },
-  {
-    "title": "‘Blood in the water’: Bari Weiss’s chaotic first three months in charge of CBS News",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F05%2Fbari-weiss-cbs-news",
-    "published": "Mon, 05 Jan 2026 12:00:34 CST",
-    "summary": "Weiss is embroiled in her first major controversy as editor in chief as her\nhandpicked anchor takes evening news show\n\nTaking charge of CBS News in early October with no television industry\nexperience, and already facing both deep skepticism from many network\nemployees and a faltering business model, Bari Weiss began with a lot working\nagainst her.\n\nStill, her three months as editor in chief have been more chaotic than even\nmany of her critics expected. “There is blood in the water,” said one CBS News\njournalist, who, like the others quoted in this story, was not authorized by\nthe network to comment.\n\nContinue reading...\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
