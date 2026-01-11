@@ -1,5 +1,11 @@
 [
   {
+    "title": "Asian Stocks Set to Track US Gains, Oil in Focus: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
+    "published": "Sun, 11 Jan 2026 22:23:30 CST",
+    "summary": "Asian equities were poised to climb in early trading after US jobs data\nsupported new highs for stocks on Friday. Investors were also focused on oil\nprices as protests in Iran intensified.\n\n"
+  },
+  {
     "title": "New York, US East Will Chill for Mid-January While West Warms",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fnew-york-us-east-will-chill-for-mid-january-while-west-warms",
     "published": "Sun, 11 Jan 2026 21:04:17 CST",
@@ -34,6 +40,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fdealbook%2Foil-executives-trump-venezuela.html",
     "published": "Sun, 11 Jan 2026 16:38:56 CST",
     "summary": "During a meeting at the White House, the industry leaders appeared wary of\nmaking long-term investments in the country.\n\n"
+  },
+  {
+    "title": "Influencers and OnlyFans models are dominating O-1 visa requests: ‘This is the American dream now’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F11%2Fonlyfans-influencers-us-o-1-visa",
+    "published": "Sun, 11 Jan 2026 16:34:50 CST",
+    "summary": "Content creators are leveraging their high follower counts to apply for the\nvisa for ‘individuals with extraordinary ability’\n\nContent creators and influencers in the US are now increasingly dominating\nrequests for O-1 work visas. Astoundingly, the number of O-1 visas granted\neach year increased by 50% between 2014 and 2024, as noted by recent reporting\nin the Financial Times.\n\nThese visas allow non-immigrants to work temporarily in the US. The O-1\ncategory includes the O-1A, which is designated for individuals with\nextraordinary ability in the sciences, education, business or athletics and\nthe O-1B, reserved for those with “extraordinary ability or achievement”.\n\nContinue reading...\n\n"
   },
   {
     "title": "Iran Protests Escalate During Internet Crackdown",
@@ -342,12 +354,6 @@
     "summary": "After one of the most explosive rallies in modern market history, few\ninvestors expect gold to pull off a repeat in 2026. But many top money\nmanagers are still betting on further gains, arguing that the forces that\npropelled bullion to a record remain in place.\n\n"
   },
   {
-    "title": "Stock Stamp Duty May Hand Hong Kong Operating Surplus, RTHK Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fstock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says",
-    "published": "Sat, 10 Jan 2026 07:15:36 CST",
-    "summary": "Higher stock trading stamp duty revenue may enable the Hong Kong government to\nreturn its day-to-day budget back to a surplus sooner than expected, Financial\nSecretary Paul Chan told RTHK on Saturday.\n\n"
-  },
-  {
     "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fvolkswagen-tariffs-trump.html",
     "published": "Sat, 10 Jan 2026 05:00:05 CST",
@@ -538,12 +544,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Fnicolai-tangen-in-good-company-podcast-norges-bank.html",
     "published": "Fri, 09 Jan 2026 12:08:53 CST",
     "summary": "Nicolai Tangen wanted to raise the profile of Norway’s $2.1 trillion oil fund\nand change corporate behavior, but he may have helped embroil it in a\ngeopolitical tangle.\n\n"
-  },
-  {
-    "title": "Thousands of New York City nurses set to strike amid contract disputes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Fnew-york-city-nurse-strike",
-    "published": "Fri, 09 Jan 2026 12:00:04 CST",
-    "summary": "Nearly 16,000 nurses to join union-led strike on Monday to demand large\nhospitals across NYC ‘put patients over profit’\n\nNearly 16,000 nurses in New York City are set to strike on Monday amid a\nbattle over safe staffing, healthcare benefits, pay and workplace safety\nduring contract negotiations.\n\nThe action, due to take place across five large hospitals, is being organized\nby the New York State Nurses Association (NYSNA), which is demanding the\nhospitals put patients over profit.\n\nContinue reading...\n\n"
   },
   {
     "title": "BlackRock predicts major shift in retail investors' access to cryptocurrencies",
