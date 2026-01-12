@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pound Edges Higher as Fed Threat Hits Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-12%2Fftse-100-live-fed-powell-trump-dollar-pound-oil-gold-prices-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Mon, 12 Jan 2026 06:42:25 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Fed Subpoenas Revive ‘Sell America’ Trade on Autonomy Concerns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffed-subpoenas-revive-sell-america-trade-on-autonomy-concerns",
+    "published": "Mon, 12 Jan 2026 06:28:00 CST",
+    "summary": "‘Sell America’ sentiment swept through markets on Monday after the Trump\nadministration escalated its attacks on the Federal Reserve, fueling concerns\nover central bank autonomy.\n\n"
+  },
+  {
+    "title": "Venezuela Has Freed Two Italian Prisoners, Meloni Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvenezuela-has-freed-two-italian-prisoners-meloni-says",
+    "published": "Mon, 12 Jan 2026 06:12:36 CST",
+    "summary": "Venezuela has freed two Italian prisoners, Italian Prime Minister Giorgia\nMeloni said early Monday.\n\n"
+  },
+  {
+    "title": "Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdeutsche-bank-s-2-5-billion-india-retail-assets-draw-final-bids",
+    "published": "Mon, 12 Jan 2026 05:58:32 CST",
+    "summary": "Deutsche Bank AG’s India retail assets and wealth management have drawn\nbinding bids from Kotak Mahindra Bank Ltd. and Federal Bank Ltd., according to\npeople familiar with the matter, as the local lenders pounce on opportunities\nfrom foreign players seeking to exit the crowded banking market.\n\n"
+  },
+  {
     "title": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fchina-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html",
     "published": "Mon, 12 Jan 2026 05:33:07 CST",
@@ -120,36 +144,6 @@
     "summary": "New Zealand’s housing market lacks momentum and prices will rise just 2.1%\nthis year despite an economic recovery, according to Bank of New Zealand.\n\n"
   },
   {
-    "title": "B.Grimm Buys 25% of US Hydropower Operator for $230 Million",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fb-grimm-buys-25-of-us-hydropower-operator-for-230-million",
-    "published": "Mon, 12 Jan 2026 02:48:57 CST",
-    "summary": "B.Grimm Power Pcl has acquired a 25% stake in New England Reliable Hydropower\nHoldings LLC for $230 million, marking another step in the Thai power\nproducer’s push to expand its renewable energy footprint in overseas markets.\n\n"
-  },
-  {
-    "title": "Stock Traders Seek Earnings Spark as India Selloff Intensifies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-12%2Fearnings-may-provide-optimism-in-indian-stocks-inflows-shift-to-mutual-funds",
-    "published": "Mon, 12 Jan 2026 02:47:28 CST",
-    "summary": "Mutual fund investors turn selective, spread bets.\n\n"
-  },
-  {
-    "title": "Chinese Solar Shares Rally on Plan to Scrap Export Tax Rebates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchinese-solar-shares-rally-on-plan-to-scrap-export-tax-rebates",
-    "published": "Mon, 12 Jan 2026 02:44:01 CST",
-    "summary": "Shares of major Chinese solar companies jumped after the government said it\nwill cancel export tax rebates on some products, potentially accelerating\nconsolidation in a sector that has been grappling with severe overcapacity.\n\n"
-  },
-  {
-    "title": "China Vanke Faces Next Test as Debt Default Pressure Builds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-vanke-faces-next-test-as-debt-default-pressure-builds",
-    "published": "Mon, 12 Jan 2026 02:11:20 CST",
-    "summary": "China Vanke Co. is bracing for its next major test as the developer that’s\nbecome a symbol of the nation’s broader property crisis navigates a proposal\nto delay bond payments and drafts broader restructuring plans.\n\n"
-  },
-  {
-    "title": "Trump Says Credit Card Firms Would Break Law If Rates Not Capped",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftrump-says-credit-card-firms-would-break-law-if-rates-not-capped",
-    "published": "Mon, 12 Jan 2026 02:10:21 CST",
-    "summary": "President Donald Trump said that credit-card lenders would be “in violation of\nthe law” if they don’t heed his call to cap interest rates at 10% for one\nyear.\n\n"
-  },
-  {
     "title": "Australia Boosts Critical-Minerals Focus With Stockpile Plan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-announces-critical-minerals-for-its-strategic-reserve",
     "published": "Mon, 12 Jan 2026 00:50:53 CST",
@@ -174,10 +168,16 @@
     "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
   },
   {
-    "title": "Gold Hits Record High With Focus on Fed Independence and Iran",
+    "title": "Won Poised to Jump 4% This Quarter on Policy Boost, Inflows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwon-poised-to-jump-4-this-quarter-on-boost-from-policy-inflows",
+    "published": "Mon, 12 Jan 2026 00:00:19 CST",
+    "summary": "The South Korean won is on track for a gain of more than 4% this quarter,\nsupported by government measures to curb volatility and a flood of foreign\ncapital into local stocks, according to local analysts.\n\n"
+  },
+  {
+    "title": "Gold Hits Record as Risks to Fed’s Independence, Iran Fan Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
     "published": "Sun, 11 Jan 2026 23:40:30 CST",
-    "summary": "Gold jumped to a record high as the US Justice Department threatened the\nFederal Reserve with a criminal indictment, reviving concerns over its\nindependence, while intensifying protests in Iran kept geopolitical tensions\nelevated.\n\n"
+    "summary": "Gold and silver hit records as the US Justice Department threatened the\nFederal Reserve with a criminal indictment, reviving concerns over its\nindependence, while protests in Iran supported haven demand.\n\n"
   },
   {
     "title": "Oil Holds Gain as Iranian Protests Raise Specter of Disruption",
@@ -190,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
     "published": "Sun, 11 Jan 2026 23:16:14 CST",
     "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
-  },
-  {
-    "title": "OmniVision Rises in Hong Kong Debut After $616 Million Offering",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fomnivision-set-for-hong-kong-debut-after-616-million-offering",
-    "published": "Sun, 11 Jan 2026 23:00:00 CST",
-    "summary": "Chip designer OmniVision Integrated Circuits Group Inc. gained in its Hong\nKong trading debut after raising HK$4.8 billion ($616 million) in an offering.\n\n"
   },
   {
     "title": "US Stock Futures Drop With Dollar on Threat to Fed: Markets Wrap",
@@ -232,6 +226,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fsmall-business-bankruptcy",
     "published": "Sun, 11 Jan 2026 15:00:28 CST",
     "summary": "Yes, the number of small businesses that filed for bankruptcy in 2025\nincreased from 2024. But only by 10\n\nAre mom-and-pop stores going bankrupt at historically high levels? That would\nseem to be the impression you’d get from recent news reports referencing data\nreleased from Epiq Bankruptcy Analytics, a provider of legal services that\nspecializes in bankruptcy services.\n\nUh-oh! Some have seen this as proof that Donald Trump’s policies are\nbankrupting Main Street. Well, no, not quite.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Venezuela Surge Leaves Slim Pickings in EM Distressed Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fvenezuela-surge-leaves-slim-pickings-in-emerging-distressed-debt",
+    "published": "Sun, 11 Jan 2026 13:30:00 CST",
+    "summary": "The ouster of Venezuelan leader Nicolas Maduro drove an outsize rally in the\ncountry’s bonds, making the already shrinking universe of deep-distress\nopportunities in emerging-market debt even smaller.\n\n"
   },
   {
     "title": "A powerful force has been holding back the housing market. It’s finally easing.",
