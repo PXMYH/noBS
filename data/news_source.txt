@@ -1,5 +1,59 @@
 [
   {
+    "title": "The Sell America Trade Is Back as US Targets Fed Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-12%2Fthe-sell-america-trade-is-back-as-us-targets-fed-chair",
+    "published": "Mon, 12 Jan 2026 11:13:40 CST",
+    "summary": "Stocks, bonds, dollar drop on criminal probe, while gold rallies.\n\n"
+  },
+  {
+    "title": "StanChart Said to Prepare Crypto Expansion With Prime Brokerage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstanchart-said-to-prepare-crypto-expansion-with-prime-brokerage",
+    "published": "Mon, 12 Jan 2026 11:05:09 CST",
+    "summary": "Standard Chartered Plc plans to set up a prime brokerage for crypto trading,\npeople with knowledge of the matter said, as global banks step up efforts to\ncompete in digital assets.\n\n"
+  },
+  {
+    "title": "This Is Who Companies Call When They Want to Become a Bank",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffintechs-call-klaros-group-when-they-want-bank-charters",
+    "published": "Mon, 12 Jan 2026 11:00:18 CST",
+    "summary": "Financial firms are racing to secure US bank charters during Trump’s\npresidency, with Klaros Group advising at least a dozen of them.\n\n"
+  },
+  {
+    "title": "Jersey Mike's strikes European expansion deal led by founder Peter Cancro",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjersey-mikes-european-expansion-peter-cancro.html",
+    "published": "Mon, 12 Jan 2026 11:00:01 CST",
+    "summary": "Jersey Mike's plans to open 400 stores in the U.K. and Ireland, with more\nlocations to follow in Europe.\n\n"
+  },
+  {
+    "title": "Chile Investors Look Abroad as Fed, Geopolitics Drive Rates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchile-investors-look-abroad-as-fed-geopolitics-drive-rates",
+    "published": "Mon, 12 Jan 2026 11:00:00 CST",
+    "summary": "Chilean fixed-income investors are looking beyond domestic developments this\nyear, with decisions in Washington and geopolitical flashpoints eclipsing the\nimpact of a new administration at home.\n\n"
+  },
+  {
+    "title": "Data Centers Will Need $3 Trillion Through 2030, Moody’s Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdata-centers-will-need-3-trillion-through-2030-moody-s-says",
+    "published": "Mon, 12 Jan 2026 11:00:00 CST",
+    "summary": "At least $3 trillion is set to flow into data-center-related investments over\nthe next five years, capital that will rely on the might of multiple areas of\nthe credit markets to provide, according to Moody’s Ratings.\n\n"
+  },
+  {
+    "title": "Corn Rises to Two-Week High as Report Seen Cutting US Yield",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcorn-rises-to-two-week-high-as-report-seen-cutting-us-corn-yield",
+    "published": "Mon, 12 Jan 2026 10:58:42 CST",
+    "summary": "Corn futures hit the highest in two weeks as traders await a key monthly\nreport from the US Department of Agriculture, which is expected to pare the\noutlook for US corn yields.\n\n"
+  },
+  {
+    "title": "Bahoshy: GCC Seeing a Pickup in VC Deal Activity",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbahoshy-gcc-seeing-a-pickup-in-vc-deal-activity-video",
+    "published": "Mon, 12 Jan 2026 10:50:23 CST",
+    "summary": "Middle East venture capital funding hit record highs in 2025 as international\ncapital poured into the region, helping it defy the fundraising slump seen\nacross other emerging markets. The region’s startups received $3.8 billion\nacross 688 deals in 2025, up 74% compared to the previous year, according to\ndata from Magnitt, with Saudi Arabia and the United Arab Emirates attracting\nthe bulk of that interest. Philip Bahoshy, their Founder & CEO spoke to\nBloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche about\ntheir findings. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Citi’s Manthey Sees More Investors Diversifying Out of US Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fciti-s-manthey-sees-more-investors-diversifying-out-of-us-stocks",
+    "published": "Mon, 12 Jan 2026 10:41:24 CST",
+    "summary": "Investors will push ahead with their desire to diversify equity holdings in\n2026, driving a further 10% gain for a benchmark global stock index, according\nto Citigroup Inc. strategists.\n\n"
+  },
+  {
     "title": "Eyre: US Strike in Iran Could Become a Regional Problem",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Feyre-us-strike-in-iran-could-become-a-regional-problem-video",
     "published": "Mon, 12 Jan 2026 10:41:02 CST",
@@ -28,6 +82,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fflorida-lawyer-is-leading-trump-lawsuits-against-nyt-wsj-bbc",
     "published": "Mon, 12 Jan 2026 10:30:00 CST",
     "summary": "The only sign of Alejandro “Alex” Brito’s most famous client in his corner\noffice near Miami is a bobblehead doll depicting President Donald Trump as the\n“Terminator” from the sci-fi franchise, sporting a leather jacket and\nsunglasses, on a shelf behind his desk.\n\n"
+  },
+  {
+    "title": "Big US Bank Earnings to Shed Light on Economy Expected to Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbank-stocks-face-earnings-test-jpm-bac-c-wfc-gs-ms",
+    "published": "Mon, 12 Jan 2026 10:30:00 CST",
+    "summary": "The rally in US bank stocks will face its first test of the year as Wall\nStreet’s marquee names report results, with investors keying on executive\ncommentary about the health of the American consumer and the strength of the\nworld’s largest economy.\n\n"
   },
   {
     "title": "ECB’s Muller Pledges Conservative Rate Policy If Elected VP",
@@ -72,58 +132,10 @@
     "summary": "UBS Group AG said planned Swiss banking reforms are a threat to the national\neconomy as pressure builds on the government to water down the proposals.\n\n"
   },
   {
-    "title": "Cullen Roche on the Art of Building a Perfect Portfolio",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcullen-roche-on-how-to-build-an-investment-portfolio",
-    "published": "Mon, 12 Jan 2026 09:00:15 CST",
-    "summary": "The past and future of the 60/40 strategy.\n\n"
-  },
-  {
-    "title": "Vanke Dollar Bondholders Asked to Call Default by Advisory Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvanke-dollar-bondholders-asked-to-call-default-by-advisory-firm",
-    "published": "Mon, 12 Jan 2026 09:00:00 CST",
-    "summary": "A debt advisory firm asked China Vanke Co. dollar bondholders to consider\ncalling a default on the embattled developer’s notes, based on cross-default\nclauses, people familiar with the matter said.\n\n"
-  },
-  {
-    "title": "Odd Lots: Cullen Roche on Building a Perfect Portfolio (Podcast)",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Faudio%2F2026-01-12%2Fcullen-roche-on-how-to-build-the-perfect-portfolio",
-    "published": "Mon, 12 Jan 2026 09:00:00 CST",
-    "summary": "For a long time, you could make plenty of money and sleep easy at night with a\nsimple 60/40 portfolio. You put 60% of your money in stocks and 40% in\nTreasuries. The stocks generally went up. The Treasuries cushioned you during\ntimes of volatility and provided income. Then we got the worst inflation in 40\nyears, and the Treasury part of those portfolios got obliterated. So does it\nstill work? And if not, how should an investor think about their own personal\nallocations to various asset classes.\n\n"
-  },
-  {
-    "title": "Do You 'Sell America' on Fed Independence Risks?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fdo-you-sell-america-on-fed-independence-risks-video",
-    "published": "Mon, 12 Jan 2026 08:53:38 CST",
-    "summary": "Remi Olu-Pitan, multi-asset growth and income head at Schroder, discusses\nasset allocation amid Federal Reserve independence risks. She tells Bloomberg\nTelevision the current situation could \"weigh negatively\" on US equities.\n\"When you have an environment where the dollar is weakening, this typically\nleads to positive dynamics elsewhere because it reduces financial tightening,\"\nOlu-Pitan says. She also discusses commodity markets and the driving forces\nbehind them. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "BBVA Is Seeking to Sell About €380 Million in Soured Mortgages",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbbva-is-seeking-to-sell-about-380-million-in-soured-mortgages",
-    "published": "Mon, 12 Jan 2026 08:43:53 CST",
-    "summary": "BBVA SA is seeking to sell about €380 million ($444 million) in soured\nmortgages as it cleans up its balance sheet.\n\n"
-  },
-  {
-    "title": "Focus on Fed Divisions, Not Independence: 3-Minute MLIV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffocus-on-fed-divions-not-independence-3-minute-mliv-video",
-    "published": "Mon, 12 Jan 2026 08:35:58 CST",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today’s key themes for analysts and investors on “Bloomberg: The Opening\nTrade.” For up to the minute market intelligence and insight, click MLIV <GO>.\n\n"
-  },
-  {
-    "title": "DeepSeek Founder Liang’s Funds Surge 57% as China Quants Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdeepseek-founder-liang-s-funds-surge-57-as-china-quants-boom",
-    "published": "Mon, 12 Jan 2026 08:28:22 CST",
-    "summary": "DeepSeek founder Liang Wenfeng’s quantitative hedge fund generated returns of\nmore than 50% last year, boosting the potential war chest for a company that\nhas already shaken up the global tech landscape despite spending far less than\nrivals.\n\n"
-  },
-  {
-    "title": "European Stocks Drop as Concerns Over Fed Independence Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feuropean-stocks-drop-as-concerns-over-fed-independence-grow",
-    "published": "Mon, 12 Jan 2026 08:19:43 CST",
-    "summary": "European stocks retreated from record highs as concerns over the independence\nof the Federal Reserve sapped investor confidence.\n\n"
-  },
-  {
-    "title": "China Onshore Stock Turnover Jumps to a Record $516 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-onshore-stock-turnover-jumps-to-a-record-516-billion",
-    "published": "Mon, 12 Jan 2026 07:31:00 CST",
-    "summary": "Stock turnover in Shanghai and Shenzhen reached an all-time high on Monday of\n3.6 trillion yuan ($516 billion) as animal spirits continue to mount in\nChinese equities.\n\n"
+    "title": "US Envoy Says Trade Differences With India Will Be Resolved",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-envoy-says-trade-deal-differences-with-india-will-be-resolved",
+    "published": "Mon, 12 Jan 2026 07:47:05 CST",
+    "summary": "US and India are close partners and will resolve their differences, including\nover a long delayed trade deal, said Sergio Gor, the new US Ambassador to\nIndia appointed by President Donald Trump’s administration.\n\n"
   },
   {
     "title": "Heineken to Replace CEO as Dutch Brewer Mired in Sales Slump",
@@ -150,10 +162,10 @@
     "summary": "Here’s what jobs have grown and declined the most over the years, based on\ninformation from the Census Bureau’s Current Population Survey.\n\n"
   },
   {
-    "title": "Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars",
-    "published": "Mon, 12 Jan 2026 04:14:51 CST",
-    "summary": "Shares of China’s biggest food-delivery firms climbed as the nation’s top\nantitrust body launched a probe into competition practices in the sector,\nspurring hopes that authorities will rein in subsidy-driven price wars.\n\n"
+    "title": "Emerging Stocks Rise as Asia Tech Shines; Rand Tracks Gold Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fem-asian-stocks-climb-after-us-jobs-report-korea-hits-new-high",
+    "published": "Mon, 12 Jan 2026 03:34:58 CST",
+    "summary": "Emerging-market stocks rebounded from their longest losing streak since\nOctober, lifted by gains in Chinese and South Korean tech, though currencies\nwere steady, shrugging off a dollar slide.\n\n"
   },
   {
     "title": "China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus",
@@ -168,16 +180,10 @@
     "summary": "The Fed confirmed it received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
   },
   {
-    "title": "Trump Says Credit Card Firms Violate Law If Rates Not Capped",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftrump-says-credit-card-firms-would-break-law-if-rates-not-capped",
-    "published": "Mon, 12 Jan 2026 02:10:21 CST",
-    "summary": "President Donald Trump said that credit-card lenders would be “in violation of\nthe law” if they don’t heed his call to cap interest rates at 10% for one\nyear.\n\n"
-  },
-  {
-    "title": "Dollar Drops Most in Three Weeks as Fed Gets Subpoenas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdollar-drops-most-in-nearly-three-weeks-as-fed-gets-subpoenas",
-    "published": "Mon, 12 Jan 2026 02:07:34 CST",
-    "summary": "The dollar declined the most in almost three weeks as the Federal Reserve\nfaced grand jury subpoenas from the Justice Department, reviving concerns over\npolitical interference in monetary policy.\n\n"
+    "title": "Copper Pushes Toward Record on Supply Concerns and Weaker Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcopper-pushes-toward-record-on-supply-concerns-and-weaker-dollar",
+    "published": "Mon, 12 Jan 2026 03:14:45 CST",
+    "summary": "Copper rallied toward a fresh record, as base metals began the week in bullish\nform aided by concerns over supplies and a weaker dollar.\n\n"
   },
   {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
@@ -186,16 +192,16 @@
     "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
   },
   {
-    "title": "Fed Served With DOJ Subpoenas, Powell Vows to Stand Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-says-justice-department-served-fed-with-subpoenas",
-    "published": "Mon, 12 Jan 2026 00:30:00 CST",
-    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\ninstitution.\n\n"
-  },
-  {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
     "published": "Mon, 12 Jan 2026 00:14:48 CST",
     "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
+  },
+  {
+    "title": "Gold and Silver Storm to Records as Fed Hit With Subpoenas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
+    "published": "Sun, 11 Jan 2026 23:40:30 CST",
+    "summary": "Gold and silver climbed to records in a broad-based metals rally as the US\nJustice Department threatened the Federal Reserve with a criminal indictment,\nreviving concerns over the central bank’s independence.\n\n"
   },
   {
     "title": "Oil Holds Gain as Iran Protests Offer Fresh Crude Supply Risk",
@@ -358,12 +364,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F10%2Ftrump-immigration-whiteness",
     "published": "Sat, 10 Jan 2026 11:00:55 CST",
     "summary": "Blocking immigration will not make Trump’s America great again – for the US to\nshine, he must let it get browner\n\nHere’s one reason Donald Trump seems perennially in a bad mood: he has\nprobably figured out that the America he fantasizes about is out of his reach.\n\nHowever many immigrants he manages to deport or prevent from entering the\ncountry, the white paradise he is promising his Maga base, free of Somalis,\nMexican “rapists” and generally people from “shithole countries” – closer in\nhue to the America where he was born – is not his to offer.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "The new vs. used car debate is dead. They’re both expensive debt traps.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F10%2F1000-payments-car-debt-trap%2F",
-    "published": "Sat, 10 Jan 2026 11:00:00 CST",
-    "summary": "A record number of buyers — of both new and used vehicles — are locked into\nmonthly payments of $1,000 or more, new data shows.\n\n"
   },
   {
     "title": "Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives",
@@ -868,12 +868,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F06%2Fbank-of-england-venezuelan-gold-nicolas-maduro-us-uk",
     "published": "Tue, 06 Jan 2026 11:57:03 CST",
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
-    "published": "Mon, 05 Jan 2026 21:02:46 CST",
-    "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks\nlike MS Now and CNBC, started trading Monday.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
