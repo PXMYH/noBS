@@ -1,9 +1,111 @@
 [
   {
-    "title": "Oil Rises for a Third Day as Focus Shifts to Iranian Protests",
+    "title": "China Vanke Faces Next Test as Debt Default Pressure Builds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-vanke-faces-next-test-as-debt-default-pressure-builds",
+    "published": "Mon, 12 Jan 2026 02:11:20 CST",
+    "summary": "China Vanke Co. is bracing for its next major test as the developer that’s\nbecome a symbol of the nation’s broader property crisis navigates a proposal\nto delay bond payments and drafts broader restructuring plans.\n\n"
+  },
+  {
+    "title": "Dollar Drops Most in Nearly Three Weeks as Fed Gets Subpoenas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdollar-drops-most-in-nearly-three-weeks-as-fed-gets-subpoenas",
+    "published": "Mon, 12 Jan 2026 02:07:34 CST",
+    "summary": "The dollar declined the most in almost three weeks as the Federal Reserve\nfaced grand jury subpoenas from the Justice Department, reviving concerns over\npolitical interference in monetary policy.\n\n"
+  },
+  {
+    "title": "Justice Department opens a criminal investigation of Fed chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F11%2Fjerome-powell-criminal-investigation%2F",
+    "published": "Mon, 12 Jan 2026 02:04:46 CST",
+    "summary": "The Fed confirmed they received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
+  },
+  {
+    "title": "Indian Stocks’ Recovery Clouded by Slowing Earnings Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findian-stocks-recovery-clouded-by-slowing-earnings-growth",
+    "published": "Mon, 12 Jan 2026 02:00:00 CST",
+    "summary": "Indian stocks face a subdued near-term outlook, with expectations of another\nlackluster earnings season dimming hopes for a rebound.\n\n"
+  },
+  {
+    "title": "Prudential Financial Is Said to Mull India Asset Manager Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fprudential-financial-is-said-to-mull-india-asset-manager-sale",
+    "published": "Mon, 12 Jan 2026 01:57:52 CST",
+    "summary": "Prudential Financial Inc.’s investment management arm is considering selling\nits loss-making asset management unit in India a decade after acquiring the\nbusiness from Deutsche Bank AG, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Iran Protests Could Add Volatility to Markets, Lombard Odier's Lee Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Firan-could-add-volatility-to-markets-lombard-odier-says-video",
+    "published": "Mon, 12 Jan 2026 01:51:13 CST",
+    "summary": "Lombard Odier's Homin Lee discusses the impact of intensifying protests in\nIran on equity and energy markets. He also talks to Bloomberg TV about the\noutlook for the Federal Reserve after the US central bank was served grand\njury subpoenas from the Justice Department. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Powell Responds to Justice Department Subpoenas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fpowell-responds-to-justice-department-subpoenas-video",
+    "published": "Mon, 12 Jan 2026 01:36:23 CST",
+    "summary": "Federal Reserve Chair Jerome Powell says the threat of criminal charges from\nthe US Justice Department is \"a consequence\" of the US central bank's rate\ndecisions. The Justice Department threatened a criminal indictment related to\nhis June congressional testimony on ongoing renovations of the Fed’s\nheadquarters. (Source: Other)\n\n"
+  },
+  {
+    "title": "Australia Announces Critical Minerals for Its Strategic Reserve",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-announces-critical-minerals-for-its-strategic-reserve",
+    "published": "Mon, 12 Jan 2026 00:50:53 CST",
+    "summary": "Australia plans to buy and stockpile minerals essential for defense and\nadvanced technologies from domestic mining companies to help strengthen global\nsupply chains.\n\n"
+  },
+  {
+    "title": "EU Trade Deal With Mercosur Defies Trump’s Protectionism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feu-trade-deal-with-mercosur-defies-trump-s-protectionism",
+    "published": "Mon, 12 Jan 2026 00:47:11 CST",
+    "summary": "The European Union and Mercosur have delivered their long-sought trade pact,\nalong with a political statement few could have imagined when talks began 25\nyears ago.\n\n"
+  },
+  {
+    "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
+    "published": "Mon, 12 Jan 2026 00:40:09 CST",
+    "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
+  },
+  {
+    "title": "Australian Household Spending Beats Expectations in November",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-household-spending-exceeds-expectations-in-november",
+    "published": "Mon, 12 Jan 2026 00:31:21 CST",
+    "summary": "Australia’s household spending rose at a faster-than-expected pace in\nNovember, indicating consumers are feeling confident about their finances even\nas inflation and borrowing costs remain elevated.\n\n"
+  },
+  {
+    "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
+    "published": "Mon, 12 Jan 2026 00:14:48 CST",
+    "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
+  },
+  {
+    "title": "Britain’s 90s Housing Boom Handed Rich Kids Best Jobs, IFS Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbritain-s-90s-housing-boom-handed-rich-kids-best-jobs-ifs-says",
+    "published": "Mon, 12 Jan 2026 00:01:00 CST",
+    "summary": "Equality campaigners have long highlighted how British families who made a\nfortune during the housing boom of the late 1990s and 2000s used the windfall\nto give their children a leg up on the property ladder. Less well known is\nthat the same property wealth helped those kids bag the best jobs.\n\n"
+  },
+  {
+    "title": "Won Poised to Jump 4% This Quarter on Boost From Policy, Inflows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwon-poised-to-jump-4-this-quarter-on-boost-from-policy-inflows",
+    "published": "Mon, 12 Jan 2026 00:00:19 CST",
+    "summary": "The South Korean won is on track for a 4% gain this quarter, supported by\ngovernment measures to curb volatility and a flood of foreign capital into\nlocal stocks, according to local analysts.\n\n"
+  },
+  {
+    "title": "Global Rate Paths Splinter as Trump Drives Change at the Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fglobal-rate-paths-splinter-as-trump-drives-change-at-the-fed",
+    "published": "Mon, 12 Jan 2026 00:00:00 CST",
+    "summary": "A spell of global interest-rate divergence is in store as central banks feel\ntheir way through the economic fog stoked by Donald Trump’s second year at the\nWhite House.\n\n"
+  },
+  {
+    "title": "Yuan Optimism Grows as Dollar Hedging Costs Hit Three-Year Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fyuan-optimism-grows-as-dollar-hedging-costs-hit-three-year-low",
+    "published": "Sun, 11 Jan 2026 23:44:10 CST",
+    "summary": "Growing optimism toward the Chinese yuan is spreading into hedging activities,\nwith the cost that mainland investors have to pay to guard against possible\ndollar losses falling to a three-year low.\n\n"
+  },
+  {
+    "title": "Gold Hits Record With Focus on Fed Independence, Iran Unrest",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
+    "published": "Sun, 11 Jan 2026 23:40:30 CST",
+    "summary": "Gold jumped to a record high as the US Justice Department threatened the\nFederal Reserve with a criminal indictment, reviving concerns over its\nindependence, while intensifying protests in Iran also kept geopolitical\ntensions elevated.\n\n"
+  },
+  {
+    "title": "Oil Holds Gain as Iranian Protests Raise Specter of Disruption",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12",
     "published": "Sun, 11 Jan 2026 23:17:54 CST",
-    "summary": "Oil rose for a third day as escalating protests in Iran threatened supply from\nOPEC’s fourth-biggest producer.\n\n"
+    "summary": "Oil held its biggest two-day gain since October, as escalating protests in\nIran threatened supply from OPEC’s fourth-biggest producer.\n\n"
   },
   {
     "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
@@ -18,16 +120,16 @@
     "summary": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to\nGerman data center infrastructure startup Polarise GmbH, as a debt-fueled boom\nin the sector continues into 2026.\n\n"
   },
   {
-    "title": "OmniVision Set for Hong Kong Debut After $616 Million Offering",
+    "title": "OmniVision Rises in Hong Kong Debut After $616 Million Offering",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fomnivision-set-for-hong-kong-debut-after-616-million-offering",
     "published": "Sun, 11 Jan 2026 23:00:00 CST",
-    "summary": "Hong Kong is set to add another chip designer to its bourse, as a wave of\nChinese artificial-intelligence companies races to tap capital in the\nfinancial hub for expansion.\n\n"
+    "summary": "Chip designer OmniVision Integrated Circuits Group Inc. gained in its Hong\nKong trading debut after raising HK$4.8 billion ($616 million) in an offering.\n\n"
   },
   {
-    "title": "Asian Stocks Set to Follow US Gains, Oil in Focus: Markets Wrap",
+    "title": "Dollar, US Stock Futures Drop on Threats to Fed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
-    "summary": "Asian equities were poised to climb in early trading after US jobs data\nsupported new highs for stocks on Friday. Oil climbed as protests in Iran\nintensified.\n\n"
+    "summary": "The dollar and US stock futures fell on concern about the independence of the\nFederal Reserve after Chair Jerome Powell said threats of a criminal\nindictment were a consequence of its interest-rate policies.\n\n"
   },
   {
     "title": "New York, US East Will Chill for Mid-January While West Warms",
@@ -162,12 +264,6 @@
     "summary": "Oil is US president’s motivation but his concept of economic success feels as\noutdated as his music tastes\n\nThe word “loot” entered the English language from Hindi in the late 18th\ncentury, as the rapacious East India Company plundered its way across the\nsubcontinent.\n\nIt was a trading company, not a state – but it had the imprimatur of the\nEnglish crown and its own large private army, mingling commerce and military\nforce and opening the way for British imperial dominance of India.\n\nContinue reading...\n\n"
   },
   {
-    "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
-    "published": "Sun, 11 Jan 2026 10:01:48 CST",
-    "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
-  },
-  {
     "title": "This new crash test dummy could keep women safer in car accidents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F11%2Ffemale-crash-test-dummy%2F",
     "published": "Sun, 11 Jan 2026 10:00:00 CST",
@@ -186,42 +282,6 @@
     "summary": "Germany is open to taking “joint action” with international partners to\nbolster supply chains and ensure access to materials critical to\nmanufacturing, Vice Chancellor and Finance Minister Lars Klingbeil said before\ndeparting for a two-day visit to the US.\n\n"
   },
   {
-    "title": "Congo Central Bank to Intervene to Curb Currency Speculation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fcongo-central-bank-to-intervene-to-curb-currency-speculation",
-    "published": "Sun, 11 Jan 2026 08:34:21 CST",
-    "summary": "The central bank of the Democratic Republic of Congo said it plans to continue\nintervening in the foreign exchange market to curb currency speculation.\n\n"
-  },
-  {
-    "title": "Greggs Tests Limit of Britain’s Appetite for Its Sausage Rolls",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgreggs-tests-limit-of-britain-s-appetite-for-its-sausage-rolls",
-    "published": "Sun, 11 Jan 2026 08:30:00 CST",
-    "summary": "Its sausage rolls are idolized on socks and T-shirts, and its thousands of\nshops make it Britain’s most unmissable baker. But Greggs Plc is showing the\nstrain of expansion, and investors are piling up bets against it.\n\n"
-  },
-  {
-    "title": "German Stockholders Want a Right to Invest Good Money After Bad",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgerman-stockholders-want-a-right-to-invest-good-money-after-bad",
-    "published": "Sun, 11 Jan 2026 08:00:00 CST",
-    "summary": "In Germany, some small investors who lost everything on companies on the verge\nof insolvency are complaining that they haven’t been allowed to put more money\ninto the collapsed businesses.\n\n"
-  },
-  {
-    "title": "China Debuts Mid-Altitude, Low-Cost Cargo Aircraft: CCTV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fchina-debuts-mid-altitude-low-cost-cargo-aircraft-cctv",
-    "published": "Sun, 11 Jan 2026 03:54:16 CST",
-    "summary": "China has completed the maiden flight of the Tianma-1000, an unmanned cargo\naircraft capable of logistics and emergency responses, China Central\nTelevision reported Sunday.\n\n"
-  },
-  {
-    "title": "Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fglobal-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang",
-    "published": "Sun, 11 Jan 2026 00:00:00 CST",
-    "summary": "Asia’s technology stocks began 2026 on a tear, with investors betting their\nmomentum and outperformance against US peers will last through the year.\n\n"
-  },
-  {
-    "title": "US May Lift Some Venezuela Sanctions Soon, Bessent Tells Reuters",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters",
-    "published": "Sat, 10 Jan 2026 22:09:08 CST",
-    "summary": "The US may lift additional sanctions on Venezuela as early as next week to\nfacilitate oil sales, Reuters reported, citing an interview with Treasury\nSecretary Scott Bessent.\n\n"
-  },
-  {
     "title": "US Inflation to Pick Up After Muddy November CPI",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fus-inflation-to-pick-up-after-muddy-november-cpi",
     "published": "Sat, 10 Jan 2026 21:00:00 CST",
@@ -232,12 +292,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
     "published": "Sat, 10 Jan 2026 20:27:31 CST",
     "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
-  },
-  {
-    "title": "More Bonds Are Teetering on the Brink of Junk: Credit Weekly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmore-bonds-are-teetering-on-the-brink-of-junk-credit-weekly",
-    "published": "Sat, 10 Jan 2026 20:00:00 CST",
-    "summary": "Beneath the calm surface of the US corporate bond market, there are worrying\nsigns about companies that could lose their investment-grade status.\n\n"
   },
   {
     "title": "Trump announces one-year 10% cap on credit card interest rates",
@@ -252,46 +306,16 @@
     "summary": "President Trump met with oil and gas executives on Friday in an effort to push\nthem to invest money in Venezuela, a plan many of them are reluctant to\nembrace.\n\n"
   },
   {
-    "title": "Wall Street Week | US-Venezuela Policy, Farming Without Subsidies, Robotaxis, Everest Exclusivity",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-10%2Fwall-street-week-farming-without-subsidies-robotaxis-video",
-    "published": "Sat, 10 Jan 2026 15:14:28 CST",
-    "summary": "This week, what the Trump Administration’s action in Venezuela reveals about\nAmerica’s new foreign policy priorities. And, could New Zealand’s no-subsidy\nagriculture industry work around the world? Plus, is 2026 finally the year\nrobotaxis move beyond hype and tiny test zones? Later, we follow the rise of\nultra-luxury Everest trips, where six-figure price tags promise speed and\ncomfort on a mountain that remains brutally unforgiving. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fblackrock-investing-bull-market-portfolio-stocks.html",
     "published": "Sat, 10 Jan 2026 15:07:23 CST",
     "summary": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026,\nbut says investors should focus on targeted bets and turning cash into income.\n\n"
   },
   {
-    "title": "Maduro’s Fall Defuses Border-Conflict Risk for Oil-Rich Guyana",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fmaduro-s-fall-defuses-border-conflict-risk-for-oil-rich-guyana",
-    "published": "Sat, 10 Jan 2026 15:00:02 CST",
-    "summary": "Guyana, home to the world’s biggest oil discovery in decades, appears to be an\nearly beneficiary of US President Donald Trump’s ouster of Venezuelan\nstrongman Nicolas Maduro.\n\n"
-  },
-  {
     "title": "Banks criticize Trump’s push for 10 percent credit card interest rate cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F",
     "published": "Sat, 10 Jan 2026 14:27:14 CST",
     "summary": "Financial institutions and other credit card issuers say the cap, which the\npresident wants in effect by Jan. 20, would limit consumers’ access to credit.\n\n"
-  },
-  {
-    "title": "China AI Leaders Warn of Widening Gap With US After $1B IPO Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fchina-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week",
-    "published": "Sat, 10 Jan 2026 14:05:55 CST",
-    "summary": "Some of China’s most prominent figures in generative artificial intelligence\nwarned that the Asian nation is unlikely to eclipse the US in the global AI\nrace anytime soon.\n\n"
-  },
-  {
-    "title": "A Trader’s Guide to Venezuela as Trump Takes Over Oil Industry",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fa-trader-s-guide-to-venezuela-as-trump-takes-over-oil-industry",
-    "published": "Sat, 10 Jan 2026 14:00:00 CST",
-    "summary": "President Donald Trump promises his hostile takeover of Venezuela’s oil\nindustry will inspire billions of dollars of investment from American energy\ncompanies, and it will make the people of the South American nation rich.\n\n"
-  },
-  {
-    "title": "Commodities Rule, From Oil to Crops",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-10%2Frichard-haass-says-oil-motivated-trump-s-actions-in-venezuela",
-    "published": "Sat, 10 Jan 2026 13:00:01 CST",
-    "summary": "One Thing Motivates Trump’s Actions in Venezuela, Richard Haass Says\n\n"
   },
   {
     "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
@@ -304,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fmens-makeup-gen-z-tiktok-instagram-ulta-sephora.html",
     "published": "Sat, 10 Jan 2026 13:00:01 CST",
     "summary": "Men’s makeup is shedding stigma as TikTok and Gen Z drives growth, retailers\nrethink displays and brands chase one of beauty’s last untapped markets.\n\n"
-  },
-  {
-    "title": "Indian Insurer’s Worker Posts Draft Earnings in WhatsApp Status",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Findian-insurer-s-worker-posts-draft-earnings-in-whatsapp-status",
-    "published": "Sat, 10 Jan 2026 12:22:19 CST",
-    "summary": "ICICI Lombard General Insurance Co., a unit of India’s second-largest private\nlender, said an employee uploaded undisclosed information about third quarter\nearnings as a personal WhatsApp status, days ahead of the planned release.\n\n"
   },
   {
     "title": "Inside Tony Dokoupil’s chaotic first week as the CBS Evening News anchor",
@@ -338,7 +356,7 @@
   {
     "title": "The Boss Who Hates Sick Day Requests",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fwhy-doesnt-my-boss-respect-sick-days.html",
-    "published": "Sat, 10 Jan 2026 10:02:36 CST",
+    "published": "Sat, 10 Jan 2026 10:02:37 CST",
     "summary": "Plus, the impossibility of being a middle manager.\n\n"
   },
   {
@@ -378,15 +396,9 @@
     "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
   },
   {
-    "title": "Exxon CEO calls Venezuela ‘uninvestable’ without ‘significant changes’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F09%2Ftrump-oil-executives-venezuela-exxon%2F",
-    "published": "Sat, 10 Jan 2026 00:39:14 CST",
-    "summary": "Trump holds a meeting of oil CEOs at the White House to project support for\nhis Venezuela plans. But the companies are skeptical.\n\n"
-  },
-  {
     "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
-    "published": "Fri, 09 Jan 2026 23:17:05 CST",
+    "published": "Fri, 09 Jan 2026 23:17:06 CST",
     "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
   },
   {
@@ -394,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F09%2Ftrump-oil-company-executives-meeting-venezuela",
     "published": "Fri, 09 Jan 2026 22:07:25 CST",
     "summary": "Country is ‘uninvestable’ today, president told, but CEOs signal they are\nready to spend with support\n\nDonald Trump promised oil giants “total safety, total security” in Venezuela\nin an effort to persuade them to invest $100bn in the country’s infrastructure\nafter US forces toppled Nicolás Maduro from power.\n\nAt a roundtable press conference at the White House on Friday afternoon with\nmore than a dozen oil executives, including leaders from Chevron, ExxonMobil\nand ConocoPhilips, the US president doubled down on claims that Maduro’s\narrest presents American oil companies with an unprecedented opportunity for\nextraction.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Rio-Glencore Deal Closer Than Ever With Premium and CEO in Focus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Frio-glencore-deal-closer-than-ever-with-premium-and-ceo-in-focus",
-    "published": "Fri, 09 Jan 2026 22:06:40 CST",
-    "summary": "Glencore Plc boss Gary Nagle has called it the most obvious deal in mining.\nHis predecessor and mentor Ivan Glasenberg has been trying to pull it off for\nnearly two decades. And yet the merger of Glencore with Rio Tinto Group has\nproven elusive – until now.\n\n"
   },
   {
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
@@ -518,7 +524,7 @@
   {
     "title": "December’s Jobs Data Reinforces Fed’s Cautious Approach to Future Cuts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
-    "published": "Fri, 09 Jan 2026 14:23:54 CST",
+    "published": "Fri, 09 Jan 2026 14:23:55 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
   },
   {
@@ -712,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
     "published": "Thu, 08 Jan 2026 01:56:11 CST",
     "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
-  },
-  {
-    "title": "U.S. Details Plan for Venezuela’s Oil Sales After Trump Claims Millions of Barrels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Fus-venezuela-oil-control.html",
-    "published": "Thu, 08 Jan 2026 00:40:05 CST",
-    "summary": "The Trump administration said it had an agreement with Venezuela’s government,\nbut the country’s state-owned oil company said negotiations were underway.\n\n"
   },
   {
     "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
