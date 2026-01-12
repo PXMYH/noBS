@@ -1,5 +1,59 @@
 [
   {
+    "title": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fchina-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html",
+    "published": "Mon, 12 Jan 2026 05:33:07 CST",
+    "summary": "New tech sectors still account for a far smaller portion of China's economy\nthan the gap left by the real estate slump.\n\n"
+  },
+  {
+    "title": "Trump ‘Mulls’ Iran Options, Fed Subpoenaed | The China Show 1/12/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fthe-china-show-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 05:21:29 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Chinese Battery Shares Decline on Plan to Cut Export Tax Rebates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchinese-battery-shares-decline-on-plan-to-cut-export-tax-rebates",
+    "published": "Mon, 12 Jan 2026 05:03:59 CST",
+    "summary": "Chinese battery shares fell after Beijing unveiled a plan to reduce export tax\nrebates, while South Korean materials companies advanced.\n\n"
+  },
+  {
+    "title": "Which jobs have grown (and declined) fastest during your working life?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F",
+    "published": "Mon, 12 Jan 2026 05:00:01 CST",
+    "summary": "Here’s what jobs have grown and declined the most over the years, based on\ninformation from the Census Bureau’s Current Population Survey.\n\n"
+  },
+  {
+    "title": "Prosecuting Powell Would Be a New Low With No Upside",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-12%2Fprosecuting-powell-would-be-a-new-low-with-no-upside",
+    "published": "Mon, 12 Jan 2026 04:54:42 CST",
+    "summary": "The bullying is pointless and extends beyond the Fed to the US economy.\n\n"
+  },
+  {
+    "title": "HSBC Opens Asset Mgmt Branch in UAE",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fhsbc-opens-asset-mgmt-branch-in-uae-video",
+    "published": "Mon, 12 Jan 2026 04:53:21 CST",
+    "summary": "Daisy Ho, Asia & Middle East CEO at HSBC Asset Management, says the bank will\noffer 10 onshore funds to investors out of its new branch in Dubai after\nreceiving a license from local authorities. She discusses HSBC's commitment in\nthe Middle East with Yvonne Man and David Ingles on \"Bloomberg: The China\nShow.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "HD Hyundai Robotics Hires Banks for South Korea IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fhd-hyundai-robotics-hires-banks-for-south-korea-ipo",
+    "published": "Mon, 12 Jan 2026 04:53:06 CST",
+    "summary": "HD Hyundai Robotics Co. has hired banks to work on its South Korea initial\npublic offering at a time when global companies are racing to develop human-\nlike robots.\n\n"
+  },
+  {
+    "title": "China's Haisco Eyes Partnerships For Global Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fchina-s-haisco-eyes-partnerships-for-global-growth-video",
+    "published": "Mon, 12 Jan 2026 04:52:08 CST",
+    "summary": "Lency Gu, Head of Business Development at Haisco Pharmaceutical Group, says\nthe Chinese bio pharmaceutical firm is looking for more partnerships to help\nits global expansion. The company has announced a new license agreement with\nUS-based AirNexis Therapeutics. Gu explains significance of the deal on\n\"Bloomberg: The China Show.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Indonesia Plans to Sell First Asia Sovereign Dollar Bond of 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findonesia-plans-to-sell-first-asia-sovereign-dollar-bond-of-2026",
+    "published": "Mon, 12 Jan 2026 04:28:41 CST",
+    "summary": "Indonesia plans to sell US-dollar bonds, the first such offering by an Asian\nsovereign this year, giving further impetus to a record start to global debt\nissuance by borrowers in 2026.\n\n"
+  },
+  {
     "title": "Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars",
     "published": "Mon, 12 Jan 2026 04:14:51 CST",
@@ -90,34 +144,10 @@
     "summary": "China Vanke Co. is bracing for its next major test as the developer that’s\nbecome a symbol of the nation’s broader property crisis navigates a proposal\nto delay bond payments and drafts broader restructuring plans.\n\n"
   },
   {
-    "title": "Dollar Drops Most in Nearly Three Weeks as Fed Gets Subpoenas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdollar-drops-most-in-nearly-three-weeks-as-fed-gets-subpoenas",
-    "published": "Mon, 12 Jan 2026 02:07:34 CST",
-    "summary": "The dollar declined the most in almost three weeks as the Federal Reserve\nfaced grand jury subpoenas from the Justice Department, reviving concerns over\npolitical interference in monetary policy.\n\n"
-  },
-  {
-    "title": "Indian Stocks’ Recovery Clouded by Slowing Earnings Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findian-stocks-recovery-clouded-by-slowing-earnings-growth",
-    "published": "Mon, 12 Jan 2026 02:00:00 CST",
-    "summary": "Indian stocks face a subdued near-term outlook, with expectations of another\nlackluster earnings season dimming hopes for a rebound.\n\n"
-  },
-  {
-    "title": "Prudential Financial Is Said to Mull India Asset Manager Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fprudential-financial-is-said-to-mull-india-asset-manager-sale",
-    "published": "Mon, 12 Jan 2026 01:57:52 CST",
-    "summary": "Prudential Financial Inc.’s investment management arm is considering selling\nits loss-making asset management unit in India a decade after acquiring the\nbusiness from Deutsche Bank AG, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Iran Protests Could Add Volatility to Markets, Lombard Odier's Lee Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Firan-could-add-volatility-to-markets-lombard-odier-says-video",
-    "published": "Mon, 12 Jan 2026 01:51:13 CST",
-    "summary": "Lombard Odier's Homin Lee discusses the impact of intensifying protests in\nIran on equity and energy markets. He also talks to Bloomberg TV about the\noutlook for the Federal Reserve after the US central bank was served grand\njury subpoenas from the Justice Department. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Powell Responds to Justice Department Subpoenas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fpowell-responds-to-justice-department-subpoenas-video",
-    "published": "Mon, 12 Jan 2026 01:36:23 CST",
-    "summary": "Federal Reserve Chair Jerome Powell says the threat of criminal charges from\nthe US Justice Department is \"a consequence\" of the US central bank's rate\ndecisions. The Justice Department threatened a criminal indictment related to\nhis June congressional testimony on ongoing renovations of the Fed’s\nheadquarters. (Source: Other)\n\n"
+    "title": "Trump Says Credit Card Firms Would Break Law If Rates Not Capped",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftrump-says-credit-card-firms-would-break-law-if-rates-not-capped",
+    "published": "Mon, 12 Jan 2026 02:10:21 CST",
+    "summary": "President Donald Trump said that credit-card lenders would be “in violation of\nthe law” if they don’t heed his call to cap interest rates at 10% for one\nyear.\n\n"
   },
   {
     "title": "Australia Boosts Critical-Minerals Focus With Stockpile Plan",
@@ -126,22 +156,16 @@
     "summary": "Australia plans to buy and stockpile minerals essential for defense and\nadvanced technologies from domestic mining companies to help strengthen global\nsupply chains.\n\n"
   },
   {
-    "title": "EU Trade Deal With Mercosur Defies Trump’s Protectionism",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feu-trade-deal-with-mercosur-defies-trump-s-protectionism",
-    "published": "Mon, 12 Jan 2026 00:47:11 CST",
-    "summary": "The European Union and Mercosur have delivered their long-sought trade pact,\nalong with a political statement few could have imagined when talks began 25\nyears ago.\n\n"
-  },
-  {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
     "published": "Mon, 12 Jan 2026 00:40:09 CST",
     "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
   },
   {
-    "title": "Australian Household Spending Beats Expectations in November",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-household-spending-exceeds-expectations-in-november",
-    "published": "Mon, 12 Jan 2026 00:31:21 CST",
-    "summary": "Australia’s household spending rose at a faster-than-expected pace in\nNovember, indicating consumers are feeling confident about their finances even\nas inflation and borrowing costs remain elevated.\n\n"
+    "title": "Fed Served With DOJ Subpoenas, Powell Vows to Stand Firm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-says-justice-department-served-fed-with-subpoenas",
+    "published": "Mon, 12 Jan 2026 00:30:00 CST",
+    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\nFed.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -150,31 +174,7 @@
     "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
   },
   {
-    "title": "Britain’s 90s Housing Boom Handed Rich Kids Best Jobs, IFS Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbritain-s-90s-housing-boom-handed-rich-kids-best-jobs-ifs-says",
-    "published": "Mon, 12 Jan 2026 00:01:00 CST",
-    "summary": "Equality campaigners have long highlighted how British families who made a\nfortune during the housing boom of the late 1990s and 2000s used the windfall\nto give their children a leg up on the property ladder. Less well known is\nthat the same property wealth helped those kids bag the best jobs.\n\n"
-  },
-  {
-    "title": "Won Poised to Jump 4% This Quarter on Boost From Policy, Inflows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwon-poised-to-jump-4-this-quarter-on-boost-from-policy-inflows",
-    "published": "Mon, 12 Jan 2026 00:00:19 CST",
-    "summary": "The South Korean won is on track for a 4% gain this quarter, supported by\ngovernment measures to curb volatility and a flood of foreign capital into\nlocal stocks, according to local analysts.\n\n"
-  },
-  {
-    "title": "Global Rate Paths Splinter as Trump Drives Change at the Fed",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fglobal-rate-paths-splinter-as-trump-drives-change-at-the-fed",
-    "published": "Mon, 12 Jan 2026 00:00:00 CST",
-    "summary": "A spell of global interest-rate divergence is in store as central banks feel\ntheir way through the economic fog stoked by Donald Trump’s second year at the\nWhite House.\n\n"
-  },
-  {
-    "title": "Yuan Optimism Grows as Dollar Hedging Costs Hit Three-Year Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fyuan-optimism-grows-as-dollar-hedging-costs-hit-three-year-low",
-    "published": "Sun, 11 Jan 2026 23:44:10 CST",
-    "summary": "Growing optimism toward the Chinese yuan is spreading into hedging activities,\nwith the cost that mainland investors have to pay to guard against possible\ndollar losses falling to a three-year low.\n\n"
-  },
-  {
-    "title": "Gold Hits Record With Focus on Fed Independence, Iran Unrest",
+    "title": "Gold Hits Record High With Focus on Fed Independence and Iran",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
     "published": "Sun, 11 Jan 2026 23:40:30 CST",
     "summary": "Gold jumped to a record high as the US Justice Department threatened the\nFederal Reserve with a criminal indictment, reviving concerns over its\nindependence, while intensifying protests in Iran kept geopolitical tensions\nelevated.\n\n"
@@ -198,7 +198,7 @@
     "summary": "Chip designer OmniVision Integrated Circuits Group Inc. gained in its Hong\nKong trading debut after raising HK$4.8 billion ($616 million) in an offering.\n\n"
   },
   {
-    "title": "US Stock Futures Fall With Dollar on Threat to Fed: Markets Wrap",
+    "title": "US Stock Futures Drop With Dollar on Threat to Fed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
     "summary": "US stock futures fell and the dollar weakened on concern over the Federal\nReserve’s independence after Chair Jerome Powell said threats of a criminal\nindictment were a consequence of the central bank’s interest-rate policies.\n\n"
@@ -206,7 +206,7 @@
   {
     "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
-    "published": "Sun, 11 Jan 2026 20:47:15 CST",
+    "published": "Sun, 11 Jan 2026 20:47:16 CST",
     "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
   },
   {
@@ -228,7 +228,7 @@
     "summary": "Content creators are leveraging their high follower counts to apply for the\nvisa for ‘individuals with extraordinary ability’\n\nContent creators and influencers in the US are now increasingly dominating\nrequests for O-1 work visas. Astoundingly, the number of O-1 visas granted\neach year increased by 50% between 2014 and 2024, as noted by recent reporting\nin the Financial Times.\n\nThese visas allow non-immigrants to work temporarily in the US. The O-1\ncategory includes the O-1A, which is designated for individuals with\nextraordinary ability in the sciences, education, business or athletics and\nthe O-1B, reserved for those with “extraordinary ability or achievement”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Are a record number of mom and pops going bankrupt? Kinda but not really",
+    "title": "Are a record number of mom and pops going bankrupt? Kinda but not really | Gene Marks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fsmall-business-bankruptcy",
     "published": "Sun, 11 Jan 2026 15:00:28 CST",
     "summary": "Yes, the number of small businesses that filed for bankruptcy in 2025\nincreased from 2024. But only by 10\n\nAre mom-and-pop stores going bankrupt at historically high levels? That would\nseem to be the impression you’d get from recent news reports referencing data\nreleased from Epiq Bankruptcy Analytics, a provider of legal services that\nspecializes in bankruptcy services.\n\nUh-oh! Some have seen this as proof that Donald Trump’s policies are\nbankrupting Main Street. Well, no, not quite.\n\nContinue reading...\n\n"
@@ -594,6 +594,12 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
+    "title": "TCS, Infosys, Wipro to Offer Clues on 2026 Demand as Street Estimates Look Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftcs-infosys-to-offer-clues-on-2026-demand-as-street-estimates-look-up",
+    "published": "Fri, 09 Jan 2026 02:30:45 CST",
+    "summary": "Tata Consultancy Services Ltd., Infosys Ltd., and Wipro Ltd. will give clues\non how clients’ 2026 budgets are shaping up as the sector heads into another\nmuted earnings season.\n\n"
+  },
+  {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
@@ -870,6 +876,12 @@
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Pictet’s Sagayam on Investment Opportunities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fpictet-co-ceo-sagayam-on-global-investment-opportunities-video",
+    "published": "Tue, 06 Jan 2026 07:41:07 CST",
+    "summary": "Pictet Group Managing Partner and Co-CEO for Pictet Asset Management Raymond\nSagayam shares his views on investment opportunities in a rapidly changing\nglobal landscape. He speaks on Insight With Haslinda Amin. (Corrects job\ntitle.)\n\n"
+  },
+  {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fcomcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
     "published": "Mon, 05 Jan 2026 21:02:46 CST",
@@ -952,12 +964,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F03%2Fbusiness%2Feconomy%2Ftrump-tariffs-prices-impact.html",
     "published": "Sat, 03 Jan 2026 10:00:59 CST",
     "summary": "Steep import taxes have raised prices and affected U.S. businesses, but not\nquite as much as expected. A new report offers some reasons.\n\n"
-  },
-  {
-    "title": "Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F02%2Fberkshire-hathaway-shares-dip-as-warren-buffett-exits-and-greg-abel-era-begins.html",
-    "published": "Fri, 02 Jan 2026 23:22:58 CST",
-    "summary": "Investors digested the formal end of Warren Buffett's six-decade tenure as\nchief executive and the start of a new era under successor Greg Abel.\n\n"
   },
   {
     "title": "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever",
