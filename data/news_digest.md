@@ -6,44 +6,44 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-President Donald Trump dominates headlines with bold economic and geopolitical moves. His proposal to cap credit card interest rates at 10% for a year raises questions about enforcement, while his push to revive Venezuela’s oil sector faces skepticism from major energy firms wary of political risks. Meanwhile, China watches closely as Trump seeks to expand U.S. influence in Latin America, a region where Beijing has long held economic dominance. Elsewhere, Bolivia’s government prepares a new economic decree amid protests, while Lufthansa delays flights to Iran due to escalating unrest. In Ukraine, businesses like vodka maker Nemiroff press on with exports despite ongoing war disruptions, underscoring resilience amid conflict.
+Geopolitical tensions and economic maneuvers dominate global headlines this week, with President Donald Trump's aggressive push into Venezuela's oil sector drawing mixed reactions. Trump's proposal to cap credit card interest rates at 10% for a year adds to his domestic economic agenda, though its feasibility remains uncertain. Meanwhile, China's deepening influence in Latin America contrasts with Trump's efforts, as Beijing monitors U.S. moves closely. In Europe, Lufthansa delays flights to Iran amid escalating protests, while Bolivia's government prepares a new economic decree after mass unrest over fuel subsidies. Elsewhere, Ukraine's resilience shines as businesses like Nemiroff expand exports despite ongoing war, and China threatens to derail UK trade talks over a minister's Taiwan visit, underscoring Beijing's assertive diplomatic stance.
 
 **Top Articles:**
 - [Ex-Justice Department Official Denied Bid to Represent Maduro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fex-justice-department-official-denied-bid-to-represent-maduro)
 - [Trump Calls for One-Year Cap on Credit Card Rates at 10%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ftrump-calls-for-one-year-cap-on-credit-card-rates-at-10-video)
 - [Bolivia Plans New Economic Decree, Won’t Resume Fuel Subsidies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbolivia-plans-new-economic-decree-won-t-resume-fuel-subsidies)
-- [Yara May Drop US Project If Fertilizer Excluded From EU Carbon Levy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fyara-may-drop-us-project-if-fertilizer-excluded-from-eu-carbon-levy)
 - [Lufthansa Delays Iran Flight Resumption Amid Protests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flufthansa-plans-to-resume-iran-flights-despite-deadly-protests)
+- [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
 
-**Sources**: archive.ph (19 articles)
+**Sources**: archive.ph (18 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Markets are on edge as the Trump administration escalates its pressure on the Federal Reserve, with the Justice Department launching a criminal investigation into Fed Chair Jerome Powell. The move, condemned by former Fed officials and lawmakers, including Republican Sen. Thom Tillis, sparks fears of eroding central bank independence and revives the 'sell America' trade, benefiting emerging markets. Meanwhile, corporate maneuvering takes center stage as Paramount Skydance intensifies its battle for Warner Bros. Discovery, nominating directors to block a potential Netflix merger and filing a lawsuit for financial transparency. In other developments, Eli Lilly's weight-loss pill advances toward U.S. approval, and General Motors reports a $7.1 billion loss amid scaled-back EV ambitions. Commodities face disruptions, with Kazakh oil shipments slashed and Venezuelan oil exports rerouted, while China's tech push struggles to offset economic weaknesses.
+Financial markets are on edge as the Trump administration escalates its pressure on the Federal Reserve, with the Justice Department launching a criminal investigation into Fed Chair Jerome Powell. The move, widely condemned by former Fed officials and market analysts, raises concerns about central bank independence and risks driving interest rates higher, contrary to Trump’s stated goals. Stocks and bonds fluctuate amid the uncertainty, reviving the 'sell America' trade as investors weigh the potential fallout. Meanwhile, corporate maneuvering takes center stage, with Paramount Skydance intensifying its battle for Warner Bros. Discovery by nominating directors to block a merger with Netflix and filing a lawsuit for financial transparency. In other developments, Eli Lilly’s weight-loss pill advances toward U.S. approval, while emerging markets gain traction as the dollar weakens. The Golden State Warriors’ parent company also makes headlines with a reported $11 billion valuation ahead of a minority stake sale.
 
 **Top Articles:**
-- [Golden State Warriors Parent Company Said to Be Valued at $11 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fwarriors-parent-said-to-be-valued-at-11-billion-video)
-- [Fed Served with DOJ Subpoenas, Performance of ‘OTFL’ ETF | ETF IQ 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fetf-iq-1-12-2026-video)
-- [Pimco, PGIM See Risk Trump’s Fed Fight Will Drive Rates Higher](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpimco-pgim-see-risk-trump-s-fed-fight-will-drive-rates-higher)
-- [Betterment Customer Data Accessed in Online Crypto Scam Attack](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbetterment-customer-data-accessed-in-online-crypto-scam-attack)
 - [Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html)
+- [Powell Casts DOJ Subpoenas As Political Pressure, Warriors Up for Sale | Bloomberg Markets 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbloomberg-markets-1-12-2026-video)
+- [Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Frepublican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html)
+- [Wall Street on Edge Amid Fed Angst | Open Interest 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fopen-interest-1-12-2026-video)
+- [Golden State Warriors Parent Company Said to Be Valued at $11 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fwarriors-parent-said-to-be-valued-at-11-billion-video)
 
-**Sources**: archive.ph (83 articles)
+**Sources**: archive.ph (85 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines this week, with Alphabet surpassing a $4 trillion valuation after Apple integrated Gemini into Siri, cementing its position as the world's second-most valuable company. Nvidia also makes waves with a $1 billion investment in an AI drug lab alongside Eli Lilly, signaling deepening ties between big tech and pharmaceuticals. Meanwhile, regulatory scrutiny intensifies as Elon Musk’s X faces a UK investigation over Grok’s generation of sexualized AI images, while Malaysia and Indonesia block the chatbot entirely. In corporate moves, Google’s co-founders reduce ties to California, and JPMorgan shifts to AI-driven proxy voting analysis. Beyond tech, Boeing secures a massive order from Alaska Airlines, while automakers like Ford and GM adjust strategies amid an EV slowdown. The week also sees labor unrest, with nearly 15,000 New York City nurses striking over staffing and benefits.
+The tech and business landscape is buzzing with major developments, led by Alphabet surpassing a $4 trillion valuation after Apple integrated Gemini AI into Siri, solidifying its position as the world's second-most valuable company. Meanwhile, Nvidia is doubling down on AI-driven healthcare with a $1 billion investment in a new lab alongside Eli Lilly, aiming to accelerate drug discovery. Regulatory scrutiny is intensifying, as Elon Musk’s X faces a UK investigation over Grok’s generation of sexually explicit AI images, while Malaysia and Indonesia block the chatbot entirely. In corporate moves, Boeing secures its largest-ever order from Alaska Airlines for 110 jets, and GM announces a $7.1 billion charge tied to its EV slowdown. The week also saw geopolitical shifts, with the Trump administration nearing a trade deal with Taiwan that includes TSMC expanding U.S. chip manufacturing, and China probing Meta’s acquisition of AI startup Manus over compliance concerns.
 
 **Top Articles:**
+- [Trump Administration Nears Trade Deal With Taiwan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feconomy%2Ftrump-taiwan-deal.html)
+- [Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html)
+- [Supreme Court Grapples With Louisiana Coastal Lawsuits Against Oil Companies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fsupreme-court-louisiana-oil.html)
 - [Ho-hum holiday: Retail's early results show modest growth in critical shopping season](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html)
 - [Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fnvidia-to-invest-1b-in-ai-drug-lab-with-eli-lilly-video)
-- [Attacking Powell Makes No Sense](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fopinion-attacking-powell-makes-no-sense-video)
-- [Trump Administration Nears Trade Deal With Taiwan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feconomy%2Ftrump-taiwan-deal.html)
-- [Google parent Alphabet hits $4tn valuation after AI deal with Apple](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F12%2Fgoogle-gemini-alphabet-4-trillion-value)
 
 **Sources**: archive.ph (76 articles)
 
@@ -51,7 +51,7 @@ Tech and AI dominate headlines this week, with Alphabet surpassing a $4 trillion
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discounters for their weekly shopping. The aggressive growth underscores rising competition in the grocery sector, with Aldi and other value-focused retailers gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures drive consumers to prioritize affordability without sacrificing quality. Aldi's expansion strategy includes both new locations and remodels of existing stores, further intensifying pressure on traditional supermarkets to adapt to shifting consumer preferences.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly prioritize value. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures drive more households to seek affordable alternatives for their weekly grocery runs. Aldi's strategy highlights a shift in consumer behavior, with traditional supermarkets facing mounting pressure to adapt to the demand for lower prices and streamlined shopping experiences.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-This week’s news highlights significant shifts in business, policy, and culture. In corporate moves, Allegiant Airlines announces a $1.5 billion acquisition of Sun Country, reflecting ongoing consolidation in the budget airline sector amid rising costs. Meanwhile, Paramount escalates its bid for Warner Bros. Discovery, signaling a potential shakeup in the entertainment industry. On the policy front, the EU finalizes a landmark trade deal with Mercosur, creating a 700-million-person free-trade zone, while California’s proposed 5% wealth tax on billionaires sparks debate over economic equity. Culturally, the Golden Globes introduces a new podcast category, recognizing the medium’s growing influence, while Neon, an indie studio, leads film nominations with a slate of non-English language films. Economic trends reveal a stabilizing used car market and rising minimum wages in several states, though affordability concerns persist for middle-class Americans. Notably, a new crash test dummy aims to improve car safety for women, addressing long-standing data gaps.
+This week’s news highlights significant shifts in business, policy, and culture. In corporate developments, Allegiant’s $1.5 billion acquisition of Sun Country underscores consolidation in the budget airline sector amid rising costs, while Paramount’s aggressive pursuit of Warner Bros. Discovery signals intensifying media industry competition. Meanwhile, Jersey Mike’s expansion into Europe reflects growing U.S. fast-food ambitions abroad. On the policy front, California’s proposed 5% wealth tax on billionaires sparks debate over economic equity, while the Supreme Court’s increasing favoritism toward wealthy litigants draws scrutiny. Culturally, the Golden Globes’ first-ever podcast category and Neon’s dominance in non-English film nominations mark evolving entertainment trends. Housing market dynamics also take center stage, with easing constraints offering cautious optimism for buyers, though affordability remains a pressing concern for middle-class Americans.
 
 **Top Articles:**
 - [Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html)
 - [Paramount Threatens Board Fight Over Warner Bros. Discovery](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html)
 - [Jersey Mike's strikes European expansion deal led by founder Peter Cancro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjersey-mikes-european-expansion-peter-cancro.html)
 - [Which jobs have grown (and declined) fastest during your working life?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F)
-- [EU Trade Deal With Mercosur Defies Trump’s Protectionism](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feu-trade-deal-with-mercosur-defies-trump-s-protectionism)
+- [Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html)
 
-**Sources**: archive.ph (34 articles)
+**Sources**: archive.ph (33 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 06:57 PM *
+*Digest generated on January 12, 2026 at 07:42 PM *
