@@ -6,14 +6,14 @@ Generated from **215** unique articles (deduplicated from 215 total) across **1*
 
 ## 🌍 World & Politics
 
-Tensions escalate as President Donald Trump weighs military action against Iran following reports of deadly crackdowns, even as Tehran seeks diplomatic talks. Meanwhile, Trump's aggressive push to secure Venezuela's oil reserves faces skepticism from major energy firms, with executives reluctant to invest amid political instability. The move is seen as part of a broader U.S. strategy to counter China's dominance in Latin America, where Beijing remains a key economic player. Elsewhere, Greenland's labor leader firmly rejects Trump's annexation claims, while Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff. In Ukraine, businesses like vodka maker Nemiroff continue operations despite ongoing conflict, highlighting resilience amid war.
+Geopolitical tensions and economic maneuvers dominate the global stage as President Trump pushes an aggressive $100 billion plan to revive Venezuela’s oil sector, despite skepticism from major energy firms wary of political instability and legal risks. The move, seen as a bid to counter China’s deepening influence in Latin America, faces resistance from oil executives and analysts who question its feasibility amid a global supply glut and low prices. Meanwhile, China’s strategic foothold in the region remains strong, with Beijing closely monitoring U.S. actions while asserting its economic leverage elsewhere, including threats to cancel UK trade talks over a minister’s Taiwan visit. In Europe, Lufthansa’s decision to resume flights to Iran—despite deadly protests and travel warnings—highlights the complex balance between commerce and geopolitical risk. Back in the U.S., Trump’s domestic agenda includes pressuring defense contractors to accelerate weapons production and urging Congress to curb Wall Street’s purchase of single-family homes, reflecting his populist economic priorities. Against this backdrop, Ukraine’s resilience shines as businesses like Nemiroff vodka expand exports despite ongoing war, underscoring the enduring human drive to adapt amid conflict.
 
 **Top Articles:**
-- [Eyre: US Strike in Iran Could Become a Regional Problem](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Feyre-us-strike-in-iran-could-become-a-regional-problem-video)
-- [The Lawyer Suing Media Outlets for Trump Has a ‘Trumpinator’ Doll Behind His Desk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fflorida-lawyer-is-leading-trump-lawsuits-against-nyt-wsj-bbc)
+- [Why Oil Prices Are Tuning Out the Turmoil in Iran and Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-12%2Fwhy-oil-prices-are-tuning-out-the-political-turmoil-in-iran-and-venezuela)
+- [Lufthansa Plans to Resume Iran Flights Despite Deadly Protests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flufthansa-plans-to-resume-iran-flights-despite-deadly-protests)
+- [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
-- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
 
 **Sources**: archive.ph (16 articles)
 
@@ -21,47 +21,47 @@ Tensions escalate as President Donald Trump weighs military action against Iran 
 
 ## 💰 Finance, Economics & Business
 
-Global markets are grappling with heightened uncertainty as the Trump administration escalates its conflict with the Federal Reserve, sparking a 'Sell America' sentiment that sent stocks, bonds, and the dollar lower while propelling gold to record highs. The Justice Department's criminal probe into Fed Chair Jerome Powell has raised concerns about central bank independence, overshadowing economic indicators like soft U.S. job growth and India's low inflation, which could pave the way for rate cuts. Meanwhile, corporate activity remains robust, with major deals like Rio Tinto and Glencore's $260 billion merger talks and JPMorgan Chase's acquisition of the Apple Card portfolio from Goldman Sachs. In tech and finance, Standard Chartered's crypto expansion plans and BlackRock's bullish stance on AI stocks highlight shifting investment trends, while emerging markets, particularly in the Middle East, see record VC funding. However, challenges persist, as seen in General Motors' $7.1 billion EV-related loss and Volkswagen's struggling U.S. sales, underscoring the uneven impact of policy shifts and economic pressures.
+Markets are on edge as the U.S. Justice Department launches a criminal investigation into Federal Reserve Chair Jerome Powell, escalating tensions between the Trump administration and the central bank. The probe, tied to Powell’s congressional testimony on Fed headquarters renovations, has reignited fears over the Fed’s independence, triggering a sell-off in U.S. stocks and bonds while sending gold and silver to record highs. Investors are diversifying away from American assets, with Citigroup predicting further gains in global equities as confidence in U.S. markets wavers. Meanwhile, geopolitical and trade dynamics are reshaping global business, as Europe and China move to resolve their electric vehicle dispute through voluntary import limits, and the U.S. trade deficit hits its lowest level since 2009 amid Trump’s tariff policies. Corporate earnings paint a mixed picture, with General Motors posting a $7.1 billion loss due to scaled-back EV ambitions, while India’s low inflation leaves room for potential rate cuts. In other developments, Standard Chartered is expanding into crypto prime brokerage, and Middle East venture capital funding surges to record highs, defying global trends.
 
 **Top Articles:**
-- [The Sell America Trade Is Back as US Targets Fed Chair](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-12%2Fthe-sell-america-trade-is-back-as-us-targets-fed-chair)
-- [StanChart Said to Prepare Crypto Expansion With Prime Brokerage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstanchart-said-to-prepare-crypto-expansion-with-prime-brokerage)
-- [This Is Who Companies Call When They Want to Become a Bank](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffintechs-call-klaros-group-when-they-want-bank-charters)
-- [Chile Investors Look Abroad as Fed, Geopolitics Drive Rates](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchile-investors-look-abroad-as-fed-geopolitics-drive-rates)
-- [Data Centers Will Need $3 Trillion Through 2030, Moody’s Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdata-centers-will-need-3-trillion-through-2030-moody-s-says)
+- [DOJ probe into Fed chair Powell is 'Maduro' warning from Trump, analyst says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-powell-maduro-probe-fed-chair-investigation.html)
+- [Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Frepublican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html)
+- [Toronto-Dominion Plans SRT Tied to $5 Billion of Corporate Loans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftoronto-dominion-plans-srt-tied-to-5-billion-of-corporate-loans)
+- [Europe and China Take Step to Resolve Dispute on Electric Vehicles](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feurope-china-electric-vehicles-tariffs-volkswagen.html)
+- [Stock futures waver, dollar slips as DOJ opens criminal probe into Fed chair](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (85 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s tech and business landscape is marked by significant regulatory scrutiny, corporate maneuvering, and AI controversies. China is investigating Meta’s acquisition of AI startup Manus over compliance concerns, while Elon Musk’s AI chatbot Grok faces backlash in Malaysia and Indonesia for generating explicit images, prompting restrictions. In corporate news, BE Semiconductor’s shares surge after a doubling of Q4 orders, driven by data center and photonics demand, while Boeing secures its largest-ever order from Alaska Airlines for 110 planes amid production ramp-ups. Meanwhile, the U.S. labor market shows modest hiring growth, with 2025 marking the weakest job gains in five years, as economic uncertainties persist. The crypto sector is also in focus, with lawmakers revisiting comprehensive legislation, and Venezuela’s potential Bitcoin holdings drawing speculation amid broader financial instability.
+This week’s news highlights significant developments across tech, finance, and global trade. In tech, Elon Musk’s AI chatbot Grok faces backlash after generating sexually explicit images, prompting Malaysia and Indonesia to block access. Meanwhile, Google and Character.AI settled a lawsuit tied to a teenager’s death linked to an AI chatbot, underscoring growing regulatory scrutiny of AI. On the corporate front, JPMorgan’s asset management arm is ditching controversial proxy advisors in favor of AI-driven analysis, while Boeing secures its largest-ever order from Alaska Airlines for 110 jets, signaling confidence in aviation’s recovery. In global trade, the Democratic Republic of Congo begins shipping copper to the U.S. under a Mercuria-backed deal, challenging China’s dominance in critical metals. Additionally, Glencore and Rio Tinto restart merger talks amid surging demand for copper, reflecting broader trends in mining consolidation. The week also saw mixed economic signals, with U.S. hiring slowing but retail posting modest holiday growth, while Trump’s proposed 10% cap on credit card interest rates sparked debate over its feasibility.
 
 **Top Articles:**
-- [Corn Rises to Two-Week High as Report Seen Cutting US Yield](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcorn-rises-to-two-week-high-as-report-seen-cutting-us-corn-yield)
-- [BE Semiconductor Shares Soar as Fourth Quarter Bookings Double](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbe-semiconductor-shares-soar-as-fourth-quarter-bookings-double)
-- [US Envoy Says Trade Differences With India Will Be Resolved](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-envoy-says-trade-deal-differences-with-india-will-be-resolved)
-- [China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html)
-- [Copper Pushes Toward Record on Supply Concerns and Weaker Dollar](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcopper-pushes-toward-record-on-supply-concerns-and-weaker-dollar)
+- [Ho hum holiday: Retail's early results show modest growth in critical shopping season](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html)
+- [Congo Sending First Copper to US Under Mercuria-Backed Venture](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcongo-sending-first-copper-to-us-under-mercuria-backed-venture)
+- [Fed Subpoena ‘Out of My Purview,’ Says FHFA’s Pulte](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffed-subpoena-out-of-my-purview-says-fhfa-s-pulte-video)
+- [New York City expects biggest nurses strike as nearly 15,000 set to walk off job](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fnew-york-city-nurse-strike)
+- [JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjpmorgans-looming-question-what-happens-when-ceo-jamie-dimon-leaves.html)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (77 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights significant shifts in global business, economic policy, and cultural trends. In corporate developments, Jersey Mike's announces an ambitious European expansion with 400 new stores planned in the U.K. and Ireland, while Heineken faces leadership changes amid declining sales. The European Central Bank signals a conservative approach to interest rates, reflecting broader economic caution. Meanwhile, the Golden Globes make history by introducing a best podcast category, underscoring the growing influence of audio storytelling in entertainment. On the economic front, the U.S. housing market shows signs of easing, offering potential relief for buyers, while California's proposed wealth tax on billionaires sparks debate over fiscal policy. Additionally, a new crash test dummy designed to better represent female anatomy aims to improve automotive safety standards, addressing long-standing gender disparities in vehicle safety research.
+This week's news highlights a dynamic global economy with significant shifts in corporate strategy, labor markets, and cultural trends. In business, BHP Group finds itself sidelined in the copper M&A boom it helped ignite, while QXO Inc. secures a $3 billion financing deal to fuel further acquisitions. The housing market shows signs of easing, offering potential relief for buyers, though affordability remains a pressing concern for middle-class Americans. Meanwhile, the Golden Globes makes history by introducing a best podcast category, reflecting the medium's growing influence in entertainment. On the policy front, California's proposed billionaire tax and the EU's landmark free-trade deal with South America underscore contrasting approaches to economic governance. Human interest stories, like the development of a female-focused crash test dummy and a woman's life-changing 401(k) discovery, add depth to the week's coverage.
 
 **Top Articles:**
+- [BHP Is Stuck on the Sidelines of Copper M&amp;A Frenzy It Started](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbhp-is-stuck-on-the-sidelines-of-copper-m-a-frenzy-it-started)
 - [Jersey Mike's strikes European expansion deal led by founder Peter Cancro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjersey-mikes-european-expansion-peter-cancro.html)
-- [ECB’s Muller Pledges Conservative Rate Policy If Elected VP](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fecb-s-muller-pledges-conservative-rate-policy-if-elected-vp)
-- [Apheon Hits €1.25 Billion Hard Cap for Latest Flagship Fund](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fapheon-hits-1-25-billion-hard-cap-for-latest-flagship-fund)
-- [Heineken to Replace CEO as Dutch Brewer Mired in Sales Slump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fheineken-ceo-steps-down-as-slumping-beer-sales-hurt-brewer)
+- [QXO Boosts Financing Deal to $3 Billion to Pursue M&amp;A](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjacobs-qxo-boosts-financing-deal-to-3-billion-to-pursue-m-a)
 - [Which jobs have grown (and declined) fastest during your working life?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F)
+- [Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 11:43 AM *
+*Digest generated on January 12, 2026 at 01:27 PM *
