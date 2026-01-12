@@ -1,67 +1,67 @@
 # NoBS News Digest - January 12, 2026
 
-Generated from **217** unique articles (deduplicated from 217 total) across **1** news sources
+Generated from **216** unique articles (deduplicated from 216 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvering dominate global headlines this week, with President Trump's aggressive push into Venezuela's oil sector drawing widespread scrutiny. Despite Trump's efforts to rally U.S. oil executives behind a $100 billion investment plan, major firms remain hesitant due to political instability and legal risks. Analysts warn that Trump's strategy—seen by critics as outdated and exploitative—could weaken U.S. economic influence while bolstering China's already dominant position in Latin America. Meanwhile, Greenland's labor leaders firmly reject Trump's annexation claims, underscoring growing resistance to U.S. expansionist rhetoric. In other developments, Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff, and China's threat to cancel UK trade talks over a minister's Taiwan visit highlights Beijing's escalating diplomatic pressure. Against this backdrop, Ukraine's resilience shines as businesses like Nemiroff expand exports despite ongoing war, while financial markets grapple with the fallout from Trump's Venezuela gambit.
+Geopolitical tensions dominate the week as President Donald Trump pursues aggressive moves in Latin America, particularly Venezuela, where he seeks to secure oil investments despite skepticism from major energy firms. His push for U.S. involvement in Venezuela’s resources faces resistance, with analysts warning of potential economic and diplomatic backlash, especially as China maintains its stronghold in the region. Meanwhile, Trump’s administration escalates pressure on defense contractors, demanding faster weapons production, while also proposing measures to curb Wall Street’s acquisition of single-family homes. Internationally, China flexes its diplomatic muscle, threatening to derail UK trade talks over a minister’s Taiwan visit, while Greenland firmly rejects Trump’s annexation claims. Domestic political friction continues as Democratic lawmakers call for an investigation into a Middle East envoy, and a prediction market sparks controversy over bets on a U.S. invasion of Venezuela.
 
 **Top Articles:**
-- [Fesharaki on Iran Unrest, Oil Market Risks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffesharaki-on-iran-unrest-oil-market-risks-video)
+- [Eyre: US Strike in Iran Could Become a Regional Problem](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Feyre-us-strike-in-iran-could-become-a-regional-problem-video)
+- [The Lawyer Suing Media Outlets for Trump Has a ‘Trumpinator’ Doll Behind His Desk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fflorida-lawyer-is-leading-trump-lawsuits-against-nyt-wsj-bbc)
+- [Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
-- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
-- [Trump Is Making a Power Play in Latin America. China Is Already There.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fchina-latin-america-trump-venezuela.html)
 
-**Sources**: archive.ph (15 articles)
+**Sources**: archive.ph (17 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Markets are on edge as political tensions escalate between the Trump administration and the Federal Reserve, with the Justice Department issuing grand jury subpoenas related to Fed headquarters renovations. The dollar plunges to a three-week low, while gold and silver surge to record highs amid concerns over central bank independence and geopolitical unrest, including ongoing protests in Iran. Meanwhile, corporate shakeups dominate headlines, with Heineken’s CEO stepping down due to slumping beer sales and General Motors posting a $7.1 billion loss as it scales back electric vehicle ambitions. In dealmaking, Rio Tinto and Glencore restart merger talks that could create the world’s largest mining company, while JPMorgan Chase takes over the Apple Card from Goldman Sachs. China’s economic challenges persist, with its AI and robotics push failing to offset real estate woes, and battery stocks dropping after export tax rebate cuts. The housing market shows signs of balancing, though Trump’s push for a 10% credit card rate cap faces banking industry backlash.
+Global markets are grappling with heightened uncertainty as political pressures on the Federal Reserve escalate, with the Justice Department issuing grand jury subpoenas to Chair Jerome Powell, raising concerns over the central bank’s independence. The dollar weakened sharply, and European stocks retreated amid fears of political interference in monetary policy, while gold surged to new highs as investors sought safe havens. Meanwhile, India’s inflation remains subdued, leaving room for potential rate cuts, and China’s economic growth stays vulnerable despite its push into AI and robotics, with real estate woes persisting. Corporate earnings reveal mixed signals: Tata Consultancy Services missed estimates, signaling cautious tech spending, while General Motors posted a $7.1 billion loss as it scales back electric vehicle ambitions. M&A activity is heating up, with Rio Tinto and Glencore restarting talks for a $260 billion mining merger, and QXO Inc. securing $3 billion in financing to fuel acquisitions. The housing market shows signs of balancing, though commercial real estate faces shifts as Americans migrate to smaller cities. Bond markets are also in focus, with Singapore Exchange proposing new futures tied to Asian government debt, and Venezuela’s bonds emerging as a speculative hot trade despite significant risks.
 
 **Top Articles:**
-- [Focus on Fed Divions, Not Independence: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffocus-on-fed-divions-not-independence-3-minute-mliv-video)
-- [US DOJ Investigating Fed; US Monitoring Iran Protests | Horizons Middle East & Africa 1/12/2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fhorizons-middle-east-africa-1-12-2026-video)
-- [Heineken CEO Steps Down as Slumping Beer Sales Hurt Brewer](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fheineken-ceo-steps-down-as-slumping-beer-sales-hurt-brewer)
-- [Pound Edges Higher as Fed Threat Hits Dollar](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-12%2Fftse-100-live-fed-powell-trump-dollar-pound-oil-gold-prices-what-s-moving-uk-markets-right-now-markets-today)
-- [Fed Subpoenas Revive ‘Sell America’ Trade on Autonomy Concerns](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffed-subpoenas-revive-sell-america-trade-on-autonomy-concerns)
+- [India Inflation Stays Low, Leaves Room for Interest Rate Cut](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findia-inflation-stays-low-leaves-room-for-interest-rate-cut)
+- [Understanding The Threat Of Fed Criminal Charges](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Funderstanding-the-threat-of-fed-criminal-charges-video)
+- [TCS Profit Misses Estimates in Sign Tech Spending Yet to Pick Up](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftcs-profit-misses-estimates-in-sign-tech-spending-yet-to-pick-up)
+- [Jacobs’ QXO Boosts Financing Deal to $3 Billion to Pursue M&amp;A](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjacobs-qxo-boosts-financing-deal-to-3-billion-to-pursue-m-a)
+- [Singapore Exchange Proposes Bond Futures for India, SE Asia](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fsingapore-exchange-proposes-bond-futures-for-india-se-asia)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (79 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s tech and business landscape is marked by high-stakes AI developments, regulatory scrutiny, and major corporate moves. Elon Musk’s AI chatbot, Grok, faces backlash after generating explicit images of real people, prompting Malaysia and Indonesia to block access. Meanwhile, China is investigating Meta’s acquisition of AI startup Manus over compliance concerns, signaling tighter oversight of cross-border tech deals. In corporate news, HD Hyundai Robotics is preparing for a South Korea IPO, reflecting the global race to advance humanoid robotics, while Boeing secures its largest-ever order from Alaska Airlines, underscoring aviation’s rebound. Financial markets see notable shifts, with DeepSeek founder Liang Wenfeng’s hedge fund surging 57% amid China’s quant boom, and OmniVision’s strong Hong Kong debut after a $616 million IPO. Regulatory and legal battles also take center stage, as U.S. lawmakers revive efforts to pass comprehensive crypto legislation, and Google and Character.AI settle a lawsuit tied to an AI-related tragedy. The week’s trends highlight AI’s growing pains, geopolitical tensions in tech, and a cautious but expanding global economy.
+This week’s tech and business landscape is marked by significant AI developments, regulatory scrutiny, and strategic shifts across industries. Elon Musk’s AI chatbot, Grok, faces backlash as Malaysia and Indonesia block access due to sexually explicit content, while China investigates Meta’s acquisition of AI startup Manus over compliance concerns. In corporate news, BE Semiconductor’s shares surge after fourth-quarter bookings double, driven by data center and photonics demand, and DeepSeek’s founder sees a 57% fund surge amid China’s quant boom. Meanwhile, Boeing secures its largest-ever order from Alaska Airlines for 110 planes, signaling confidence in aviation’s recovery, while GM and Ford adjust EV strategies amid market slowdowns. Regulatory and legal developments include U.S. lawmakers revisiting crypto legislation and JPMorgan dropping controversial proxy advisors in favor of AI-driven analysis. Emerging trends highlight AI’s growing role in finance and corporate governance, alongside ongoing debates over tech ethics and global investment risks.
 
 **Top Articles:**
+- [BE Semiconductor Shares Soar as Fourth Quarter Bookings Double](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbe-semiconductor-shares-soar-as-fourth-quarter-bookings-double)
 - [DeepSeek Founder Liang’s Funds Surge 57% as China Quants Boom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdeepseek-founder-liang-s-funds-surge-57-as-china-quants-boom)
-- [Transatlantic Geopolitics Founder on Iran Protests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ftransatlantic-geopolitics-founder-on-iran-protests-video)
-- [US Envoy Says Trade Deal Differences With India Will Be Resolved](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-envoy-says-trade-deal-differences-with-india-will-be-resolved)
-- [HD Hyundai Robotics Hires Banks for South Korea IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fhd-hyundai-robotics-hires-banks-for-south-korea-ipo)
 - [China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html)
+- [Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html)
+- [Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html)
 
-**Sources**: archive.ph (82 articles)
+**Sources**: archive.ph (78 articles)
 
 ---
 
 ## 📰 Other News
 
-Global financial and economic trends dominate this week’s news, with China’s stock market hitting a record $516 billion in turnover as investor enthusiasm surges. Meanwhile, BBVA moves to offload €380 million in soured mortgages, signaling ongoing balance sheet adjustments in European banking. In the U.S., the housing market shows signs of easing, though affordability remains a pressing issue, with middle-class Americans increasingly strained by high costs despite economic growth. The Supreme Court’s growing favoritism toward wealthy litigants and California’s controversial billionaire tax proposal highlight deepening economic divides. On the cultural front, the Golden Globes make history by introducing a best podcast category, reflecting the medium’s rising influence, while Neon studio leads nominations with a slate of international films. Energy markets fluctuate as Iranian protests raise concerns over oil supply disruptions, and natural gas prices dip amid shifting weather forecasts. Notable human interest stories include a new crash test dummy designed to improve women’s safety in car accidents and a woman’s life-changing pivot after discovering flaws in her 401(k) plan.
+Global financial and economic developments dominate today's news, with the European Central Bank's Madis Muller pledging a conservative rate policy if elected vice president, signaling stability amid economic uncertainty. In corporate moves, Heineken's CEO steps down as the brewer faces declining sales, while BBVA seeks to offload €380 million in soured mortgages, reflecting ongoing balance sheet cleanup in the banking sector. China's stock market hits a record turnover of $516 billion, underscoring robust investor activity, while private equity firms face fundraising challenges, with management fees hitting new lows in 2025. On the cultural front, the Golden Globes introduce a best podcast category, recognizing the medium's growing influence, and Neon leads nominations with a slate of international films. Meanwhile, U.S. housing trends show signs of easing, though affordability remains a pressing issue for middle-class Americans, with rising minimum wages in some states offering limited relief. Notable human interest stories include a new crash test dummy designed to improve safety for women in car accidents and a woman's life-changing pivot after discovering flaws in her 401(k) plan.
 
 **Top Articles:**
+- [ECB’s Muller Pledges Conservative Rate Policy If Elected VP](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fecb-s-muller-pledges-conservative-rate-policy-if-elected-vp)
+- [Apheon Hits €1.25 Billion Hard Cap for Latest Flagship Fund](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fapheon-hits-1-25-billion-hard-cap-for-latest-flagship-fund)
+- [Cullen Roche on the Art of Building a Perfect Portfolio](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcullen-roche-on-how-to-build-an-investment-portfolio)
 - [BBVA Is Seeking to Sell About €380 Million in Soured Mortgages](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbbva-is-seeking-to-sell-about-380-million-in-soured-mortgages)
 - [China Onshore Stock Turnover Jumps to a Record $516 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-onshore-stock-turnover-jumps-to-a-record-516-billion)
-- [Insight with Haslinda Amin 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Finsight-with-haslinda-amin-1-12-2026-video)
-- [Which jobs have grown (and declined) fastest during your working life?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F)
-- [Oil Holds Gain as Iranian Protests Raise Specter of Disruption](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12)
 
-**Sources**: archive.ph (40 articles)
+**Sources**: archive.ph (42 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 08:58 AM *
+*Digest generated on January 12, 2026 at 10:52 AM *
