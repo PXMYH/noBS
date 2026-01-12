@@ -1,5 +1,23 @@
 [
   {
+    "title": "China Onshore Stock Turnover Jumps to a Record $516 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-onshore-stock-turnover-jumps-to-a-record-516-billion",
+    "published": "Mon, 12 Jan 2026 07:31:00 CST",
+    "summary": "Stock turnover in Shanghai and Shenzhen reached an all-time high on Monday of\n3.6 trillion yuan ($516 billion) as animal spirits continue to mount in\nChinese equities.\n\n"
+  },
+  {
+    "title": "Heineken CEO Steps Down as Slumping Beer Sales Hurt Brewer",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fheineken-ceo-steps-down-as-slumping-beer-sales-hurt-brewer",
+    "published": "Mon, 12 Jan 2026 07:15:46 CST",
+    "summary": "Heineken NV Chief Executive Officer Dolf van den Brink is stepping down months\nafter the brewer issued a profit warning amid a slump in beer sales.\n\n"
+  },
+  {
+    "title": "Fesharaki on Iran Unrest, Oil Market Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffesharaki-on-iran-unrest-oil-market-risks-video",
+    "published": "Mon, 12 Jan 2026 06:52:08 CST",
+    "summary": "FGE NexantECA Chairman Emeritus Fereidun Fesharaki shares his analysis on the\nescalating protests in Iran, the potential collapse of the Islamic regime, and\nwhat it means for global oil markets. Speaking on Insight with Haslinda Amin,\nhe also discussed challenges ahead for Trump's plans for Venezuelan\ninvestment. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Pound Edges Higher as Fed Threat Hits Dollar",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-12%2Fftse-100-live-fed-powell-trump-dollar-pound-oil-gold-prices-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Mon, 12 Jan 2026 06:42:25 CST",
@@ -12,10 +30,10 @@
     "summary": "‘Sell America’ sentiment swept through markets on Monday after the Trump\nadministration escalated its attacks on the Federal Reserve, fueling concerns\nover central bank autonomy.\n\n"
   },
   {
-    "title": "Venezuela Has Freed Two Italian Prisoners, Meloni Says",
+    "title": "Venezuela Frees Two Italian Citizens Arrested Under Maduro",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvenezuela-has-freed-two-italian-prisoners-meloni-says",
     "published": "Mon, 12 Jan 2026 06:12:36 CST",
-    "summary": "Venezuela has freed two Italian prisoners, Italian Prime Minister Giorgia\nMeloni said early Monday.\n\n"
+    "summary": "Venezuela released two Italian prisoners who had been arrested under the\nadministration of President Nicolas Maduro, who was ousted by the US earlier\nthis month.\n\n"
   },
   {
     "title": "Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids",
@@ -36,10 +54,10 @@
     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Chinese Battery Shares Decline on Plan to Cut Export Tax Rebates",
+    "title": "China Battery Shares Drop on Plan to Cut Export Tax Rebates",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchinese-battery-shares-decline-on-plan-to-cut-export-tax-rebates",
     "published": "Mon, 12 Jan 2026 05:03:59 CST",
-    "summary": "Chinese battery shares fell after Beijing unveiled a plan to reduce export tax\nrebates, while South Korean materials companies advanced.\n\n"
+    "summary": "Chinese battery shares fell after Beijing unveiled a plan to reduce some\nexport tax rebates, while South Korean materials companies advanced.\n\n"
   },
   {
     "title": "Which jobs have grown (and declined) fastest during your working life?",
@@ -126,24 +144,6 @@
     "summary": "The Fed confirmed it received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
   },
   {
-    "title": "Copper Pushes Toward Record on Supply Concerns and Weaker Dollar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcopper-pushes-toward-record-on-supply-concerns-and-weaker-dollar",
-    "published": "Mon, 12 Jan 2026 03:14:45 CST",
-    "summary": "Copper rose toward a record, as base metals opened the week in bullish form\naided by concerns over supplies and a weaker dollar.\n\n"
-  },
-  {
-    "title": "China Restarts Soybean Auctions as It Continues to Buy From US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-restarts-soybean-auctions-as-it-continues-to-buy-from-us",
-    "published": "Mon, 12 Jan 2026 03:12:32 CST",
-    "summary": "China is restarting soybean auctions -- after a three-week pause -- in an\napparent attempt to clear storage space as it keeps buying from the US\nfollowing the trade truce between the two countries.\n\n"
-  },
-  {
-    "title": "New Zealand House Prices Set for Slight Gains in 2026, BNZ Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fnew-zealand-house-prices-set-for-slight-gains-in-2026-bnz-says",
-    "published": "Mon, 12 Jan 2026 03:08:50 CST",
-    "summary": "New Zealand’s housing market lacks momentum and prices will rise just 2.1%\nthis year despite an economic recovery, according to Bank of New Zealand.\n\n"
-  },
-  {
     "title": "Australia Boosts Critical-Minerals Focus With Stockpile Plan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-announces-critical-minerals-for-its-strategic-reserve",
     "published": "Mon, 12 Jan 2026 00:50:53 CST",
@@ -172,6 +172,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwon-poised-to-jump-4-this-quarter-on-boost-from-policy-inflows",
     "published": "Mon, 12 Jan 2026 00:00:19 CST",
     "summary": "The South Korean won is on track for a gain of more than 4% this quarter,\nsupported by government measures to curb volatility and a flood of foreign\ncapital into local stocks, according to local analysts.\n\n"
+  },
+  {
+    "title": "Global Rate Paths Splinter as Trump Drives Change at the Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fglobal-rate-paths-splinter-as-trump-drives-change-at-the-fed",
+    "published": "Mon, 12 Jan 2026 00:00:00 CST",
+    "summary": "A spell of global interest-rate divergence is in store as central banks feel\ntheir way through the economic fog stoked by Donald Trump’s second year at the\nWhite House.\n\n"
   },
   {
     "title": "Gold Hits Record as Risks to Fed’s Independence, Iran Fan Demand",
@@ -316,12 +322,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F",
     "published": "Sat, 10 Jan 2026 14:27:14 CST",
     "summary": "Financial institutions and other credit card issuers say the cap, which the\npresident wants in effect by Jan. 20, would limit consumers’ access to credit.\n\n"
-  },
-  {
-    "title": "A Trader’s Guide to Venezuela as Trump Eyes Its Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-10%2Fa-trader-s-guide-to-venezuela-as-trump-takes-over-oil-industry",
-    "published": "Sat, 10 Jan 2026 14:00:00 CST",
-    "summary": "President Donald Trump is targeting billions of dollars of investment from US\nenergy companies in Venezuela’s oil industry, and said it will make the people\nof the South American nation rich.\n\n"
   },
   {
     "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",

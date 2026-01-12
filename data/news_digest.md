@@ -6,29 +6,29 @@ Generated from **218** unique articles (deduplicated from 218 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvering dominate this week's headlines, with Venezuela at the center of U.S. and Chinese strategic interests. President Trump's aggressive push to secure Venezuela's oil reserves faces skepticism from major oil executives, who remain wary of political instability and legal risks. Meanwhile, China, already a dominant economic force in Latin America, watches Trump's moves closely, reinforcing its long-standing influence in the region. In a diplomatic win, Venezuela releases two Italian prisoners, easing tensions with Italy, while Greenland firmly rejects Trump's annexation claims, underscoring Arctic sovereignty concerns. On the economic front, China's antitrust probe into food-delivery giants like Meituan and Alibaba signals Beijing's effort to curb aggressive price wars, boosting investor confidence. Elsewhere, Democratic lawmakers call for an investigation into U.S. Middle East envoy Steve Witkoff, and Ukraine's Nemiroff vodka maker defies wartime challenges by expanding exports, highlighting resilience amid ongoing conflict.
+Geopolitical tensions and economic maneuvers dominate global headlines this week, with President Trump's aggressive push into Venezuela taking center stage. After ousting Nicolás Maduro, the U.S. is seeking to secure Venezuela's oil reserves, though major oil executives remain hesitant due to political instability and financial risks. Analysts warn Trump's plan could backfire, weakening U.S. economic influence while China, already deeply embedded in Latin America as the region's top lender, watches closely. Meanwhile, Greenland's labor leader firmly rejected Trump's annexation claims, underscoring Arctic sovereignty concerns. In Asia, China's antitrust probe into food-delivery giants like Meituan and Alibaba signals Beijing's effort to curb cutthroat competition, while earlier diplomatic tensions with the UK over Taiwan resurface, revealing Beijing's readiness to leverage trade talks as political pressure. Elsewhere, Ukraine's resilience shines as businesses like Nemiroff vodka expand exports despite ongoing Russian attacks, highlighting the country's determination to sustain its economy amid war.
 
 **Top Articles:**
-- [Venezuela Has Freed Two Italian Prisoners, Meloni Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvenezuela-has-freed-two-italian-prisoners-meloni-says)
+- [Fesharaki on Iran Unrest, Oil Market Risks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffesharaki-on-iran-unrest-oil-market-risks-video)
+- [Venezuela Frees Two Italian Citizens Arrested Under Maduro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvenezuela-has-freed-two-italian-prisoners-meloni-says)
 - [Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
 - [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
-- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
 
-**Sources**: archive.ph (16 articles)
+**Sources**: archive.ph (17 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are grappling with heightened uncertainty as political pressures on the Federal Reserve escalate, with the U.S. Justice Department issuing subpoenas to Fed Chair Jerome Powell, raising concerns over central bank independence. The threat of criminal indictment has rattled investors, sending U.S. stock futures lower and pushing gold to record highs amid safe-haven demand. Meanwhile, emerging markets show resilience, with Asian equities climbing after a softer U.S. jobs report, while Indonesia prepares to issue the first Asian sovereign dollar bond of 2026, signaling strong appetite for debt issuance. Corporate activity remains robust, highlighted by Deutsche Bank’s $2.5 billion India retail asset sale drawing final bids from local lenders, and mining giants Rio Tinto and Glencore restarting merger talks that could create the world’s largest mining company. In China, despite efforts to boost AI and robotics, economic growth remains vulnerable to trade risks, with battery stocks declining after export tax rebate cuts. The housing market shows signs of stabilization in the U.S., though General Motors’ $7.1 billion loss underscores challenges in the EV sector as policy shifts dampen demand.
+Global markets are grappling with uncertainty as political and economic pressures intensify. The U.S. Federal Reserve faces unprecedented scrutiny after the Justice Department issued subpoenas to Chair Jerome Powell, raising concerns about central bank independence and triggering a 'Sell America' sentiment in markets. Gold and silver prices surged to record highs amid the turmoil, while U.S. stock futures and the dollar weakened. Meanwhile, China's economic challenges persist, with its AI and robotics push failing to offset the real estate slump, and battery stocks dropping after Beijing announced plans to cut export tax rebates. Corporate shakeups are also making headlines, including Heineken's CEO stepping down due to slumping beer sales and Deutsche Bank's India retail assets attracting final bids from local lenders. In M&A news, mining giants Rio Tinto and Glencore have restarted merger talks, potentially creating the world's largest mining company, while JPMorgan Chase is set to take over the Apple Card from Goldman Sachs. The housing market shows signs of balancing, but Trump's policies—such as a proposed 10% cap on credit card interest rates and a push for Fannie Mae and Freddie Mac to buy $200 billion in mortgage bonds—are sparking debate over their economic impact.
 
 **Top Articles:**
+- [Heineken CEO Steps Down as Slumping Beer Sales Hurt Brewer](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fheineken-ceo-steps-down-as-slumping-beer-sales-hurt-brewer)
 - [Pound Edges Higher as Fed Threat Hits Dollar](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-12%2Fftse-100-live-fed-powell-trump-dollar-pound-oil-gold-prices-what-s-moving-uk-markets-right-now-markets-today)
 - [Fed Subpoenas Revive ‘Sell America’ Trade on Autonomy Concerns](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffed-subpoenas-revive-sell-america-trade-on-autonomy-concerns)
 - [Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdeutsche-bank-s-2-5-billion-india-retail-assets-draw-final-bids)
 - [China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fchina-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)
-- [Trump ‘Mulls’ Iran Options, Fed Subpoenaed | The China Show 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fthe-china-show-1-12-2026-video)
 
 **Sources**: archive.ph (81 articles)
 
@@ -36,33 +36,32 @@ Global markets are grappling with heightened uncertainty as political pressures 
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments this week. In AI, Elon Musk’s Grok chatbot faces backlash after generating sexually explicit images of real people, prompting Malaysia and Indonesia to block access. Meanwhile, China is investigating Meta’s acquisition of AI startup Manus over compliance concerns. On the corporate front, HD Hyundai Robotics is preparing for a South Korea IPO, signaling growing investor interest in humanoid robotics. Boeing secures its largest-ever order from Alaska Airlines for 110 planes, while GM and Ford announce significant shifts in their EV strategies—GM recording a $7.1 billion charge due to EV pullbacks and Ford entering the race for eyes-off driving tech by 2028. Regulatory and legal moves are also in focus, with U.S. lawmakers revisiting crypto legislation and JPMorgan dropping controversial proxy advisors in favor of AI-driven analysis.
+This week’s tech and business headlines highlight a mix of AI controversies, corporate maneuvers, and economic shifts. Elon Musk’s AI chatbot Grok faces backlash as Malaysia and Indonesia block access over sexually explicit content, while regulators scrutinize Meta’s acquisition of AI startup Manus for compliance with China’s export rules. In corporate news, HD Hyundai Robotics prepares for a major IPO amid the global race for humanoid robots, and Boeing secures its largest-ever order from Alaska Airlines, signaling confidence in aviation’s recovery. Meanwhile, economic trends show mixed signals: U.S. hiring slows to its weakest pace in five years, while South Korea’s won gains traction on policy support. The tech sector remains volatile, with Google co-founders reducing California ties and JPMorgan adopting AI for proxy voting analysis.
 
 **Top Articles:**
 - [HD Hyundai Robotics Hires Banks for South Korea IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fhd-hyundai-robotics-hires-banks-for-south-korea-ipo)
 - [Iron Ore Gains as Restocking, Hot-Metal Output Lifts Sentiment](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Firon-ore-gains-as-restocking-hot-metal-output-lifts-sentiment)
 - [China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html)
-- [Copper Pushes Toward Record on Supply Concerns and Weaker Dollar](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcopper-pushes-toward-record-on-supply-concerns-and-weaker-dollar)
-- [China Restarts Soybean Auctions as It Continues to Buy From US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-restarts-soybean-auctions-as-it-continues-to-buy-from-us)
+- [Australia Boosts Critical-Minerals Focus With Stockpile Plan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-announces-critical-minerals-for-its-strategic-reserve)
+- [Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html)
 
-**Sources**: archive.ph (82 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 📰 Other News
 
-{
-    "summary": "This week's news highlights significant economic and cultural shifts, with a focus on labor, trade, and affordability. The U.S. housing market shows signs of easing, offering potential relief for buyers, while the auto industry grapples with soaring costs, as both new and used vehicles push monthly payments to record highs. Meanwhile, the Golden Globes recognize podcasts for the first time, signaling the medium's growing influence in entertainment, and Neon leads nominations with a slate of international films. Global trade also takes center stage, as the E.U. and South America finalize
+Global markets and economic shifts dominate this week’s news, with China’s stock turnover hitting a record $516 billion amid surging investor activity, signaling renewed confidence in its equities. Meanwhile, oil prices hold gains as escalating protests in Iran raise concerns over supply disruptions, while natural gas futures dip on revised weather forecasts. In the U.S., the housing market shows signs of easing, though affordability remains a pressing issue, with middle-class Americans grappling with rising costs despite economic growth. The Supreme Court’s increasing favoritism toward wealthy litigants and California’s controversial billionaire tax proposal highlight growing debates over economic inequality. Culturally, the Golden Globes make history by introducing a best podcast category, reflecting the medium’s rising prominence, while Neon leads nominations with a slate of international films. In corporate news, GM unveils a modernized Detroit headquarters filled with historical artifacts, and Ford reports its best annual U.S. vehicle sales since 2019, though auto loans and high car payments continue to strain consumers. A notable human interest story emerges with the development of a new crash test dummy designed to improve safety for women in car accidents, addressing a long-standing data gap.
 
 **Top Articles:**
+- [China Onshore Stock Turnover Jumps to a Record $516 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-onshore-stock-turnover-jumps-to-a-record-516-billion)
 - [Which jobs have grown (and declined) fastest during your working life?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F)
 - [Radiant Unloads BHP Iron Ore in China as Trader Tests Curbs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fradiant-unloads-bhp-iron-ore-in-china-as-trader-tests-curbs)
 - [Oil Holds Gain as Iranian Protests Raise Specter of Disruption](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12)
 - [Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html)
-- [A powerful force has been holding back the housing market. It’s finally easing.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F11%2Fmortgage-lock-in-effect%2F)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (40 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 07:02 AM *
+*Digest generated on January 12, 2026 at 07:48 AM *
