@@ -1,15 +1,87 @@
 [
   {
-    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
-    "published": "Mon, 12 Jan 2026 15:47:32 CST",
-    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
+    "title": "Paramount Threatens Board Fight Over Warner Bros. Discovery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html",
+    "published": "Mon, 12 Jan 2026 16:49:21 CST",
+    "summary": "The announcement was the latest in a series of increasingly aggressive actions\nby Paramount to buy Warner Bros.\n\n"
+  },
+  {
+    "title": "Eli Lilly CFO on $1 Billion AI Drug Lab Investment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Feli-lilly-cfo-on-1-billion-ai-drug-lab-investment",
+    "published": "Mon, 12 Jan 2026 16:45:53 CST",
+    "summary": "Bloomberg's Katie Greifeld reports live from the JPMorgan Healthcare\nConference in San Francisco, where she is joined by Lucas Montarce, CFO of Eli\nLilly. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Fed Changes Course and Takes On Trump’s Political Fight",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-changes-course-trump-administration.html",
-    "published": "Mon, 12 Jan 2026 15:46:32 CST",
+    "published": "Mon, 12 Jan 2026 16:43:34 CST",
     "summary": "The Justice Department’s decision to open up a criminal investigation of\nJerome H. Powell, the chair of the Federal Reserve, is a major escalation in\nthe pressure campaign against the central bank to cut interest rates.\n\n"
+  },
+  {
+    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
+    "published": "Mon, 12 Jan 2026 16:34:51 CST",
+    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
+  },
+  {
+    "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html",
+    "published": "Mon, 12 Jan 2026 16:29:44 CST",
+    "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s\nchatbot over the spread of illegal images.\n\n"
+  },
+  {
+    "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fyellen-says-powell-probe-extremely-chilling-for-fed-independence-market-should-be-concerned.html",
+    "published": "Mon, 12 Jan 2026 16:27:31 CST",
+    "summary": "Former Fed Chair Janet Yellen spoke Monday to CNBC about a Department of\nJustice investigation into current Chair Jerome Powell.\n\n"
+  },
+  {
+    "title": "The Rise of the Ozempic Menu: An Unexpected Restaurant Trend",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fthe-rise-of-the-ozempic-menu-an-unexpected-restaurant-trend",
+    "published": "Mon, 12 Jan 2026 16:23:58 CST",
+    "summary": "Ozempic and similar weight loss drugs, known as GLP-1s, make people less\nhungry, but it doesn't seem to stop them from going out to eat. Bloomberg\nBusinessweek's Deena Shanker joins Stacey Vanek Smith and Max Chafkin on the\nEverybody's Business podcast to unpack this new phenomenon and why the weight\nloss drug craze is actually benefiting the restaurant industry. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Ex-Fed chairs condemn Trump’s bid to weaken central bank",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F12%2Ftrump-condemn-federal-reserve-powell-investigation",
+    "published": "Mon, 12 Jan 2026 16:17:07 CST",
+    "summary": "Statement signed by 13 former senior officials condemns ‘unprecedented’\nassault on Fed’s independence\n\nEvery living former head of the Federal Reserve condemned an “unprecedented”\nattempt by the Trump administration to weaken the central bank’s independence,\nafter the Department of Justice opened a criminal investigation into its\nchair, Jerome Powell.\n\nEx-Fed chairs Alan Greenspan, Ben Bernanke and Janet Yellen warned similar\nprosecutorial attacks in other countries had led to “highly negative\nconsequences” for the cost of living – and argued they had “no place” in the\nUS.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Nearly 15,000 nurses walk out at key New York City hospitals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fnew-york-city-nurses-strike%2F",
+    "published": "Mon, 12 Jan 2026 16:17:02 CST",
+    "summary": "New York City nurses went on strike over staffing levels and health benefits\nat key hospitals.\n\n"
+  },
+  {
+    "title": "JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjpmorgans-looming-question-what-happens-when-ceo-jamie-dimon-leaves.html",
+    "published": "Mon, 12 Jan 2026 16:11:43 CST",
+    "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say\nhe remains as involved as ever managing the sprawling operations of the\nmegabank.\n\n"
+  },
+  {
+    "title": "Braskem Makes Coupon Payment Amid Ongoing Review of Debt Load",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbraskem-makes-coupon-payment-amid-ongoing-review-of-debt-load",
+    "published": "Mon, 12 Jan 2026 16:04:04 CST",
+    "summary": "Braskem SA, one of the world’s largest petrochemical makers, paid interest due\nMonday on some of its dollar bonds, people familiar with the matter said,\neasing investor concerns while it continues to review its debt amid a\nprolonged industry downturn.\n\n"
+  },
+  {
+    "title": "Paramount to nominate directors to Warner Bros board to vote against Netflix deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F12%2Fparamount-to-nominate-directors-to-warner-bros-board-to-vote-against-netflix-deal",
+    "published": "Mon, 12 Jan 2026 15:56:57 CST",
+    "summary": "Paramount also files lawsuit seeking disclosure of financial information\nrelated to $82.7bn agreement\n\nParamount Skydance plans to nominate directors to Warner Bros Discovery’s\n(WBD) board to vote against the approval of its deal with Netflix, and filed a\nlawsuit seeking disclosure of financial information related to the $82.7bn\n(£61.4bn) agreement.\n\nIn a letter sent to WBD investors on Monday, Paramount said it will nominate\ndirectors for election at the company’s annual meeting, which is usually held\nin June, to try to derail the deal with Netflix, which was agreed in December.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Former Fed chiefs rebuke Justice Department probe into Fed chair, stocks slip",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F",
+    "published": "Mon, 12 Jan 2026 15:54:10 CST",
+    "summary": "Federal Reserve Board Chair Jerome H. Powell accused the Justice Department of\nusing the investigation to pressure the central bank to lower interest rates.\n\n"
+  },
+  {
+    "title": "Yara May Drop US Project If Fertilizer Excluded From EU Carbon Levy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fyara-may-drop-us-project-if-fertilizer-excluded-from-eu-carbon-levy",
+    "published": "Mon, 12 Jan 2026 15:53:22 CST",
+    "summary": "Yara International ASA warned that it could abandon a planned low-emission\nammonia project in the US if the European Union was to exclude fertilizers\nfrom its flagship carbon border levy.\n\n"
   },
   {
     "title": "Germany’s Klingbeil Says Europe Can’t Be Naive in Rift With US",
@@ -24,22 +96,16 @@
     "summary": "Alphabet Inc. broke above a $4 trillion market capitalization on Monday,\nbecoming one of the few companies to ever cross the threshold as investors\nincreasingly see the Google parent as one of the biggest winners of the\nartificial intelligence boom.\n\n"
   },
   {
-    "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fyellen-says-powell-probe-extremely-chilling-for-fed-independence-market-should-be-concerned.html",
-    "published": "Mon, 12 Jan 2026 15:34:51 CST",
-    "summary": "Former Fed Chair Janet Yellen spoke Monday to CNBC about a Department of\nJustice investigation into current Chair Jerome Powell.\n\n"
-  },
-  {
     "title": "Ho hum holiday: Retail's early results show modest growth in critical shopping season",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
     "published": "Mon, 12 Jan 2026 15:33:47 CST",
     "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
   },
   {
-    "title": "Nearly 15,000 nurses walk out at key New York City hospitals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fnew-york-city-nurses-strike%2F",
-    "published": "Mon, 12 Jan 2026 15:30:20 CST",
-    "summary": "New York City nurses went on strike over staffing levels and health benefits\nat key hospitals.\n\n"
+    "title": "Vitol, Trafigura Set to Move Venezuelan Oil to Caribbean Storage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvitol-trafigura-set-to-move-venezuelan-oil-to-caribbean-storage",
+    "published": "Mon, 12 Jan 2026 15:33:43 CST",
+    "summary": "Two of the world’s largest commodities traders plan to move Venezuelan oil to\nstorage facilities in the Caribbean, which would likely serve as a staging\npoint for exports after the US asked them to market the oil.\n\n"
   },
   {
     "title": "Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe",
@@ -60,16 +126,10 @@
     "summary": "Kazakh crude exports from a key port in the Black Sea have been slashed again\nas bad weather, maintenance and drone damage cut the nation’s loadings,\ndriving up the price of those barrels.\n\n"
   },
   {
-    "title": "Stocks waver, dollar slips as DOJ opens criminal probe into Fed chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F",
-    "published": "Mon, 12 Jan 2026 15:08:04 CST",
-    "summary": "Federal Reserve Board Chair Jerome H. Powell accused the Justice Department of\nusing the investigation to pressure the central bank to lower interest rates.\n\n"
-  },
-  {
-    "title": "US Stocks Tumble as Fears Over Fed’s Autonomy Weighs on Market",
+    "title": "US Stocks Muted as Traders Examine Trump’s Lattest Attack on Fed",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-stocks-tumble-as-fears-over-fed-s-autonomy-weighs-on-market",
     "published": "Mon, 12 Jan 2026 14:59:09 CST",
-    "summary": "US stocks declined on Monday as the Trump administration upped its attacks on\nthe Federal Reserve, bringing the “sell America” trade back to the forefront.\n\n"
+    "summary": "US stocks were muted on Monday as the Trump administration’s latest attack on\nthe Federal Reserve fuels a debate over the “sell America” trade.\n\n"
   },
   {
     "title": "Primark Owner Has Most Sell Ratings in Decade After Goldman Cut",
@@ -106,12 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fstock-market-dollar-trump-fed-powell.html",
     "published": "Mon, 12 Jan 2026 14:39:19 CST",
     "summary": "The broad shift out of U.S. financial assets revived last year’s trend called\nthe “sell America” trade.\n\n"
-  },
-  {
-    "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html",
-    "published": "Mon, 12 Jan 2026 14:19:31 CST",
-    "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s\nchatbot over the spread of illegal images.\n\n"
   },
   {
     "title": "Crypto Wallet Firm BitGo, Backers Seek $201 Million in US IPO",
@@ -162,58 +216,16 @@
     "summary": "US state and local debt with long maturities offer “compelling” value in this\nless crowded corner of the market, according to the municipal investment arm\nof MacKay Shields.\n\n"
   },
   {
-    "title": "DV Commodities Hires Quant Nicky Ferguson in Continued Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdv-commodities-hires-quant-nicky-ferguson-in-continued-expansion",
-    "published": "Mon, 12 Jan 2026 13:42:42 CST",
-    "summary": "DV Group hired Nicky Ferguson, a well-known quantitative analyst and trader in\ncommodity markets, as the company continued to expand its trading\ncapabilities.\n\n"
-  },
-  {
-    "title": "Rare-Earth Miner Meteoric Seeks Partnership for Brazil Project",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Frare-earth-miner-meteoric-seeks-partnership-for-brazil-project",
-    "published": "Mon, 12 Jan 2026 13:37:57 CST",
-    "summary": "Meteoric Resources NL is casting a wide net including courting potential\nbackers in Saudi Arabia as it pursues a strategic partner for its rare-earth\nmining project in Brazil.\n\n"
-  },
-  {
     "title": "The Potential Fallout From a Legal Attack on Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fdealbook%2Fpowell-federal-reserve-investigation-trump.html",
     "published": "Mon, 12 Jan 2026 13:34:48 CST",
     "summary": "A criminal investigation into Jay Powell, the Federal Reserve chair, may be\nthe most consequential attack yet on the central bank’s political\nindependence.\n\n"
   },
   {
-    "title": "Powell Says Fed Served With DOJ Subpoenas; Iran Protests Enter Third Week | Bloomberg Brief 1/12/26",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbloomberg-brief-1-12-2026-video",
-    "published": "Mon, 12 Jan 2026 13:24:21 CST",
-    "summary": "US equity futures and the dollar slide while gold and silver hit record highs\namid deepening tensions between the Federal Reserve and the Trump\nadministration. President Trump says he is mulling potential options regarding\nIran in response to reports of deadly crackdowns as nationwide protests enter\na third week. Thierry Wizman of Macquarie discusses the market risks amid\nuncertainties around the Fed's independence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Hedge Fund-Lite Trades Are Back From the Dead With $153 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwall-street-reboots-leverage-in-153-billion-active-stock-trades",
-    "published": "Mon, 12 Jan 2026 13:17:41 CST",
-    "summary": "Even in the most vanilla corners of institutional money management, an\nappetite for leverage is quietly returning.\n\n"
-  },
-  {
-    "title": "Congo Sending First Copper to US Under Mercuria-Backed Venture",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcongo-sending-first-copper-to-us-under-mercuria-backed-venture",
-    "published": "Mon, 12 Jan 2026 13:12:10 CST",
-    "summary": "The Democratic Republic of Congo is sending its first shipment of copper to\nthe US through a partnership with Mercuria Energy Group Ltd., as the Trump\nadministration pushes to challenge China’s dominance in supplies of key\nmetals.\n\n"
-  },
-  {
     "title": "DOJ probe into Fed chair Powell is 'Maduro' warning from Trump, analyst says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-powell-maduro-probe-fed-chair-investigation.html",
     "published": "Mon, 12 Jan 2026 13:07:45 CST",
     "summary": "Investors could reassess U.S. assets as Powell probe reignites fears over\ncentral bank's independence from the White House.\n\n"
-  },
-  {
-    "title": "Fed Subpoena ‘Out of My Purview,’ Says FHFA’s Pulte",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffed-subpoena-out-of-my-purview-says-fhfa-s-pulte-video",
-    "published": "Mon, 12 Jan 2026 13:06:46 CST",
-    "summary": "Federal Housing Finance Agency Director Bill Pulte said, “I don’t know\nanything about it,” when asked during an interview on Bloomberg Television\nMonday about the Federal Reserve being served grand jury subpoenas from the\nJustice Department threatening a criminal indictment. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Toronto-Dominion Plans SRT Tied to $5 Billion of Corporate Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftoronto-dominion-plans-srt-tied-to-5-billion-of-corporate-loans",
-    "published": "Mon, 12 Jan 2026 12:33:35 CST",
-    "summary": "Toronto-Dominion Bank is gauging demand from investors for a significant risk\ntransfer tied to a portfolio of about $5 billion of corporate loans.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Capital One, Affirm, Walmart, Akamai, Sun Country & more",
@@ -226,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fnew-york-city-nurse-strike",
     "published": "Mon, 12 Jan 2026 12:08:31 CST",
     "summary": "Strike, amid an intense flu season, is expected to disrupt activity at\ninstitutions such as Mount Sinai and Montefiore\n\nThousands of nurses are set to walk off the job at several of New York City’s\nlargest hospitals on Monday, staging a strike amid an intense flu season.\n\nThe action comes three years after a previous strike that compelled some of\nthe same hospitals to move patients elsewhere and reroute ambulances.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjpmorgans-looming-question-what-happens-when-ceo-jamie-dimon-leaves.html",
-    "published": "Mon, 12 Jan 2026 12:00:01 CST",
-    "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say\nhe remains as involved as ever managing the sprawling operations of the\nmegabank.\n\n"
   },
   {
     "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
@@ -276,6 +282,18 @@
     "summary": "Here’s what jobs have grown and declined the most over the years, based on\ninformation from the Census Bureau’s Current Population Survey.\n\n"
   },
   {
+    "title": "Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars",
+    "published": "Mon, 12 Jan 2026 04:14:51 CST",
+    "summary": "Shares of China’s biggest food-delivery firms climbed as the nation’s top\nantitrust body launched a probe into competition practices in the sector,\nspurring hopes that authorities will rein in subsidy-driven price wars.\n\n"
+  },
+  {
+    "title": "Emerging-Market Assets Gain on Revived ‘Sell America’ Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fem-asian-stocks-climb-after-us-jobs-report-korea-hits-new-high",
+    "published": "Mon, 12 Jan 2026 03:34:58 CST",
+    "summary": "Emerging-market stocks and currencies rose Monday in a session marked by a\nweaker dollar as traders revived the “Sell America” trade, after the US\nJustice Department threatened the Federal Reserve with a criminal indictment.\n\n"
+  },
+  {
     "title": "China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Mon, 12 Jan 2026 03:34:30 CST",
@@ -288,34 +306,22 @@
     "summary": "The Fed confirmed it received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
   },
   {
-    "title": "Trump threatens to block ExxonMobil from Venezuela after CEO calls country ‘uninvestable’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fdonald-trump-threatens-block-exxonmobil-venezuela",
-    "published": "Mon, 12 Jan 2026 03:11:30 CST",
-    "summary": "US president says company is ‘playing too cute’ after CEO responds sceptically\nto his push for oil investment after deposing Nicolás Maduro\n\nDonald Trump has said he might block ExxonMobil from investing in Venezuela\nafter the oil company’s chief executive called the country “uninvestable”\nduring a White House meeting last week.\n\nDarren Woods told the US president that Venezuela would need to change its\nlaws before it could be an attractive investment opportunity, during the high-\nprofile meeting on Friday with at least 17 other oil executives.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Justice department opens investigation into Jerome Powell as Trump ramps up campaign against Federal Reserve",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fjustice-department-opens-investigation-into-federal-reserve-as-trump-ramps-up-campaign-against-central-bank",
-    "published": "Mon, 12 Jan 2026 02:09:40 CST",
-    "summary": "Fed chair accuses DoJ of threatening criminal charges over building renovation\nprojects because central bank defied Trump’s interest rate demands\n\nThe Department of Justice has opened a criminal investigation into Jerome\nPowell and the Federal Reserve, a significant escalation in Donald Trump’s\nextraordinary attack on the US central bank.\n\nPowell said the Department of Justice had served the Fed with grand jury\nsubpoenas on Friday, threatening a criminal indictment related to his\ntestimony before the Senate banking committee in June last year, regarding\nrenovations to the Fed’s historic office buildings in Washington DC.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html",
     "published": "Mon, 12 Jan 2026 01:13:18 CST",
     "summary": "Budget airlines in the U.S. like Allegiant and Sun Country have faced a surge\nin costs following the pandemic and the increase in domestic capacity.\n\n"
   },
   {
+    "title": "EU Trade Deal With Mercosur Defies Trump’s Protectionism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feu-trade-deal-with-mercosur-defies-trump-s-protectionism",
+    "published": "Mon, 12 Jan 2026 00:47:11 CST",
+    "summary": "The European Union and Mercosur have delivered their long-sought trade pact,\nalong with a political statement few could have imagined when talks began 25\nyears ago.\n\n"
+  },
+  {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
     "published": "Mon, 12 Jan 2026 00:40:09 CST",
     "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
-  },
-  {
-    "title": "Fed Served With DOJ Subpoenas; Powell Vows to Stand Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-says-justice-department-served-fed-with-subpoenas",
-    "published": "Mon, 12 Jan 2026 00:30:00 CST",
-    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\ninstitution.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -348,10 +354,10 @@
     "summary": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to\nGerman data center infrastructure startup Polarise GmbH, as a debt-fueled boom\nin the sector continues into 2026.\n\n"
   },
   {
-    "title": "Wall Street Jolted by Trump-Fed Fight Before CPI: Markets Wrap",
+    "title": "Wall Street Stages Cautious Bounce Amid Fed Angst: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
-    "summary": "Wall Street kicked off the week on a cautious note, with stocks, bonds and the\ndollar edging lower as traders rushed to the safety of precious metals after\nthe Trump administration escalated its attack on the Federal Reserve, raising\nconcern about central bank independence.\n\n"
+    "summary": "Stocks, bonds and the dollar bounced from session lows, but caution prevailed\nafter the Trump administration escalated its attack on the Federal Reserve,\nraising concern about central bank independence. Gold hit fresh highs.\n\n"
   },
   {
     "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
@@ -796,12 +802,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
     "published": "Thu, 08 Jan 2026 01:56:11 CST",
     "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
-  },
-  {
-    "title": "Pittsburgh Post-Gazette Announces It Will Cease Operations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fmedia%2Fpittsburgh-post-gazette-closing.html",
-    "published": "Thu, 08 Jan 2026 00:35:45 CST",
-    "summary": "The family-owned company that operates the newspaper cited mounting losses and\nlabor constraints. A final edition is expected on Sunday, May 3.\n\n"
   },
   {
     "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
