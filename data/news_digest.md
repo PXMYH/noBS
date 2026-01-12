@@ -6,52 +6,52 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvers dominate global headlines this week, with President Donald Trump's aggressive push into Venezuela's oil sector drawing mixed reactions. Trump's proposal to cap credit card interest rates at 10% for a year adds to his domestic economic agenda, though its feasibility remains uncertain. Meanwhile, China's deepening influence in Latin America contrasts with Trump's efforts, as Beijing monitors U.S. moves closely. In Europe, Lufthansa delays flights to Iran amid escalating protests, while Bolivia's government prepares a new economic decree after mass unrest over fuel subsidies. Elsewhere, Ukraine's resilience shines as businesses like Nemiroff expand exports despite ongoing war, and China threatens to derail UK trade talks over a minister's Taiwan visit, underscoring Beijing's assertive diplomatic stance.
+Global energy markets face turbulence as geopolitical tensions escalate. Oil prices surge to a one-month high amid protests in Iran, raising concerns over supply disruptions from OPEC’s fourth-largest producer. Meanwhile, President Trump’s push to revive Venezuela’s oil sector meets skepticism from U.S. energy executives, who remain wary of political instability and economic risks. The move could further strain U.S. shale producers already grappling with a supply glut and four-year-low prices. In Latin America, Trump’s aggressive resource-focused strategy clashes with China’s established economic dominance, as Beijing monitors Washington’s actions closely. Elsewhere, Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff, while China’s diplomatic tensions with the UK resurface over a minister’s Taiwan visit, threatening trade talks. Despite ongoing conflicts, Ukrainian businesses like vodka maker Nemiroff continue expanding exports, demonstrating resilience amid war.
 
 **Top Articles:**
-- [Ex-Justice Department Official Denied Bid to Represent Maduro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fex-justice-department-official-denied-bid-to-represent-maduro)
-- [Trump Calls for One-Year Cap on Credit Card Rates at 10%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ftrump-calls-for-one-year-cap-on-credit-card-rates-at-10-video)
-- [Bolivia Plans New Economic Decree, Won’t Resume Fuel Subsidies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbolivia-plans-new-economic-decree-won-t-resume-fuel-subsidies)
-- [Lufthansa Delays Iran Flight Resumption Amid Protests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flufthansa-plans-to-resume-iran-flights-despite-deadly-protests)
 - [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
+- [Oil Hits One-Month High as Iran Protests Offer Fresh Supply Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12)
+- [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
+- [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
+- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
 
-**Sources**: archive.ph (18 articles)
+**Sources**: archive.ph (13 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Financial markets are on edge as the Trump administration escalates its pressure on the Federal Reserve, with the Justice Department launching a criminal investigation into Fed Chair Jerome Powell. The move, widely condemned by former Fed officials and market analysts, raises concerns about central bank independence and risks driving interest rates higher, contrary to Trump’s stated goals. Stocks and bonds fluctuate amid the uncertainty, reviving the 'sell America' trade as investors weigh the potential fallout. Meanwhile, corporate maneuvering takes center stage, with Paramount Skydance intensifying its battle for Warner Bros. Discovery by nominating directors to block a merger with Netflix and filing a lawsuit for financial transparency. In other developments, Eli Lilly’s weight-loss pill advances toward U.S. approval, while emerging markets gain traction as the dollar weakens. The Golden State Warriors’ parent company also makes headlines with a reported $11 billion valuation ahead of a minority stake sale.
+Financial markets are navigating heightened uncertainty as political pressure on the Federal Reserve intensifies. The Justice Department’s criminal investigation into Fed Chair Jerome Powell, widely seen as retaliation for resisting interest rate cuts, has sparked backlash from former Fed officials and market participants, who warn of risks to central bank independence. Despite the turmoil, the S&P 500 hit a fresh record, though gold and silver surged to all-time highs as investors sought safe havens. Meanwhile, Wall Street’s major banks are preparing a bond issuance spree following strong earnings, while Capital One and other lenders face volatility amid Trump’s proposal to cap credit card rates at 10%, a move banks warn could devastate profitability. In corporate news, Medline’s shares rose after its $7.2 billion IPO, while Pfizer’s CEO signaled optimism about its weight-loss drug pipeline. Geopolitically, Europe and China took steps to ease EV trade tensions, and Indonesia raised $2.7 billion in a sovereign bond sale, reflecting robust emerging-market debt activity.
 
 **Top Articles:**
+- [Stocks, Bonds and the Dollar Fluctuate on Threat to Fed Chair Powell](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fstock-market-dollar-trump-fed-powell.html)
+- [LatAm Valuations Still Attractive: OTG's Mauricio Alvarez](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Flatam-valuations-still-attractive-otg-s-alvarez-video)
+- [Teneo Is Acquiring Two More International Firms in M&amp;A Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fteneo-is-acquiring-two-more-international-firms-in-m-a-push)
+- [Fed Changes Course and Takes On Trump’s Political Fight](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-changes-course-trump-administration.html)
 - [Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html)
-- [Powell Casts DOJ Subpoenas As Political Pressure, Warriors Up for Sale | Bloomberg Markets 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbloomberg-markets-1-12-2026-video)
-- [Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Frepublican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html)
-- [Wall Street on Edge Amid Fed Angst | Open Interest 1/12/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fopen-interest-1-12-2026-video)
-- [Golden State Warriors Parent Company Said to Be Valued at $11 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fwarriors-parent-said-to-be-valued-at-11-billion-video)
 
-**Sources**: archive.ph (85 articles)
+**Sources**: archive.ph (88 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, led by Alphabet surpassing a $4 trillion valuation after Apple integrated Gemini AI into Siri, solidifying its position as the world's second-most valuable company. Meanwhile, Nvidia is doubling down on AI-driven healthcare with a $1 billion investment in a new lab alongside Eli Lilly, aiming to accelerate drug discovery. Regulatory scrutiny is intensifying, as Elon Musk’s X faces a UK investigation over Grok’s generation of sexually explicit AI images, while Malaysia and Indonesia block the chatbot entirely. In corporate moves, Boeing secures its largest-ever order from Alaska Airlines for 110 jets, and GM announces a $7.1 billion charge tied to its EV slowdown. The week also saw geopolitical shifts, with the Trump administration nearing a trade deal with Taiwan that includes TSMC expanding U.S. chip manufacturing, and China probing Meta’s acquisition of AI startup Manus over compliance concerns.
+Tech and AI dominate headlines as Alphabet surges past a $4 trillion valuation, becoming the world's second-most valuable company after Apple selected its Gemini AI to power Siri. Meanwhile, Elon Musk's AI chatbot Grok faces growing scrutiny, with the UK launching an investigation into its generation of sexualized images and Malaysia and Indonesia blocking access over explicit content. In corporate moves, Lux Capital raises a $1.5 billion fund targeting frontier tech, while JPMorgan shifts to AI-driven proxy voting analysis. Regulatory battles intensify as China probes Meta's acquisition of AI startup Manus, and U.S. lawmakers prepare a new push for comprehensive crypto legislation. The energy sector sees mixed signals, with Orsted winning a court ruling to resume a stalled U.S. wind project, while oil executives remain skeptical about Venezuela's $100 billion revival plan despite Trump's assurances.
 
 **Top Articles:**
+- [JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjpmorgans-looming-question-what-happens-when-ceo-jamie-dimon-leaves.html)
+- [Orsted Wins Ruling to Resume US Wind Project Halted by Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Forsted-wins-ruling-to-resume-us-wind-project-halted-by-trump)
+- [Lux Capital Raises $1.5 Billion Fund to Target Frontier Tech](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Flux-capital-raises-1-5-billion-fund-video)
+- [The Fight Over Fed Independence Just Got Taken To a Whole New Level](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fthe-fight-over-fed-independence-just-got-taken-to-a-whole-new-level)
 - [Trump Administration Nears Trade Deal With Taiwan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feconomy%2Ftrump-taiwan-deal.html)
-- [Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html)
-- [Supreme Court Grapples With Louisiana Coastal Lawsuits Against Oil Companies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fsupreme-court-louisiana-oil.html)
-- [Ho-hum holiday: Retail's early results show modest growth in critical shopping season](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html)
-- [Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fnvidia-to-invest-1b-in-ai-drug-lab-with-eli-lilly-video)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (75 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly prioritize value. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures drive more households to seek affordable alternatives for their weekly grocery runs. Aldi's strategy highlights a shift in consumer behavior, with traditional supermarkets facing mounting pressure to adapt to the demand for lower prices and streamlined shopping experiences.
+Aldi is accelerating its expansion in the U.S. grocery market, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discount retailers. The German-owned chain’s aggressive growth underscores rising competition in the grocery sector, where discounters are gaining market share by attracting shoppers across income levels. Aldi’s strategy reflects broader economic trends, with inflation and cost-of-living pressures driving more consumers to prioritize value without sacrificing quality. The move also signals a shift in shopping habits, as discounters like Aldi capture a larger portion of weekly grocery spending, challenging traditional supermarkets. Industry analysts note that Aldi’s expansion could further disrupt the retail landscape, forcing competitors to adjust pricing and promotions to retain customers.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-This week’s news highlights significant shifts in business, policy, and culture. In corporate developments, Allegiant’s $1.5 billion acquisition of Sun Country underscores consolidation in the budget airline sector amid rising costs, while Paramount’s aggressive pursuit of Warner Bros. Discovery signals intensifying media industry competition. Meanwhile, Jersey Mike’s expansion into Europe reflects growing U.S. fast-food ambitions abroad. On the policy front, California’s proposed 5% wealth tax on billionaires sparks debate over economic equity, while the Supreme Court’s increasing favoritism toward wealthy litigants draws scrutiny. Culturally, the Golden Globes’ first-ever podcast category and Neon’s dominance in non-English film nominations mark evolving entertainment trends. Housing market dynamics also take center stage, with easing constraints offering cautious optimism for buyers, though affordability remains a pressing concern for middle-class Americans.
+This week’s news highlights significant shifts in business, policy, and culture. In finance, Vanguard introduces higher-fee ETFs, marking a departure from its low-cost reputation, while Allegiant’s $1.5 billion acquisition of Sun Country signals consolidation in the budget airline sector. New York Governor Kathy Hochul’s plan to expand nuclear capacity underscores growing energy demands, contrasting with California’s controversial billionaire tax proposal. Culturally, podcasts gain prestige with Golden Globe nominations, and Netflix makes an exception for Ben Affleck and Matt Damon’s film, offering crew bonuses tied to performance. Meanwhile, economic pressures persist, with middle-class Americans grappling with affordability despite wage gains, and the Supreme Court facing criticism for favoring wealthier litigants. Notable human interest stories include the late David Mitchell’s advocacy against high drug prices and a new crash test dummy designed to improve safety for women in car accidents.
 
 **Top Articles:**
-- [Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html)
-- [Paramount Threatens Board Fight Over Warner Bros. Discovery](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html)
+- [Vanguard Edges Away From Its Rock-Bottom Fees](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fvanguard-edges-away-from-its-rock-bottom-fees-video)
+- [Hochul Planning Big Expansion of New York’s Nuclear Capacity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fhochul-planning-big-expansion-of-new-york-s-nuclear-capacity)
 - [Jersey Mike's strikes European expansion deal led by founder Peter Cancro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjersey-mikes-european-expansion-peter-cancro.html)
-- [Which jobs have grown (and declined) fastest during your working life?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F)
-- [Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html)
+- [David Mitchell, Who Led Fight on Drug Prices, Dies at 75](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fhealth%2Fdavid-mitchell-dead.html)
+- [Bayer Sees Pharma Growth as Unit Chief Touts ‘Comeback Story’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbayer-sees-pharma-growth-as-unit-chief-touts-comeback-story)
 
-**Sources**: archive.ph (33 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 07:42 PM *
+*Digest generated on January 12, 2026 at 09:44 PM *
