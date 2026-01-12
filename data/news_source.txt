@@ -1,5 +1,41 @@
 [
   {
+    "title": "BBVA Is Seeking to Sell About €380 Million in Soured Mortgages",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbbva-is-seeking-to-sell-about-380-million-in-soured-mortgages",
+    "published": "Mon, 12 Jan 2026 08:43:53 CST",
+    "summary": "BBVA SA is seeking to sell about €380 million ($444 million) in soured\nmortgages as it cleans up its balance sheet.\n\n"
+  },
+  {
+    "title": "Focus on Fed Divions, Not Independence: 3-Minute MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ffocus-on-fed-divions-not-independence-3-minute-mliv-video",
+    "published": "Mon, 12 Jan 2026 08:35:58 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today's key themes for analysts and investors on \"Bloomberg: The Opening\nTrade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "DeepSeek Founder Liang’s Funds Surge 57% as China Quants Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdeepseek-founder-liang-s-funds-surge-57-as-china-quants-boom",
+    "published": "Mon, 12 Jan 2026 08:28:22 CST",
+    "summary": "DeepSeek founder Liang Wenfeng’s quantitative hedge fund generated returns of\nmore than 50% last year, boosting the potential war chest for a company that\nhas already shaken up the global tech landscape despite spending far less than\nrivals.\n\n"
+  },
+  {
+    "title": "Transatlantic Geopolitics Founder on Iran Protests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ftransatlantic-geopolitics-founder-on-iran-protests-video",
+    "published": "Mon, 12 Jan 2026 08:17:11 CST",
+    "summary": "After weeks of protests in Iran, global leaders are grappling with the\npossibility that the Islamic Republic could be overthrown which would upend\nglobal geopolitics and energy markets, and risk widespread chaos. Alexander\nZanzer, founder of Transatlantic Geopolitics and Technology Observatory, which\nprovides analysis on US-Europe relations spoke to Lizzy Burden on Daybreak\nEurope. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US DOJ Investigating Fed; US Monitoring Iran Protests | Horizons Middle East & Africa 1/12/2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fhorizons-middle-east-africa-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 08:01:46 CST",
+    "summary": "US futures and the dollar fall after Jerome Powell says the Fed has been\nserved with grand jury subpoenas related to renovations at the central bank's\nheadquarters. Hundred of thousands take to the streets as protests across Iran\nenter a third week. Plus, President Trump says the US will have Greenland 'one\nway or another'. Guests include: Aarthi Chandrasekaran, Shuaa Capital, Head of\nPublic Markets; Alan Eyre, Middle East Institute Distinguished Diplomatic\nFellow & Former Senior US Diplomat; Philip Bahoshy, MAGNiTT, Founder & CEO;\nand Elisabeth Wallace, DFSA, Associate Director, Policy & Legal. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "US Envoy Says Trade Deal Differences With India Will Be Resolved",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-envoy-says-trade-deal-differences-with-india-will-be-resolved",
+    "published": "Mon, 12 Jan 2026 07:47:05 CST",
+    "summary": "US and India are close partners and will resolve their differences, including\nover a long delayed trade deal, said Sergio Gor, the new US Ambassador to\nIndia appointed by President Donald Trump’s administration.\n\n"
+  },
+  {
     "title": "China Onshore Stock Turnover Jumps to a Record $516 Billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchina-onshore-stock-turnover-jumps-to-a-record-516-billion",
     "published": "Mon, 12 Jan 2026 07:31:00 CST",
@@ -9,7 +45,13 @@
     "title": "Heineken CEO Steps Down as Slumping Beer Sales Hurt Brewer",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fheineken-ceo-steps-down-as-slumping-beer-sales-hurt-brewer",
     "published": "Mon, 12 Jan 2026 07:15:46 CST",
-    "summary": "Heineken NV Chief Executive Officer Dolf van den Brink is stepping down months\nafter the brewer issued a profit warning amid a slump in beer sales.\n\n"
+    "summary": "Heineken NV Chief Executive Officer Dolf van den Brink is stepping down months\nafter the company warned on profit over falling beer sales.\n\n"
+  },
+  {
+    "title": "Insight with Haslinda Amin 1/12/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Finsight-with-haslinda-amin-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 07:14:32 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Fesharaki on Iran Unrest, Oil Market Risks",
@@ -27,13 +69,7 @@
     "title": "Fed Subpoenas Revive ‘Sell America’ Trade on Autonomy Concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffed-subpoenas-revive-sell-america-trade-on-autonomy-concerns",
     "published": "Mon, 12 Jan 2026 06:28:00 CST",
-    "summary": "‘Sell America’ sentiment swept through markets on Monday after the Trump\nadministration escalated its attacks on the Federal Reserve, fueling concerns\nover central bank autonomy.\n\n"
-  },
-  {
-    "title": "Venezuela Frees Two Italian Citizens Arrested Under Maduro",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvenezuela-has-freed-two-italian-prisoners-meloni-says",
-    "published": "Mon, 12 Jan 2026 06:12:36 CST",
-    "summary": "Venezuela released two Italian prisoners who had been arrested under the\nadministration of President Nicolas Maduro, who was ousted by the US earlier\nthis month.\n\n"
+    "summary": "‘Sell America’ sentiment swept through markets on Monday after the Trump\nadministration escalated its attacks on the Federal Reserve, fueling concerns\nover the central bank’s autonomy in setting interest rates.\n\n"
   },
   {
     "title": "Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids",
@@ -90,48 +126,6 @@
     "summary": "Lency Gu, Head of Business Development at Haisco Pharmaceutical Group, says\nthe Chinese bio pharmaceutical firm is looking for more partnerships to help\nits global expansion. The company has announced a new license agreement with\nUS-based AirNexis Therapeutics. Gu explains significance of the deal on\n\"Bloomberg: The China Show.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Indonesia Plans to Sell First Asia Sovereign Dollar Bond of 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findonesia-plans-to-sell-first-asia-sovereign-dollar-bond-of-2026",
-    "published": "Mon, 12 Jan 2026 04:28:41 CST",
-    "summary": "Indonesia plans to sell US-dollar bonds, the first such offering by an Asian\nsovereign this year, giving further impetus to a record start to global debt\nissuance by borrowers in 2026.\n\n"
-  },
-  {
-    "title": "Meituan, Alibaba Shares Jump as China Seeks to Curb Price Wars",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmeituan-alibaba-shares-jump-as-china-seeks-to-curb-price-wars",
-    "published": "Mon, 12 Jan 2026 04:14:51 CST",
-    "summary": "Shares of China’s biggest food-delivery firms climbed as the nation’s top\nantitrust body launched a probe into competition practices in the sector,\nspurring hopes that authorities will rein in subsidy-driven price wars.\n\n"
-  },
-  {
-    "title": "Fed's Powell Vows to Stand Firm After DOJ Subpoenas | The Asia Trade 1/12/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fthe-asia-trade-1-12-26-video",
-    "published": "Mon, 12 Jan 2026 04:02:05 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Radiant Unloads BHP Iron Ore in China as Trader Tests Curbs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fradiant-unloads-bhp-iron-ore-in-china-as-trader-tests-curbs",
-    "published": "Mon, 12 Jan 2026 03:55:49 CST",
-    "summary": "A bulk carrier laden with BHP Group’s Jimblebar iron ore has discharged in\nChina after weeks idling offshore, in a rare case of a trader pressing ahead\nwith restricted cargoes despite an ongoing pricing dispute.\n\n"
-  },
-  {
-    "title": "Iron Ore Gains as Restocking, Hot-Metal Output Lifts Sentiment",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Firon-ore-gains-as-restocking-hot-metal-output-lifts-sentiment",
-    "published": "Mon, 12 Jan 2026 03:54:25 CST",
-    "summary": "Iron ore advanced, buoyed by pre-holiday restocking from steel mills and a\nlift in hot-metal output.\n\n"
-  },
-  {
-    "title": "Surging Stock Listings Turbocharge India’s IPO Fees to a Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fipo-fees-hit-record-in-india-as-deal-boom-eases-pricing-pressure",
-    "published": "Mon, 12 Jan 2026 03:45:43 CST",
-    "summary": "Investment banks earned a record $417 million underwriting fees for initial\npublic offerings in India last year, reflecting a surge in stock listings and\na gradual shift away from a business culture driven by low prices.\n\n"
-  },
-  {
-    "title": "EM Asian Stocks Climb After US Jobs Report, Korea Hits New High",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fem-asian-stocks-climb-after-us-jobs-report-korea-hits-new-high",
-    "published": "Mon, 12 Jan 2026 03:34:58 CST",
-    "summary": "Emerging-Asian equities gained on Monday after a lower-than-expected US jobs\nprint pushed stocks to fresh highs on Friday.\n\n"
-  },
-  {
     "title": "China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Mon, 12 Jan 2026 03:34:30 CST",
@@ -144,10 +138,16 @@
     "summary": "The Fed confirmed it received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
   },
   {
-    "title": "Australia Boosts Critical-Minerals Focus With Stockpile Plan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Faustralia-announces-critical-minerals-for-its-strategic-reserve",
-    "published": "Mon, 12 Jan 2026 00:50:53 CST",
-    "summary": "Australia plans to buy and stockpile minerals essential for defense and\nadvanced technologies from domestic mining companies to help strengthen global\nsupply chains.\n\n"
+    "title": "Trump Says Credit Card Firms Violate Law If Rates Not Capped",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftrump-says-credit-card-firms-would-break-law-if-rates-not-capped",
+    "published": "Mon, 12 Jan 2026 02:10:21 CST",
+    "summary": "President Donald Trump said that credit-card lenders would be “in violation of\nthe law” if they don’t heed his call to cap interest rates at 10% for one\nyear.\n\n"
+  },
+  {
+    "title": "Dollar Drops Most in Three Weeks as Fed Gets Subpoenas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdollar-drops-most-in-nearly-three-weeks-as-fed-gets-subpoenas",
+    "published": "Mon, 12 Jan 2026 02:07:34 CST",
+    "summary": "The dollar declined the most in almost three weeks as the Federal Reserve\nfaced grand jury subpoenas from the Justice Department, reviving concerns over\npolitical interference in monetary policy.\n\n"
   },
   {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
@@ -159,7 +159,7 @@
     "title": "Fed Served With DOJ Subpoenas, Powell Vows to Stand Firm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-says-justice-department-served-fed-with-subpoenas",
     "published": "Mon, 12 Jan 2026 00:30:00 CST",
-    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\nFed.\n\n"
+    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\ninstitution.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -180,10 +180,10 @@
     "summary": "A spell of global interest-rate divergence is in store as central banks feel\ntheir way through the economic fog stoked by Donald Trump’s second year at the\nWhite House.\n\n"
   },
   {
-    "title": "Gold Hits Record as Risks to Fed’s Independence, Iran Fan Demand",
+    "title": "Gold and Silver Storm to Records as Fed Fight, Iran Spur Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
     "published": "Sun, 11 Jan 2026 23:40:30 CST",
-    "summary": "Gold and silver hit records as the US Justice Department threatened the\nFederal Reserve with a criminal indictment, reviving concerns over its\nindependence, while protests in Iran supported haven demand.\n\n"
+    "summary": "Gold and silver climbed to record highs as the US Justice Department\nthreatened the Federal Reserve with a criminal indictment, reviving concerns\nover its independence, while protests in Iran supported haven demand.\n\n"
   },
   {
     "title": "Oil Holds Gain as Iranian Protests Raise Specter of Disruption",
@@ -198,10 +198,16 @@
     "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
   },
   {
-    "title": "US Stock Futures Drop With Dollar on Threat to Fed: Markets Wrap",
+    "title": "OmniVision Rises in Hong Kong Debut After $616 Million Offering",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fomnivision-set-for-hong-kong-debut-after-616-million-offering",
+    "published": "Sun, 11 Jan 2026 23:00:00 CST",
+    "summary": "Chip designer OmniVision Integrated Circuits Group Inc. gained in its Hong\nKong trading debut after raising HK$4.8 billion ($616 million) in an offering.\n\n"
+  },
+  {
+    "title": "Stocks, Dollar Drop on Fed Fears as Gold Hits High: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
-    "summary": "US stock futures fell and the dollar weakened on concern over the Federal\nReserve’s independence after Chair Jerome Powell said threats of a criminal\nindictment were a consequence of the central bank’s interest-rate policies.\n\n"
+    "summary": "Stock futures and the dollar fell as investors retreated from US assets\nfollowing an escalation in tensions between the Trump administration and the\nFederal Reserve. Shorter-term Treasuries rose while gold hit a new high.\n\n"
   },
   {
     "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
@@ -594,12 +600,6 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
-    "title": "TCS, Infosys, Wipro to Offer Clues on 2026 Demand as Street Estimates Look Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-09%2Ftcs-infosys-to-offer-clues-on-2026-demand-as-street-estimates-look-up",
-    "published": "Fri, 09 Jan 2026 02:30:45 CST",
-    "summary": "Tata Consultancy Services Ltd., Infosys Ltd., and Wipro Ltd. will give clues\non how clients’ 2026 budgets are shaping up as the sector heads into another\nmuted earnings season.\n\n"
-  },
-  {
     "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
     "published": "Fri, 09 Jan 2026 00:47:16 CST",
@@ -874,12 +874,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F06%2Fbank-of-england-venezuelan-gold-nicolas-maduro-us-uk",
     "published": "Tue, 06 Jan 2026 11:57:03 CST",
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Pictet’s Sagayam on Investment Opportunities",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-06%2Fpictet-co-ceo-sagayam-on-global-investment-opportunities-video",
-    "published": "Tue, 06 Jan 2026 07:41:07 CST",
-    "summary": "Pictet Group Managing Partner and Co-CEO for Pictet Asset Management Raymond\nSagayam shares his views on investment opportunities in a rapidly changing\nglobal landscape. He speaks on Insight With Haslinda Amin. (Corrects job\ntitle.)\n\n"
   },
   {
     "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
