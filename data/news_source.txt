@@ -1,5 +1,77 @@
 [
   {
+    "title": "Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html",
+    "published": "Mon, 12 Jan 2026 18:52:54 CST",
+    "summary": "Budget airlines in the U.S. like Allegiant and Sun Country have faced a surge\nin costs following the pandemic and the increase in domestic capacity.\n\n"
+  },
+  {
+    "title": "Ho-hum holiday: Retail's early results show modest growth in critical shopping season",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
+    "published": "Mon, 12 Jan 2026 18:50:36 CST",
+    "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
+  },
+  {
+    "title": "Golden State Warriors Parent Company Said to Be Valued at $11 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fwarriors-parent-said-to-be-valued-at-11-billion-video",
+    "published": "Mon, 12 Jan 2026 18:32:31 CST",
+    "summary": "A minority stake in the parent company of the NBA's Golden State Warriors is\nsaid to be up for sale. The 5% stake in the Golden State Group would also\ninclude a board seat, the Chase Center arena and two other teams. Randall\nWilliams reports. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fed Served with DOJ Subpoenas, Performance of ‘OTFL’ ETF | ETF IQ 1/12/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fetf-iq-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 18:23:56 CST",
+    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied\nto the trillions of dollars in the global exchange traded funds industry.\nToday's guests: Research Affiliates Chairman and Founder Rob Arnott and OTG\nAsset Management CEO Mauricio Alvarez. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Pimco, PGIM See Risk Trump’s Fed Fight Will Drive Rates Higher",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpimco-pgim-see-risk-trump-s-fed-fight-will-drive-rates-higher",
+    "published": "Mon, 12 Jan 2026 18:21:08 CST",
+    "summary": "At big bond firms like Pacific Investment Management Co., PGIM and DWS Group,\nmoney managers warn that President Donald Trump’s assault on the Federal\nReserve’s independence is at odds with his goal of pulling down interest\nrates.\n\n"
+  },
+  {
+    "title": "Ex-Justice Department Official Denied Bid to Represent Maduro",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fex-justice-department-official-denied-bid-to-represent-maduro",
+    "published": "Mon, 12 Jan 2026 18:20:20 CST",
+    "summary": "A request to join Nicolas Maduro’s legal team by a former top Justice\nDepartment official was rejected by a federal judge amid a fight with the\nousted Venezuelan president’s current lawyer.\n\n"
+  },
+  {
+    "title": "Betterment Customer Data Accessed in Online Crypto Scam Attack",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbetterment-customer-data-accessed-in-online-crypto-scam-attack",
+    "published": "Mon, 12 Jan 2026 18:16:28 CST",
+    "summary": "Personal finance platform Betterment fell victim to an online attack that\nallowed an unauthorized individual to send some customers a “fraudulent,\ncrypto-related message,” the company said in a statement on Monday.\n\n"
+  },
+  {
+    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
+    "published": "Mon, 12 Jan 2026 18:11:51 CST",
+    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
+  },
+  {
+    "title": "Paramount Threatens Board Fight Over Warner Bros. Discovery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html",
+    "published": "Mon, 12 Jan 2026 18:09:58 CST",
+    "summary": "The announcement was the latest in a series of increasingly aggressive actions\nby Paramount to buy Warner Bros.\n\n"
+  },
+  {
+    "title": "Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fnvidia-to-invest-1b-in-ai-drug-lab-with-eli-lilly-video",
+    "published": "Mon, 12 Jan 2026 17:59:32 CST",
+    "summary": "Nvidia Corp. plans to invest $1 billion over five years in a new laboratory\nwith Eli Lilly & Co., aiming to speed up the use of artificial intelligence in\nthe pharmaceutical industry. The facility will be built in Silicon Valley and\nbring Lilly’s lab expertise closer to the center of artificial intelligence\ninnovation, Nvidia said on Monday. The company described the project as a\njoint investment, without elaborating on the financial terms. Bloomberg's Sam\nFazeli joins to discuss. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Attacking Powell Makes No Sense",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fopinion-attacking-powell-makes-no-sense-video",
+    "published": "Mon, 12 Jan 2026 17:55:53 CST",
+    "summary": "Politically motivated criminal charges against Fed Chair Powell would be a new\nlow for the US -- and probably wouldn’t accomplish what Trump wants, Bloomberg\nOpinion columnist John Authers says. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump Calls for One-Year Cap on Credit Card Rates at 10%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Ftrump-calls-for-one-year-cap-on-credit-card-rates-at-10-video",
+    "published": "Mon, 12 Jan 2026 17:45:39 CST",
+    "summary": "President Donald Trump on Friday called for a one-year cap on credit card\ninterest rates at 10%, effective Jan. 20, without specifying details. It’s not\nclear whether credit card companies will respond to his call, or what actions\nhe might take to force any change. The post comes as the Trump administration\nintensifies efforts to demonstrate to voters that the president is addressing\nconcerns about costs and prices that have emerged as a central issue in the\nNovember midterm elections. Bloomberg's Nathan Dean joins to discuss what this\nmeans for Congress and the US consumer on Bloomberg Intelligence. (Source:\nBloomberg)\n\n"
+  },
+  {
     "title": "Stocks, Bonds and the Dollar Fluctuate on Threat to Fed Chair Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fstock-market-dollar-trump-fed-powell.html",
     "published": "Mon, 12 Jan 2026 17:40:43 CST",
@@ -18,22 +90,22 @@
     "summary": "The deal would cut tariffs and include a commitment from Taiwanese\nSemiconductor Manufacturing Corporation, the island’s chip giant, to build\nmore manufacturing plants in the United States.\n\n"
   },
   {
-    "title": "Ho-hum holiday: Retail's early results show modest growth in critical shopping season",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
-    "published": "Mon, 12 Jan 2026 17:25:08 CST",
-    "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
-  },
-  {
     "title": "Ex-Fed chairs condemn Trump’s bid to weaken central bank’s independence",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F12%2Ftrump-condemn-federal-reserve-powell-investigation",
     "published": "Mon, 12 Jan 2026 17:21:49 CST",
-    "summary": "Statement signed by 13 former senior officials condemns ‘unprecedented’\nassault on Fed’s independence\n\nEvery living former head of the Federal Reserve condemned an “unprecedented”\nattempt by the Trump administration to weaken the US central bank’s\nindependence, after the Department of Justice opened a criminal investigation\ninto its chair, Jerome Powell.\n\nEx-Fed chairs Alan Greenspan, Ben Bernanke and Janet Yellen warned similar\nprosecutorial attacks in other countries had led to “highly negative\nconsequences” for the cost of living – and argued they had “no place” in the\nUS.\n\nContinue reading...\n\n"
+    "summary": "Statement signed by 13 former senior officials condemns ‘unprecedented’\nassault on Fed’s independence\n\n  * Trump’s attempts to influence Fed risk ‘70’s-style inflation and global backlash’\n\n  * Nils Pratley: US bond markets should be in revolt. Fed independence matters\n\nEvery living former head of the Federal Reserve condemned an “unprecedented”\nattempt by the Trump administration to weaken the US central bank’s\nindependence, after the Department of Justice opened a criminal investigation\ninto its chair, Jerome Powell.\n\nEx-Fed chairs Alan Greenspan, Ben Bernanke and Janet Yellen warned similar\nprosecutorial attacks in other countries had led to “highly negative\nconsequences” for the cost of living – and argued they had “no place” in the\nUS.\n\nContinue reading...\n\n"
   },
   {
     "title": "Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Frepublican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html",
     "published": "Mon, 12 Jan 2026 17:20:12 CST",
     "summary": "Trump will face an important obstacle — from within his own party — as he\nseeks to replace Federal Reserve Chair Jerome Powell.\n\n"
+  },
+  {
+    "title": "Google parent Alphabet hits $4tn valuation after AI deal with Apple",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F12%2Fgoogle-gemini-alphabet-4-trillion-value",
+    "published": "Mon, 12 Jan 2026 17:14:52 CST",
+    "summary": "After Apple chose Gemini to power Siri, Alphabet surpassed Apple to become\nsecond-most valuable company in world\n\nGoogle’s parent company hit a major financial milestone on Monday, reaching a\n$4tn valuation for the first time and surpassing Apple to become the second-\nmost valuable company in the world.\n\nAlphabet is the fourth company to hit the $4tn milestone after Nvidia, which\nlater hit $5tn, Microsoft and Apple.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Citigroup, Abercrombie, Vistra, Duolingo and more",
@@ -54,28 +126,16 @@
     "summary": "Venezuela bonds slipped after President Donald Trump moved to block creditors\nfrom accessing oil revenue, raising doubts about the size of a payout in any\neventual debt restructuring.\n\n"
   },
   {
-    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
-    "published": "Mon, 12 Jan 2026 16:54:31 CST",
-    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
-  },
-  {
-    "title": "Paramount Threatens Board Fight Over Warner Bros. Discovery",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html",
-    "published": "Mon, 12 Jan 2026 16:49:21 CST",
-    "summary": "The announcement was the latest in a series of increasingly aggressive actions\nby Paramount to buy Warner Bros.\n\n"
-  },
-  {
     "title": "Bonds Will Remain Range-Bound: Berro",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbonds-will-remain-range-bound-berro-video",
     "published": "Mon, 12 Jan 2026 16:48:42 CST",
     "summary": "Kelsey Berro, Fixed Income Portfolio Manager at JPMorgan Asset Management,\ndiscusses the Justice Department serving subpoenas to the Federal Reserve and\nwhy bond markets will remain range-bound due to fundamentals. She speaks to\nBloomberg's Jonathan Ferro and Lisa Abramowicz on 'Surveillance.' (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Eli Lilly CFO on $1 Billion AI Drug Lab Investment",
+    "title": "Eli Lilly Weight-Loss Pill On Track for US Approval in Second Quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Feli-lilly-cfo-on-1-billion-ai-drug-lab-investment",
     "published": "Mon, 12 Jan 2026 16:45:53 CST",
-    "summary": "Bloomberg's Katie Greifeld reports live from the JPMorgan Healthcare\nConference in San Francisco, where she is joined by Lucas Montarce, CFO of Eli\nLilly. (Source: Bloomberg)\n\n"
+    "summary": "Eli Lilly Chief Financial Officer Lucas Montarce says the company's weight-\nloss pill is on track to be approved in the US as early as the second quarter\nof this year. He speaks to Katie Greifeld at the JPMorgan Healthcare\nConference in San Francisco. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Bolivia Plans New Economic Decree, Won’t Resume Fuel Subsidies",
@@ -98,7 +158,7 @@
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html",
-    "published": "Mon, 12 Jan 2026 16:29:44 CST",
+    "published": "Mon, 12 Jan 2026 16:29:45 CST",
     "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s\nchatbot over the spread of illegal images.\n\n"
   },
   {
@@ -114,7 +174,7 @@
     "summary": "Ozempic and similar weight loss drugs, known as GLP-1s, make people less\nhungry, but it doesn't seem to stop them from going out to eat. Bloomberg\nBusinessweek's Deena Shanker joins Stacey Vanek Smith and Max Chafkin on the\nEverybody's Business podcast to unpack this new phenomenon and why the weight\nloss drug craze is actually benefiting the restaurant industry. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "SQM to Join Wave of Emerging Market Debt Sales With Hybrid Bond",
+    "title": "SQM to Join Wave of Emerging Debt Sales With Hybrid Bond",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fsqm-to-join-wave-of-emerging-market-debt-sales-with-hybrid-bond",
     "published": "Mon, 12 Jan 2026 16:18:02 CST",
     "summary": "SQM, one of the world’s biggest lithium producers, plans to tap the\ninternational bond market for the first time since 2024 with the sale of at\nleast $500 million in dollar-denominated notes.\n\n"
@@ -132,7 +192,7 @@
     "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say\nhe remains as involved as ever managing the sprawling operations of the\nmegabank.\n\n"
   },
   {
-    "title": "Braskem Makes Coupon Payment Amid Ongoing Review of Debt Load",
+    "title": "Braskem Makes Coupon Payment Amid Ongoing Debt Review",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbraskem-makes-coupon-payment-amid-ongoing-review-of-debt-load",
     "published": "Mon, 12 Jan 2026 16:04:04 CST",
     "summary": "Braskem SA, one of the world’s largest petrochemical makers, paid interest due\nMonday on some of its dollar bonds, people familiar with the matter said,\neasing investor concerns while it continues to review its debt amid a\nprolonged industry downturn.\n\n"
@@ -162,22 +222,10 @@
     "summary": "Yara International ASA warned that it could abandon a planned low-emission\nammonia project in the US if the European Union was to exclude fertilizers\nfrom its flagship carbon border levy.\n\n"
   },
   {
-    "title": "Alphabet’s Rise to $4 Trillion Cements Status as AI Trade Winner",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Falphabet-s-rise-to-4-trillion-cements-status-as-ai-trade-winner",
-    "published": "Mon, 12 Jan 2026 15:36:22 CST",
-    "summary": "Alphabet Inc. broke above a $4 trillion market capitalization on Monday,\nbecoming one of the few companies to ever cross the threshold as investors\nincreasingly see the Google parent as one of the biggest winners of the\nartificial intelligence boom.\n\n"
-  },
-  {
-    "title": "Vitol, Trafigura Set to Move Venezuelan Oil to Caribbean Storage",
+    "title": "Vitol, Trafigura Set to Move Venezuelan Oil to Caribbean",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fvitol-trafigura-set-to-move-venezuelan-oil-to-caribbean-storage",
     "published": "Mon, 12 Jan 2026 15:33:43 CST",
     "summary": "Two of the world’s largest commodities traders plan to move Venezuelan oil to\nstorage facilities in the Caribbean, which would likely serve as a staging\npoint for exports after the US asked them to market the oil.\n\n"
-  },
-  {
-    "title": "Iran Oil Inventories Slump With Wave of Protests, Kayrros Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Firan-oil-inventories-slump-with-wave-of-protests-kayrros-says",
-    "published": "Mon, 12 Jan 2026 15:16:22 CST",
-    "summary": "Iranian oil stockpiles at a key export terminal are about a fifth lower than\nwhere they started the year, a possible sign the country is moving crude out\nof harm’s way amid a wave of unrest over the past two weeks, according to the\nfounder of a company that tracks inventories with satellites.\n\n"
   },
   {
     "title": "Kazakh Oil Shipments Slashed Again as Key Port Is Disrupted",
@@ -192,34 +240,16 @@
     "summary": "US stocks advanced on Monday as the Trump administration’s latest attack on\nthe Federal Reserve fuels a debate over the “sell America” trade.\n\n"
   },
   {
-    "title": "Primark Owner Has Most Sell Ratings in Decade After Goldman Cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgoldman-cut-gives-primark-owner-most-sell-ratings-in-10-years",
-    "published": "Mon, 12 Jan 2026 14:52:10 CST",
-    "summary": "Stock-market pessimism toward Associated British Foods Plc has hit a decade-\nhigh as concerns stack up over the UK conglomerate’s Primark fashion chain.\n\n"
-  },
-  {
     "title": "Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html",
     "published": "Mon, 12 Jan 2026 14:51:22 CST",
     "summary": "Aldi's growth reflects the fiercer competition with traditional players as\ndiscounters lure away shoppers and win more of their weekly grocery runs.\n\n"
   },
   {
-    "title": "CD&amp;R Looks to Raise $26 Billion for Latest Private Equity Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcd-r-looks-to-raise-26-billion-for-latest-private-equity-fund",
-    "published": "Mon, 12 Jan 2026 14:46:48 CST",
-    "summary": "Clayton Dubilier & Rice is seeking $26 billion for its latest flagship private\nequity fund, an ambitious target that would count among the industry’s\nlargest-ever fundraises.\n\n"
-  },
-  {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
     "published": "Mon, 12 Jan 2026 14:44:11 CST",
     "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
-  },
-  {
-    "title": "JPMorgan Trading Desk ‘Cautious’ on US Stocks After Fed Probe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjpmorgan-trading-desk-cautious-on-us-stocks-after-fed-probe",
-    "published": "Mon, 12 Jan 2026 14:02:38 CST",
-    "summary": "The Trump administration’s latest attack on the Federal Reserve’s independence\nposes a threat to the US stock market, at least in the short term, according\nto JP Morgan Securities LLC’s trading desk.\n\n"
   },
   {
     "title": "The Potential Fallout From a Legal Attack on Powell",
@@ -246,10 +276,16 @@
     "summary": "Strike, amid an intense flu season, is expected to disrupt activity at\ninstitutions such as Mount Sinai and Montefiore\n\nThousands of nurses are set to walk off the job at several of New York City’s\nlargest hospitals on Monday, staging a strike amid an intense flu season.\n\nThe action comes three years after a previous strike that compelled some of\nthe same hospitals to move patients elsewhere and reroute ambulances.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Lufthansa Delays Iran Flight Resumption Amid Protests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flufthansa-plans-to-resume-iran-flights-despite-deadly-protests",
+    "published": "Mon, 12 Jan 2026 12:05:22 CST",
+    "summary": "Deutsche Lufthansa AG delayed its plan to resume flights to Iran’s capital\nthis week amid deadly protests around the country and German government travel\nwarnings.\n\n"
+  },
+  {
     "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela",
     "published": "Mon, 12 Jan 2026 11:00:03 CST",
-    "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting\ntheir first production drop in four years\n\nUS shale-oil producers were already contending with oil prices at four-year\nlows. News that they may soon face a significant competitor in their back yard\nlikely wasn’t how frackers wanted to greet 2026.\n\nThe US capture of Venezuelan president Nicolaá Maduro and his wife, Cilia\nFlores, hit the share prices of independent shale-oil producers, such as\nDiamondback Energy and Devon Energy, last week.\n\nContinue reading...\n\n"
+    "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting\ntheir first production drop in four years\n\nUS shale-oil producers were already contending with oil prices at four-year\nlows. News that they may soon face a significant competitor in their back yard\nprobably wasn’t how frackers wanted to greet 2026.\n\nThe US capture of Venezuela’s President Nicolaá Maduro and his wife, Cilia\nFlores, hit the share prices of independent shale-oil producers, such as\nDiamondback Energy and Devon Energy, last week.\n\nContinue reading...\n\n"
   },
   {
     "title": "Jersey Mike's strikes European expansion deal led by founder Peter Cancro",
@@ -258,28 +294,10 @@
     "summary": "Jersey Mike's plans to open 400 stores in the U.K. and Ireland, with more\nlocations to follow in Europe.\n\n"
   },
   {
-    "title": "TCS Profit Misses Estimates on Slow Tech Spending, Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftcs-profit-misses-estimates-in-sign-tech-spending-yet-to-pick-up",
-    "published": "Mon, 12 Jan 2026 10:31:05 CST",
-    "summary": "Tata Consultancy Services Ltd.’s quarterly earnings missed analysts’\nestimates, as corporations continue to limit spending on information\ntechnology projects in an era of geopolitical tensions and on one-time costs.\n\n"
-  },
-  {
-    "title": "QXO Boosts Financing Deal to $3 Billion to Pursue M&amp;A",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjacobs-qxo-boosts-financing-deal-to-3-billion-to-pursue-m-a",
-    "published": "Mon, 12 Jan 2026 10:00:00 CST",
-    "summary": "QXO Inc. is raising another $1.8 billion from investors including Apollo\nGlobal Management Inc. and Temasek Holdings Pte, comfortably more than\ndoubling the $1.2 billion financing deal it announced last week.\n\n"
-  },
-  {
     "title": "European Stocks Extend Record as Traders Monitor Trump-Fed Feud",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feuropean-stocks-drop-as-concerns-over-fed-independence-grow",
     "published": "Mon, 12 Jan 2026 08:19:43 CST",
     "summary": "European stocks edged higher to a new closing record as investors weighed the\nimpact of the Trump administration’s legal action against the Federal Reserve\non the central bank’s independence.\n\n"
-  },
-  {
-    "title": "‘Sell America’ Trade Is Revived by Trump’s Latest Fed Attack",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffed-subpoenas-revive-sell-america-trade-on-autonomy-concerns",
-    "published": "Mon, 12 Jan 2026 06:28:00 CST",
-    "summary": "“Sell America” sentiment rippled through markets on Monday after the Trump\nadministration escalated its attacks on the Federal Reserve, fanning concerns\nover the central bank’s autonomy in setting interest rates.\n\n"
   },
   {
     "title": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
@@ -324,12 +342,6 @@
     "summary": "Copper pared gains after surging near a record high aided by a weaker dollar\nand supply concerns.\n\n"
   },
   {
-    "title": "Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html",
-    "published": "Mon, 12 Jan 2026 01:13:18 CST",
-    "summary": "Budget airlines in the U.S. like Allegiant and Sun Country have faced a surge\nin costs following the pandemic and the increase in domestic capacity.\n\n"
-  },
-  {
     "title": "EU Trade Deal With Mercosur Defies Trump’s Protectionism",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feu-trade-deal-with-mercosur-defies-trump-s-protectionism",
     "published": "Mon, 12 Jan 2026 00:47:11 CST",
@@ -338,7 +350,7 @@
   {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
-    "published": "Mon, 12 Jan 2026 00:40:09 CST",
+    "published": "Mon, 12 Jan 2026 00:40:10 CST",
     "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
   },
   {
@@ -346,12 +358,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
     "published": "Mon, 12 Jan 2026 00:14:48 CST",
     "summary": "Some Gen Z-ers first entered the markets during the pandemic’s meme stock\ncraze. They have since become more patient investors.\n\n"
-  },
-  {
-    "title": "Gold and Silver Storm to Records as Fed Hit With DOJ Subpoenas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fgold-flirts-with-record-high-on-soft-us-jobs-data-iran-tensions",
-    "published": "Sun, 11 Jan 2026 23:40:30 CST",
-    "summary": "Gold and silver climbed to records in a broad-based metals rally as the US\nJustice Department threatened the Federal Reserve with a criminal indictment,\nreviving concerns about the central bank’s independence.\n\n"
   },
   {
     "title": "Oil Holds Gain as Iran Protests Offer Fresh Crude Supply Risk",
@@ -424,12 +430,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2F401k-heb-eryn-schultz-personal-finances.html",
     "published": "Sun, 11 Jan 2026 13:06:14 CST",
     "summary": "Eryn Schultz was an H-E-B grocery store leader with an M.B.A. A slow pivot\ntoward a big career change began when she found her retirement plan wanting.\n\n"
-  },
-  {
-    "title": "Game On: the Swiss sports brand using hi-tech and chutzpah to challenge Nike and Adidas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Fgame-on-the-swiss-sports-brand-using-hi-tech-and-chutzpah-to-challenge-nike-and-adidas",
-    "published": "Sun, 11 Jan 2026 12:00:27 CST",
-    "summary": "Zurich-based firm taps into latest robot tech to ‘fibre-spray’ high-end sports\nshoes worn by the likes of Roger Federer\n\nA robot leg whirs around in a complex ballet as an almost invisible spray of\n“flying fibre” builds a hi-tech £300 sports shoe at its foot.\n\nThis nearly entirely automated process – like a sci-fi future brought to life\n– is part of the gameplan from On, the Swiss sports brand that is taking on\nthe sector’s mighty champions Nike and Adidas with a mix of technology and\nchutzpah.\n\nContinue reading...\n\n"
   },
   {
     "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
