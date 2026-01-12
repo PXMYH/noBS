@@ -1,9 +1,123 @@
 [
   {
+    "title": "Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html",
+    "published": "Mon, 12 Jan 2026 14:51:22 CST",
+    "summary": "Aldi's growth reflects the fiercer competition with traditional players as\ndiscounters lure away shoppers and win more of their weekly grocery runs.\n\n"
+  },
+  {
+    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
+    "published": "Mon, 12 Jan 2026 14:44:11 CST",
+    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
+  },
+  {
+    "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feurope-china-electric-vehicles-tariffs-volkswagen.html",
+    "published": "Mon, 12 Jan 2026 14:43:21 CST",
+    "summary": "The European Commission allowed carmakers to volunteer limits on their imports\nfrom China instead of paying tariffs, an arrangement that could help\nVolkswagen.\n\n"
+  },
+  {
+    "title": "Stocks, Bonds and the Dollar Slip on Threat to Fed Chair Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fstock-market-dollar-trump-fed-powell.html",
+    "published": "Mon, 12 Jan 2026 14:39:19 CST",
+    "summary": "The broad shift out of U.S. financial assets revived last year’s trend called\nthe “sell America” trade.\n\n"
+  },
+  {
+    "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html",
+    "published": "Mon, 12 Jan 2026 14:19:31 CST",
+    "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s\nchatbot over the spread of illegal images.\n\n"
+  },
+  {
+    "title": "Crypto Wallet Firm BitGo, Backers Seek $201 Million in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcrypto-wallet-firm-bitgo-backers-seek-201-million-in-us-ipo",
+    "published": "Mon, 12 Jan 2026 14:15:26 CST",
+    "summary": "BitGo Holdings Inc. and some of its backers are seeking to raise as much as\n$201 million in an initial public offering, becoming the first crypto company\nto proceed with listing plans in 2026.\n\n"
+  },
+  {
+    "title": "Goldman, JPMorgan and UBS Lead Golden Goose’s Buyout Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgoldman-jpmorgan-and-ubs-lead-golden-goose-s-buyout-debt",
+    "published": "Mon, 12 Jan 2026 14:05:35 CST",
+    "summary": "Goldman Sachs Group Inc. JPMorgan Chase & Co. and UBS Group AG are leading a\ndebt financing deal backing a Chinese firm’s acquisition of Italian high-end\nsneaker producer Golden Goose Group SpA.\n\n"
+  },
+  {
+    "title": "JPMorgan Trading Desk ‘Cautious’ on US Stocks After Fed Probe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjpmorgan-trading-desk-cautious-on-us-stocks-after-fed-probe",
+    "published": "Mon, 12 Jan 2026 14:02:38 CST",
+    "summary": "The Trump administration’s latest attack on the Federal Reserve’s independence\nposes a threat to the US stock market, at least in the short term, according\nto JP Morgan Securities LLC’s trading desk.\n\n"
+  },
+  {
+    "title": "Gas-Storage Worries Push Key European Price Spread to June Lows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgas-storage-worries-push-key-european-price-spread-to-june-lows",
+    "published": "Mon, 12 Jan 2026 14:02:06 CST",
+    "summary": "A key price spread in Europe’s gas market has collapsed to levels last seen in\nJune, prompting worries about refilling the continent’s fuel inventories this\nsummer.\n\n"
+  },
+  {
+    "title": "The Man Betting on Insider Trading as Prediction Markets Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fthe-man-betting-on-insider-trading-as-prediction-markets-boom",
+    "published": "Mon, 12 Jan 2026 14:00:56 CST",
+    "summary": "The well-timed and hugely profitable bets placed just before the ouster of\nNicolás Maduro have sparked the latest and loudest uproar over insider trading\non prediction markets -- with lawmakers questioning whether some participants\nare acting on confidential knowledge.\n\n"
+  },
+  {
+    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
+    "published": "Mon, 12 Jan 2026 13:53:14 CST",
+    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
+  },
+  {
     "title": "Ho hum holiday: Retail's early results show modest growth in critical shopping season",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
-    "published": "Mon, 12 Jan 2026 13:12:30 CST",
+    "published": "Mon, 12 Jan 2026 13:50:51 CST",
     "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
+  },
+  {
+    "title": "Powell Probe Is Another Blow to Fed Independence, Scope Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-probe-is-another-blow-to-fed-independence-scope-says",
+    "published": "Mon, 12 Jan 2026 13:49:48 CST",
+    "summary": "The Trump administration’s new legal assault on the Federal Reserve further\nthreatens independence and makes it harder for the central bank’s next chief\nto do their job, according to Scope Ratings.\n\n"
+  },
+  {
+    "title": "Lebanon Bonds Rally to 2020 High on Hopes Over Banking Law",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flebanese-bonds-rally-to-six-year-high-on-hopes-over-banking-law",
+    "published": "Mon, 12 Jan 2026 13:46:53 CST",
+    "summary": "Lebanese bonds have rallied to the highest since March 2020, when the country\ndefaulted on some $30 billion of international debt, on optimism that a\nproposed law to free up bank deposits is a positive step to improving the\nnation’s financial troubles.\n\n"
+  },
+  {
+    "title": "MacKay Looks to Long-Dated Munis Ignored by Key Retail Investors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fmackay-looks-to-long-dated-munis-ignored-by-key-retail-investors",
+    "published": "Mon, 12 Jan 2026 13:45:00 CST",
+    "summary": "US state and local debt with long maturities offer “compelling” value in this\nless crowded corner of the market, according to the municipal investment arm\nof MacKay Shields.\n\n"
+  },
+  {
+    "title": "DV Commodities Hires Quant Nicky Ferguson in Continued Expansion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdv-commodities-hires-quant-nicky-ferguson-in-continued-expansion",
+    "published": "Mon, 12 Jan 2026 13:42:42 CST",
+    "summary": "DV Group hired Nicky Ferguson, a well-known quantitative analyst and trader in\ncommodity markets, as the company continued to expand its trading\ncapabilities.\n\n"
+  },
+  {
+    "title": "Rare-Earth Miner Meteoric Seeks Partnership for Brazil Project",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Frare-earth-miner-meteoric-seeks-partnership-for-brazil-project",
+    "published": "Mon, 12 Jan 2026 13:37:57 CST",
+    "summary": "Meteoric Resources NL is casting a wide net including courting potential\nbackers in Saudi Arabia as it pursues a strategic partner for its rare-earth\nmining project in Brazil.\n\n"
+  },
+  {
+    "title": "The Potential Fallout From a Legal Attack on Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fdealbook%2Fpowell-federal-reserve-investigation-trump.html",
+    "published": "Mon, 12 Jan 2026 13:34:48 CST",
+    "summary": "A criminal investigation into Jay Powell, the Federal Reserve chair, may be\nthe most consequential attack yet on the central bank’s political\nindependence.\n\n"
+  },
+  {
+    "title": "Powell Says Fed Served With DOJ Subpoenas; Iran Protests Enter Third Week | Bloomberg Brief 1/12/26",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbloomberg-brief-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 13:24:21 CST",
+    "summary": "US equity futures and the dollar slide while gold and silver hit record highs\namid deepening tensions between the Federal Reserve and the Trump\nadministration. President Trump says he is mulling potential options regarding\nIran in response to reports of deadly crackdowns as nationwide protests enter\na third week. Thierry Wizman of Macquarie discusses the market risks amid\nuncertainties around the Fed's independence. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Hedge Fund-Lite Trades Are Back From the Dead With $153 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fwall-street-reboots-leverage-in-153-billion-active-stock-trades",
+    "published": "Mon, 12 Jan 2026 13:17:41 CST",
+    "summary": "Even in the most vanilla corners of institutional money management, an\nappetite for leverage is quietly returning.\n\n"
   },
   {
     "title": "Congo Sending First Copper to US Under Mercuria-Backed Venture",
@@ -34,12 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftoronto-dominion-plans-srt-tied-to-5-billion-of-corporate-loans",
     "published": "Mon, 12 Jan 2026 12:33:35 CST",
     "summary": "Toronto-Dominion Bank is gauging demand from investors for a significant risk\ntransfer tied to a portfolio of about $5 billion of corporate loans.\n\n"
-  },
-  {
-    "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feurope-china-electric-vehicles-tariffs-volkswagen.html",
-    "published": "Mon, 12 Jan 2026 12:31:19 CST",
-    "summary": "The European Commission allowed carmakers to volunteer limits on their imports\nfrom China instead of paying tariffs, an arrangement that could help\nVolkswagen.\n\n"
   },
   {
     "title": "BHP Is Stuck on the Sidelines of Copper M&amp;A Frenzy It Started",
@@ -102,42 +210,6 @@
     "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say\nhe remains as involved as ever managing the sprawling operations of the\nmegabank.\n\n"
   },
   {
-    "title": "Trump Administration Takes Stake in Critical Mineral Firm ATALCO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftrump-administration-takes-stake-in-critical-mineral-firm-atalco",
-    "published": "Mon, 12 Jan 2026 12:00:00 CST",
-    "summary": "The Trump administration is taking a $150 million equity stake to build the\nUS’s only big producer of gallium, a critical mineral used in satellite\nsystems and military radar.\n\n"
-  },
-  {
-    "title": "DLA Piper Names Drew as Canada Head, Targets Further Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdla-piper-names-drew-as-canada-head-targets-further-growth",
-    "published": "Mon, 12 Jan 2026 12:00:00 CST",
-    "summary": "DLA Piper has named Russel Drew as its managing partner in Canada, handing the\nveteran deal lawyer the task of leading the firm’s growth in a market that’s\nincreasingly being shaped by cross-border transactions.\n\n"
-  },
-  {
-    "title": "India’s State-Owned Power Finance Plans $555 Million Retail Bond",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findia-s-state-owned-power-finance-plans-555-million-retail-bond",
-    "published": "Mon, 12 Jan 2026 11:30:59 CST",
-    "summary": "India’s Power Finance Corp., the country’s largest lender to the power sector,\nplans to sell bonds to individual investors, making a return to the retail\nmarket after a gap of more than two years.\n\n"
-  },
-  {
-    "title": "The Sell America Trade Is Back as US Targets Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-12%2Fthe-sell-america-trade-is-back-as-us-targets-fed-chair",
-    "published": "Mon, 12 Jan 2026 11:13:40 CST",
-    "summary": "Stocks, bonds, dollar drop on criminal probe, while gold rallies.\n\n"
-  },
-  {
-    "title": "StanChart Said to Prepare Crypto Expansion With Prime Brokerage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstanchart-said-to-prepare-crypto-expansion-with-prime-brokerage",
-    "published": "Mon, 12 Jan 2026 11:05:09 CST",
-    "summary": "Standard Chartered Plc plans to set up a prime brokerage for crypto trading,\npeople with knowledge of the matter said, as global banks step up efforts to\ncompete in digital assets.\n\n"
-  },
-  {
-    "title": "This Is Who Companies Call When They Want to Become a Bank",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ffintechs-call-klaros-group-when-they-want-bank-charters",
-    "published": "Mon, 12 Jan 2026 11:00:18 CST",
-    "summary": "Financial firms are racing to secure US bank charters during Trump’s\npresidency, with Klaros Group advising at least a dozen of them.\n\n"
-  },
-  {
     "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela",
     "published": "Mon, 12 Jan 2026 11:00:03 CST",
@@ -150,46 +222,10 @@
     "summary": "Jersey Mike's plans to open 400 stores in the U.K. and Ireland, with more\nlocations to follow in Europe.\n\n"
   },
   {
-    "title": "Chile Investors Look Abroad as Fed, Geopolitics Drive Rates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fchile-investors-look-abroad-as-fed-geopolitics-drive-rates",
-    "published": "Mon, 12 Jan 2026 11:00:00 CST",
-    "summary": "Chilean fixed-income investors are looking beyond domestic developments this\nyear, with decisions in Washington and geopolitical flashpoints eclipsing the\nimpact of a new administration at home.\n\n"
-  },
-  {
-    "title": "Data Centers Will Need $3 Trillion Through 2030, Moody’s Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fdata-centers-will-need-3-trillion-through-2030-moody-s-says",
-    "published": "Mon, 12 Jan 2026 11:00:00 CST",
-    "summary": "At least $3 trillion is set to flow into data-center-related investments over\nthe next five years, capital that will rely on the might of multiple areas of\nthe credit markets to provide, according to Moody’s Ratings.\n\n"
-  },
-  {
-    "title": "Corn Rises to Two-Week High as Report Seen Cutting US Yield",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcorn-rises-to-two-week-high-as-report-seen-cutting-us-corn-yield",
-    "published": "Mon, 12 Jan 2026 10:58:42 CST",
-    "summary": "Corn futures hit the highest in two weeks as traders await a key monthly\nreport from the US Department of Agriculture, which is expected to pare the\noutlook for US corn yields.\n\n"
-  },
-  {
-    "title": "Bahoshy: GCC Seeing a Pickup in VC Deal Activity",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fbahoshy-gcc-seeing-a-pickup-in-vc-deal-activity-video",
-    "published": "Mon, 12 Jan 2026 10:50:23 CST",
-    "summary": "Middle East venture capital funding hit record highs in 2025 as international\ncapital poured into the region, helping it defy the fundraising slump seen\nacross other emerging markets. The region’s startups received $3.8 billion\nacross 688 deals in 2025, up 74% compared to the previous year, according to\ndata from Magnitt, with Saudi Arabia and the United Arab Emirates attracting\nthe bulk of that interest. Philip Bahoshy, their Founder & CEO spoke to\nBloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche about\ntheir findings. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Citi’s Manthey Sees More Diversification Out of US Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fciti-s-manthey-sees-more-investors-diversifying-out-of-us-stocks",
     "published": "Mon, 12 Jan 2026 10:41:24 CST",
     "summary": "Investor diversification away from US equities will power on in 2026, driving\na further 10% gain for a benchmark global stock index, according to Citigroup\nInc. strategists.\n\n"
-  },
-  {
-    "title": "India Inflation Stays Low, Leaves Room for Interest Rate Cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Findia-inflation-stays-low-leaves-room-for-interest-rate-cut",
-    "published": "Mon, 12 Jan 2026 10:38:07 CST",
-    "summary": "India’s inflation accelerated in December while remaining below the Reserve\nBank of India’s target range of 2%-6%, leaving ample room for the central bank\nto cut interest rates at its February meet.\n\n"
-  },
-  {
-    "title": "TCS Profit Misses Estimates on Slow Tech Spending, Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Ftcs-profit-misses-estimates-in-sign-tech-spending-yet-to-pick-up",
-    "published": "Mon, 12 Jan 2026 10:31:05 CST",
-    "summary": "Tata Consultancy Services Ltd.’s quarterly earnings missed analysts’\nestimates, as corporations continue to limit spending on information\ntechnology projects in an era of geopolitical tensions and on one-time costs.\n\n"
   },
   {
     "title": "QXO Boosts Financing Deal to $3 Billion to Pursue M&amp;A",
@@ -202,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Feuropean-stocks-drop-as-concerns-over-fed-independence-grow",
     "published": "Mon, 12 Jan 2026 08:19:43 CST",
     "summary": "European stocks were muted near all-time highs as concerns over the\nindependence of the Federal Reserve weighed on investor confidence.\n\n"
-  },
-  {
-    "title": "US Envoy Says Trade Differences With India Will Be Resolved",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fus-envoy-says-trade-deal-differences-with-india-will-be-resolved",
-    "published": "Mon, 12 Jan 2026 07:47:05 CST",
-    "summary": "US and India are close partners and will resolve their differences, including\nover a long delayed trade deal, said Sergio Gor, the new US Ambassador to\nIndia appointed by President Donald Trump’s administration.\n\n"
   },
   {
     "title": "‘Sell America’ Trade Is Revived by Trump’s Latest Fed Attack",
@@ -228,12 +258,6 @@
     "summary": "Here’s what jobs have grown and declined the most over the years, based on\ninformation from the Census Bureau’s Current Population Survey.\n\n"
   },
   {
-    "title": "Emerging Stocks Rise as Asia Tech Shines; Rand Tracks Gold Gain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fem-asian-stocks-climb-after-us-jobs-report-korea-hits-new-high",
-    "published": "Mon, 12 Jan 2026 03:34:58 CST",
-    "summary": "Emerging-market stocks rebounded from their longest losing streak since\nOctober, lifted by gains in Chinese and South Korean tech, though currencies\nwere steady, shrugging off a dollar slide.\n\n"
-  },
-  {
     "title": "China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fmeta-manus-china-ai.html",
     "published": "Mon, 12 Jan 2026 03:34:30 CST",
@@ -244,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F11%2Fjerome-powell-criminal-investigation%2F",
     "published": "Mon, 12 Jan 2026 03:32:21 CST",
     "summary": "The Fed confirmed it received subpoenas related to Senate testimony of the\nFederal Reserve’s Jerome Powell about renovations to the headquarters.\n\n"
-  },
-  {
-    "title": "Copper Pushes Toward Record on Supply Concerns and Weaker Dollar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fcopper-pushes-toward-record-on-supply-concerns-and-weaker-dollar",
-    "published": "Mon, 12 Jan 2026 03:14:45 CST",
-    "summary": "Copper rallied toward a fresh record, as base metals began the week in bullish\nform aided by concerns over supplies and a weaker dollar.\n\n"
   },
   {
     "title": "Trump threatens to block ExxonMobil from Venezuela after CEO calls country ‘uninvestable’",
@@ -264,10 +282,22 @@
     "summary": "Fed chair accuses DoJ of threatening criminal charges over building renovation\nprojects because central bank defied Trump’s interest rate demands\n\nThe Department of Justice has opened a criminal investigation into Jerome\nPowell and the Federal Reserve, a significant escalation in Donald Trump’s\nextraordinary attack on the US central bank.\n\nPowell said the Department of Justice had served the Fed with grand jury\nsubpoenas on Friday, threatening a criminal indictment related to his\ntestimony before the Senate banking committee in June last year, regarding\nrenovations to the Fed’s historic office buildings in Washington DC.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html",
+    "published": "Mon, 12 Jan 2026 01:13:18 CST",
+    "summary": "Budget airlines in the U.S. like Allegiant and Sun Country have faced a surge\nin costs following the pandemic and the increase in domestic capacity.\n\n"
+  },
+  {
     "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
     "published": "Mon, 12 Jan 2026 00:40:09 CST",
     "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
+  },
+  {
+    "title": "Fed Served With DOJ Subpoenas; Powell Vows to Stand Firm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fpowell-says-justice-department-served-fed-with-subpoenas",
+    "published": "Mon, 12 Jan 2026 00:30:00 CST",
+    "summary": "Federal Reserve Chair Jerome Powell said the US central bank had been served\ngrand jury subpoenas from the Justice Department threatening a criminal\nindictment, a dramatic escalation of the Trump administration’s attacks on the\ninstitution.\n\n"
   },
   {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
@@ -282,16 +312,28 @@
     "summary": "Gold and silver climbed to records in a broad-based metals rally as the US\nJustice Department threatened the Federal Reserve with a criminal indictment,\nreviving concerns over the central bank’s independence.\n\n"
   },
   {
+    "title": "Oil Holds Gain as Iran Protests Offer Fresh Crude Supply Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12",
+    "published": "Sun, 11 Jan 2026 23:17:54 CST",
+    "summary": "Oil was steady near a one-month high as unrest in Iran raises the specter of\nsupply disruptions from OPEC’s fourth-biggest producer, while security forces\nsay they’re in full control of the country.\n\n"
+  },
+  {
     "title": "Podcasts Hit the Golden Globes: Nominees Include ‘Call Her Daddy’ and More",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fmedia%2Fgolden-globes-podcasts.html",
     "published": "Sun, 11 Jan 2026 23:16:14 CST",
     "summary": "The annual awards show will anoint a best podcast for the first time this\nyear, a sign of the industry’s increasing status in Hollywood.\n\n"
   },
   {
-    "title": "Stocks, Dollar Drop on Fed Fears as Gold Hits High: Markets Wrap",
+    "title": "Macquarie’s Latest Data Center Bet is a Tiny German Startup",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fmacquarie-loans-117-million-to-polarise-for-data-center-fit-outs",
+    "published": "Sun, 11 Jan 2026 23:01:00 CST",
+    "summary": "Macquarie Group Ltd. is lending as much as €117 million ($136 million) to\nGerman data center infrastructure startup Polarise GmbH, as a debt-fueled boom\nin the sector continues into 2026.\n\n"
+  },
+  {
+    "title": "Wall Street Jolted as Trump-Fed Fight Sinks Assets: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Fasian-stocks-set-to-track-us-gains-oil-in-focus-markets-wrap",
     "published": "Sun, 11 Jan 2026 22:23:30 CST",
-    "summary": "Stock futures and the dollar fell as investors trimmed exposure to US assets\nafter the Trump administration significantly escalated its attacks on the\nFederal Reserve. Longer-dated yields surged while gold hit a new high.\n\n"
+    "summary": "Wall Street kicked off the week on a sour note, with stocks, bonds and the\ndollar falling as traders rushed to the safety of precious metals after the\nTrump administration escalated its attack on the Federal Reserve, raising\nconcern about central bank independence.\n\n"
   },
   {
     "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
@@ -378,12 +420,6 @@
     "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
   },
   {
-    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
-    "published": "Sat, 10 Jan 2026 20:27:31 CST",
-    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
-  },
-  {
     "title": "Trump announces one-year 10% cap on credit card interest rates",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F10%2Ftrump-credit-card-interest-rate-cap",
     "published": "Sat, 10 Jan 2026 16:02:43 CST",
@@ -400,12 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fblackrock-investing-bull-market-portfolio-stocks.html",
     "published": "Sat, 10 Jan 2026 15:07:23 CST",
     "summary": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026,\nbut says investors should focus on targeted bets and turning cash into income.\n\n"
-  },
-  {
-    "title": "Banks criticize Trump’s push for 10 percent credit card interest rate cap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F10%2Ftrump-credit-card-interest-cap%2F",
-    "published": "Sat, 10 Jan 2026 14:27:14 CST",
-    "summary": "Financial institutions and other credit card issuers say the cap, which the\npresident wants in effect by Jan. 20, would limit consumers’ access to credit.\n\n"
   },
   {
     "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
@@ -690,12 +720,6 @@
     "summary": "The restaurant industry had mixed reactions to new federal nutrition\nguidelines, which recommend reduced intake of processed foods and sugary\ndrinks.\n\n"
   },
   {
-    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-exxon-mobil-conocophillips.html",
-    "published": "Thu, 08 Jan 2026 16:40:47 CST",
-    "summary": "Companies like Exxon Mobil and ConocoPhillips say that Venezuela owes them\nbillions of dollars for confiscating their assets two decades ago.\n\n"
-  },
-  {
     "title": "California's controversial wealth tax proposal leaves billionaires with little way out",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcalifornia-wealth-tax-proposal-leaves-billionaires-with-little-way-out.html",
     "published": "Thu, 08 Jan 2026 16:14:04 CST",
@@ -780,22 +804,10 @@
     "summary": "The president said he wanted Congress to stop the purchases by big investors,\nwhich have driven up rents and set obstacles for first-time buyers in some\nmarkets.\n\n"
   },
   {
-    "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Fus%2Fpolitics%2Ftrump-minnesota-fraud.html",
-    "published": "Wed, 07 Jan 2026 21:52:12 CST",
-    "summary": "The White House is intensifying and broadening its probes into fraud in states\nled by prominent Democrats.\n\n"
-  },
-  {
     "title": "Alaska Airlines to buy more than 100 Boeing jets in carrier's biggest order ever",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Falaska-airlines-boeing-order-737-10-dreamliners.html",
     "published": "Wed, 07 Jan 2026 21:47:48 CST",
     "summary": "Alaska Airlines orders 105 Boeing 737 Max 10s and five 787-10 Dreamliners in\ncarrier's biggest order ever.\n\n"
-  },
-  {
-    "title": "How The Times Is Drawing on Over a Century of Reporting in Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F07%2Finsider%2Fvenezuela-new-york-times.html",
-    "published": "Wed, 07 Jan 2026 20:43:39 CST",
-    "summary": "The New York Times has been on the ground in the country since at least the\n1880s, through celebration, suffering and political turmoil.\n\n"
   },
   {
     "title": "Bruce Crawford, Arts-Loving Adman Who Led the Met Opera, Dies at 96",
@@ -870,28 +882,10 @@
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
-    "title": "Private equity management fees hit new low in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fprivate-equity-management-fees-new-low.html",
-    "published": "Tue, 06 Jan 2026 16:20:59 CST",
-    "summary": "Managers have been offering discounts amid difficulty fundraising, and capital\nis increasingly going to bigger funds, dragging down the mean.\n\n"
-  },
-  {
-    "title": "Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvista-equity-reinventing-companies-use-ai.html",
-    "published": "Tue, 06 Jan 2026 15:49:25 CST",
-    "summary": "Vista's aggressive bet on applications and agentic software highlights one of\nthe fastest-growing corners of the AI trade and alternative investments.\n\n"
-  },
-  {
     "title": "Ford reports best annual U.S. vehicle sales since 2019",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
     "published": "Tue, 06 Jan 2026 15:45:22 CST",
     "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
-  },
-  {
-    "title": "Manhattan office leasing in the fourth quarter was the strongest in 6 years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fmanhattan-q4-office-leasing-rebound.html",
-    "published": "Tue, 06 Jan 2026 15:15:17 CST",
-    "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019\nand just 2.4% below 2019's pre-pandemic total.\n\n"
   },
   {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
@@ -946,12 +940,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fus%2Fpolitics%2Fsupreme-court-study-rich-poor.html",
     "published": "Mon, 05 Jan 2026 10:01:54 CST",
     "summary": "A new study found that the court’s Republican appointees voted for the\nwealthier side in cases 70 percent of the time in 2022, up from 45 percent in\n1953.\n\n"
-  },
-  {
-    "title": "China decries U.S. action in Venezuela — even as it guards billions at stake",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fchina-response-us-venezuela-strike-economic-interests.html",
-    "published": "Mon, 05 Jan 2026 09:52:22 CST",
-    "summary": "China's immediate priority in the wake of the U.S. attack on Venezuela is to\nprotect economic interests, analysts said.\n\n"
   },
   {
     "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
