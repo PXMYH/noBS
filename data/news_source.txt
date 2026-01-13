@@ -1,9 +1,39 @@
 [
   {
+    "title": "Yen Tumbles Following Report Japan PM Plans Snap Poll",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fyen-falls-to-weakest-level-since-july-2024-on-political-risks",
+    "published": "Tue, 13 Jan 2026 04:25:10 CST",
+    "summary": "The yen dropped to its weakest level against the dollar since July 2024, as\nlosses accelerated following speculation that Prime Minister Sanae Takaichi\nmay soon call a snap election.\n\n"
+  },
+  {
+    "title": "Royal Commission Into Bondi Terror Attack -What It Means",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Froyal-commission-into-bondi-terror-attack-what-it-means-video",
+    "published": "Tue, 13 Jan 2026 04:22:56 CST",
+    "summary": "Australian Prime Minister Anthony Albanese has bowed to pressure, calling a\nRoyal Commission into the country’s deadliest terrorist attack -- when gunmen\nkilled 15 people during a Hanukkah celebration at Sydney’s Bondi Beach. Scott\nPrasser, author of \"Royal Commissions and Public Inquiries in Australia,\" says\nthe real test will be how the inquiry is conducted. He breaks down what’s at\nstake in the probe on \"Bloomberg: The Asia Trade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-asia-trade-1-13-26-video",
+    "published": "Tue, 13 Jan 2026 04:20:01 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\nOn the interview with UBS CEO Ermotti at 00:49:51:14: UBS clarifies that it is\nnot adding 100 staff members specifically to China. The target is to hire 100\nfront-office employees across the broader APAC wealth management unit this\nyear. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Aluminum Near Record High and Tin Extends Surge on Supply Angst",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Faluminum-near-record-high-and-tin-extends-surge-on-supply-angst",
+    "published": "Tue, 13 Jan 2026 04:13:58 CST",
+    "summary": "Aluminum traded near its highest level since early 2022, and tin extended a\nblistering rally, as expectations for tighter global supplies fueled a bullish\nmood across metals markets.\n\n"
+  },
+  {
     "title": "Swiss Banking Reforms Go Too Far, Says UBS CEO Ermotti",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fswiss-banking-reforms-go-too-far-says-ubs-ceo-ermotti",
     "published": "Tue, 13 Jan 2026 04:13:33 CST",
     "summary": "UBS CEO Sergio Ermotti says the proposed new banking reforms in Switzerland go\n“too far” and that the lender needs a competitive regulatory framework to\ngrow. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "CME to Shift Precious-Metals Margin Settings as Prices Swing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcme-to-shift-precious-metals-margin-settings-as-prices-swing",
+    "published": "Tue, 13 Jan 2026 04:09:22 CST",
+    "summary": "CME Group will change the way it sets margins for gold, silver, platinum and\npalladium futures after a surge in prices and volatile trading.\n\n"
   },
   {
     "title": "The campaign to persuade Trump to investigate the Federal Reserve chief",
@@ -138,34 +168,10 @@
     "summary": "The Justice Department’s decision to open up a criminal investigation of\nJerome H. Powell, the chair of the Federal Reserve, is a major escalation in\nthe pressure campaign against the central bank to cut interest rates.\n\n"
   },
   {
-    "title": "Japan Bonds Slump as Renewed Political Risks Spook Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapan-bonds-slump-as-renewed-political-risks-spook-investors",
-    "published": "Tue, 13 Jan 2026 00:18:37 CST",
-    "summary": "Japanese government bonds dropped on Tuesday as rising political risks\nreignited investor concerns over fiscal policy.\n\n"
-  },
-  {
-    "title": "China Examines Foreign ETF Trades After Jane Street India Probe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchina-examines-foreign-etf-trades-after-jane-street-india-probe",
-    "published": "Tue, 13 Jan 2026 00:16:21 CST",
-    "summary": "China is scrutinizing how Jane Street Group and other foreign firms\nparticipate in its $859 billion exchange-traded fund market, seeking\ninformation on such activities carried out by brokers, according to people\nwith knowledge of the matter.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Citigroup, Abercrombie, Vistra, Duolingo and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fstocks-making-the-biggest-moves-midday-c-anf-vst-duol.html",
     "published": "Tue, 13 Jan 2026 00:10:33 CST",
     "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
-    "title": "Alnylam Pharmaceuticals CEO on Development Goals, Profitability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Falnylam-pharmaceuticals-ceo-on-development-goals-profit-video",
-    "published": "Mon, 12 Jan 2026 23:58:43 CST",
-    "summary": "Alnylam Pharmaceuticals CEO Yvonne Greenstreet discusses the company's\ndevelopment goals and being on the verge of profitability during an interview\nat the JPM Health-Care Conference in San Francisco. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Elanco CEO: Gaining Market Share Via ‘Major' Innovations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Felanco-ceo-gaining-market-share-via-major-innovations-video",
-    "published": "Mon, 12 Jan 2026 23:51:33 CST",
-    "summary": "Jeff Simmons, Elanco Animal Health CEO, discusses pet-care growth with Katie\nGreifeld at the JPMorgan Healthcare Conference on “The Close.” He says the\ncompany is focused on pets, cattle and poultry. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Gold Steadies After Surging on Worries Over Fed Independence",
@@ -210,7 +216,7 @@
     "summary": "GigaDevice Semiconductor Inc. shares rose in its Hong Kong debut, underscoring\ngrowing investor interest in Chinese stocks related to artificial\nintelligence.\n\n"
   },
   {
-    "title": "Asian Shares Rise to Record, Yen Hits One-Year Low: Markets Wrap",
+    "title": "Asian Shares Hit Record, Yen Falls to 2024 Levels: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
     "summary": "Asian shares climbed to a record as cheaper valuations and regional growth\nprospects drew investors broadening their focus beyond US markets.\n\n"
@@ -262,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fhealth%2Fdavid-mitchell-dead.html",
     "published": "Mon, 12 Jan 2026 20:41:22 CST",
     "summary": "After receiving a diagnosis of terminal cancer, he used his experience in\npublic relations to draw attention to the skyrocketing cost of medication.\n\n"
-  },
-  {
-    "title": "Ex-Lazard Banker’s Insider Tips Reaped $41 Million, US Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fex-lazard-banker-s-insider-tips-reaped-41-million-haul-us-says",
-    "published": "Mon, 12 Jan 2026 20:22:36 CST",
-    "summary": "A former dealmaker at Lazard Ltd., one of Wall Street’s most prominent\ninvestment banks, is accused by US authorities of feeding tips on health-care\ndeals to a friend’s network of insider traders, who generated $41 million of\nillicit profits.\n\n"
   },
   {
     "title": "Why is Trump’s justice department investigating Fed chair Jerome Powell?",

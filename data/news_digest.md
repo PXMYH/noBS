@@ -6,7 +6,18 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines this week. In Asia, South Korea’s stock exchange plans to extend trading hours as its benchmark index surges toward President Lee Jae Myung’s ambitious 5,000-point target, reflecting regional economic optimism. Meanwhile, Japan’s markets hit record highs amid speculation that Prime Minister Sanae Takaichi may call a snap election, signaling potential political volatility. In Latin America, President Trump’s aggressive push to revive Venezuela’s oil sector faces skepticism from U.S. energy executives, who remain wary of the region’s instability. The move, part of a broader strategy to counter China’s deep economic influence in the region, risks exacerbating a global oil glut and undermining U.S. shale producers already struggling with low prices. Elsewhere, China’s diplomatic tensions with the UK resurface after Beijing threatened to cancel trade talks over a British minister’s visit to Taiwan, underscoring the fragile state of international relations. In Ukraine, businesses like vodka maker Nemiroff continue to defy wartime challenges, expanding exports despite ongoing Russian attacks, highlighting resilience amid conflict.
+{
+    "summary": "Geopolitical tensions and economic shifts dominate global headlines this week. In East Asia, South Korea’s stock exchange plans to extend trading hours as its benchmark index surges toward President Lee Jae Myung’s ambitious 5,000-point target, reflecting robust market confidence. Meanwhile, Japan’s stock market hits record highs amid speculation that Prime Minister Sanae Takaichi may call a snap election, signaling potential political volatility ahead. The yen and government bonds weaken as investors brace for possible policy changes, underscoring the interplay between politics and financial markets in the region.
+
+On the energy front, President Trump’s aggressive push to revive Venezuela’s oil sector faces skepticism from major U.S. oil executives, who remain wary of the country’s political instability and economic risks. The move, part of a broader strategy to counter China’s deepening influence in Latin America, could exacerbate a global oil supply glut, further pressuring U.S. shale producers already grappling with four-year-low prices. Meanwhile, China’s dominance in the region looms large, with Beijing closely monitoring Trump’s maneuvers as it maintains its role as the leading lender and trading partner in Latin America. Elsewhere, Ukraine’s resilience shines as businesses like Nemiroff vodka expand exports despite ongoing Russian bombings, while diplomatic tensions flare after China threatened to cancel UK trade talks over a British minister’s visit to Taiwan, highlighting the fragile balance in international relations.",
+    "key_stories": [
+        "South Korea extends trading hours as stocks hit record highs",
+        "Trump’s Venezuela oil push meets industry resistance amid China’s Latin America dominance",
+        "China threatens UK trade talks over Taiwan visit, escalating diplomatic tensions",
+        "Japan’s market surge fuels snap election speculation under PM Takaichi",
+        "Ukrainian businesses defy war, expanding exports despite bombings"
+    ]
+}
 
 **Top Articles:**
 - [Korea Bourse Plans Longer Trading With Stocks on Record Run](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fkorea-exchange-plans-longer-trading-as-kospi-extends-record-run)
@@ -21,37 +32,37 @@ Geopolitical tensions and economic shifts dominate global headlines this week. I
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, central bank scrutiny, and shifting investor sentiment. The Federal Reserve faces unprecedented pressure as the U.S. Justice Department launches a criminal investigation into Chair Jerome Powell, sparking concerns over the central bank’s independence. Former Fed officials and Treasury Secretary Janet Yellen condemn the probe, warning of potential economic instability. Meanwhile, Asian markets hit record highs, buoyed by regional growth prospects, while Japan’s bonds slump amid political risks. In corporate news, Hyundai Motor’s stock surges on robotics enthusiasm, and GigaDevice Semiconductor jumps 54% in its Hong Kong debut. The South Korean won weakens for a ninth consecutive day, reflecting capital outflows, while India’s debt fund managers adopt a cautious stance amid tightening monetary conditions. Trade tensions persist as China scrutinizes foreign ETF trades and Japan seeks assurances on dual-use export curbs.
+Global markets are navigating a mix of geopolitical tensions, central bank scrutiny, and shifting investor sentiment. The Federal Reserve faces unprecedented pressure as the U.S. Justice Department launches a criminal investigation into Chair Jerome Powell, sparking bipartisan backlash and concerns over the central bank's independence. Former Fed officials and Treasury Secretary Janet Yellen warn the probe could destabilize financial markets, though traders remain cautious, with gold steadying after an initial surge. Meanwhile, Asian equities hit record highs, buoyed by regional growth prospects, while the Korean won weakens amid prolonged outflows. In corporate news, Hyundai Motor's robotics push drives a $24 billion market value gain, and GigaDevice Semiconductor soars 54% in its Hong Kong IPO, reflecting strong AI sector interest. Oil prices edge higher after President Trump threatens tariffs on Iranian crude buyers, adding to energy market volatility. Elsewhere, UBS CEO Sergio Ermotti criticizes Swiss banking reforms as overly restrictive, and Japan's investors dump UK bonds amid fiscal concerns, signaling broader unease in sovereign debt markets.
 
 **Top Articles:**
+- [Royal Commission Into Bondi Terror Attack -What It Means](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Froyal-commission-into-bondi-terror-attack-what-it-means-video)
+- [Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-asia-trade-1-13-26-video)
 - [Swiss Banking Reforms Go Too Far, Says UBS CEO Ermotti](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fswiss-banking-reforms-go-too-far-says-ubs-ceo-ermotti)
+- [CME to Shift Precious-Metals Margin Settings as Prices Swing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcme-to-shift-precious-metals-margin-settings-as-prices-swing)
 - [Fmr. Philadelphia Fed President on Fed Independence](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffmr-philadelphia-fed-president-on-fed-independence-video)
-- [Japanese Funds Sell Most UK Bonds Since 2011 Amid Fiscal Concern](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapanese-funds-sell-most-uk-bonds-since-2011-amid-fiscal-concern)
-- [Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frobotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)
-- [Japan Firms Seek Assurance China Curbs Won’t Hit Civilian Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapan-firms-seek-assurance-china-curbs-won-t-hit-civilian-trade)
 
-**Sources**: archive.ph (86 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Google's parent company, Alphabet, hits a $4 trillion valuation following a landmark AI deal with Apple to power Siri with Gemini, propelling it past Apple as the world's second-most valuable company. Meanwhile, Elon Musk's AI chatbot, Grok, faces regulatory scrutiny in the UK and bans in Malaysia and Indonesia over sexually explicit AI-generated images, prompting X to restrict image requests to paid subscribers. In corporate moves, JPMorgan's asset management arm ditches controversial proxy advisors in favor of AI-driven analysis, while Boeing secures its largest order ever from Alaska Airlines for 110 new jets. The tech sector's surge contrasts with broader economic concerns, as U.S. job growth slows and Trump's policies, including a proposed 10% cap on credit card interest rates, spark debate. Elsewhere, automakers like Ford and Stellantis adjust strategies amid an EV slowdown, while China's property sector shows signs of strain with Vanke seeking bond extensions.
+Tech and AI dominate headlines this week, with Google's parent company Alphabet hitting a historic $4 trillion valuation after striking a deal with Apple to power Siri with its Gemini AI. The milestone propels Alphabet past Apple as the world's second-most valuable company, underscoring the AI boom's financial impact. Meanwhile, Elon Musk's AI chatbot Grok faces regulatory scrutiny in the UK and bans in Malaysia and Indonesia over sexually explicit AI-generated images, raising concerns about content moderation in generative AI. In corporate moves, JPMorgan Chase CEO Jamie Dimon marks 20 years at the helm, sparking succession questions, while Boeing secures its largest-ever order from Alaska Airlines for 110 jets, signaling confidence in aviation demand despite broader EV slowdowns. On the policy front, U.S. lawmakers revive efforts to pass comprehensive crypto legislation, and Trump's administration nears a trade deal with Taiwan, including commitments from TSMC to expand U.S. chip manufacturing. The week also saw labor unrest, with nearly 15,000 New York City nurses striking over staffing and benefits, and mixed economic signals as U.S. hiring slows but retail posts modest holiday growth.
 
 **Top Articles:**
+- [Yen Tumbles Following Report Japan PM Plans Snap Poll](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fyen-falls-to-weakest-level-since-july-2024-on-political-risks)
+- [Aluminum Near Record High and Tin Extends Surge on Supply Angst](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Faluminum-near-record-high-and-tin-extends-surge-on-supply-angst)
 - [The campaign to persuade Trump to investigate the Federal Reserve chief](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F)
 - [Trump Administration Nears Trade Deal With Taiwan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feconomy%2Ftrump-taiwan-deal.html)
 - [UBS’ Fang on China Markets, Investment Strategy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fubs-fang-on-china-markets-investment-strategy-video)
-- [Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html)
-- [Labor Secretary’s Aides Placed on Leave in Misconduct Investigation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Flori-chavez-deremer-misconduct-investigation.html)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (78 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocer Aldi is accelerating its expansion in the U.S., planning to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The move underscores a broader shift in grocery shopping habits, with discounters gaining ground against traditional supermarkets by attracting shoppers across income levels. Aldi's aggressive growth strategy highlights the intensifying competition in the retail sector, where affordability and efficiency are becoming key drivers of consumer loyalty. The expansion also reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize savings without sacrificing quality.
+Discount grocery chain Aldi is accelerating its expansion in the U.S., announcing plans to open more than 180 new stores in 2026 as consumers across income levels prioritize value amid economic pressures. The aggressive growth underscores the intensifying competition in the grocery sector, with discounters increasingly capturing market share from traditional supermarkets. Aldi's strategy reflects a broader shift in consumer behavior, as shoppers seek affordable options without sacrificing quality, further reshaping the retail landscape.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,7 +73,7 @@ Discount grocer Aldi is accelerating its expansion in the U.S., planning to open
 
 ## 📰 Other News
 
-Global economic and corporate developments dominate this week’s news, with China’s market volatility and U.S. business moves taking center stage. Chinese rocket-related stocks plummet after warnings of an 'irrational' rally, while UBS economists weigh in on China’s 2026 growth challenges. In the U.S., Allegiant’s $1.5 billion acquisition of Sun Country highlights consolidation in the budget airline sector, and Orsted secures a legal victory to resume a wind farm project despite Trump-era opposition. Meanwhile, cultural shifts emerge as podcasts gain Golden Globe recognition, and Neon leads nominations with international films, signaling Hollywood’s evolving priorities. On the social front, a new crash test dummy aims to improve car safety for women, and California’s proposed billionaire tax sparks debate over wealth redistribution. Housing affordability remains a pressing issue, with reports suggesting easing market conditions but persistent challenges for middle-class buyers.
+This week’s news highlights a mix of economic shifts, corporate maneuvering, and cultural milestones. In business, Chinese rocket stocks slumped after warnings of an overinflated rally, while UBS economists weighed in on China’s 2026 growth challenges. Meanwhile, Allegiant’s $1.5 billion acquisition of Sun Country underscores consolidation in the budget airline sector, and Paramount’s aggressive bid for Warner Bros. Discovery signals escalating media industry battles. On the policy front, California’s proposed billionaire tax and the Supreme Court’s perceived pro-wealth bias in rulings reflect growing debates over economic inequality. Culturally, the Golden Globes’ first-ever podcast nominations and Neon’s dominance with non-English films mark a turning point for global entertainment. Human interest stories, like David Mitchell’s fight against drug pricing and a new female crash test dummy aimed at improving auto safety, add depth to the week’s developments.
 
 **Top Articles:**
 - [Chinese Rocket Shares Slump After Warnings on ‘Irrational’ Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchinese-rocket-shares-fall-after-warnings-on-irrational-rally)
@@ -75,4 +86,4 @@ Global economic and corporate developments dominate this week’s news, with Chi
 
 ---
 
-*Digest generated on January 13, 2026 at 04:26 AM *
+*Digest generated on January 13, 2026 at 05:01 AM *
