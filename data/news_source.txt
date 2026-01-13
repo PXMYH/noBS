@@ -1,27 +1,129 @@
 [
   {
+    "title": "Inflation Ended 2025 on Subdued Note",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2Finflation",
+    "published": "Tue, 13 Jan 2026 15:43:22 CST",
+    "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
+  },
+  {
+    "title": "CPI Report Shows Food Prices Rose Sharply in December",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation-cpi-report-food-prices.html",
+    "published": "Tue, 13 Jan 2026 15:43:04 CST",
+    "summary": "Beef, coffee and produce are among the items that have gotten more expensive\nrecently, inflation data on Tuesday showed.\n\n"
+  },
+  {
+    "title": "U.S. lost more immigrants than it gained in 2025, new estimate shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Ftrump-immigration-economy-net-negative-migration%2F",
+    "published": "Tue, 13 Jan 2026 15:43:02 CST",
+    "summary": "Trump’s immigration policy has led to a significant decline in U.S.\nimmigration rates, with net migration falling below zero for the first time in\n50 years, according to a new estimate.\n\n"
+  },
+  {
+    "title": "Data center REIT CEO says real estate ‘not in an oversupply state’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdata-center-reit-ceo-andy-power-not-oversupplied.html",
+    "published": "Tue, 13 Jan 2026 15:41:13 CST",
+    "summary": "Andy Power, CEO of Digital Realty says data center real estate is not\noversupplied as hyperscalers like Nvidia, Amazon, Google and Meta announce\nmore projects.\n\n"
+  },
+  {
+    "title": "What to know about the report.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2F13biz-inflation-blog-update",
+    "published": "Tue, 13 Jan 2026 15:40:17 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Hedge Fund Anson Bets on Canada’s Real Estate After Scoring Wins",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhedge-fund-anson-bets-on-canada-s-real-estate-after-scoring-wins",
+    "published": "Tue, 13 Jan 2026 15:39:59 CST",
+    "summary": "Anson Funds Management is bullish on Canada’s real estate market after its\nflagship fund doubled its returns to 21.2% last year, thanks to big wins on\nsome of its housing bets.\n\n"
+  },
+  {
+    "title": "Orsted Moves to Save Its U.S, Wind Farm Projects",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Forsted-wind-farms-trump.html",
+    "published": "Tue, 13 Jan 2026 15:38:43 CST",
+    "summary": "Orsted’s C.E.O. says it plans to move quickly to complete a $6.2 billion wind\nfarm off Rhode Island after a judge struck down President Trump’s bid to halt\nit.\n\n"
+  },
+  {
+    "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
+    "published": "Tue, 13 Jan 2026 15:23:16 CST",
+    "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
+  },
+  {
+    "title": "TotalEnergies CEO Echoes Exxon’s Caution on Venezuela Oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftotalenergies-ceo-echoes-exxon-s-caution-on-venezuela-oil",
+    "published": "Tue, 13 Jan 2026 15:21:32 CST",
+    "summary": "Reviving Venezuela’s oil industry will take years and cost billions of\ndollars, limiting the country’s impact on global markets in 2026, according to\nTotalEnergies SE boss Patrick Pouyanne.\n\n"
+  },
+  {
+    "title": "Price growth held firm in December, capping a year of persistent inflation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Finflation-december-2025-cpi-fed%2F",
+    "published": "Tue, 13 Jan 2026 15:20:49 CST",
+    "summary": "Overall, prices were 2.7 percent higher than they were a year ago, according\nto the Bureau of Labor Statistics.\n\n"
+  },
+  {
+    "title": "New Home Sales Hold Close to Fastest Pace Since 2023",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fnew-home-sales-hold-close-to-fastest-pace-since-2023-video",
+    "published": "Tue, 13 Jan 2026 15:19:41 CST",
+    "summary": "Sales of new homes in the US were little changed in October near the strongest\npace since 2023. New single-family home sales eased 0.1% to an annual rate of\n737,000 following a 3.8% September increase, according to government data.\nMike McKee reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Rockwool Shares Plunge After Putin Seizes Its Russian Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frockwool-shares-plunge-after-putin-seizes-its-russian-assets",
+    "published": "Tue, 13 Jan 2026 15:16:06 CST",
+    "summary": "Rockwool A/S fell the most in almost five months in Copenhagen after President\nVladimir Putin ordered the seizure of the Danish company’s Russian assets.\n\n"
+  },
+  {
+    "title": "Fed Has Scope to Cut Amid Earnings Growth: Strategist Amoroso",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffed-can-cut-amid-earnings-growth-strategist-amoroso-video",
+    "published": "Tue, 13 Jan 2026 15:13:15 CST",
+    "summary": "Anastasia Amoroso, Partners Group chief investment strategist of private\nwealth, says corporate earnings could rise close to 12%. Speaking on\n\"Bloomberg Open Interest,\" Amoroso also says the Federal Reserve has scope to\ncut interest rates and discusses the outperformance of precious metals.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Adobe Analysts Turn Most Bearish Since 2013 as AI Threat Looms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fadobe-analysts-turn-most-bearish-since-2013-as-ai-threat-looms",
+    "published": "Tue, 13 Jan 2026 15:12:49 CST",
+    "summary": "Concern that Adobe Inc. will struggle in the artificial-intelligence era has\ndriven Wall Street analysts’ view on the maker of software for creative\nprofessionals to its most pessimistic in more than a dozen years.\n\n"
+  },
+  {
+    "title": "Fed Is Comfortable Pausing Here, Pimco's Wilding Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffed-is-comfortable-pausing-here-pimco-s-wilding-says-video",
+    "published": "Tue, 13 Jan 2026 15:05:44 CST",
+    "summary": "Pimco Economist Tiffany Wilding calls today's core consumer price index report\nprovides \"pretty confusing\" numbers and says the Federal Reserve is\ncomfortable pausing on interest rate cuts. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "S&amp;P 500 Fluctuates Following Better Than Expected US Inflation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fs-p-500-fluctuates-following-better-than-expected-us-inflation",
+    "published": "Tue, 13 Jan 2026 14:57:22 CST",
+    "summary": "US stocks fluctuate on Tuesday as traders examine the latest inflation data\nand fresh earnings reports.\n\n"
+  },
+  {
+    "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fjpmorgan-earnings-report.html",
+    "published": "Tue, 13 Jan 2026 14:57:07 CST",
+    "summary": "The nation’s largest bank earned $57 billion in 2025, and Jamie Dimon, its\nchief executive, said “the benefits of deregulation” would help in the future.\n\n"
+  },
+  {
+    "title": "Gourmet Magazine Is Back. It’s Not Exactly Sanctioned.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fgourmet-magazine-newsletter.html",
+    "published": "Tue, 13 Jan 2026 14:51:48 CST",
+    "summary": "The defunct food publication is re-emerging as a newsletter, with new\nleadership and zero approval from its original owner.\n\n"
+  },
+  {
     "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html",
     "published": "Tue, 13 Jan 2026 14:46:23 CST",
     "summary": "Co-founder Jaden Xie told CNBC that the company is about to close another\nfinancing round, after raising $100 million in the last 6 months.\n\n"
   },
   {
-    "title": "CPI Report Shows Food Prices Rose Sharply in December",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation-cpi-report-food-prices.html",
-    "published": "Tue, 13 Jan 2026 14:45:15 CST",
-    "summary": "Beef, coffee and produce are among the items that have gotten more expensive\nrecently, inflation data on Tuesday showed.\n\n"
+    "title": "ArcelorMittal Hit With €7 Billion Claim Over Troubled Steelworks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Farcelormittal-hit-with-7-billion-claim-over-troubled-steelworks",
+    "published": "Tue, 13 Jan 2026 14:45:45 CST",
+    "summary": "The state-appointed administrators of Italy’s largest steelworks sued former\nowner ArcelorMittal SA, seeking €7 billion ($8.2 billion) for alleged\n“mismanagement” of the beleaguered plant.\n\n"
   },
   {
     "title": "Here Are the Key Takeaways From the US CPI Report for December",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-cpi-report-december-2025-key-takeaways-on-inflation-core-measure",
     "published": "Tue, 13 Jan 2026 14:39:53 CST",
     "summary": "Here are the key takeaways from the US consumer price index report for\nDecember, released Tuesday:\n\n"
-  },
-  {
-    "title": "Gourmet Magazine Is Back. It’s Not Exactly Sanctioned.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fgourmet-magazine-newsletter.html",
-    "published": "Tue, 13 Jan 2026 14:39:41 CST",
-    "summary": "The defunct food publication is re-emerging as a newsletter, with new\nleadership and zero approval from its original owner.\n\n"
   },
   {
     "title": "Global economy holding steady despite threats, thanks to U.S. performance",
@@ -48,6 +150,12 @@
     "summary": "China will propose easing some restrictions on Canadian rapeseed products\nduring a visit to the country by Prime Minister Mark Carney, provided his\ngovernment relaxes tariffs on Chinese-made electric vehicles.\n\n"
   },
   {
+    "title": "Zambian Kwacha Ends World-Beating Run on Corporate Dollar Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fzambian-kwacha-ends-world-beating-run-on-corporate-dollar-demand",
+    "published": "Tue, 13 Jan 2026 14:19:16 CST",
+    "summary": "Zambia’s kwacha weakened against the dollar for the first time in 18 sessions,\nending a world-beating rally that had delivered double-digit gains against the\nUS currency.\n\n"
+  },
+  {
     "title": "Beef Spotlighted in US Food Guidelines Is Pricier Than Ever",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbeef-spotlighted-in-us-food-guidelines-is-pricier-than-ever",
     "published": "Tue, 13 Jan 2026 14:13:39 CST",
@@ -64,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Ftrump-powell-central-bank-support.html",
     "published": "Tue, 13 Jan 2026 13:59:30 CST",
     "summary": "The defense comes after Jerome Powell pushed back on what he described as\npressure by the Trump administration to cut interest rates in the United\nStates.\n\n"
-  },
-  {
-    "title": "What to know about the report.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2Finflation",
-    "published": "Tue, 13 Jan 2026 13:58:57 CST",
-    "summary": "\n\n"
   },
   {
     "title": "Microsoft Pledges to Pay More for Electricity, Drawing Praise From Trump",
@@ -102,22 +204,10 @@
     "summary": "Nine governors including Bank of England’s Andrew Bailey and ECB’s Christine\nLagarde say independence is critical\n\n  * Business live – latest updates\n\nGlobal central banks have issued an extraordinary joint statement offering\n“full solidarity” to the US Federal Reserve chair, Jerome Powell, in the face\nof the latest threat to his independence from Donald Trump’s White House.\n\n“The independence of central banks is a cornerstone of price, financial and\neconomic stability in the interest of the citizens that we serve. It is\ntherefore critical to preserve that independence, with full respect for the\nrule of law and democratic accountability,” the statement said.\n\nContinue reading...\n\n"
   },
   {
-    "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fjpmorgan-earnings-report.html",
-    "published": "Tue, 13 Jan 2026 13:46:48 CST",
-    "summary": "The nation’s largest bank earned $57 billion in 2025, but Jamie Dimon, its\nchief executive, said “the benefits of deregulation” would help in the future.\n\n"
-  },
-  {
     "title": "Traders’ Bets on Fed Cut by June Reinforced by Softer Inflation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftreasuries-jump-as-softer-inflation-backs-bets-on-a-june-fed-cut",
     "published": "Tue, 13 Jan 2026 13:44:32 CST",
     "summary": "Bond traders’ expectations were bolstered for the Federal Reserve to lower\ninterest rates by mid-year after a weaker-than-expected US inflation reading.\n\n"
-  },
-  {
-    "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
-    "published": "Tue, 13 Jan 2026 13:41:13 CST",
-    "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
@@ -132,12 +222,6 @@
     "summary": "European defense stocks might be approaching a peak in their valuations, warn\nDeustche Bank AG analysts, who are among the few contrarian voices on a sector\nthat has already surged more than 20% this year.\n\n"
   },
   {
-    "title": "Price growth held firm in December, capping a year of persistent inflation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Finflation-december-2025-cpi-fed%2F",
-    "published": "Tue, 13 Jan 2026 13:35:30 CST",
-    "summary": "Overall, prices were 2.7 percent higher than they were a year ago, according\nto the Bureau of Labor Statistics.\n\n"
-  },
-  {
     "title": "Colombia Rushes to Sell Dollar Debt Ahead of Busy Election Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcolombia-rushes-to-sell-dollar-debt-ahead-of-busy-election-year",
     "published": "Tue, 13 Jan 2026 13:33:24 CST",
@@ -150,34 +234,16 @@
     "summary": "A key gauge of underlying price pressures in the Czech Republic remains\nelevated and requires tight monetary policy, even as headline inflation may\nundershoot the target this year, according to the central bank.\n\n"
   },
   {
-    "title": "Wall Street Sells $3.8 Billion Complex Bet on Goldilocks Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fwall-street-sells-3-8-billion-complex-bet-on-goldilocks-markets",
-    "published": "Tue, 13 Jan 2026 13:15:38 CST",
-    "summary": "A flurry of trades tied to a niche S&P 500 index is revealing a deeper wager\ncoursing through Wall Street: a bet that interest rates are headed lower.\n\n"
-  },
-  {
-    "title": "US Bancorp to Buy Brokerage BTIG for $1 Billion in Trading Push",
+    "title": "U.S. Bank to Buy BTIG for Up to $1 Billion in Trading Push",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-bancorp-to-buy-brokerage-btig-for-1-billion-in-trading-push",
     "published": "Tue, 13 Jan 2026 13:12:13 CST",
-    "summary": "US Bancorp, the country’s largest regional bank, will acquire brokerage BTIG\nfor $1 billion as it looks to push deeper into investment banking and trading.\n\n"
-  },
-  {
-    "title": "Extreme Networks Weighs Buying Ruckus from CommScope",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fextreme-networks-weighs-buying-ruckus-from-commscope",
-    "published": "Tue, 13 Jan 2026 13:12:10 CST",
-    "summary": "Extreme Networks Inc. is exploring an acquisition of Ruckus Networks from\nCommScope Holding Co., according to people familiar with the matter.\n\n"
+    "summary": "U.S. Bancorp, the country’s largest regional bank, will acquire brokerage BTIG\nfor as much as $1 billion as it looks to push deeper into investment banking\nand trading.\n\n"
   },
   {
     "title": "The Powell Defense Grows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fdealbook%2Fpowell-federal-reserve-trump-investigation.html",
     "published": "Tue, 13 Jan 2026 13:09:26 CST",
     "summary": "Former Federal Reserve chiefs, Republican senators and — perhaps most\nimportant, many bond investors — raised concerns about an investigation into\nthe bank’s leader.\n\n"
-  },
-  {
-    "title": "Russian Crude Cargoes Pile Up on Tankers as Deliveries Falter",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frussia-s-oil-exports-pile-up-on-tankers-as-deliveries-falter",
-    "published": "Tue, 13 Jan 2026 13:05:33 CST",
-    "summary": "At least 12 vessels full of Urals idle off Omani coast, more are anchored near\nChina\n\n"
   },
   {
     "title": "Fanatics to launch sports media and entertainment studio",
@@ -198,52 +264,16 @@
     "summary": "\n\n"
   },
   {
-    "title": "Europe’s Gas and Power Hedge Funds Are Set to Cash In",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-13%2Feurope-s-gas-and-power-hedge-funds-set-to-cash-in-from-round-the-clock-trading",
-    "published": "Tue, 13 Jan 2026 12:51:28 CST",
-    "summary": "A shift to round-the-clock trading could offer a chance to make money again\njust as profits ebb.\n\n"
-  },
-  {
-    "title": "Ukraine Firms Brace for $3 Billion Debt Wall as Strikes Increase",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fukraine-firms-brace-for-3-billion-debt-wall-as-strikes-increase",
-    "published": "Tue, 13 Jan 2026 12:34:23 CST",
-    "summary": "With around $3 billion of bonds coming due this year and Russian strikes on\nthe nation’s infrastructure intensifying, Ukraine’s major corporate borrowers\nare increasingly looking to coupon delays and extensions to manage their debt\nloads.\n\n"
-  },
-  {
-    "title": "JPMorgan Sees Surprise Drop in Investment-Banking Fees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdigi-dani-burger-on-jpmorgan-4q26-earnings",
-    "published": "Tue, 13 Jan 2026 12:15:18 CST",
-    "summary": "JPMorgan’s investment-banking fees unexpectedly fell in the fourth quarter,\nwhile the bank delivered results that otherwise mostly beat consensus. Dani\nBurger reports on Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump Risks Imploding China Trade Truce With Iran Tariff | The Pulse 1/13",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-pulse-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 12:14:05 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Grace Peters, JPM Private\nBank, Co-Head of Global Investment Strategy; Sanam Vakil, Chatham House,\nMiddle East & North Africa Programme Director; Jeff Currie, Carlyle, Energy\nPathways Chief Strategy Officer. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "AI Volatility Rattles Stock Traders Chasing Next Wave of Winners",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Finvestors-want-a-broader-ai-trade-but-it-s-volatile-out-there",
     "published": "Tue, 13 Jan 2026 12:05:27 CST",
     "summary": "Artificial intelligence infrastructure has been a solid stock market bet over\nthe past year, with many of 2025’s best performers in the S&P 500 Index\nfalling into the category. But the trade is getting volatile as some of the\nperceived winners start taking hits.\n\n"
   },
   {
-    "title": "US Treasuries Edge Lower as Traders Await CPI Inflation Reading",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-treasuries-edge-lower-as-traders-await-cpi-inflation-reading",
-    "published": "Tue, 13 Jan 2026 12:03:02 CST",
-    "summary": "US Treasuries slipped Tuesday as traders looked to December’s inflation data\nfor clues on how quickly the Federal Reserve may resume lowering borrowing\ncosts this year.\n\n"
-  },
-  {
     "title": "Red-state Republicans seek climate ‘liability shield’ for fossil fuel industry",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Frepublicans-climate-liability-shield-fossil-fuel-industry",
     "published": "Tue, 13 Jan 2026 12:00:01 CST",
     "summary": "If enacted, Utah and Oklahoma measures would restrict litigation against oil\ncompanies over role in climate crisis\n\nUS lawmakers in two red states are attempting to shield the fossil fuel\nindustry from climate liability.\n\nIn Oklahoma, a newly introduced bill would bar most civil lawsuits against oil\ncompanies over their role in the climate crisis, unless plaintiffs allege\nviolations of specific environmental or labor laws. A similar proposal in Utah\nwould block lawsuits over climate-warming emissions, unless a court finds the\ndefendant violated a statute or permit.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Milei Still Props Up Argentina’s Peso Despite Looser Trading Rules",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fars-usd-argentina-peso-gets-milei-intervention-despite-looser-trading-rules",
-    "published": "Tue, 13 Jan 2026 12:00:00 CST",
-    "summary": "Even after easing Argentina’s tight grip on its currency, President Javier\nMilei is sticking with a core approach: Intervene, manage and prop up the\npeso, in an effort to keep inflation down.\n\n"
   },
   {
     "title": "Ex-FDA workers warn Trump cuts will increase risk of food safety lapses in US",
@@ -264,22 +294,22 @@
     "summary": "Highly respected figure has cast off restrained approach – and is determined\nto protect central bank from escalating attacks\n\nThere are often few surprises with Jerome Powell. At his handful of public\nappearances each month, the US Federal Reserve chair always sports the same\nsoftly stern expression. His voice, typically dispassionate and near-monotone,\nnever wavers.\n\nAs one of the most powerful officials in the world, commanding a platform that\nhas the ability to move global markets with a few words, Powell is often\nreserved in a way that fails to yield soundbites in this social media era:\nboring, even.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Carlyle Says Don’t Fret Over Japan’s Rising Yields and Weak Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcarlyle-says-don-t-fret-over-japan-s-rising-yields-weak-yen",
+    "published": "Tue, 13 Jan 2026 11:00:00 CST",
+    "summary": "The confluence of rising Japanese government bond yields and a weaker yen is a\npositive sign of the economy’s departure from decades of deflation, despite\nwhat some critics think, according to the Carlyle Group Inc.\n\n"
+  },
+  {
     "title": "Hedge Funds Turn Chaos Into Cash for Best Gains in 16 Years",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhedge-funds-turn-chaos-into-cash-for-best-gains-in-16-years",
     "published": "Tue, 13 Jan 2026 10:40:00 CST",
     "summary": "Hedge fund investors haven’t had it this good since the aftermath of the\nglobal financial crisis.\n\n"
   },
   {
-    "title": "Global Central Bankers Show ‘Full Solidarity’ With Fed’s Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fglobal-central-bankers-in-full-solidarity-with-fed-s-powell",
-    "published": "Tue, 13 Jan 2026 10:15:15 CST",
-    "summary": "Global central bankers threw their support behind Chairman Jerome Powell after\nthe Trump administration ratcheted up its already unprecedented pressure\ncampaign against the Federal Reserve.\n\n"
-  },
-  {
-    "title": "Pimco Sees US Mortgage Bond Purchases Boosting Returns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fpimco-sees-mortgage-rates-easing-on-fannie-freddie-purchases",
-    "published": "Tue, 13 Jan 2026 10:10:00 CST",
-    "summary": "US efforts to bring down the cost of housing through buying mortgage\nsecurities are bolstering a bullish outlook at Pacific Investment Management\nCo, one of the world’s largest bond managers.\n\n"
+    "title": "Earnings Season to Put Wall Street’s Rotation Trade to the Test",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fearnings-season-to-put-wall-street-s-rotation-trade-to-the-test",
+    "published": "Tue, 13 Jan 2026 10:30:00 CST",
+    "summary": "Investors’ newfound affinity for companies that benefit most from an\naccelerating economy is in for a tough test as the latest earnings season\nkicks off.\n\n"
   },
   {
     "title": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
@@ -306,12 +336,6 @@
     "summary": "US president speaks after saying that any country that does business with Iran\nwill face 25% levy on trade with US\n\n  * Business live – latest updates\n\nDonald Trump has said “it would be a complete mess” if the US supreme court\nwere to strike down his global trade tariffs.\n\nIn a lengthy post on social media, the US president said “WE’RE SCREWED” if\nthe supreme court rules against the tariffs. The decision is expected as soon\nas Wednesday. It is a crucial legal test of his controversial economic\nstrategy and his power.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Orsted Jumps After Ruling Revives Trump-Halted Wind Project",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Forsted-jumps-after-ruling-to-resume-wind-project-halted-by-trump",
-    "published": "Tue, 13 Jan 2026 08:23:02 CST",
-    "summary": "Orsted A/S shares surged after a US judge ruled work can resume on a wind farm\noff the coast of Rhode Island as the company challenges the government’s\nlatest attempt to halt offshore projects.\n\n"
-  },
-  {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
     "published": "Tue, 13 Jan 2026 08:00:10 CST",
@@ -322,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-american-poverty.html",
     "published": "Tue, 13 Jan 2026 05:00:06 CST",
     "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s\npolitical superiority over the United States, deflecting focus on China’s own\neconomic challenges.\n\n"
-  },
-  {
-    "title": "Aluminum and Copper Take Breather After Explosive Start to 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Faluminum-near-record-high-and-tin-extends-surge-on-supply-angst",
-    "published": "Tue, 13 Jan 2026 04:13:58 CST",
-    "summary": "Aluminum slipped from the highest level in more than three years and copper\nsteadied near a record as investors mulled what’s next for metals after a\npowerful start to the year.\n\n"
   },
   {
     "title": "The campaign to persuade Trump to investigate the Federal Reserve chief",
@@ -384,16 +402,16 @@
     "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Gold Steady Near Record as Markets Weigh Powell Probe",
+    "title": "Gold and Silver Hit Record on Inflation Data, Fed Criminal Probe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgold-steadies-after-surging-on-worries-over-fed-independence",
     "published": "Mon, 12 Jan 2026 23:41:06 CST",
-    "summary": "Gold steadied close to a record Tuesday as markets kept a close eye on the\nTrump administration’s renewed attacks on the Federal Reserve that have stoked\nconcerns about its independence.\n\n"
+    "summary": "Gold and silver hit records on Tuesday after a weaker-than-expected US\ninflation reading, while markets kept a close eye on the Trump\nadministration’s renewed attacks on the independence of the Federal Reserve.\n\n"
   },
   {
-    "title": "Oil Hits $65 as Geopolitical Risks Swirl From Iran to Black Sea",
+    "title": "Oil Hits Two-Month High as Trump Amps Up Rhetoric Against Iran",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13",
     "published": "Mon, 12 Jan 2026 23:22:30 CST",
-    "summary": "Oil briefly rose above $65 a barrel for the first time since November after\nthe US escalated pressure on Iran, while tankers were attacked near a vital\nterminal for Kazakh crude on Russia’s Black Sea coast.\n\n"
+    "summary": "Oil climbed to a two-month high after US President Donald Trump amped up\nrhetoric over Iran, heightening investor concerns over supply disruptions in\nOPEC’s fourth-biggest producer and possible American intervention.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
@@ -408,10 +426,10 @@
     "summary": "The Justice Department’s probe into whether Jerome H. Powell, the chair of the\nFederal Reserve, lied about renovations to the central bank’s headquarters has\nraised alarms.\n\n"
   },
   {
-    "title": "Stocks, Bonds Churn as CPI Unable to Lift Fed Bets: Markets Wrap",
+    "title": "Stocks Wipe Out CPI-Fueled Gains as JPMorgan Sinks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
-    "summary": "Wall Street traders sent stocks, bonds and the dollar wavering after the\nlatest inflation report failed to alter bets on a pause in Federal Reserve\ninterest-rate reductions.\n\n"
+    "summary": "Wall Street traders drove stocks lower as inflation data failed to alter bets\non a pause in Federal Reserve rate cuts while JPMorgan Chase & Co. led a slide\nin banks after its results. Bonds wavered. The dollar rose.\n\n"
   },
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
@@ -478,6 +496,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
     "published": "Mon, 12 Jan 2026 18:50:36 CST",
     "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
+  },
+  {
+    "title": "Fed Served with DOJ Subpoenas, Performance of ‘OTGL’ ETF | ETF IQ 1/12/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fetf-iq-1-12-2026-video",
+    "published": "Mon, 12 Jan 2026 18:23:56 CST",
+    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied\nto the trillions of dollars in the global exchange traded funds industry.\nToday's guests: Research Affiliates Chairman and Founder Rob Arnott and OTG\nAsset Management CEO Mauricio Alvarez. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Paramount Threatens Board Fight Over Warner Bros. Discovery",
@@ -720,12 +744,6 @@
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
   },
   {
-    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
-    "published": "Fri, 09 Jan 2026 20:48:03 CST",
-    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
-  },
-  {
     "title": "How IMAX crushed other theater stocks in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
     "published": "Fri, 09 Jan 2026 20:11:15 CST",
@@ -796,12 +814,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
     "published": "Fri, 09 Jan 2026 14:23:55 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
-  },
-  {
-    "title": "How to Make, and Keep, New Year’s Financial Resolutions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fyour-money%2Fnew-years-financial-resolutions.html",
-    "published": "Fri, 09 Jan 2026 14:00:08 CST",
-    "summary": "Experts offered a variety of suggestions, including paring your list of goals,\nmaking saving automatic and avoiding spending temptations like marketing\nemails.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors & more",
@@ -912,12 +924,6 @@
     "summary": "Upstart airline Avelo said it would stop flying deportation flights for ICE,\nciting unpredictable revenue and added costs.\n\n"
   },
   {
-    "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Frfk-jr-nutrition-guidelines-protein-processed-food.html",
-    "published": "Wed, 07 Jan 2026 18:17:17 CST",
-    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. and Agriculture\nSecretary Brooke Rollins announced new nutrition guidelines.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Mobileye, GameStop, Chevron & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fstocks-making-the-biggest-moves-premarket-mbly-gme-cvx.html",
     "published": "Wed, 07 Jan 2026 16:39:22 CST",
@@ -1000,12 +1006,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F24%2Fus%2Fpolitics%2Ftrump-artificial-intelligence-economy-risks.html",
     "published": "Wed, 24 Dec 2025 10:02:31 CST",
     "summary": "The administration has downplayed concerns — from mass job losses, to a\npotential financial bubble — as President Trump cheers soaring stock prices\nand faster growth.\n\n"
-  },
-  {
-    "title": "U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F21%2Fus%2Fpolitics%2Fus-coast-guard-venezuela-oil-tankers.html",
-    "published": "Mon, 22 Dec 2025 04:58:03 CST",
-    "summary": "The latest vessel to be targeted by the United States in its pressure campaign\non Venezuela was sending distress signals as it headed northeast from the\nCaribbean into the Atlantic.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
