@@ -1,21 +1,69 @@
 [
   {
-    "title": "Basis Trade Has Ballooned to $1.5 Trillion, Morgan Stanley Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbasis-trade-has-ballooned-to-1-5-trillion-morgan-stanley-says",
-    "published": "Tue, 13 Jan 2026 21:26:44 CST",
-    "summary": "The basis trade has swelled to roughly $1.5 trillion, underscoring the need to\nclosely monitor its size to avoid a repeat of the market eruption seen in\n2020, according to Morgan Stanley strategists.\n\n"
+    "title": "Blackstone-Backed Mobile Ad Company Liftoff Files for US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fblackstone-backed-mobile-ad-company-liftoff-files-for-us-ipo",
+    "published": "Tue, 13 Jan 2026 22:35:16 CST",
+    "summary": "Liftoff Mobile Inc., a company that helps place ads within mobile applications\nand lets publishers manage their inventory, filed for a US initial public\noffering.\n\n"
+  },
+  {
+    "title": "US Bank to Buy BTIG for Up to $1 Billion in Trading Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fus-bank-to-buy-btig-for-up-to-1-billion-in-trading-push-video",
+    "published": "Tue, 13 Jan 2026 22:33:23 CST",
+    "summary": "Stephen Philipson, U.S. Bancorp Vice Chair and Head of Wealth, Corporate,\nCommercial, and Institutional Banking, discusses the firm’s deal to buy BTIG.\nHe tells Romaine Bostick on “The Close” that the acquisition is a natural step\nin U.S. Bancorp’s evolution. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
+    "published": "Tue, 13 Jan 2026 22:24:20 CST",
+    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
   },
   {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Fjerome-powell-investigation-blowback.html",
-    "published": "Tue, 13 Jan 2026 21:23:49 CST",
+    "published": "Tue, 13 Jan 2026 22:19:51 CST",
     "summary": "Trump allies fear that the inquiry into the Fed chair could complicate the\nprocess of replacing him this year.\n\n"
   },
   {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
-    "published": "Tue, 13 Jan 2026 21:23:37 CST",
+    "published": "Tue, 13 Jan 2026 22:01:27 CST",
     "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far\nbeen limited and expensive.\n\n"
+  },
+  {
+    "title": "Rosengren: Fed Cuts Not Guaranteed Even With New Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Frosengren-fed-cuts-not-guaranteed-even-with-new-chair-video",
+    "published": "Tue, 13 Jan 2026 22:00:28 CST",
+    "summary": "Eric Rosengren, former Boston Fed President, says administration actions could\nweaken confidence in Fed independence and complicate rate cuts. He tells\nRomaine Bostick on “The Close” that even if short-term rates fall, long-term\nrates may rise as markets fear persistent inflation. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Roche Pharma CEO on Company's Obesity Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Froche-pharma-ceo-on-company-s-obesity-assets-video",
+    "published": "Tue, 13 Jan 2026 21:56:58 CST",
+    "summary": "Roche Pharma CEO Teresa Graham says that 2026 will be an important year for\nthe company's obesity assets. She says that the company has spent the last\ncouple years building out a comprehensive obesity profile. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Illumina CEO Sees Big Growth Opportunity in China",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fillumina-ceo-sees-big-growth-opportunity-in-china-video",
+    "published": "Tue, 13 Jan 2026 21:54:15 CST",
+    "summary": "Illumina CEO Jacob Thaysen discusses the company's opportunities in the China\nmarket and the possibility of being acquired with Katie Greifeld at the\nJPMorgan Health-Care Conference in San Francisco. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "AstraZeneca CFO on M&A Strategy and Obesity Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fastrazeneca-cfo-on-m-a-strategy-and-obesity-market-video",
+    "published": "Tue, 13 Jan 2026 21:46:26 CST",
+    "summary": "AstraZeneca CFO Aradhana Sarin discusses the company's M&A strategy and\nweight-loss portfolio with Katie Greifeld at the JPMorgan Health-Care\nConference in San Francisco. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Growing Number of Options Traders See No Fed Cuts in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fgrowing-camp-of-options-traders-see-no-fed-cuts-in-2026",
+    "published": "Tue, 13 Jan 2026 21:30:14 CST",
+    "summary": "Traders focused on options are increasingly pricing out expectations for any\nFederal Reserve interest rate cuts in 2026, making wagers instead that would\npay off if the central bank stays on hold all year.\n\n"
+  },
+  {
+    "title": "Basis Trade Has Ballooned to $1.5 Trillion, Morgan Stanley Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbasis-trade-has-ballooned-to-1-5-trillion-morgan-stanley-says",
+    "published": "Tue, 13 Jan 2026 21:26:44 CST",
+    "summary": "The basis trade has swelled to roughly $1.5 trillion, underscoring the need to\nclosely monitor its size to avoid a repeat of the market eruption seen in\n2020, according to Morgan Stanley strategists.\n\n"
   },
   {
     "title": "GoodRx CEO on TrumpRx and Surescripts Partnership",
@@ -42,7 +90,7 @@
     "summary": "Novo Nordisk CEO Mike Doustdar talks about launching a pill version of their\nblockbuster obesity drug Wegovy in the US. He speaks to Katie Greifeld in San\nFrancisco at the annual JPMorgan Healthcare Conference. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Apollo Looks to Open Trading on Private Chip Loan for Musk’s xAI",
+    "title": "Apollo to Open Trading on Private Chip Loan for Musk’s xAI",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fapollo-looks-to-open-trading-on-private-chip-loan-for-musk-s-xai",
     "published": "Tue, 13 Jan 2026 21:09:03 CST",
     "summary": "Apollo Global Management Inc. is trying to open up trading on a private debt\ndeal supporting Elon Musk’s artificial intelligence startup xAI Corp.,\naccording to people with knowledge of the matter.\n\n"
@@ -138,12 +186,6 @@
     "summary": "These are some of the stocks posting the largest midday moves.\n\n"
   },
   {
-    "title": "Robot Traders Hike Bullish Oil Bets as Trump’s Iran Comments Jolt Prices",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frobot-traders-hike-bullish-oil-bets-as-trump-s-iran-rhetoric-intensifies",
-    "published": "Tue, 13 Jan 2026 18:33:42 CST",
-    "summary": "Algorithmic traders have turned bullish on crude oil for the first time since\nSeptember as US President Donald Trump intensifies his rhetoric against the\nIranian government.\n\n"
-  },
-  {
     "title": "Gourmet Magazine Is Back, as  Unsanctioned New Media",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fgourmet-magazine-newsletter.html",
     "published": "Tue, 13 Jan 2026 18:28:17 CST",
@@ -154,42 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-is-lower-after-better-than-expected-results-is-it-a-buying-opportunity.html",
     "published": "Tue, 13 Jan 2026 18:22:35 CST",
     "summary": "Wall Street analysts largely framed the pullback as profit-taking rather than\na fundamental shift in the outlook.\n\n"
-  },
-  {
-    "title": "Deal Slowdown Weighs on JPMorgan | Open Interest 1/13/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fopen-interest-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 18:21:31 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" JPMorgan's Jamie Dimon ushers in earnings season\nwith a bullish call on the US economy and a warning on Fed independence. Delta\ndisappoints, a cloudy outlook weighing on the airline and its rival in the\nyear ahead. A CPI surprise, fresh inflation data shows signs that price\npressures are gradually easing. Plus, hedge fund investors haven't had it this\ngood since the aftermath of the financial crisis. We break down what's behind\nthe gains. And as the Trump administration ramps up efforts to lower housing\ncosts, high prices are still pushing many buyers toward fixer-uppers. Andy\nBell, CEO of Ace Handyman Services joins Bloomberg Open Interest in the\nC-Suite to talk about how homeowners are renovating. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Asta Energy Said to Weigh Frankfurt IPO Kickoff This Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbillionaire-michael-tojner-s-energy-unit-said-to-eye-ipo-this-week",
-    "published": "Tue, 13 Jan 2026 18:16:21 CST",
-    "summary": "Asta Energy Solutions AG, a manufacturer of copper-based components used in\npower plants and electric vehicles, is considering launching an initial public\noffering in Frankfurt as soon as this week, according to people familiar with\nthe matter.\n\n"
-  },
-  {
-    "title": "Hudson River’s 2025 Trading Revenue Set for Record $12.3 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhudson-river-s-2025-trading-revenue-set-for-record-12-3-billion",
-    "published": "Tue, 13 Jan 2026 17:47:30 CST",
-    "summary": "Trading revenue at market-making firm Hudson River Trading rose in 2025 toward\na record level as volatile markets helped lift results globally for companies\nthat step in to match buyers and sellers.\n\n"
-  },
-  {
-    "title": "Delta Seals Boeing Order as Earnings Support Travel Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdelta-seals-boeing-order-as-earnings-support-travel-boom-video",
-    "published": "Tue, 13 Jan 2026 17:43:53 CST",
-    "summary": "Delta Air Lines Inc. is ordering 30 Boeing Co. 787 Dreamliner jets in its\nfirst-ever purchase of that model, providing a boost to the US planemaker that\nhighlights the airline’s optimism for international travel demand. The\nannouncement came as Atlanta-based Delta reported earnings for the fourth\nquarter that beat analyst estimates. Revenue last year rose to a record $58.3\nbillion, in line with analysts’ expectations. Bloomberg's George Ferguson\njoins to discuss on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Warburg Mulls $1 Billion Sale of London Insurance Broker McGill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fwarburg-mulls-1-billion-sale-of-london-insurance-broker-mcgill",
-    "published": "Tue, 13 Jan 2026 17:43:43 CST",
-    "summary": "Warburg Pincus is considering a possible sale of UK insurance broker McGill\nand Partners, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Bitpanda Said to Gear Up for Frankfurt IPO in First Half of 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbitpanda-said-to-gear-up-for-frankfurt-ipo-in-first-half-of-2026",
-    "published": "Tue, 13 Jan 2026 17:38:00 CST",
-    "summary": "Bitpanda GmbH, a cryptocurrency trading platform backed by billionaire Peter\nThiel, is gearing up for a Frankfurt initial public offering as soon as the\nfirst half of this year, according to people familiar with the matter.\n\n"
   },
   {
     "title": "Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600",
@@ -315,7 +321,7 @@
     "title": "Traders’ Bets on Fed Cut by June Reinforced by Softer Inflation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftreasuries-jump-as-softer-inflation-backs-bets-on-a-june-fed-cut",
     "published": "Tue, 13 Jan 2026 13:44:32 CST",
-    "summary": "Bond traders’ expectations were bolstered for the Federal Reserve to lower\ninterest rates by mid-year after a weaker-than-expected US inflation reading.\n\n"
+    "summary": "Bond traders’ expectations for the Federal Reserve to lower interest rates by\nmid-year got a boost after a cooler-than-expected US inflation reading.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
@@ -586,12 +592,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html",
     "published": "Mon, 12 Jan 2026 14:51:22 CST",
     "summary": "Aldi's growth reflects the fiercer competition with traditional players as\ndiscounters lure away shoppers and win more of their weekly grocery runs.\n\n"
-  },
-  {
-    "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html",
-    "published": "Mon, 12 Jan 2026 14:44:11 CST",
-    "summary": "Researchers are not just worried about the virus popping up on American farms.\nOther types are causing trouble around the world.\n\n"
   },
   {
     "title": "The Potential Fallout From a Legal Attack on Powell",
