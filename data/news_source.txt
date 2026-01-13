@@ -1,9 +1,51 @@
 [
   {
+    "title": "Blowback Builds Over Criminal Investigation of Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Fjerome-powell-investigation-blowback.html",
+    "published": "Tue, 13 Jan 2026 20:34:35 CST",
+    "summary": "Trump allies fear that the inquiry into the Fed chair could complicate the\nprocess of replacing him this year.\n\n"
+  },
+  {
+    "title": "Trump Builds Pressure Against Powell, US Bancorp Acquires BTIG | Bloomberg Markets 1/13/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fbloomberg-markets-1-13-2026-video",
+    "published": "Tue, 13 Jan 2026 20:27:51 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Monetary\nPolicy Analytics Co-Founder Economist Derek Tang and Angel Oak Capital Senior\nPortfolio Manager Cheryl Pate. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Regeneron's Yancopoulos on Hearing Loss Gene Therapy, Weight Loss Drugs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fregeneron-s-yancopoulos-on-hearing-loss-gene-therapy-video",
+    "published": "Tue, 13 Jan 2026 20:18:49 CST",
+    "summary": "Regeneron Chief Scientific Officer George Yancopoulos joins Bloomberg's Katie\nGreifeld at the annual JP Morgan healthcare conference in San Francisco to\ntalk about the FDA's response to their hearing loss gene therapy as well as\ntheir plans to roll out weight loss drugs. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Ariel’s Rogers Sees 2026 Recession, Dow Falling as Much as 20%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fariel-s-rogers-sees-2026-recession-dow-falling-as-much-as-20",
+    "published": "Tue, 13 Jan 2026 20:08:31 CST",
+    "summary": "The US will likely slide into a small recession at the end of the year and the\nstock market will drop as average-income consumers struggle with high living\ncosts, according to John Rogers, chairman and co-chief executive officer of\nAriel Investments.\n\n"
+  },
+  {
+    "title": "Fed Cut Could Come Earlier Than Expected: Tang",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffed-cut-could-come-earlier-than-expected-tang-video",
+    "published": "Tue, 13 Jan 2026 20:02:26 CST",
+    "summary": "The core consumer price index, which excludes the often volatile food and\nenergy categories, increased 0.2% from November. Derek Tang, Co-Founder and\nEconomist at Monetary Policy Analytics discussed how investors are expecting\npolicy to develop on the heels of this economic picture and said that he\nthinks Fed could deliver rate cuts sooner than markets expect, potentially as\nearly as March. He joined the discussion on \"Bloomberg Markets\" with Scarlet\nFu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
+    "published": "Tue, 13 Jan 2026 19:49:04 CST",
+    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
+  },
+  {
     "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation.html",
-    "published": "Tue, 13 Jan 2026 19:34:26 CST",
+    "published": "Tue, 13 Jan 2026 19:44:13 CST",
     "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
+  },
+  {
+    "title": "U.S. Bancorp Agrees to Buy BTIG for Up to $1B",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fu-s-bancorp-agrees-to-buy-btig-for-up-to-1b-video",
+    "published": "Tue, 13 Jan 2026 19:39:50 CST",
+    "summary": "U.S. Bancorp is pushing deeper into investment banking and trading. The\nnation's largest regional bank has agreed to buy brokerage firm BTIG for as\nmuch as $1 billion, expanding a partnership that's been years in the making.\nBloomberg Intelligence's Senior Analyst of US Banks, Herman Chan, discussed\nthe story on \"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Warren Buffett was still searching for that elephant to buy in his final months as Berkshire CEO",
@@ -96,12 +138,6 @@
     "summary": "JPMorgan Chase & Co. warned that President Donald Trump’s call for a 10% cap\non credit card rates threatens to “significantly change” its business and\nwould harm the biggest US bank and customers. This comes after the JPMorgan\nChase & Co.’s investment-banking fees unexpectedly fell in the fourth quarter,\nmissing the firm’s own guidance from just last month as revenue from both\nunderwriting and advising on mergers declined. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
-    "published": "Tue, 13 Jan 2026 17:34:56 CST",
-    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
-  },
-  {
     "title": "Muni Bonds Start Year Strong as ‘January Effect‘ Emerges",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmuni-bonds-start-year-strong-as-january-effect-emerges",
     "published": "Tue, 13 Jan 2026 17:29:14 CST",
@@ -132,40 +168,10 @@
     "summary": "Wellington Management Co., the mutual fund giant best known for stock- and\nbond-picking, hired Hamilton Lane Inc.’s Alex Behm to lead its foray into the\nhot market of buying and selling private equity stakes.\n\n"
   },
   {
-    "title": "Kirkland &amp; Ellis Accused of Conflict in Private Equity Spat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fkirkland-ellis-accused-of-conflict-in-private-equity-spat",
-    "published": "Tue, 13 Jan 2026 17:02:48 CST",
-    "summary": "Law firm Kirkland & Ellis has been drawn into a dispute between investors of\nAscent Resources and the private equity firm that’s seeking to raise a\ncontinuation fund to prolong its hold on the natural gas producer.\n\n"
-  },
-  {
-    "title": "US Biotech Share Sales Deliver Biggest First Week Since 2021",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-biotech-share-sales-deliver-biggest-first-week-since-2021",
-    "published": "Tue, 13 Jan 2026 17:00:00 CST",
-    "summary": "Stock sales from drug developers are off to a flying start on US exchanges in\n2026, boosting the prospects for biotechnology fundraising after turbulence in\nthe sector last year.\n\n"
-  },
-  {
-    "title": "New Zealand Home-Building Costs Picked up in Fourth Quarter",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fnew-zealand-home-building-costs-picked-up-in-fourth-quarter",
-    "published": "Tue, 13 Jan 2026 17:00:00 CST",
-    "summary": "New Zealand home-building costs increased the most in 15 months in the fourth\nquarter as the construction industry begins to recover.\n\n"
-  },
-  {
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Ftrump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "published": "Tue, 13 Jan 2026 16:54:45 CST",
     "summary": "Banks say a proposed 10% cap on credit card interest rates would result in\nfewer credit card accounts for Americans and a hit to the U.S. economy.\n\n"
-  },
-  {
-    "title": "AI’s Productivity Potential Has Never More Obvious",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-13%2Fai-s-productivity-potential-has-never-more-obvious",
-    "published": "Tue, 13 Jan 2026 16:49:59 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
-    "title": "Benin Hires Citi, JPMorgan, Other Banks to Explore Debt Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbenin-hires-citi-jpmorgan-other-banks-to-explore-debt-sale",
-    "published": "Tue, 13 Jan 2026 16:42:05 CST",
-    "summary": "Benin has hired a group of international banks to arrange the potential sale\nof a dollar-denominated Sukuk bond and other debt securities.\n\n"
   },
   {
     "title": "Fanatics to launch sports media and entertainment studio",
@@ -262,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Fworld-bank-forecast-global-growth%2F",
     "published": "Tue, 13 Jan 2026 14:30:00 CST",
     "summary": "But a new World Bank forecast warns of the weakest decade since the 1960s.\n\n"
-  },
-  {
-    "title": "China to Offer Canola Relief for Easing EV Curbs During Carney Visit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchina-to-offer-canola-relief-for-easing-ev-curbs-during-carney-visit",
-    "published": "Tue, 13 Jan 2026 14:22:23 CST",
-    "summary": "China will propose easing some restrictions on Canadian rapeseed products\nduring a visit to the country by Prime Minister Mark Carney, provided his\ngovernment relaxes tariffs on Chinese-made electric vehicles.\n\n"
   },
   {
     "title": "Global Central Bankers Rally Around Fed Chair Powell Amid Criminal Investigation",
@@ -384,12 +384,6 @@
     "summary": "US president speaks after saying that any country that does business with Iran\nwill face 25% levy on trade with US\n\n  * Business live – latest updates\n\nDonald Trump has said “it would be a complete mess” if the US supreme court\nwere to strike down his global trade tariffs.\n\nIn a lengthy post on social media, the US president said “WE’RE SCREWED” if\nthe supreme court rules against the tariffs. The decision is expected as soon\nas Wednesday. It is a crucial legal test of his controversial economic\nstrategy and his power.\n\nContinue reading...\n\n"
   },
   {
-    "title": "European Stocks Ease From All-Time High After US Inflation Data",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Feuropean-stocks-hover-near-record-ahead-of-us-inflation-data",
-    "published": "Tue, 13 Jan 2026 08:18:21 CST",
-    "summary": "European shares were subdued, weighed down by the construction sector, after\nSika AG dropped 9.5% on weaker-than-expected results. The latest US inflation\nreading failed to change the outlook for Federal Reserve interest rates.\n\n"
-  },
-  {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
     "published": "Tue, 13 Jan 2026 08:00:10 CST",
@@ -400,6 +394,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-american-poverty.html",
     "published": "Tue, 13 Jan 2026 05:00:06 CST",
     "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s\npolitical superiority over the United States, deflecting focus on China’s own\neconomic challenges.\n\n"
+  },
+  {
+    "title": "Aluminum and Copper Take Breather After Explosive Start to 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Faluminum-near-record-high-and-tin-extends-surge-on-supply-angst",
+    "published": "Tue, 13 Jan 2026 04:13:58 CST",
+    "summary": "Aluminum steadied at the highest in more than three years, and copper wavered\naround a record as investors mulled what’s next for metals after a powerful\nstart to the year.\n\n"
   },
   {
     "title": "The campaign to persuade Trump to investigate the Federal Reserve chief",
@@ -447,7 +447,13 @@
     "title": "Gold Eases from Record as Traders Mull Rates; Silver Tops $89",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgold-steadies-after-surging-on-worries-over-fed-independence",
     "published": "Mon, 12 Jan 2026 23:41:06 CST",
-    "summary": "Gold slipped from a record high as traders assessed the path of US interest\nrates after an inflation reading came in weaker than expected and the Trump\nadministration renewed attacks on the Federal Reserve. Silver topped $89 an\nounce.\n\n"
+    "summary": "Gold eased from a record high as traders assessed the path of US interest\nrates after an inflation reading came in weaker than expected and the Trump\nadministration renewed attacks on the Federal Reserve. Silver topped $89 an\nounce before paring some of the advance.\n\n"
+  },
+  {
+    "title": "US Oil Breaks Above $61 as Trump Amps Up Rhetoric Against Iran",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13",
+    "published": "Mon, 12 Jan 2026 23:22:30 CST",
+    "summary": "Oil climbed to the highest since late October after US President Donald Trump\namped up rhetoric over Iran, heightening investor concerns about supply\ndisruptions in OPEC’s fourth-biggest producer and possible American\nintervention.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
