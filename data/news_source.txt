@@ -1,5 +1,59 @@
 [
   {
+    "title": "BNY raises profit target as CEO Robin Vince says 'turnaround' is taking hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fbny-profit-target-ceo-robin-vince-turnaround.html",
+    "published": "Tue, 13 Jan 2026 11:35:01 CST",
+    "summary": "BNY raised a pair of key medium-term performance targets on Tuesday.\n\n"
+  },
+  {
+    "title": "BNY Mellon Profit Beats Estimates on Fee Gains, Interest Income",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbny-mellon-profit-beats-estimates-on-fee-gains-interest-income",
+    "published": "Tue, 13 Jan 2026 11:35:00 CST",
+    "summary": "Bank of New York Mellon Corp.’s profit beat analysts’ estimates, driven by\ngains in fee revenue and interest income.\n\n"
+  },
+  {
+    "title": "Delta forecasts 20% jump in 2026 profits, orders first Boeing Dreamliners",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdelta-air-lines-dal-4q-2025-earnings.html",
+    "published": "Tue, 13 Jan 2026 11:30:58 CST",
+    "summary": "The airline said bookings are strong from both leisure customers and corporate\ntravelers in the first few days of the year.\n\n"
+  },
+  {
+    "title": "Rio Tinto Taps Evercore’s Robey, JPMorgan on Glencore Pursuit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frio-tinto-taps-evercore-s-robey-jpmorgan-on-glencore-pursuit",
+    "published": "Tue, 13 Jan 2026 11:25:26 CST",
+    "summary": "Rio Tinto Group has brought on a slate of bankers including Simon Robey, one\nof the UK’s top rainmakers, as it pursues a deal for Glencore Plc, people with\nknowledge of the matter said.\n\n"
+  },
+  {
+    "title": "Ermotti Flags Job Cuts as UBS Nears Credit Suisse Integration",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fermotti-flags-job-cuts-as-ubs-nears-credit-suisse-integration",
+    "published": "Tue, 13 Jan 2026 11:21:34 CST",
+    "summary": "Three years on from UBS Group AG’s dramatic rescue of Credit Suisse, the\nlender is entering the delicate final stages of the integration.\n\n"
+  },
+  {
+    "title": "Cash Cows of US Tech Will Challenge the Rotation Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-13%2Fcash-cows-of-us-tech-will-challenge-the-rotation-trade",
+    "published": "Tue, 13 Jan 2026 11:07:38 CST",
+    "summary": "Small caps and value stocks are outperforming tech as fourth-quarter results\nkick off.\n\n"
+  },
+  {
+    "title": "Carlyle Says Don’t Fret Over Japan’s Rising Yields and Weak Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcarlyle-says-don-t-fret-over-japan-s-rising-yields-weak-yen",
+    "published": "Tue, 13 Jan 2026 11:00:00 CST",
+    "summary": "The confluence of rising Japanese government bond yields and a weaker yen is a\npositive sign of the economy’s departure from decades of deflation, despite\nwhat some critics think, according to the Carlyle Group Inc.\n\n"
+  },
+  {
+    "title": "Hedge Funds Turn Chaos Into Cash for Best Gains in 16 Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhedge-funds-turn-chaos-into-cash-for-best-gains-in-16-years",
+    "published": "Tue, 13 Jan 2026 10:40:00 CST",
+    "summary": "Hedge fund investors haven’t had it this good since the aftermath of the\nglobal financial crisis.\n\n"
+  },
+  {
+    "title": "Glencore Jumps on Rio Merger Talks, Trump to Meet Venezuela's Machado | The Pulse 1/9/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-pulse-1-9-2026-video",
+    "published": "Tue, 13 Jan 2026 10:37:36 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Ludovic Subran, Allianz,\nCIO & Chief Economist; Irene Mia, International Institute for Strategic\nStudies, Latin America Senior Fellow; Dwayne Lysaght, JPMorgan, Co-Head of\nEMEA M&A Roland Rudd, FGS Global, Global Chair (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "JPMorgan Chase is set to report fourth-quarter earnings – here's what the Street expects",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
     "published": "Tue, 13 Jan 2026 10:33:15 CST",
@@ -12,7 +66,7 @@
     "summary": "Investors’ newfound affinity for companies that benefit most from an\naccelerating economy is in for a tough test as the latest earnings season\nkicks off.\n\n"
   },
   {
-    "title": "Global Central Bankers in ‘Full Solidarity’ With Fed’s Powell",
+    "title": "Global Central Bankers Show ‘Full Solidarity’ With Fed’s Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fglobal-central-bankers-in-full-solidarity-with-fed-s-powell",
     "published": "Tue, 13 Jan 2026 10:15:15 CST",
     "summary": "Global central bankers threw their support behind Chairman Jerome Powell after\nthe Trump administration ratcheted up its already unprecedented pressure\ncampaign against the Federal Reserve.\n\n"
@@ -84,24 +138,6 @@
     "summary": "Orsted A/S shares surged after a US judge ruled work can resume on a wind farm\noff the coast of Rhode Island while it challenges the government’s latest\nattempt to stop offshore projects from being built.\n\n"
   },
   {
-    "title": "Central Banks Work on Statement in Solidarity With Fed’s Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcentral-banks-work-on-statement-in-solidarity-with-fed-s-powell",
-    "published": "Tue, 13 Jan 2026 08:18:49 CST",
-    "summary": "Global central bank officials are working on a statement to show solidarity\nwith Chairman Jerome Powell after the Trump administration dramatically\nescalated its pressure campaign toward the Federal Reserve, according to a\nperson familiar with the matter.\n\n"
-  },
-  {
-    "title": "GA-Backed Acko Said to Seek Banks for $350 Million India IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fga-backed-acko-said-to-seek-banks-for-350-million-india-ipo",
-    "published": "Tue, 13 Jan 2026 08:16:24 CST",
-    "summary": "Indian digital insurer Acko Technology & Services Pvt. has invited pitches\nfrom investment banks for a potential initial public offering to raise as much\nas $350 million, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Supreme Court Ruling On Trump's Tariffs Policy Looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fsupreme-court-ruling-on-trump-s-tariffs-policy-looms-video",
-    "published": "Tue, 13 Jan 2026 08:00:28 CST",
-    "summary": "Halie Craig, Former US Senate Trade Advisor and now Principal at government\naffairs firm Origin Advocacy speaks to Lizzy Burden on Daybreak Europe about\nthe potential US tariff ruling. This interview aired on Jan. 9 (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
     "published": "Tue, 13 Jan 2026 08:00:10 CST",
@@ -114,34 +150,10 @@
     "summary": "Warning signs are flashing in European stocks that a rally fueled by optimism\nabout earnings and the economy is running out of road.\n\n"
   },
   {
-    "title": "Japan Snap Election; GOP Fed Backlash; Trump's Iran Tariff | Horizons Middle East & Africa 1/13/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fhorizons-middle-east-africa-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 07:49:03 CST",
-    "summary": "Japanese stocks jump while the yen weakens to a July 2024 low after Kyodo News\nreports that the prime minister intends to call a snap election. The Trump\nadministration's Fed probe triggers a backlash in Washington, with key\nRepublicans voicing their concerns. And President Trump vows new tariffs on\ncountries doing business with Iran, effective immediately. Guests include:\nAlexandre Tavazzi, Pictet Wealth Management, Head of CIO Office and Macro\nResearch; William Roebuck, Arab Gulf States Institute, Executive Vice\nPresident; Former US Ambassador to Bahrain; and Daan Struyven, Goldman Sachs,\nCo-Head of Global Commodities Research & Head of Oil Research. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Diageo Said to Weigh Options for China Assets Including Sale",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fdiageo-is-said-to-weigh-options-for-china-assets-including-sale",
     "published": "Tue, 13 Jan 2026 07:47:02 CST",
     "summary": "Diageo Plc is considering options for its Chinese assets, including potential\ndivestments, people familiar with the matter said, as the maker of Guinness\nand Johnnie Walker seeks to streamline its portfolio.\n\n"
-  },
-  {
-    "title": "Premier Inn-Owner Sees Lower UK Budget Hit, Shares Surge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fpremier-inn-owner-sees-lower-tax-impact-as-uk-business-improves",
-    "published": "Tue, 13 Jan 2026 07:45:38 CST",
-    "summary": "Premier Inn-owner Whitbread Plc expects a lower impact from the UK budget than\npreviously feared, as the performance of the UK business shows signs of\nrecovery. Shares rose as much 7%, the most since May.\n\n"
-  },
-  {
-    "title": "Yen Falls to 2024 Levels as Japan Snap Election Bets Grow | Insight with Haslinda Amin 1/13/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Finsight-with-haslinda-amin-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 07:19:18 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Why Regime Change in Iran Is Harder Than Many Think",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fwhy-regime-change-in-iran-is-harder-than-many-think-video",
-    "published": "Tue, 13 Jan 2026 06:48:12 CST",
-    "summary": "Trita Parsi, Executive Vice President of the Quincy Institute, explains why\ndismantling Iran’s regime is far more complicated than U.S. interventions in\nIraq or Libya. With power dispersed across multiple centers, removing top\nleadership won’t collapse the state. On Insight with Haslinda Amin, Parsi also\ndelved into Iran’s protests, U.S. strike plans, Israel’s influence, and the\nrisk of escalation in the Strait of Hormuz. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Morgan Stanley Boosts Bonuses in Asia, London After Bumper Year",
@@ -168,12 +180,6 @@
     "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s\npolitical superiority over the United States, deflecting focus on China’s own\neconomic challenges.\n\n"
   },
   {
-    "title": "Aluminum Falls With Copper as Metals Rally Cools After Big Gains",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Faluminum-near-record-high-and-tin-extends-surge-on-supply-angst",
-    "published": "Tue, 13 Jan 2026 04:13:58 CST",
-    "summary": "Aluminum fell from the highest level in more than three years, as investors\nmulled what’s next for metals after a powerful start to 2026.\n\n"
-  },
-  {
     "title": "The campaign to persuade Trump to investigate the Federal Reserve chief",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F",
     "published": "Tue, 13 Jan 2026 03:59:52 CST",
@@ -196,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Flori-chavez-deremer-misconduct-investigation.html",
     "published": "Tue, 13 Jan 2026 03:11:18 CST",
     "summary": "The Labor Department is investigating a complaint alleging misconduct by\nSecretary Lori Chavez-DeRemer.\n\n"
-  },
-  {
-    "title": "Vanke Asks to Extend Bond Grace Periods Again, Adds Collateral",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fvanke-asks-to-extend-bond-grace-period-again-adds-collateral",
-    "published": "Tue, 13 Jan 2026 02:35:39 CST",
-    "summary": "China Vanke Co. presented revised proposals to extend two local bonds that\nincluded collateral pledges as well as longer grace periods, according to\npeople familiar with the matter, as the distressed developer struggles to\nstave off default.\n\n"
   },
   {
     "title": "Japan Firms Assessing Impact of China’s Rare Earths Curbs",
@@ -240,10 +240,10 @@
     "summary": "Gold steadied close to a record Tuesday as markets kept a close eye on the\nTrump administration’s renewed attacks on the Federal Reserve that have stoked\nconcerns about its independence.\n\n"
   },
   {
-    "title": "Takaichi Trade Roars Back in Japan as Snap Election Bets Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjapan-s-stocks-poised-to-jump-on-weak-yen-election-expectations",
-    "published": "Mon, 12 Jan 2026 23:16:35 CST",
-    "summary": "Japanese stocks rallied to fresh record highs while the yen and government\nbonds slumped on speculation that Prime Minister Sanae Takaichi may soon call\na snap election.\n\n"
+    "title": "Oil Hits $65 as Geopolitical Risks Swirl From Iran to Black Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13",
+    "published": "Mon, 12 Jan 2026 23:22:30 CST",
+    "summary": "Oil briefly rose above $65 a barrel for the first time since November after\nthe US escalated pressure on Iran, while tankers were attacked near a vital\nterminal for Kazakh crude on Russia’s Black Sea coast.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
@@ -828,12 +828,6 @@
     "summary": "Investment firms of the ultra-rich didn't jump into the M&A frenzy during the\nholiday season.\n\n"
   },
   {
-    "title": "WBD once again rejects Paramount offer in favor of Netflix deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fwbd-rejects-paramount-offer-again-netflix-deal.html",
-    "published": "Thu, 08 Jan 2026 14:11:03 CST",
-    "summary": "Warner Bros. Discovery's board still sees its deal with Netflix as the\nsuperior option over Paramount's recently amended hostile offer.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Lockheed Martin, Northrop Grumman, Gap, Alcoa & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fstocks-making-the-biggest-moves-premarket-.html",
     "published": "Thu, 08 Jan 2026 12:46:48 CST",
@@ -900,12 +894,6 @@
     "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
   },
   {
-    "title": "Americans are changing where they're moving. Here's how that could affect commercial real estate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fcommercial-real-estate-migration.html",
-    "published": "Wed, 07 Jan 2026 12:30:01 CST",
-    "summary": "Americans are increasingly moving to smaller markets rather than urban cores\nas they seek cheaper housing and better quality of life.\n\n"
-  },
-  {
     "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
     "published": "Tue, 06 Jan 2026 22:18:49 CST",
@@ -930,22 +918,10 @@
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
-    "title": "Ford reports best annual U.S. vehicle sales since 2019",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fford-f-2025-annual-sales.html",
-    "published": "Tue, 06 Jan 2026 15:45:22 CST",
-    "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick\nto more than 545,200 units during the fourth quarter.\n\n"
-  },
-  {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F06%2Fbank-of-england-venezuelan-gold-nicolas-maduro-us-uk",
     "published": "Tue, 06 Jan 2026 11:57:03 CST",
     "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fstocks-making-the-biggest-moves-midday-coin-anet-cvx-hal.html",
-    "published": "Mon, 05 Jan 2026 19:34:35 CST",
-    "summary": "These are the stocks posting the largest moves midday.\n\n"
   },
   {
     "title": "Michael Burry's big play off the U.S.-Venezuela situation, which the investor has held for years",
@@ -1036,6 +1012,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fsep%2F16%2Fthe-new-norm-sustainable-textiles-lauren-choi",
     "published": "Tue, 16 Sep 2025 13:00:06 CDT",
     "summary": "Lauren Choi wanted to give plastic a second life. Her experiment turned into\nThe New Norm, a sustainable textile startup\n\nIf you’ve been on a college campus in the last 30 years, you’ve likely come\nacross red party cups. Made by brands like Solo and Hefty, the iconic cups are\nbeloved by frats, crucial to drinking games like beer pong – and very\ndifficult to recycle because of the type of plastic they’re made from.\n\nBut Lauren Choi, an engineering student at Johns Hopkins University, saw an\nopportunity: she wanted to turn these problematic cups into fabric. In 2019,\nduring her senior year, she led a team that built an extruder machine that\ncould spin plastic waste into textile filaments. They partnered with campus\nfraternities to gather thousands of red cups that could serve as the raw\nmaterial.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Tracking Every Trump Tariff and Its Economic Effect",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fgraphics%2Ftrump-tariffs-tracker%2F",
+    "published": "Fri, 21 Mar 2025 05:00:41 CDT",
+    "summary": "For the full experience visit: Tracking Every Trump Tariff and Its Economic\nEffect\n\n"
   },
   {
     "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
