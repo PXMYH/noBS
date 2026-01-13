@@ -1,5 +1,41 @@
 [
   {
+    "title": "UBS CEO Ermotti Plans to Step Down in April 2027, FT Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fubs-ceo-ermotti-plans-to-step-down-in-april-2027-ft-says",
+    "published": "Tue, 13 Jan 2026 05:30:39 CST",
+    "summary": "UBS Group AG’s Chief Executive Officer Sergio Ermotti is planning to step down\nin April 2027, the Financial Times reports Tuesday, citing unnamed people.\n\n"
+  },
+  {
+    "title": "China’s 2026 Stock Rally Builds as Turnover, Margin Loans Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchina-s-2026-stock-rally-builds-as-turnover-margin-loans-surge",
+    "published": "Tue, 13 Jan 2026 05:26:52 CST",
+    "summary": "Chinese stocks have been gaining momentum this year with burgeoning sentiment\nseen in record turnover and a surge in the amount of margin loans.\n\n"
+  },
+  {
+    "title": "Nobel Laureate Acemoglu on Fed Independence, AI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fnobel-laureate-acemoglu-on-fed-independence-ai-video",
+    "published": "Tue, 13 Jan 2026 05:07:01 CST",
+    "summary": "Daron Acemoglu, Institute Professor at MIT and Nobel Laureate, discusses the\nimportance of Federal Reserve independence and the impact of AI on the\neconomy. He speaks with Stephen Engle from the sidelines of the UBS Greater\nChina Conference in Shanghai. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "When All the King’s Men Are Too Eager to Please",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-13%2Fpowell-drama-when-all-the-king-s-men-are-too-eager-to-please",
+    "published": "Tue, 13 Jan 2026 05:03:50 CST",
+    "summary": "In the Powell drama, Donald Trump’s courtiers have let him down badly.\n\n"
+  },
+  {
+    "title": "JPMorgan Chase is set to report fourth-quarter earnings – here's what the Street expects",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
+    "published": "Tue, 13 Jan 2026 05:01:01 CST",
+    "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
+  },
+  {
+    "title": "Why China Is Suddenly Obsessed With American Poverty",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-american-poverty.html",
+    "published": "Tue, 13 Jan 2026 05:00:05 CST",
+    "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s\npolitical superiority over the United States, deflecting focus on China’s own\neconomic challenges.\n\n"
+  },
+  {
     "title": "Yen Tumbles Following Report Japan PM Plans Snap Poll",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fyen-falls-to-weakest-level-since-july-2024-on-political-risks",
     "published": "Tue, 13 Jan 2026 04:25:10 CST",
@@ -132,18 +168,6 @@
     "summary": "South Korea’s main stock exchange plans to extend trading hours as the\nbenchmark index powers toward President Lee Jae Myung’s election campaign\ntarget of 5,000.\n\n"
   },
   {
-    "title": "India’s Debt Fund Managers Turn Tactical as Returns Get Harder",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Findia-s-debt-fund-managers-turn-tactical-as-returns-get-harder",
-    "published": "Tue, 13 Jan 2026 01:00:00 CST",
-    "summary": "India’s top debt fund managers are turning cautious in what could be a tough\nyear for returns, as the central bank nears the end of its interest-rate cut\ncycle while demand from key investors remains weak.\n\n"
-  },
-  {
-    "title": "UBS’ Zhang on China’s Economic Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fubs-zhang-on-china-s-economic-outlook-video",
-    "published": "Tue, 13 Jan 2026 00:49:38 CST",
-    "summary": "Ning Zhang, Senior China Economist at UBS, discusses the outlook and\nchallenges facing China’s economic growth in 2026. He speaks with Stephen\nEngle from the sidelines of the UBS Greater China Conference in Shanghai.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "UBS CEO Ermotti Warns Swiss Banking Reforms Go Too Far",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far",
     "published": "Tue, 13 Jan 2026 00:44:58 CST",
@@ -156,16 +180,16 @@
     "summary": "Trump will face an important obstacle — from within his own party — as he\nseeks to replace Federal Reserve Chair Jerome Powell.\n\n"
   },
   {
-    "title": "Traders Left Guessing Whether More Curbs Will Hit India Options",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftraders-left-guessing-whether-more-curbs-will-hit-india-options",
-    "published": "Tue, 13 Jan 2026 00:30:00 CST",
-    "summary": "India’s derivatives clampdown was successful in reining in an options\nexuberance that burned millions of small investors, but traders have been left\nin the dark on whether new curbs are coming to further alter the market.\n\n"
-  },
-  {
     "title": "Fed Changes Course and Takes On Trump’s Political Fight",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-changes-course-trump-administration.html",
     "published": "Tue, 13 Jan 2026 00:22:57 CST",
     "summary": "The Justice Department’s decision to open up a criminal investigation of\nJerome H. Powell, the chair of the Federal Reserve, is a major escalation in\nthe pressure campaign against the central bank to cut interest rates.\n\n"
+  },
+  {
+    "title": "China Checks Foreign ETF Trades After Jane Street India Case",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchina-examines-foreign-etf-trades-after-jane-street-india-probe",
+    "published": "Tue, 13 Jan 2026 00:16:21 CST",
+    "summary": "China is scrutinizing how Jane Street Group and other foreign firms\nparticipate in its $859 billion exchange-traded fund market, seeking\ninformation on such activities carried out by brokers, according to people\nwith knowledge of the matter.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Citigroup, Abercrombie, Vistra, Duolingo and more",
@@ -180,22 +204,16 @@
     "summary": "Gold steadied after surging on Monday on worries over the Federal Reserve’s\nindependence after the Trump administration threatened Chair Jerome Powell\nwith a criminal indictment.\n\n"
   },
   {
-    "title": "Rare Earths CEO Retires After Building Major Non-China Miner",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flynas-rare-earths-says-ceo-amanda-lacaze-to-step-down-in-june",
-    "published": "Mon, 12 Jan 2026 23:24:44 CST",
-    "summary": "Lynas Rare Earths Ltd. Chief Executive Officer Amanda Lacaze will step down\nafter 12 years building a company that has become one of the few big\nchallengers to China’s dominance of the critical minerals.\n\n"
-  },
-  {
     "title": "Oil Edges Higher as Trump Vows to Tariff Iranian Crude Buyers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13",
     "published": "Mon, 12 Jan 2026 23:22:30 CST",
     "summary": "Oil touched the highest level since November after US President Donald Trump\nsaid he’s imposing a 25% tariff on goods from countries “doing business” with\nIran after a wave of deadly unrest in the OPEC member.\n\n"
   },
   {
-    "title": "Takaichi Trade Roars Back as Japan Snap Election Bets Mount",
+    "title": "Takaichi Trade Roars Back in Japan as Snap Election Bets Grow",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjapan-s-stocks-poised-to-jump-on-weak-yen-election-expectations",
     "published": "Mon, 12 Jan 2026 23:16:35 CST",
-    "summary": "Japanese stocks climbed to new all-time highs while the yen and government\nbonds slumped on speculation that Prime Minister Sanae Takaichi may soon call\na snap election.\n\n"
+    "summary": "Japanese stocks extended their climb to record highs while the yen and\ngovernment bonds slumped on speculation that Prime Minister Sanae Takaichi may\nsoon call a snap election.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
@@ -210,16 +228,10 @@
     "summary": "The Justice Department’s probe into whether Jerome H. Powell, the chair of the\nFederal Reserve, lied about renovations to the central bank’s headquarters has\nraised alarms.\n\n"
   },
   {
-    "title": "GigaDevice Jumps 54% in Hong Kong After $600 Million Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgigadevice-set-for-hong-kong-debut-after-600-million-offering",
-    "published": "Mon, 12 Jan 2026 23:00:00 CST",
-    "summary": "GigaDevice Semiconductor Inc. shares rose in its Hong Kong debut, underscoring\ngrowing investor interest in Chinese stocks related to artificial\nintelligence.\n\n"
-  },
-  {
     "title": "Asian Shares Hit Record, Yen Falls to 2024 Levels: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
-    "summary": "Asian shares climbed to a record as cheaper valuations and regional growth\nprospects drew investors broadening their focus beyond US markets.\n\n"
+    "summary": "The rally in stocks extended into Asia, where cheaper valuations and higher\ngrowth prospects drew investors broadening their focus beyond US markets.\n\n"
   },
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
@@ -250,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
     "published": "Mon, 12 Jan 2026 21:06:22 CST",
     "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
-  },
-  {
-    "title": "Orsted Wins Ruling to Resume US Wind Project Halted by Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Forsted-wins-ruling-to-resume-us-wind-project-halted-by-trump",
-    "published": "Mon, 12 Jan 2026 21:01:59 CST",
-    "summary": "A US judge ruled Orsted A/S can resume building a wind farm project off the\ncoast of Rhode Island while it challenges the government’s latest stop-work\norder, a major win for the Danish energy giant in an ongoing fight with the\nTrump administration over renewable energy.\n\n"
   },
   {
     "title": "Trump targets credit card rates. What’s at stake for Capital One and other banks",
@@ -934,12 +940,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Fnew-car-sales.html",
     "published": "Mon, 05 Jan 2026 17:57:44 CST",
     "summary": "A larger proportion of new cars are being bought by affluent Americans as\nprices and interest rates for auto loans climb, analysts said.\n\n"
-  },
-  {
-    "title": "JPMorgan forms special advisory group to share some of bank's 'secret sauce' with clients",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F05%2Fjpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
-    "published": "Mon, 05 Jan 2026 15:56:57 CST",
-    "summary": "They're calling the initiative the \"Special Advisory Services,\" which launches\nMonday, with Liz Myers, who also serves as global chair of investment banking,\nat the helm.\n\n"
   },
   {
     "title": "Supreme Court Increasingly Favors the Rich, Economists Say",
