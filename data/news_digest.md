@@ -1,57 +1,57 @@
-# NoBS News Digest - January 12, 2026
+# NoBS News Digest - January 13, 2026
 
-Generated from **213** unique articles (deduplicated from 213 total) across **1** news sources
+Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global markets and geopolitical tensions dominate headlines as Japan's stock market prepares for a surge amid a weaker yen and speculation over Prime Minister Sanae Takaichi's potential snap election. Meanwhile, Bolivia's President Rodrigo Paz secures a critical agreement to phase out fuel subsidies, marking an early victory in his economic reform agenda. In energy markets, oil prices hit a one-month high due to unrest in Iran and growing concerns over supply disruptions, while President Trump's push to revive Venezuela's oil sector faces skepticism from U.S. energy executives and analysts. The move, part of a broader Latin America strategy, risks exacerbating a global oil glut and straining U.S. economic leverage, with China closely monitoring developments as it maintains its dominant trade and lending position in the region. Elsewhere, Democratic lawmakers call for an investigation into Middle East envoy Steve Witkoff, and Ukraine's Nemiroff vodka producer defies wartime challenges by expanding exports to Western markets.
+Geopolitical tensions and economic maneuvers dominate global headlines this week, with President Trump's aggressive push into Venezuela's oil sector drawing widespread scrutiny. Despite Trump's efforts to rally U.S. oil executives behind a $100 billion investment plan, major firms remain hesitant due to political instability and China's entrenched economic influence in Latin America. The move risks exacerbating a global oil glut, further pressuring U.S. frackers already facing production declines. Meanwhile, diplomatic strains flare as China threatens to derail UK trade talks over a minister's Taiwan visit, underscoring Beijing's assertive stance on sovereignty issues. In Asia, financial markets react to political shifts, with Japanese stocks surging on speculation of a snap election under Prime Minister Sanae Takaichi, while South Korea's stock exchange extends trading hours amid a record-breaking rally. Elsewhere, Ukraine's resilience shines as businesses like Nemiroff expand exports despite ongoing war disruptions, highlighting the country's determination to sustain economic activity amid conflict.
 
 **Top Articles:**
-- [Japan’s Stocks Poised to Jump on Weak Yen, Election Expectations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjapan-s-stocks-poised-to-jump-on-weak-yen-election-expectations)
-- [Bolivia’s New President Scores Win in Agreement on Fuel Prices](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbolivia-plans-new-economic-decree-won-t-resume-fuel-subsidies)
+- [Korea Exchange Plans Longer Trading as Kospi Extends Record Run](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fkorea-exchange-plans-longer-trading-as-kospi-extends-record-run)
+- [Japan Stocks Gain, Bonds Slump on Takaichi Election Expectations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjapan-s-stocks-poised-to-jump-on-weak-yen-election-expectations)
 - [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
-- [Oil Hits One-Month High as Iran Protests Offer Fresh Supply Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-11%2Flatest-oil-market-news-and-analysis-for-jan-12)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
+- [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
 
-**Sources**: archive.ph (15 articles)
+**Sources**: archive.ph (14 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, central bank scrutiny, and corporate shifts. Oil prices surged to a one-month high after President Trump announced tariffs on countries trading with Iran, while the S&P 500 hit fresh records despite escalating concerns over Federal Reserve independence. A Justice Department probe into Fed Chair Jerome Powell has sparked backlash from former Fed officials and market unease, though stocks and bonds showed resilience. Meanwhile, corporate activity remains robust, with Medline's post-IPO rally and GigaDevice's $600 million Hong Kong debut highlighting strong investor appetite for AI and healthcare sectors. In Latin America, Argentina secured multilateral funds to repay a $2.5 billion U.S. swap, while the Philippine peso's record weakness raises questions about central bank intervention. The Fed's cautious stance on rate cuts persists amid solid jobs data, keeping market expectations in check.
+Global markets are navigating a mix of geopolitical tensions, central bank scrutiny, and shifting investor sentiment. The Federal Reserve remains in the spotlight as a Justice Department criminal investigation into Chair Jerome Powell raises concerns about the central bank's independence, with former Fed officials and Treasury Secretary Janet Yellen condemning the probe as a threat to economic stability. Meanwhile, Asian markets hit record highs amid regional growth optimism, though China's economic challenges persist despite its push into AI and robotics. Commodities are volatile, with oil rising on Trump's tariff threats against Iranian crude buyers, while gold steadies after a surge fueled by Fed uncertainty. Corporate moves include BlackRock's job cuts, Paramount's legal push against Warner Bros' Netflix deal, and a rare earths CEO retirement, underscoring sector-specific shifts. The Korean won's prolonged decline and Japan's bond slump reflect broader currency and debt market pressures, while traders brace for potential new derivatives curbs in India.
 
 **Top Articles:**
-- [Lynas Rare Earths Says CEO Amanda Lacaze to Step Down in June](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flynas-rare-earths-says-ceo-amanda-lacaze-to-step-down-in-june)
-- [Oil Trades at One-Month High as Trump Vows to Tariff Iran Buyers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13)
-- [Top Fed Official Conveys Little Urgency for Immediate Rate Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-john-williams-rates.html)
-- [2026 Real Estate Opportunity ‘Compelling': Hochfelder](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2F2026-real-estate-opportunity-compelling-hochfelder-video)
-- [Argentina Used Multilateral Funds to Repay $2.5 Billion US Swap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fargentina-used-multilateral-funds-to-repay-2-5-billion-us-swap)
+- [UBS CEO Ermotti Warns Swiss Banking Reforms Go Too Far](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far-video)
+- [Japan Firms Seek Assurance China Curbs Won’t Hit Civilian Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapan-firms-seek-assurance-china-curbs-won-t-hit-civilian-trade)
+- [Korean Won Weakens, Heads for Longest Losing Streak Since 2008](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fkorean-won-weakens-heads-for-longest-losing-streak-since-2008)
+- [A Top Fed Official Conveys Little Urgency for Immediate Rate Cuts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-john-williams-rates.html)
+- [India’s Debt Fund Managers Turn Tactical as Returns Get Harder](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Findia-s-debt-fund-managers-turn-tactical-as-returns-get-harder)
 
-**Sources**: archive.ph (85 articles)
+**Sources**: archive.ph (88 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Alphabet surges past a $4 trillion valuation, fueled by its AI deal with Apple to power Siri with Gemini, cementing its status as a leader in the AI boom. Meanwhile, Elon Musk’s Grok AI faces growing scrutiny, with the UK launching an investigation into its generation of sexualized images and Malaysia and Indonesia blocking access over explicit content. Regulatory pressures also loom as lawmakers prepare to revive a major crypto bill, while Venezuela’s potential Bitcoin holdings draw speculation amid broader economic uncertainty. In corporate moves, Boeing secures its largest order ever from Alaska Airlines, while GM and Ford adjust strategies amid an EV market slowdown. The intersection of AI innovation, regulatory challenges, and shifting market dynamics underscores a pivotal moment for tech and finance.
+The tech and business landscape is dominated by major AI developments and corporate maneuvers this week. Alphabet surges past Apple to become the world's second-most valuable company, hitting a $4 trillion valuation after Apple integrates Google's Gemini AI into Siri. Meanwhile, Elon Musk's AI chatbot Grok faces regulatory scrutiny in the UK and bans in Malaysia and Indonesia over sexually explicit AI-generated images. In corporate news, JPMorgan Chase marks CEO Jamie Dimon's 20-year tenure amid succession speculation, while Boeing secures its largest order ever from Alaska Airlines. The Trump administration also makes headlines with a potential trade deal with Taiwan, including TSMC's commitment to expand U.S. manufacturing, and a controversial proposal to cap credit card interest rates at 10%.
 
 **Top Articles:**
-- [Duke: Could See Fed's Powell Stay Until 2028](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fduke-could-see-fed-s-powell-stay-until-2028-video)
-- [Trump’s Feel-My-Pain Economic Message](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Ftrump-economy.html)
+- [Diameter’s Winning Bet on First Brands Turns ‘Horribly Wrong’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fdiameter-s-winning-bet-on-first-brands-turns-horribly-wrong)
 - [Trump Administration Nears Trade Deal With Taiwan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feconomy%2Ftrump-taiwan-deal.html)
-- [Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html)
-- [Bullish Oil Option Volume Soars to Record as Traders Sweat Iran Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fbullish-oil-option-volume-soars-to-record-as-traders-sweat-iran-risk)
+- [The campaign to persuade Trump to investigate the Federal Reserve chief](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F)
+- [PGIM's Marcus: Affordable Housing a Good Investment](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fpgim-s-marcus-affordable-housing-a-good-investment-video)
+- [Duke: Could See Fed's Powell Stay Until 2028](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fduke-could-see-fed-s-powell-stay-until-2028-video)
 
-**Sources**: archive.ph (75 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-Aldi is accelerating its expansion in the U.S. grocery market, announcing plans to open more than 180 new stores in 2026. The discount retailer's aggressive growth strategy underscores its increasing appeal to budget-conscious consumers across income levels, intensifying competition with traditional supermarkets. As inflation and economic uncertainty persist, Aldi's focus on affordability and efficiency continues to attract shoppers, further reshaping the grocery landscape. The move highlights a broader trend of discounters gaining market share, forcing established chains to adapt to shifting consumer preferences.
+Aldi, the discount grocery chain, is accelerating its expansion in the U.S. with plans to open more than 180 new stores in 2026. The move underscores the intensifying competition in the grocery sector as budget-conscious consumers increasingly turn to discounters for their weekly shopping. Aldi's aggressive growth strategy reflects broader shifts in consumer behavior, with shoppers across income levels prioritizing value amid economic pressures. The expansion also signals a challenge to traditional grocery retailers, who are losing market share to discount rivals offering lower prices and streamlined shopping experiences. Industry analysts note that Aldi's focus on efficiency and affordability continues to resonate with cost-sensitive customers, further reshaping the retail landscape.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Aldi is accelerating its expansion in the U.S. grocery market, announcing plans 
 
 ## 📰 Other News
 
-This week's news highlights significant shifts in business, policy, and culture. In finance, Vanguard introduces 15 new ETFs with higher-than-usual fees, signaling a potential shift in its low-cost strategy, while QXO secures a $3 billion financing deal to fuel mergers and acquisitions. The corporate landscape sees Allegiant acquiring Sun Country in a $1.5 billion deal, reflecting consolidation in the budget airline sector, and Paramount escalating its pursuit of Warner Bros. Discovery with threats of a board fight. On the policy front, New York Governor Kathy Hochul pushes for expanded nuclear capacity to meet rising energy demands, while California’s proposed wealth tax targets billionaires with a one-time 5% levy. Culturally, the Golden Globes recognize podcasts for the first time, with nominations including 'Call Her Daddy,' underscoring the medium’s growing influence. Meanwhile, housing market trends show signs of easing, though affordability remains a pressing concern for middle-class Americans. Notable human interest stories include the late David Mitchell’s advocacy against high drug prices and a new crash test dummy designed to improve safety for women in car accidents.
+This week's news highlights significant economic and corporate developments, alongside notable cultural shifts. In business, UBS economist Ning Zhang outlines challenges for China's 2026 growth, while Allegiant's $1.5 billion acquisition of Sun Country underscores consolidation in the budget airline sector. The housing market shows signs of easing, with a key milestone suggesting potential relief for buyers, though affordability remains a pressing issue for middle-class Americans. Culturally, the Golden Globes make history by introducing a best podcast category, reflecting the medium's rising influence, while Neon studio leads nominations with a slate of international films. Meanwhile, legal battles continue as Orsted resumes a wind farm project after a court ruling against Trump-era restrictions, and X sues music publishers over alleged licensing collusion. Social trends include a push for gender-inclusive crash test dummies to improve women's safety in car accidents, and California's controversial billionaire tax proposal, which targets ultra-high-net-worth residents.
 
 **Top Articles:**
-- [Vanguard Edges Away From Its Rock-Bottom Fees](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fvanguard-edges-away-from-its-rock-bottom-fees-video)
-- [Hochul Planning Big Expansion of New York’s Nuclear Capacity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fhochul-planning-big-expansion-of-new-york-s-nuclear-capacity)
+- [UBS’ Zhang on China’s Economic Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fubs-zhang-on-china-s-economic-outlook-video)
 - [Jersey Mike's strikes European expansion deal led by founder Peter Cancro](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fjersey-mikes-european-expansion-peter-cancro.html)
 - [Orsted Wins Ruling to Resume US Wind Project Halted by Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Forsted-wins-ruling-to-resume-us-wind-project-halted-by-trump)
 - [David Mitchell, Who Led Fight on Drug Prices, Dies at 75](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fhealth%2Fdavid-mitchell-dead.html)
+- [Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fallegiant-sun-country-deal.html)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 12, 2026 at 11:40 PM *
+*Digest generated on January 13, 2026 at 02:31 AM *
