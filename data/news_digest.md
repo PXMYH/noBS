@@ -1,19 +1,19 @@
 # NoBS News Digest - January 13, 2026
 
-Generated from **211** unique articles (deduplicated from 211 total) across **1** news sources
+Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvering dominate global headlines this week, with oil markets reacting sharply to escalating pressures. Oil prices surged past $65 a barrel amid heightened U.S. actions against Iran and attacks on tankers near Russia’s Black Sea coast, exacerbating supply concerns. Meanwhile, President Trump’s push to revive Venezuela’s oil sector faces skepticism from major energy firms, wary of political instability and long-term risks. His broader Latin America strategy also draws scrutiny as China, already the region’s dominant economic player, monitors U.S. moves closely. In Europe, China’s diplomatic tensions with the UK flared after a minister’s Taiwan visit threatened key trade talks, underscoring Beijing’s assertive stance on sovereignty issues. Elsewhere, Ukraine’s resilience shines as businesses like Nemiroff expand exports despite ongoing war disruptions, while Trump’s domestic focus on defense contractors signals a crackdown on delayed weapons deliveries.
+Geopolitical tensions and economic pressures dominate global headlines this week, with Russia facing logistical challenges as at least 12 tankers carrying Urals crude idle off the Omani coast, signaling potential disruptions in its oil exports. Meanwhile, oil prices surge above $65 a barrel amid escalating US pressure on Iran and attacks on Black Sea tankers, exacerbating supply concerns. In Latin America, President Trump's push to expand US influence in Venezuela's oil sector meets resistance from industry executives, while China watches closely, having already established itself as the region's dominant economic partner. Ukraine's corporate sector grapples with a $3 billion debt crisis as Russian strikes intensify, forcing businesses to seek debt extensions, though some, like vodka maker Nemiroff, continue expanding exports despite wartime challenges. Diplomatic strains also emerge as China threatens to cancel UK trade talks over a minister's Taiwan visit, underscoring Beijing's sensitivity to territorial issues.
 
 **Top Articles:**
+- [Russian Crude Cargoes Pile Up on Tankers as Deliveries Falter](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frussia-s-oil-exports-pile-up-on-tankers-as-deliveries-falter)
+- [Ukraine Firms Brace for $3 Billion Debt Wall as Strikes Increase](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fukraine-firms-brace-for-3-billion-debt-wall-as-strikes-increase)
 - [Oil Hits $65 as Geopolitical Risks Swirl From Iran to Black Sea](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13)
 - [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
-- [Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Fenergy-environment%2Ftrump-venezuela-oil-executives.html)
-- [Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html)
 
 **Sources**: archive.ph (10 articles)
 
@@ -21,37 +21,37 @@ Geopolitical tensions and economic maneuvering dominate global headlines this we
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of corporate resilience, central bank tensions, and geopolitical shifts as earnings season kicks off. BNY Mellon and JPMorgan Chase deliver strong results, with BNY raising profit targets amid fee and interest income gains, while JPMorgan's upcoming report is closely watched for consumer and corporate trends. Meanwhile, the Federal Reserve faces unprecedented political pressure as the Justice Department launches a criminal investigation into Chair Jerome Powell, sparking concerns over central bank independence. Former Fed officials and Treasury Secretary Janet Yellen condemn the probe, warning of potential market instability. In Asia, China's stock rally shows signs of overheating, while Japan's rising bond yields and weaker yen are seen as positive economic signals by Carlyle Group. Hedge funds post their best gains in 16 years, capitalizing on market volatility, while European stocks flash warning signs of an overstretched rally. Corporate moves include Glencore's merger talks with Rio Tinto and Paramount's legal challenge to Warner Bros' Netflix deal.
+Global financial markets are navigating a mix of corporate resilience and political turbulence, with central bank independence emerging as a flashpoint. The Federal Reserve faces unprecedented pressure as a Justice Department criminal investigation into Chair Jerome Powell draws sharp rebukes from global central bankers, including the ECB and Bank of England, who issued a rare joint statement defending the Fed’s autonomy. The probe, which Powell dismisses as politically motivated, coincides with a cautious Fed stance on rate cuts, keeping borrowing costs steady amid lingering inflation concerns. Meanwhile, corporate earnings season kicks off with JPMorgan delivering mixed results—beating profit estimates but reporting a surprise drop in investment-banking fees—while Delta Airlines signals strong demand in high-end travel, hinting at another record year. In commodities, gold hovers near record highs as traders weigh geopolitical risks, while Europe’s energy hedge funds eye new opportunities from expanded trading hours. Elsewhere, Trump’s aggressive trade policies, including a threatened 25% tariff on nations dealing with Iran and a proposed 10% cap on credit card rates, rattle markets, with Capital One shares tumbling on the latter. M&A activity simmers as Glencore explores a merger with Rio Tinto, and Paramount escalates its opposition to Warner Bros.’ Netflix deal with board nominations and a lawsuit. Against this backdrop, hedge funds post their best gains in 16 years, capitalizing on market volatility, while China’s economic recovery remains uneven, with AI and robotics failing to offset a prolonged real estate slump.
 
 **Top Articles:**
-- [BNY raises profit target as CEO Robin Vince says 'turnaround' is taking hold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fbny-profit-target-ceo-robin-vince-turnaround.html)
-- [BNY Mellon Profit Beats Estimates on Fee Gains, Interest Income](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbny-mellon-profit-beats-estimates-on-fee-gains-interest-income)
-- [Cash Cows of US Tech Will Challenge the Rotation Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-13%2Fcash-cows-of-us-tech-will-challenge-the-rotation-trade)
-- [Carlyle Says Don’t Fret Over Japan’s Rising Yields and Weak Yen](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcarlyle-says-don-t-fret-over-japan-s-rising-yields-weak-yen)
-- [Hedge Funds Turn Chaos Into Cash for Best Gains in 16 Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhedge-funds-turn-chaos-into-cash-for-best-gains-in-16-years)
+- [The Powell Defense Grows](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fdealbook%2Fpowell-federal-reserve-trump-investigation.html)
+- [Delta CEO sees record earnings in reach again thanks to high-end travel demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdelta-air-lines-dal-4q-2025-earnings.html)
+- [Global Central Bankers Express Support for Fed Chair After Criminal Investigation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Ftrump-powell-central-bank-support.html)
+- [Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html)
+- [Europe’s Gas and Power Hedge Funds Are Set to Cash In](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-13%2Feurope-s-gas-and-power-hedge-funds-set-to-cash-in-from-round-the-clock-trading)
 
-**Sources**: archive.ph (83 articles)
+**Sources**: archive.ph (90 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Google's parent company, Alphabet, hits a $4 trillion valuation following a landmark AI deal with Apple, which will integrate Gemini into Siri. Meanwhile, Elon Musk's AI chatbot, Grok, faces regulatory scrutiny in the UK and bans in Malaysia and Indonesia over sexually explicit AI-generated images. In corporate moves, JPMorgan scouts top talent for its India expansion, while Rio Tinto and Glencore restart merger talks amid surging demand for critical metals. The Trump administration nears a trade deal with Taiwan, including commitments from TSMC to expand U.S. chip manufacturing, as economic policies and tariff debates shape market outlooks. Elsewhere, Boeing plans to accelerate production after its strongest delivery year since 2018, while GM and Ford adjust strategies amid an EV market slowdown.
+The tech and business landscape is buzzing with major developments this week. Google parent Alphabet surged past a $4 trillion valuation after striking a landmark AI deal with Apple, integrating Gemini into Siri and solidifying its position as the world's second-most valuable company. Meanwhile, Elon Musk's AI chatbot Grok faces mounting scrutiny, with UK regulators launching an investigation into its generation of sexually explicit images, while Malaysia and Indonesia block access to the platform over similar concerns. In corporate moves, Rio Tinto and Glencore restart merger talks, potentially creating a mining giant amid soaring demand for copper and other metals, while Boeing prepares to accelerate production after its strongest delivery year since 2018. The economic outlook remains mixed, with U.S. inflation staying elevated and job growth slowing, though Delta Air Lines projects a 20% profit rise in 2026 due to strong premium travel demand. Regulatory battles are heating up, as red-state lawmakers push for legal shields for fossil fuel companies, and the Supreme Court weighs whether to move Louisiana's climate lawsuits against oil firms to federal court. Finally, the obesity drug market is poised for disruption, with Amazon Pharmacy now offering Novo Nordisk's Wegovy at discounted rates, signaling a competitive shift in the rapidly growing GLP-1 sector.
 
 **Top Articles:**
-- [Delta forecasts 20% jump in 2026 profits, orders first Boeing Dreamliners](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdelta-air-lines-dal-4q-2025-earnings.html)
+- [Fanatics to launch sports media and entertainment studio](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Ffanatics-sports-media-entertainment-studio.html)
+- [Delta Offers Optimistic Outlook as Travelers Continue to Splurge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fdelta-airlines-premium-travel.html)
+- [Red-state Republicans seek climate ‘liability shield’ for fossil fuel industry](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Frepublicans-climate-liability-shield-fossil-fuel-industry)
+- [Ex-FDA workers warn Trump cuts will increase risk of food safety lapses in US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Ffda-employees-food-safety-warning)
 - [Rio Tinto Taps Evercore’s Robey, JPMorgan on Glencore Pursuit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frio-tinto-taps-evercore-s-robey-jpmorgan-on-glencore-pursuit)
-- [‘We Need to Be the News’: Inside Bari Weiss’s Bumpy Revamp at CBS](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fcbs-evening-news-bari-weiss.html)
-- [Inflation remained elevated in late 2025, new data expected to show](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Finflation-december-2025-cpi-fed%2F)
-- [Mag Seven Outperformance Story Not Over: Morgan Stanley](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fmag-seven-outperformance-story-not-over-morgan-stanley-video)
 
-**Sources**: archive.ph (79 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize affordability in their weekly shopping. Aldi's strategy highlights the shifting dynamics in retail, where traditional supermarkets face mounting pressure from low-cost alternatives.
+Discount grocer Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-driven retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi capturing a larger share of weekly shopping trips across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push shoppers toward more affordable alternatives, challenging traditional supermarket chains. Aldi's strategy includes leveraging its no-frills model and private-label products to attract a diverse customer base, further intensifying the battle for market dominance in the retail space.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-This week’s news highlights significant shifts in global finance, corporate strategy, and social policy. UBS nears the final stages of integrating Credit Suisse, signaling job cuts as part of its restructuring, while Coutts explores offering high-profile alternative investment funds to wealthy clients. In the U.S., political and economic pressures mount as the Trump administration grapples with housing affordability and faces congressional pushback over defunding Voice of America. Meanwhile, offshore wind projects gain momentum after a court ruling allows Orsted to resume construction, and psychedelic medicine faces regulatory hurdles despite growing legalization. Culturally, the Golden Globes recognize podcasts for the first time, reflecting the medium’s rising influence, while Neon leads nominations with a slate of international films. Socially, debates over wealth taxes in California and the Supreme Court’s perceived bias toward the wealthy underscore deepening economic divides, as middle-class Americans increasingly voice concerns over affordability despite economic growth metrics.
+This week’s news highlights significant economic and corporate developments, with UBS nearing the final stages of its Credit Suisse integration, signaling potential job cuts as the merger concludes. Meanwhile, the Trump administration faces political pressure to address rising housing costs, while Congress defies a White House shutdown order to fund Voice of America, underscoring ongoing tensions over media and global influence. In business, Allegiant’s $1.5 billion acquisition of Sun Country reflects consolidation in the budget airline sector, while Paramount’s aggressive pursuit of Warner Bros. Discovery signals a potential shakeup in the entertainment industry. Culturally, the Golden Globes’ first-ever podcast category and Neon’s dominance in non-English film nominations mark a shift in Hollywood’s recognition of diverse media. On the social front, psilocybin therapy’s legalization in three states faces rollout challenges, and California’s proposed billionaire tax sparks debate over wealth redistribution. Emerging trends include the EU and South America’s push for a massive free-trade zone, contrasting with U.S. protectionist policies, and a growing focus on housing affordability as market constraints begin to ease.
 
 **Top Articles:**
+- [Why haven’t tariffs had a bigger impact on prices?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2Fwhy-havent-tariffs-had-a-bigger-impact-on-prices)
+- [What to know about the report.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2Finflation)
 - [Ermotti Flags Job Cuts as UBS Nears Credit Suisse Integration](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fermotti-flags-job-cuts-as-ubs-nears-credit-suisse-integration)
 - [Coutts Weighs Offering Ares and Apollo Funds for Wealth Clients](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcoutts-weighs-offering-ares-apollo-funds-for-wealth-clients)
 - [Facing Political Pressure, Trump Seeks Answer to Rising Housing Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-housing-costs.html)
-- [Congress agrees to fund Voice of America, bucking Trump shutdown order](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Fvoice-of-america-trump-congress-funding%2F)
-- [Orsted Jumps After Ruling to Resume Wind Project Halted by Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Forsted-jumps-after-ruling-to-resume-wind-project-halted-by-trump)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 13, 2026 at 11:44 AM *
+*Digest generated on January 13, 2026 at 01:24 PM *
