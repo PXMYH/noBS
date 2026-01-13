@@ -1,9 +1,81 @@
 [
   {
+    "title": "Basis Trade Has Ballooned to $1.5 Trillion, Morgan Stanley Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbasis-trade-has-ballooned-to-1-5-trillion-morgan-stanley-says",
+    "published": "Tue, 13 Jan 2026 21:26:44 CST",
+    "summary": "The basis trade has swelled to roughly $1.5 trillion, underscoring the need to\nclosely monitor its size to avoid a repeat of the market eruption seen in\n2020, according to Morgan Stanley strategists.\n\n"
+  },
+  {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Fjerome-powell-investigation-blowback.html",
-    "published": "Tue, 13 Jan 2026 20:34:35 CST",
+    "published": "Tue, 13 Jan 2026 21:23:49 CST",
     "summary": "Trump allies fear that the inquiry into the Fed chair could complicate the\nprocess of replacing him this year.\n\n"
+  },
+  {
+    "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
+    "published": "Tue, 13 Jan 2026 21:23:37 CST",
+    "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far\nbeen limited and expensive.\n\n"
+  },
+  {
+    "title": "GoodRx CEO on TrumpRx and Surescripts Partnership",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fgoodrx-ceo-on-trumprx-and-surescripts-partnership-video",
+    "published": "Tue, 13 Jan 2026 21:20:23 CST",
+    "summary": "GoodRx CEO Wendy Barnes speaks with Katie Greifeld at the JPMorgan Health-Care\nConference in San Francisco about TrumpRx and the company's partnership with\nSurescripts. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Tricolor Founder, Ex-COO Plead Not Guilty to Fraud Charges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftricolor-founder-ex-coo-plead-not-guilty-to-fraud-charges",
+    "published": "Tue, 13 Jan 2026 21:18:12 CST",
+    "summary": "Tricolor Holdings founder Daniel Chu and former Chief Operating Officer David\nGoodgame pleaded not guilty to charges that they conspired to defraud lenders\nand investors in the bankrupt subprime auto lender.\n\n"
+  },
+  {
+    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
+    "published": "Tue, 13 Jan 2026 21:17:21 CST",
+    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
+  },
+  {
+    "title": "Novo CEO Sees Strong Demand for Wegovy Obesity Pill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fnovo-ceo-sees-strong-demand-for-wegovy-obesity-pill-video",
+    "published": "Tue, 13 Jan 2026 21:10:09 CST",
+    "summary": "Novo Nordisk CEO Mike Doustdar talks about launching a pill version of their\nblockbuster obesity drug Wegovy in the US. He speaks to Katie Greifeld in San\nFrancisco at the annual JPMorgan Healthcare Conference. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Apollo Looks to Open Trading on Private Chip Loan for Musk’s xAI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fapollo-looks-to-open-trading-on-private-chip-loan-for-musk-s-xai",
+    "published": "Tue, 13 Jan 2026 21:09:03 CST",
+    "summary": "Apollo Global Management Inc. is trying to open up trading on a private debt\ndeal supporting Elon Musk’s artificial intelligence startup xAI Corp.,\naccording to people with knowledge of the matter.\n\n"
+  },
+  {
+    "title": "Citadel and Other Spirit Bondholders to Decide if Airline Survives Bankruptcy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcitadel-called-out-by-spirit-airlines-pilots-fearing-liquidation",
+    "published": "Tue, 13 Jan 2026 20:58:34 CST",
+    "summary": "Ken Griffin’s Citadel and other Spirit Aviation bondholders will likely\ndictate whether the budget airline survives bankruptcy or shuts down, a labor\nunion representing its pilots said Tuesday.\n\n"
+  },
+  {
+    "title": "Trump Could Hurt China, India, Even US Consumers to Get to Iran",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftrump-could-hurt-china-india-us-consumers-to-get-to-iran",
+    "published": "Tue, 13 Jan 2026 20:56:54 CST",
+    "summary": "On today’s Big Take Asia podcast: Could Trump’s Iran tariff threat reignite a\ntrade war with China and India?\n\n"
+  },
+  {
+    "title": "AI Chip Startup Etched Raises $500 Million to Take on Nvidia",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fai-chip-startup-etched-raises-500-million-to-take-on-nvidia",
+    "published": "Tue, 13 Jan 2026 20:53:48 CST",
+    "summary": "AI chip startup Etched raised about $500 million in a new funding round,\naccording to people familiar with the matter, part of an effort to compete\nwith Nvidia Corp. in the booming market for artificial intelligence\nprocessors.\n\n"
+  },
+  {
+    "title": "In a Risky Gambit, Trump Tries Brute Force to Lower Prices",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-speech-economy-inflation-fed.html",
+    "published": "Tue, 13 Jan 2026 20:48:08 CST",
+    "summary": "To assuage cost-weary voters and combat inflation, the president has resorted\nto a mix of threats and punishments, targeting companies and policymakers\nalike.\n\n"
+  },
+  {
+    "title": "Ares Raises $7.1 Billion as Credit Secondaries Boom Continues",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fares-raises-7-1-billion-as-credit-secondaries-boom-continues",
+    "published": "Tue, 13 Jan 2026 20:41:32 CST",
+    "summary": "Ares Management Corp. collected $7.1 billion for its debut private credit\nsecondaries strategy and expects the market for secondhand credit stakes to\ncontinue its rapid growth this year.\n\n"
   },
   {
     "title": "Trump Builds Pressure Against Powell, US Bancorp Acquires BTIG | Bloomberg Markets 1/13/2026",
@@ -30,15 +102,9 @@
     "summary": "The core consumer price index, which excludes the often volatile food and\nenergy categories, increased 0.2% from November. Derek Tang, Co-Founder and\nEconomist at Monetary Policy Analytics discussed how investors are expecting\npolicy to develop on the heels of this economic picture and said that he\nthinks Fed could deliver rate cuts sooner than markets expect, potentially as\nearly as March. He joined the discussion on \"Bloomberg Markets\" with Scarlet\nFu. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
-    "published": "Tue, 13 Jan 2026 19:49:04 CST",
-    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
-  },
-  {
     "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation.html",
-    "published": "Tue, 13 Jan 2026 19:44:13 CST",
+    "published": "Tue, 13 Jan 2026 19:44:14 CST",
     "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
   },
   {
@@ -132,42 +198,6 @@
     "summary": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net\norders rose to 1,173 planes.\n\n"
   },
   {
-    "title": "JPMorgan Says ‘Everything’ on Table to Fight 10% Credit Card Cap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fjpmorgan-everything-on-table-to-fight-credit-card-cap-video",
-    "published": "Tue, 13 Jan 2026 17:37:09 CST",
-    "summary": "JPMorgan Chase & Co. warned that President Donald Trump’s call for a 10% cap\non credit card rates threatens to “significantly change” its business and\nwould harm the biggest US bank and customers. This comes after the JPMorgan\nChase & Co.’s investment-banking fees unexpectedly fell in the fourth quarter,\nmissing the firm’s own guidance from just last month as revenue from both\nunderwriting and advising on mergers declined. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Muni Bonds Start Year Strong as ‘January Effect‘ Emerges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmuni-bonds-start-year-strong-as-january-effect-emerges",
-    "published": "Tue, 13 Jan 2026 17:29:14 CST",
-    "summary": "Municipal bonds are starting 2026 on strong footing, with the so-called\n“January effect” lifting prices as reinvestment cash floods the market.\n\n"
-  },
-  {
-    "title": "Apple, Google Confirm Multiyear Deal for AI Technology, Siri",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fapple-google-confirm-multiyear-deal-for-ai-tech-siri-video",
-    "published": "Tue, 13 Jan 2026 17:28:29 CST",
-    "summary": "Alphabet Inc.’s Google confirmed that it has entered a multiyear deal with\nApple Inc. to power the iPhone maker’s artificial intelligence technology,\nincluding the Siri voice assistant. Bloomberg's Anurag Rana joins to discuss.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "JPMorgan, Citi in Talks to Finance $1 Billion Argentina Pipeline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjpmorgan-citi-in-talks-to-finance-1-billion-argentina-pipeline",
-    "published": "Tue, 13 Jan 2026 17:19:29 CST",
-    "summary": "A group of banks including JPMorgan Chase & Co. and Citigroup Inc. are in\ntalks to lend natural gas producers in Argentina roughly $1 billion to build a\ncross-country pipeline, according to two people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Mubadala-Backed CI Buys Invesco’s Canadian Fund Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmubadala-backed-ci-buys-invesco-s-canadian-fund-assets",
-    "published": "Tue, 13 Jan 2026 17:19:13 CST",
-    "summary": "Atlanta-based Invesco Ltd. is selling its C$26 billion ($18.7 billion)\nCanadian investment fund business to CI Global Asset Management, furthering\nthe M&A trend in the country’s mutual fund industry.\n\n"
-  },
-  {
-    "title": "Wellington Hires Hamilton Lane’s Alex Behm for Secondaries Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fwellington-hires-hamilton-lane-s-alex-behm-for-secondaries-push",
-    "published": "Tue, 13 Jan 2026 17:18:05 CST",
-    "summary": "Wellington Management Co., the mutual fund giant best known for stock- and\nbond-picking, hired Hamilton Lane Inc.’s Alex Behm to lead its foray into the\nhot market of buying and selling private equity stakes.\n\n"
-  },
-  {
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Ftrump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "published": "Tue, 13 Jan 2026 16:54:45 CST",
@@ -196,18 +226,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fbny-profit-target-ceo-robin-vince-turnaround.html",
     "published": "Tue, 13 Jan 2026 16:10:42 CST",
     "summary": "BNY raised a pair of key medium-term performance targets on Tuesday.\n\n"
-  },
-  {
-    "title": "Hedge Funds Post Best Returns in 16 Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fhedge-funds-thrive-in-2025-video",
-    "published": "Tue, 13 Jan 2026 16:08:43 CST",
-    "summary": "Hedge fund investors haven't had it this good since the aftermath of the\nfinancial crisis. Data compiled by industry tracker Hedge Fund Research\nshowing that the industry posted its best year since 2009, with gains of about\n12.6%. Bloomberg's Hedge Fund Reporter Hema Parmar joined Bloomberg Open\nInterest to talk about the gains. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Inside the Home Renovation Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Finside-the-home-renovation-boom-video",
-    "published": "Tue, 13 Jan 2026 16:05:45 CST",
-    "summary": "The home services sector is booming -- already worth nearly $700 billion and\non track to top $1.4 trillion by the end of the decade according to the market\nresearch firm Mordor Intelligence. As the Trump administration ramps up\nefforts to lower housing costs, high prices are still pushing many buyers\ntoward fixer-uppers, while an aging population is driving demand for home\nmodifications. Andy Bell, CEO of Ace Handyman Services, joined Bloomberg Open\nInterest to talk about how homeowners are renovating and spending. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
@@ -258,7 +276,7 @@
     "summary": "Consumer price index rose 2.7% in year to December, in line with November, as\npresident feuds with Fed over rate cuts\n\n  * US politics live – latest updates\n\nUS inflation held firm last month as Donald Trump faces mounting pressure over\nthe cost of living for millions of Americans.\n\nThe closely watched consumer price index rose 2.7% in the year to December, in\nline with the previous month, according to official data published on Tuesday\nmorning, ahead of a speech by the US president on the economy.\n\nContinue reading...\n\n"
   },
   {
-    "title": "US Stocks Decline as Latest CPI Fails to Lift Rate-Cut Spirits",
+    "title": "US Stocks End Lower as Latest CPI Fails to Lift Rate-Cut Spirits",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fs-p-500-fluctuates-following-better-than-expected-us-inflation",
     "published": "Tue, 13 Jan 2026 14:57:22 CST",
     "summary": "US stocks fell on Tuesday as the latest inflation data failed to shift\ninterest-rate cut bets and traders examined fresh earnings reports.\n\n"
@@ -306,10 +324,10 @@
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
-    "title": "Colombia Launches $5 Billion Bond Sale Ahead of Elections",
+    "title": "Colombia Sells $5 Billion of Global Bonds Ahead of Elections",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcolombia-rushes-to-sell-dollar-debt-ahead-of-busy-election-year",
     "published": "Tue, 13 Jan 2026 13:33:24 CST",
-    "summary": "Colombia is raising nearly $5 billion in global bond markets ahead of pivotal\ncongressional and presidential elections, joining other emerging-market\ngovernments that have rushed to lock in lower borrowing costs this month.\n\n"
+    "summary": "Colombia raised nearly $5 billion in global bond markets ahead of pivotal\ncongressional and presidential elections, joining other emerging-market\ngovernments that have rushed to lock in lower borrowing costs this month.\n\n"
   },
   {
     "title": "The Powell Defense Grows",
@@ -340,12 +358,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Ffda-employees-food-safety-warning",
     "published": "Tue, 13 Jan 2026 12:00:00 CST",
     "summary": "Current and former workers caution administration’s ‘politicization of\nscience’ will negatively affect Americans\n\nSweeping cuts and the “politicization of science” inside the Food and Drug\nAdministration have increased the risk of safety lapses across the US, former\nagency workers warned.\n\nLess than a year after Donald Trump returned to power, and his administration\noversaw the firing and resignation of thousands of FDA employees, a listeria\noutbreak that killed six people and sickened 27 across 18 states due to\ncontamination of prepared pasta meals underlined the danger posed by safety\nfailings.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Rio Tinto Taps Evercore’s Robey, JPMorgan for Glencore Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frio-tinto-taps-evercore-s-robey-jpmorgan-on-glencore-pursuit",
-    "published": "Tue, 13 Jan 2026 11:25:26 CST",
-    "summary": "Rio Tinto Group has brought on a slate of bankers including Simon Robey, one\nof the UK’s top rainmakers, as it pursues a deal for Glencore Plc, people with\nknowledge of the matter said.\n\n"
   },
   {
     "title": "Jerome Powell: steely Fed chair standing firm in face of Trump’s threats",
@@ -382,12 +394,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Fdonald-trump-supreme-court-tariffs-iran-us-trade",
     "published": "Tue, 13 Jan 2026 09:10:10 CST",
     "summary": "US president speaks after saying that any country that does business with Iran\nwill face 25% levy on trade with US\n\n  * Business live – latest updates\n\nDonald Trump has said “it would be a complete mess” if the US supreme court\nwere to strike down his global trade tariffs.\n\nIn a lengthy post on social media, the US president said “WE’RE SCREWED” if\nthe supreme court rules against the tariffs. The decision is expected as soon\nas Wednesday. It is a crucial legal test of his controversial economic\nstrategy and his power.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
-    "published": "Tue, 13 Jan 2026 08:00:10 CST",
-    "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far\nbeen limited and expensive.\n\n"
   },
   {
     "title": "Why China Is Suddenly Obsessed With American Poverty",
@@ -822,12 +828,6 @@
     "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
   },
   {
-    "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgoogle-founders-california-wealth-tax.html",
-    "published": "Fri, 09 Jan 2026 16:26:13 CST",
-    "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to\nthe state where they built their fortunes.\n\n"
-  },
-  {
     "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
     "published": "Fri, 09 Jan 2026 16:14:42 CST",
@@ -1006,12 +1006,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F25%2Fus%2Fpolitics%2Ftrump-auto-loan-deduction-benefits.html",
     "published": "Thu, 25 Dec 2025 18:28:34 CST",
     "summary": "Many Americans can take advantage of President Trump’s deduction on auto loan\ninterest, but the tax break will provide only modest savings.\n\n"
-  },
-  {
-    "title": "Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F24%2Fus%2Fpolitics%2Ftrump-artificial-intelligence-economy-risks.html",
-    "published": "Wed, 24 Dec 2025 10:02:31 CST",
-    "summary": "The administration has downplayed concerns — from mass job losses, to a\npotential financial bubble — as President Trump cheers soaring stock prices\nand faster growth.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
