@@ -1,9 +1,51 @@
 [
   {
+    "title": "Warren Buffett was still searching for that elephant in his final months as Berkshire CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fwarren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html",
+    "published": "Tue, 13 Jan 2026 18:43:28 CST",
+    "summary": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of\n2026, made it clear that size is not the constraint, opportunity is.\n\n"
+  },
+  {
     "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fjpmorgan-earnings-report.html",
-    "published": "Tue, 13 Jan 2026 17:48:59 CST",
+    "published": "Tue, 13 Jan 2026 18:41:09 CST",
     "summary": "The nation’s largest bank earned $57 billion in 2025, and Jamie Dimon, its\nchief executive, said “the benefits of deregulation” would help in the future.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: JPMorgan, Moderna, Boeing, Cardinal Health, Chipotle & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fstocks-making-the-biggest-moves-midday-jpm-mrna-ba-cah-.html",
+    "published": "Tue, 13 Jan 2026 18:40:50 CST",
+    "summary": "These are some of the stocks posting the largest midday moves.\n\n"
+  },
+  {
+    "title": "Robot Traders Hike Bullish Oil Bets as Trump’s Iran Comments Jolt Prices",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frobot-traders-hike-bullish-oil-bets-as-trump-s-iran-rhetoric-intensifies",
+    "published": "Tue, 13 Jan 2026 18:33:42 CST",
+    "summary": "Algorithmic traders have turned bullish on crude oil for the first time since\nSeptember as US President Donald Trump intensifies his rhetoric against the\nIranian government.\n\n"
+  },
+  {
+    "title": "Gourmet Magazine Is Back, as  Unsanctioned New Media",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fgourmet-magazine-newsletter.html",
+    "published": "Tue, 13 Jan 2026 18:28:17 CST",
+    "summary": "The defunct food publication is re-emerging as a newsletter, with new\nleadership and zero approval from its original owner.\n\n"
+  },
+  {
+    "title": "JPMorgan is lower after better-than-expected results. Is it a buying opportunity?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-is-lower-after-better-than-expected-results-is-it-a-buying-opportunity.html",
+    "published": "Tue, 13 Jan 2026 18:22:35 CST",
+    "summary": "Wall Street analysts largely framed the pullback as profit-taking rather than\na fundamental shift in the outlook.\n\n"
+  },
+  {
+    "title": "Asta Energy Said to Weigh Frankfurt IPO Kickoff This Week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbillionaire-michael-tojner-s-energy-unit-said-to-eye-ipo-this-week",
+    "published": "Tue, 13 Jan 2026 18:16:21 CST",
+    "summary": "Asta Energy Solutions AG, a manufacturer of copper-based components used in\npower plants and electric vehicles, is considering launching an initial public\noffering in Frankfurt as soon as this week, according to people familiar with\nthe matter.\n\n"
+  },
+  {
+    "title": "Hudson River’s 2025 Trading Revenue Set for Record $12.3 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhudson-river-s-2025-trading-revenue-set-for-record-12-3-billion",
+    "published": "Tue, 13 Jan 2026 17:47:30 CST",
+    "summary": "Trading revenue at market-making firm Hudson River Trading rose in 2025 toward\na record level as volatile markets helped lift results globally for companies\nthat step in to match buyers and sellers.\n\n"
   },
   {
     "title": "Delta Seals Boeing Order as Earnings Support Travel Boom",
@@ -12,10 +54,16 @@
     "summary": "Delta Air Lines Inc. is ordering 30 Boeing Co. 787 Dreamliner jets in its\nfirst-ever purchase of that model, providing a boost to the US planemaker that\nhighlights the airline’s optimism for international travel demand. The\nannouncement came as Atlanta-based Delta reported earnings for the fourth\nquarter that beat analyst estimates. Revenue last year rose to a record $58.3\nbillion, in line with analysts’ expectations. Bloomberg's George Ferguson\njoins to discuss on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Warren Buffett was still searching for that elephant in his final months as Berkshire CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fwarren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html",
-    "published": "Tue, 13 Jan 2026 17:38:20 CST",
-    "summary": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of\n2026, made it clear that size is not the constraint, opportunity is.\n\n"
+    "title": "Warburg Mulls $1 Billion Sale of London Insurance Broker McGill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fwarburg-mulls-1-billion-sale-of-london-insurance-broker-mcgill",
+    "published": "Tue, 13 Jan 2026 17:43:43 CST",
+    "summary": "Warburg Pincus is considering a possible sale of UK insurance broker McGill\nand Partners, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Bitpanda Said to Gear Up for Frankfurt IPO in First Half of 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbitpanda-said-to-gear-up-for-frankfurt-ipo-in-first-half-of-2026",
+    "published": "Tue, 13 Jan 2026 17:38:00 CST",
+    "summary": "Bitpanda GmbH, a cryptocurrency trading platform backed by billionaire Peter\nThiel, is gearing up for a Frankfurt initial public offering as soon as the\nfirst half of this year, according to people familiar with the matter.\n\n"
   },
   {
     "title": "Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600",
@@ -30,16 +78,16 @@
     "summary": "JPMorgan Chase & Co. warned that President Donald Trump’s call for a 10% cap\non credit card rates threatens to “significantly change” its business and\nwould harm the biggest US bank and customers. This comes after the JPMorgan\nChase & Co.’s investment-banking fees unexpectedly fell in the fourth quarter,\nmissing the firm’s own guidance from just last month as revenue from both\nunderwriting and advising on mergers declined. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: JPMorgan, Moderna, Boeing, Cardinal Health, Chipotle & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fstocks-making-the-biggest-moves-midday-jpm-mrna-ba-cah-.html",
-    "published": "Tue, 13 Jan 2026 17:37:08 CST",
-    "summary": "These are some of the stocks posting the largest midday moves.\n\n"
+    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
+    "published": "Tue, 13 Jan 2026 17:34:56 CST",
+    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
-    "title": "Initial Obamacare Enrollment Drops by 1.4 Million",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
-    "published": "Tue, 13 Jan 2026 17:34:55 CST",
-    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
+    "title": "Muni Bonds Start Year Strong as ‘January Effect‘ Emerges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmuni-bonds-start-year-strong-as-january-effect-emerges",
+    "published": "Tue, 13 Jan 2026 17:29:14 CST",
+    "summary": "Municipal bonds are starting 2026 on strong footing, with the so-called\n“January effect” lifting prices as reinvestment cash floods the market.\n\n"
   },
   {
     "title": "Apple, Google Confirm Multiyear Deal for AI Technology, Siri",
@@ -114,12 +162,6 @@
     "summary": "Trump will face an important obstacle — from within his own party — as he\nseeks to replace Federal Reserve Chair Jerome Powell.\n\n"
   },
   {
-    "title": "JPMorgan is lower after better-than-expected results. Is it a buying opportunity?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-is-lower-after-better-than-expected-results-is-it-a-buying-opportunity.html",
-    "published": "Tue, 13 Jan 2026 16:32:53 CST",
-    "summary": "Wall Street analysts largely framed the pullback as profit-taking rather than\na fundamental shift in the outlook.\n\n"
-  },
-  {
     "title": "Trump Greenland Talk Sends Danish Krone Toward Intervention Zone",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftrump-greenland-talk-sends-danish-krone-toward-intervention-zone",
     "published": "Tue, 13 Jan 2026 16:30:12 CST",
@@ -144,18 +186,6 @@
     "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
   },
   {
-    "title": "Bigger Tax Refund Season Could Boost Consumption: Watt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fbigger-tax-refund-season-could-boost-consumption-watt-video",
-    "published": "Tue, 13 Jan 2026 16:23:23 CST",
-    "summary": "UBS US Economist Abigail Watt sees upside risks to the inflation data and the\nbig story for growth optimism this year is based on fiscal policy. She speaks\nto Bloomberg's Vonnie Quinn on 'Bloomberg Brief.' (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Iranian Oil Exports Offset US Sanctions: Myers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Firanian-oil-exports-offset-us-sanctions-myers-video",
-    "published": "Tue, 13 Jan 2026 16:20:28 CST",
-    "summary": "Charles Myers, Chairman and Founder of Signum Global Advisors, discussed the\nlimited impact of US sanctions on Iran due to China's ongoing purchase of\napproximately 90% of Iranian oil, effectively violating the sanctions.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "BNY raises profit target as CEO Robin Vince says 'turnaround' is taking hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fbny-profit-target-ceo-robin-vince-turnaround.html",
     "published": "Tue, 13 Jan 2026 16:10:42 CST",
@@ -166,18 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fhedge-funds-thrive-in-2025-video",
     "published": "Tue, 13 Jan 2026 16:08:43 CST",
     "summary": "Hedge fund investors haven't had it this good since the aftermath of the\nfinancial crisis. Data compiled by industry tracker Hedge Fund Research\nshowing that the industry posted its best year since 2009, with gains of about\n12.6%. Bloomberg's Hedge Fund Reporter Hema Parmar joined Bloomberg Open\nInterest to talk about the gains. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Infra Manager AIP Raises €2 Billion at First Close of New Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Finfra-manager-aip-raises-2-billion-at-first-close-of-new-fund",
-    "published": "Tue, 13 Jan 2026 16:06:38 CST",
-    "summary": "AIP Management, an energy transition and infrastructure manager, has raised\nabout €2 billion ($2.3 billion) at the first close of its latest flagship\nfund.\n\n"
-  },
-  {
-    "title": "Africa’s Oil Producers Lead Bond Gains as Brent Jumps on Iran Tensions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fafrica-oil-producers-lead-bond-rally-as-us-tensions-with-iran-rise",
-    "published": "Tue, 13 Jan 2026 16:05:51 CST",
-    "summary": "Africa’s top oil producers led a bond rally across emerging markets as the\nprice of brent crude rose, fueled by the US escalating pressure against Iran.\n\n"
   },
   {
     "title": "Inside the Home Renovation Boom",
@@ -198,30 +216,6 @@
     "summary": "Beef, coffee and produce were among the items that surged in price, inflation\ndata showed.\n\n"
   },
   {
-    "title": "Boeing Beats Airbus to Claim First Jet Sales Crown Since 2018",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fboeing-beats-airbus-to-claim-first-jet-sales-crown-since-2018",
-    "published": "Tue, 13 Jan 2026 16:00:00 CST",
-    "summary": "Boeing Co. sold more jets than Airbus SE in 2025, ending a seven-year losing\nstreak as the US planemaker rallies from a period of tragedies and corporate\ncrises.\n\n"
-  },
-  {
-    "title": "JPMorgan's Investment-Banking Fees Drop",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fjpmorgan-s-investment-banking-fees-drop-video",
-    "published": "Tue, 13 Jan 2026 15:56:10 CST",
-    "summary": "JPMorgan kicking off bank earnings with a mixed quarter. Investment-banking\nfees missed guidance, while trading revenue beat expectations and the bank\nprojected stronger net interest income. Jason Goldberg, Barclays US Large-Cap\nBank Senior Equity Analyst joined Bloomberg Open Interest to talk about what\nmatters in the results and what it signals for the rest of the big banks.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Deficit Will Put a Floor on Rates: Guild",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdeficit-will-put-a-floor-on-rates-guild-video",
-    "published": "Tue, 13 Jan 2026 15:54:35 CST",
-    "summary": "Robinhood Chief Investment Officer Stephanie Guild says the US deficit will\nput a floor on the 10-year yield and consequently mortgage rates. She speaks\nwith Bloomberg's Matt Miller and Dani Burger on 'Open Interest.' (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Gourmet Magazine Is Back. It’s Not Exactly Sanctioned.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fgourmet-magazine-newsletter.html",
-    "published": "Tue, 13 Jan 2026 15:51:35 CST",
-    "summary": "The defunct food publication is re-emerging as a newsletter, with new\nleadership and zero approval from its original owner.\n\n"
-  },
-  {
     "title": "Orsted Moves to Save Its U.S, Wind Farm Projects",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Forsted-wind-farms-trump.html",
     "published": "Tue, 13 Jan 2026 15:50:12 CST",
@@ -231,7 +225,7 @@
     "title": "U.S. lost more immigrants than it gained in 2025, new estimate shows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Ftrump-immigration-economy-net-negative-migration%2F",
     "published": "Tue, 13 Jan 2026 15:43:02 CST",
-    "summary": "President Donald Trump’s immigration policy has led to a significant decline\nin U.S. immigration rates, with net migration falling below zero for the first\ntime in 50 years, according to a new estimate.\n\n"
+    "summary": "President Donald Trump’s policies have helped lead to net migration falling\nbelow zero for the first time in 50 years, according to the Brookings\nInstitution.\n\n"
   },
   {
     "title": "Data center REIT CEO says real estate ‘not in an oversupply state’",
@@ -258,7 +252,7 @@
     "summary": "Consumer price index rose 2.7% in year to December, in line with November, as\npresident feuds with Fed over rate cuts\n\n  * US politics live – latest updates\n\nUS inflation held firm last month as Donald Trump faces mounting pressure over\nthe cost of living for millions of Americans.\n\nThe closely watched consumer price index rose 2.7% in the year to December, in\nline with the previous month, according to official data published on Tuesday\nmorning, ahead of a speech by the US president on the economy.\n\nContinue reading...\n\n"
   },
   {
-    "title": "US Stocks Drop as CPI Fails to Lift Interest-Rate Cut Bets",
+    "title": "US Stocks Decline as CPI Fails to Lift Interest-Rate Cut Bets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fs-p-500-fluctuates-following-better-than-expected-us-inflation",
     "published": "Tue, 13 Jan 2026 14:57:22 CST",
     "summary": "US stocks fell on Tuesday as the latest inflation data failed to shift\ninterest-rate cut bets and traders examined fresh earnings reports.\n\n"
@@ -297,7 +291,7 @@
     "title": "Global central banks offer ‘full solidarity’ to US Fed’s Powell amid Trump threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fcentral-banks-us-fed-powell-trump-bank-of-england-ecb",
     "published": "Tue, 13 Jan 2026 13:50:18 CST",
-    "summary": "Ten governors including Bank of England’s Andrew Bailey and ECB’s Christine\nLagarde say independence is critical\n\nGlobal central banks have issued an extraordinary joint statement offering\n“full solidarity” to the US Federal Reserve chair, Jerome Powell, in the face\nof the latest threat to his independence from Donald Trump’s White House.\n\n“The independence of central banks is a cornerstone of price, financial and\neconomic stability in the interest of the citizens that we serve. It is\ntherefore critical to preserve that independence, with full respect for the\nrule of law and democratic accountability,” the statement said.\n\nContinue reading...\n\n"
+    "summary": "Ten governors including Bank of England’s Andrew Bailey and ECB’s Christine\nLagarde say independence is critical\n\n  * JP Morgan boss says Trump attacks risk central bank independence\n\nGlobal central banks have issued an extraordinary joint statement offering\n“full solidarity” to the US Federal Reserve chair, Jerome Powell, in the face\nof the latest threat to his independence from Donald Trump’s White House.\n\n“The independence of central banks is a cornerstone of price, financial and\neconomic stability in the interest of the citizens that we serve. It is\ntherefore critical to preserve that independence, with full respect for the\nrule of law and democratic accountability,” the statement said.\n\nContinue reading...\n\n"
   },
   {
     "title": "Traders’ Bets on Fed Cut by June Reinforced by Softer Inflation",
@@ -312,10 +306,10 @@
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
-    "title": "Colombia Joins Emerging-Market Bond Rush Ahead of Elections",
+    "title": "Colombia Launches $5 Billion Bond Sale Ahead of Elections",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcolombia-rushes-to-sell-dollar-debt-ahead-of-busy-election-year",
     "published": "Tue, 13 Jan 2026 13:33:24 CST",
-    "summary": "Colombia is tapping global bond markets ahead of pivotal congressional and\npresidential elections, joining other emerging-market governments that have\nrushed to lock in lower borrowing costs this month.\n\n"
+    "summary": "Colombia is raising nearly $5 billion in global bond markets ahead of pivotal\ncongressional and presidential elections, joining other emerging-market\ngovernments that have rushed to lock in lower borrowing costs this month.\n\n"
   },
   {
     "title": "The Powell Defense Grows",
@@ -390,6 +384,12 @@
     "summary": "US president speaks after saying that any country that does business with Iran\nwill face 25% levy on trade with US\n\n  * Business live – latest updates\n\nDonald Trump has said “it would be a complete mess” if the US supreme court\nwere to strike down his global trade tariffs.\n\nIn a lengthy post on social media, the US president said “WE’RE SCREWED” if\nthe supreme court rules against the tariffs. The decision is expected as soon\nas Wednesday. It is a crucial legal test of his controversial economic\nstrategy and his power.\n\nContinue reading...\n\n"
   },
   {
+    "title": "European Stocks Ease From All-Time High After US Inflation Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Feuropean-stocks-hover-near-record-ahead-of-us-inflation-data",
+    "published": "Tue, 13 Jan 2026 08:18:21 CST",
+    "summary": "European shares were subdued, weighed down by the construction sector, after\nSika AG dropped 9.5% on weaker-than-expected results. The latest US inflation\nreading failed to change the outlook for Federal Reserve interest rates.\n\n"
+  },
+  {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
     "published": "Tue, 13 Jan 2026 08:00:10 CST",
@@ -444,10 +444,10 @@
     "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Oil Hits Two-Month High as Trump Amps Up Rhetoric Against Iran",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Flatest-oil-market-news-and-analysis-for-jan-13",
-    "published": "Mon, 12 Jan 2026 23:22:30 CST",
-    "summary": "Oil climbed to a two-month high after US President Donald Trump amped up\nrhetoric over Iran, heightening investor concerns about supply disruptions in\nOPEC’s fourth-biggest producer and possible American intervention.\n\n"
+    "title": "Gold Eases from Record as Traders Mull Rates; Silver Tops $89",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgold-steadies-after-surging-on-worries-over-fed-independence",
+    "published": "Mon, 12 Jan 2026 23:41:06 CST",
+    "summary": "Gold slipped from a record high as traders assessed the path of US interest\nrates after an inflation reading came in weaker than expected and the Trump\nadministration renewed attacks on the Federal Reserve. Silver topped $89 an\nounce.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
@@ -465,7 +465,7 @@
     "title": "Stocks Wipe Out CPI-Fueled Gains as JPMorgan Sinks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
-    "summary": "Wall Street traders left stocks churning as inflation data failed to alter\nbets on a pause in Federal Reserve rate cuts while JPMorgan Chase & Co. led a\nslide in banks after its results. Bonds wavered. The dollar rose.\n\n"
+    "summary": "Wall Street traders sent stocks lower as inflation data failed to alter bets\non a pause in Federal Reserve rate cuts while JPMorgan Chase & Co. led a slide\nin banks after its results. Bonds wavered. The dollar rose.\n\n"
   },
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
