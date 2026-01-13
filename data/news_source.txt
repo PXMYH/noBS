@@ -12,7 +12,7 @@
     "summary": "\n\n"
   },
   {
-    "title": "Morgan Stanley Lifts Asia Bonuses 20% After Record Revenue Haul",
+    "title": "Morgan Stanley Asia Bonuses Up 20% as Revenue Nears $10 Billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmorgan-stanley-lifts-asia-bonuses-20-after-record-revenue-haul",
     "published": "Tue, 13 Jan 2026 06:38:56 CST",
     "summary": "Morgan Stanley increased bonuses by about 20% for bankers in Asia after the\nfirm closed in on a record $10 billion in revenue from the region last year,\npeople familiar with the matter said.\n\n"
@@ -144,18 +144,6 @@
     "summary": "Patrick Harker, former Philadelphia Fed President, discusses the importance of\nFederal Reserve independence and the outlook for the economy. He speaks with\nStephen Engle from the sidelines of the UBS Greater China Conference in\nShanghai. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Japanese Funds Sell Most UK Bonds Since 2011 Amid Fiscal Concern",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapanese-funds-sell-most-uk-bonds-since-2011-amid-fiscal-concern",
-    "published": "Tue, 13 Jan 2026 03:30:26 CST",
-    "summary": "Japanese investors sold the most UK sovereign bonds in 14 years in November,\nwith concern over Britain’s fiscal outlook and higher yields in the domestic\nmarket sapping demand for gilts.\n\n"
-  },
-  {
-    "title": "Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frobotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks",
-    "published": "Tue, 13 Jan 2026 03:22:31 CST",
-    "summary": "Hyundai Motor Co. group stocks have added around $24 billion in market value\nso far this month as investor excitement over robotics extends into the new\nyear.\n\n"
-  },
-  {
     "title": "Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html",
     "published": "Tue, 13 Jan 2026 03:19:43 CST",
@@ -172,6 +160,18 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchinese-rocket-shares-fall-after-warnings-on-irrational-rally",
     "published": "Tue, 13 Jan 2026 02:42:42 CST",
     "summary": "Shares of Chinese companies tied to commercial rockets production tumbled\nafter they cautioned that a recent rally had outpaced underlying fundamentals.\n\n"
+  },
+  {
+    "title": "Vanke Asks to Extend Bond Grace Periods Again, Adds Collateral",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fvanke-asks-to-extend-bond-grace-period-again-adds-collateral",
+    "published": "Tue, 13 Jan 2026 02:35:39 CST",
+    "summary": "China Vanke Co. presented revised proposals to extend two local bonds that\nincluded collateral pledges as well as longer grace periods, according to\npeople familiar with the matter, as the distressed developer struggles to\nstave off default.\n\n"
+  },
+  {
+    "title": "Japan Firms Still Assessing Impact of China’s Rare Earths Curbs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjapan-firms-seek-assurance-china-curbs-won-t-hit-civilian-trade",
+    "published": "Tue, 13 Jan 2026 01:57:36 CST",
+    "summary": "Japanese firms are still evaluating the effects of China’s latest export\ncontrols, with any impact unlikely to be apparent until next month, according\nto a person familiar with the matter.\n\n"
   },
   {
     "title": "Korean Won Weakens, Heads for Longest Losing Streak Since 2008",
@@ -231,7 +231,7 @@
     "title": "Takaichi Trade Roars Back in Japan as Snap Election Bets Grow",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fjapan-s-stocks-poised-to-jump-on-weak-yen-election-expectations",
     "published": "Mon, 12 Jan 2026 23:16:35 CST",
-    "summary": "Japanese stocks extended their climb to record highs while the yen and\ngovernment bonds slumped on speculation that Prime Minister Sanae Takaichi may\nsoon call a snap election.\n\n"
+    "summary": "Japanese stocks rallied to fresh record highs while the yen and government\nbonds slumped on speculation that Prime Minister Sanae Takaichi may soon call\na snap election.\n\n"
   },
   {
     "title": "Trump’s Feel-My-Pain Economic Message",
@@ -246,7 +246,7 @@
     "summary": "The Justice Department’s probe into whether Jerome H. Powell, the chair of the\nFederal Reserve, lied about renovations to the central bank’s headquarters has\nraised alarms.\n\n"
   },
   {
-    "title": "Asian Shares Hit Record, Yen Falls to 2024 Levels: Markets Wrap",
+    "title": "Stock Rally Builds, Yen Falls to Lowest Since 2024: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
     "summary": "The rally in stocks extended into Asia, where cheaper valuations and higher\ngrowth prospects drew investors broadening their focus beyond US markets.\n\n"
