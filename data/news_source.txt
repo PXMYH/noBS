@@ -1,9 +1,21 @@
 [
   {
-    "title": "Warren Buffett was still searching for that elephant in his final months as Berkshire CEO",
+    "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation.html",
+    "published": "Tue, 13 Jan 2026 19:34:26 CST",
+    "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
+  },
+  {
+    "title": "Warren Buffett was still searching for that elephant to buy in his final months as Berkshire CEO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fwarren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html",
-    "published": "Tue, 13 Jan 2026 18:43:28 CST",
+    "published": "Tue, 13 Jan 2026 19:24:10 CST",
     "summary": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of\n2026, made it clear that size is not the constraint, opportunity is.\n\n"
+  },
+  {
+    "title": "Bank of France Slightly More Optimistic on Fourth-Quarter Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbank-of-france-slightly-more-optimistic-on-fourth-quarter-growth",
+    "published": "Tue, 13 Jan 2026 19:00:00 CST",
+    "summary": "The Bank of France raised its growth estimate for the final quarter of 2025 a\ntouch, underscoring economy’s resilience in the face of political and fiscal\nuncertainty.\n\n"
   },
   {
     "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
@@ -34,6 +46,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-is-lower-after-better-than-expected-results-is-it-a-buying-opportunity.html",
     "published": "Tue, 13 Jan 2026 18:22:35 CST",
     "summary": "Wall Street analysts largely framed the pullback as profit-taking rather than\na fundamental shift in the outlook.\n\n"
+  },
+  {
+    "title": "Deal Slowdown Weighs on JPMorgan | Open Interest 1/13/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fopen-interest-1-13-2026-video",
+    "published": "Tue, 13 Jan 2026 18:21:31 CST",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" JPMorgan's Jamie Dimon ushers in earnings season\nwith a bullish call on the US economy and a warning on Fed independence. Delta\ndisappoints, a cloudy outlook weighing on the airline and its rival in the\nyear ahead. A CPI surprise, fresh inflation data shows signs that price\npressures are gradually easing. Plus, hedge fund investors haven't had it this\ngood since the aftermath of the financial crisis. We break down what's behind\nthe gains. And as the Trump administration ramps up efforts to lower housing\ncosts, high prices are still pushing many buyers toward fixer-uppers. Andy\nBell, CEO of Ace Handyman Services joins Bloomberg Open Interest in the\nC-Suite to talk about how homeowners are renovating. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Asta Energy Said to Weigh Frankfurt IPO Kickoff This Week",
@@ -162,28 +180,10 @@
     "summary": "Trump will face an important obstacle — from within his own party — as he\nseeks to replace Federal Reserve Chair Jerome Powell.\n\n"
   },
   {
-    "title": "Trump Greenland Talk Sends Danish Krone Toward Intervention Zone",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftrump-greenland-talk-sends-danish-krone-toward-intervention-zone",
-    "published": "Tue, 13 Jan 2026 16:30:12 CST",
-    "summary": "Uncertainty around US President Donald Trump’s plans for Greenland has helped\npush the Danish krone to its weakest in six years, fueling speculation the\ncentral bank will step in to support it.\n\n"
-  },
-  {
-    "title": "Ontario Utility Readies C$250 Million Inaugural Debt Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fontario-utility-readies-c-250-million-inaugural-debt-deal",
-    "published": "Tue, 13 Jan 2026 16:30:12 CST",
-    "summary": "An Ontario utility is preparing to raise around C$250 million ($180 million)\nin an inaugural debt deal as soon as Wednesday, according to people familiar\nwith the matter.\n\n"
-  },
-  {
     "title": "What to know about the report.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F13%2Fbusiness%2Finflation-report-cpi%2F13biz-inflation-blog-update",
     "published": "Tue, 13 Jan 2026 16:29:05 CST",
     "summary": "\n\n"
-  },
-  {
-    "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation.html",
-    "published": "Tue, 13 Jan 2026 16:25:33 CST",
-    "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
   },
   {
     "title": "BNY raises profit target as CEO Robin Vince says 'turnaround' is taking hold",
@@ -252,7 +252,7 @@
     "summary": "Consumer price index rose 2.7% in year to December, in line with November, as\npresident feuds with Fed over rate cuts\n\n  * US politics live – latest updates\n\nUS inflation held firm last month as Donald Trump faces mounting pressure over\nthe cost of living for millions of Americans.\n\nThe closely watched consumer price index rose 2.7% in the year to December, in\nline with the previous month, according to official data published on Tuesday\nmorning, ahead of a speech by the US president on the economy.\n\nContinue reading...\n\n"
   },
   {
-    "title": "US Stocks Decline as CPI Fails to Lift Interest-Rate Cut Bets",
+    "title": "US Stocks Decline as Latest CPI Fails to Lift Rate-Cut Spirits",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fs-p-500-fluctuates-following-better-than-expected-us-inflation",
     "published": "Tue, 13 Jan 2026 14:57:22 CST",
     "summary": "US stocks fell on Tuesday as the latest inflation data failed to shift\ninterest-rate cut bets and traders examined fresh earnings reports.\n\n"
