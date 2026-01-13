@@ -1,5 +1,89 @@
 [
   {
+    "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fjpmorgan-earnings-report.html",
+    "published": "Tue, 13 Jan 2026 17:48:59 CST",
+    "summary": "The nation’s largest bank earned $57 billion in 2025, and Jamie Dimon, its\nchief executive, said “the benefits of deregulation” would help in the future.\n\n"
+  },
+  {
+    "title": "Delta Seals Boeing Order as Earnings Support Travel Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdelta-seals-boeing-order-as-earnings-support-travel-boom-video",
+    "published": "Tue, 13 Jan 2026 17:43:53 CST",
+    "summary": "Delta Air Lines Inc. is ordering 30 Boeing Co. 787 Dreamliner jets in its\nfirst-ever purchase of that model, providing a boost to the US planemaker that\nhighlights the airline’s optimism for international travel demand. The\nannouncement came as Atlanta-based Delta reported earnings for the fourth\nquarter that beat analyst estimates. Revenue last year rose to a record $58.3\nbillion, in line with analysts’ expectations. Bloomberg's George Ferguson\njoins to discuss on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Warren Buffett was still searching for that elephant in his final months as Berkshire CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fwarren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html",
+    "published": "Tue, 13 Jan 2026 17:38:20 CST",
+    "summary": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of\n2026, made it clear that size is not the constraint, opportunity is.\n\n"
+  },
+  {
+    "title": "Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fboeing-orders-deliveries.html",
+    "published": "Tue, 13 Jan 2026 17:37:18 CST",
+    "summary": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net\norders rose to 1,173 planes.\n\n"
+  },
+  {
+    "title": "JPMorgan Says ‘Everything’ on Table to Fight 10% Credit Card Cap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fjpmorgan-everything-on-table-to-fight-credit-card-cap-video",
+    "published": "Tue, 13 Jan 2026 17:37:09 CST",
+    "summary": "JPMorgan Chase & Co. warned that President Donald Trump’s call for a 10% cap\non credit card rates threatens to “significantly change” its business and\nwould harm the biggest US bank and customers. This comes after the JPMorgan\nChase & Co.’s investment-banking fees unexpectedly fell in the fourth quarter,\nmissing the firm’s own guidance from just last month as revenue from both\nunderwriting and advising on mergers declined. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: JPMorgan, Moderna, Boeing, Cardinal Health, Chipotle & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fstocks-making-the-biggest-moves-midday-jpm-mrna-ba-cah-.html",
+    "published": "Tue, 13 Jan 2026 17:37:08 CST",
+    "summary": "These are some of the stocks posting the largest midday moves.\n\n"
+  },
+  {
+    "title": "Initial Obamacare Enrollment Drops by 1.4 Million",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
+    "published": "Tue, 13 Jan 2026 17:34:55 CST",
+    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
+  },
+  {
+    "title": "Apple, Google Confirm Multiyear Deal for AI Technology, Siri",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fapple-google-confirm-multiyear-deal-for-ai-tech-siri-video",
+    "published": "Tue, 13 Jan 2026 17:28:29 CST",
+    "summary": "Alphabet Inc.’s Google confirmed that it has entered a multiyear deal with\nApple Inc. to power the iPhone maker’s artificial intelligence technology,\nincluding the Siri voice assistant. Bloomberg's Anurag Rana joins to discuss.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "JPMorgan, Citi in Talks to Finance $1 Billion Argentina Pipeline",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fjpmorgan-citi-in-talks-to-finance-1-billion-argentina-pipeline",
+    "published": "Tue, 13 Jan 2026 17:19:29 CST",
+    "summary": "A group of banks including JPMorgan Chase & Co. and Citigroup Inc. are in\ntalks to lend natural gas producers in Argentina roughly $1 billion to build a\ncross-country pipeline, according to two people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Mubadala-Backed CI Buys Invesco’s Canadian Fund Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmubadala-backed-ci-buys-invesco-s-canadian-fund-assets",
+    "published": "Tue, 13 Jan 2026 17:19:13 CST",
+    "summary": "Atlanta-based Invesco Ltd. is selling its C$26 billion ($18.7 billion)\nCanadian investment fund business to CI Global Asset Management, furthering\nthe M&A trend in the country’s mutual fund industry.\n\n"
+  },
+  {
+    "title": "Wellington Hires Hamilton Lane’s Alex Behm for Secondaries Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fwellington-hires-hamilton-lane-s-alex-behm-for-secondaries-push",
+    "published": "Tue, 13 Jan 2026 17:18:05 CST",
+    "summary": "Wellington Management Co., the mutual fund giant best known for stock- and\nbond-picking, hired Hamilton Lane Inc.’s Alex Behm to lead its foray into the\nhot market of buying and selling private equity stakes.\n\n"
+  },
+  {
+    "title": "Kirkland &amp; Ellis Accused of Conflict in Private Equity Spat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fkirkland-ellis-accused-of-conflict-in-private-equity-spat",
+    "published": "Tue, 13 Jan 2026 17:02:48 CST",
+    "summary": "Law firm Kirkland & Ellis has been drawn into a dispute between investors of\nAscent Resources and the private equity firm that’s seeking to raise a\ncontinuation fund to prolong its hold on the natural gas producer.\n\n"
+  },
+  {
+    "title": "US Biotech Share Sales Deliver Biggest First Week Since 2021",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-biotech-share-sales-deliver-biggest-first-week-since-2021",
+    "published": "Tue, 13 Jan 2026 17:00:00 CST",
+    "summary": "Stock sales from drug developers are off to a flying start on US exchanges in\n2026, boosting the prospects for biotechnology fundraising after turbulence in\nthe sector last year.\n\n"
+  },
+  {
+    "title": "New Zealand Home-Building Costs Picked up in Fourth Quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fnew-zealand-home-building-costs-picked-up-in-fourth-quarter",
+    "published": "Tue, 13 Jan 2026 17:00:00 CST",
+    "summary": "New Zealand home-building costs increased the most in 15 months in the fourth\nquarter as the construction industry begins to recover.\n\n"
+  },
+  {
     "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Ftrump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
     "published": "Tue, 13 Jan 2026 16:54:45 CST",
@@ -54,7 +138,7 @@
     "summary": "\n\n"
   },
   {
-    "title": "Inflation Ended 2025 on Subdued Note",
+    "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation.html",
     "published": "Tue, 13 Jan 2026 16:25:33 CST",
     "summary": "Surging grocery prices were offset by lower increases for appliances and\nvehicles in the last such report before the Federal Reserve meets to debate\ninterest rates.\n\n"
@@ -78,7 +162,7 @@
     "summary": "BNY raised a pair of key medium-term performance targets on Tuesday.\n\n"
   },
   {
-    "title": "Hedge Funds Thrive in 2025",
+    "title": "Hedge Funds Post Best Returns in 16 Years",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fhedge-funds-thrive-in-2025-video",
     "published": "Tue, 13 Jan 2026 16:08:43 CST",
     "summary": "Hedge fund investors haven't had it this good since the aftermath of the\nfinancial crisis. Data compiled by industry tracker Hedge Fund Research\nshowing that the industry posted its best year since 2009, with gains of about\n12.6%. Bloomberg's Hedge Fund Reporter Hema Parmar joined Bloomberg Open\nInterest to talk about the gains. (Source: Bloomberg)\n\n"
@@ -99,7 +183,7 @@
     "title": "Inside the Home Renovation Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Finside-the-home-renovation-boom-video",
     "published": "Tue, 13 Jan 2026 16:05:45 CST",
-    "summary": "The home services sector is booming -- already worth nearly $700 billion and\non track to top $1.4 trillion by the end of the decade. As the Trump\nadministration ramps up efforts to lower housing costs, high prices are still\npushing many buyers toward fixer-uppers, while an aging population is driving\ndemand for home modifications. Andy Bell, CEO of Ace Handyman Services, joined\nBloomberg Open Interest to talk about how homeowners are renovating and\nspending. (Source: Bloomberg)\n\n"
+    "summary": "The home services sector is booming -- already worth nearly $700 billion and\non track to top $1.4 trillion by the end of the decade according to the market\nresearch firm Mordor Intelligence. As the Trump administration ramps up\nefforts to lower housing costs, high prices are still pushing many buyers\ntoward fixer-uppers, while an aging population is driving demand for home\nmodifications. Andy Bell, CEO of Ace Handyman Services, joined Bloomberg Open\nInterest to talk about how homeowners are renovating and spending. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
@@ -112,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation-cpi-report-food-prices.html",
     "published": "Tue, 13 Jan 2026 16:01:16 CST",
     "summary": "Beef, coffee and produce were among the items that surged in price, inflation\ndata showed.\n\n"
-  },
-  {
-    "title": "Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fboeing-orders-deliveries.html",
-    "published": "Tue, 13 Jan 2026 16:00:01 CST",
-    "summary": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net\norders rose to 1,173 planes.\n\n"
   },
   {
     "title": "Boeing Beats Airbus to Claim First Jet Sales Crown Since 2018",
@@ -150,28 +228,10 @@
     "summary": "Orsted’s C.E.O. says it plans to move quickly to complete a $6.2 billion wind\nfarm off Rhode Island after a judge struck down President Trump’s bid to halt\nit.\n\n"
   },
   {
-    "title": "Nigeria Plans $352 Million Green Bond Sales for Climate Projects",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fnigeria-plans-350-million-green-bond-sale-as-demand-rises",
-    "published": "Tue, 13 Jan 2026 15:48:26 CST",
-    "summary": "Nigeria plans to raise as much as 500 billion naira ($352 million) through\ngreen bonds this year, tapping strong investor appetite as Africa’s biggest\noil producer turns to climate-linked debt to fund environmental projects and\ndiversify its financing base.\n\n"
-  },
-  {
-    "title": "Rise in Japan Yields Largely Domestic: Renaud-Chatelain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Frise-in-japan-yields-largely-domestic-renaud-chatelain-video",
-    "published": "Tue, 13 Jan 2026 15:46:48 CST",
-    "summary": "Laureline Renaud-Chatelain, Senior Fixed Income Strategist at Pictet Wealth\nManagement, discusses the rise in Japanese yields, yen weakness and Fed\nindependence with Bloomberg's Guy Johnson, Anna Edwards and Tom Mackenzie on\n'The Opening Trade.' (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "U.S. lost more immigrants than it gained in 2025, new estimate shows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Ftrump-immigration-economy-net-negative-migration%2F",
     "published": "Tue, 13 Jan 2026 15:43:02 CST",
     "summary": "President Donald Trump’s immigration policy has led to a significant decline\nin U.S. immigration rates, with net migration falling below zero for the first\ntime in 50 years, according to a new estimate.\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/13/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fbloomberg-surveillance-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 15:41:43 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Data center REIT CEO says real estate ‘not in an oversupply state’",
@@ -180,22 +240,10 @@
     "summary": "Andy Power, CEO of Digital Realty says data center real estate is not\noversupplied as hyperscalers like Nvidia, Amazon, Google and Meta announce\nmore projects.\n\n"
   },
   {
-    "title": "Hedge Fund Anson Bets on Canada’s Real Estate After Scoring Wins",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fhedge-fund-anson-bets-on-canada-s-real-estate-after-scoring-wins",
-    "published": "Tue, 13 Jan 2026 15:39:59 CST",
-    "summary": "Anson Funds Management is bullish on Canada’s real estate market after its\nflagship fund doubled its returns to 21.2% last year, thanks to big wins on\nsome of its housing bets.\n\n"
-  },
-  {
     "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
     "published": "Tue, 13 Jan 2026 15:23:16 CST",
     "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
-  },
-  {
-    "title": "TotalEnergies CEO Echoes Exxon’s Caution on Venezuela Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Ftotalenergies-ceo-echoes-exxon-s-caution-on-venezuela-oil",
-    "published": "Tue, 13 Jan 2026 15:21:32 CST",
-    "summary": "Reviving Venezuela’s oil industry will take years and cost billions of\ndollars, limiting the country’s impact on global markets in 2026, according to\nTotalEnergies SE boss Patrick Pouyanne.\n\n"
   },
   {
     "title": "Price growth held firm in December, capping a year of persistent inflation",
@@ -214,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fs-p-500-fluctuates-following-better-than-expected-us-inflation",
     "published": "Tue, 13 Jan 2026 14:57:22 CST",
     "summary": "US stocks fell on Tuesday as the latest inflation data failed to shift\ninterest-rate cut bets and traders examined fresh earnings reports.\n\n"
-  },
-  {
-    "title": "JPMorgan Made Less Money Last Year, Facing Pressure on Multiple Fronts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fjpmorgan-earnings-report.html",
-    "published": "Tue, 13 Jan 2026 14:57:07 CST",
-    "summary": "The nation’s largest bank earned $57 billion in 2025, and Jamie Dimon, its\nchief executive, said “the benefits of deregulation” would help in the future.\n\n"
   },
   {
     "title": "Global economy holding steady despite threats, thanks to U.S. performance",
@@ -255,7 +297,7 @@
     "title": "Global central banks offer ‘full solidarity’ to US Fed’s Powell amid Trump threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fcentral-banks-us-fed-powell-trump-bank-of-england-ecb",
     "published": "Tue, 13 Jan 2026 13:50:18 CST",
-    "summary": "Ten governors including Bank of England’s Andrew Bailey and ECB’s Christine\nLagarde say independence is critical\n\n  * Business live – latest updates\n\nGlobal central banks have issued an extraordinary joint statement offering\n“full solidarity” to the US Federal Reserve chair, Jerome Powell, in the face\nof the latest threat to his independence from Donald Trump’s White House.\n\n“The independence of central banks is a cornerstone of price, financial and\neconomic stability in the interest of the citizens that we serve. It is\ntherefore critical to preserve that independence, with full respect for the\nrule of law and democratic accountability,” the statement said.\n\nContinue reading...\n\n"
+    "summary": "Ten governors including Bank of England’s Andrew Bailey and ECB’s Christine\nLagarde say independence is critical\n\nGlobal central banks have issued an extraordinary joint statement offering\n“full solidarity” to the US Federal Reserve chair, Jerome Powell, in the face\nof the latest threat to his independence from Donald Trump’s White House.\n\n“The independence of central banks is a cornerstone of price, financial and\neconomic stability in the interest of the citizens that we serve. It is\ntherefore critical to preserve that independence, with full respect for the\nrule of law and democratic accountability,” the statement said.\n\nContinue reading...\n\n"
   },
   {
     "title": "Traders’ Bets on Fed Cut by June Reinforced by Softer Inflation",
@@ -274,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcolombia-rushes-to-sell-dollar-debt-ahead-of-busy-election-year",
     "published": "Tue, 13 Jan 2026 13:33:24 CST",
     "summary": "Colombia is tapping global bond markets ahead of pivotal congressional and\npresidential elections, joining other emerging-market governments that have\nrushed to lock in lower borrowing costs this month.\n\n"
-  },
-  {
-    "title": "U.S. Bank to Buy BTIG for Up to $1 Billion in Trading Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fus-bancorp-to-buy-brokerage-btig-for-1-billion-in-trading-push",
-    "published": "Tue, 13 Jan 2026 13:12:13 CST",
-    "summary": "U.S. Bancorp, the country’s largest regional bank, will acquire brokerage BTIG\nfor as much as $1 billion as it looks to push deeper into investment banking\nand trading.\n\n"
   },
   {
     "title": "The Powell Defense Grows",
@@ -312,7 +348,7 @@
     "summary": "Current and former workers caution administration’s ‘politicization of\nscience’ will negatively affect Americans\n\nSweeping cuts and the “politicization of science” inside the Food and Drug\nAdministration have increased the risk of safety lapses across the US, former\nagency workers warned.\n\nLess than a year after Donald Trump returned to power, and his administration\noversaw the firing and resignation of thousands of FDA employees, a listeria\noutbreak that killed six people and sickened 27 across 18 states due to\ncontamination of prepared pasta meals underlined the danger posed by safety\nfailings.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Rio Tinto Taps Evercore, JPMorgan on Glencore Pursuit",
+    "title": "Rio Tinto Taps Evercore’s Robey, JPMorgan for Glencore Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Frio-tinto-taps-evercore-s-robey-jpmorgan-on-glencore-pursuit",
     "published": "Tue, 13 Jan 2026 11:25:26 CST",
     "summary": "Rio Tinto Group has brought on a slate of bankers including Simon Robey, one\nof the UK’s top rainmakers, as it pursues a deal for Glencore Plc, people with\nknowledge of the matter said.\n\n"
@@ -322,18 +358,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fjerome-powell-fed-chair-trump",
     "published": "Tue, 13 Jan 2026 11:00:59 CST",
     "summary": "Highly respected figure has cast off restrained approach in defending central\nbank from escalating attacks\n\nThere are often few surprises with Jerome Powell. At his handful of public\nappearances each month, the US Federal Reserve chair always sports the same\nsoftly stern expression. His voice, typically dispassionate and near-monotone,\nnever wavers.\n\nAs one of the most powerful officials in the world, commanding a platform that\nhas the ability to move global markets with a few words, Powell is often\nreserved in a way that fails to yield soundbites in this social media era:\nboring, even.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Carlyle Says Don’t Fret Over Japan’s Rising Yields and Weak Yen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcarlyle-says-don-t-fret-over-japan-s-rising-yields-weak-yen",
-    "published": "Tue, 13 Jan 2026 11:00:00 CST",
-    "summary": "The confluence of rising Japanese government bond yields and a weaker yen is a\npositive sign of the economy’s departure from decades of deflation, despite\nwhat some critics think, according to the Carlyle Group Inc.\n\n"
-  },
-  {
-    "title": "Earnings Season to Put Wall Street’s Rotation Trade to the Test",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fearnings-season-to-put-wall-street-s-rotation-trade-to-the-test",
-    "published": "Tue, 13 Jan 2026 10:30:00 CST",
-    "summary": "Investors’ newfound affinity for companies that benefit most from an\naccelerating economy is in for a tough test as the latest earnings season\nkicks off.\n\n"
   },
   {
     "title": "Global Central Bankers Show ‘Full Solidarity’ With Fed’s Powell",
@@ -441,7 +465,7 @@
     "title": "Stocks Wipe Out CPI-Fueled Gains as JPMorgan Sinks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
-    "summary": "Wall Street traders drove stocks lower as inflation data failed to alter bets\non a pause in Federal Reserve rate cuts while JPMorgan Chase & Co. led a slide\nin banks after its results. Bonds wavered. The dollar rose.\n\n"
+    "summary": "Wall Street traders left stocks churning as inflation data failed to alter\nbets on a pause in Federal Reserve rate cuts while JPMorgan Chase & Co. led a\nslide in banks after its results. Bonds wavered. The dollar rose.\n\n"
   },
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
@@ -508,12 +532,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
     "published": "Mon, 12 Jan 2026 18:50:36 CST",
     "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
-  },
-  {
-    "title": "Fed Served with DOJ Subpoenas, Performance of ‘OTGL’ ETF | ETF IQ 1/12/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-12%2Fetf-iq-1-12-2026-video",
-    "published": "Mon, 12 Jan 2026 18:23:56 CST",
-    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied\nto the trillions of dollars in the global exchange traded funds industry.\nToday's guests: Research Affiliates Chairman and Founder Rob Arnott and OTG\nAsset Management CEO Mauricio Alvarez. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Paramount Threatens Board Fight Over Warner Bros. Discovery",
@@ -750,12 +768,6 @@
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
   },
   {
-    "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Ftechnology%2Fgrok-deepfakes-ai-x.html",
-    "published": "Fri, 09 Jan 2026 20:48:03 CST",
-    "summary": "Late Thursday, Mr. Musk’s chatbot, Grok, limited requests for A.I.-generated\nimages on X to paid subscribers of the social media site amid an outcry from\nvictims and regulators.\n\n"
-  },
-  {
     "title": "How IMAX crushed other theater stocks in 2025",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
     "published": "Fri, 09 Jan 2026 20:11:15 CST",
@@ -930,12 +942,6 @@
     "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves premarket: Mobileye, GameStop, Chevron & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fstocks-making-the-biggest-moves-premarket-mbly-gme-cvx.html",
-    "published": "Wed, 07 Jan 2026 16:39:22 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
     "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
     "published": "Wed, 07 Jan 2026 15:43:57 CST",
@@ -946,12 +952,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
     "published": "Wed, 07 Jan 2026 14:12:57 CST",
     "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
-  },
-  {
-    "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F06%2Fvenezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
-    "published": "Tue, 06 Jan 2026 22:18:49 CST",
-    "summary": "Although it's hard to say how much bitcoin could be held by Venezuela, it's\nlikely the regime has amassed considerable holdings of the token, experts\nsaid.\n\n"
   },
   {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
