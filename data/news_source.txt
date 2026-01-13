@@ -1,9 +1,63 @@
 [
   {
-    "title": "Maersk Makes Another Voyage Through Red Sea in Test of Safety",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmaersk-makes-another-voyage-through-red-sea-in-test-of-safety",
-    "published": "Tue, 13 Jan 2026 09:27:14 CST",
-    "summary": "A.P. Moller-Maersk A/S has safely sailed another ship through the southern\npart of the Red Sea, its second successful attempt after most shipping lines\nhave avoided the area for two years.\n\n"
+    "title": "JPMorgan Chase is set to report fourth-quarter earnings – here's what the Street expects",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
+    "published": "Tue, 13 Jan 2026 10:33:15 CST",
+    "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
+  },
+  {
+    "title": "Earnings Season to Put Wall Street’s Rotation Trade to the Test",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fearnings-season-to-put-wall-street-s-rotation-trade-to-the-test",
+    "published": "Tue, 13 Jan 2026 10:30:00 CST",
+    "summary": "Investors’ newfound affinity for companies that benefit most from an\naccelerating economy is in for a tough test as the latest earnings season\nkicks off.\n\n"
+  },
+  {
+    "title": "Global Central Bankers in ‘Full Solidarity’ With Fed’s Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fglobal-central-bankers-in-full-solidarity-with-fed-s-powell",
+    "published": "Tue, 13 Jan 2026 10:15:15 CST",
+    "summary": "Global central bankers threw their support behind Chairman Jerome Powell after\nthe Trump administration ratcheted up its already unprecedented pressure\ncampaign against the Federal Reserve.\n\n"
+  },
+  {
+    "title": "Coutts Weighs Offering Ares and Apollo Funds for Wealth Clients",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcoutts-weighs-offering-ares-apollo-funds-for-wealth-clients",
+    "published": "Tue, 13 Jan 2026 10:10:13 CST",
+    "summary": "Coutts & Co. is weighing plans to give its wealthy clients access to funds run\nby some of the world’s largest alternative asset managers as it seeks to cash\nin on demand for private assets.\n\n"
+  },
+  {
+    "title": "Pimco Sees Mortgage Rates Easing on Fannie-Freddie Purchases",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fpimco-sees-mortgage-rates-easing-on-fannie-freddie-purchases",
+    "published": "Tue, 13 Jan 2026 10:10:00 CST",
+    "summary": "US efforts to bring down the cost of housing through buying mortgage\nsecurities are bolstering a bullish outlook at Pacific Investment Management\nCo, one of the world’s largest bond managers.\n\n"
+  },
+  {
+    "title": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fvenezuela-oil-winners-losers.html",
+    "published": "Tue, 13 Jan 2026 10:03:11 CST",
+    "summary": "Companies that already have operations in the country stand to benefit, but\nthose that have profited from a standoff between Caracas and Washington could\nlose out.\n\n"
+  },
+  {
+    "title": "Facing Political Pressure, Trump Seeks Answer to Rising Housing Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-housing-costs.html",
+    "published": "Tue, 13 Jan 2026 10:02:34 CST",
+    "summary": "White House officials have explored a vast array of ideas as the president\nlooks to unfurl a housing affordability plan at an economic conference this\nmonth.\n\n"
+  },
+  {
+    "title": "‘We Need to Be the News’: Inside Bari Weiss’s Bumpy Revamp at CBS",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fmedia%2Fcbs-evening-news-bari-weiss.html",
+    "published": "Tue, 13 Jan 2026 10:00:53 CST",
+    "summary": "Her reimagining of “CBS Evening News” is under heavy scrutiny, and even became\na punchline on her own network on Sunday at the Golden Globes.\n\n"
+  },
+  {
+    "title": "Inflation remained elevated in late 2025, new data expected to show",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Finflation-december-2025-cpi-fed%2F",
+    "published": "Tue, 13 Jan 2026 10:00:36 CST",
+    "summary": "New data is expected to show that U.S. inflation rose in December, closing out\na year of stubbornly high prices complicated by tariffs and a government\nshutdown.\n\n"
+  },
+  {
+    "title": "Congress agrees to fund Voice of America, bucking Trump shutdown order",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Fvoice-of-america-trump-congress-funding%2F",
+    "published": "Tue, 13 Jan 2026 10:00:35 CST",
+    "summary": "The Trump administration has tried to eliminate funding for the U.S. Agency\nfor Global Media, which oversees VOA. Appropriators in Congress have had other\nideas.\n\n"
   },
   {
     "title": "Mag Seven Outperformance Story Not Over: Morgan Stanley",
@@ -50,7 +104,7 @@
   {
     "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
-    "published": "Tue, 13 Jan 2026 08:00:09 CST",
+    "published": "Tue, 13 Jan 2026 08:00:10 CST",
     "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far\nbeen limited and expensive.\n\n"
   },
   {
@@ -90,40 +144,22 @@
     "summary": "Trita Parsi, Executive Vice President of the Quincy Institute, explains why\ndismantling Iran’s regime is far more complicated than U.S. interventions in\nIraq or Libya. With power dispersed across multiple centers, removing top\nleadership won’t collapse the state. On Insight with Haslinda Amin, Parsi also\ndelved into Iran’s protests, U.S. strike plans, Israel’s influence, and the\nrisk of escalation in the Strait of Hormuz. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Bonds Slip, Stocks and Pound Hold Steady",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-13%2Fftse-100-live-pound-dollar-trump-powell-fed-gold-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mkc84gzk",
-    "published": "Tue, 13 Jan 2026 06:41:35 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Morgan Stanley Asia Bonuses Up 20% as Revenue Nears $10 Billion",
+    "title": "Morgan Stanley Boosts Bonuses in Asia, London After Bumper Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmorgan-stanley-lifts-asia-bonuses-20-after-record-revenue-haul",
     "published": "Tue, 13 Jan 2026 06:38:56 CST",
-    "summary": "Morgan Stanley increased bonuses by about 20% for bankers in Asia after the\nfirm closed in on a record $10 billion in revenue from the region last year,\npeople familiar with the matter said.\n\n"
+    "summary": "Morgan Stanley increased bonuses for its bankers in Asia and Europe after the\nWall Street giant wrapped up a bumper year driven by trading and dealmaking.\n\n"
   },
   {
-    "title": "History Points to Japan’s Stocks Rallying Ahead of Election",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-stands-on-side-of-history-if-japan-elections-called",
-    "published": "Tue, 13 Jan 2026 06:34:30 CST",
-    "summary": "If Prime Minister Sanae Takaichi calls a snap election as local media has\nreported, history says investors in the stock market will benefit, at least in\nthe short term.\n\n"
-  },
-  {
-    "title": "Roebuck: Protests Alone Unlikely to Lead to Regime Change",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Froebuck-protest-alone-unlikely-to-lead-to-regime-change-video",
-    "published": "Tue, 13 Jan 2026 06:22:01 CST",
-    "summary": "US President Donald Trump says he's imposing a 25% tariff on goods from\ncountries doing business with Iran, ratcheting up pressure on the government\nin Tehran. The announcement comes after weeks of mass unrest in Iran,\ninitially sparked by worsening economic conditions, but has increasingly been\naimed at the regime. William Roebuck, former US Ambassador to Bahrain and\nExecutive Vice President, Arab Gulf States Institute spoke to Bloomberg’s\nHorizons Middle East and Africa anchor Joumanna Bercetche on the future of the\nregime. (Source: Bloomberg)\n\n"
+    "title": "Maersk Makes Another Voyage Through Red Sea in Test of Safety",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fmaersk-sails-through-red-sea-with-another-container-vessel",
+    "published": "Tue, 13 Jan 2026 06:11:02 CST",
+    "summary": "A.P. Moller-Maersk A/S has safely sailed another ship through the southern\npart of the Red Sea, its second successful attempt after most shipping lines\nhave avoided the area for two years.\n\n"
   },
   {
     "title": "China’s Stock Rally Loses Momentum After Signs of Overheating",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fchina-s-2026-stock-rally-builds-as-turnover-margin-loans-surge",
     "published": "Tue, 13 Jan 2026 05:26:52 CST",
     "summary": "China’s stock rally cooled Tuesday, after record turnover and surging margin\nloans suggested the market may be getting overheated.\n\n"
-  },
-  {
-    "title": "JPMorgan Chase is set to report fourth-quarter earnings – here's what the Street expects",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
-    "published": "Tue, 13 Jan 2026 05:01:01 CST",
-    "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
   },
   {
     "title": "Why China Is Suddenly Obsessed With American Poverty",
@@ -180,12 +216,6 @@
     "summary": "The Federal Reserve is likely to hold interest rates steady when it meets at\nthe end of the month, keeping tensions high with President Trump.\n\n"
   },
   {
-    "title": "UBS CEO Ermotti Warns Swiss Banking Reforms Go Too Far",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far",
-    "published": "Tue, 13 Jan 2026 00:44:58 CST",
-    "summary": "UBS Group AG Chief Executive Officer Sergio Ermotti said the proposed new\nbanking reforms in Switzerland go “too far” and that lender needs a\ncompetitive regulatory framework to grow.\n\n"
-  },
-  {
     "title": "Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Frepublican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html",
     "published": "Tue, 13 Jan 2026 00:32:08 CST",
@@ -204,7 +234,7 @@
     "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Gold Steadies Close to Record on Worries Over Fed’s Independence",
+    "title": "Gold Steadies Close to Record as Markets Weigh Powell Probe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fgold-steadies-after-surging-on-worries-over-fed-independence",
     "published": "Mon, 12 Jan 2026 23:41:06 CST",
     "summary": "Gold steadied close to a record Tuesday as markets kept a close eye on the\nTrump administration’s renewed attacks on the Federal Reserve that have stoked\nconcerns about its independence.\n\n"
@@ -234,10 +264,10 @@
     "summary": "GigaDevice Semiconductor Inc. shares rose in its Hong Kong debut, underscoring\ngrowing investor interest in Chinese stocks related to artificial\nintelligence.\n\n"
   },
   {
-    "title": "US Futures Lag Peers Ahead of Bank Earnings, CPI: Markets Wrap",
+    "title": "Stock Futures Slip Ahead of JPMorgan Earnings, CPI: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-12%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 12 Jan 2026 22:37:55 CST",
-    "summary": "US equity futures trail global stocks as the earnings season gets into full\nswing and investors await December’s inflation data to chart the market’s next\nmove. The yen hit its lowest since 2024.\n\n"
+    "summary": "US equity futures dipped as the earnings season was set to get into full swing\nand investors awaited December’s inflation data to chart the market’s next\nmove. The yen hit its lowest level since 2024.\n\n"
   },
   {
     "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
@@ -504,12 +534,6 @@
     "summary": "Oil is US president’s motivation but his concept of economic success feels as\noutdated as his music tastes\n\nThe word “loot” entered the English language from Hindi in the late 18th\ncentury, as the rapacious East India Company plundered its way across the\nsubcontinent.\n\nIt was a trading company, not a state – but it had the imprimatur of the\nEnglish crown and its own large private army, mingling commerce and military\nforce and opening the way for British imperial dominance of India.\n\nContinue reading...\n\n"
   },
   {
-    "title": "This new crash test dummy could keep women safer in car accidents",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F11%2Ffemale-crash-test-dummy%2F",
-    "published": "Sun, 11 Jan 2026 10:00:00 CST",
-    "summary": "While regulators have been testing crash impacts for decades, there’s a dearth\nof data on women, who face a higher risk of death in auto accidents.\n\n"
-  },
-  {
     "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fgm-hq-detroit-artifacts-company-history.html",
     "published": "Sun, 11 Jan 2026 09:00:01 CST",
@@ -756,12 +780,6 @@
     "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
-    "title": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Ftrump-fannie-freddie-mortgage-bonds.html",
-    "published": "Fri, 09 Jan 2026 00:47:16 CST",
-    "summary": "The move, a bid to make homes more affordable, would be a back-to-future\nmoment for the two mortgage firms. Buying risky mortgage bonds helped push\nthem to near-bankruptcy in 2008.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: General Motors, Intel, Tilray Brands & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fstocks-making-the-biggest-moves-after-hours-gm-intc-tlry.html",
     "published": "Thu, 08 Jan 2026 23:06:32 CST",
@@ -778,18 +796,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
-  },
-  {
-    "title": "Polymarket Won’t Pay Users Who Bet on a U.S. Invasion of Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fpolymarket-venezuela-invasion-bets.html",
-    "published": "Thu, 08 Jan 2026 21:09:33 CST",
-    "summary": "Polymarket users bet on whether the U.S. would invade Venezuela, but the\nprediction market said the Venezuelan president’s capture did not constitute\nan invasion.\n\n"
-  },
-  {
-    "title": "G.M. Books a $7.1 Billion Loss as It Scales Back E.V. Ambitions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Fgeneral-motors-electric-vehicles-writedown.html",
-    "published": "Thu, 08 Jan 2026 21:05:47 CST",
-    "summary": "General Motors said it was writing down the value of battery and electric\nvehicle factories after changes in federal policy undercut demand.\n\n"
   },
   {
     "title": "Why Trump is going after institutional homebuyers: They dominate markets like Atlanta, Jacksonville",
@@ -1018,12 +1024,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F18%2Fbusiness%2Feconomy%2Finflation-cpi-interest-rates.html",
     "published": "Thu, 18 Dec 2025 16:20:00 CST",
     "summary": "Data collection issues skewed the latest Consumer Price Index report,\neconomists warned, clouding the picture for the Federal Reserve as it also\ngrapples with a cooling labor market.\n\n"
-  },
-  {
-    "title": "Trump Dangles Cash Payments to Assuage Affordability Concerns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2025%2F12%2F17%2Fus%2Fpolitics%2Ftrump-cash-payments.html",
-    "published": "Wed, 17 Dec 2025 13:56:50 CST",
-    "summary": "With tariffs unpopular and prices still high, the White House has teased the\npromise of tariff rebates and large tax refunds next year.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
