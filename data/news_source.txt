@@ -1,9 +1,51 @@
 [
   {
+    "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
+    "published": "Wed, 14 Jan 2026 13:54:31 CST",
+    "summary": "Bank of America, the second-largest U.S. bank by assets, has been a\nbeneficiary of the industry's recent tail winds.\n\n"
+  },
+  {
+    "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
+    "published": "Wed, 14 Jan 2026 13:54:18 CST",
+    "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
+  },
+  {
     "title": "Citigroup tops estimates as loan loss provisions come in lighter than expected",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fcitigroup-c-earnings-q4-2025.html",
-    "published": "Wed, 14 Jan 2026 13:20:51 CST",
+    "published": "Wed, 14 Jan 2026 13:45:11 CST",
     "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling\noff parts of its overseas operations.\n\n"
+  },
+  {
+    "title": "Powell May Skip Congressional Testimony, Key Republican Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpowell-may-skip-congressional-testimony-key-republican-says",
+    "published": "Wed, 14 Jan 2026 13:41:59 CST",
+    "summary": "Federal Reserve Chair Jerome Powell may skip his next scheduled appearance\nbefore Congress because of subpoenas served on the central bank by the\nDepartment of Justice, according to a key Republican lawmaker.\n\n"
+  },
+  {
+    "title": "Citi Sees M&A Fee Haul Surge 84% in Fourth Quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fciti-sees-m-a-fee-haul-surge-84-in-fourth-quarter-video",
+    "published": "Wed, 14 Jan 2026 13:38:16 CST",
+    "summary": "Citigroup posted an 84% surge in financial advisory fees in the fourth\nquarter, capping a year in which the firm’s revenue from handling mergers rose\nby more than half to an all-time record. Dani Burger reports on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Prices Paid to US Producers Rise on Jump in Energy Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fprices-paid-to-us-producers-rise-on-jump-in-energy-costs",
+    "published": "Wed, 14 Jan 2026 13:35:10 CST",
+    "summary": "US wholesale inflation picked up slightly in November from a month earlier on\na jump in energy costs, even as prices for services were unchanged.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Wells Fargo, Bank of America, Netflix & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
+    "published": "Wed, 14 Jan 2026 13:27:18 CST",
+    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
+  },
+  {
+    "title": "Slovakia Says US Nuclear Tie-Up May Lead to Westinghouse Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fslovakia-says-us-nuclear-tie-up-may-lead-to-westinghouse-deal",
+    "published": "Wed, 14 Jan 2026 13:25:52 CST",
+    "summary": "Slovakia expects to sign a nuclear cooperation agreement with the US on\nFriday, paving the way for a power-plant deal with Westinghouse Electric Co.\nnext year, Prime Minister Robert Fico said.\n\n"
   },
   {
     "title": "India Pushes Back on 10-Minute Delivery",
@@ -36,22 +78,16 @@
     "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
   },
   {
+    "title": "OPEC’s First Look at 2027 Shows Demand Growing at Steady Pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fopec-s-first-look-at-2027-shows-demand-growing-at-steady-pace",
+    "published": "Wed, 14 Jan 2026 13:00:00 CST",
+    "summary": "OPEC’s first detailed assessment of 2027 projects that global oil demand will\ncontinue to increase at a steady pace.\n\n"
+  },
+  {
     "title": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcanada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs",
     "published": "Wed, 14 Jan 2026 12:58:19 CST",
     "summary": "Prime Minister Mark Carney landed in Beijing on Wednesday for the first state\nvisit from a Canadian leader in eight years, as Chinese state media called on\nOttawa to lift tariffs on the nation’s exports.\n\n"
-  },
-  {
-    "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
-    "published": "Wed, 14 Jan 2026 12:49:50 CST",
-    "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
-  },
-  {
-    "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
-    "published": "Wed, 14 Jan 2026 12:45:37 CST",
-    "summary": "Bank of America, the second-largest U.S. bank by assets, has been a\nbeneficiary of the industry's recent tailwinds.\n\n"
   },
   {
     "title": "Russian-Flag Oil Tanker Arrives in UK Waters After Seizure by US",
@@ -76,12 +112,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-14%2Fbig-oil-braces-for-profit-pain-after-crude-s-slide",
     "published": "Wed, 14 Jan 2026 12:36:10 CST",
     "summary": "The supermajors may be heading into a tougher earnings season.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Wells Fargo, Bank of America, Netflix & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
-    "published": "Wed, 14 Jan 2026 12:32:14 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
     "title": "The Swedish Start-Up Aiming to Conquer America’s Full-Body-Scan Craze",
@@ -150,13 +180,7 @@
     "summary": "US Equity futures slide ahead of PPI, retail sales data and more bank earnings\nfrom Bank of America, Wells Fargo and Citi. Gold, Silver and Copper hit record\nhighs. The US Supreme Court is set for another opinion day on President\nTrump's global tariff policies. Top diplomats from Greenland and Denmark are\nscheduled to meet with US Vice President JD Vance and Secretary of State Marco\nRubio at the White House to convince the Trump administration to back off on\nits demands for the Arctic territory. Amy Wu Silverman of RBC Capital Markets\ndiscusses her latest volatility outlook. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "HSBC Is Said to Consider Selling Singapore Insurance Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-is-said-to-consider-selling-singapore-insurance-business",
-    "published": "Wed, 14 Jan 2026 11:15:46 CST",
-    "summary": "HSBC Holdings Plc is exploring options for its insurance unit in Singapore,\nincluding a sale, people familiar with the matter said, following other\nbusiness revamps globally under Chief Executive Officer Georges Elhedery.\n\n"
-  },
-  {
-    "title": "No 10% credit card interest cap is coming. Use this script instead.",
+    "title": "You don’t need Trump to cap your credit card interest. Just use this script.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Ftrump-credit-card-interest-cap-how-to-lower%2F",
     "published": "Wed, 14 Jan 2026 11:00:56 CST",
     "summary": "You may have more power than you think to challenge your high interest rate,\nparticularly if you have a strong credit score and payment history.\n\n"
@@ -166,24 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Funion-leaders-trump-administration-white-supremacy",
     "published": "Wed, 14 Jan 2026 11:00:23 CST",
     "summary": "Labor department rhetoric, such as ‘One Homeland. One People. One Heritage’,\nprompt comparisons to Nazi slogan\n\nUnion leaders have accused the Trump administration of a “rhetorical shift\ntowards white supremacy” after social media posts by the US Department of\nLabor drew comparison with a Nazi slogan.\n\nRecent posts from the agency include a video captioned “remember who you are,\nAmerican”, with the phrase: “One Homeland. One People. One Heritage.”\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Brightline Hires Former Eurostar CEO Petrovic in C-Suite Shakeup",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrightline-hires-former-eurostar-ceo-petrovic-in-c-suite-shakeup",
-    "published": "Wed, 14 Jan 2026 11:00:00 CST",
-    "summary": "Nicolas Petrovic is staking his reputation on turning around Brightline\nHoldings LLC as he takes over as chief executive officer of the struggling\nprivate rail operator.\n\n"
-  },
-  {
-    "title": "‘Sell America’ Trade Seen Giving Canadian Stocks an Edge in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2F-sell-america-trade-seen-giving-canadian-stocks-an-edge-in-2026",
-    "published": "Wed, 14 Jan 2026 11:00:00 CST",
-    "summary": "Canadian stocks just notched their best year relative to US shares in two\ndecades, and money managers are betting the outperformance has further to run\nas investors concerned with volatility in American equities seek calmer\nmarkets.\n\n"
-  },
-  {
-    "title": "TPG Agrees to Buy $2.4 Billion of Consumer Loans From OneMain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftpg-agrees-to-buy-2-4-billion-of-consumer-loans-from-onemain",
-    "published": "Wed, 14 Jan 2026 11:00:00 CST",
-    "summary": "Alternative asset manager TPG Inc. is sharply increasing the amount of loans\nit will buy from OneMain Holdings Inc. as private credit firms build their\npresence in the consumer-finance space long-dominated by banks.\n\n"
   },
   {
     "title": "Ned Davis Distills Political Angst Into ‘Big MAC’ Equity Trade",
@@ -216,7 +222,7 @@
     "summary": "Executives on earnings calls in late 2025 struck an increasingly optimistic\ntone about growth and strength even as U.S. households grew pessimistic on the\neconomy\n\n"
   },
   {
-    "title": "Military newspaper applicants face ‘loyalty test’ on Trump policies",
+    "title": "Stars and Stripes job applicants are asked if they back Trump policies",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fstars-and-stripes-trump-loyalty-test%2F",
     "published": "Wed, 14 Jan 2026 10:00:49 CST",
     "summary": "People seeking jobs at Stars and Stripes, which Congress guaranteed editorial\nindependence, are being asked how they would advance administration\npriorities.\n\n"
@@ -330,22 +336,16 @@
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
-    "title": "Oil Climbs as US Airbase Report Fans Fears of Iran Escalation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14",
-    "published": "Tue, 13 Jan 2026 23:27:04 CST",
-    "summary": "Oil advanced to the highest since October as traders awaited the US response\nto the turmoil in Iran, with reports that some personnel have been advised to\nleave an American airbase in Qatar.\n\n"
-  },
-  {
     "title": "Trump claims victory on US economy despite many Americans’ cost of living concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Ftrump-economy-cost-of-living",
     "published": "Tue, 13 Jan 2026 23:02:14 CST",
     "summary": "In speech, president delivers triumph assessment, claiming US prices are down\ndespite official data showing otherwise\n\nDonald Trump claimed victory on the economy after 12 months back in office on\nTuesday, declaring it to be the “greatest first year in history” as many\nAmericans express alarm over the cost of living.\n\nIn a stream-of-consciousness speech at the Detroit Economic Club, the US\npresident delivered his gold-tinted view of how the economy has fared on his\nwatch. Prices were down, he claimed, despite official data showing otherwise,\nand productivity was “smashing expectations”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "US Stocks to Extend Losses as Iran Concerns Mount: Markets Wrap",
+    "title": "Stocks Hold Losses Amid Economic Data as Oil Jumps: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 13 Jan 2026 22:38:58 CST",
-    "summary": "US stock futures pointed to the first back-to-back losses of 2026 as traders\nwatched for an American response to the protests in Iran. Metals topped all-\ntime highs.\n\n"
+    "summary": "Wall Street traders took some risk off the table, with stocks falling and\nbonds rising amid latest economic data and earnings from big banks. Oil\nclimbed and gold hit fresh highs as traders awaited the US response to the\nturmoil in Iran.\n\n"
   },
   {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
