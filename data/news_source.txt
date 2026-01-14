@@ -1,5 +1,59 @@
 [
   {
+    "title": "HSBC Is Said to Consider Selling Singapore Insurance Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-is-said-to-consider-selling-singapore-insurance-business",
+    "published": "Wed, 14 Jan 2026 11:15:46 CST",
+    "summary": "HSBC Holdings Plc is exploring options for its insurance unit in Singapore,\nincluding a sale, people familiar with the matter said, following other\nbusiness revamps globally under Chief Executive Officer Georges Elhedery.\n\n"
+  },
+  {
+    "title": "Bank of America is set to report fourth-quarter earnings – here's what to expect",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
+    "published": "Wed, 14 Jan 2026 11:15:01 CST",
+    "summary": "Bank of America, the second-largest U.S. bank by assets, has been a\nbeneficiary of the industry's recent tailwinds.\n\n"
+  },
+  {
+    "title": "No 10% credit card interest cap is coming. Use this script instead.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Ftrump-credit-card-interest-cap-how-to-lower%2F",
+    "published": "Wed, 14 Jan 2026 11:00:56 CST",
+    "summary": "You may have more power than you think to challenge your high interest rate,\nparticularly if you have a strong credit score and payment history.\n\n"
+  },
+  {
+    "title": "Union leaders accuse Trump administration of ‘shift toward white supremacy’ with online posts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Funion-leaders-trump-administration-white-supremacy",
+    "published": "Wed, 14 Jan 2026 11:00:23 CST",
+    "summary": "Labor department rhetoric, such as ‘One Homeland. One People. One Heritage’,\nprompt comparisons to Nazi slogan\n\nUnion leaders have accused the Trump administration of a “rhetorical shift\ntowards white supremacy” after social media posts by the US Department of\nLabor drew comparison with a Nazi slogan.\n\nRecent posts from the agency include a video captioned “remember who you are,\nAmerican”, with the phrase: “One Homeland. One People. One Heritage.”\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Brightline Hires Former Eurostar CEO Petrovic in C-Suite Shakeup",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrightline-hires-former-eurostar-ceo-petrovic-in-c-suite-shakeup",
+    "published": "Wed, 14 Jan 2026 11:00:00 CST",
+    "summary": "Nicolas Petrovic is staking his reputation on turning around Brightline\nHoldings LLC as he takes over as chief executive officer of the struggling\nprivate rail operator.\n\n"
+  },
+  {
+    "title": "‘Sell America’ Trade Seen Giving Canadian Stocks an Edge in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2F-sell-america-trade-seen-giving-canadian-stocks-an-edge-in-2026",
+    "published": "Wed, 14 Jan 2026 11:00:00 CST",
+    "summary": "Canadian stocks just notched their best year relative to US shares in two\ndecades, and money managers are betting the outperformance has further to run\nas investors concerned with volatility in American equities seek calmer\nmarkets.\n\n"
+  },
+  {
+    "title": "TPG Agrees to Buy $2.4 Billion of Consumer Loans From OneMain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftpg-agrees-to-buy-2-4-billion-of-consumer-loans-from-onemain",
+    "published": "Wed, 14 Jan 2026 11:00:00 CST",
+    "summary": "Alternative asset manager TPG Inc. is sharply increasing the amount of loans\nit will buy from OneMain Holdings Inc. as private credit firms build their\npresence in the consumer-finance space long-dominated by banks.\n\n"
+  },
+  {
+    "title": "Silver, Gold, Copper & Tin Hit Records, China's $1.2T Trade Surplus | The Opening Trade 1/14/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fthe-opening-trade-1-14-2026-video",
+    "published": "Wed, 14 Jan 2026 10:53:27 CST",
+    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors bet on a boost from more US\nrate cuts and a revival in sentiment across Chinese financial markets. China’s\ntrade surplus climbed to $1.2 trillion in 2025, extending a record run as\noverseas shipments surprised with stronger growth at the end of the year,\ndespite a deepening plunge in sales to the US. Plus, Donald Trump takes issue\nwith Jamie Dimon's stance on the Fed. The Opening Trade has everything you\nneed to know as markets open across Europe. With analysis you won't find\nanywhere else, we break down the biggest stories of the day and speak to top\nguests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom\nMackenzie. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Sixth Street Raises €3.75 Billion for European Direct Lending",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsixth-street-raises-3-75-billion-for-european-direct-lending",
+    "published": "Wed, 14 Jan 2026 10:30:00 CST",
+    "summary": "Sixth Street has raised €3.75 billion ($4.4 billion) from investors to target\nfinancing opportunities in Europe’s direct lending market.\n\n"
+  },
+  {
     "title": "Wall Street Frets Over Policy Uncertainty With Midterms Looming",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwall-street-frets-over-policy-uncertainty-with-midterms-looming",
     "published": "Wed, 14 Jan 2026 10:30:00 CST",
@@ -108,6 +162,12 @@
     "summary": "Portuguese football club Benfica is sounding out banks including JPMorgan\nChase & Co. on a plan to raise funds to renovate its Lisbon stadium and\ndevelop the surrounding area, according to people familiar with the matter.\n\n"
   },
   {
+    "title": "Economic conflicts are world’s greatest risk, WEF survey suggests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Feconomic-conflicts-are-worlds-greatest-risk-wef-survey-suggests",
+    "published": "Wed, 14 Jan 2026 09:15:20 CST",
+    "summary": "Extreme weather events and biodiversity loss identified as the biggest global\nthreats over a 10-year timeframe\n\nEconomic conflicts between major powers are the greatest risk facing the world\nover the next two years, according to experts polled ahead of next week’s\nDavos summit.\n\nAmong 1,300 business leaders, academics and civil society figures surveyed by\nthe World Economic Forum (WEF), “geoeconomic confrontation” was identified as\nthe most pressing threat.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Trade and War Worries Haunt Davos as World Seen ‘on a Precipice’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftrade-and-war-worries-haunt-davos-as-world-seen-on-a-precipice",
     "published": "Wed, 14 Jan 2026 09:15:00 CST",
@@ -118,6 +178,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbaidu-is-said-to-explore-upgrading-hk-listing-to-primary-status",
     "published": "Wed, 14 Jan 2026 09:13:55 CST",
     "summary": "Baidu Inc. is considering upgrading its Hong Kong listing to primary status to\ngain more exposure to investors in mainland China and protect itself from\npotentially unfavorable US policies, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Netflix ‘plans to switch to all-cash offer to seal $83bn Warner Bros deal’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F14%2Fnetflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
+    "published": "Wed, 14 Jan 2026 09:12:22 CST",
+    "summary": "Aim is to speed up acquisition of WBD studio and streaming businesses and hold\noff rival Paramount bid\n\nNetflix is reportedly preparing to switch to an all-cash offer to seal its\ntakeover of the studios and streaming businesses of Warner Bros Discovery\n(WBD), as it tries to speed up the deal and fend off a rival hostile bid from\nParamount Skydance.\n\nThe changes to Netflix’s $83bn (£62bn) offer, first reported by Bloomberg, are\ndesigned to accelerate the acquisition, which is expected to take months to\nconclude, and make it more palatable for WBD shareholders.\n\nContinue reading...\n\n"
   },
   {
     "title": "Congo to Share Minerals Projects List With US to Advance Pact",
@@ -138,52 +204,16 @@
     "summary": "Prague-based defense company Czechoslovak Group plans to go public in\nAmsterdam, in what could be the largest-ever defense initial public offering.\nThe armored vehicle and munitions maker is planning to sell €750 million ($874\nmillion) of new shares and a shareholder will sell an undetermined amount of\nexisting shares in the deal. Bloomberg’s Charles Capel reports.\n\n"
   },
   {
-    "title": "Traders Ready For ‘Donroe Doctrine’ to Fuel Market Moves in 2026",
+    "title": "Traders Ready for ‘Donroe Doctrine’ to Fuel Market Moves in 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftraders-ready-for-donroe-doctrine-to-fuel-market-moves-in-2026",
     "published": "Wed, 14 Jan 2026 09:00:00 CST",
     "summary": "Investors are bracing for a year of heightened geopolitical risk as the White\nHouse leans into the “Donroe Doctrine,” the Trumpian revival of a 200-year-old\nforeign policy that aims to project American dominance in the Western\nHemisphere and possibly beyond.\n\n"
-  },
-  {
-    "title": "Takaichi, Lee Hold Surprise Drum Session",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ftakaichi-lee-hold-surprise-drum-session-video",
-    "published": "Wed, 14 Jan 2026 08:55:23 CST",
-    "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung put up a\nunited front by drumming to ‘KPop Demon Hunters’ and BTS. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "HSBC Plans Risk Transfer Linked to €2 Billion of Corporate Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-plans-risk-transfer-linked-to-2-billion-of-corporate-loans",
-    "published": "Wed, 14 Jan 2026 08:45:09 CST",
-    "summary": "HSBC Holdings Plc is gauging investor demand for a significant risk transfer\ntied to a portfolio of about €2 billion ($2.3 billion) of investment-grade\ncorporate loans.\n\n"
-  },
-  {
-    "title": "How Scam Centers Are Linked to Cambodia-Thailand Clashes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fhow-scam-centers-are-linked-to-cambodia-thailand-clashes-video",
-    "published": "Wed, 14 Jan 2026 08:41:16 CST",
-    "summary": "A sprawling scam ecosystem in Cambodia has swindled billions of dollars from\nvictims around the world. After deadly border clashes last year, Thailand’s\narmy says its campaign is also a war against scammers. We put that claim to\nCambodia’s deputy prime minister. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Sustained Yen Weakness Isn't Vs Dollar: 3-Minutes MLIV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fsustained-yen-weakness-isn-t-vs-dollar-3-minutes-mliv-video",
-    "published": "Wed, 14 Jan 2026 08:40:41 CST",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Nigeria Trade Minister Sees Boost From UAE Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fnigeria-trade-minister-sees-boost-from-uae-deal-video",
-    "published": "Wed, 14 Jan 2026 08:18:12 CST",
-    "summary": "Nigeria and the United Arab Emirates concluded an economic agreement to deepen\ntrade ties. Nigerian Industry, Trade and Investment Minister Jumoke Oduwole\ntold Bloomberg's Jennifer Zabasajja and Horizons Middle East and Africa anchor\nJoumanna Bercetche that the deal will see a significant boost to trade between\nthe two countries. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Toyota Group Raises Buyout Offer 15% After Elliott Pressure",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftoyota-industries-buyout-offer-raised-after-investor-pushback",
     "published": "Wed, 14 Jan 2026 08:10:08 CST",
     "summary": "The Toyota group raised its buyout offer for a key unit by 15% that would bump\nup the acquisition target’s value to ¥6.1 trillion ($39 billion), caving in to\ndemands from Elliott Investment Management to sweeten what the activist\nshareholder had described as a lowball proposal.\n\n"
-  },
-  {
-    "title": "Taiwan’s Richest to See Wealth Growth of 10% a Year, Report Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftaiwan-s-richest-to-see-wealth-growth-of-10-a-year-report-says",
-    "published": "Wed, 14 Jan 2026 08:09:54 CST",
-    "summary": "Taiwan’s richest households will see their wealth grow about 10% a year\nthrough 2029 as a global technology race lifts markets and stokes income for\nthe island’s cutting-edge companies.\n\n"
   },
   {
     "title": "French Bond Sale Gets €115 Billion Bids Even as Risks Mount",
@@ -198,16 +228,16 @@
     "summary": "China’s surplus reached $1.19 trillion last year, a 20 percent increase from\n2024, as Beijing kept the currency weak and pursued self-reliance to replace\nimports.\n\n"
   },
   {
-    "title": "Mideast Energy Fund Plans PE Push to Drive Wave of Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fmideast-energy-fund-plans-pe-push-to-drive-wave-of-deals",
-    "published": "Wed, 14 Jan 2026 08:00:25 CST",
-    "summary": "One of the Middle East’s oldest state-backed investors is pushing further into\nprivate equity in search of new energy deals.\n\n"
-  },
-  {
     "title": "Key Ukraine Munitions Supplier CSG Plans IPO in Amsterdam",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fkey-ukraine-munitions-supplier-csg-plans-ipo-in-amsterdam",
     "published": "Wed, 14 Jan 2026 07:14:34 CST",
     "summary": "Armored vehicle and munitions maker Czechoslovak Group announced plans to go\npublic in Amsterdam, in what could be the largest-ever defense initial public\noffering.\n\n"
+  },
+  {
+    "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
+    "published": "Wed, 14 Jan 2026 06:53:29 CST",
+    "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nThe high-end department store conglomerate Saks Global filed for bankruptcy\nprotection on Tuesday in one of the largest retail collapses since the\npandemic, barely a year after a deal that brought Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus under the same roof.\n\nThe move cast uncertainty over the future of US luxury fashion, though the\nretailer said early on Wednesday its stores would remain open for now after it\nfinalised a $1.75bn financing package and appointed a new CEO.\n\nContinue reading...\n\n"
   },
   {
     "title": "Saks files for bankruptcy as it struggles to pay debts",
@@ -258,10 +288,10 @@
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
-    "title": "Oil Erases Decline With Traders Awaiting US Response on Iran",
+    "title": "Oil Climbs as US Airbase Report Fans Fears of Iran Escalation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14",
     "published": "Tue, 13 Jan 2026 23:27:04 CST",
-    "summary": "Oil erased an earlier drop, as traders weighed the US response to unrest in\nIran, with reports that some personnel have been advised to leave a US air\nbase in Qatar.\n\n"
+    "summary": "Oil advanced to the highest since October as traders awaited the US response\nto the turmoil in Iran, with reports that some personnel have been advised to\nleave an American airbase in Qatar.\n\n"
   },
   {
     "title": "Trump claims victory on US economy despite many Americans’ cost of living concerns",
@@ -270,16 +300,10 @@
     "summary": "In speech, president delivers triumph assessment, claiming US prices are down\ndespite official data showing otherwise\n\nDonald Trump claimed victory on the economy after 12 months back in office on\nTuesday, declaring it to be the “greatest first year in history” as many\nAmericans express alarm over the cost of living.\n\nIn a stream-of-consciousness speech at the Detroit Economic Club, the US\npresident delivered his gold-tinted view of how the economy has fared on his\nwatch. Prices were down, he claimed, despite official data showing otherwise,\nand productivity was “smashing expectations”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Global Funds Turn to China Stocks, Yuan in Big Bets for 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fglobal-investors-turn-to-china-stocks-yuan-in-big-bets-for-2026",
-    "published": "Tue, 13 Jan 2026 23:00:00 CST",
-    "summary": "Investors are ramping up bets on China’s stocks and currency as 2026 kicks\noff, signaling a more decisive shift into the country’s assets at a time of\nrising global uncertainties.\n\n"
-  },
-  {
-    "title": "US Equities Set for First Two-Day Loss of 2026: Markets Wrap",
+    "title": "US Stocks to Extend Losses as Iran Concerns Mount: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 13 Jan 2026 22:38:58 CST",
-    "summary": "US stock futures pointed to the first back-to-back losses of 2026 as traders\nwaited for the next batch of earnings from major banks. Metals topped all-time\nhighs.\n\n"
+    "summary": "US stock futures pointed to the first back-to-back losses of 2026 as traders\nwatched for an American response to the protests in Iran. Metals topped all-\ntime highs.\n\n"
   },
   {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
@@ -298,6 +322,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
     "published": "Tue, 13 Jan 2026 22:01:27 CST",
     "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far\nbeen limited and expensive.\n\n"
+  },
+  {
+    "title": "Growing Number of Options Traders See No Fed Cuts in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fgrowing-camp-of-options-traders-see-no-fed-cuts-in-2026",
+    "published": "Tue, 13 Jan 2026 21:30:14 CST",
+    "summary": "Traders focused on options are increasingly pricing out expectations for any\nFederal Reserve interest rate cuts in 2026, making wagers instead that would\npay off if the central bank stays on hold all year.\n\n"
   },
   {
     "title": "In a Risky Gambit, Trump Tries Brute Force to Lower Prices",
@@ -642,12 +672,6 @@
     "summary": "The announcement was the latest in a series of increasingly aggressive actions\nby Paramount to buy Warner Bros.\n\n"
   },
   {
-    "title": "Google parent Alphabet hits $4tn valuation after AI deal with Apple",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F12%2Fgoogle-gemini-alphabet-4-trillion-value",
-    "published": "Mon, 12 Jan 2026 17:14:52 CST",
-    "summary": "After Apple chose Gemini to power Siri, Alphabet surpassed Apple to become\nsecond-most valuable company in world\n\nGoogle’s parent company hit a major financial milestone on Monday, reaching a\n$4tn valuation for the first time and surpassing Apple to become the second-\nmost valuable company in the world.\n\nAlphabet is the fourth company to hit the $4tn milestone after Nvidia, which\nlater hit $5tn, Microsoft and Apple.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feurope-china-electric-vehicles-tariffs-volkswagen.html",
     "published": "Mon, 12 Jan 2026 17:02:21 CST",
@@ -664,12 +688,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fnew-york-city-nurses-strike%2F",
     "published": "Mon, 12 Jan 2026 16:17:02 CST",
     "summary": "New York City nurses went on strike over staffing levels and health benefits\nat key hospitals.\n\n"
-  },
-  {
-    "title": "Paramount to nominate directors to Warner Bros board to vote against Netflix deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F12%2Fparamount-to-nominate-directors-to-warner-bros-board-to-vote-against-netflix-deal",
-    "published": "Mon, 12 Jan 2026 15:56:57 CST",
-    "summary": "Paramount also files lawsuit seeking disclosure of financial information\nrelated to $82.7bn agreement\n\nParamount Skydance plans to nominate directors to Warner Bros Discovery’s\n(WBD) board to vote against the approval of its deal with Netflix, and filed a\nlawsuit seeking disclosure of financial information related to the $82.7bn\n(£61.4bn) agreement.\n\nIn a letter sent to WBD investors on Monday, Paramount said it would nominate\ndirectors for election at the company’s annual meeting, which is usually held\nin June, to try to derail the deal with Netflix, which was agreed in December.\n\nContinue reading...\n\n"
   },
   {
     "title": "Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value",
@@ -694,12 +712,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fstocks-making-the-biggest-moves-premarket-cof-afrm-akam-sncy-wmt.html",
     "published": "Mon, 12 Jan 2026 12:23:38 CST",
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
-  },
-  {
-    "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela",
-    "published": "Mon, 12 Jan 2026 11:00:03 CST",
-    "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting\ntheir first production drop in four years\n\nUS shale-oil producers were already contending with oil prices at four-year\nlows. News that they may soon face a significant competitor in their back yard\nprobably wasn’t how frackers wanted to greet 2026.\n\nThe US capture of Venezuela’s President Nicolás Maduro and his wife, Cilia\nFlores, hit the share prices of independent shale-oil producers, such as\nDiamondback Energy and Devon Energy, last week.\n\nContinue reading...\n\n"
   },
   {
     "title": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
@@ -772,12 +784,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fgm-hq-detroit-artifacts-company-history.html",
     "published": "Sun, 11 Jan 2026 09:00:01 CST",
     "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
-  },
-  {
-    "title": "Trump announces one-year 10% cap on credit card interest rates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F10%2Ftrump-credit-card-interest-rate-cap",
-    "published": "Sat, 10 Jan 2026 16:02:43 CST",
-    "summary": "Critics express doubt president can implement such a move without approval\nfrom Congress\n\nDonald Trump announced a one-year cap that would limit credit card interest\nrates to 10% this week, in a move that has prompted mixed reaction from\nlawmakers and beyond.\n\nThe president’s social media post on Friday night said the restriction would\ntake effect on 20 January, but he did not provide specifics on how the\ngovernment would implement it or ensure that companies comply.\n\nContinue reading...\n\n"
   },
   {
     "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
@@ -976,12 +982,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
     "published": "Wed, 07 Jan 2026 15:43:57 CST",
     "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
-  },
-  {
-    "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
-    "published": "Wed, 07 Jan 2026 14:12:57 CST",
-    "summary": "The board of GameStop granted Cohen performance-based stock options tied to a\n$100 billion market-capitalization target.\n\n"
   },
   {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
