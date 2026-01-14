@@ -1,57 +1,57 @@
 # NoBS News Digest - January 14, 2026
 
-Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
+Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvering dominate global headlines this week. In Southeast Asia, Thailand's military frames its border clashes with Cambodia as part of a broader crackdown on cross-border scam operations, which have defrauded billions worldwide. Meanwhile, President Trump escalates rhetoric against Iran, urging protesters to continue demonstrations against the Khamenei regime while hinting at potential U.S. intervention, though analysts warn that direct U.S. involvement could backfire. On the economic front, Trump's push to revive Venezuela's oil sector faces skepticism from U.S. energy executives, with critics arguing the plan could undermine American oil producers already struggling with low prices and oversupply. Elsewhere, Canada's former central bank governor, Mark Carney, travels to Beijing to repair strained Canada-China relations, signaling Ottawa's efforts to diversify trade amid worsening U.S.-China ties. The UK, too, faces diplomatic fallout after China threatened to cancel trade talks over a minister's visit to Taiwan, underscoring Beijing's growing assertiveness on sovereignty issues.
+Geopolitical tensions and economic shifts dominate this week's headlines. In Southeast Asia, Thailand's military frames its border clashes with Cambodia as part of a broader crackdown on cross-border scam operations, which have defrauded billions globally. Meanwhile, Canada's former central bank governor, Mark Carney, travels to Beijing to repair strained Canada-China relations, signaling Ottawa's push to diversify trade amid worsening U.S.-China ties. The U.S. faces internal and external economic pressures, with domestic fracking industries bracing for a supply glut as President Trump's potential move to exploit Venezuelan oil resources risks undermining American energy dominance. Additionally, China's aggressive diplomatic posture resurfaces, as revelations show Beijing threatened to derail UK trade talks over a minister's Taiwan visit, underscoring its sensitivity to Taiwan-related diplomacy. Against this backdrop, Ukrainian businesses like vodka maker Nemiroff demonstrate resilience, expanding exports despite ongoing Russian bombardment, highlighting the country's determination to sustain its economy amid war.
 
 **Top Articles:**
+- [Military newspaper applicants face ‘loyalty test’ on Trump policies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fstars-and-stripes-trump-loyalty-test%2F)
 - [How Scam Centers Are Linked to Cambodia-Thailand Clashes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fhow-scam-centers-are-linked-to-cambodia-thailand-clashes-video)
-- [Trump: Powell Crooked Or Incompetent; Iran Protests | Horizons Middle East & Africa 1/14/2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fhorizons-middle-east-africa-1-14-2026-video)
-- [Kamrava: Best for Iran Protests is for US to Do Nothing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fkamrava-best-for-iran-protests-is-for-us-to-do-nothing-video)
 - [Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html)
 - [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
+- [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
 
-**Sources**: archive.ph (9 articles)
+**Sources**: archive.ph (7 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a complex landscape in early 2026, marked by geopolitical tensions, central bank independence concerns, and shifting economic policies. The World Economic Forum warns of a precarious global outlook due to trade disputes and conflicts, while the U.S. faces internal strife as the Trump administration escalates pressure on the Federal Reserve, including a criminal investigation into Chair Jerome Powell. Global central bankers rally in support of Powell, emphasizing the need for Fed independence amid political interference. Meanwhile, metals like gold, silver, and copper surge to record highs on bets of U.S. rate cuts and Chinese market revival, though oil prices dip after a rally as traders assess geopolitical risks. Corporate developments include Saks' bankruptcy filing, JPMorgan's strong earnings, and a potential record defense IPO by Czechoslovak Group. China's trade surplus hits a record $1.19 trillion, while France's bond sale tests investor confidence amid budget uncertainties. The Middle East sees increased private equity activity, with firms like Jadwa Investment raising funds for alternative financing deals.
+Global markets are navigating a mix of economic optimism and geopolitical tension as 2026 begins. U.S. stocks face their first back-to-back losses of the year amid policy uncertainty ahead of midterm elections, while metals like gold, silver, and copper surge to record highs on expectations of Federal Reserve rate cuts and renewed Chinese market confidence. Corporate earnings reports, including JPMorgan’s strong trading revenue, paint a resilient picture of consumer and business activity, though inflation remains steady at 2.7%, keeping the Fed cautious. Meanwhile, geopolitical risks dominate headlines, with Trump’s tariff policies and the 'Donroe Doctrine' fueling trade disputes, while central banks rally around Fed Chair Jerome Powell amid a Justice Department investigation, underscoring concerns over political interference. In Europe, France’s bond sale draws massive demand despite fiscal risks, while China’s record trade surplus and weak yen raise deflationary fears for the continent. High-profile business moves include Jollibee’s planned U.S. IPO, Astorg’s €2 billion IQ-EQ sale, and Saks’ bankruptcy filing, reflecting ongoing retail sector struggles.
 
 **Top Articles:**
-- [Trade and War Worries Haunt Davos as World Seen ‘on a Precipice’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftrade-and-war-worries-haunt-davos-as-world-seen-on-a-precipice)
-- [Italy’s Meloni Set to Hand Fifth Term to Eni’s Long-Serving CEO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fitaly-s-meloni-set-to-hand-fifth-term-to-eni-s-long-serving-ceo)
-- [Defense Company CSG Plans IPO in Amsterdam](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fdefense-company-csg-plans-ipo-in-amsterdam-video)
-- [Traders Ready For ‘Donroe Doctrine’ to Fuel Market Moves in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftraders-ready-for-donroe-doctrine-to-fuel-market-moves-in-2026)
-- [HSBC Plans Risk Transfer Linked to €2 Billion of Corporate Loans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-plans-risk-transfer-linked-to-2-billion-of-corporate-loans)
+- [Wall Street Frets Over Policy Uncertainty With Midterms Looming](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwall-street-frets-over-policy-uncertainty-with-midterms-looming)
+- [Is Europe Facing a Wave of Deflation From China?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fis-europe-facing-a-wave-of-deflation-from-china-video)
+- [Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html)
+- [U.S. Refiners to Profit as Trump Asserts Control Over Venezuelan Oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fenergy-environment%2Frefineries-trump-venezuela-oil.html)
+- [We analyzed hundreds of earnings calls to see what executives really think of the economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2Finteractive%2F2026%2Fcorporate-earnings-calls-economic-optimism%2F)
 
-**Sources**: archive.ph (87 articles)
+**Sources**: archive.ph (90 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments this week. Alphabet, Google's parent company, has surged past Apple to become the world's second-most valuable company, hitting a $4 trillion valuation after striking an AI deal with Apple to power Siri with Gemini. Meanwhile, Boeing outperformed Airbus in 2025, delivering 600 jetliners and securing more orders, marking its strongest year since 2018. In regulatory news, Elon Musk's X faces a UK investigation over Grok's generation of sexually explicit AI images, while Malaysia and Indonesia have blocked access to the chatbot for similar concerns. The AI boom continues to reshape industries, with Amazon Pharmacy now offering Novo Nordisk's Wegovy weight-loss pill, signaling the growing intersection of tech and healthcare. On the economic front, the U.S. saw modest job growth in 2025, with the lowest hiring in five years, while precious metals like gold and silver rally amid uncertainty over Federal Reserve Chair Jerome Powell's future. In corporate moves, Baidu is exploring upgrading its Hong Kong listing to primary status, and Toyota raised its bid for a key unit by 15% after pressure from activist investor Elliott Management.
+The tech and business landscape is buzzing with major developments this week. Google parent Alphabet surged past a $4 trillion valuation after striking an AI deal with Apple, integrating Gemini into Siri and cementing its position as the world’s second-most valuable company. Meanwhile, Boeing outperformed Airbus in 2025, delivering 600 jetliners and securing its first sales lead since 2018, signaling a potential turnaround for the embattled aerospace giant. In AI, Elon Musk’s Grok chatbot faces regulatory scrutiny in the UK and bans in Malaysia and Indonesia over sexually explicit content, highlighting growing global concerns about AI ethics and safety. Financial markets are also in focus, with JPMorgan reporting lower 2025 profits amid deregulation hopes, while Baidu explores upgrading its Hong Kong listing to primary status, reflecting broader shifts in global capital flows. Elsewhere, Taiwan’s tech-driven wealth boom and a potential US-Taiwan trade deal underscore the island’s growing strategic importance in the semiconductor race.
 
 **Top Articles:**
+- [Banks Go Silent on Trump Plan to Weaken Racism-in-Lending Rules](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbanks-go-silent-on-trump-plan-to-weaken-racism-in-lending-rules)
+- [Alibaba and JPMorgan Are Said to Invest in Chip Designer Montage’s HK Listing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Falibaba-jpmorgan-said-to-invest-in-chip-designer-montage-s-hong-kong-listing)
+- [Turkey’s Inflation Crunch Spurs Rise of Salvage Grocery Chain](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fturkey-s-inflation-crunch-spurs-rise-of-salvage-grocery-chain)
 - [Benfica and JPMorgan Said to Hold Talks on Lisbon Stadium Revamp](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbenfica-jpmorgan-said-to-hold-talks-on-lisbon-stadium-revamp)
 - [Baidu Is Said to Explore Upgrading HK Listing to Primary Status](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbaidu-is-said-to-explore-upgrading-hk-listing-to-primary-status)
-- [Congo to Share Minerals Projects List With US to Advance Pact](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcongo-to-share-minerals-projects-list-with-us-to-advance-pact)
-- [Toyota Raises Bid for Unit by 15% After Elliott Pressure](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftoyota-industries-buyout-offer-raised-after-investor-pushback)
-- [Taiwan’s Richest to See Wealth Growth of 10% a Year, Report Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftaiwan-s-richest-to-see-wealth-growth-of-10-a-year-report-says)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (75 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize affordability in their weekly shopping. Aldi's strategy includes modernizing stores and expanding its product offerings, further challenging traditional supermarkets. Industry analysts note that this expansion could reshape the grocery landscape, forcing competitors to adjust pricing and promotions to retain customers.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize affordability in their weekly shopping. Aldi's strategy includes modernizing stores and expanding its product offerings, further challenging traditional supermarkets. Industry analysts note that this expansion could reshape the retail landscape, forcing competitors to adjust pricing and promotions to retain customers.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-Global economic and political dynamics dominate this week’s headlines, with notable developments in Asia and the U.S. Japanese Prime Minister Sanae Takaichi and South Korean President Lee Jae Myung made headlines with a symbolic drum session, signaling warming relations between the two nations. Meanwhile, China’s stock market faces volatility as authorities tighten margin financing rules, raising concerns about the sustainability of a recent rally. In the U.S., inflation remains a pressing issue, with food prices surging in December, while President Trump employs aggressive tactics to combat rising costs, including threats to companies and policymakers. The housing crisis also takes center stage, as the White House explores solutions to affordability challenges amid growing political pressure. On the cultural front, the Golden Globes introduces a new category for podcasts, reflecting the medium’s rising influence in entertainment, while Neon, an indie studio, leads nominations with a slate of international films. Additionally, the E.U. and South America finalize a landmark free-trade agreement, contrasting with the U.S.’s more coercive approach to global relations. Human interest stories, such as the revival of *Gourmet Magazine* as an unsanctioned newsletter and the career pivot of a grocery store leader turned financial planner, add depth to the week’s news.
+Global economic and geopolitical tensions dominate headlines as the World Economic Forum warns of rising geoeconomic confrontation and state-based conflicts in 2026. Meanwhile, financial strains persist, with Angola extending a $1 billion loan with JPMorgan and U.S. families cutting back on child care due to soaring costs. In the U.S., housing affordability remains a pressing issue, with President Trump’s policies facing criticism for undermining low-income homebuyer support, while food prices surge amid inflation. On the corporate front, Allegiant’s $1.5 billion acquisition of Sun Country highlights consolidation in the budget airline sector, and Paramount’s aggressive pursuit of Warner Bros. Discovery signals intensifying media industry competition. Culturally, psychedelic medicine gains traction with psilocybin therapy legalized in three states, though access remains limited, and podcasts earn recognition at the Golden Globes, reflecting their growing influence in entertainment.
 
 **Top Articles:**
-- [Takaichi, Lee Hold Surprise Drum Session](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ftakaichi-lee-hold-surprise-drum-session-video)
-- [Chinese Stocks Fall After Exchanges Tighten Margin Requirements](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-raises-margin-financing-ratio-to-100-to-curb-risks)
-- [Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html)
-- [Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html)
-- [’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html)
+- [WEF’s Zahidi on Biggest Risks Panning Out in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fwef-s-zahidi-on-biggest-risks-panning-out-in-2026-video)
+- [Angola Extends $1 Billion Loan With JPMorgan by Three Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fangola-extends-1-billion-loan-with-jpmorgan-by-three-years)
+- [As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html)
+- [Where Did All the American-Born Roofers Go?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html)
+- [Parents are cutting back on child care as costs stretch budgets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fchild-care-cost-cuts%2F)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (39 articles)
 
 ---
 
-*Digest generated on January 14, 2026 at 09:53 AM *
+*Digest generated on January 14, 2026 at 10:52 AM *
