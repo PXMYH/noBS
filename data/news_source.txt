@@ -1,15 +1,159 @@
 [
   {
+    "title": "Citigroup tops estimates as loan loss provisions come in lighter than expected",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fcitigroup-c-earnings-q4-2025.html",
+    "published": "Wed, 14 Jan 2026 13:20:51 CST",
+    "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling\noff parts of its overseas operations.\n\n"
+  },
+  {
+    "title": "India Pushes Back on 10-Minute Delivery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Findia-pushes-back-on-10-minute-delivery-video",
+    "published": "Wed, 14 Jan 2026 13:16:46 CST",
+    "summary": "India’s quick commerce boom was built on 10-minute delivery. Now the\ngovernment is asking apps to drop that promise, warning the race for speed may\nbe putting gig workers at risk. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Poland Monitoring Trump’s Fed Probe for Dollar Bond Sale Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpoland-monitoring-trump-s-fed-probe-for-dollar-bond-sale-plans",
+    "published": "Wed, 14 Jan 2026 13:05:24 CST",
+    "summary": "Poland is closely watching for any market fallout from US President Donald\nTrump’s investigation into the Federal Reserve as the investment-grade\nsovereign considers issuing debt in dollars later this year.\n\n"
+  },
+  {
+    "title": "Hedge Fund ExodusPoint Hires Ex-Goldman, BNP Paribas FX Veteran",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhedge-fund-exoduspoint-hires-ex-goldman-bnp-paribas-fx-veteran",
+    "published": "Wed, 14 Jan 2026 13:00:37 CST",
+    "summary": "ExodusPoint Capital Management has hired seasoned options trader Baris\nTemelkuran as a macro portfolio manager, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Neuberger Berman Invests in Ryan at $7 Billion Valuation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fneuberger-berman-invests-in-ryan-at-7-billion-valuation",
+    "published": "Wed, 14 Jan 2026 13:00:31 CST",
+    "summary": "Neuberger Berman is buying a minority stake in Ryan LLC, valuing the tax\nadvisory and software provider at about $7 billion, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
+    "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
+    "published": "Wed, 14 Jan 2026 13:00:22 CST",
+    "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcanada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs",
+    "published": "Wed, 14 Jan 2026 12:58:19 CST",
+    "summary": "Prime Minister Mark Carney landed in Beijing on Wednesday for the first state\nvisit from a Canadian leader in eight years, as Chinese state media called on\nOttawa to lift tariffs on the nation’s exports.\n\n"
+  },
+  {
+    "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
+    "published": "Wed, 14 Jan 2026 12:49:50 CST",
+    "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
+  },
+  {
+    "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
+    "published": "Wed, 14 Jan 2026 12:45:37 CST",
+    "summary": "Bank of America, the second-largest U.S. bank by assets, has been a\nbeneficiary of the industry's recent tailwinds.\n\n"
+  },
+  {
+    "title": "Russian-Flag Oil Tanker Arrives in UK Waters After Seizure by US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Frussian-flag-oil-tanker-arrives-in-uk-waters-after-seizure-by-us",
+    "published": "Wed, 14 Jan 2026 12:44:00 CST",
+    "summary": "An oil tanker sailing under the flag of Russia arrived in UK territorial\nwaters -- days after it was seized in the Atlantic Ocean by US forces.\n\n"
+  },
+  {
+    "title": "Emerging Stocks Notch New Record High, Powered by Asian Tech",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Femerging-stocks-notch-new-record-high-powered-by-asian-tech",
+    "published": "Wed, 14 Jan 2026 12:39:06 CST",
+    "summary": "Emerging-market stocks rose for the third-straight day to touch yet another\nrecord high, driven mainly by the boom in Asian technology shares.\n\n"
+  },
+  {
+    "title": "Trump Dismisses Dimon’s Criticism of DOJ Probe of Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ftrump-dismisses-dimon-s-criticism-of-doj-probe-of-powell-video",
+    "published": "Wed, 14 Jan 2026 12:38:58 CST",
+    "summary": "President Donald Trump said JPMorgan Chase & Co. Chief Executive Officer Jamie\nDimon was “wrong” to suggest he was undermining the independence of the\ncentral bank after Dimon criticized the Justice Department probe into the\nFederal Reserve. Tyler Kendall reports on Bloomberg Television. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Big Oil Braces for Profit Pain After Crude’s Slide",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-14%2Fbig-oil-braces-for-profit-pain-after-crude-s-slide",
+    "published": "Wed, 14 Jan 2026 12:36:10 CST",
+    "summary": "The supermajors may be heading into a tougher earnings season.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Wells Fargo, Bank of America, Netflix & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
+    "published": "Wed, 14 Jan 2026 12:32:14 CST",
+    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
+  },
+  {
+    "title": "The Swedish Start-Up Aiming to Conquer America’s Full-Body-Scan Craze",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fneko-health-expansion.html",
+    "published": "Wed, 14 Jan 2026 12:30:33 CST",
+    "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
+  },
+  {
+    "title": "Pimco Says Rally Sweeping Emerging Markets to Last ‘for Years’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpimco-says-rally-sweeping-emerging-markets-to-last-for-years",
+    "published": "Wed, 14 Jan 2026 12:28:08 CST",
+    "summary": "For one of the world’s largest bond managers, the rally that swept through\nemerging markets last year was a prelude to a longer-lasting trend.\n\n"
+  },
+  {
+    "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fworld-economic-forum-2026-global-risks-report.html",
+    "published": "Wed, 14 Jan 2026 12:25:40 CST",
+    "summary": "The report captures a shifting landscape where geoeconomic confrontation leaps\nto the top spot on the list of business worries over the next two years\n\n"
+  },
+  {
+    "title": "Euro Entry Makes Bulgarian Stocks World’s Best in Early 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Feuro-entry-makes-bulgarian-stocks-world-s-best-in-early-2026",
+    "published": "Wed, 14 Jan 2026 12:23:44 CST",
+    "summary": "Bulgaria’s euro adoption is fueling the world’s best stock rally in early 2026\nand may help further improve the sovereign’s credit rating, according to Peter\nChobanov, a deputy central bank governor.\n\n"
+  },
+  {
+    "title": "Trump Tariffs: What Happens if US Supreme Court Cancels Them | The Pulse 1/14",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fthe-pulse-1-14-video",
+    "published": "Wed, 14 Jan 2026 12:17:06 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Ralf Preusser, Bank of\nAmerica, Global Head of G10 Rates and FX Strategy; Omotunde Lawal, Barings,\nHead of EMEA Corporate Credit and EM Corporate Debt; Saadia Zahidi, Managing\nDirector at the World Economic Forum; Georgina Wright, German Marshall Fund\nSenior Fellow. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bank of America Tops Estimates on Equity Trading Boost",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fbank-of-america-tops-estimates-on-equity-trading-boost-video",
+    "published": "Wed, 14 Jan 2026 12:13:39 CST",
+    "summary": "Bank of America saw revenue from equity trading rise 23% to $2.02 billion and\nnet interest income topped analysts’ estimates as traders posted a strong\nfourth quarter. Dani Burger reports on Bloomberg Television. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Wells Fargo Misses Profit Estimates as NII Falls Short",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fwells-fargo-misses-profit-estimates-as-nii-falls-short-video",
+    "published": "Wed, 14 Jan 2026 12:04:07 CST",
+    "summary": "Wells Fargo fell short of analysts’ profit estimates as net interest income\nfell short of expectations and severance costs drove up expenses in the fourth\nquarter. Dani Burger reports on Bloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Mortgage Rates Slide to One of Lowest Levels Since 2022",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fus-mortgage-rates-slide-to-one-of-the-lowest-levels-since-2022",
+    "published": "Wed, 14 Jan 2026 12:00:00 CST",
+    "summary": "US mortgage rates slid last week to one of the lowest levels in years,\nsparking a flurry of purchase and refinancing activity that offers hope for a\nplodding housing market.\n\n"
+  },
+  {
+    "title": "Metals Rally Picks Up Momentum to Start 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-14%2Fmetals-rally-picks-up-momentum-to-start-2026",
+    "published": "Wed, 14 Jan 2026 11:45:27 CST",
+    "summary": "Animal spirits are alive and well in metals markets as several factors fuel\nthe price surge\n\n"
+  },
+  {
+    "title": "Honeywell-Backed Quantinuum Planning to File for IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhoneywell-backed-quantinuum-is-close-to-filing-for-ipo",
+    "published": "Wed, 14 Jan 2026 11:45:00 CST",
+    "summary": "Quantinuum, the quantum computing company controlled by Honeywell\nInternational Inc., is preparing to file for an initial public offering\nimminently.\n\n"
+  },
+  {
+    "title": "Stock Futures Slip as Metals Hit Highs; SCOTUS Opinion Day | Bloomberg Brief 1/14/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fbloomberg-brief-1-14-2026-video",
+    "published": "Wed, 14 Jan 2026 11:36:45 CST",
+    "summary": "US Equity futures slide ahead of PPI, retail sales data and more bank earnings\nfrom Bank of America, Wells Fargo and Citi. Gold, Silver and Copper hit record\nhighs. The US Supreme Court is set for another opinion day on President\nTrump's global tariff policies. Top diplomats from Greenland and Denmark are\nscheduled to meet with US Vice President JD Vance and Secretary of State Marco\nRubio at the White House to convince the Trump administration to back off on\nits demands for the Arctic territory. Amy Wu Silverman of RBC Capital Markets\ndiscusses her latest volatility outlook. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "HSBC Is Said to Consider Selling Singapore Insurance Business",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-is-said-to-consider-selling-singapore-insurance-business",
     "published": "Wed, 14 Jan 2026 11:15:46 CST",
     "summary": "HSBC Holdings Plc is exploring options for its insurance unit in Singapore,\nincluding a sale, people familiar with the matter said, following other\nbusiness revamps globally under Chief Executive Officer Georges Elhedery.\n\n"
-  },
-  {
-    "title": "Bank of America is set to report fourth-quarter earnings – here's what to expect",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
-    "published": "Wed, 14 Jan 2026 11:15:01 CST",
-    "summary": "Bank of America, the second-largest U.S. bank by assets, has been a\nbeneficiary of the industry's recent tailwinds.\n\n"
   },
   {
     "title": "No 10% credit card interest cap is coming. Use this script instead.",
@@ -42,52 +186,16 @@
     "summary": "Alternative asset manager TPG Inc. is sharply increasing the amount of loans\nit will buy from OneMain Holdings Inc. as private credit firms build their\npresence in the consumer-finance space long-dominated by banks.\n\n"
   },
   {
-    "title": "Silver, Gold, Copper & Tin Hit Records, China's $1.2T Trade Surplus | The Opening Trade 1/14/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fthe-opening-trade-1-14-2026-video",
-    "published": "Wed, 14 Jan 2026 10:53:27 CST",
-    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors bet on a boost from more US\nrate cuts and a revival in sentiment across Chinese financial markets. China’s\ntrade surplus climbed to $1.2 trillion in 2025, extending a record run as\noverseas shipments surprised with stronger growth at the end of the year,\ndespite a deepening plunge in sales to the US. Plus, Donald Trump takes issue\nwith Jamie Dimon's stance on the Fed. The Opening Trade has everything you\nneed to know as markets open across Europe. With analysis you won't find\nanywhere else, we break down the biggest stories of the day and speak to top\nguests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom\nMackenzie. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Sixth Street Raises €3.75 Billion for European Direct Lending",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsixth-street-raises-3-75-billion-for-european-direct-lending",
-    "published": "Wed, 14 Jan 2026 10:30:00 CST",
-    "summary": "Sixth Street has raised €3.75 billion ($4.4 billion) from investors to target\nfinancing opportunities in Europe’s direct lending market.\n\n"
-  },
-  {
-    "title": "Wall Street Frets Over Policy Uncertainty With Midterms Looming",
+    "title": "Ned Davis Distills Political Angst Into ‘Big MAC’ Equity Trade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwall-street-frets-over-policy-uncertainty-with-midterms-looming",
     "published": "Wed, 14 Jan 2026 10:30:00 CST",
     "summary": "Wall Street loves few things more than a good acronym to describe a trading\nthesis. Think FANG, FOMO/YOLO and TACO.\n\n"
   },
   {
-    "title": "Banks Go Silent on Trump Plan to Weaken Racism-in-Lending Rules",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbanks-go-silent-on-trump-plan-to-weaken-racism-in-lending-rules",
+    "title": "Sixth Street Raises €3.75 Billion for European Direct Loans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsixth-street-raises-3-75-billion-for-european-direct-lending",
     "published": "Wed, 14 Jan 2026 10:30:00 CST",
-    "summary": "Big US banks have gone quiet on Trump administration officials’ latest attempt\nto roll back protections against racist lending practices, a reversal from\n2020 when executives from Wells Fargo & Co., Bank of America Corp., JPMorgan\nChase & Co. and Citigroup Inc. petitioned the government to leave similar\nsafeguards in place.\n\n"
-  },
-  {
-    "title": "WEF’s Zahidi on Biggest Risks Panning Out in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fwef-s-zahidi-on-biggest-risks-panning-out-in-2026-video",
-    "published": "Wed, 14 Jan 2026 10:26:59 CST",
-    "summary": "Saadia Zahidi, Managing Director at the World Economic Forum, discusses the\nbiggest global risks in a conversation with Bloomberg’s Francine Lacqua, as\nthe WEF Global Risks Report specifies “geoeconomic confrontation” and “state-\nbased armed conflict” the two biggest risks panning out in 2026. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Alibaba and JPMorgan Are Said to Invest in Chip Designer Montage’s HK Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Falibaba-jpmorgan-said-to-invest-in-chip-designer-montage-s-hong-kong-listing",
-    "published": "Wed, 14 Jan 2026 10:22:27 CST",
-    "summary": "Chinese chip designer Montage Technology Co. is set to enlist Alibaba Group\nHolding Ltd. and JPMorgan Asset Management among the key investors in its\nupcoming Hong Kong listing, according to people familiar with the matter, in a\nsign of promising demand for the Asian financial hub’s latest share sale\nrelated to artificial intelligence.\n\n"
-  },
-  {
-    "title": "Angola Extends $1 Billion Loan With JPMorgan by Three Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fangola-extends-1-billion-loan-with-jpmorgan-by-three-years",
-    "published": "Wed, 14 Jan 2026 10:16:22 CST",
-    "summary": "Angola agreed with JPMorgan Chase & Co. to rollover a $1 billion loan and\nsecured an extra $500 million in financing from the US lender, according to\nthe finance ministry.\n\n"
-  },
-  {
-    "title": "Is Europe Facing a Wave of Deflation From China?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fis-europe-facing-a-wave-of-deflation-from-china-video",
-    "published": "Wed, 14 Jan 2026 10:09:33 CST",
-    "summary": "Sophie Huynh, portfolio manager and strategist at BNP Paribas Asset\nManagement, discusses key market drivers and China's export engine. \"It's\nclear that the exporting sector has been quite supportive for China,\" she\ntells Bloomberg Television. \"It remains to be seen how much inflation they're\nreally exporting.\" (Source: Bloomberg)\n\n"
+    "summary": "Sixth Street has raised €3.75 billion ($4.4 billion) from investors to target\nfinancing opportunities in Europe’s direct lending market.\n\n"
   },
   {
     "title": "Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.",
@@ -120,12 +228,6 @@
     "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
   },
   {
-    "title": "Turkey’s Inflation Crunch Spurs Rise of Salvage Grocery Chain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fturkey-s-inflation-crunch-spurs-rise-of-salvage-grocery-chain",
-    "published": "Wed, 14 Jan 2026 10:00:23 CST",
-    "summary": "Turkey’s cost-of-living crisis has given rise to the country’s first salvage\ngrocery chain, as shoppers squeezed by years of high inflation hunt for\ncheaper food.\n\n"
-  },
-  {
     "title": "Where Did All the American-Born Roofers Go?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html",
     "published": "Wed, 14 Jan 2026 10:00:13 CST",
@@ -144,40 +246,10 @@
     "summary": "Research shows 1 in 5 families face child care hardships because of the\nexpense, with single mothers most affected.\n\n"
   },
   {
-    "title": "Jollibee Looks to Tap Deep US Investor Base for Overseas Unit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjollibee-looks-to-tap-deep-us-investor-base-for-overseas-unit",
-    "published": "Wed, 14 Jan 2026 09:57:52 CST",
-    "summary": "Philippine fast-food group Jollibee Foods Corp. plans a US listing in order to\ntap into the nation’s deep investor base that offers the company more\nopportunities than its anemic home market.\n\n"
-  },
-  {
-    "title": "Astorg Readies IQ-EQ Sale as Lenders Prep €2 Billion Buyout Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fastorg-readies-iq-eq-sale-as-lenders-prep-2-billion-buyout-debt",
-    "published": "Wed, 14 Jan 2026 09:44:33 CST",
-    "summary": "Private equity firm Astorg is getting ready to kick off a sale of its fund\nservices business IQ-EQ, with lenders preparing debt financing of about €2\nbillion ($2.3 billion) for potential bidders.\n\n"
-  },
-  {
-    "title": "Benfica and JPMorgan Said to Hold Talks on Lisbon Stadium Revamp",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbenfica-jpmorgan-said-to-hold-talks-on-lisbon-stadium-revamp",
-    "published": "Wed, 14 Jan 2026 09:27:35 CST",
-    "summary": "Portuguese football club Benfica is sounding out banks including JPMorgan\nChase & Co. on a plan to raise funds to renovate its Lisbon stadium and\ndevelop the surrounding area, according to people familiar with the matter.\n\n"
-  },
-  {
     "title": "Economic conflicts are world’s greatest risk, WEF survey suggests",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Feconomic-conflicts-are-worlds-greatest-risk-wef-survey-suggests",
     "published": "Wed, 14 Jan 2026 09:15:20 CST",
     "summary": "Extreme weather events and biodiversity loss identified as the biggest global\nthreats over a 10-year timeframe\n\nEconomic conflicts between major powers are the greatest risk facing the world\nover the next two years, according to experts polled ahead of next week’s\nDavos summit.\n\nAmong 1,300 business leaders, academics and civil society figures surveyed by\nthe World Economic Forum (WEF), “geoeconomic confrontation” was identified as\nthe most pressing threat.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Trade and War Worries Haunt Davos as World Seen ‘on a Precipice’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftrade-and-war-worries-haunt-davos-as-world-seen-on-a-precipice",
-    "published": "Wed, 14 Jan 2026 09:15:00 CST",
-    "summary": "A global backdrop increasingly threatened by trade disputes and inter-state\nconflict is how respondents in a World Economic Forum survey see things\npanning out in 2026.\n\n"
-  },
-  {
-    "title": "Baidu Is Said to Explore Upgrading HK Listing to Primary Status",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbaidu-is-said-to-explore-upgrading-hk-listing-to-primary-status",
-    "published": "Wed, 14 Jan 2026 09:13:55 CST",
-    "summary": "Baidu Inc. is considering upgrading its Hong Kong listing to primary status to\ngain more exposure to investors in mainland China and protect itself from\npotentially unfavorable US policies, according to people familiar with the\nmatter.\n\n"
   },
   {
     "title": "Netflix ‘plans to switch to all-cash offer to seal $83bn Warner Bros deal’",
@@ -186,40 +258,10 @@
     "summary": "Aim is to speed up acquisition of WBD studio and streaming businesses and hold\noff rival Paramount bid\n\nNetflix is reportedly preparing to switch to an all-cash offer to seal its\ntakeover of the studios and streaming businesses of Warner Bros Discovery\n(WBD), as it tries to speed up the deal and fend off a rival hostile bid from\nParamount Skydance.\n\nThe changes to Netflix’s $83bn (£62bn) offer, first reported by Bloomberg, are\ndesigned to accelerate the acquisition, which is expected to take months to\nconclude, and make it more palatable for WBD shareholders.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Congo to Share Minerals Projects List With US to Advance Pact",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcongo-to-share-minerals-projects-list-with-us-to-advance-pact",
-    "published": "Wed, 14 Jan 2026 09:12:19 CST",
-    "summary": "The Democratic Republic of Congo will shortly share a list of minerals\nprojects with the US for possible development by American investors, six weeks\nafter the two nations signed a strategic partnership.\n\n"
-  },
-  {
-    "title": "Italy’s Meloni Set to Hand Fifth Term to Eni’s Long-Serving CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fitaly-s-meloni-set-to-hand-fifth-term-to-eni-s-long-serving-ceo",
-    "published": "Wed, 14 Jan 2026 09:02:12 CST",
-    "summary": "Italy’s government is preparing to reconfirm Claudio Descalzi as chief\nexecutive officer of Italian state-backed energy firm Eni SpA, a move that\nwould extend the term of one of Europe’s longest-serving oil chiefs and\nproject continuity.\n\n"
-  },
-  {
-    "title": "Defense Company CSG Plans IPO in Amsterdam",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fdefense-company-csg-plans-ipo-in-amsterdam-video",
-    "published": "Wed, 14 Jan 2026 09:01:24 CST",
-    "summary": "Prague-based defense company Czechoslovak Group plans to go public in\nAmsterdam, in what could be the largest-ever defense initial public offering.\nThe armored vehicle and munitions maker is planning to sell €750 million ($874\nmillion) of new shares and a shareholder will sell an undetermined amount of\nexisting shares in the deal. Bloomberg’s Charles Capel reports.\n\n"
-  },
-  {
-    "title": "Traders Ready for ‘Donroe Doctrine’ to Fuel Market Moves in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftraders-ready-for-donroe-doctrine-to-fuel-market-moves-in-2026",
-    "published": "Wed, 14 Jan 2026 09:00:00 CST",
-    "summary": "Investors are bracing for a year of heightened geopolitical risk as the White\nHouse leans into the “Donroe Doctrine,” the Trumpian revival of a 200-year-old\nforeign policy that aims to project American dominance in the Western\nHemisphere and possibly beyond.\n\n"
-  },
-  {
-    "title": "Toyota Group Raises Buyout Offer 15% After Elliott Pressure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftoyota-industries-buyout-offer-raised-after-investor-pushback",
-    "published": "Wed, 14 Jan 2026 08:10:08 CST",
-    "summary": "The Toyota group raised its buyout offer for a key unit by 15% that would bump\nup the acquisition target’s value to ¥6.1 trillion ($39 billion), caving in to\ndemands from Elliott Investment Management to sweeten what the activist\nshareholder had described as a lowball proposal.\n\n"
-  },
-  {
-    "title": "French Bond Sale Gets €115 Billion Bids Even as Risks Mount",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ffrance-s-bond-sale-to-test-demand-as-budget-risks-danger-zone",
-    "published": "Wed, 14 Jan 2026 08:05:14 CST",
-    "summary": "France’s latest bond sale has pulled in more than €115 billion ($134 billion)\nof orders, showing investor faith in the country even as lawmakers have yet to\nagree a budget and its deficit risks what the central bank’s chief calls a\n“danger zone.”\n\n"
+    "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fsaks-global-files-for-bankruptcy-protection.html",
+    "published": "Wed, 14 Jan 2026 08:49:17 CST",
+    "summary": "Saks Global, which also owns Neiman Marcus and Bergdorf Goodman, filed for\nbankruptcy protection after running out of cash.\n\n"
   },
   {
     "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets",
@@ -228,16 +270,10 @@
     "summary": "China’s surplus reached $1.19 trillion last year, a 20 percent increase from\n2024, as Beijing kept the currency weak and pursued self-reliance to replace\nimports.\n\n"
   },
   {
-    "title": "Key Ukraine Munitions Supplier CSG Plans IPO in Amsterdam",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fkey-ukraine-munitions-supplier-csg-plans-ipo-in-amsterdam",
-    "published": "Wed, 14 Jan 2026 07:14:34 CST",
-    "summary": "Armored vehicle and munitions maker Czechoslovak Group announced plans to go\npublic in Amsterdam, in what could be the largest-ever defense initial public\noffering.\n\n"
-  },
-  {
-    "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
-    "published": "Wed, 14 Jan 2026 06:53:29 CST",
-    "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nThe high-end department store conglomerate Saks Global filed for bankruptcy\nprotection on Tuesday in one of the largest retail collapses since the\npandemic, barely a year after a deal that brought Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus under the same roof.\n\nThe move cast uncertainty over the future of US luxury fashion, though the\nretailer said early on Wednesday its stores would remain open for now after it\nfinalised a $1.75bn financing package and appointed a new CEO.\n\nContinue reading...\n\n"
+    "title": "Powell Gets Central Bankers' Support Amid Trump Pressure | Insight with Haslinda Amin 1/14/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Finsight-with-haslinda-amin-1-14-2025-video",
+    "published": "Wed, 14 Jan 2026 07:28:04 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Saks files for bankruptcy as it struggles to pay debts",
@@ -255,7 +291,7 @@
     "title": "Blistering Metals Rally Sends Gold, Silver and Copper to Records",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Frecords-tumble-as-silver-and-tin-lead-blistering-metals-rally",
     "published": "Wed, 14 Jan 2026 06:10:40 CST",
-    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors bet on a boost from more US\nrate cuts and a revival in sentiment across Chinese financial markets.\n\n"
+    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- bolstered by bets on lower US interest\nrates and improved sentiment across Chinese financial markets.\n\n"
   },
   {
     "title": "What the Bankruptcy of Saks Means for You",
@@ -280,6 +316,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
     "published": "Wed, 14 Jan 2026 04:40:32 CST",
     "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
+  },
+  {
+    "title": "Cocoa Gets Cheaper But Chocolate Makers Still Hold Back",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcocoa-gets-cheaper-but-chocolate-makers-are-still-holding-back",
+    "published": "Wed, 14 Jan 2026 03:04:41 CST",
+    "summary": "Cocoa processing remains under pressure around the world, highlighting\ncontinued demand destruction and struggles for the chocolate industry in the\nwake of record prices a year ago.\n\n"
   },
   {
     "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
@@ -558,12 +600,6 @@
     "summary": "The deal would cut tariffs and include a commitment from Taiwanese\nSemiconductor Manufacturing Corporation, the island’s chip giant, to build\nmore manufacturing plants in the United States.\n\n"
   },
   {
-    "title": "Popularity of ‘Heated Rivalry’ Has Surprised Even TV Executives",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fmedia%2Fheated-rivalry-hbo-max-popularity.html",
-    "published": "Tue, 13 Jan 2026 03:19:43 CST",
-    "summary": "The show, streaming on HBO Max, doesn’t have one of the biggest audiences, but\nviewership grew very quickly in just a few weeks.\n\n"
-  },
-  {
     "title": "Labor Secretary’s Aides Placed on Leave in Misconduct Investigation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Flori-chavez-deremer-misconduct-investigation.html",
     "published": "Tue, 13 Jan 2026 03:11:18 CST",
@@ -810,12 +846,6 @@
     "summary": "The revamped US broadcast has endured a rough start with changed plans, big\ninterviews, social media criticism and an abrupt firing\n\nAs traditional TV audiences continue to decline, and more Americans switch to\nstreaming platforms and social media, it’s often a challenge for networks to\nget the public’s attention when relaunching a show. That hasn’t been an issue\nfor the CBS Evening News with Tony Dokoupil.\n\nThe nightly broadcast has received close scrutiny – and a heap of criticism –\nsince its official launch on Monday, and unofficial launch two nights earlier,\nwhen the anchor hosted a special edition after the US attack on Venezuela.\n\nContinue reading...\n\n"
   },
   {
-    "title": "The Boss Who Hates Sick Day Requests",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fbusiness%2Fwhy-doesnt-my-boss-respect-sick-days.html",
-    "published": "Sat, 10 Jan 2026 10:02:37 CST",
-    "summary": "Plus, the impossibility of being a middle manager.\n\n"
-  },
-  {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Feuropean-union-mercosur-trade.html",
     "published": "Sat, 10 Jan 2026 01:56:20 CST",
@@ -948,40 +978,10 @@
     "summary": "The monthly trade deficit continued to shrink in October after President Trump\nimposed sweeping tariffs on imports, the latest data showed.\n\n"
   },
   {
-    "title": "Family office deals cooled off in December, but heirs placed bets in health and media",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Ffamily-office-deals-bets-december.html",
-    "published": "Thu, 08 Jan 2026 14:36:58 CST",
-    "summary": "Investment firms of the ultra-rich didn't jump into the M&A frenzy during the\nholiday season.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Lockheed Martin, Northrop Grumman, Gap, Alcoa & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fstocks-making-the-biggest-moves-premarket-.html",
     "published": "Thu, 08 Jan 2026 12:46:48 CST",
     "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
-  },
-  {
-    "title": "Real estate agents say the housing market is starting to balance out",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fcnbc-housing-market-survey-agents-balance-out.html",
-    "published": "Thu, 08 Jan 2026 12:42:07 CST",
-    "summary": "The latest housing survey shows agents slightly more optimistic about the new\nyear, and shows a previously strong buyer's market becoming more balanced.\n\n"
-  },
-  {
-    "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fford-eyes-off-driving-ev-2028.html",
-    "published": "Thu, 08 Jan 2026 01:56:11 CST",
-    "summary": "The target brings Ford into a race against competitors such as Tesla, General\nMotors and Rivian Automotive to develop and broadly launch such systems.\n\n"
-  },
-  {
-    "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-apple-credit-card.html",
-    "published": "Wed, 07 Jan 2026 23:53:48 CST",
-    "summary": "JPMorgan Chase has reached a deal to take over the Apple credit card from\nGoldman Sachs, the two banks said late Wednesday.\n\n"
-  },
-  {
-    "title": "JPMorgan's asset management will no longer use controversial proxy advisors for shareholder votes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F07%2Fjpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
-    "published": "Wed, 07 Jan 2026 15:43:57 CST",
-    "summary": "JPMorgan said it is instead using artificial intelligence to aggregate and\nanalyze proxy data.\n\n"
   },
   {
     "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
