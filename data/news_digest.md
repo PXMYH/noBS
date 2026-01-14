@@ -1,18 +1,18 @@
 # NoBS News Digest - January 14, 2026
 
-Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
+Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines this week. The US intensifies pressure on illicit oil trade, seizing tankers linked to Venezuela and prompting a 'dark fleet' of vessels to seek Russian flag protection. Meanwhile, President Trump's push to revive Venezuela's oil sector faces skepticism from US energy executives, with analysts warning it could exacerbate a global supply glut and undermine domestic fracking industries. In Asia, Japan's bond yields surge to a 26-year high amid fiscal concerns and Prime Minister Sanae Takaichi's reported plans for a snap election, while Colombia secures $5 billion in global bonds ahead of pivotal elections. Diplomatic strains persist as China threatens to derail UK trade talks over a minister's Taiwan visit, underscoring Beijing's sensitivity to Taiwan-related engagements. On the military front, Trump seeks expanded powers to penalize underperforming defense contractors, signaling frustration with weapons delivery delays.
+Geopolitical tensions and economic shifts dominate global headlines this week. The US-China relationship remains strained, with former diplomat William Klein highlighting the impact of President Trump’s tariffs on Iran’s trading partners, while China’s threat to cancel UK trade talks over a minister’s Taiwan visit underscores Beijing’s sensitivity to diplomatic provocations. Meanwhile, Venezuela’s gradual release of US prisoners signals a potential thaw in relations, though Trump’s push to exploit Venezuelan oil resources faces skepticism from US energy executives and risks exacerbating a global supply glut. In Japan, fiscal concerns escalate as Prime Minister Sanae Takaichi’s snap election plans trigger a surge in bond yields, reflecting investor unease. On the military front, the US intensifies pressure on illicit oil trade by seizing tankers, prompting a shadow fleet to seek Russian protection, while Trump’s executive order targets underperforming defense contractors to accelerate weapons production.
 
 **Top Articles:**
+- [Former US Diplomat Klein on US-China Relations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fformer-us-diplomat-klein-on-us-china-relations-video)
 - [Dark Fleet Seeking Russian Protection as US Seizes Oil Tankers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fdark-fleet-seeking-russian-protection-as-us-seizes-oil-tankers)
 - [Japan 5-Year Yield Jumps to Highest Since 2000 on Election Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-5-year-yield-jumps-to-highest-since-2000-on-election-risk)
 - [Venezuela Frees US Citizen Amid Gradual Prisoner Releases](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fvenezuela-frees-us-citizen-amid-gradual-prisoner-releases)
-- [Colombia Sells $5 Billion of Global Bonds Ahead of Elections](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fcolombia-rushes-to-sell-dollar-debt-ahead-of-busy-election-year)
 - [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
 
 **Sources**: archive.ph (10 articles)
@@ -21,37 +21,37 @@ Geopolitical tensions and economic shifts dominate global headlines this week. T
 
 ## 💰 Finance, Economics & Business
 
-Markets are reacting to mixed economic signals as 2026 begins, with inflation holding steady at 2.7% in December, reinforcing trader bets on a Fed rate cut by June. Stocks slid on the CPI report, while precious metals surged—silver hit a record high and gold rose amid geopolitical tensions and rate-cut expectations. The Fed faces mounting pressure as a DOJ probe into Chair Jerome Powell sparks global concern over central bank independence, with former officials and foreign counterparts rallying to his defense. Meanwhile, corporate activity remains brisk: U.S. Bancorp announced a $1 billion acquisition of BTIG, and Blackstone-backed Liftoff Mobile filed for a U.S. IPO. In commodities, tin soared above $51,000 per ton, driven by Chinese demand, while oil markets eye Venezuela’s potential long-term recovery. Political risks loom as Trump’s proposed credit card rate cap threatens a $70 billion debt market, and his trade tariffs face legal challenges. Global investors are also pivoting toward Chinese stocks and the yuan, signaling cautious optimism despite broader economic uncertainties.
+Global markets are navigating a mix of economic optimism and political tensions as 2026 begins. Inflation in the U.S. held steady at 2.7% in December, fueling bets on potential Fed rate cuts later in the year, though a top Fed official signaled little urgency for immediate action. The Fed faces unprecedented pressure as the Justice Department launches a criminal investigation into Chair Jerome Powell, sparking a rare show of solidarity from global central banks defending the Fed’s independence. Meanwhile, commodity markets are surging, with tin and copper hitting record highs, while silver topped $90 an ounce for the first time, driven by Fed rate-cut expectations and geopolitical uncertainties. In Asia, Japan’s bond demand weakened amid political risks, and South Korea’s won neared a 17-year low, prompting intervention concerns. Corporate earnings kicked off with JPMorgan beating estimates, though Delta Air Lines’ cautious 2026 forecast weighed on travel stocks. China’s record $1.19 trillion trade surplus underscored its export dominance, while global funds ramped up bets on Chinese stocks and the yuan. President Trump’s economic policies, including a proposed 10% cap on credit card rates and tariff threats, are stirring market volatility and corporate pushback, with banks warning of potential fallout.
 
 **Top Articles:**
-- [Ares Leads Private Credit Firms in Boosted Loan for Veritas Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fares-leads-private-credit-firms-in-boosted-loan-for-veritas-deal)
-- [Tin Hits Record Above $51,000 on LME After Broad Metals Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftin-hits-record-above-51-000-on-lme-after-broad-metals-rally)
-- [Delta Declines on Tepid Forecast as Geopolitics Weigh on Travel](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdelta-declines-on-tepid-forecast-video)
-- [Stocks Slide on CPI, Traders Boost June Fed Rate-Cut Odds | The Close 1/13/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-close-1-13-2026-video)
-- [Silver Hits Record, Gold Rises on Geopolitical and Fed Risks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fgold-steady-near-record-high-as-us-inflation-supports-rate-cuts)
+- [Inflation Numbers Are Looking Too Good to Trust](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-14%2Finflation-numbers-are-looking-too-good-to-trust)
+- [Japan’s Five-Year Bond Sale Demand Weaker Than 12-Month Average](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-s-five-year-bond-sale-demand-weaker-than-12-month-average)
+- [Top Indonesian Herbal Medicine Firm Sido Muncul Mulls Stake Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftop-indonesian-herbal-medicine-firm-sido-muncul-mulls-stake-sale)
+- [China Announces Record Trade Surplus as Its Exports Flood World’s Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-trade-surplus-exports.html)
+- [UBS’ Lo on Asia M&A Landscape for 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fubs-lo-on-asia-m-a-landscape-for-2026-video)
 
-**Sources**: archive.ph (88 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines highlight major shifts in tech, finance, and global markets. Google’s parent company, Alphabet, surged past a $4 trillion valuation after striking an AI deal with Apple to power Siri with Gemini, marking a pivotal moment in the AI arms race. Meanwhile, Boeing outperformed Airbus in 2025, delivering 600 jetliners and securing its first sales lead since 2018, signaling a potential turnaround for the embattled aerospace giant. In regulatory news, Elon Musk’s X faces a UK investigation over Grok’s generation of sexually explicit AI images, while Malaysia and Indonesia have blocked access to the chatbot entirely. The tech sector also saw Amazon Pharmacy begin offering Novo Nordisk’s weight-loss drug Wegovy, reflecting the growing mainstream adoption of GLP-1 medications. On the economic front, JPMorgan reported lower 2025 profits, with CEO Jamie Dimon pointing to deregulation as a future catalyst, while Trump’s proposed 10% cap on credit card interest rates sparked debate over its feasibility without congressional approval.
+The tech and business landscape is buzzing with major developments this week. Google parent Alphabet surges past Apple to become the world's second-most valuable company, hitting a $4 trillion valuation after striking an AI deal with Apple to power Siri with Gemini. Meanwhile, Elon Musk's X faces regulatory scrutiny as the UK launches an investigation into Grok over sexually explicit AI-generated images, while Malaysia and Indonesia block access to the chatbot for similar concerns. In corporate news, Boeing outsells Airbus for the first time since 2018, delivering 600 jetliners in 2025, while GM announces a $7.1 billion charge due to its EV pullback and China restructuring. The financial sector also sees movement, with JPMorgan's earnings under pressure and Jamie Dimon's long tenure as CEO raising succession questions. On the policy front, the Trump administration nears a trade deal with Taiwan, including commitments from TSMC to expand U.S. manufacturing, while red states push for legal shields for fossil fuel companies amid climate litigation.
 
 **Top Articles:**
+- [Cocoa Gets Cheaper But Chocolate Makers Are Still Holding Back](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcocoa-gets-cheaper-but-chocolate-makers-are-still-holding-back)
+- [India Small, Mid-Cap Stocks Back in Favor as Growth at Larger Peers Falters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-14%2Findia-s-small-mid-cap-stocks-primed-for-a-rebound-on-earnings)
 - [UBS’ Peng on China’s Consumer Sector Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fubs-peng-on-china-s-consumer-sector-outlook-video)
+- [Yen's Relentless Slide Raises Risk of Correction, Strategists Say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Feurizon-socgen-bet-on-yen-rebound-as-intervention-risks-lurk)
 - [Japan’s JFE Steel Bets on Indian Market for Overseas Expansion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fjapan-s-jfe-steel-bets-on-indian-market-video)
-- [Starlink Users in Iran Get Free Internet Access, Nonprofit Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html)
-- [Fabletics COO on Expanding Retail Presence, Tech 'DNA'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffabletics-coo-on-expanding-retail-presence-tech-dna-video)
-- [Bird Flu Viruses Raise Mounting Concerns Among Scientists](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F10%2Fhealth%2Fbird-flu-viruses-health.html)
 
-**Sources**: archive.ph (72 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-Aldi is accelerating its expansion in the U.S. with plans to open more than 180 new stores in 2026, capitalizing on growing consumer demand for value-driven grocery options. The discount retailer's aggressive growth strategy underscores intensifying competition in the grocery sector, as budget-conscious shoppers increasingly turn to discounters for their weekly shopping needs. This move reflects broader economic trends where consumers across income levels prioritize affordability, challenging traditional supermarket chains to adapt or risk losing market share. Aldi's expansion also highlights the shifting retail landscape, where efficiency and low prices are key drivers of customer loyalty. The company's push into new markets could further disrupt the industry, forcing competitors to reassess pricing and operational strategies to retain shoppers.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly prioritize value. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures drive more households to seek affordable alternatives for their weekly grocery runs. Aldi's strategy highlights the shifting dynamics in retail, where traditional supermarkets face mounting pressure from value-focused rivals.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Aldi is accelerating its expansion in the U.S. with plans to open more than 180 
 
 ## 📰 Other News
 
-Global economic and political tensions dominate headlines as Japan's yen faces intervention risks amid a sharp decline, while the U.S. grapples with rising food prices and housing affordability crises. President Trump's aggressive tactics to lower consumer costs—including threats to companies and a new auto loan tax break—highlight the administration's struggle with inflation ahead of economic conferences. Meanwhile, international trade sees a major shift as the EU and South America finalize a free-trade zone covering 700 million people, contrasting with U.S. coercive trade policies. In culture and business, psychedelic medicine faces a bumpy rollout despite legalization in three states, while podcasts gain prestige with Golden Globe nominations. Corporate maneuvers include Paramount's board fight over Warner Bros. Discovery and Allegiant's $1.5 billion acquisition of Sun Country, reflecting consolidation in budget airlines. Human interest stories, like the revival of *Gourmet* magazine as an unsanctioned newsletter and the late activist David Mitchell's fight against drug pricing, add depth to the day's news.
+Global economic and political tensions are shaping key developments this week, with China's coal imports plummeting due to cheaper alternatives and Japan accelerating efforts to secure rare earths amid rising geopolitical strains. In the U.S., inflation remains a pressing issue, as food prices surge and the Trump administration employs aggressive tactics to curb costs, including threats to companies and a new auto loan tax break. Meanwhile, the housing crisis persists, with the White House exploring solutions as affordability worsens, while states like California push controversial wealth taxes targeting billionaires. Culturally, the Golden Globes recognize podcasts for the first time, signaling the medium's growing influence, while indie studio Neon dominates film nominations with a slate of international titles. Emerging trends include the bumpy rollout of psychedelic medicine, despite legalization in three states, and the resurgence of defunct media brands like Gourmet Magazine as unsanctioned newsletters.
 
 **Top Articles:**
-- [Eurizon, SocGen Bet on Yen Rebound as Intervention Risks Lurk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Feurizon-socgen-bet-on-yen-rebound-as-intervention-risks-lurk)
+- [China’s Coal Imports Post Biggest Annual Drop as Soybeans Climb](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-s-coal-imports-post-biggest-annual-drop-as-soybeans-climb)
+- [Toyo Engineering’s Surge Burns Shorts as Japan Seeks Rare Earths](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftoyo-engineering-s-surge-burns-shorts-as-japan-seeks-rare-earths)
 - [Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html)
 - [Oil Steadies After Four-Day Rally With Focus on Iran Meeting](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14)
 - [’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html)
-- [In a Risky Gambit, Trump Tries Brute Force to Lower Prices](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-speech-economy-inflation-fed.html)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (40 articles)
 
 ---
 
-*Digest generated on January 14, 2026 at 02:39 AM *
+*Digest generated on January 14, 2026 at 04:35 AM *
