@@ -1,9 +1,93 @@
 [
   {
+    "title": "What the Bankruptcy of Saks Means for You",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
+    "published": "Wed, 14 Jan 2026 05:40:13 CST",
+    "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
+  },
+  {
+    "title": "Saks Files for Bankruptcy as Department Stores Fight for Survival",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
+    "published": "Wed, 14 Jan 2026 05:37:41 CST",
+    "summary": "The parent company of Saks, Neiman Marcus and Bergdorf Goodman struggled with\ndebt, designers and customers in recent years.\n\n"
+  },
+  {
+    "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-trade-surplus-exports.html",
+    "published": "Wed, 14 Jan 2026 05:33:23 CST",
+    "summary": "China’s surplus reached $1.19 trillion last year, a 20 percent increase from\n2024, as Beijing kept the currency weak and pursued self-reliance to replace\nimports.\n\n"
+  },
+  {
+    "title": "Sino Biopharm To Remain Active in M&A, Says Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fsino-biopharm-to-remain-active-in-m-a-says-chair-video",
+    "published": "Wed, 14 Jan 2026 05:06:36 CST",
+    "summary": "Sino Biopharmaceutical Chairwoman Theresa Tse says her company is open to\nacquiring more biotech companies in China after announcing a new buyout. She\nalso tells \"Bloomberg: The China Show\" that the company is looking for\npartnerships with bigger multinational firms. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Ascentage: Partnership With Takeda Going Well",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fascentage-partnership-with-takeda-going-well-video",
+    "published": "Wed, 14 Jan 2026 05:03:54 CST",
+    "summary": "Dajun Yang, Co-founder, Chairman and CEO at Ascentage Pharma, says he hopes\nthe company's partnership with Takeda on a blood cancer therapy could be ready\nfor commercialization in two years. He speaks on \"Bloomberg: The China Show\"\nahead of his presentation at the JPMorgan Healthcare Conference in San\nFrancisco. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China’s 2025 Exports Soar, Trade Surplus at $1.2T | The China Show 1/14/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fthe-china-show-1-14-2026-video",
+    "published": "Wed, 14 Jan 2026 05:01:38 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Sweden’s Once-Pioneering Green Ambitions Are Unravelling",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsweden-s-climate-change-action-ambitions-are-unravelling",
+    "published": "Wed, 14 Jan 2026 05:00:32 CST",
+    "summary": "Emissions are rising again, and companies are in financial trouble\n\n"
+  },
+  {
+    "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html",
+    "published": "Wed, 14 Jan 2026 05:00:08 CST",
+    "summary": "The prime minister is seeking new markets for Canadian goods and to mend\nrelations with China after years of deep acrimony between the two nations.\n\n"
+  },
+  {
+    "title": "Poland Seen Pausing Rate Cuts in Tight Decision: Decision Guide",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpoland-seen-pausing-rate-cuts-in-tight-decision-decision-guide",
+    "published": "Wed, 14 Jan 2026 05:00:00 CST",
+    "summary": "Poland’s central bank is poised to pause its series of interest-rate cuts,\naccording to analysts, in what could be a close decision following another\nsurprisingly low inflation readout.\n\n"
+  },
+  {
+    "title": "China Raises Margin Financing Ratio to 100% to Curb Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-raises-margin-financing-ratio-to-100-to-curb-risks",
+    "published": "Wed, 14 Jan 2026 04:54:33 CST",
+    "summary": "China has raised the minimum margin requirement for financing securities\npurchases on its stock exchanges to 100%, the latest effort by policymakers to\ncurb risks.\n\n"
+  },
+  {
+    "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html",
+    "published": "Wed, 14 Jan 2026 04:42:23 CST",
+    "summary": "Co-founder Jaden Xie told CNBC that the company is about to close another\nfinancing round, after raising $100 million in the last 6 months.\n\n"
+  },
+  {
+    "title": "Starlink Users in Iran Get Free Internet Access, Nonprofits Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
+    "published": "Wed, 14 Jan 2026 04:40:32 CST",
+    "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
+  },
+  {
+    "title": "China’s Steel Exports Surge to Record Despite Global Pushback",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-s-steel-exports-surge-to-record-despite-global-pushback",
+    "published": "Wed, 14 Jan 2026 04:26:28 CST",
+    "summary": "China’s steel exports surged to an all-time high in December, rounding off a\nrecord year in which overseas shipments defied mounting trade pressures and\nexpectations of a slowdown.\n\n"
+  },
+  {
     "title": "Former US Diplomat Klein on US-China Relations",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fformer-us-diplomat-klein-on-us-china-relations-video",
     "published": "Wed, 14 Jan 2026 04:21:17 CST",
     "summary": "William Klein, Consulting Partner at FSG Global and former US Diplomat,\ndiscusses the outlook for US and China relations and the impact from President\nTrump’s tariffs on Iran’s trading partners. He speaks with Stephen Engle from\nthe sidelines of the UBS Greater China Conference in Shanghai. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "'Takaichi Trade' Roars Back on Snap Election Bets | The Asia Trade 1/13/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fthe-asia-trade-1-14-26-video",
+    "published": "Wed, 14 Jan 2026 04:13:01 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Inflation Numbers Are Looking Too Good to Trust",
@@ -12,22 +96,16 @@
     "summary": "The year starts with a positive surprise, but markets refrain from glee.\n\n"
   },
   {
-    "title": "Japan’s Five-Year Bond Sale Demand Weaker Than 12-Month Average",
+    "title": "Japan 5-Year Bond Sale Weakest Since August on Election Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-s-five-year-bond-sale-demand-weaker-than-12-month-average",
     "published": "Wed, 14 Jan 2026 03:47:31 CST",
-    "summary": "Japan’s five-year government bond auction Wednesday saw demand that was weaker\nthan the 12-month average as growing political risks weighed on investor\nappetite.\n\n"
+    "summary": "Japan’s five-year government bond auction drew the weakest demand since August\nas expectations that Prime Minister Sanae Takaichi will call a snap election\nreinforced concerns over increased debt issuance.\n\n"
   },
   {
-    "title": "Top Indonesian Herbal Medicine Firm Sido Muncul Mulls Stake Sale",
+    "title": "Indonesian Herbal Medicine Firm Sido Muncul Mulls Stake Sale",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftop-indonesian-herbal-medicine-firm-sido-muncul-mulls-stake-sale",
     "published": "Wed, 14 Jan 2026 03:46:50 CST",
     "summary": "The owner of Sido Muncul, Indonesia’s biggest herbal medicine company, is\nconsidering options including a stake sale.\n\n"
-  },
-  {
-    "title": "China Announces Record Trade Surplus as Its Exports Flood World’s Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-trade-surplus-exports.html",
-    "published": "Wed, 14 Jan 2026 03:35:24 CST",
-    "summary": "China’s surplus reached $1.19 trillion, a 20 percent increase from 2024,\naccording to data released by the country’s General Administration of Customs.\n\n"
   },
   {
     "title": "UBS’ Lo on Asia M&A Landscape for 2026",
@@ -102,64 +180,22 @@
     "summary": "The dark fleet of tankers shipping illicit oil around the world is rushing to\nseek the perceived protection of the Russian flag after the US started seizing\nvessels involved in the Venezuelan trade.\n\n"
   },
   {
-    "title": "Japan’s JFE Steel Bets on Indian Market for Overseas Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fjapan-s-jfe-steel-bets-on-indian-market-video",
-    "published": "Wed, 14 Jan 2026 00:57:06 CST",
-    "summary": "JFE Steel Corp expects India’s steel industry to overtake China’s in the long\nrun, and wants to position itself to be the biggest foreign producer of the\nmaterial in the South Asian nation, a senior executive said in an interview\nwith Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan 5-Year Yield Jumps to Highest Since 2000 on Election Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-5-year-yield-jumps-to-highest-since-2000-on-election-risk",
-    "published": "Wed, 14 Jan 2026 00:42:59 CST",
-    "summary": "Japan’s five-year government bond yield climbed to its highest since the\ntenor’s debut in 2000, as fiscal concerns deepened on Japanese Prime Minister\nSanae Takaichi’s reported plans for a snap election.\n\n"
-  },
-  {
-    "title": "Starlink Users in Iran Get Free Internet Access, Nonprofit Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
-    "published": "Wed, 14 Jan 2026 00:35:16 CST",
-    "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, an organization that works on web\naccess said.\n\n"
-  },
-  {
     "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
     "published": "Tue, 13 Jan 2026 23:55:58 CST",
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
-    "title": "Delta Declines on Tepid Forecast as Geopolitics Weigh on Travel",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fdelta-declines-on-tepid-forecast-video",
-    "published": "Tue, 13 Jan 2026 23:54:32 CST",
-    "summary": "Delta Air Lines gave a profit forecast that fell short of Wall Street\nestimates, with the major US airline taking a more cautious view for 2026\nafter the aviation industry emerged from a volatile year. As the first major\nUS airline to report earnings, investors look to Delta for signs on the\nstrength of the industry. The carrier’s relatively tepid forecast stands in\ncontrast with CEO Ed Bastian’s optimism at the start of 2025 before President\nDonald Trump’s campaign to reset global trade and other disruptions battered\nflying, forcing airlines into reverse. Savanthi Syth, Managing Director for\nAirlines and Advanced Air Mobility at Raymond James, joins Bloomberg\nBusinessweek Daily to discuss. She speaks with Tim Stenovec and Christina\nRuffini. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Stocks Slide on CPI, Traders Boost June Fed Rate-Cut Odds | The Close 1/13/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fthe-close-1-13-2026-video",
-    "published": "Tue, 13 Jan 2026 23:41:58 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Former Boston Fed President Eric Rosengren, U.S. Bancorp’s\nStephen Philipson, BNY Mellon’s Dermot McDonogh, Inflation Insights’ Omair\nSharif, Teva Pharmaceutical’s Richard Francis, Gabelli’s Macrae Sykes,\nAstraZeneca’s Aradhana Sarin, Novo Nordisk’s Mike Doustdar, Illumina’s Jacob\nThaysen, Former Kansas City Fed President Thomas Hoenig, Fabletics’ Meera\nBhatia. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Silver Tops $90 for First Time, Gold Nears Record on Fed Bets",
+    "title": "Silver Hits Record Above $90 as Precious Metals Rally Powers On",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fgold-steady-near-record-high-as-us-inflation-supports-rate-cuts",
     "published": "Tue, 13 Jan 2026 23:39:42 CST",
-    "summary": "Silver broke above $90 an ounce for the first time and gold rose as weaker-\nthan-expected US inflation data supported the case for more rate cuts later in\nthe year, while the geopolitical situation remained tense.\n\n"
+    "summary": "Silver broke above $90 an ounce for the first time and gold flirted with a\nrecord high as attacks on the Federal Reserve, the prospect of more US rate\ncuts and a tense geopolitical backdrop added impetus to a blistering rally in\nprecious metals.\n\n"
   },
   {
-    "title": "Oil Steadies After Four-Day Rally With Focus on Iran Meeting",
+    "title": "Oil Steadies After Four-Day Rally as US Considers Iran Response",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14",
     "published": "Tue, 13 Jan 2026 23:27:04 CST",
     "summary": "Oil steadied after the biggest four-day gain in more than six months, as US\nofficials planned to discuss Iran during a White House meeting.\n\n"
-  },
-  {
-    "title": "Fed Will Continue 'Doing What They've Been Doing' in Face of Turmoil, Says PGIM's Tipp",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fpgim-s-tipp-fed-will-continue-status-quo-amid-attacks-video",
-    "published": "Tue, 13 Jan 2026 23:18:08 CST",
-    "summary": "Robert Tipp, PGIM Managing Director, Chief Investment Strategist, and Head of\nGlobal Bonds, joins Bloomberg Businessweek Daily to discuss the bond market's\nreaction after Fed Chair Jerome Powell said the DOJ subpoenaed the central\nbank. Tipp also discusses Fed independence, why White House pressure on the\nFed is different now versus during President Trump's first term, and says the\nFed will \"continue doing what it's been doing\" in the face of ongoing\npolitical threats and leadership changes. Tipp speaks with Tim Stenovec and\nChristina Ruffini. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Fabletics COO on Expanding Retail Presence, Tech 'DNA'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ffabletics-coo-on-expanding-retail-presence-tech-dna-video",
-    "published": "Tue, 13 Jan 2026 23:04:20 CST",
-    "summary": "Meera Bhatia, Fabletics Brand President and Chief Operating Officer, discusses\nthe athleisure outlook and competition in activewear with Romaine Bostick on\n“The Close.” She says the company invests in proprietary technology that\npowers both its website and in-store experience. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump claims victory on US economy despite many Americans’ cost of living concerns",
@@ -174,28 +210,16 @@
     "summary": "Investors are ramping up bets on China’s stocks and currency as 2026 kicks\noff, signaling a more decisive shift into the country’s assets at a time of\nrising global uncertainties.\n\n"
   },
   {
-    "title": "Trump’s Plan to Cap Credit-Card Rates Has Risks for Consumers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Ftrump-s-plan-to-cap-credit-card-rates-has-risks-video",
-    "published": "Tue, 13 Jan 2026 22:53:50 CST",
-    "summary": "President Trump says he wants to lighten the burden of credit-card debt, but\nhis plans could backfire for some customers. Norah Mulinda explains. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "BNY CFO: 2026 Market Backdrop is ‘Constructive'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-13%2Fbny-cfo-2026-market-backdrop-is-constructive-video",
-    "published": "Tue, 13 Jan 2026 22:52:59 CST",
-    "summary": "Dermot McDonogh, BNY CFO, says uncertainty has become valuable and the firm\nremains bullish on the economy and markets. He tells Romaine Bostick on “The\nClose” that the outlook for this year is strong. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Venezuela Frees US Citizen Amid Gradual Prisoner Releases",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fvenezuela-frees-us-citizen-amid-gradual-prisoner-releases",
     "published": "Tue, 13 Jan 2026 22:50:39 CST",
     "summary": "The Venezuelan government has started releasing prisoners with US citizenship,\npeople with knowledge of the situation said.\n\n"
   },
   {
-    "title": "Asian Shares Rise, Metals Lead Commodities Rally: Markets Wrap",
+    "title": "Stock Rally Extends, Gold and Silver Lead Metals: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 13 Jan 2026 22:38:58 CST",
-    "summary": "Asian shares climbed to an all-time high, as a weaker yen fueled a record-\nbreaking rally in Japanese equities.\n\n"
+    "summary": "Global stocks headed for a record high close after US inflation data eased\nconcerns about price pressures and investors bought into the AI-fueled rally.\nMetals led gains among commodities.\n\n"
   },
   {
     "title": "Bird Flu Viruses Raise Mounting Concerns Among Scientists",
@@ -292,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fbny-profit-target-ceo-robin-vince-turnaround.html",
     "published": "Tue, 13 Jan 2026 16:10:42 CST",
     "summary": "BNY raised a pair of key medium-term performance targets on Tuesday.\n\n"
-  },
-  {
-    "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html",
-    "published": "Tue, 13 Jan 2026 16:03:53 CST",
-    "summary": "Co-founder Jaden Xie told CNBC that the company is about to close another\nfinancing round, after raising $100 million in the last 6 months.\n\n"
   },
   {
     "title": "CPI Report Shows Food Prices Rose Sharply in December",
@@ -636,12 +654,6 @@
     "summary": "New tech sectors still account for a far smaller portion of China's economy\nthan the gap left by the real estate slump.\n\n"
   },
   {
-    "title": "Which jobs have grown (and declined) fastest during your working life?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fwhich-jobs-have-grown-declined-fastest-during-your-working-life%2F",
-    "published": "Mon, 12 Jan 2026 05:00:01 CST",
-    "summary": "Here are the fastest-growing and fastest-shrinking jobs over the years, based\non information from the Census Bureau’s Current Population Survey.\n\n"
-  },
-  {
     "title": "How Gen Z Investors Went from Meme Stocks to Index Funds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fgen-z-meme-stocks-investors.html",
     "published": "Mon, 12 Jan 2026 00:14:48 CST",
@@ -790,18 +802,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
     "published": "Fri, 09 Jan 2026 20:11:15 CST",
     "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
-  },
-  {
-    "title": "X Sues Music Publishers, Alleging ‘Collusion’ Over Licensing Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Farts%2Fmusic%2Fx-music-publishers-lawsuit.html",
-    "published": "Fri, 09 Jan 2026 20:06:49 CST",
-    "summary": "The social media platform says it was pressured into licensing agreements for\nsongs “at inflated rates.” In 2023, publishers sued the company for copyright\nviolations.\n\n"
-  },
-  {
-    "title": "Trump Seeks New Powers to Pressure ‘Underperforming’ Weapons Makers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Ftrump-defense-industry-executive-order.html",
-    "published": "Fri, 09 Jan 2026 19:58:46 CST",
-    "summary": "In an executive order, President Trump is aiming to punish defense contractors\nthat don’t deliver weapons quickly enough.\n\n"
   },
   {
     "title": "Stellantis scraps Jeep, Chrysler plug-in hybrid vehicles amid EV slowdown, recall",
