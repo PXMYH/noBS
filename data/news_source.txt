@@ -1,9 +1,27 @@
 [
   {
+    "title": "Kaiser Permanente Agrees to Pay $556 Million to Settle Medicare Overbilling Claims",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fhealth%2Fmedicare-advantage-kaiser-overbilling-fraud.html",
+    "published": "Wed, 14 Jan 2026 22:35:30 CST",
+    "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
+  },
+  {
+    "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
+    "published": "Wed, 14 Jan 2026 22:16:04 CST",
+    "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
+  },
+  {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ffood-prices-tariffs-trump.html",
-    "published": "Wed, 14 Jan 2026 21:36:54 CST",
+    "published": "Wed, 14 Jan 2026 22:09:56 CST",
     "summary": "Weather, supply, tariffs, labor and changing consumer habits continue to drive\nup the cost of groceries. President Trump falsely claims prices are falling.\n\n"
+  },
+  {
+    "title": "Asia Loan Bankers Brace for Competition, Thinner Margins in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fasia-loan-bankers-brace-for-competition-thinner-margins-in-2026",
+    "published": "Wed, 14 Jan 2026 22:00:00 CST",
+    "summary": "Loan bankers in Asia are bracing for an increasingly competitive market that\nis squeezing the returns they earn on lending, as they grapple with subdued\nsyndicated deal flow.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
@@ -28,12 +46,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
     "published": "Wed, 14 Jan 2026 20:57:17 CST",
     "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
-  },
-  {
-    "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Wed, 14 Jan 2026 20:43:32 CST",
-    "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
   },
   {
     "title": "Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.",
@@ -198,12 +210,6 @@
     "summary": "Goldman Sachs Group Inc. is leading a takeover of a historic Los Angeles\nstudio lot after the owner, Hackman Capital Partners, defaulted on a $1.1\nbillion mortgage.\n\n"
   },
   {
-    "title": "Fed’s Kashkari: Next Chair Needs to Persuade on Policy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ffed-s-kashkari-next-chair-needs-to-persuade-on-policy-video",
-    "published": "Wed, 14 Jan 2026 18:25:16 CST",
-    "summary": "Federal Reserve Bank of Minneapolis President Neel Kashkari said the central\nbank’s next chair will have to put forward their best arguments for interest\nrates to persuade other policymakers. “That person gets one vote and the best\nargument wins.” Kashkari spoke Wednesday to the Wisconsin Bankers Association\nduring a virtual town hall event. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Airlines to save big money on fuel as new weight loss pills gain popularity, Wall Street says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fairlines-to-save-on-fuel-as-weight-loss-pills-grow-popular-wall-street-says.html",
     "published": "Wed, 14 Jan 2026 18:09:56 CST",
@@ -240,12 +246,6 @@
     "summary": "The proposal raises a host of questions about the legality and practicality of\nbolstering the involvement of the private sector in offensive cyberoperations.\n\n"
   },
   {
-    "title": "Bilt Unveils Credit Cards Capped at 10% After Trump Demands",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbilt-unveils-credit-cards-capped-at-10-after-trump-s-demands",
-    "published": "Wed, 14 Jan 2026 16:55:00 CST",
-    "summary": "Bilt is unveiling three new credit cards with interest rates capped at 10%,\ndays after President Donald Trump threatened lenders that failed to do so.\n\n"
-  },
-  {
     "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fwarren-trump-credit-card-interest-rate-affordability.html",
     "published": "Wed, 14 Jan 2026 16:46:13 CST",
@@ -262,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrazil-fintech-agibank-said-to-plan-raising-1-billion-in-us-ipo",
     "published": "Wed, 14 Jan 2026 16:16:51 CST",
     "summary": "A window for Brazilian initial public offerings is opening as fintechs Agibank\nand PicPay prepare for US listings, signaling a nascent revival for a market\nthat has been largely dormant for the past few years.\n\n"
-  },
-  {
-    "title": "Intuitive Surgical Falls as Rivalry, Funding Slows Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fintuitive-surgical-falls-as-rivalry-slows-down-flagship-robot",
-    "published": "Wed, 14 Jan 2026 15:58:17 CST",
-    "summary": "Intuitive Surgical Inc. shares fell the most since October after it forecast\nslower growth for use of its flagship surgical robotic system system this year\nas rivals bring new products to market and procedure volumes are threatened by\nfunding cuts to Medicaid and changes to Obamacare subsidies.\n\n"
   },
   {
     "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
@@ -330,6 +324,12 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
+    "title": "Bessent Gives Verbal Support to Korean Won, Sparking Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbessent-flags-won-s-weakness-as-excessive-offering-rare-support",
+    "published": "Wed, 14 Jan 2026 14:16:16 CST",
+    "summary": "Treasury Secretary Scott Bessent called out excessive declines in South\nKorea’s won on Wednesday, offering rare verbal support to the currency as it\nslides toward its weakest since 2009.\n\n"
+  },
+  {
     "title": "JPMorgan Raises $6 Billion in Its First Bond Sale of Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjpmorgan-sets-major-us-bank-bond-sales-in-motion-after-earnings",
     "published": "Wed, 14 Jan 2026 13:44:49 CST",
@@ -340,6 +340,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
     "published": "Wed, 14 Jan 2026 13:00:22 CST",
     "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Emerging Market Currencies From Won to Real Jolted by US Policy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Femerging-stocks-notch-new-record-high-powered-by-asian-tech",
+    "published": "Wed, 14 Jan 2026 12:39:06 CST",
+    "summary": "Some emerging-market currencies were jolted on Wednesday by a series of US\npolicy moves that sent the Brazilian real tumbling and the Korean won to a\nsession high.\n\n"
   },
   {
     "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
@@ -718,12 +724,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fjerome-powell-investigation-fed-renovations.html",
     "published": "Mon, 12 Jan 2026 23:03:27 CST",
     "summary": "The Justice Department’s probe into whether Jerome H. Powell, the chair of the\nFederal Reserve, lied about renovations to the central bank’s headquarters has\nraised alarms.\n\n"
-  },
-  {
-    "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fworld%2Feurope%2Fgrok-ai-images-x-elon-musk-uk.html",
-    "published": "Mon, 12 Jan 2026 22:25:24 CST",
-    "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s\nchatbot over the spread of illegal images.\n\n"
   },
   {
     "title": "Stocks, Bonds and the Dollar Fluctuate on Threat to Fed Chair Powell",
