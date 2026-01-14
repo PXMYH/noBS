@@ -2,20 +2,104 @@
   {
     "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Wed, 14 Jan 2026 19:36:41 CST",
+    "published": "Wed, 14 Jan 2026 20:35:55 CST",
     "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
   },
   {
-    "title": "Where’s the Gym? At PureGym Locations, It’s Through a Tube",
+    "title": "Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html",
+    "published": "Wed, 14 Jan 2026 20:29:32 CST",
+    "summary": "Many indicators appear to suggest that the United States is growing despite\ntariffs, not because of them.\n\n"
+  },
+  {
+    "title": "Crude Falls After Trump’s Latest Comments on Iran Protests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcrude-falls-after-trump-s-latest-comments-on-iran-protests",
+    "published": "Wed, 14 Jan 2026 20:25:35 CST",
+    "summary": "Oil fell, erasing earlier gains, after President Donald Trump said he had been\nassured that Iran would stop killing protesters, in a signal he could hold off\non a threatened military response to the repression of widespread\ndemonstrations in the nation.\n\n"
+  },
+  {
+    "title": "Takaichi Is Betting on Japan’s Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fopinion-takaichi-is-betting-on-japan-s-growth-video",
+    "published": "Wed, 14 Jan 2026 20:23:09 CST",
+    "summary": "This is the most overlooked story in financial markets right now, Bloomberg\nOpinion columnist John Authers explains. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Saks files for bankruptcy as it struggles to pay debts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fsaks-bankruptcy-neiman-marcus-bergdorf%2F",
+    "published": "Wed, 14 Jan 2026 20:10:56 CST",
+    "summary": "The announcement comes after Saks missed a $100 million interest payment\nconnected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
+  },
+  {
+    "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
+    "published": "Wed, 14 Jan 2026 20:01:43 CST",
+    "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
+  },
+  {
+    "title": "Carlyle CEO Says Powell Probe Reinforces Fed Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fcarlyle-ceo-powell-probe-reinforces-fed-independence-video",
+    "published": "Wed, 14 Jan 2026 19:58:28 CST",
+    "summary": "Carlyle Group CEO Harvey Schwartz says that an investigation into Federal\nReserve Chair Jerome Powell underscores the importance of the US central\nbank’s independence during an Economic Club of New York event. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "2026 May Be the Year of the Mega I.P.O.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
+    "published": "Wed, 14 Jan 2026 19:55:54 CST",
+    "summary": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash\nfor Silicon Valley and Wall Street.\n\n"
+  },
+  {
+    "title": "Structure Therapeutics CEO Stevens on Pipeline Strategy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstructure-therapeutics-ceo-stevens-on-pipeline-strategy-video",
+    "published": "Wed, 14 Jan 2026 19:52:49 CST",
+    "summary": "Structure Therapeutics CEO Ray Stevens joins Bloomberg's Katie Greifeld at the\nannual JP Morgan Healthcare Conference in San Francisco to talk about\nStructure’s pipeline and strategy in 2026. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Adams’ NYC Memecoin Crashes After Debut",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fadams-nyc-memecoin-crashes-after-debut-video",
+    "published": "Wed, 14 Jan 2026 19:51:45 CST",
+    "summary": "Less than two weeks after leaving office, former New York City mayor Eric\nAdams appeared publicly to promote a new digital token called NYC token. The\ntoken quickly surged in value, before plunging just as fast, raising fresh\nquestions about memecoins. Bloomberg's Crypto & DeFi Reporter Muyao Shen\ndiscussed the story on \"Bloomberg Markets\" with Scarlet Fu. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Expect Market Gains From EV New Entries: McNeill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fexpect-market-gains-from-ev-new-entries-mcneill-video",
+    "published": "Wed, 14 Jan 2026 19:49:36 CST",
+    "summary": "Data suggest Tesla's share of the US electric vehicle market is increasing.\nThe automaker is boasting a 59% stronghold in EVs as of Q4. GM board member\nand DVX Ventures Co-Founder and CEO Jon McNeill says he continues to look for\nmarket share gains from newer EV entrants like GM, Hyundai, and Toyota. He\nspeaks with Scarlet Fu on \"Bloomberg Markets.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Denmark and US to Form Working Group on Greenland",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fdenmark-and-us-to-form-working-group-on-greenland-video",
+    "published": "Wed, 14 Jan 2026 19:49:28 CST",
+    "summary": "Danish Foreign Minister Lars Lokke Rasmussen said a “fundamental disagreement”\nremained after a meeting of top diplomats in Washington, while announcing an\nagreement to form a high-level working group on Greenland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Good Business Still There For Saks: Singer",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fgood-business-still-there-for-saks-singer-video",
+    "published": "Wed, 14 Jan 2026 19:48:22 CST",
+    "summary": "Saks Global has filed for bankruptcy, in an effort to restructure its debt and\nstabilize the business after mounting losses. Mortimer Singer, managing\npartner at Traub Capital Partners, believes Saks still has valuable assets,\nincluding a loyal high-net-worth customer base, strong flagship New York\nstores and the e-commerce business. He speaks with Scarlet Fu \"Bloomberg\nMarkets.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "'Extremely Solid' Gains for US Economy: Swonk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2F-extremely-solid-gains-for-us-economy-swonk-video",
+    "published": "Wed, 14 Jan 2026 19:43:02 CST",
+    "summary": "The US saw a boost to existing homes sales and a pickup in retail sales in\nNovember. However, KPMG Chief Economist Diane Swonk says weaker employment\ngrowth can be traced to companies absorbing the impact of tariffs. She speaks\nwith Scarlet Fu on \"Bloomberg Markets.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Where Did All the American-Born Roofers Go?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html",
+    "published": "Wed, 14 Jan 2026 19:38:30 CST",
+    "summary": "The real story of how immigrant labor came to define the construction\nindustry.\n\n"
+  },
+  {
+    "title": "These Gyms’ Most Intimidating Machine: The Front Door",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html",
-    "published": "Wed, 14 Jan 2026 19:34:25 CST",
+    "published": "Wed, 14 Jan 2026 19:34:26 CST",
     "summary": "A new kind of tap-in, tap-out system at gyms has some New Yorkers flustered.\n\n"
   },
   {
-    "title": "Biggest US Power Grid Cuts Demand Outlook on Overstated AI Boom",
+    "title": "Key US Power Grid Cuts Demand Outlook on Overstated AI Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbiggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom",
     "published": "Wed, 14 Jan 2026 19:26:27 CST",
-    "summary": "The biggest US grid operator dialed back its forecast for power demand growth\nin a move that will temper some of the frenzy around the artificial\nintelligence boom.\n\n"
+    "summary": "The biggest US grid operator dialed back its forecast for power demand growth,\noffering a reality check to the frenzy around the artificial intelligence\nboom.\n\n"
   },
   {
     "title": "Startup Building Robot 'Brain' Raises $1.4 Billion",
@@ -126,64 +210,10 @@
     "summary": "Here’s what we saw in Citigroup Inc.’s fourth-quarter earnings. For more,\nclick here for our TOPLive blog.\n\n"
   },
   {
-    "title": "Netflix Weighs Amending Warner Bros. Bid to Make It All Cash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fnetflix-weighs-amending-warner-bros-bid-to-make-it-all-cash",
-    "published": "Wed, 14 Jan 2026 17:42:19 CST",
-    "summary": "Netflix Inc. is working on revised terms for its Warner Bros. Discovery Inc.\nacquisition and has discussed making an all-cash offer for the company’s\nstudios and streaming businesses, people familiar with the discussions said.\nThe changes are designed to expedite a sale that will take months to close and\nhas faced opposition both from politicians and rival bidder Paramount Skydance\nCorp. Institutional investors have been divided in their support. Bloomberg's\nGeetha Ranganathan joins to discuss on Bloomberg Intelligence. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Big Banks See Record Lending Haul as Low Yield Assets Roll Off",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fbig-banks-see-record-lending-haul-video",
-    "published": "Wed, 14 Jan 2026 17:41:39 CST",
-    "summary": "Wall Street’s great rate reset on its securities portfolios has finally\narrived. Net interest income at the four biggest US banks is on track to climb\nthis year after surpassing a quarter of a trillion dollars in 2025. Some of\nthe low-yielding bonds banks acquired during the pandemic have begun to\nmature, allowing executives to put that money to work into higher-returning\nassets. Bloomberg's Herman Chan joins to discuss Well Fargo, Bank of America\nand Citi bank earnings on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump’s Credit Card Threat Casts Shadow Over Wall Street’s Profit Parade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwall-street-profit-parade-at-risk-after-trump-s-populist-pivot",
-    "published": "Wed, 14 Jan 2026 17:41:20 CST",
-    "summary": "Donald Trump’s return to the White House unleashed a market rally, dealmaking\nwent into overdrive, and bankers embraced all things Trump to rake in the big\nmoney.\n\n"
-  },
-  {
-    "title": "Fed's Bostic Says Restrictive Posture Still Needed on Rates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ffed-s-bostic-restrictive-posture-still-needed-on-rates-video",
-    "published": "Wed, 14 Jan 2026 17:38:29 CST",
-    "summary": "\"The inflation challenge has not been won yet,\" Federal Reserve Bank of\nAtlanta President Raphael Bostic says during a moderated discussion with David\nRubinger, market president and publisher of the Atlanta Business Chronicle.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "2026 May Be the Year of the Mega I.P.O.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
-    "published": "Wed, 14 Jan 2026 17:30:06 CST",
-    "summary": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash\nfor Silicon Valley and Wall Street.\n\n"
-  },
-  {
-    "title": "Treasury 30-Year Yield Extends Slide Amid Haven Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftreasury-30-year-yield-extends-slide-amid-haven-demand",
-    "published": "Wed, 14 Jan 2026 17:23:14 CST",
-    "summary": "A rise in US Treasuries pushed the 30-year bond’s yield to the lowest level so\nfar this year amid haven demand and bond supply considerations.\n\n"
-  },
-  {
-    "title": "ECB Content With Inflation, Must Remain Alert, Kazaks Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fecb-content-with-inflation-must-remain-alert-kazaks-video",
-    "published": "Wed, 14 Jan 2026 17:19:14 CST",
-    "summary": "European Central Bank Governing Council member Martins Kazaks discusses\ninflation, recent pressure on Fed Chair Jerome Powell and running to replace\nECB Vice President Luis de Guindos. He says the ECB is content with inflation\nthat now matches its target but must remain on alert with risks in both\ndirections. He speaks with Oliver Crook on \"Bloomberg Daybreak: Europe.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Mining Shares Climb in 2026 as Investors Chase Safe Havens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fmining-shares-climb-in-2026-as-investors-chase-safe-havens",
-    "published": "Wed, 14 Jan 2026 17:14:30 CST",
-    "summary": "Mining stocks jumped at the start of the year after gold, silver and copper\nall hit record highs Wednesday, extending a rally fueled by geopolitical\ntension and renewed demand for safe-haven assets.\n\n"
-  },
-  {
     "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fcitigroup-c-earnings-q4-2025.html",
     "published": "Wed, 14 Jan 2026 17:13:08 CST",
     "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling\noff parts of its overseas operations.\n\n"
-  },
-  {
-    "title": "Risky Borrowers Flood Market to Tap Investor Hunger for Yield",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Frisky-borrowers-flood-market-to-tap-investor-hunger-for-yield",
-    "published": "Wed, 14 Jan 2026 17:11:02 CST",
-    "summary": "While the broader markets have flinched at every political tremor, the world\nof risky debt is acting like almost nothing’s wrong.\n\n"
   },
   {
     "title": "U.S. Weighs Expanding Private Companies’ Role in Cyberwarfare",
@@ -210,16 +240,10 @@
     "summary": "Netflix is likely to amend its offer for Warner Bros. Discovery's streaming\nand studio business after reaching an earlier agreement in December.\n\n"
   },
   {
-    "title": "SFO Arrests Six Over Alleged £300 Million Fraud at Home REIT",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsfo-arrests-six-over-suspected-300-million-fraud-at-home-reit",
-    "published": "Wed, 14 Jan 2026 16:19:58 CST",
-    "summary": "The UK’s Serious Fraud Office said it arrested six people over suspected\noffenses totaling about £300 million ($404 million) linked to the “chaotic\ndownfall” of social housing firm Home REIT Plc.\n\n"
-  },
-  {
-    "title": "Tricolor’s Bondholders Sue Trustee for Missing Alleged Fraud",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftricolor-bondholders-sue-trustee-company-wilmington-in-ny-court",
-    "published": "Wed, 14 Jan 2026 16:00:54 CST",
-    "summary": "Investors in bonds from Tricolor Holdings, a used car dealer and subprime\nlender that collapsed last year amid allegations of fraud, sued Wilmington\nTrust NA, the trustee for the securities, alleging the firm failed in key bond\nsupervision duties.\n\n"
+    "title": "Agibank Eyes $1 Billion IPO, Joining PicPay in Brazil Revival",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrazil-fintech-agibank-said-to-plan-raising-1-billion-in-us-ipo",
+    "published": "Wed, 14 Jan 2026 16:16:51 CST",
+    "summary": "A window for Brazilian initial public offerings is opening as fintechs Agibank\nand PicPay prepare for US listings, signaling a nascent revival for a market\nthat has been largely dormant for the past few years.\n\n"
   },
   {
     "title": "Intuitive Surgical Falls as Rivalry, Funding Slows Growth",
@@ -276,12 +300,6 @@
     "summary": "A slide in US stocks continued Wednesday as a flurry of economic data failed\nto change any expectations for the Federal Reserve’s interest-rate path and\ntraders digest the latest round of big bank earnings.\n\n"
   },
   {
-    "title": "Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html",
-    "published": "Wed, 14 Jan 2026 14:50:02 CST",
-    "summary": "Many indicators appear to suggest that the United States is growing despite\ntariffs, not because of them.\n\n"
-  },
-  {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
     "published": "Wed, 14 Jan 2026 14:39:42 CST",
@@ -300,10 +318,10 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "Congress Working to Schedule Powell Testimony, Spokesperson Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpowell-may-skip-congressional-testimony-key-republican-says",
-    "published": "Wed, 14 Jan 2026 13:41:59 CST",
-    "summary": "A congressional committee is liasing with Federal Reserve Chair Jerome Powell\nto schedule his next appearance before lawmakers, though the process has been\ndisrupted by subpoenas recently served to the central bank, according to a\nspokesperson for a key Republican lawmaker.\n\n"
+    "title": "JPMorgan to Sell $6 Billion From US Dollar Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjpmorgan-sets-major-us-bank-bond-sales-in-motion-after-earnings",
+    "published": "Wed, 14 Jan 2026 13:44:49 CST",
+    "summary": "JPMorgan Chase & Co. is selling $6 billion from a US high-grade bond sale --\nthe first of the season for major Wall Street banks -- according to people\nwith direct knowledge of the matter.\n\n"
   },
   {
     "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
@@ -354,12 +372,6 @@
     "summary": "People seeking jobs at Stars and Stripes, which Congress guaranteed editorial\nindependence, are being asked how they would advance administration\npriorities.\n\n"
   },
   {
-    "title": "Where Did All the American-Born Roofers Go?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html",
-    "published": "Wed, 14 Jan 2026 10:00:13 CST",
-    "summary": "The real story of how immigrant labor came to define the construction\nindustry.\n\n"
-  },
-  {
     "title": "Boomers are staying in the job market as Gen Z struggles to break through",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fworkers-age-new-jobs-baby-boomers%2F",
     "published": "Wed, 14 Jan 2026 10:00:00 CST",
@@ -382,12 +394,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F14%2Fnetflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
     "published": "Wed, 14 Jan 2026 09:12:22 CST",
     "summary": "Aim is to speed up acquisition of WBD studio and streaming businesses and hold\noff rival Paramount bid\n\nNetflix is reportedly preparing to switch to an all-cash offer to seal its\ntakeover of the studios and streaming businesses of Warner Bros Discovery\n(WBD), as it tries to speed up the deal and fend off a rival hostile bid from\nParamount Skydance.\n\nThe changes to Netflix’s $83bn (£62bn) offer, first reported by Bloomberg, are\ndesigned to accelerate the acquisition, which is expected to take months to\nconclude, and make it more palatable for WBD shareholders.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Saks files for bankruptcy as it struggles to pay debts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fsaks-bankruptcy-neiman-marcus-bergdorf%2F",
-    "published": "Wed, 14 Jan 2026 06:43:56 CST",
-    "summary": "The announcement comes after Saks missed a $100 million interest payment that\nwas connected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
   },
   {
     "title": "Blistering Metals Rally Sends Gold, Silver, Copper to Records",
@@ -894,12 +900,6 @@
     "summary": "The decision is an about-face for the automaker, which has touted its sales\nleadership of the models, known as PHEVs, for years.\n\n"
   },
   {
-    "title": "Used vehicle pricing expected to increase 2% in 2026, a historically stable rate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fused-vehicle-prices-2026-cox-forecast.html",
-    "published": "Fri, 09 Jan 2026 17:11:49 CST",
-    "summary": "Cox Automotive expects wholesale prices on the Manheim Used Vehicle Value\nIndex will end this year 2% higher than December 2025.\n\n"
-  },
-  {
     "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
     "published": "Fri, 09 Jan 2026 17:11:25 CST",
@@ -946,12 +946,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fblackrocks-bull-case-for-bitcoin-access-among-retail-investors.html",
     "published": "Fri, 09 Jan 2026 12:00:01 CST",
     "summary": "It could be the year Main Street's appetite for cryptocurrency exposure\nmeaningfully grows.\n\n"
-  },
-  {
-    "title": "Hopes rise for Chinese property support ahead of key March meeting",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fchina-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html",
-    "published": "Fri, 09 Jan 2026 06:44:40 CST",
-    "summary": "Ahead of a major policy meeting, China may be reassessing its approach after a\nflagship journal urged more forceful property measures.\n\n"
   },
   {
     "title": "Saks Global struggles to line up financing as potential bankruptcy filing looms",
