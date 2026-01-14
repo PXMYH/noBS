@@ -1,9 +1,69 @@
 [
   {
-    "title": "What to Know about Bilt’s New Rewards Program for Mortgage and Rent Payments",
+    "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
+    "published": "Wed, 14 Jan 2026 19:36:41 CST",
+    "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
+  },
+  {
+    "title": "Where’s the Gym? At PureGym Locations, It’s Through a Tube",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html",
+    "published": "Wed, 14 Jan 2026 19:34:25 CST",
+    "summary": "A new kind of tap-in, tap-out system at gyms has some New Yorkers flustered.\n\n"
+  },
+  {
+    "title": "Biggest US Power Grid Cuts Demand Outlook on Overstated AI Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbiggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom",
+    "published": "Wed, 14 Jan 2026 19:26:27 CST",
+    "summary": "The biggest US grid operator dialed back its forecast for power demand growth\nin a move that will temper some of the frenzy around the artificial\nintelligence boom.\n\n"
+  },
+  {
+    "title": "Startup Building Robot 'Brain' Raises $1.4 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstartup-building-robot-brain-raises-1-4-billion-video",
+    "published": "Wed, 14 Jan 2026 19:25:37 CST",
+    "summary": "Robotics startup Skild AI has raised $1.4 billion to help develop a “brain”\nthat can be used in robots of all shapes and sizes. CEO and co-founder Deepak\nPathak explains how the system learns through watching and practice. He joins\nCaroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Oil’s Discount to Brent Grows Amid Regional Supply Shifts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fus-oil-s-discount-to-brent-grows-amid-regional-supply-shifts",
+    "published": "Wed, 14 Jan 2026 19:22:53 CST",
+    "summary": "US oil is trading at the deepest discount to the global Brent benchmark in 15\nmonths as geopolitical developments from Venezuela to the Black Sea shake up\nsupply flows around the world.\n\n"
+  },
+  {
+    "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Frepublicans-stock-bill-trading.html",
+    "published": "Wed, 14 Jan 2026 19:19:58 CST",
+    "summary": "The bill would allow lawmakers to keep their existing stock and continue to\nsell it if they provide seven to 14 days of notice. Democrats called it a\n“gift to insider traders.”\n\n"
+  },
+  {
+    "title": "Distressed Brazilian Investor Forced to Sell Stake in His Crown Jewel",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fdistressed-brazil-investor-nelson-tanure-sells-stake-in-his-crown-jewel-prio3",
+    "published": "Wed, 14 Jan 2026 19:10:46 CST",
+    "summary": "Veteran Brazilian investor Nelson Tanure gave up almost all of his stake in an\noil company seen as the crown jewel of his empire in order to pay back\ncreditors, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html",
-    "published": "Wed, 14 Jan 2026 18:46:17 CST",
+    "published": "Wed, 14 Jan 2026 19:09:46 CST",
     "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
+  },
+  {
+    "title": "Aramco-Backed MidOcean Is in Talks to Join Argentina LNG Project",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Faramco-backed-midocean-is-in-talks-to-join-argentina-lng-project",
+    "published": "Wed, 14 Jan 2026 19:09:39 CST",
+    "summary": "MidOcean Energy LLC, a liquefied natural gas company founded by EIG Partners,\nis in talks to join Argentina’s signature LNG venture, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
+    "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html",
+    "published": "Wed, 14 Jan 2026 19:01:18 CST",
+    "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
+  },
+  {
+    "title": "Saks Files for Bankruptcy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fsaks-files-for-bankruptcy-video",
+    "published": "Wed, 14 Jan 2026 18:56:34 CST",
+    "summary": "The parent company of luxury retailer Saks Fifth Avenue has filed for\nbankruptcy. Saks Global Enterprises says it still owes at least $3.4 billion.\nBloomberg's Eliza Ronalds-Hannon reports. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Britain Awards Wind Farm Contracts That Will Power 12 Million Homes",
@@ -12,7 +72,7 @@
     "summary": "The British government provided guaranteed electricity prices to a group of\nwind farm developers in what it says is an effort to bring down power costs\nfor consumers.\n\n"
   },
   {
-    "title": "Goldman to Acquire Famed LA Film Lot After $1.1 Billion Default",
+    "title": "Goldman to Acquire LA Film Lot After $1.1 Billion Default",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgoldman-to-acquire-famed-la-film-lot-after-1-1-billion-default",
     "published": "Wed, 14 Jan 2026 18:26:40 CST",
     "summary": "Goldman Sachs Group Inc. is leading a takeover of a historic Los Angeles\nstudio lot after the owner, Hackman Capital Partners, defaulted on a $1.1\nbillion mortgage.\n\n"
@@ -22,18 +82,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ffed-s-kashkari-next-chair-needs-to-persuade-on-policy-video",
     "published": "Wed, 14 Jan 2026 18:25:16 CST",
     "summary": "Federal Reserve Bank of Minneapolis President Neel Kashkari said the central\nbank’s next chair will have to put forward their best arguments for interest\nrates to persuade other policymakers. “That person gets one vote and the best\nargument wins.” Kashkari spoke Wednesday to the Wisconsin Bankers Association\nduring a virtual town hall event. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Where’s the Gym? At PureGym Locations, It’s Through a Tube",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html",
-    "published": "Wed, 14 Jan 2026 18:23:32 CST",
-    "summary": "A new kind of tap-in, tap-out system at gyms has some New Yorkers flustered.\n\n"
-  },
-  {
-    "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Wed, 14 Jan 2026 18:15:46 CST",
-    "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
   },
   {
     "title": "Airlines to save big money on fuel as new weight loss pills gain popularity, Wall Street says",
@@ -90,7 +138,7 @@
     "summary": "Wall Street’s great rate reset on its securities portfolios has finally\narrived. Net interest income at the four biggest US banks is on track to climb\nthis year after surpassing a quarter of a trillion dollars in 2025. Some of\nthe low-yielding bonds banks acquired during the pandemic have begun to\nmature, allowing executives to put that money to work into higher-returning\nassets. Bloomberg's Herman Chan joins to discuss Well Fargo, Bank of America\nand Citi bank earnings on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trump's Credit Card Threat Casts Shadow Over Wall Street's Profit Parade",
+    "title": "Trump’s Credit Card Threat Casts Shadow Over Wall Street’s Profit Parade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwall-street-profit-parade-at-risk-after-trump-s-populist-pivot",
     "published": "Wed, 14 Jan 2026 17:41:20 CST",
     "summary": "Donald Trump’s return to the White House unleashed a market rally, dealmaking\nwent into overdrive, and bankers embraced all things Trump to rake in the big\nmoney.\n\n"
@@ -132,16 +180,22 @@
     "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling\noff parts of its overseas operations.\n\n"
   },
   {
+    "title": "Risky Borrowers Flood Market to Tap Investor Hunger for Yield",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Frisky-borrowers-flood-market-to-tap-investor-hunger-for-yield",
+    "published": "Wed, 14 Jan 2026 17:11:02 CST",
+    "summary": "While the broader markets have flinched at every political tremor, the world\nof risky debt is acting like almost nothing’s wrong.\n\n"
+  },
+  {
     "title": "U.S. Weighs Expanding Private Companies’ Role in Cyberwarfare",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Fus-cyberwarfare-private-companies.html",
     "published": "Wed, 14 Jan 2026 16:59:30 CST",
     "summary": "The proposal raises a host of questions about the legality and practicality of\nbolstering the involvement of the private sector in offensive cyberoperations.\n\n"
   },
   {
-    "title": "Bilt Unveils Credit Cards Capped at 10% After Trump’s Demands",
+    "title": "Bilt Unveils Credit Cards Capped at 10% After Trump Demands",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbilt-unveils-credit-cards-capped-at-10-after-trump-s-demands",
     "published": "Wed, 14 Jan 2026 16:55:00 CST",
-    "summary": "Bilt Rewards is unveiling three new credit cards with interest rates capped at\n10%, days after President Donald Trump threatened lenders that failed to do\nso.\n\n"
+    "summary": "Bilt is unveiling three new credit cards with interest rates capped at 10%,\ndays after President Donald Trump threatened lenders that failed to do so.\n\n"
   },
   {
     "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
@@ -160,18 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsfo-arrests-six-over-suspected-300-million-fraud-at-home-reit",
     "published": "Wed, 14 Jan 2026 16:19:58 CST",
     "summary": "The UK’s Serious Fraud Office said it arrested six people over suspected\noffenses totaling about £300 million ($404 million) linked to the “chaotic\ndownfall” of social housing firm Home REIT Plc.\n\n"
-  },
-  {
-    "title": "Brazil Fintech Agibank Said to Plan Raising $1 Billion in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrazil-fintech-agibank-said-to-plan-raising-1-billion-in-us-ipo",
-    "published": "Wed, 14 Jan 2026 16:16:51 CST",
-    "summary": "Brazilian fintech Agibank filed for an initial public equity offering in the\nUS on Wednesday and is aiming to raise about $1 billion, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Fed's Miran Sees Deregulation as Another Reason to Cut Rates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ffed-s-miran-sees-deregulation-as-a-reason-to-cut-rates-video",
-    "published": "Wed, 14 Jan 2026 16:16:29 CST",
-    "summary": "Federal Reserve Governor Stephen Miran says the Trump administration’s\nderegulatory agenda offers an additional reason to continue lowering interest\nrates during remarks at the Delphi Economic Forum in Athens. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Tricolor’s Bondholders Sue Trustee for Missing Alleged Fraud",
@@ -208,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 15:32:37 CST",
     "summary": "The parent company of Saks, Neiman Marcus and Bergdorf Goodman struggled with\ndebt, designers and customers in recent years.\n\n"
-  },
-  {
-    "title": "Fed’s Miran Adds Deregulation to His Argument for Rate Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ffed-s-miran-adds-deregulation-to-his-argument-for-rate-cuts",
-    "published": "Wed, 14 Jan 2026 15:30:00 CST",
-    "summary": "Federal Reserve Governor Stephen Miran said the Trump administration’s\nderegulatory agenda offers the central bank an additional reason to continue\nlowering interest rates.\n\n"
   },
   {
     "title": "Suspended Michigan autoworker who heckled Trump gets outpouring of donations",
@@ -264,12 +300,6 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "JPMorgan Seeks to Raise $5 Billion From US Dollar Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjpmorgan-sets-major-us-bank-bond-sales-in-motion-after-earnings",
-    "published": "Wed, 14 Jan 2026 13:44:49 CST",
-    "summary": "JPMorgan Chase & Co. is looking to raise about $5 billion from a US high-grade\nbond sale -- the first of the season for major Wall Street banks -- according\nto people with direct knowledge of the matter.\n\n"
-  },
-  {
     "title": "Congress Working to Schedule Powell Testimony, Spokesperson Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fpowell-may-skip-congressional-testimony-key-republican-says",
     "published": "Wed, 14 Jan 2026 13:41:59 CST",
@@ -280,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
     "published": "Wed, 14 Jan 2026 13:00:22 CST",
     "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Emerging Currencies From Won to Real Jolted by US Policy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Femerging-stocks-notch-new-record-high-powered-by-asian-tech",
-    "published": "Wed, 14 Jan 2026 12:39:06 CST",
-    "summary": "Emerging-market currencies were jolted on Wednesday by a series of US policy\nmoves that sent the Brazilian real tumbling and the Korean won to a session\nhigh.\n\n"
   },
   {
     "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
@@ -306,10 +330,10 @@
     "summary": "Labor department rhetoric, such as ‘One Homeland. One People. One Heritage’,\nprompt comparisons to Nazi slogan\n\nUnion leaders have accused the Trump administration of a “rhetorical shift\ntowards white supremacy” after social media posts by the US Department of\nLabor drew comparison with a Nazi slogan.\n\nRecent posts from the agency include a video captioned “remember who you are,\nAmerican”, with the phrase: “One Homeland. One People. One Heritage.”\n\nContinue reading...\n\n"
   },
   {
-    "title": "Brightline Hires Ex-Eurostar CEO Petrovic in C-Suite Shakeup",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbrightline-hires-former-eurostar-ceo-petrovic-in-c-suite-shakeup",
-    "published": "Wed, 14 Jan 2026 11:00:00 CST",
-    "summary": "Nicolas Petrovic is staking his reputation on turning around Brightline\nHoldings LLC as he takes over as chief executive officer of the struggling\nprivate rail operator.\n\n"
+    "title": "Banks Silent on Trump Plan to Weaken Racism-in-Lending Rules",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbanks-go-silent-on-trump-plan-to-weaken-racism-in-lending-rules",
+    "published": "Wed, 14 Jan 2026 10:30:00 CST",
+    "summary": "Big US banks have gone quiet on Trump administration officials’ latest attempt\nto roll back protections against racist lending practices, a reversal from\n2020 when executives from Wells Fargo & Co., Bank of America Corp., JPMorgan\nChase & Co. and Citigroup Inc. petitioned the government to leave similar\nsafeguards in place.\n\n"
   },
   {
     "title": "U.S. Refiners to Profit as Trump Asserts Control Over Venezuelan Oil",
@@ -328,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fstars-and-stripes-trump-loyalty-test%2F",
     "published": "Wed, 14 Jan 2026 10:00:49 CST",
     "summary": "People seeking jobs at Stars and Stripes, which Congress guaranteed editorial\nindependence, are being asked how they would advance administration\npriorities.\n\n"
-  },
-  {
-    "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html",
-    "published": "Wed, 14 Jan 2026 10:00:42 CST",
-    "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
   },
   {
     "title": "Where Did All the American-Born Roofers Go?",
@@ -364,12 +382,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F14%2Fnetflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
     "published": "Wed, 14 Jan 2026 09:12:22 CST",
     "summary": "Aim is to speed up acquisition of WBD studio and streaming businesses and hold\noff rival Paramount bid\n\nNetflix is reportedly preparing to switch to an all-cash offer to seal its\ntakeover of the studios and streaming businesses of Warner Bros Discovery\n(WBD), as it tries to speed up the deal and fend off a rival hostile bid from\nParamount Skydance.\n\nThe changes to Netflix’s $83bn (£62bn) offer, first reported by Bloomberg, are\ndesigned to accelerate the acquisition, which is expected to take months to\nconclude, and make it more palatable for WBD shareholders.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "European Stocks Hover Near Record High as Traders Focus on Iran",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Feuropean-stocks-extend-gains-as-metals-surge-boosts-miners",
-    "published": "Wed, 14 Jan 2026 08:19:11 CST",
-    "summary": "European shares hovered near record-high levels as traders focused on the\nlatest developments in Iran, while miners and chemicals stocks gained.\n\n"
   },
   {
     "title": "Saks files for bankruptcy as it struggles to pay debts",
@@ -414,16 +426,10 @@
     "summary": "In speech, president delivers triumph assessment, claiming US prices are down\ndespite official data showing otherwise\n\nDonald Trump claimed victory on the economy after 12 months back in office on\nTuesday, declaring it to be the “greatest first year in history” as many\nAmericans express alarm over the cost of living.\n\nIn a stream-of-consciousness speech at the Detroit Economic Club, the US\npresident delivered his gold-tinted view of how the economy has fared on his\nwatch. Prices were down, he claimed, despite official data showing otherwise,\nand productivity was “smashing expectations”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Bolivia Gets $4.5 Billion IDB Loan to Aid Emergency Reforms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fbolivia-gets-4-5-billion-idb-loan-to-support-emergency-reforms",
-    "published": "Tue, 13 Jan 2026 22:51:25 CST",
-    "summary": "Bolivia secured a further $4.5 billion in multilateral lending, boosting the\nnew government’s chances of stabilizing an economy enduring its deepest crisis\nsince the 1980s.\n\n"
-  },
-  {
-    "title": "Wall Street Revives Big-to-Small Stock Rotation: Markets Wrap",
+    "title": "Tech Tumbles as Wall Street Rotation Gains Speed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 13 Jan 2026 22:38:58 CST",
-    "summary": "Wall Street traders drove a rotation out of the tech megacaps that have\npowered the bull market, with stocks seeing their first back-to-back losses in\n2026. The crypto world climbed. Bond yields fell alongside the dollar.\n\n"
+    "summary": "A weeklong rotation that has seen investors bail from richly priced technology\nnames in favor of more economically sensitive industries picked up speed,\nsending the Nasdaq 100 to its worst drop in a month while lifting the majority\nof companies in the S&P 500.\n\n"
   },
   {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
@@ -802,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fchina-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html",
     "published": "Mon, 12 Jan 2026 05:33:07 CST",
     "summary": "New tech sectors still account for a far smaller portion of China's economy\nthan the gap left by the real estate slump.\n\n"
-  },
-  {
-    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fus%2Fpolitics%2Fpeter-thiel-california-wealth-tax.html",
-    "published": "Sun, 11 Jan 2026 20:47:16 CST",
-    "summary": "More large donations from wealthy Silicon Valley figures are expected as they\ntry to marshal opposition to a proposed ballot measure that would impose a new\ntax on billionaires.\n\n"
   },
   {
     "title": "Lawmakers are preparing to try again on major crypto bill. Why it matters and what happens next",
