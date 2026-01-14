@@ -1,8 +1,38 @@
 [
   {
+    "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ffood-prices-tariffs-trump.html",
+    "published": "Wed, 14 Jan 2026 21:36:54 CST",
+    "summary": "Weather, supply, tariffs, labor and changing consumer habits continue to drive\nup the cost of groceries. President Trump falsely claims prices are falling.\n\n"
+  },
+  {
+    "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
+    "published": "Wed, 14 Jan 2026 21:29:33 CST",
+    "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
+  },
+  {
+    "title": "Stephen Ross Says Offers for Miami Dolphins Are Close to $15 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstephen-ross-says-offers-for-dolphins-are-close-to-15b-video",
+    "published": "Wed, 14 Jan 2026 21:24:39 CST",
+    "summary": "Stephen Ross, CEO and chair of Related Ross, founder of Related Companies and\nowner of the Miami Dolphins, comments on the future ownership of the Dolphins\nand says the offers for the franchise have reached close to $15 billion during\na Bloomberg Newsmakers event with Caroline Gage. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Stellantis CEO: 2026 is the ‘year of execution’ as Wall Street awaits turnaround strategy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstellantis-ceo-turnaround-plan.html",
+    "published": "Wed, 14 Jan 2026 21:15:53 CST",
+    "summary": "Stellantis CEO Antonio Filosa views 2026 as an execution year for the\nembattled automaker following years of sales declines in the U.S.\n\n"
+  },
+  {
+    "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
+    "published": "Wed, 14 Jan 2026 20:57:17 CST",
+    "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
+  },
+  {
     "title": "Verizon Outage Affects Tens of Thousands of Users, Tracking Site Shows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Wed, 14 Jan 2026 20:35:55 CST",
+    "published": "Wed, 14 Jan 2026 20:43:32 CST",
     "summary": "A spokeswoman for Verizon said the carrier was working to resolve the issue.\n\n"
   },
   {
@@ -10,6 +40,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html",
     "published": "Wed, 14 Jan 2026 20:29:32 CST",
     "summary": "Many indicators appear to suggest that the United States is growing despite\ntariffs, not because of them.\n\n"
+  },
+  {
+    "title": "Citi CEO Warns of More Job Cuts, Saks Files for Bankruptcy | Bloomberg Markets 1/14/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fbloomberg-markets-1-14-2026-video",
+    "published": "Wed, 14 Jan 2026 20:26:09 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: KPMG Chief\nEconomist Diane Swonk, Traub Capital Partners Managing Partner Mortimer Singer\nand DVX Ventures CEO and Co-Founder and General Motors Board Members Jon\nMcNeil. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Crude Falls After Trump’s Latest Comments on Iran Protests",
@@ -30,10 +66,10 @@
     "summary": "The announcement comes after Saks missed a $100 million interest payment\nconnected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
   },
   {
-    "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
-    "published": "Wed, 14 Jan 2026 20:01:43 CST",
-    "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
+    "title": "Private Equity Firms Circle Volkswagen’s €6 Billion Everllence Unit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbuyout-firms-are-said-to-circle-vw-s-6-billion-everllence-unit",
+    "published": "Wed, 14 Jan 2026 20:10:05 CST",
+    "summary": "A majority stake in Volkswagen AG’s heavy diesel engine unit Everllence SE is\nattracting interest from a number of private equity firms, according to people\nfamiliar with the matter, as the German automaker proceeds with its asset\ndisposal program.\n\n"
   },
   {
     "title": "Carlyle CEO Says Powell Probe Reinforces Fed Independence",
@@ -135,7 +171,7 @@
     "title": "Aramco-Backed MidOcean Is in Talks to Join Argentina LNG Project",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Faramco-backed-midocean-is-in-talks-to-join-argentina-lng-project",
     "published": "Wed, 14 Jan 2026 19:09:39 CST",
-    "summary": "MidOcean Energy LLC, a liquefied natural gas company founded by EIG Partners,\nis in talks to join Argentina’s signature LNG venture, according to people\nfamiliar with the matter.\n\n"
+    "summary": "MidOcean Energy LLC, a liquefied natural gas company founded by EIG, is in\ntalks to join Argentina’s signature LNG venture, according to people familiar\nwith the matter.\n\n"
   },
   {
     "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
@@ -174,28 +210,10 @@
     "summary": "Jefferies argued that a 10% reduction in average passenger weight could\ntranslate into roughly 2% total aircraft weight savings.\n\n"
   },
   {
-    "title": "Costs Overshadow BofA Trading Beat | Open Interest 1/14/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fopen-interest-1-14-2025-video",
-    "published": "Wed, 14 Jan 2026 18:08:07 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" A big bank earnings bonanza. Bank of America beats,\nbut expense worries weigh on shares, Wells Fargo misses while Citi's\ndealmakers rake in the cash. Meta turns to nuclear power to fuel the AI boom--\nand Oklo is right in the middle of it. We talk to the CEO Jake DeWitte. And\nformer Fed Advisor Neil Grossman joins the show with his critique of the Fed\nsaying the central bank has done a \"horrible\" job. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "There’s Already a HavelockAI Killer on the Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-14%2Fthere-s-already-a-havelockai-killer-on-the-market",
-    "published": "Wed, 14 Jan 2026 17:57:57 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fsaks-global-files-for-bankruptcy-protection.html",
     "published": "Wed, 14 Jan 2026 17:53:01 CST",
     "summary": "Saks Global, which also owns Neiman Marcus and Bergdorf Goodman, filed for\nbankruptcy protection after running out of cash.\n\n"
-  },
-  {
-    "title": "Blistering Metals Rally Sends Gold, Silver and Copper to Records",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fmetals-rally-sends-gold-silver-and-copper-to-records-video",
-    "published": "Wed, 14 Jan 2026 17:49:19 CST",
-    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors piled into the commodities as\na red-hot alternative to more traditional assets. Frenzied buying in China\nacross multiple metals has stoked the recent moves, at the same time as\ninvestors have been seeking safe havens amid geopolitical flashpoints from\nVenezuela to Iran and the Trump administration’s fresh attack on the Federal\nReserve. Bloomberg's Mike McGlone joins to discuss on Bloomberg Intelligence.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Biogen, Rivian, Bank of America, Airbnb & more",
@@ -204,10 +222,10 @@
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Five Takeaways From Citigroup’s Fourth-Quarter Earnings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ffive-takeaways-from-citigroup-s-fourth-quarter-earnings",
-    "published": "Wed, 14 Jan 2026 17:44:12 CST",
-    "summary": "Here’s what we saw in Citigroup Inc.’s fourth-quarter earnings. For more,\nclick here for our TOPLive blog.\n\n"
+    "title": "Treasury 30-Year Yield Slides as Investors Seek Out Havens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftreasury-30-year-yield-extends-slide-amid-haven-demand",
+    "published": "Wed, 14 Jan 2026 17:23:14 CST",
+    "summary": "A rise in US Treasuries pushed the 30-year bond’s yield to the lowest level so\nfar this year amid haven demand and bond supply considerations.\n\n"
   },
   {
     "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
@@ -258,12 +276,6 @@
     "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
   },
   {
-    "title": "UK’s Borrowing Costs Hit Lowest in Over a Year on BOE Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fuk-government-borrowing-costs-fall-to-lowest-since-december-2024",
-    "published": "Wed, 14 Jan 2026 15:37:04 CST",
-    "summary": "The UK’s benchmark bonds rallied to send borrowing costs to the lowest since\nDecember 2024, giving Chancellor Rachel Reeves some breathing space on the\ncountry’s finances.\n\n"
-  },
-  {
     "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html",
     "published": "Wed, 14 Jan 2026 15:35:54 CST",
@@ -294,7 +306,7 @@
     "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
   },
   {
-    "title": "S&amp;P 500 on Track for First Back-to-Back Loss of 2026 After PPI",
+    "title": "S&amp;P 500 Posts First Back-to-Back Loss of 2026 After PPI Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fus-stocks-extend-drop-as-data-fails-to-convince-on-rate-cut-path",
     "published": "Wed, 14 Jan 2026 14:58:45 CST",
     "summary": "A slide in US stocks continued Wednesday as a flurry of economic data failed\nto change any expectations for the Federal Reserve’s interest-rate path and\ntraders digest the latest round of big bank earnings.\n\n"
@@ -318,10 +330,10 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "JPMorgan to Sell $6 Billion From US Dollar Bond Sale",
+    "title": "JPMorgan Raises $6 Billion in Its First Bond Sale of Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjpmorgan-sets-major-us-bank-bond-sales-in-motion-after-earnings",
     "published": "Wed, 14 Jan 2026 13:44:49 CST",
-    "summary": "JPMorgan Chase & Co. is selling $6 billion from a US high-grade bond sale --\nthe first of the season for major Wall Street banks -- according to people\nwith direct knowledge of the matter.\n\n"
+    "summary": "JPMorgan Chase & Co. sold $6 billion of investment-grade bonds, kicking off\nissuance by major Wall Street banks after releasing fourth-quarter results.\n\n"
   },
   {
     "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
@@ -399,7 +411,7 @@
     "title": "Blistering Metals Rally Sends Gold, Silver, Copper to Records",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Frecords-tumble-as-silver-and-tin-lead-blistering-metals-rally",
     "published": "Wed, 14 Jan 2026 06:10:40 CST",
-    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors piled into the commodities as\na red-hot alternative to more traditional assets.\n\n"
+    "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- with investors piling into the commodities\nas a red-hot alternative to more traditional assets.\n\n"
   },
   {
     "title": "What the Bankruptcy of Saks Means for You",
@@ -426,6 +438,12 @@
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
+    "title": "Oil Falls as Trump Signals US Response in Iran on Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14",
+    "published": "Tue, 13 Jan 2026 23:27:04 CST",
+    "summary": "Oil fell after the close, wiping out a day of gains after US President Donald\nTrump said he had been assured that Iran would stop killing protesters, in a\nsignal he could hold off on a threatened military response to the repression\nof widespread demonstrations in the nation.\n\n"
+  },
+  {
     "title": "Trump claims victory on US economy despite many Americans’ cost of living concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Ftrump-economy-cost-of-living",
     "published": "Tue, 13 Jan 2026 23:02:14 CST",
@@ -435,7 +453,7 @@
     "title": "Tech Tumbles as Wall Street Rotation Gains Speed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 13 Jan 2026 22:38:58 CST",
-    "summary": "A weeklong rotation that has seen investors bail from richly priced technology\nnames in favor of more economically sensitive industries picked up speed,\nsending the Nasdaq 100 to its worst drop in a month while lifting the majority\nof companies in the S&P 500.\n\n"
+    "summary": "A weeklong rotation that has seen investors bail from richly priced technology\nnames in favor of more economically sensitive industries picked up speed,\nsending the Nasdaq 100 to its worst decline in a month while lifting the\nmajority of companies in the S&P 500.\n\n"
   },
   {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
@@ -744,12 +762,6 @@
     "summary": "After receiving a diagnosis of terminal cancer, he used his experience in\npublic relations to draw attention to the skyrocketing cost of medication.\n\n"
   },
   {
-    "title": "Allegiant to Buy Sun Country Airlines in $1.5 Billion Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F11%2Fbusiness%2Fallegiant-sun-country-airlines.html",
-    "published": "Mon, 12 Jan 2026 19:12:10 CST",
-    "summary": "The combination of the two small, budget airlines comes as low-cost carriers\nhave struggled with high costs and competition.\n\n"
-  },
-  {
     "title": "Supreme Court Grapples With Louisiana Coastal Lawsuits Against Oil Companies",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fsupreme-court-louisiana-oil.html",
     "published": "Mon, 12 Jan 2026 18:59:11 CST",
@@ -772,12 +784,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fmedia%2Fparamount-warner-bros-discovery-board-fight.html",
     "published": "Mon, 12 Jan 2026 18:09:58 CST",
     "summary": "The announcement was the latest in a series of increasingly aggressive actions\nby Paramount to buy Warner Bros.\n\n"
-  },
-  {
-    "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Feurope-china-electric-vehicles-tariffs-volkswagen.html",
-    "published": "Mon, 12 Jan 2026 17:02:21 CST",
-    "summary": "The European Commission allowed carmakers to volunteer limits on their imports\nfrom China instead of paying tariffs, an arrangement that could help\nVolkswagen.\n\n"
   },
   {
     "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
@@ -958,12 +964,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fgm-q4-charges-ev-china.html",
     "published": "Thu, 08 Jan 2026 21:20:29 CST",
     "summary": "GM's announcement comes after Ford said it would record similar writedowns\nfollowing a broad resetting for the U.S. EV market.\n\n"
-  },
-  {
-    "title": "RFK Jr.'s new food guidelines could boost beaten down fast-casual chains like Chipotle and Sweetgreen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Frfk-jr-food-guidelines-chipotle-sweetgreen.html",
-    "published": "Thu, 08 Jan 2026 20:04:27 CST",
-    "summary": "The restaurant industry had mixed reactions to new federal nutrition\nguidelines, which recommend reduced intake of processed foods and sugary\ndrinks.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Fell to Lowest Level Since 2009 as Tariffs Reshape Trade",
