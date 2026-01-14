@@ -1,5 +1,53 @@
 [
   {
+    "title": "Benfica and JPMorgan Said to Hold Talks on Lisbon Stadium Revamp",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbenfica-jpmorgan-said-to-hold-talks-on-lisbon-stadium-revamp",
+    "published": "Wed, 14 Jan 2026 09:27:35 CST",
+    "summary": "Portuguese football club Benfica is sounding out banks including JPMorgan\nChase & Co. on a plan to raise funds to renovate its Lisbon stadium and\ndevelop the surrounding area, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Trade and War Worries Haunt Davos as World Seen ‘on a Precipice’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftrade-and-war-worries-haunt-davos-as-world-seen-on-a-precipice",
+    "published": "Wed, 14 Jan 2026 09:15:00 CST",
+    "summary": "A global backdrop increasingly threatened by trade disputes and inter-state\nconflict is how respondents in a World Economic Forum survey see things\npanning out in 2026.\n\n"
+  },
+  {
+    "title": "Baidu Is Said to Explore Upgrading HK Listing to Primary Status",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbaidu-is-said-to-explore-upgrading-hk-listing-to-primary-status",
+    "published": "Wed, 14 Jan 2026 09:13:55 CST",
+    "summary": "Baidu Inc. is considering upgrading its Hong Kong listing to primary status to\ngain more exposure to investors in mainland China and protect itself from\npotentially unfavorable US policies, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Congo to Share Minerals Projects List With US to Advance Pact",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcongo-to-share-minerals-projects-list-with-us-to-advance-pact",
+    "published": "Wed, 14 Jan 2026 09:12:19 CST",
+    "summary": "The Democratic Republic of Congo will shortly share a list of minerals\nprojects with the US for possible development by American investors, six weeks\nafter the two nations signed a strategic partnership.\n\n"
+  },
+  {
+    "title": "Italy’s Meloni Set to Hand Fifth Term to Eni’s Long-Serving CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fitaly-s-meloni-set-to-hand-fifth-term-to-eni-s-long-serving-ceo",
+    "published": "Wed, 14 Jan 2026 09:02:12 CST",
+    "summary": "Italy’s government is preparing to reconfirm Claudio Descalzi as chief\nexecutive officer of Italian state-backed energy firm Eni SpA, a move that\nwould extend the term of one of Europe’s longest-serving oil chiefs and\nproject continuity.\n\n"
+  },
+  {
+    "title": "Defense Company CSG Plans IPO in Amsterdam",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fdefense-company-csg-plans-ipo-in-amsterdam-video",
+    "published": "Wed, 14 Jan 2026 09:01:24 CST",
+    "summary": "Prague-based defense company Czechoslovak Group plans to go public in\nAmsterdam, in what could be the largest-ever defense initial public offering.\nThe armored vehicle and munitions maker is planning to sell €750 million ($874\nmillion) of new shares and a shareholder will sell an undetermined amount of\nexisting shares in the deal. Bloomberg’s Charles Capel reports.\n\n"
+  },
+  {
+    "title": "Traders Ready For ‘Donroe Doctrine’ to Fuel Market Moves in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftraders-ready-for-donroe-doctrine-to-fuel-market-moves-in-2026",
+    "published": "Wed, 14 Jan 2026 09:00:00 CST",
+    "summary": "Investors are bracing for a year of heightened geopolitical risk as the White\nHouse leans into the “Donroe Doctrine,” the Trumpian revival of a 200-year-old\nforeign policy that aims to project American dominance in the Western\nHemisphere and possibly beyond.\n\n"
+  },
+  {
+    "title": "Takaichi, Lee Hold Surprise Drum Session",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ftakaichi-lee-hold-surprise-drum-session-video",
+    "published": "Wed, 14 Jan 2026 08:55:23 CST",
+    "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung put up a\nunited front by drumming to ‘KPop Demon Hunters’ and BTS. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "HSBC Plans Risk Transfer Linked to €2 Billion of Corporate Loans",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-plans-risk-transfer-linked-to-2-billion-of-corporate-loans",
     "published": "Wed, 14 Jan 2026 08:45:09 CST",
@@ -114,18 +162,6 @@
     "summary": "The announcement comes after Saks missed a $100 million interest payment that\nwas connected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
   },
   {
-    "title": "FTSE 100 Buoyed by Miners as Metal Prices Surge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-14%2Fftse-100-live-gold-silver-prices-metals-pound-trump-fed-oil-what-s-moving-uk-markets-right-now-markets-today-mkdnln3m",
-    "published": "Wed, 14 Jan 2026 06:42:35 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Ireland Is Trying to Get Back on the Data Center Bandwagon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fireland-wants-to-get-back-ai-data-centers-and-is",
-    "published": "Wed, 14 Jan 2026 06:30:31 CST",
-    "summary": "The government has a new energy plan to get investment flowing again\n\n"
-  },
-  {
     "title": "Saks Files for Bankruptcy as Department Stores Fight for Survival",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 06:27:21 CST",
@@ -138,28 +174,10 @@
     "summary": "Metals extended their dramatic start to the year -- with gold, silver, copper\nand tin all hitting record highs -- as investors bet on a boost from more US\nrate cuts and a revival in sentiment across Chinese financial markets.\n\n"
   },
   {
-    "title": "JPMorgan’s Chatterji on M&A Outlook in APAC",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fjpmorgan-s-chatterji-on-m-a-outlook-in-apac-video",
-    "published": "Wed, 14 Jan 2026 06:00:00 CST",
-    "summary": "Rohit Chatterji, Head of APAC M&A at JPMorgan, discusses his outlook for\ndealmaking in 2026, noting that M&A activity is expected to remain strong. He\nspoke on Bloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "What the Bankruptcy of Saks Means for You",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 05:40:13 CST",
     "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
-  },
-  {
-    "title": "Sino Biopharm To Remain Active in M&A, Says Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fsino-biopharm-to-remain-active-in-m-a-says-chair-video",
-    "published": "Wed, 14 Jan 2026 05:06:36 CST",
-    "summary": "Sino Biopharmaceutical Chairwoman Theresa Tse says her company is open to\nacquiring more biotech companies in China after announcing a new buyout. She\nalso tells \"Bloomberg: The China Show\" that the company is looking for\npartnerships with bigger multinational firms. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Ascentage: Partnership With Takeda Going Well",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fascentage-partnership-with-takeda-going-well-video",
-    "published": "Wed, 14 Jan 2026 05:03:54 CST",
-    "summary": "Dajun Yang, Co-founder, Chairman and CEO at Ascentage Pharma, says he hopes\nthe company's partnership with Takeda on a blood cancer therapy could be ready\nfor commercialization in two years. He speaks on \"Bloomberg: The China Show\"\nahead of his presentation at the JPMorgan Healthcare Conference in San\nFrancisco. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
@@ -184,24 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
     "published": "Wed, 14 Jan 2026 04:40:32 CST",
     "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
-  },
-  {
-    "title": "China’s Steel Exports Surge to Record Despite Global Pushback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-s-steel-exports-surge-to-record-despite-global-pushback",
-    "published": "Wed, 14 Jan 2026 04:26:28 CST",
-    "summary": "China’s steel exports surged to an all-time high in December, rounding off a\nrecord year in which overseas shipments defied mounting trade pressures and\nexpectations of a slowdown.\n\n"
-  },
-  {
-    "title": "Japan 5-Year Bond Sale Weakest Since August on Election Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-s-five-year-bond-sale-demand-weaker-than-12-month-average",
-    "published": "Wed, 14 Jan 2026 03:47:31 CST",
-    "summary": "Japan’s five-year government bond auction drew the weakest demand since August\nas expectations that Prime Minister Sanae Takaichi will call a snap election\nreinforced concerns over increased debt issuance.\n\n"
-  },
-  {
-    "title": "Won Nears 17-Year Low, Testing Korea’s Intervention Resolve",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fwon-nears-17-year-low-testing-korea-s-intervention-resolve",
-    "published": "Wed, 14 Jan 2026 03:11:22 CST",
-    "summary": "The South Korean won extended its decline toward its weakest level since the\nglobal financial crisis, intensifying pressure on authorities to defend the\ncurrency as local investors shift funds overseas.\n\n"
   },
   {
     "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",

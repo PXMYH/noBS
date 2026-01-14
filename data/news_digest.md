@@ -6,52 +6,52 @@ Generated from **210** unique articles (deduplicated from 210 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines this week. In Southeast Asia, Thailand's military frames its border clashes with Cambodia as part of a broader crackdown on cross-border scam operations, which have defrauded billions worldwide. Meanwhile, President Trump escalates rhetoric against Iran, urging protesters to continue demonstrations against the Khamenei regime while hinting at potential U.S. intervention, though analysts warn that direct U.S. involvement could backfire. On the economic front, Trump's push to revive Venezuela's oil sector faces skepticism from U.S. energy executives, with critics arguing the move could undermine domestic fracking industries already struggling with low prices. Elsewhere, Canada seeks to repair strained relations with China, sending former central bank governor Mark Carney to Beijing amid worsening U.S.-China ties. In Europe, Ukraine's resilience shines as businesses like vodka maker Nemiroff expand exports despite ongoing Russian attacks, while the UK grapples with diplomatic fallout after China threatened to cancel trade talks over a minister's Taiwan visit.
+Geopolitical tensions and economic maneuvering dominate global headlines this week. In Southeast Asia, Thailand's military frames its border clashes with Cambodia as part of a broader crackdown on cross-border scam operations, which have defrauded billions worldwide. Meanwhile, President Trump escalates rhetoric against Iran, urging protesters to continue demonstrations against the Khamenei regime while hinting at potential U.S. intervention, though analysts warn that direct U.S. involvement could backfire. On the economic front, Trump's push to revive Venezuela's oil sector faces skepticism from U.S. energy executives, with critics arguing the plan could undermine American oil producers already struggling with low prices and oversupply. Elsewhere, Canada's former central bank governor, Mark Carney, travels to Beijing to repair strained Canada-China relations, signaling Ottawa's efforts to diversify trade amid worsening U.S.-China ties. The UK, too, faces diplomatic fallout after China threatened to cancel trade talks over a minister's visit to Taiwan, underscoring Beijing's growing assertiveness on sovereignty issues.
 
 **Top Articles:**
 - [How Scam Centers Are Linked to Cambodia-Thailand Clashes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fhow-scam-centers-are-linked-to-cambodia-thailand-clashes-video)
 - [Trump: Powell Crooked Or Incompetent; Iran Protests | Horizons Middle East & Africa 1/14/2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fhorizons-middle-east-africa-1-14-2026-video)
 - [Kamrava: Best for Iran Protests is for US to Do Nothing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fkamrava-best-for-iran-protests-is-for-us-to-do-nothing-video)
 - [Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html)
-- [Japan 5-Year Bond Sale Weakest Since August on Election Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fjapan-s-five-year-bond-sale-demand-weaker-than-12-month-average)
+- [US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F12%2Fus-oil-producers-global-supply-glut-venezuela)
 
-**Sources**: archive.ph (10 articles)
+**Sources**: archive.ph (9 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global financial markets are navigating a mix of economic resilience and political tensions, with metals rallying to record highs amid expectations of U.S. rate cuts and improved sentiment in China. Gold, silver, and copper surged as investors bet on looser monetary policy, while oil prices dipped after a strong rally, reflecting geopolitical uncertainties tied to Iran. Meanwhile, the Federal Reserve faces unprecedented pressure as a DOJ investigation into Chair Jerome Powell sparks concerns over central bank independence, drawing rare public support from global counterparts. Corporate struggles are also in focus, with Saks filing for bankruptcy under heavy debt, while JPMorgan and Delta report strong earnings, signaling resilience in key sectors. Trade dynamics remain volatile, with China posting a record $1.19 trillion surplus and Europe easing EV tariffs on Chinese imports, even as currency pressures mount in South Korea and France tests investor confidence with a high-stakes bond sale.
+Global markets are navigating a complex landscape in early 2026, marked by geopolitical tensions, central bank independence concerns, and shifting economic policies. The World Economic Forum warns of a precarious global outlook due to trade disputes and conflicts, while the U.S. faces internal strife as the Trump administration escalates pressure on the Federal Reserve, including a criminal investigation into Chair Jerome Powell. Global central bankers rally in support of Powell, emphasizing the need for Fed independence amid political interference. Meanwhile, metals like gold, silver, and copper surge to record highs on bets of U.S. rate cuts and Chinese market revival, though oil prices dip after a rally as traders assess geopolitical risks. Corporate developments include Saks' bankruptcy filing, JPMorgan's strong earnings, and a potential record defense IPO by Czechoslovak Group. China's trade surplus hits a record $1.19 trillion, while France's bond sale tests investor confidence amid budget uncertainties. The Middle East sees increased private equity activity, with firms like Jadwa Investment raising funds for alternative financing deals.
 
 **Top Articles:**
+- [Trade and War Worries Haunt Davos as World Seen ‘on a Precipice’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftrade-and-war-worries-haunt-davos-as-world-seen-on-a-precipice)
+- [Italy’s Meloni Set to Hand Fifth Term to Eni’s Long-Serving CEO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fitaly-s-meloni-set-to-hand-fifth-term-to-eni-s-long-serving-ceo)
+- [Defense Company CSG Plans IPO in Amsterdam](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fdefense-company-csg-plans-ipo-in-amsterdam-video)
+- [Traders Ready For ‘Donroe Doctrine’ to Fuel Market Moves in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftraders-ready-for-donroe-doctrine-to-fuel-market-moves-in-2026)
 - [HSBC Plans Risk Transfer Linked to €2 Billion of Corporate Loans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-plans-risk-transfer-linked-to-2-billion-of-corporate-loans)
-- [Sustained Yen Weakness Isn't Vs Dollar: 3-Minutes MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fsustained-yen-weakness-isn-t-vs-dollar-3-minutes-mliv-video)
-- [Nigeria Trade Minister Sees Boost From UAE Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fnigeria-trade-minister-sees-boost-from-uae-deal-video)
-- [France’s Bond Sale to Test Demand as Budget Risks ‘Danger Zone’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ffrance-s-bond-sale-to-test-demand-as-budget-risks-danger-zone)
-- [China Announces Record Trade Surplus as Its Exports Flood World Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-trade-surplus-exports.html)
 
-**Sources**: archive.ph (86 articles)
+**Sources**: archive.ph (87 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Google's parent company Alphabet surpasses a $4 trillion valuation following a landmark AI deal with Apple, integrating Gemini into Siri. Meanwhile, Elon Musk's X faces regulatory scrutiny in the UK over Grok's generation of sexually explicit AI images, while Malaysia and Indonesia block the chatbot entirely. In corporate moves, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, while GM and Ford announce major EV-related writedowns amid a market slowdown. Regulatory and political developments include a potential U.S. crypto bill gaining traction and Trump's controversial 10% cap on credit card interest rates, raising legal questions. Taiwan's tech-driven wealth growth and a looming U.S.-Taiwan trade deal underscore the island's strategic importance in the global semiconductor race.
+The tech and business landscape is buzzing with major developments this week. Alphabet, Google's parent company, has surged past Apple to become the world's second-most valuable company, hitting a $4 trillion valuation after striking an AI deal with Apple to power Siri with Gemini. Meanwhile, Boeing outperformed Airbus in 2025, delivering 600 jetliners and securing more orders, marking its strongest year since 2018. In regulatory news, Elon Musk's X faces a UK investigation over Grok's generation of sexually explicit AI images, while Malaysia and Indonesia have blocked access to the chatbot for similar concerns. The AI boom continues to reshape industries, with Amazon Pharmacy now offering Novo Nordisk's Wegovy weight-loss pill, signaling the growing intersection of tech and healthcare. On the economic front, the U.S. saw modest job growth in 2025, with the lowest hiring in five years, while precious metals like gold and silver rally amid uncertainty over Federal Reserve Chair Jerome Powell's future. In corporate moves, Baidu is exploring upgrading its Hong Kong listing to primary status, and Toyota raised its bid for a key unit by 15% after pressure from activist investor Elliott Management.
 
 **Top Articles:**
+- [Benfica and JPMorgan Said to Hold Talks on Lisbon Stadium Revamp](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbenfica-jpmorgan-said-to-hold-talks-on-lisbon-stadium-revamp)
+- [Baidu Is Said to Explore Upgrading HK Listing to Primary Status](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbaidu-is-said-to-explore-upgrading-hk-listing-to-primary-status)
+- [Congo to Share Minerals Projects List With US to Advance Pact](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcongo-to-share-minerals-projects-list-with-us-to-advance-pact)
 - [Toyota Raises Bid for Unit by 15% After Elliott Pressure](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftoyota-industries-buyout-offer-raised-after-investor-pushback)
 - [Taiwan’s Richest to See Wealth Growth of 10% a Year, Report Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Ftaiwan-s-richest-to-see-wealth-growth-of-10-a-year-report-says)
-- [Vistry UK Home Sales Dropped 9% in 2025 Amid Budget Uncertainty](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fvistry-uk-home-sales-dropped-9-in-2025-amid-budget-uncertainty)
-- [Key Ukraine Munitions Supplier CSG Plans IPO in Amsterdam](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fkey-ukraine-munitions-supplier-csg-plans-ipo-in-amsterdam)
-- [22 Killed as Crane Collapses on Train in Thailand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2F22-killed-as-crane-collapses-on-train-in-thailand)
 
-**Sources**: archive.ph (74 articles)
+**Sources**: archive.ph (76 articles)
 
 ---
 
 ## ⚽ Sports
 
-Aldi is accelerating its expansion in the U.S. grocery market, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discount retailers. The German-based chain's aggressive growth underscores rising competition in the grocery sector, where discounters are gaining ground by attracting shoppers across income levels with lower prices and streamlined offerings. This move reflects broader economic trends, as inflation and cost-of-living pressures push more consumers to prioritize value without sacrificing quality. Aldi's strategy also highlights the shifting dynamics in retail, where traditional supermarkets face mounting pressure to adapt or risk losing market share to more agile, cost-effective competitors.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize affordability in their weekly shopping. Aldi's strategy includes modernizing stores and expanding its product offerings, further challenging traditional supermarkets. Industry analysts note that this expansion could reshape the grocery landscape, forcing competitors to adjust pricing and promotions to retain customers.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,28 +62,17 @@ Aldi is accelerating its expansion in the U.S. grocery market, announcing plans 
 
 ## 📰 Other News
 
-{
-    "summary": "Global markets and economic policies dominate today’s headlines, with mixed signals across regions. The FTSE 100 gains momentum as surging metal prices boost mining stocks, while Chinese markets face a setback after authorities tighten margin financing rules, reflecting concerns over a recent $1.2 trillion rally. In the U.S., inflation pressures persist, with food prices—particularly beef, coffee, and produce—spiking sharply in December, adding to voter frustration. President Trump’s administration is responding with aggressive tactics, including threats to lower prices and a push for housing affordability solutions ahead of an economic conference. Meanwhile, Ireland revives its data center ambitions with a new energy plan, and the E.U. and South America finalize a landmark free-trade agreement covering 700 million people, contrasting with the U.S.’s more coercive trade approach.
-
-On the corporate front, M&A activity remains robust in Asia-Pacific, with JPMorgan forecasting strong dealmaking in 2026, while Allegiant Airlines’ $1.5 billion acquisition of Sun Country highlights consolidation in the budget airline sector. Tech and media also see notable shifts: Alibaba-backed PixVerse secures fresh funding for its AI video tools, and Paramount escalates its bid for Warner Bros. Discovery with boardroom maneuvering. Cultural trends emerge as psychedelic medicine, particularly psilocybin therapy, gains legal traction in three states despite accessibility hurdles, and podcasts earn their first Golden Globe nominations, signaling their growing mainstream appeal. Human interest stories, like the revival of *Gourmet* magazine as an unsanctioned newsletter and the late activist David Mitchell’s fight against drug pricing, add depth to the day’s news.",
-    "key_stories": [
-        "FTSE 100 rises on surging metal prices, while Chinese stocks drop after margin rule tightening",
-        "U.S. food prices jump in December, intensifying inflation concerns as Trump targets cost cuts",
-        "E.U.-South America free-trade deal finalized, covering 700 million people amid global trade shifts",
-        "Podcasts earn first Golden Globe nominations, marking a milestone for the industry",
-        "Allegiant Airlines acquires Sun Country in $1.5 billion deal as budget carriers consolidate"
-    ]
-}
+Global economic and political dynamics dominate this week’s headlines, with notable developments in Asia and the U.S. Japanese Prime Minister Sanae Takaichi and South Korean President Lee Jae Myung made headlines with a symbolic drum session, signaling warming relations between the two nations. Meanwhile, China’s stock market faces volatility as authorities tighten margin financing rules, raising concerns about the sustainability of a recent rally. In the U.S., inflation remains a pressing issue, with food prices surging in December, while President Trump employs aggressive tactics to combat rising costs, including threats to companies and policymakers. The housing crisis also takes center stage, as the White House explores solutions to affordability challenges amid growing political pressure. On the cultural front, the Golden Globes introduces a new category for podcasts, reflecting the medium’s rising influence in entertainment, while Neon, an indie studio, leads nominations with a slate of international films. Additionally, the E.U. and South America finalize a landmark free-trade agreement, contrasting with the U.S.’s more coercive approach to global relations. Human interest stories, such as the revival of *Gourmet Magazine* as an unsanctioned newsletter and the career pivot of a grocery store leader turned financial planner, add depth to the week’s news.
 
 **Top Articles:**
-- [FTSE 100 Buoyed by Miners as Metal Prices Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-14%2Fftse-100-live-gold-silver-prices-metals-pound-trump-fed-oil-what-s-moving-uk-markets-right-now-markets-today-mkdnln3m)
-- [Ireland Is Trying to Get Back on the Data Center Bandwagon](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fireland-wants-to-get-back-ai-data-centers-and-is)
-- [JPMorgan’s Chatterji on M&A Outlook in APAC](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fjpmorgan-s-chatterji-on-m-a-outlook-in-apac-video)
+- [Takaichi, Lee Hold Surprise Drum Session](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Ftakaichi-lee-hold-surprise-drum-session-video)
 - [Chinese Stocks Fall After Exchanges Tighten Margin Requirements](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-raises-margin-financing-ratio-to-100-to-curb-risks)
 - [Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html)
+- [Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html)
+- [’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fshrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 14, 2026 at 08:57 AM *
+*Digest generated on January 14, 2026 at 09:53 AM *
