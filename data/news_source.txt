@@ -1,9 +1,33 @@
 [
   {
-    "title": "FTSE 100 to Extend Record in Broad Stocks Rally",
+    "title": "UniCredit Dismisses Monte Paschi Speculation as ‘Unjustified’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified",
+    "published": "Thu, 15 Jan 2026 07:32:15 CST",
+    "summary": "UniCredit SpA said that recent media reports about its interest in potentially\nbuying a stake in rival Banca Monte dei Paschi di Siena SpA were\n“unjustified.”\n\n"
+  },
+  {
+    "title": "China New Loans Shrink to Least in Seven Years as Demand Weakens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-new-loans-shrink-to-least-in-seven-years-as-demand-weakens",
+    "published": "Thu, 15 Jan 2026 07:13:57 CST",
+    "summary": "Chinese banks extended the smallest amount of new loans since 2018 last year\nwhile credit expansion slowed in December, in a reflection of sluggish demand\nfrom borrowers that’s weighing on growth.\n\n"
+  },
+  {
+    "title": "Philippines to Allow Visa-Free Entry for Chinese Visitors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fphilippines-to-allow-visa-free-entry-for-chinese-visitors",
+    "published": "Thu, 15 Jan 2026 07:09:50 CST",
+    "summary": "The Philippines will allow Chinese nationals to enter without visas for a stay\nof up to 14 days, the Southeast Asian nation’s Department of Foreign Affairs\nsaid Thursday.\n\n"
+  },
+  {
+    "title": "UK Economy Grew More Than Expected in November",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-15%2Fftse-100-live-uk-gdp-oil-silver-gold-prices-pound-bonds-trump-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 15 Jan 2026 06:46:08 CST",
     "summary": "\n\n"
+  },
+  {
+    "title": "Trump Doubles Down on Greenland Ambitions | Insight with Haslinda Amin 01/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Finsight-with-haslinda-amin-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 06:33:15 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas",
@@ -48,10 +72,10 @@
     "summary": "Tony He, CFO of the Chinese biopharmaceutical firm 3SBio, discusses his\noutlook for dealmaking and the progress of a record licensing deal the company\nstruck with Pfizer last year. He speaks on “Bloomberg: The China Show” from\nSan Francisco, where the JPMorgan Healthcare Conference is taking place.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "TSMC Spending, Sales Outlook Beats Estimates in Strong AI Signal",
+    "title": "TSMC’s Strong Outlook Shores Up Hopes of Sustained AI Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength",
     "published": "Thu, 15 Jan 2026 05:34:02 CST",
-    "summary": "Taiwan Semiconductor Manufacturing Co. expects capital spending to surge to as\nmuch as $56 billion in 2026, a stronger-than-anticipated projection that\nsignals its confidence in the longevity of the global AI boom.\n\n"
+    "summary": "Taiwan Semiconductor Manufacturing Co. is earmarking as much as $56 billion in\ncapital spending for 2026, a stronger-than-anticipated projection that signals\nits confidence in the longevity of the global AI boom.\n\n"
   },
   {
     "title": "Bank Indonesia Joins Global Central Banks Backing Fed’s Powell",
@@ -132,28 +156,10 @@
     "summary": "The outage cut off tens of thousands of users and lasted more than six hours.\nThe cause was not immediately clear.\n\n"
   },
   {
-    "title": "BeOne CEO on Business Strategy, Biotech Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbeone-ceo-on-business-strategy-biotech-outlook-video",
-    "published": "Thu, 15 Jan 2026 03:47:18 CST",
-    "summary": "John Oyler, Co-founder, Chairman and CEO at BeOne Medicines, discusses the\ncompany's business strategy and the outlook for the biotech sector. He speaks\nwith Avril Hong and Paul Allen from the sidelines of the JPMorgan Healthcare\nConference in San Francisco. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Korean Won Traders Test Authorities’ Resolve After Bessent Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorean-won-traders-test-authorities-resolve-after-bessent-rally",
     "published": "Thu, 15 Jan 2026 03:46:19 CST",
     "summary": "The South Korean won resumed its decline toward a 17‑year low on Thursday,\ntesting officials’ resolve to stem the slide despite supportive remarks from\nUS Treasury Secretary Scott Bessent.\n\n"
-  },
-  {
-    "title": "Goldman's Kwon: Bullish on Korea Fundamentals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgoldman-s-kwon-bullish-on-korea-fundamentals-video",
-    "published": "Thu, 15 Jan 2026 03:33:43 CST",
-    "summary": "Goldman Sachs Senior Asia Economist Goohoon Kwon breaks down the reasons for\nthe weak Korean won and explains why he is bullish on the strong fundamentals\nin the Korean equity market. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Senate Committee Delays Crypto Market-Structure Markup",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsenate-committee-delays-crypto-market-structure-markup",
-    "published": "Thu, 15 Jan 2026 02:47:26 CST",
-    "summary": "The Senate Banking Committee has delayed its discussion of the much-\nanticipated crypto market-structure bill, hours after exchange Coinbase Global\nInc. pulled its support for the latest version.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
@@ -178,12 +184,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
     "published": "Wed, 14 Jan 2026 23:36:24 CST",
     "summary": "Silver retreated on signs investors took profits following a bilstering rally\nand as the US held off from imposing import tariffs on critical minerals.\n\n"
-  },
-  {
-    "title": "Stephen Ross on Palm Beach Development, Dolphins Offers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstephen-ross-on-palm-beach-development-dolphins-offers-video-mkeneps7",
-    "published": "Wed, 14 Jan 2026 23:24:59 CST",
-    "summary": "Stephen Ross, CEO and Chair of Related Ross, founder of Related Companies and\nowner of the Miami Dolphins, discusses the outlook for business development in\nWest Palm Beach and the future ownership of the Dolphins franchise with\nBloomberg’s Caroline Salas on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
     "title": "Oil Falls After Trump Signals US Response to Iran Is On Hold",
