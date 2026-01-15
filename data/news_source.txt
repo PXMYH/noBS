@@ -1,9 +1,81 @@
 [
   {
+    "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 14:49:00 CST",
+    "summary": "Goldman's revenue dipped 3% in Q4, which the company said was the result of\noff-loading the Apple Card loan portfolio to JPMorgan Chase.\n\n"
+  },
+  {
+    "title": "Earnings Fall Short at Bank of America, Citi, JPMorgan and Wells Fargo",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fbanks-earnings-goldman-sachs-jpmorgan.html",
+    "published": "Thu, 15 Jan 2026 14:43:41 CST",
+    "summary": "This week, Bank of America, Citi, JPMorgan and Wells Fargo released fraught\nearnings reports as President Trump’s threatened cap on credit card rates\nloomed large.\n\n"
+  },
+  {
+    "title": "Morgan Stanley earnings top estimates driven by wealth management",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 14:42:48 CST",
+    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
+  },
+  {
     "title": "Elon Musk’s X Restricts Ability to Create Explicit Images With Grok",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fgrok-ai-images-x.html",
-    "published": "Thu, 15 Jan 2026 13:47:45 CST",
+    "published": "Thu, 15 Jan 2026 14:42:04 CST",
     "summary": "Bowing to pressure, the company said it would restrict X users from generating\nexplicit images of real people in jurisdictions where such content is illegal.\n\n"
+  },
+  {
+    "title": "Top Forecaster Touts Brazil’s Real Ahead of Election Volatility",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftop-forecaster-touts-brazil-s-real-ahead-of-election-volatility",
+    "published": "Thu, 15 Jan 2026 14:30:15 CST",
+    "summary": "Brazil’s real and Chile’s peso should rally in the first half of the year\nbefore a busy election period stokes volatility in Latin America, according to\nthe top foreign-exchange forecaster for the region.\n\n"
+  },
+  {
+    "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
+    "published": "Thu, 15 Jan 2026 14:23:30 CST",
+    "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
+  },
+  {
+    "title": "US Seizes Sixth Oil Tanker in Waters Around Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-seizes-sixth-oil-tanker-in-waters-around-venezuela",
+    "published": "Thu, 15 Jan 2026 14:22:38 CST",
+    "summary": "US forces seized another oil tanker near Venezuela on Thursday morning as\nWashington continues a crackdown on a global shadow fleet used to export\nsanctioned crude, the US Southern Command confirmed in a post on X.\n\n"
+  },
+  {
+    "title": "Ex-Seplat CEO Says He Facilitated Total Nigeria-Permit Purchase",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fex-seplat-ceo-says-he-facilitated-total-nigeria-permit-purchase",
+    "published": "Thu, 15 Jan 2026 14:18:46 CST",
+    "summary": "The former chief executive officer of Nigerian crude producer Seplat Energy\nPlc said he brought together a group of investors buying TotalEnergies SE’s\nstake in the Renaissance JV oil licenses.\n\n"
+  },
+  {
+    "title": "Fed's Goolsbee says inflation could come 'roaring back' if central bank independence goes away",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Ffeds-goolsbee-says-inflation-could-come-roaring-back-if-central-bank-independence-goes-away.html",
+    "published": "Thu, 15 Jan 2026 14:16:30 CST",
+    "summary": "\"Anything that's infringing or attacking the independence of the central bank\nis a mess,\" Goolsbee told CNBC.\n\n"
+  },
+  {
+    "title": "Brightline Taps Reserve Account to Make Payment on Muni Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbrightline-taps-reserve-account-to-make-payment-on-muni-debt",
+    "published": "Thu, 15 Jan 2026 14:15:07 CST",
+    "summary": "Brightline Trains Florida LLC -- the struggling private rail line connecting\nOrlando to Miami -- has dipped into its debt service reserve account to make\nan interest payment.\n\n"
+  },
+  {
+    "title": "Trump imposes 25% tariff on Nvidia AI chips and others, citing national security",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F15%2Ftrump-tariff-nvidia-ai-chips",
+    "published": "Thu, 15 Jan 2026 14:01:38 CST",
+    "summary": "The order follows a nine-month investigation and includes broad exemptions for\ndata centers and consumers\n\nDonald Trump on Wednesday imposed a 25% tariff on certain AI chips, such as\nthe Nvidia H200 AI processor ​and a similar semiconductor from AMD called the\nMI325X, under a new national security order released by the White House.\n\nThe proclamation follows a nine-month investigation under ‌section 232 of the\nTrade Expansion Act of 1962 and targets a number of high-end semiconductors\nmeeting certain performance benchmarks and devices containing them for import\nduties. The action is part of a broader effort to create incentives for\nchipmakers to produce more semiconductors in the US and decrease reliance on\nchip manufacturers in places like Taiwan.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "UK Star Manager Train Survives Investor Vote Over Trust’s Future",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fuk-star-manager-train-survives-investor-vote-over-trust-s-future",
+    "published": "Thu, 15 Jan 2026 14:00:04 CST",
+    "summary": "Shareholders of a century-old fund run by Nick Train have backed the vehicle’s\nstrategy, giving a reprieve to the star British stockpicker whose concentrated\nbets have trailed wider markets.\n\n"
+  },
+  {
+    "title": "US Jobless Claims Unexpectedly Tumble to 198,000",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fus-jobless-claims-unexpectedly-tumble-to-198-000-video",
+    "published": "Thu, 15 Jan 2026 13:53:13 CST",
+    "summary": "Applications for US unemployment benefits decreased by 9,000 to 198,000 in the\nweek ended Jan. 10, the lowest level since November. Michael McKee reports on\nBloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Abu Dhabi’s Adnoc Is Said to Evaluate Investing in Venezuela Gas",
@@ -16,12 +88,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
     "published": "Thu, 15 Jan 2026 13:41:50 CST",
     "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
-  },
-  {
-    "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 13:35:57 CST",
-    "summary": "Trading desks across Wall Street have benefited in the last year as Trump's\npolicies have roiled markets for bonds, currencies, commodities and stocks.\n\n"
   },
   {
     "title": "Coinbase and the Crypto Revolt Against a Crypto Bill",
@@ -60,12 +126,6 @@
     "summary": "Goldman Sachs Group Inc. set an all-time Wall Street record of $4.31 billion\nfor equities-trading revenue in the final three months of last year and the\nbank also raised its dividend to $4.50 per share. Dani Burger reports on\nBloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Morgan Stanley earnings top estimates driven by wealth management",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 13:17:06 CST",
-    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
-  },
-  {
     "title": "Commercial real estate deal-making slows again in November",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmoodys-commercial-real-estate-dealmaking-november.html",
     "published": "Thu, 15 Jan 2026 13:12:45 CST",
@@ -90,16 +150,16 @@
     "summary": "EnBW Energie Baden-Württemberg AG has halted two UK offshore wind projects\nafter failing to secure government support in the latest allocation round,\ntriggering mandatory impairments worth billions of euros.\n\n"
   },
   {
-    "title": "US Asks Allies to Step Up Measures on Chinese Critical Minerals",
+    "title": "US Asks Allies to Step Up Measures on Chinese Minerals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-asks-allies-to-step-up-measures-on-chinese-critical-minerals",
     "published": "Thu, 15 Jan 2026 13:04:42 CST",
-    "summary": "The US will convene dozens of foreign ministers from allied countries next\nmonth to pursue an agreement designed to help the countries reduce their\ndependency on Chinese critical minerals.\n\n"
+    "summary": "The US will convene dozens of foreign ministers from allied countries next\nmonth to pursue an agreement designed to help reduce their dependencies on\nChinese critical minerals.\n\n"
   },
   {
-    "title": "Goldman, Wells Fargo Kick Off Dollar-Bond Sales After Earnings",
+    "title": "Goldman Sachs Is Looking to Issue at Least $12 Billion in Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings",
     "published": "Thu, 15 Jan 2026 13:04:01 CST",
-    "summary": "Goldman Sachs Group Inc. and Wells Fargo & Co. are tapping the US high-grade\nbond market on Thursday, an expected rush of debt offerings from big Wall\nStreet firms after releasing fourth-quarter results.\n\n"
+    "summary": "Goldman Sachs Group Inc. is seeking to raise at least $12 billion from an\ninvestment-grade bond sale Thursday, according to people familiar with the\nmatter, accelerating issuance by Wall Street’s biggest banks after releasing\nfourth-quarter results.\n\n"
   },
   {
     "title": "Liquid Telecom Readies for Refinancing Talks as Maturity Looms",
@@ -144,36 +204,6 @@
     "summary": "Mastercard Inc., Visa Inc. and UK fintech Revolut Ltd. lost a lawsuit with the\nUK regulator over its plans to usher in a cap on cross-border card fees.\n\n"
   },
   {
-    "title": "EU Carbon Extends Gains as Gas Jumps and Nuclear Output Falters",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Feu-carbon-extends-gains-as-gas-jumps-and-nuclear-output-falters",
-    "published": "Thu, 15 Jan 2026 12:39:46 CST",
-    "summary": "European carbon prices extended a week-long gain, with surging natural gas\ncosts, weaker nuclear power supply and forecasts for colder weather expected\nto drive demand for emissions permits.\n\n"
-  },
-  {
-    "title": "Bombardier to Boost Output Capacity in Quebec With New Factory",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbombardier-to-boost-output-capacity-in-quebec-with-new-factory",
-    "published": "Thu, 15 Jan 2026 12:37:15 CST",
-    "summary": "Canadian jet maker Bombardier Inc. will invest C$100 million ($72 million) to\nbuild a new manufacturing center near Montreal to increase its production\ncapacity.\n\n"
-  },
-  {
-    "title": "Mol Nears Deal to Buy Gazprom Stake in Sanctioned Serb Refinery",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmol-nears-deal-to-buy-gazprom-stake-in-sanctioned-serb-refinery",
-    "published": "Thu, 15 Jan 2026 12:28:30 CST",
-    "summary": "Hungarian energy company Mol Nyrt. is closing in on the takeover of Serbia’s\nsole refinery as US sanctions force Russia’s Gazprom Neft PJSC to sell its\nmajority stake.\n\n"
-  },
-  {
-    "title": "Brazil Central Bank Liquidates Reag Trust Amid Crime Probe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbrazil-central-bank-liquidates-reag-trust-amid-crime-probe",
-    "published": "Thu, 15 Jan 2026 12:12:16 CST",
-    "summary": "Brazil’s central bank liquidated CBSF Distribuidora de Titulos e Valores\nMobiliarios SA, the firm previously known as Reag Trust, following months-long\nprobes into the group’s alleged links to organized crime and Banco Master SA.\n\n"
-  },
-  {
-    "title": "Britain Shows Europe How to Keep Offshore Wind Alive",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-15%2Fbritain-shows-europe-how-to-keep-offshore-wind-alive",
-    "published": "Thu, 15 Jan 2026 12:05:54 CST",
-    "summary": "Yesterday’s auction resulted in plans for four huge wind farms, while other\ncountries struggle to attract developer interest.\n\n"
-  },
-  {
     "title": "How a billionaire with interests in Greenland encouraged Trump to acquire the territory",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F15%2Fronald-lauder-billionaire-donor-donald-trump-ukraine-greenland",
     "published": "Thu, 15 Jan 2026 12:00:18 CST",
@@ -186,28 +216,16 @@
     "summary": "Breads Bakery workers demand better pay and conditions and criticize chain for\nsupporting ‘the genocide in Palestine’\n\nWorkers at popular New York City bakery chain Breads Bakery announced a move\nto unionize, claiming it has “underpaid, undervalued, disrespected,\ndiscriminated against, intimidated and hurt” staff, as well as supported “the\ngenocide happening in Palestine”.\n\nThe company, which has ties to Israel, expressed concern that “divisive\npolitical issues” had been introduced into its stores. “We make babka; we\ndon’t engage in politics,” a spokesperson said.\n\nContinue reading...\n\n"
   },
   {
+    "title": "Historic market in Kinshasa ready to reopen to a million shoppers a day after five-year makeover",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development%2F2026%2Fjan%2F15%2Fdr-congo-zando-market-kinshasa-landmark-sustainable-african-design",
+    "published": "Thu, 15 Jan 2026 12:00:17 CST",
+    "summary": "Long criticised as overcrowded and filthy, the city’s Zando marketplace has\nhad an elegant and sustainable redesign\n\nSelling vegetables was Dieudonné Bakarani’s first job. He had a little stall\nat Kinshasa Central Market in the Democratic Republic of the Congo. Decades\nlater, the 57-year-old entrepreneur is redeveloping the historic marketplace\nthat gave him his start in business to be an award-winning city landmark.\n\nBakarani hopes to see the market, known as Zando, flourish again and reopen in\nFebruary after a five-year hiatus. The design has already been recognised\ninternationally; in December, the architects responsible for it won a Holcim\nFoundation award for sustainable design.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "The energy trade that excites VanEck's CEO — and it's not oil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Foil-nuclear-electricity-vaneck-ceo-delivers-energy-plays.html",
     "published": "Thu, 15 Jan 2026 12:00:01 CST",
     "summary": "A major exchange-traded fund manager suggests the oil trade won't provide much\nupside ahead.\n\n"
-  },
-  {
-    "title": "TSMC Makes the Case for Sticking With Tech Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-15%2Ftsmc-makes-the-case-for-sticking-with-tech-stocks",
-    "published": "Thu, 15 Jan 2026 11:44:59 CST",
-    "summary": "Capital spending forecast points to the powerful fundamentals driving AI boom.\n\n"
-  },
-  {
-    "title": "TSMC Spurs Tech Revival; Trump Signals to Hold Off Attack on Iran | Bloomberg Brief 1/15/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbloomberg-brief-1-15-2026-video",
-    "published": "Thu, 15 Jan 2026 11:44:43 CST",
-    "summary": "US equity futures rise as TSMC's upbeat outlook boosts tech stocks. Oil\nextends losses after President Trump signaled he may hold off on attacking\nIran. Silver slides from a record high after the US held off from imposing\nimport tariffs on critical minerals. Morgan Stanley and Goldman Sachs are set\nto wrap up big bank earnings. Monica Defend of Amundi Investment Institute\ndiscusses the Fed's rate path. Saul Martinez of HSBC previews banks' quarterly\nresults. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Ermotti Says UBS Is Assembling List of Potential Successors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fermotti-says-ubs-is-assembling-list-of-potential-successors",
-    "published": "Thu, 15 Jan 2026 11:27:17 CST",
-    "summary": "UBS Group AG Chief Executive Officer Sergio Ermotti said the bank is in the\nprocess of identifying candidates to replace him while reiterating he expects\nto step aside within about a year.\n\n"
   },
   {
     "title": "India Top Court Says Tiger Global Liable for Flipkart Taxes",
@@ -234,10 +252,16 @@
     "summary": "Manufacturing employment has declined every month since April, when the\npresident said tariffs would bring factories “roaring back.”\n\n"
   },
   {
-    "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
-    "published": "Thu, 15 Jan 2026 10:02:43 CST",
-    "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
+    "title": "Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fapple-tech-hardware-stocks-face-crisis-as-memory-prices-soar",
+    "published": "Thu, 15 Jan 2026 10:14:58 CST",
+    "summary": "Soaring prices for memory and storage components have turned companies like\nSandisk Corp., Micron Technology Inc. and Western Digital Corp. into the\nhottest stocks in the market over the past year. But they’re causing headaches\nfor many of their customers.\n\n"
+  },
+  {
+    "title": "UK economy grew by better-than-expected 0.3% in November despite budget uncertainty",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fuk-economy-grew-november-reeves-budget-ons-gdp",
+    "published": "Thu, 15 Jan 2026 10:10:38 CST",
+    "summary": "Jaguar Land Rover’s recovery from cyber-attack appears to have contributed to\nGDP growth\n\n• Growth figures give boost to Reeves – but it’s too early to get carried away  \n• Business live – latest updates\n\nThe UK economy grew by a stronger-than-expected 0.3% in November despite\nuncertainty around Rachel Reeves’s budget, official figures show.\n\nFigures from the Office for National Statistics (ONS) on Thursday showed the\nimprovement, up from a 0.1% fall in October.\n\nContinue reading...\n\n"
   },
   {
     "title": "Leading Prediction Firms Share a Commonality: Donald Trump Jr.",
@@ -262,6 +286,18 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F10%2Fsenior-caregivers-spouse%2F",
     "published": "Thu, 15 Jan 2026 10:00:00 CST",
     "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
+  },
+  {
+    "title": "Cocoa Hits Two-Year Low as Europe Grinds Fewest Beans Since 2013",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Feurope-cocoa-grindings-sink-more-than-expected-as-demand-craters",
+    "published": "Thu, 15 Jan 2026 08:09:05 CST",
+    "summary": "Cocoa futures fell to a two-year low in London after Europe’s cocoa processing\nposted a steeper-than-expected slump, showing the extent of demand destruction\nas the industry reels from the lingering impact of record prices.\n\n"
+  },
+  {
+    "title": "Foreign Enrollment at US Colleges Sinks, First Time in Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fforeign-enrollment-on-us-campuses-drops-for-first-time-in-years",
+    "published": "Thu, 15 Jan 2026 05:01:00 CST",
+    "summary": "Foreign student enrollment at US universities fell by 1.4% this fall, the\nfirst drop in three years after the Trump administration clamped down on\nimmigration and took aim at a bevy of elite schools.\n\n"
   },
   {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
@@ -306,10 +342,10 @@
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Tech Bounces Back as Yields Rise on Jobless Claims: Markets Wrap",
+    "title": "Tech Stocks Power Wall Street Gains After Selloff: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "Technology stocks rebounded on Thursday after Taiwan Semiconductor\nManufacturing Co. revived confidence in the ability of artificial intelligence\nto drive outsized returns. Treasury yields rose.\n\n"
+    "summary": "A rally in tech giants spurred a rebound in stocks as a blowout outlook from\nan artificial-intelligence bellwether rekindled hopes about the longevity of a\nkey bull-market driver. Short-dated bonds fell amid signs of economic\nstrength.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -328,6 +364,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html",
     "published": "Wed, 14 Jan 2026 20:29:32 CST",
     "summary": "Many indicators appear to suggest that the United States is growing despite\ntariffs, not because of them.\n\n"
+  },
+  {
+    "title": "Trump administration halts immigrant visa processing from 75 countries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Fimmigrant-visas-suspended-trump",
+    "published": "Wed, 14 Jan 2026 20:11:52 CST",
+    "summary": "The state department cites welfare use as it pauses visa processing for\nBrazil, Iran, Russia, Somalia and others\n\nThe Donald Trump administration has indefinitely suspended immigrant visa\nprocessing for people from 75 countries, marking one of its most expansive\nefforts yet to restrict legal pathways to the United States.\n\nThe freeze, which takes effect on 21 January, targets applicants officials\ndeem likely to become a “public charge” – who they describe as people who may\nrely on government benefits for basic needs.\n\nContinue reading...\n\n"
   },
   {
     "title": "Saks files for bankruptcy as it struggles to pay debts",
@@ -450,12 +492,6 @@
     "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
   },
   {
-    "title": "Hologic’s $8.75 Billion of Buyout Loans See Strong Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhologic-s-8-5-billion-lbo-loan-costs-tighten-on-strong-demand",
-    "published": "Wed, 14 Jan 2026 14:48:48 CST",
-    "summary": "The $8.75 billion debt financing tied to the buyout of medical-device maker\nHologic Inc. has been widely considered the leveraged loan market’s first big\ntest of the year. The final results sent a clear signal that demand for risky\ndebt is strong.\n\n"
-  },
-  {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
     "published": "Wed, 14 Jan 2026 14:39:42 CST",
@@ -522,12 +558,6 @@
     "summary": "Research shows 1 in 5 families face child care hardships because of the\nexpense, with single mothers most affected.\n\n"
   },
   {
-    "title": "Economic conflicts are world’s greatest risk, WEF survey suggests",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Feconomic-conflicts-are-worlds-greatest-risk-wef-survey-suggests",
-    "published": "Wed, 14 Jan 2026 09:15:20 CST",
-    "summary": "Extreme weather events and biodiversity loss identified as the biggest global\nthreats over a 10-year timeframe\n\nEconomic conflicts between major powers are the greatest risk facing the world\nover the next two years, according to experts polled ahead of next week’s\nDavos summit.\n\nAmong 1,300 business leaders, academics and civil society figures surveyed by\nthe World Economic Forum (WEF), “geoeconomic confrontation” was identified as\nthe most pressing threat.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Netflix ‘plans to switch to all-cash offer to seal $83bn Warner Bros deal’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F14%2Fnetflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
     "published": "Wed, 14 Jan 2026 09:12:22 CST",
@@ -538,6 +568,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 05:40:13 CST",
     "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
+  },
+  {
+    "title": "China reports record trillion-dollar trade surplus despite Trump tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F14%2Fchina-reports-record-trillion-dollar-trade-surplus-despite-trump-tariffs",
+    "published": "Wed, 14 Jan 2026 04:50:56 CST",
+    "summary": "Results for 2025 risk further unsettling economies about China’s trade\npractices and overcapacity, and their own over-reliance on Chinese products\n\nChina has reported a strong export run in 2025 with a record trillion-dollar\nsurplus, as its producers brace for three more years of a Trump administration\nset on slowing the manufacturing powerhouse by shifting US orders to other\nmarkets.\n\nBeijing’s resilience to renewed tariff tensions since Donald Trump returned to\nthe US presidency last January has emboldened Chinese firms to shift their\nfocus to south-east Asia, Africa and Latin America to offset US duties.\n\nContinue reading...\n\n"
   },
   {
     "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
@@ -556,12 +592,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
     "published": "Tue, 13 Jan 2026 23:55:59 CST",
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
-  },
-  {
-    "title": "Trump claims victory on US economy despite many Americans’ cost of living concerns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Ftrump-economy-cost-of-living",
-    "published": "Tue, 13 Jan 2026 23:02:14 CST",
-    "summary": "In speech, president delivers triumph assessment, claiming US prices are down\ndespite official data showing otherwise\n\nDonald Trump claimed victory on the economy after 12 months back in office on\nTuesday, declaring it to be the “greatest first year in history” as many\nAmericans express alarm over the cost of living.\n\nIn a stream-of-consciousness speech at the Detroit Economic Club, the US\npresident delivered his gold-tinted view of how the economy has fared on his\nwatch. Prices were down, he claimed, despite official data showing otherwise,\nand productivity was “smashing expectations”.\n\nContinue reading...\n\n"
   },
   {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
@@ -684,12 +714,6 @@
     "summary": "Overall, prices were 2.7 percent higher than they were a year ago, according\nto the Bureau of Labor Statistics.\n\n"
   },
   {
-    "title": "Global economy holding steady despite threats, thanks to U.S. performance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Fworld-bank-forecast-global-growth%2F",
-    "published": "Tue, 13 Jan 2026 14:30:00 CST",
-    "summary": "But a new World Bank forecast warns of the weakest decade since the 1960s.\n\n"
-  },
-  {
     "title": "Global Central Bankers Rally Around Fed Chair Powell Amid Criminal Investigation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Ftrump-powell-central-bank-support.html",
     "published": "Tue, 13 Jan 2026 13:59:30 CST",
@@ -748,6 +772,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-housing-costs.html",
     "published": "Tue, 13 Jan 2026 10:02:34 CST",
     "summary": "White House officials have explored a vast array of ideas as the president\nlooks to unfurl a housing affordability plan at an economic conference this\nmonth.\n\n"
+  },
+  {
+    "title": "Workers at Chinese factory that produces Labubu toys are being exploited, says NGO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F13%2Fworkers-at-chinese-factory-that-produces-labubu-toys-are-being-exploited-says-ngo",
+    "published": "Tue, 13 Jan 2026 09:55:04 CST",
+    "summary": "Exclusive: China Labor Watch says people aged 16-18 employed without required\nspecial protections\n\nA labour rights NGO says it has found evidence of worker exploitation in the\nsupply chain of Labubus, the furry toys that took the world by storm last year\nand which are expected to continue to grow in popularity in 2026.\n\nLabubus, toothy gremlins made by the Chinese toy company Pop Mart, have become\none of China’s hottest cultural exports. In the first half of 2025 alone, “the\nMonsters” line of toys, which includes Labubus, generated 4.8bn yuan (£511m)\nin sales for the Hong Kong-listed company. In August, Pop Mart’s chief\nexecutive, Wang Ning, said the company was on track to reach 20bn yuan in\nrevenues in 2025.\n\nContinue reading...\n\n"
   },
   {
     "title": "Why China Is Suddenly Obsessed With American Poverty",
@@ -820,12 +850,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fhealth%2Fdavid-mitchell-dead.html",
     "published": "Mon, 12 Jan 2026 20:41:22 CST",
     "summary": "After receiving a diagnosis of terminal cancer, he used his experience in\npublic relations to draw attention to the skyrocketing cost of medication.\n\n"
-  },
-  {
-    "title": "Supreme Court Grapples With Louisiana Coastal Lawsuits Against Oil Companies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fsupreme-court-louisiana-oil.html",
-    "published": "Mon, 12 Jan 2026 18:59:11 CST",
-    "summary": "The justices heard arguments over whether oil companies sued by Louisiana\ncould move the cases from state to federal court, a venue thought to be\nfriendlier to corporate interests.\n\n"
   },
   {
     "title": "Allegiant to buy rival budget airline Sun Country in $1.5 billion cash and stock deal",
@@ -970,30 +994,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F08%2Fbusiness%2Feconomy%2Fus-trade-deficit-tariffs.html",
     "published": "Thu, 08 Jan 2026 16:08:33 CST",
     "summary": "The monthly trade deficit continued to shrink in October after President Trump\nimposed sweeping tariffs on imports, the latest data showed.\n\n"
-  },
-  {
-    "title": "Deep in the vaults: the Bank of England’s £1.4bn Venezuelan gold conundrum",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F06%2Fbank-of-england-venezuelan-gold-nicolas-maduro-us-uk",
-    "published": "Tue, 06 Jan 2026 11:57:03 CST",
-    "summary": "Nicolás Maduro’s seizure by US reopens question of who controls country’s\nreserves held in the UK\n\n  * Trump suggests US taxpayers could reimburse oil firms\n\n  * Business live – latest updates\n\n  * Venezuela live – latest updates\n\nDeep under London’s streets, thousands of miles from Caracas, Nicolás Maduro’s\nseizure by the US has reopened a multibillion-dollar question: who controls\nVenezuela’s gold reserves at the Bank of England?\n\nAfter the ousting of Maduro, global attention has largely focused on the South\nAmerican country’s vast oil wealth – believed to be the largest reserves of\nany nation in the world. However, Venezuela also has significant gold holdings\n– including bullion worth at least $1.95bn (£1.4bn) frozen in Britain.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F04%2Fbusiness-as-usual-boss-bombed-ukrainian-vodka-maker-intent-on-expanding-exports",
-    "published": "Sun, 04 Jan 2026 05:00:03 CST",
-    "summary": "Nemiroff says products still reaching UK chains such as Sainsbury’s and Tesco\ndespite production difficulties\n\nBusinesses in Ukraine are “not sitting and waiting for the war to end” and are\nworking to expand despite bombs hitting shipments out of the country,\naccording to a leading vodka exporter to the UK.\n\nYuriy Sorochynskyi, the chief executive of Ukraine’s largest spirits export\nbrand, Nemiroff vodka, has said its products have continued to flow to big\nchains including Tesco and Sainsbury’s as it copes with the harsh realities of\nalmost four years of war.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F02%2Fuber-avoids-new-uk-taxi-tax-rewriting-driver-contracts",
-    "published": "Fri, 02 Jan 2026 13:08:32 CST",
-    "summary": "Hailing app will now act as agent rather than supplier outside London,\navoiding VAT requirement\n\nUber has swerved paying millions of pounds to the UK exchequer under Rachel\nReeves’s new “taxi tax” after the ride-hailing app rewrote contracts with its\ndrivers.\n\nThe move came as rules announced in November’s budget took effect, which\nadjusted how VAT is payable on minicab fares and would have resulted in the\nwhole Uber fare becoming subject to the 20% sales tax.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "China threatened to cancel key trade talks after UK minister’s Taiwan visit in June",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F02%2Fchina-threatened-to-cancel-key-trade-talks-after-uk-ministers-taiwan-visit-in-june",
-    "published": "Fri, 02 Jan 2026 13:00:10 CST",
-    "summary": "Exclusive: diplomats had to scramble to contain fallout with Beijing after\nDouglas Alexander’s trip to Taipei\n\nChina threatened to cancel high-level trade talks with the UK earlier this\nyear over a government minister’s visit to Taiwan, the Guardian can disclose.\n\nBeijing told the British government it would pull its first trade and economic\ndialogue with the UK in seven years after Douglas Alexander, then a trade\nminister, travelled to Taipei in late June.\n\nContinue reading...\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
