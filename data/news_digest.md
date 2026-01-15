@@ -1,57 +1,57 @@
-# NoBS News Digest - January 14, 2026
+# NoBS News Digest - January 15, 2026
 
-Generated from **206** unique articles (deduplicated from 206 total) across **1** news sources
+Generated from **207** unique articles (deduplicated from 207 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global tensions ease slightly as US President Donald Trump signals a potential pause in military action against Iran, citing assurances that Tehran will halt its crackdown on protesters. The move triggers a drop in oil prices, reversing earlier gains, as markets react to the reduced risk of immediate conflict. Meanwhile, China intensifies diplomatic efforts to secure its financial interests, seeking assurances from both Venezuela and the US over billions in loans amid Venezuela's economic instability. In a separate development, Canada's Prime Minister dispatches former Bank of England Governor Mark Carney to Beijing to repair strained Canada-China relations and explore new trade opportunities, underscoring a shift in diplomatic strategy as US-China relations deteriorate. Elsewhere, Ukraine's resilience shines as businesses, including a major vodka exporter, push to expand exports despite ongoing Russian attacks, while the UK faces diplomatic fallout after China threatens to cancel trade talks following a minister's visit to Taiwan.
+Geopolitical tensions and economic shifts dominate global headlines this week. In a significant diplomatic move, Canadian Prime Minister Mark Carney arrives in Beijing for the first state visit in eight years, aiming to repair strained relations and expand trade ties. China, meanwhile, pressures Canada to lift tariffs while also seeking assurances from Venezuela and the U.S. over billions in loans, highlighting its financial stakes in the region. The visit underscores broader efforts to navigate fraught U.S.-China relations, as Canada seeks alternative markets amid worsening ties with Washington. Elsewhere, Iran faces escalating economic protests that threaten the regime’s stability, with potential international intervention looming. In Ukraine, businesses like vodka producer Nemiroff defy wartime challenges, expanding exports despite ongoing Russian attacks, signaling resilience amid conflict. The week also sees pharmaceutical market shifts, with an impending price war for Ozempic as patents expire, promising cheaper generic alternatives in major markets like China and India.
 
 **Top Articles:**
-- [Oil Falls as Trump Signals US Response in Iran on Hold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Flatest-oil-market-news-and-analysis-for-jan-14)
+- [An Ozempic Price War Is Coming](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fan-ozempic-price-war-is-coming-video)
+- [How Iran’s Economic Protests Started &mdash; And How They Could End](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhow-iran-s-economic-protests-started-and-how-they-could-end)
 - [China Looks for Assurances Over Billions in Loans to Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-looks-for-assurances-over-billions-in-loans-to-venezuela)
-- [Crude Falls After Trump’s Latest Comments on Iran Protests](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcrude-falls-after-trump-s-latest-comments-on-iran-protests)
 - [Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html)
-- [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
+- [Canada’s Carney Lands in Beijing as China Urges Removing Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcanada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs)
 
-**Sources**: archive.ph (7 articles)
+**Sources**: archive.ph (8 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets show mixed signals as Asian shares face a weaker open following Wall Street's tech-driven selloff, with investors rotating out of high-valued tech stocks. The S&P 500 posts its first back-to-back loss of 2026 after PPI data reinforces steady inflation at 2.7%, keeping Fed rate expectations unchanged. Meanwhile, Treasury yields slide as investors seek havens, while metals like gold, silver, and copper surge to record highs amid strong commodity demand. Corporate earnings reveal resilience, with Citigroup and Bank of America beating estimates, though Citi warns of further job cuts. In contrast, Saks Global files for bankruptcy, highlighting ongoing retail sector struggles, while Netflix reportedly shifts to an all-cash offer to accelerate its $83 billion Warner Bros. Discovery deal. Economic policy remains a flashpoint, with President Trump's proposed 10% credit card rate cap drawing bank opposition and Republican pushback on his Fed nominees. Geopolitical risks, including trade conflicts and AI disruptions, dominate the World Economic Forum's latest survey, underscoring global economic tensions.
+Global markets face mixed signals as economic and geopolitical tensions shape early 2026 trends. U.S. stocks slide amid tech sector weakness, though banks report strong lending activity, with Citigroup and Bank of America beating earnings estimates. Meanwhile, commodity markets react to policy shifts, as crude oil dips after President Trump signals a pause on Iran-related actions, while silver falls following his delay on critical minerals tariffs. The yen remains under pressure, with hedge funds betting on further declines despite potential Japanese intervention. Corporate struggles dominate headlines, as luxury retailer Saks Global files for bankruptcy after missing debt payments, while Netflix reportedly prepares an all-cash bid for Warner Bros. Discovery to fend off rival Paramount. Central banks remain in focus, with Fed Chair Jerome Powell facing political pressure and global peers rallying in support, even as inflation holds steady at 2.7% in December. Economic risks loom large, with the World Economic Forum highlighting geoeconomic conflicts and AI disruptions as top concerns, while U.S. refiners stand to gain from Trump’s control over Venezuelan oil supplies.
 
 **Top Articles:**
-- [Goldman's Olson: See Private Credit Flows Slowing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fgoldman-s-olson-see-private-credit-flows-slowing-video)
+- [Verizon Outage Cuts Off Tens of Thousands of Users](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html)
+- [Hedge Funds Are Betting Yen May Slide to 165 Before Intervention](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-are-betting-yen-may-slide-to-165-before-intervention)
+- [Stocks Slide as Tech Slips, Banks Report Strong Lending | The Close 1/14/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-close-1-14-2026-video)
+- [KKR Asia Credit Fund Draws 75% New Investors as Decoupling Rises](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkkr-asia-credit-fund-draws-75-new-investors-as-decoupling-rises)
 - [Why Banks Are So Worried About a 10% Credit Card Rate Cap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html)
-- [Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html)
-- [Wells Fargo CFO: Don't See Credit Trends Deteriorating](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fwells-fargo-cfo-don-t-see-credit-trends-deteriorating-video)
-- [Flipping Japan IPOs Loses Luster as Small Share Sales Disappear](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fflipping-japan-ipos-loses-luster-as-small-share-sales-disappear)
 
-**Sources**: archive.ph (97 articles)
+**Sources**: archive.ph (93 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by high-stakes financial moves, regulatory shifts, and evolving market trends. Major developments include potential mega-IPOs from SpaceX, OpenAI, and Anthropic, which could inject billions into Silicon Valley and Wall Street. Meanwhile, the Trump administration imposes limited tariffs on foreign semiconductors, targeting Nvidia’s sales to China, while also nearing a trade deal with Taiwan that includes commitments from TSMC to expand U.S. manufacturing. In corporate news, Boeing outsells Airbus for the first time since 2018, while GM and Ford face significant charges due to EV market slowdowns. The AI boom continues to drive market volatility, with U.S. stocks experiencing a broad rout amid competition from China’s DeepSeek. Additionally, labor and immigration policies under the Trump administration spark controversy, with net migration falling below zero for the first time in 50 years and union leaders criticizing rhetoric reminiscent of white supremacy.
+The tech and business landscape in early 2026 is marked by a mix of regulatory shifts, corporate strategy adjustments, and emerging market trends. President Trump's administration imposes limited tariffs on foreign semiconductors, targeting Nvidia's sales to China while delaying broader industry taxes, reflecting ongoing tensions in global trade. Meanwhile, the AI boom faces a reality check as a major U.S. power grid operator scales back demand forecasts, tempering expectations around the sector's rapid growth. Corporate earnings reveal mixed results: Boeing outperforms Airbus in deliveries for the first time since 2018, while GM and Ford grapple with significant charges tied to EV market slowdowns. In financial markets, hedge funds ramp up hiring in Japan amid a market rebound, and BlackRock highlights growing adoption of private market investments. Regulatory developments include potential crypto legislation and debates over private sector involvement in cyberwarfare, signaling evolving government-tech dynamics.
 
 **Top Articles:**
-- [Stephen Ross on Palm Beach Development, Dolphins Offers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstephen-ross-on-palm-beach-development-dolphins-offers-video-mkeneps7)
 - [Trump Imposes Limited Tariffs on Foreign Semiconductors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Ftrump-chips-tariffs.html)
-- [BlackRock's Magyera: Private Market Adoption on the Rise](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fblackrock-s-magyera-private-market-adoption-on-the-rise-video)
-- [Kaiser Permanente Agrees to Pay $556 Million to Settle Medicare Overbilling Claims](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fhealth%2Fmedicare-advantage-kaiser-overbilling-fraud.html)
-- [Stocks Slide as Banks Weigh, Tech Weakness Persists | Closing Bell](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstocks-slide-as-banks-weigh-closing-bell-video)
+- [Hedge Funds Revive Dispute Over Argentina GDP-Linked Securities](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-revive-dispute-over-argentina-gdp-linked-securities)
+- [Muji Operator Soars on Earnings Beat, Global Sales Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmuji-operator-soars-on-earnings-beat-global-sales-surge)
+- [Hedge Funds Hire Talent Scouts in Japan to Tap Market Comeback](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-hire-talent-scouts-in-japan-to-tap-market-comeback)
+- [Fmr. Denmark Amb.: Greenlanders are Great Friends of US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-denmark-amb-greenlanders-are-great-friends-of-us-video)
 
-**Sources**: archive.ph (68 articles)
+**Sources**: archive.ph (70 articles)
 
 ---
 
 ## ⚽ Sports
 
-Aldi is accelerating its expansion in the U.S. grocery market, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discount retailers. The German-owned chain’s aggressive growth underscores rising competition in the grocery sector, where discounters are gaining market share by attracting shoppers across income levels. Aldi’s strategy reflects broader economic trends, with inflation and cost-of-living pressures driving more consumers to prioritize value without sacrificing quality. The expansion also signals a shift in shopping habits, as discounters like Aldi capture a larger portion of weekly grocery spending, challenging traditional supermarkets. Analysts note that Aldi’s efficient, no-frills model and private-label offerings continue to resonate with cost-sensitive customers, further solidifying its position in the competitive retail landscape.
+Aldi is accelerating its expansion in the U.S. grocery market, announcing plans to open more than 180 new stores in 2026. The discount retailer's aggressive growth strategy underscores its increasing appeal to budget-conscious consumers across income levels, intensifying competition with traditional supermarkets. As inflation and economic uncertainty persist, Aldi's focus on affordability and efficiency continues to attract shoppers, further solidifying its position in the retail sector. The move reflects broader trends in consumer behavior, with more households prioritizing value without sacrificing quality.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Aldi is accelerating its expansion in the U.S. grocery market, announcing plans 
 
 ## 📰 Other News
 
-This week’s news highlights economic pressures and policy shifts shaping daily life, from housing affordability to rising costs. The Trump administration faces scrutiny as its housing policies clash with market realities—Fannie Mae and Freddie Mac pull back from low-income homebuyer support, while the president explores aggressive measures to lower prices amid inflation. Meanwhile, the CPI report reveals sharp spikes in food costs, and families grapple with childcare expenses, with single mothers hit hardest. Overseas, emerging-market currencies like the Korean won and Brazilian real fluctuate amid U.S. policy moves, while the E.U. and South America finalize a landmark free-trade deal, contrasting with America’s more coercive economic approach. Cultural and social trends also emerge: a defunct food magazine resurfaces as an unsanctioned newsletter, and psilocybin therapy gains legal ground in three states, though access remains limited. Corporate maneuvering dominates media and aviation, with Netflix refining its Warner Bros. Discovery bid and Allegiant acquiring Sun Country in a $1.5 billion deal. Human interest stories, like the late activist David Mitchell’s fight against drug prices, add depth to the week’s developments.
+Global economic and market trends dominate this week’s news, with iron ore prices defying weak Chinese demand as mining giants BHP and Rio Tinto announce a major joint venture in Australia’s Pilbara region to boost production. Meanwhile, oil prices dip after President Trump signals a pause on potential military action against Iran, easing geopolitical tensions. In corporate moves, Netflix prepares to adjust its offer for Warner Bros. Discovery’s streaming assets, while Paramount escalates its bid with threats of a board fight. On the domestic front, housing affordability remains a pressing issue, with Trump’s administration grappling with rising costs and conflicting policies, as Fannie Mae and Freddie Mac pull back from low-income homebuyer support. The CPI report reveals sharp increases in food prices, adding to inflation concerns, while states raise minimum wages to $15 or higher, reflecting ongoing economic strain for workers. Culturally, the revival of *Gourmet* magazine as an unsanctioned newsletter highlights shifting media landscapes, and the EU’s landmark free-trade deal with South America underscores a push for global cooperation amid U.S. protectionism.
 
 **Top Articles:**
+- [Iron Ore’s Strength Hard to Reconcile With Soft Chinese Demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Firon-ore-s-strength-hard-to-reconcile-with-soft-chinese-demand)
+- [BHP, Rio Tinto Are Joining Forces to Boost Iron Ore Pipeline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbhp-and-rio-tinto-to-collaborate-on-iron-ore-project-in-pilbara)
+- [Oil Falls After Trump Signals US Response to Iran Is On Hold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15)
 - [Where Did All the American-Born Roofers Go?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html)
 - [These Gyms’ Most Intimidating Machine: The Front Door](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html)
-- [As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html)
-- [Netflix likely to adjust Warner Bros. Discovery offer to make it all-cash](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fnetflix-warner-bros-discovery-deal-all-cash.html)
-- [Bessent Gives Verbal Support to Korean Won, Sparking Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbessent-flags-won-s-weakness-as-excessive-offering-rare-support)
 
-**Sources**: archive.ph (33 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 14, 2026 at 11:40 PM *
+*Digest generated on January 15, 2026 at 02:33 AM *
