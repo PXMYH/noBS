@@ -1,9 +1,123 @@
 [
   {
+    "title": "How the Buffett family plans to give away more than $150 billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html",
+    "published": "Thu, 15 Jan 2026 15:51:54 CST",
+    "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
+  },
+  {
+    "title": "How Saks' acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fsaks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
+    "published": "Thu, 15 Jan 2026 15:50:07 CST",
+    "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus, but didn't have\nenough money left over to pay vendors, which led the company to declare\nbankruptcy.\n\n"
+  },
+  {
+    "title": "Amazon threatens ‘drastic action’ after Saks bankruptcy, says $475M stake is now worthless",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
+    "published": "Thu, 15 Jan 2026 15:49:58 CST",
+    "summary": "Amazon invested $475 million into Saks's acquisition of Neiman Marcus. It\nwants a federal judge to reject Saks's bankruptcy plan because it harms\ncreditors.\n\n"
+  },
+  {
+    "title": "Morgan Stanley earnings top estimates driven by wealth management",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 15:48:34 CST",
+    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
+  },
+  {
+    "title": "CNBC Sport: NBCUniversal strategically leans into sports as it prepares for 'Legendary February'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fnbcuniversal-leans-into-sports.html",
+    "published": "Thu, 15 Jan 2026 15:36:30 CST",
+    "summary": "NBCUniversal's calling card used to be \"Must See TV,\" but the modern media\nworld has pushed the company in a new direction, led by live sports.\n\n"
+  },
+  {
+    "title": "Carlyle's Clifford Talks F1 Deal, Growth of Wealth Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fcarlyle-s-clifford-talks-f1-deal-wealth-business-growth-video",
+    "published": "Thu, 15 Jan 2026 15:35:03 CST",
+    "summary": "Shane Clifford, Carlyle's global wealth head, discusses the company's multi-\nyear global partnership with Oracle Red Bull Racing, the state of the wealth\nbusiness and private markets with Matt Miller at the Detroit Auto Show.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Greensill Bank Sues UK Over Wrongful Loan Guarantee Termination",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgreensill-bank-sues-uk-over-wrongful-loan-guarantee-termination",
+    "published": "Thu, 15 Jan 2026 15:33:19 CST",
+    "summary": "Germany’s defunct Greensill Bank AG is seeking about £330 million ($441\nmillion) from the UK, accusing it of wrongly canceling Covid-era loan\nguarantees it agreed with Australian financier Lex Greensill’s trade finance\narm.\n\n"
+  },
+  {
+    "title": "Trump Media ETFs Test Brand Power in Crowded $14 Trillion Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-media-etfs-test-brand-power-in-crowded-14-trillion-market",
+    "published": "Thu, 15 Jan 2026 15:32:25 CST",
+    "summary": "Donald Trump’s social-media empire is muscling into Wall Street, entering the\n$14 trillion US ETF market with five new “Made in America” funds spanning\nindustries from energy to defense.\n\n"
+  },
+  {
+    "title": "State Street Is Joining Crypto Rush With Digital-Asset Rollout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstate-street-is-joining-crypto-rush-with-digital-asset-rollout",
+    "published": "Thu, 15 Jan 2026 15:30:24 CST",
+    "summary": "State Street Corp. is rolling out a suite of tokenized products as the firm\npushes to grow in the increasingly popular asset class.\n\n"
+  },
+  {
+    "title": "White House Always Answers the Phone, Ford CEO Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fwhite-house-always-answers-the-phone-ford-ceo-says-video",
+    "published": "Thu, 15 Jan 2026 15:29:29 CST",
+    "summary": "Ford Motor Co. Chief Executive Officer Jim Farley says the Trump\nadministration will \"always answer the phone\" and has been great to work with,\nbut he says there is still a long list of issues to work through. He speaks to\nBloomberg's Matt Miller. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Brazilian Tycoon Steinbruch to Sell CSN Assets to Slash Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbrazilian-tycoon-steinbruch-to-sell-csn-assets-to-slash-debt",
+    "published": "Thu, 15 Jan 2026 15:19:58 CST",
+    "summary": "Brazilian conglomerate CSN plans to divest key assets to reduce its heavy debt\nburden as high interest rates squeeze financing and weigh on investment.\n\n"
+  },
+  {
+    "title": "Gap Goes Hollywood With New Chief Entertainment Officer",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgap-goes-hollywood-with-new-chief-entertainment-officer",
+    "published": "Thu, 15 Jan 2026 15:17:13 CST",
+    "summary": "Gap Inc. tapped former Paramount executive Pam Kaufman to be its first chief\nentertainment officer, a sign the company is looking to grow its media\npresence.\n\n"
+  },
+  {
+    "title": "TSX Clears 33,000 For First Time as Tech Names Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsx-clears-33-000-for-first-time-as-tech-names-rise",
+    "published": "Thu, 15 Jan 2026 15:13:42 CST",
+    "summary": "Canadian stocks surpassed 33,000 to reach a record high as tech and\nindustrials names rose. The S&P/TSX Composite Index moved 0.3% higher on\nThursday to hit 33,014.\n\n"
+  },
+  {
+    "title": "US Stocks Rally as TSMC Earnings Renew Faith in AI Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-stocks-rally-as-tsmc-earnings-renew-faith-in-ai-trade",
+    "published": "Thu, 15 Jan 2026 15:02:18 CST",
+    "summary": "US stocks rallied on Thursday as traders piled into technology stocks on\nrenewed optimism around artificial intelligence.\n\n"
+  },
+  {
+    "title": "Paramount Loses Bid to Get Warner Bros. Suit on Fast Track",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fparamount-loses-bid-to-get-warner-bros-suit-put-on-fast-track",
+    "published": "Thu, 15 Jan 2026 15:01:16 CST",
+    "summary": "A judge refused to fast track Paramount Skydance Corp.’s lawsuit accusing\ndirectors of Warner Bros. Discovery Inc. of misleading investors about a more\nthan $82.7 billion buyout bid from Netflix Inc.\n\n"
+  },
+  {
+    "title": "Billionaire Rams owner Stan Kroenke becomes America's biggest private landowner",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstan-kroenke-largest-private-us-landowner.html",
+    "published": "Thu, 15 Jan 2026 15:00:58 CST",
+    "summary": "Kroenke represents a growing wave of ultra-wealthy entrepreneurs investing in\nlong-held ranches and farmland.\n\n"
+  },
+  {
+    "title": "Treasury Yields Rise After Jobless Tally Sows Rate-Cut Doubt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftreasury-yields-rise-after-jobless-tally-sows-rate-cut-doubt",
+    "published": "Thu, 15 Jan 2026 14:55:01 CST",
+    "summary": "Short-term Treasury yields rose after a sign of labor-market strength slightly\neroded expectations for Federal Reserve interest-rate cuts this year.\n\n"
+  },
+  {
+    "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
+    "published": "Thu, 15 Jan 2026 14:53:55 CST",
+    "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
+  },
+  {
     "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 14:49:00 CST",
+    "published": "Thu, 15 Jan 2026 14:49:46 CST",
     "summary": "Goldman's revenue dipped 3% in Q4, which the company said was the result of\noff-loading the Apple Card loan portfolio to JPMorgan Chase.\n\n"
+  },
+  {
+    "title": "Coinbase and the Crypto Revolt Against a Crypto Bill",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fdealbook%2Fcrypto-bill-coinbase.html",
+    "published": "Thu, 15 Jan 2026 14:48:24 CST",
+    "summary": "Legislation to establish a regulatory framework for digital tokens has been\nthrown into turmoil — by one of its biggest champions.\n\n"
   },
   {
     "title": "Earnings Fall Short at Bank of America, Citi, JPMorgan and Wells Fargo",
@@ -12,16 +126,16 @@
     "summary": "This week, Bank of America, Citi, JPMorgan and Wells Fargo released fraught\nearnings reports as President Trump’s threatened cap on credit card rates\nloomed large.\n\n"
   },
   {
-    "title": "Morgan Stanley earnings top estimates driven by wealth management",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 14:42:48 CST",
-    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
-  },
-  {
     "title": "Elon Musk’s X Restricts Ability to Create Explicit Images With Grok",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fgrok-ai-images-x.html",
     "published": "Thu, 15 Jan 2026 14:42:04 CST",
     "summary": "Bowing to pressure, the company said it would restrict X users from generating\nexplicit images of real people in jurisdictions where such content is illegal.\n\n"
+  },
+  {
+    "title": "Oil Producers Need Guarantees to Work in Venezuela, Trump Ally Hamm Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-producers-need-guarantees-to-work-in-venezuela-trump-ally-hamm-says",
+    "published": "Thu, 15 Jan 2026 14:37:52 CST",
+    "summary": "Shale billionaire Harold Hamm said oil companies need guarantees their assets\nwon’t someday be seized by Venezuela if they help revive the nation’s crude\nproduction.\n\n"
   },
   {
     "title": "Top Forecaster Touts Brazil’s Real Ahead of Election Volatility",
@@ -63,7 +177,7 @@
     "title": "Trump imposes 25% tariff on Nvidia AI chips and others, citing national security",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F15%2Ftrump-tariff-nvidia-ai-chips",
     "published": "Thu, 15 Jan 2026 14:01:38 CST",
-    "summary": "The order follows a nine-month investigation and includes broad exemptions for\ndata centers and consumers\n\nDonald Trump on Wednesday imposed a 25% tariff on certain AI chips, such as\nthe Nvidia H200 AI processor ​and a similar semiconductor from AMD called the\nMI325X, under a new national security order released by the White House.\n\nThe proclamation follows a nine-month investigation under ‌section 232 of the\nTrade Expansion Act of 1962 and targets a number of high-end semiconductors\nmeeting certain performance benchmarks and devices containing them for import\nduties. The action is part of a broader effort to create incentives for\nchipmakers to produce more semiconductors in the US and decrease reliance on\nchip manufacturers in places like Taiwan.\n\nContinue reading...\n\n"
+    "summary": "The order follows a nine-month investigation and includes broad exemptions for\ndatacenters and consumers\n\nDonald Trump on Wednesday imposed a 25% tariff on certain AI chips, such as\nthe Nvidia H200 AI processor ​and a similar semiconductor from AMD called the\nMI325X, under a new national security order released by the White House.\n\nThe proclamation follows a nine-month investigation under ‌section 232 of the\nTrade Expansion Act of 1962 and targets a number of high-end semiconductors\nmeeting certain performance benchmarks and devices containing them for import\nduties. The action is part of a broader effort to create incentives for\nchipmakers to produce more semiconductors in the US and decrease reliance on\nchip manufacturers in places such as Taiwan.\n\nContinue reading...\n\n"
   },
   {
     "title": "UK Star Manager Train Survives Investor Vote Over Trust’s Future",
@@ -78,52 +192,10 @@
     "summary": "Applications for US unemployment benefits decreased by 9,000 to 198,000 in the\nweek ended Jan. 10, the lowest level since November. Michael McKee reports on\nBloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Abu Dhabi’s Adnoc Is Said to Evaluate Investing in Venezuela Gas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fabu-dhabi-s-adnoc-is-said-to-evaluate-investing-in-venezuela-gas",
-    "published": "Thu, 15 Jan 2026 13:43:36 CST",
-    "summary": "The United Arab Emirates’s state oil giant is evaluating options for a\npotential entry into Venezuela’s energy industry as the Middle Eastern country\nseeks to build out its international natural gas business, according to people\nwith knowledge of the situation.\n\n"
-  },
-  {
     "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Ftrump-credit-card-cap-banks-fend-off-controls.html",
     "published": "Thu, 15 Jan 2026 13:41:50 CST",
     "summary": "Five days after Trump's demand to cap credit card rates, bankers and lobbyists\ntold CNBC they have yet to receive any formal or written guidance on the\npolicy.\n\n"
-  },
-  {
-    "title": "Coinbase and the Crypto Revolt Against a Crypto Bill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fdealbook%2Fcrypto-bill-coinbase.html",
-    "published": "Thu, 15 Jan 2026 13:31:37 CST",
-    "summary": "Legislation to establish a regulatory framework for digital tokens has been\nthrown into turmoil — by one of its biggest champions.\n\n"
-  },
-  {
-    "title": "How Saks's acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fsaks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
-    "published": "Thu, 15 Jan 2026 13:30:44 CST",
-    "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus, but didn't have\nenough money left over to pay vendors, which led the company to declare\nbankruptcy.\n\n"
-  },
-  {
-    "title": "CFA Level II Pass Rate Drops Again, Hitting Lowest Level Since 2022",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcfa-level-ii-pass-rate-drops-again-hitting-lowest-level-since-2022",
-    "published": "Thu, 15 Jan 2026 13:30:00 CST",
-    "summary": "The pass rate for the second level of the chartered financial analyst test\nfell to the lowest since 2022 as candidates who stayed on schedule continued\nto outperform peers who put off the exam.\n\n"
-  },
-  {
-    "title": "New York Factory Activity Expands While Inflation Gauges Cool",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fnew-york-factory-activity-expands-while-inflation-gauges-cool",
-    "published": "Thu, 15 Jan 2026 13:30:00 CST",
-    "summary": "New York state factory activity expanded in January, while a gauge of prices\nreceived dropped to an almost one-year low.\n\n"
-  },
-  {
-    "title": "Morgan Stanley Beats 4Q Investment-Banking Forecast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fmorgan-stanley-beats-4q-investment-banking-forecast-video",
-    "published": "Thu, 15 Jan 2026 13:29:04 CST",
-    "summary": "Morgan Stanley’s debt bankers increased revenue 93% in the fourth quarter,\ncapping a record year for that business. Dani Burger reports on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman Sachs Equity Traders Set Wall Street Revenue Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgoldman-sachs-equity-traders-set-revenue-record-video",
-    "published": "Thu, 15 Jan 2026 13:18:23 CST",
-    "summary": "Goldman Sachs Group Inc. set an all-time Wall Street record of $4.31 billion\nfor equities-trading revenue in the final three months of last year and the\nbank also raised its dividend to $4.50 per share. Dani Burger reports on\nBloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Commercial real estate deal-making slows again in November",
@@ -132,70 +204,22 @@
     "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
   },
   {
-    "title": "BlackRock, Microsoft AI Partnership Raises $12.5 Billion So Far",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fblackrock-microsoft-ai-partnership-raises-12-5-billion-so-far",
-    "published": "Thu, 15 Jan 2026 13:08:22 CST",
-    "summary": "BlackRock Inc. has raised $12.5 billion as part of a partnership with\nMicrosoft Corp. to bankroll data centers and energy infrastructure, advancing\nits efforts to cash in on the artificial intelligence boom.\n\n"
-  },
-  {
-    "title": "South Africa Closes Kruger Park as Deadly Floods Kill Dozens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsouth-africa-closes-kruger-park-as-deadly-floods-kill-dozens",
-    "published": "Thu, 15 Jan 2026 13:08:14 CST",
-    "summary": "Deadly floods prompted South Africa’s iconic Kruger National Park to shut to\nfurther visitors, after extreme rainfall killed dozens in the northeast of the\ncountry and neighboring Mozambique.\n\n"
-  },
-  {
-    "title": "EnBW Scraps Two Offshore Wind Projects After Missing UK Support",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fenbw-scraps-two-offshore-wind-projects-after-missing-uk-support",
-    "published": "Thu, 15 Jan 2026 13:05:35 CST",
-    "summary": "EnBW Energie Baden-Württemberg AG has halted two UK offshore wind projects\nafter failing to secure government support in the latest allocation round,\ntriggering mandatory impairments worth billions of euros.\n\n"
-  },
-  {
     "title": "US Asks Allies to Step Up Measures on Chinese Minerals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-asks-allies-to-step-up-measures-on-chinese-critical-minerals",
     "published": "Thu, 15 Jan 2026 13:04:42 CST",
     "summary": "The US will convene dozens of foreign ministers from allied countries next\nmonth to pursue an agreement designed to help reduce their dependencies on\nChinese critical minerals.\n\n"
   },
   {
-    "title": "Goldman Sachs Is Looking to Issue at Least $12 Billion in Bonds",
+    "title": "Goldman Sachs Looking to Sell at Least $12 Billion in Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings",
     "published": "Thu, 15 Jan 2026 13:04:01 CST",
-    "summary": "Goldman Sachs Group Inc. is seeking to raise at least $12 billion from an\ninvestment-grade bond sale Thursday, according to people familiar with the\nmatter, accelerating issuance by Wall Street’s biggest banks after releasing\nfourth-quarter results.\n\n"
-  },
-  {
-    "title": "Liquid Telecom Readies for Refinancing Talks as Maturity Looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fliquid-telecom-readies-for-refinancing-talks-as-maturity-looms",
-    "published": "Thu, 15 Jan 2026 13:03:16 CST",
-    "summary": "Pan-African fiber company Liquid Telecommunications is moving closer to\nrefinancing talks as a $620 million bond maturity looms in September,\naccording to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Emerging Stocks Steady as TSMC Plans Whet Investor Appetite",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Femerging-stocks-steady-as-tsmc-plans-whet-investor-appetite",
-    "published": "Thu, 15 Jan 2026 13:03:07 CST",
-    "summary": "Emerging-market stocks were little changed as ambitious spending plans by\nTaiwan Semiconductor Manufacturing Co, the world’s largest chip-maker, lifted\nsentiment for AI-linked shares across the world.\n\n"
+    "summary": "Goldman Sachs Group Inc. is seeking to raise at least $12 billion from an\ninvestment-grade bond sale, accelerating issuance by Wall Street’s biggest\nbanks after releasing fourth-quarter results.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Taiwan Semiconductor, ASML, BlackRock and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstocks-making-the-biggest-moves-premarket-tsm-asml-blk.html",
     "published": "Thu, 15 Jan 2026 13:01:19 CST",
     "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
-  },
-  {
-    "title": "Insight Partners Hires VC Veteran Malayery for Secondaries Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Finsight-partners-hires-vc-veteran-malayery-for-secondaries-push",
-    "published": "Thu, 15 Jan 2026 13:00:00 CST",
-    "summary": "Tech-focused private-asset firm Insight Partners is breaking into secondaries,\nbringing on an executive from a rival to lead its first strategy dedicated to\nbacking continuation funds and snapping up secondhand stakes.\n\n"
-  },
-  {
-    "title": "BofA Says European Real Estate Has Biggest Upside in Decades",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbofa-says-european-real-estate-has-biggest-upside-in-decades",
-    "published": "Thu, 15 Jan 2026 12:57:22 CST",
-    "summary": "European real estate stocks are poised for their best returns in decades,\naccording to Bank of America analysts, who foresee a boost from steadier\ninterest rates and valuations below historical levels.\n\n"
-  },
-  {
-    "title": "China Opposes Use of Force in Iran Call as Trump Stirs Unease",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-opposes-use-of-force-in-iran-call-as-trump-stirs-unease",
-    "published": "Thu, 15 Jan 2026 12:56:18 CST",
-    "summary": "China’s top diplomat told his Iranian counterpart that Beijing opposes the use\nof force in international relations, following US threats of an attack after\nTehran’s violent crackdown against protesters.\n\n"
   },
   {
     "title": "Mastercard, Visa, Revolut Lose London Suit Over Card Fee Cap",
@@ -228,12 +252,6 @@
     "summary": "A major exchange-traded fund manager suggests the oil trade won't provide much\nupside ahead.\n\n"
   },
   {
-    "title": "India Top Court Says Tiger Global Liable for Flipkart Taxes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-top-court-says-tiger-global-liable-to-pay-flipkart-taxes",
-    "published": "Thu, 15 Jan 2026 11:03:57 CST",
-    "summary": "India’s Supreme Court has held that Tiger Global’s capital gains arising from\nits 2018 stake sale in Flipkart to Walmart Inc. are taxable under domestic law\nin a setback for the US investment firm.\n\n"
-  },
-  {
     "title": "BlackRock Total Assets Hit Record $14 Trillion as ETFs Surge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fblackrock-total-assets-hit-record-14-trillion-as-etfs-surge",
     "published": "Thu, 15 Jan 2026 11:01:42 CST",
@@ -250,6 +268,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Ftrump-manufacturing-jobs-tariffs%2F",
     "published": "Thu, 15 Jan 2026 11:00:00 CST",
     "summary": "Manufacturing employment has declined every month since April, when the\npresident said tariffs would bring factories “roaring back.”\n\n"
+  },
+  {
+    "title": "Stock Market’s Calm Belies Extreme Swings in Individual Shares",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstock-market-s-calm-belies-extreme-swings-in-individual-shares",
+    "published": "Thu, 15 Jan 2026 10:30:00 CST",
+    "summary": "The sense of calm that has pervaded the US stock market for months is masking\nunprecedented bursts of volatility in individual shares, say Barclays Plc\nstrategists.\n\n"
   },
   {
     "title": "Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar",
@@ -294,6 +318,12 @@
     "summary": "Cocoa futures fell to a two-year low in London after Europe’s cocoa processing\nposted a steeper-than-expected slump, showing the extent of demand destruction\nas the industry reels from the lingering impact of record prices.\n\n"
   },
   {
+    "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength",
+    "published": "Thu, 15 Jan 2026 05:34:02 CST",
+    "summary": "Taiwan Semiconductor Manufacturing Co. is earmarking as much as $56 billion in\ncapital spending for 2026, a stronger-than-anticipated projection that signals\nits confidence in the longevity of the global AI boom.\n\n"
+  },
+  {
     "title": "Foreign Enrollment at US Colleges Sinks, First Time in Years",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fforeign-enrollment-on-us-campuses-drops-for-first-time-in-years",
     "published": "Thu, 15 Jan 2026 05:01:00 CST",
@@ -312,16 +342,10 @@
     "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to\nChina while putting off a decision about imposing higher taxes on the chip\nindustry.\n\n"
   },
   {
-    "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
-    "published": "Wed, 14 Jan 2026 23:39:59 CST",
-    "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
-  },
-  {
-    "title": "Silver Falls After Trump Holds Off on Critical Mineral Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
-    "published": "Wed, 14 Jan 2026 23:36:24 CST",
-    "summary": "Silver pulled back from a record high as investors took profits after a\nblistering rally and as the US refrained from imposing import tariffs on\ncritical minerals.\n\n"
+    "title": "Silver’s Torrid Rally Has Americans in Frenzy to Buy, Sell Coins",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsilver-s-torrid-rally-has-americans-in-frenzy-to-buy-sell-coins",
+    "published": "Wed, 14 Jan 2026 23:31:37 CST",
+    "summary": "The last time silver was this hot, Reddit posters piled in to drive prices\neven higher, creating a frenzy that overwhelmed dealers. The metal’s current\nrally has set off a similar dynamic.\n\n"
   },
   {
     "title": "Oil Tumbles After Trump Signals US Response to Iran Is On Hold",
@@ -345,7 +369,7 @@
     "title": "Tech Stocks Power Wall Street Gains After Selloff: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "A rally in tech giants spurred a rebound in stocks as a blowout outlook from\nan artificial-intelligence bellwether rekindled hopes about the longevity of a\nkey bull-market driver. Short-dated bonds fell amid signs of economic\nstrength.\n\n"
+    "summary": "A rally in tech giants spurred a rebound in stocks as a blowout outlook from a\nglobal artificial-intelligence bellwether rekindled hopes about the longevity\nof a key bull-market driver.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -690,12 +714,6 @@
     "summary": "Orsted’s C.E.O. says it plans to move quickly to complete a $6.2 billion wind\nfarm off Rhode Island after a judge struck down President Trump’s bid to halt\nit.\n\n"
   },
   {
-    "title": "U.S. lost more immigrants than it gained in 2025, new estimate shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Ftrump-immigration-economy-net-negative-migration%2F",
-    "published": "Tue, 13 Jan 2026 15:43:02 CST",
-    "summary": "President Donald Trump’s policies have helped lead to net migration falling\nbelow zero for the first time in 50 years, according to the Brookings\nInstitution.\n\n"
-  },
-  {
     "title": "Data center REIT CEO says real estate ‘not in an oversupply state’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdata-center-reit-ceo-andy-power-not-oversupplied.html",
     "published": "Tue, 13 Jan 2026 15:41:13 CST",
@@ -706,12 +724,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
     "published": "Tue, 13 Jan 2026 15:23:16 CST",
     "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
-  },
-  {
-    "title": "Price growth held firm in December, capping a year of persistent inflation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Finflation-december-2025-cpi-fed%2F",
-    "published": "Tue, 13 Jan 2026 15:20:49 CST",
-    "summary": "Overall, prices were 2.7 percent higher than they were a year ago, according\nto the Bureau of Labor Statistics.\n\n"
   },
   {
     "title": "Global Central Bankers Rally Around Fed Chair Powell Amid Criminal Investigation",
@@ -924,12 +936,6 @@
     "summary": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk,\nand a rival oral drug from Eli Lilly is slated for U.S. approval later this\nyear.\n\n"
   },
   {
-    "title": "Gen Z and social media are helping men’s makeup go mainstream. The beauty industry is trying to capitalize",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fmens-makeup-gen-z-tiktok-instagram-ulta-sephora.html",
-    "published": "Sat, 10 Jan 2026 13:00:01 CST",
-    "summary": "Men’s makeup is shedding stigma as TikTok and Gen Z drives growth, retailers\nrethink displays and brands chase one of beauty’s last untapped markets.\n\n"
-  },
-  {
     "title": "Inside Tony Dokoupil’s chaotic first week as the CBS Evening News anchor",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F10%2Ftony-dokoupil-cbs-evening-news-anchor-first-week",
     "published": "Sat, 10 Jan 2026 11:00:56 CST",
@@ -952,24 +958,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
     "published": "Fri, 09 Jan 2026 21:39:15 CST",
     "summary": "As economists pointed to some of the president’s policies to explain the\nlatest Labor Department data, White House aides sought to make the case for\noptimism in the new year.\n\n"
-  },
-  {
-    "title": "How IMAX crushed other theater stocks in 2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fimax-theater-stocks-2025.html",
-    "published": "Fri, 09 Jan 2026 20:11:15 CST",
-    "summary": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on\nchanging consumer trends and partnerships with major studio productions.\n\n"
-  },
-  {
-    "title": "Stellantis scraps Jeep, Chrysler plug-in hybrid vehicles amid EV slowdown, recall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstellantis-scraps-jeep-chrysler-phevs-amid-ev-slowdown-recall.html",
-    "published": "Fri, 09 Jan 2026 18:24:27 CST",
-    "summary": "The decision is an about-face for the automaker, which has touted its sales\nleadership of the models, known as PHEVs, for years.\n\n"
-  },
-  {
-    "title": "Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Famazon-pharmacy-starts-offering-novo-nordisks-wegovy-weight-loss-pill.html",
-    "published": "Fri, 09 Jan 2026 17:11:25 CST",
-    "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
   },
   {
     "title": "December’s Jobs Data Reinforces Fed’s Cautious Approach to Future Cuts",
