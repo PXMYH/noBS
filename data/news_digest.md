@@ -1,79 +1,78 @@
 # NoBS News Digest - January 15, 2026
 
-Generated from **206** unique articles (deduplicated from 206 total) across **1** news sources
+Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic maneuvering dominate this week’s headlines, with the U.S. and China at the center of key developments. U.S. Ambassador to Belgium Bill White reiterates President Trump’s push for simplified EU regulations, signaling ongoing transatlantic trade friction, while Trump’s aggressive pursuit of Venezuela’s oil resources draws criticism for its outdated economic approach. Meanwhile, Canada’s former central bank governor, Mark Carney, travels to Beijing in an effort to repair strained Canada-China relations amid worsening U.S.-China ties. Diplomatic tensions also flare as China threatens to cancel trade talks with the UK after a British minister’s visit to Taiwan, underscoring Beijing’s sensitivity over the island’s status. Against this backdrop, Ukraine’s resilience shines as businesses like Nemiroff Vodka expand exports despite ongoing Russian attacks, highlighting the country’s determination to maintain economic activity amid war.
+Geopolitical tensions and economic maneuvering dominate this week’s headlines, with major developments in energy, trade, and diplomacy. Hungarian energy firm Mol Nyrt. is finalizing a deal to acquire a majority stake in Serbia’s sole refinery, as US sanctions force Russia’s Gazprom Neft to divest. Meanwhile, former US President Donald Trump’s push to assert control over Venezuela’s oil resources faces skepticism from industry experts, who argue domestic production remains a more viable option. The move, criticized as economically outdated, underscores Trump’s aggressive stance on resource acquisition. In Europe, US Ambassador to Belgium Bill White calls for simplified EU regulations, reflecting ongoing transatlantic trade frictions. Elsewhere, Canada’s former central bank governor Mark Carney travels to Beijing to repair strained Canada-China relations, seeking new markets amid worsening US-China ties. The UK also faces diplomatic fallout after China threatened to cancel trade talks following a minister’s visit to Taiwan, highlighting Beijing’s sensitivity over the issue. Despite ongoing conflicts, Ukrainian businesses like vodka producer Nemiroff continue to expand exports, demonstrating resilience amid war.
 
 **Top Articles:**
+- [Mol Nears Deal to Buy Gazprom Stake in Sanctioned Serb Refinery](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmol-nears-deal-to-buy-gazprom-stake-in-sanctioned-serb-refinery)
+- [Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela)
 - [US Wants EU Regulation Simplified, Trump Envoy Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fus-wants-eu-regulation-simplified-trump-envoy-says-video)
 - [Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html)
 - [Trump move for Venezuela’s resources likely to weaken economic might of US | Heather Stewart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F11%2Ftrump-move-for-venezuelas-resources-likely-to-weaken-economic-might-of-us)
-- [‘This is business as usual’: boss of bombed Ukrainian vodka maker seeks to expand exports](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F04%2Fbusiness-as-usual-boss-bombed-ukrainian-vodka-maker-intent-on-expanding-exports)
-- [China threatened to cancel key trade talks after UK minister’s Taiwan visit in June](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F02%2Fchina-threatened-to-cancel-key-trade-talks-after-uk-ministers-taiwan-visit-in-june)
 
-**Sources**: archive.ph (5 articles)
+**Sources**: archive.ph (7 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are experiencing mixed signals as volatility in individual stocks contrasts with broader market calm. The U.S. economy shows resilience, with steady inflation at 2.7% in December, though rising food prices and consumer pessimism persist. Major banks like JPMorgan and Citigroup report strong earnings, benefiting from trading revenue and restructuring efforts, while the Federal Reserve faces political pressure amid a criminal investigation into Chair Jerome Powell. Meanwhile, corporate struggles highlight economic challenges: Saks Global files for bankruptcy, and China’s weak loan demand signals sluggish growth. Geopolitical risks, including trade conflicts and tariffs, dominate business concerns, with the World Economic Forum warning of economic fragmentation as a top global threat.
+Wall Street kicks off 2026 with strong earnings from major banks, as Goldman Sachs, Morgan Stanley, and Citigroup all surpass profit estimates, driven by robust trading activity and wealth management growth. The market's resilience is further highlighted by BlackRock's record $14 trillion in assets under management, fueled by surging ETF demand. However, volatility lurks beneath the surface, with individual stocks experiencing extreme swings despite overall market calm. Meanwhile, geopolitical and economic tensions dominate headlines, as China reports a record $1.19 trillion trade surplus, raising concerns about global trade imbalances. The World Economic Forum warns that economic conflicts between major powers pose the greatest near-term risk to businesses, while the Fed faces pressure from both political and market forces amid steady inflation at 2.7%. In corporate news, Saks Global's bankruptcy filing after its debt-laden acquisition of Neiman Marcus underscores the challenges in retail, while Netflix's potential all-cash bid for Warner Bros Discovery signals a major shakeup in the streaming industry.
 
 **Top Articles:**
-- [Stock Market’s Calm Belies Extreme Swings in Individual Shares](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstock-market-s-calm-belies-extreme-swings-in-individual-shares)
-- [Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html)
-- [Leading Prediction Firms Share a Commonality: Donald Trump Jr.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fus%2Fpolitics%2Fdonald-trump-jr-prediction-markets.html)
-- [The other effort to control the Fed](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fother-effort-control-fed%2F)
-- [Canadian Housing Market in Winter Freeze as Prices, Sales Decline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcanadian-housing-market-in-winter-freeze-as-prices-sales-decline)
+- [Goldman Sachs tops profit estimates as equities, asset and wealth management outperform](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html)
+- [Morgan Stanley earnings top estimates driven by wealth management](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html)
+- [Wells Fargo Kicks Off US Dollar Bond Sale After Earnings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings)
+- [Brazil Central Bank Liquidates Reag Trust Amid Crime Probe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbrazil-central-bank-liquidates-reag-trust-amid-crime-probe)
+- [The energy trade that excites VanEck's CEO — and it's not oil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Foil-nuclear-electricity-vaneck-ceo-delivers-energy-plays.html)
 
-**Sources**: archive.ph (89 articles)
+**Sources**: archive.ph (94 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech sector is riding high on AI-driven momentum, with Taiwan Semiconductor Manufacturing Co. (TSMC) leading the charge. TSMC's robust $56 billion capital spending plan for 2026, announced this week, has reignited confidence in the AI boom, lifting tech stocks and propelling ASML Holding NV to a $500 billion market valuation. Meanwhile, regulatory and trade developments are reshaping the industry: President Trump imposes limited tariffs on foreign semiconductors, while the U.S. considers expanding private companies' role in cyberwarfare. Beyond tech, Boeing outperforms Airbus in 2025 deliveries, and Delta Air Lines forecasts a 20% profit surge amid strong travel demand. However, economic concerns linger as U.S. job growth hits a five-year low, and labor market tensions rise under Trump’s policies. In healthcare, Amazon Pharmacy begins offering Novo Nordisk’s Wegovy weight-loss pill, signaling a competitive shift in the obesity drug market.
+The tech sector is riding a wave of optimism in early 2026, driven by AI advancements and strong earnings. Taiwan Semiconductor Manufacturing Co. (TSMC) delivered an upbeat outlook, propelling ASML to a $500 billion valuation and reviving confidence in AI-driven growth. However, soaring memory prices are creating challenges for hardware manufacturers like Apple, while South Korea narrows its sovereign AI competition, excluding major players like Naver and NCSoft. Meanwhile, regulatory and legal pressures are mounting, with Mastercard, Visa, and Revolut losing a UK lawsuit over cross-border fees, and India’s Supreme Court ruling against Tiger Global in a Flipkart tax dispute. Beyond tech, Britain’s offshore wind sector secures major contracts, while the U.S. explores expanding private sector roles in cyberwarfare. The labor market shows signs of weakness, with job growth slowing under Trump’s policies, and unionization efforts gain traction in unexpected sectors like bakery workers in New York.
 
 **Top Articles:**
-- [Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fapple-tech-hardware-stocks-face-crisis-as-memory-prices-soar)
-- [BAT to End South Africa Cigarette Production on Illicit Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbat-to-end-south-africa-cigarette-production-on-illicit-trade)
-- [Two Killed in Second Fatal Thai Crane Accident in as Many Days](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftwo-killed-in-second-fatal-thai-crane-accident-in-as-many-days)
-- [SpaceX Capsule With ISS Astronauts Splashes Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fastronauts-return-to-earth-following-iss-medical-issue-video)
-- [Mozambique Leader Sees Total LNG Project Restart Within Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-leader-sees-total-lng-project-restart-within-weeks)
+- [Stocks making the biggest moves premarket: Taiwan Semiconductor, ASML, BlackRock and more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstocks-making-the-biggest-moves-premarket-tsm-asml-blk.html)
+- [Insight Partners Hires VC Veteran Malayery for Secondaries Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Finsight-partners-hires-vc-veteran-malayery-for-secondaries-push)
+- [Mastercard, Visa, Revolut Lose UK Suit Over Cross-Border Fees](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmastercard-visa-revolut-lose-uk-suit-over-cross-border-fees)
+- [EU Carbon Extends Gains as Gas Jumps and Nuclear Output Falters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Feu-carbon-extends-gains-as-gas-jumps-and-nuclear-output-falters)
+- [Britain Shows Europe How to Keep Offshore Wind Alive](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-15%2Fbritain-shows-europe-how-to-keep-offshore-wind-alive)
 
-**Sources**: archive.ph (73 articles)
+**Sources**: archive.ph (70 articles)
 
 ---
 
 ## ⚽ Sports
 
-In football business news, billionaire Jim Ratcliffe reduces the asking price for French club OGC Nice, signaling a potential shift in ownership for the Ligue 1 team. The move reflects broader financial strategies in European football as clubs navigate valuation challenges. Meanwhile, in the retail sector, discount grocer Aldi announces plans to open over 180 new stores in the U.S. this year, capitalizing on growing consumer demand for value-driven shopping amid economic pressures. The expansion underscores the intensifying competition between discount retailers and traditional grocery chains, with Aldi aiming to capture a larger share of weekly grocery spending across income brackets.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push more households to prioritize affordability in their weekly shopping. Aldi's strategy highlights the shifting dynamics in retail, where traditional supermarkets face mounting pressure from discount rivals offering lower prices without sacrificing quality.
 
 **Top Articles:**
-- [Jim Ratcliffe Cuts Price Tag for French Football Club Nice](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjim-ratcliffe-cuts-price-tag-for-french-football-club-nice)
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
 
-**Sources**: archive.ph (2 articles)
+**Sources**: archive.ph (1 article)
 
 ---
 
 ## 📰 Other News
 
-Global economic and geopolitical developments dominate today’s news, with China’s State Grid announcing a $574 billion investment surge through 2030 to expand its power network amid rising energy demand. Meanwhile, the U.S. advances the second phase of President Trump’s Gaza peace plan, shifting focus from ceasefire to demilitarization. Domestically, inflation pressures persist as food prices spike, while housing affordability remains a critical issue—Trump’s administration faces scrutiny for mixed signals on mortgage policies, even as minimum wage hikes in several states offer modest relief to workers. In corporate moves, Netflix prepares to adjust its Warner Bros. Discovery offer to an all-cash deal, and Allegiant’s $1.5 billion acquisition of Sun Country highlights consolidation in the budget airline sector. Human interest stories, like the resurgence of *Gourmet Magazine* as an unsanctioned newsletter and the emotional toll on elderly caregivers, add depth to the day’s headlines.
+Global economic and geopolitical tensions dominate this week’s news, with the U.S. rallying allies to reduce dependence on Chinese critical minerals amid escalating trade pressures. Meanwhile, President Trump’s mixed signals on Iran send oil prices tumbling, while his administration grapples with housing affordability—pushing policies that critics argue undermine low-income homebuyers. In corporate moves, Netflix prepares to revise its Warner Bros. Discovery bid, and Allegiant Airlines acquires Sun Country in a $1.5 billion deal, signaling consolidation in the budget travel sector. On the social front, rising childcare costs and food inflation squeeze American families, while seniors face growing caregiving burdens. Culturally, the revival of *Gourmet* magazine as an unsanctioned newsletter highlights shifting media landscapes, and psilocybin therapy’s legal but uneven rollout reflects broader debates on healthcare access.
 
 **Top Articles:**
+- [Commercial real estate deal-making slows again in November](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmoodys-commercial-real-estate-dealmaking-november.html)
+- [US Asks Allies to Step Up Measures on Chinese Critical Minerals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-asks-allies-to-step-up-measures-on-chinese-critical-minerals)
+- [Bombardier to Boost Output Capacity in Quebec With New Factory](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbombardier-to-boost-output-capacity-in-quebec-with-new-factory)
 - [Why more seniors are being asked to care for their partners — alone](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F10%2Fsenior-caregivers-spouse%2F)
-- [Gaza Deal’s Second Phase to Begin](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgaza-deal-s-second-phase-to-begin-video)
-- [How to Make Money From the Booming Demand for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhow-to-make-money-from-the-booming-demand-for-energy)
-- [China’s State Grid Plans 40% Surge in Investment Through 2030](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-state-grid-plans-40-surge-in-investment-through-2030)
-- [UniCredit Dismisses ‘Unjustified’ Monte Paschi Speculation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified)
+- [BAT to Shut South Africa Plant as Illicit Cigarettes Spread](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbat-to-end-south-africa-cigarette-production-on-illicit-trade)
 
 **Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 15, 2026 at 10:51 AM *
+*Digest generated on January 15, 2026 at 01:15 PM *

@@ -1,5 +1,167 @@
 [
   {
+    "title": "Commercial real estate deal-making slows again in November",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmoodys-commercial-real-estate-dealmaking-november.html",
+    "published": "Thu, 15 Jan 2026 13:12:45 CST",
+    "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
+  },
+  {
+    "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 13:10:39 CST",
+    "summary": "Trading desks across Wall Street have benefited in the last year as Trump's\npolicies have roiled markets for bonds, currencies, commodities and stocks.\n\n"
+  },
+  {
+    "title": "Morgan Stanley earnings top estimates driven by wealth management",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 13:09:47 CST",
+    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
+  },
+  {
+    "title": "US Asks Allies to Step Up Measures on Chinese Critical Minerals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-asks-allies-to-step-up-measures-on-chinese-critical-minerals",
+    "published": "Thu, 15 Jan 2026 13:04:42 CST",
+    "summary": "The US will convene dozens of foreign ministers from allied countries next\nmonth to pursue an agreement designed to help the countries reduce their\ndependency on Chinese critical minerals.\n\n"
+  },
+  {
+    "title": "Wells Fargo Kicks Off US Dollar Bond Sale After Earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings",
+    "published": "Thu, 15 Jan 2026 13:04:01 CST",
+    "summary": "Wells Fargo & Co. is tapping the US high-grade market in an expected rush of\nbond sales from big Wall Street lenders after earnings.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Taiwan Semiconductor, ASML, BlackRock and more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstocks-making-the-biggest-moves-premarket-tsm-asml-blk.html",
+    "published": "Thu, 15 Jan 2026 13:01:19 CST",
+    "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
+  },
+  {
+    "title": "Insight Partners Hires VC Veteran Malayery for Secondaries Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Finsight-partners-hires-vc-veteran-malayery-for-secondaries-push",
+    "published": "Thu, 15 Jan 2026 13:00:00 CST",
+    "summary": "Tech-focused private-asset firm Insight Partners is breaking into secondaries,\nbringing on an executive from a rival to lead its first strategy dedicated to\nbacking continuation funds and snapping up secondhand stakes.\n\n"
+  },
+  {
+    "title": "Mastercard, Visa, Revolut Lose UK Suit Over Cross-Border Fees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmastercard-visa-revolut-lose-uk-suit-over-cross-border-fees",
+    "published": "Thu, 15 Jan 2026 12:42:56 CST",
+    "summary": "Mastercard Inc., Visa Inc. and UK fintech Revolut ltd. lost a lawsuit with the\nUK payments regulator over its plans to usher in a cap on cross-border card\nfees.\n\n"
+  },
+  {
+    "title": "EU Carbon Extends Gains as Gas Jumps and Nuclear Output Falters",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Feu-carbon-extends-gains-as-gas-jumps-and-nuclear-output-falters",
+    "published": "Thu, 15 Jan 2026 12:39:46 CST",
+    "summary": "European carbon prices extended a week-long gain, with surging natural gas\ncosts, weaker nuclear power supply and forecasts for colder weather expected\nto drive demand for emissions permits.\n\n"
+  },
+  {
+    "title": "Bombardier to Boost Output Capacity in Quebec With New Factory",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbombardier-to-boost-output-capacity-in-quebec-with-new-factory",
+    "published": "Thu, 15 Jan 2026 12:37:15 CST",
+    "summary": "Canadian jet maker Bombardier Inc. will invest C$100 million ($72 million) to\nbuild a new manufacturing center near Montreal to increase its production\ncapacity.\n\n"
+  },
+  {
+    "title": "Mol Nears Deal to Buy Gazprom Stake in Sanctioned Serb Refinery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmol-nears-deal-to-buy-gazprom-stake-in-sanctioned-serb-refinery",
+    "published": "Thu, 15 Jan 2026 12:28:30 CST",
+    "summary": "Hungarian energy company Mol Nyrt. is closing in on the takeover of Serbia’s\nsole refinery as US sanctions force Russia’s Gazprom Neft PJSC to sell its\nmajority stake.\n\n"
+  },
+  {
+    "title": "Brazil Central Bank Liquidates Reag Trust Amid Crime Probe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbrazil-central-bank-liquidates-reag-trust-amid-crime-probe",
+    "published": "Thu, 15 Jan 2026 12:12:16 CST",
+    "summary": "Brazil’s central bank liquidated CBSF Distribuidora de Titulos e Valores\nMobiliarios SA, the firm previously known as Reag Trust, following months-long\nprobes into the group’s alleged links to organized crime and Banco Master SA.\n\n"
+  },
+  {
+    "title": "Britain Shows Europe How to Keep Offshore Wind Alive",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-15%2Fbritain-shows-europe-how-to-keep-offshore-wind-alive",
+    "published": "Thu, 15 Jan 2026 12:05:54 CST",
+    "summary": "Yesterday’s auction resulted in plans for four huge wind farms, while other\ncountries struggle to attract developer interest.\n\n"
+  },
+  {
+    "title": "New York bakery staff push for union, claiming they were forced to bake for Israeli fundraisers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fnew-york-bakery-union-israel",
+    "published": "Thu, 15 Jan 2026 12:00:18 CST",
+    "summary": "Breads Bakery workers demand better pay and conditions and criticize chain for\nsupporting ‘the genocide in Palestine’\n\nWorkers at popular New York City bakery chain Breads Bakery announced a move\nto unionize, claiming it has “underpaid, undervalued, disrespected,\ndiscriminated against, intimidated and hurt” staff, as well as supported “the\ngenocide happening in Palestine”.\n\nThe company, which has ties to Israel, expressed concern that “divisive\npolitical issues” had been introduced into its stores. “We make babka; we\ndon’t engage in politics,” a spokesperson said.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "The energy trade that excites VanEck's CEO — and it's not oil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Foil-nuclear-electricity-vaneck-ceo-delivers-energy-plays.html",
+    "published": "Thu, 15 Jan 2026 12:00:01 CST",
+    "summary": "A major exchange-traded fund manager suggests the oil trade won't provide much\nupside ahead.\n\n"
+  },
+  {
+    "title": "How Saks's acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fsaks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
+    "published": "Thu, 15 Jan 2026 12:00:01 CST",
+    "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus, but didn't have\nenough money left over to pay vendors, which led the company to declare\nbankruptcy.\n\n"
+  },
+  {
+    "title": "TSMC Makes the Case for Sticking With Tech Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-15%2Ftsmc-makes-the-case-for-sticking-with-tech-stocks",
+    "published": "Thu, 15 Jan 2026 11:44:59 CST",
+    "summary": "Capital spending forecast points to the powerful fundamentals driving AI boom.\n\n"
+  },
+  {
+    "title": "TSMC Spurs Tech Revival; Trump Signals to Hold Off Attack on Iran | Bloomberg Brief 1/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbloomberg-brief-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 11:44:43 CST",
+    "summary": "US equity futures rise as TSMC's upbeat outlook boosts tech stocks. Oil\nextends losses after President Trump signaled he may hold off on attacking\nIran. Silver slides from a record high after the US held off from imposing\nimport tariffs on critical minerals. Morgan Stanley and Goldman Sachs are set\nto wrap up big bank earnings. Monica Defend of Amundi Investment Institute\ndiscusses the Fed's rate path. Saul Martinez of HSBC previews banks' quarterly\nresults. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Demand for Mortgages Fell Ahead of Reeves’ Budget, Survey Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fdemand-for-mortgages-fell-ahead-of-reeves-budget-survey-shows",
+    "published": "Thu, 15 Jan 2026 11:32:43 CST",
+    "summary": "Demand in the UK for mortgages dropped in the build up to the November budget\nand is expected to fall further in the coming three months, according to a\nBank of England survey, despite other signs that the housing market is picking\nup.\n\n"
+  },
+  {
+    "title": "US Equities Look 'Robust' Even Without Fed Cuts, SocGen Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fus-equities-robust-even-without-fed-rate-cuts-socgen-video",
+    "published": "Thu, 15 Jan 2026 11:28:13 CST",
+    "summary": "Kokou Agbo-Bloua, global head of economics, cross-asset and quant research at\nSociete Generale Corporate and Investment Banking, discusses the outlook for\nequities in 2026. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Ermotti Says UBS Is Assembling List of Potential Successors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fermotti-says-ubs-is-assembling-list-of-potential-successors",
+    "published": "Thu, 15 Jan 2026 11:27:17 CST",
+    "summary": "UBS Group AG Chief Executive Officer Sergio Ermotti said the bank is in the\nprocess of identifying candidates to replace him while reiterating he expects\nto step aside within about a year.\n\n"
+  },
+  {
+    "title": "Private Credit Drops Safeguard to Win Deals on Wall Street Terms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fprivate-credit-drops-safeguard-to-win-deals-on-wall-street-terms",
+    "published": "Thu, 15 Jan 2026 11:15:37 CST",
+    "summary": "Private credit firms’ efforts to reap leveraged debt business from Wall Street\nis coming at a steep cost -- safeguards that made them less vulnerable to an\neconomic downturn.\n\n"
+  },
+  {
+    "title": "Tech Revival on AI Boom; Iran Averts US Strikes For Now | The Pulse 1/15",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-pulse-1-15-video",
+    "published": "Thu, 15 Jan 2026 11:05:33 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Kokou Agbo-Bloua, SocGen\nCIB, Global Head of Economics, Cross-Asset and Quant Research; Roxane\nFarmanfarmaian, Cambridge University Lecturer; Diana Choyleva, Enodo Economics\nChief Economist. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "India Top Court Says Tiger Global Liable for Flipkart Taxes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-top-court-says-tiger-global-liable-to-pay-flipkart-taxes",
+    "published": "Thu, 15 Jan 2026 11:03:57 CST",
+    "summary": "India’s Supreme Court has held that Tiger Global’s capital gains arising from\nits 2018 stake sale in Flipkart to Walmart Inc. are taxable under domestic law\nin a setback for the US investment firm.\n\n"
+  },
+  {
+    "title": "BlackRock Total Assets Hit Record $14 Trillion as ETFs Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fblackrock-total-assets-hit-record-14-trillion-as-etfs-surge",
+    "published": "Thu, 15 Jan 2026 11:01:42 CST",
+    "summary": "BlackRock Inc. pulled in $342 billion of total client cash in the fourth\nquarter, pushing the firm to a record $14 trillion of assets as it integrates\na string of recent acquisitions to become a force in private markets.\n\n"
+  },
+  {
+    "title": "Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela",
+    "published": "Thu, 15 Jan 2026 11:00:03 CST",
+    "summary": "It may well be safer, easier and cheaper for US companies to procure whatever\noil the US economy needs at home\n\nThere are a few reasons that Donald Trump – now self-anointed acting President\nof Venezuela, as well as the United States – might be so excited about\nappropriating Venezuela’s oil.\n\nTrump may be counting on some boost from cheap oil to the US economy: he is\nobsessed with the price of gas. As the midterm elections approach, he has\nbecome concerned about unemployment. Deeply imprinted memories of scarcity\nduring the oil crises of the 1970s may prime his belief that cheap oil cures\nit all.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Trump’s promised manufacturing boom is a bust so far",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Ftrump-manufacturing-jobs-tariffs%2F",
+    "published": "Thu, 15 Jan 2026 11:00:00 CST",
+    "summary": "Manufacturing employment has declined every month since April, when the\npresident said tariffs would bring factories “roaring back.”\n\n"
+  },
+  {
     "title": "Stock Market’s Calm Belies Extreme Swings in Individual Shares",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstock-market-s-calm-belies-extreme-swings-in-individual-shares",
     "published": "Thu, 15 Jan 2026 10:30:00 CST",
@@ -36,6 +198,12 @@
     "summary": "Politics, Wall Street or the American people?\n\n"
   },
   {
+    "title": "‘The consumers are still out there’: why a bankruptcy for Saks Global may not spell the end",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fsaks-global-bankruptcy",
+    "published": "Thu, 15 Jan 2026 10:00:02 CST",
+    "summary": "Just more than a year after the new luxury behemoth was formed, it announced\nit had filed for chapter 11 bankruptcy\n\nEvery year, the stores down Manhattan’s Fifth Avenue dress up their windows at\nChristmastime. Tourists from all over the world come to gawk at all the\nglitter, lace, ruffles and bows.\n\nSaks’s Fifth Avenue location, so iconic that it’s embedded in the brand’s\nname, is usually dressed top to bottom during the holidays. In 2023, the store\npartnered with Christian Dior to display a giant zodiac calendar. As part of\nthe light show, fireworks were released from the top of the store to the oohs\nand aahs of spectators.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Canadian Housing Market in Winter Freeze as Prices, Sales Decline",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcanadian-housing-market-in-winter-freeze-as-prices-sales-decline",
     "published": "Thu, 15 Jan 2026 10:00:00 CST",
@@ -48,112 +216,16 @@
     "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
   },
   {
-    "title": "BAT to End South Africa Cigarette Production on Illicit Trade",
+    "title": "BAT to Shut South Africa Plant as Illicit Cigarettes Spread",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbat-to-end-south-africa-cigarette-production-on-illicit-trade",
     "published": "Thu, 15 Jan 2026 09:43:08 CST",
-    "summary": "British American Tobacco Plc’s South Africa subsidiary said it will end local\nproduction of cigarettes after illicit trade shrank volumes and made operating\nunviable.\n\n"
-  },
-  {
-    "title": "Two Killed in Second Fatal Thai Crane Accident in as Many Days",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftwo-killed-in-second-fatal-thai-crane-accident-in-as-many-days",
-    "published": "Thu, 15 Jan 2026 09:34:13 CST",
-    "summary": "At least two people were killed when a crane collapsed from an under-\nconstruction elevated expressway onto a road in Thailand’s Samut Sakhon\nprovince, just one day after a similar accident involving a crane left 32\ndead.\n\n"
-  },
-  {
-    "title": "SpaceX Capsule With ISS Astronauts Splashes Down",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fastronauts-return-to-earth-following-iss-medical-issue-video",
-    "published": "Thu, 15 Jan 2026 09:26:38 CST",
-    "summary": "A crew of four astronauts landed back on Earth after departing the\nInternational Space Station in NASA’s first-ever medical evacuation over an\nundisclosed ailment involving one of the crew members. The astronauts undocked\nfrom the station at about 5:20 p.m. New York time on Wednesday in a SpaceX\nDragon capsule and splashed down off the coast of California at around 3:41\na.m. on Thursday.\n\n"
-  },
-  {
-    "title": "Gaza Deal’s Second Phase to Begin",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgaza-deal-s-second-phase-to-begin-video",
-    "published": "Thu, 15 Jan 2026 09:09:53 CST",
-    "summary": "The US has announced the launch of the second phase of President Trump's peace\nplan in the Gaza Strip, which will involve moving from a ceasefire to\ndemilitarization. Bloomberg's Dan Williams reports. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "German Economy Grows for First Year Since 2022 on Spending",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgerman-economy-grows-for-first-year-since-2022-on-spending-boost",
-    "published": "Thu, 15 Jan 2026 09:06:15 CST",
-    "summary": "Germany’s economy grew for the first year since 2022 as a government spending\nspree helps the country overcome its lengthy industrial slump.\n\n"
-  },
-  {
-    "title": "How to Make Money From the Booming Demand for Energy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhow-to-make-money-from-the-booming-demand-for-energy",
-    "published": "Thu, 15 Jan 2026 09:00:31 CST",
-    "summary": "A conversation with fund manager Tyler Rosenlicht.\n\n"
-  },
-  {
-    "title": "Mozambique Leader Sees Total LNG Project Restart Within Weeks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-leader-sees-total-lng-project-restart-within-weeks",
-    "published": "Thu, 15 Jan 2026 09:00:07 CST",
-    "summary": "Mozambican President Daniel Chapo expects TotalEnergies SE’s $20 billion\nliquefied natural gas project to restart as early as this month, reviving a\npotentially key revenue source for the cash-strapped government.\n\n"
-  },
-  {
-    "title": "Precious Metals Have Rallied Too Quickly: 3-Minutes MLIV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fprecious-metals-have-rallied-too-quickly-3-minutes-mliv-video",
-    "published": "Thu, 15 Jan 2026 08:27:33 CST",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "UK’s South East Water Faces New Investigation Over Outages",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fuk-s-south-east-water-faces-new-investigation-over-outages",
-    "published": "Thu, 15 Jan 2026 08:25:34 CST",
-    "summary": "South East Water Ltd. could be fined as much as 10% of its turnover if a new\ninvestigation by industry regulator Ofwat finds the UK company breached\nlicence conditions over customer care during recent outages.\n\n"
+    "summary": "British American Tobacco Plc’s South Africa subsidiary will end local\nproduction of cigarettes after the spread of illicit trade shrank volumes and\nmade operating unviable.\n\n"
   },
   {
     "title": "ASML Soars Above $500 Billion Value on TSMC’s Upbeat Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook",
     "published": "Thu, 15 Jan 2026 08:22:35 CST",
     "summary": "ASML Holding NV became only the third European company to surpass $500 billion\nin market value after key customer Taiwan Semiconductor Manufacturing Co. gave\na stronger-than-anticipated outlook for 2026.\n\n"
-  },
-  {
-    "title": "China’s State Grid Plans 40% Surge in Investment Through 2030",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-state-grid-plans-40-surge-in-investment-through-2030",
-    "published": "Thu, 15 Jan 2026 08:05:51 CST",
-    "summary": "The State Grid Corp. of China plans to boost spending to 4 trillion yuan ($574\nbillion) over the next five years, as the nation races to expand its power\nnetwork to keep pace with rising electricty demand and build-out of\nrenewables.\n\n"
-  },
-  {
-    "title": "Chinese Builder Jingrui Ordered to Liquidate by Hong Kong Court",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchinese-builder-jingrui-ordered-to-liquidate-by-hong-kong-court",
-    "published": "Thu, 15 Jan 2026 07:58:40 CST",
-    "summary": "Hong Kong’s High Court ordered the liquidation of developer Jingrui Holdings\nLtd., making it the latest defaulted Chinese builder to be wound up in the\ncity amid China’s years-long property crisis.\n\n"
-  },
-  {
-    "title": "Jim Ratcliffe Cuts Price Tag for French Football Club Nice",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjim-ratcliffe-cuts-price-tag-for-french-football-club-nice",
-    "published": "Thu, 15 Jan 2026 07:55:30 CST",
-    "summary": "Billionaire Jim Ratcliffe has slashed the asking price for French football\nteam OGC Nice, according to people with knowledge of the matter.\n\n"
-  },
-  {
-    "title": "Taylor Wimpey Sees ‘Muted’ Demand For UK Home Selling Season",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftaylor-wimpey-sees-muted-demand-for-uk-home-selling-season",
-    "published": "Thu, 15 Jan 2026 07:52:11 CST",
-    "summary": "The UK housing marked continues to be blighted by lackluster demand as buyers\nstruggle with elevated mortgage costs that have stretched affordability,\naccording to Taylor Wimpey Plc.\n\n"
-  },
-  {
-    "title": "UniCredit Dismisses ‘Unjustified’ Monte Paschi Speculation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified",
-    "published": "Thu, 15 Jan 2026 07:32:15 CST",
-    "summary": "UniCredit SpA said that recent media reports about its interest in potentially\nbuying a stake in rival Banca Monte dei Paschi di Siena SpA were\n“unjustified.”\n\n"
-  },
-  {
-    "title": "China New Loans Shrink to Least Since 2018 as Demand Weakens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-new-loans-shrink-to-least-in-seven-years-as-demand-weakens",
-    "published": "Thu, 15 Jan 2026 07:13:57 CST",
-    "summary": "Chinese banks extended the smallest amount of new loans since 2018 last year\ndespite an uptick in December, in a reflection of sluggish demand from\nborrowers that’s weighing on growth.\n\n"
-  },
-  {
-    "title": "Philippines Waives Visas for Chinese to Boost Tourism",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fphilippines-to-allow-visa-free-entry-for-chinese-visitors",
-    "published": "Thu, 15 Jan 2026 07:09:50 CST",
-    "summary": "The Philippines will allow Chinese nationals to enter without visas for a stay\nof up to two weeks, as the Southeast Asian nation pushes to revive its\nfaltering tourism sector.\n\n"
-  },
-  {
-    "title": "Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fminneapolis-traffic-stop-shooting-fuels-further-tensions-video",
-    "published": "Thu, 15 Jan 2026 06:17:14 CST",
-    "summary": "A federal officer shot a man in the leg on Wednesday night in Minneapolis,\nwhere protests have continued against ICE's presence. Mayor Jacob Frey and\nPolice Chief Brian O'Hara speak about the latest developments. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Naver, NCSoft Cut From Korea’s Intense Sovereign AI Contest",
@@ -168,28 +240,16 @@
     "summary": "Richemont’s customers splurged on its watches and Cartier jewelry over the\nholidays particularly in the US, even as wider concerns about the luxury\nmarket remain.\n\n"
   },
   {
-    "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength",
-    "published": "Thu, 15 Jan 2026 05:34:02 CST",
-    "summary": "Taiwan Semiconductor Manufacturing Co. is earmarking as much as $56 billion in\ncapital spending for 2026, a stronger-than-anticipated projection that signals\nits confidence in the longevity of the global AI boom.\n\n"
-  },
-  {
-    "title": "Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 05:01:01 CST",
-    "summary": "Trading desks across Wall Street have benefited in the last year as Trump's\npolicies have roiled markets for bonds, currencies, commodities and stocks.\n\n"
-  },
-  {
-    "title": "Mozambique Eyes Debt Talks After New IMF Program; Eurobond Slips",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says",
-    "published": "Thu, 15 Jan 2026 04:30:00 CST",
-    "summary": "Mozambique will only start talks with creditors to renegotiate its debt after\nreaching an agreement on a new program with the International Monetary Fund,\nPresident Daniel Chapo said.\n\n"
-  },
-  {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
     "published": "Thu, 15 Jan 2026 03:50:17 CST",
     "summary": "The outage cut off tens of thousands of users and lasted more than six hours.\nThe cause was not immediately clear.\n\n"
+  },
+  {
+    "title": "Copper Drifts Lower as Traders Weigh Rally’s Impact on Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fnickel-steadies-after-surge-as-indonesia-flags-lower-ore-supply",
+    "published": "Thu, 15 Jan 2026 03:04:07 CST",
+    "summary": "Copper eased from an all-time-high, as markets took stock of a record rally\nthat could hit physical demand for the crucial industrial input. Nickel also\nfell.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
@@ -198,16 +258,16 @@
     "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to\nChina while putting off a decision about imposing higher taxes on the chip\nindustry.\n\n"
   },
   {
-    "title": "Hedge Funds Hire Talent Scouts in Japan to Tap Comeback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-hire-talent-scouts-in-japan-to-tap-market-comeback",
-    "published": "Thu, 15 Jan 2026 00:45:20 CST",
-    "summary": "A hiring spree among hedge funds in Japan is reaching fever pitch. The latest\nmust-have: talent scouts.\n\n"
-  },
-  {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
     "published": "Wed, 14 Jan 2026 23:39:59 CST",
     "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
+  },
+  {
+    "title": "Oil Tumbles After Trump Signals US Response to Iran Is On Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15",
+    "published": "Wed, 14 Jan 2026 23:17:52 CST",
+    "summary": "Oil fell the most since October after US President Donald Trump signaled he\nmay hold off on attacking Iran for now.\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -225,7 +285,7 @@
     "title": "TSMC Spurs Tech Revival as Metals Slide From Peaks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "Technology stocks bounced back on Thursday after Taiwan Semiconductor\nManufacturing Co. revived confidence in the durability of artificial-\nintelligence demand. Metals fell from all-time highs.\n\n"
+    "summary": "Technology stocks bounced back on Thursday after Taiwan Semiconductor\nManufacturing Co. revived confidence in the ability of artificial intelligence\nto continue driving outsized returns. Metals fell from all-time highs.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -256,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fsaks-bankruptcy-neiman-marcus-bergdorf%2F",
     "published": "Wed, 14 Jan 2026 20:10:56 CST",
     "summary": "The announcement comes after Saks missed a $100 million interest payment\nconnected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
-  },
-  {
-    "title": "Private Equity Firms Circle Volkswagen’s €6 Billion Everllence Unit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbuyout-firms-are-said-to-circle-vw-s-6-billion-everllence-unit",
-    "published": "Wed, 14 Jan 2026 20:10:05 CST",
-    "summary": "A majority stake in Volkswagen AG’s heavy diesel engine unit Everllence SE is\nattracting interest from a number of private equity firms, according to people\nfamiliar with the matter, as the German automaker proceeds with its asset\ndisposal program.\n\n"
   },
   {
     "title": "2026 May Be the Year of the Mega I.P.O.",
@@ -378,6 +432,12 @@
     "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
   },
   {
+    "title": "Hologic’s $8.75 Billion of Buyout Loans See Strong Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhologic-s-8-5-billion-lbo-loan-costs-tighten-on-strong-demand",
+    "published": "Wed, 14 Jan 2026 14:48:48 CST",
+    "summary": "The $8.75 billion debt financing tied to the buyout of medical-device maker\nHologic Inc. has been widely considered the leveraged loan market’s first big\ntest of the year. The final results sent a clear signal that demand for risky\ndebt is strong.\n\n"
+  },
+  {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fbank-of-america-bac-q4-2025-earnings.html",
     "published": "Wed, 14 Jan 2026 14:39:42 CST",
@@ -394,12 +454,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
     "published": "Wed, 14 Jan 2026 14:26:46 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
-    "published": "Wed, 14 Jan 2026 13:00:22 CST",
-    "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
   },
   {
     "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
@@ -666,12 +720,6 @@
     "summary": "\n\n"
   },
   {
-    "title": "Ex-FDA workers warn Trump cuts will increase risk of food safety lapses in US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Ffda-employees-food-safety-warning",
-    "published": "Tue, 13 Jan 2026 12:00:00 CST",
-    "summary": "Current and former workers caution administration’s ‘politicization of\nscience’ will negatively affect Americans\n\nSweeping cuts and the “politicization of science” inside the Food and Drug\nAdministration have increased the risk of safety lapses across the US, former\nagency workers warned.\n\nLess than a year after Donald Trump returned to power, and his administration\noversaw the firing and resignation of thousands of FDA employees, a listeria\noutbreak that killed six people and sickened 27 across 18 states due to\ncontamination of prepared pasta meals underlined the danger posed by safety\nfailings.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Jerome Powell: steely Fed chair standing firm in face of Trump’s threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fjerome-powell-fed-chair-trump",
     "published": "Tue, 13 Jan 2026 11:00:59 CST",
@@ -688,12 +736,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-housing-costs.html",
     "published": "Tue, 13 Jan 2026 10:02:34 CST",
     "summary": "White House officials have explored a vast array of ideas as the president\nlooks to unfurl a housing affordability plan at an economic conference this\nmonth.\n\n"
-  },
-  {
-    "title": "Trump warns of ‘complete mess’ if supreme court rejects tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Fdonald-trump-supreme-court-tariffs-iran-us-trade",
-    "published": "Tue, 13 Jan 2026 09:10:10 CST",
-    "summary": "US president speaks after saying that any country that does business with Iran\nwill face 25% levy on trade with US\n\n  * Business live – latest updates\n\nDonald Trump has said “it would be a complete mess” if the US supreme court\nwere to strike down his global trade tariffs.\n\nIn a lengthy post on social media, the US president said “WE’RE SCREWED” if\nthe supreme court rules against the tariffs. The decision is expected as soon\nas Wednesday. It is a crucial legal test of his controversial economic\nstrategy and his power.\n\nContinue reading...\n\n"
   },
   {
     "title": "Why China Is Suddenly Obsessed With American Poverty",
@@ -852,12 +894,6 @@
     "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
   },
   {
-    "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2Fblackrock-investing-bull-market-portfolio-stocks.html",
-    "published": "Sat, 10 Jan 2026 15:07:23 CST",
-    "summary": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026,\nbut says investors should focus on targeted bets and turning cash into income.\n\n"
-  },
-  {
     "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2F2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
     "published": "Sat, 10 Jan 2026 13:00:01 CST",
@@ -912,28 +948,10 @@
     "summary": "Eligible customers with insurance can pay as little as $25 for a one-month\nsupply of the drug, while cash-paying options start at $149 a month, Amazon\nsaid.\n\n"
   },
   {
-    "title": "Trump will use other tariff authorities to get to 'same place' if Supreme Court rules against him: Hassett",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Ftrump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
-    "published": "Fri, 09 Jan 2026 16:14:42 CST",
-    "summary": "Kevin Hassett said the White House could deploy alternative tariff authorities\nif the Supreme Court rules against President Donald Trump.\n\n"
-  },
-  {
-    "title": "As tech stocks soar, executives use exchange funds to diversify wealth without selling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fexecutives-exchange-funds-diversify-wealth.html",
-    "published": "Fri, 09 Jan 2026 14:26:04 CST",
-    "summary": "Strong market returns and the AI boom have meant new riches for some\nemployees, but it's risky to have too much of your net worth tied up in one\nstock.\n\n"
-  },
-  {
     "title": "December’s Jobs Data Reinforces Fed’s Cautious Approach to Future Cuts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
     "published": "Fri, 09 Jan 2026 14:23:55 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F09%2Fstocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html",
-    "published": "Fri, 09 Jan 2026 12:53:11 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
     "title": "Minimum Wage Rises in Some States as Workers Struggle With Basic Costs",
@@ -946,12 +964,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Fnicolai-tangen-in-good-company-podcast-norges-bank.html",
     "published": "Fri, 09 Jan 2026 12:08:53 CST",
     "summary": "Nicolai Tangen wanted to raise the profile of Norway’s $2.1 trillion oil fund\nand change corporate behavior, but he may have helped embroil it in a\ngeopolitical tangle.\n\n"
-  },
-  {
-    "title": "Saks Global struggles to line up financing as potential bankruptcy filing looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F08%2Fsaks-global-struggles-to-line-up-bankruptcy-financing.html",
-    "published": "Thu, 08 Jan 2026 22:55:05 CST",
-    "summary": "Saks is trying to line up financing to pay its bills during a potential\nbankruptcy filing, but investors have shown little interest over repayment\nconcerns.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Fell to Lowest Level Since 2009 as Tariffs Reshape Trade",
