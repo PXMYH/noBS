@@ -1,9 +1,45 @@
 [
   {
+    "title": "How the Buffett family plans to give away more than $150 billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html",
+    "published": "Thu, 15 Jan 2026 17:50:34 CST",
+    "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
+  },
+  {
+    "title": "Goldman’s Stock Traders Smash Records as BlackRock Assets Hit $14 Trillion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fblackrock-total-assets-hit-14t-video",
+    "published": "Thu, 15 Jan 2026 17:33:35 CST",
+    "summary": "Wall Street banks handed back a record amount of capital to shareholders as\nsurging profit and relaxing capital rules gave executives the confidence to\nramp up stock buybacks. Morgan Stanley’s debt bankers increased revenue 93% in\nthe fourth quarter, by far the biggest jump on Wall Street and capping a\nrecord year for that business. Goldman Sachs Group Inc. blew through\nexpectations for equities-trading revenue, posting an all-time Wall Street\nrecord of $4.31 billion in the final three months of last year. BlackRock Inc.\npulled in $342 billion of total client cash in the fourth quarter, pushing the\nfirm to a record $14 trillion of assets as it integrates a string of recent\nacquisitions to become a force in private markets. Bloomberg's Neil Sipes\njoins to break down bank earnings on Bloomberg Intelligence. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Ftrump-congress-aca-subsidies-health-care.html",
+    "published": "Thu, 15 Jan 2026 17:22:48 CST",
+    "summary": "Trump urged Congress, which is grappling over an extension of key ACA tax\ncredits, to pass \"The Great Healthcare Plan\" without delay.\n\n"
+  },
+  {
+    "title": "Carlyle Group Says Wealth Business Has Doubled Since 2023",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcarlyle-group-says-wealth-business-has-doubled-since-2023",
+    "published": "Thu, 15 Jan 2026 17:01:52 CST",
+    "summary": "Carlyle Group Inc.’s wealth business has nearly doubled since Harvey Schwartz\nbecame chief executive officer in 2023 and is on track to account for some 20%\nof the firm’s capital flows.\n\n"
+  },
+  {
+    "title": "Peru Hit by Unexpectedly Big Economic Slowdown Led by Copper",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fperu-hit-by-unexpectedly-large-economic-slowdown-led-by-copper",
+    "published": "Thu, 15 Jan 2026 16:53:08 CST",
+    "summary": "Peru’s economy expanded much less than forecast in November due to a slump in\ncopper output.\n\n"
+  },
+  {
     "title": "Goldman Explores Prediction Market Opportunities, Solomon Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgoldman-explores-prediction-market-opportunities-solomon-says",
     "published": "Thu, 15 Jan 2026 16:45:16 CST",
     "summary": "Goldman Sachs Group Inc. is looking at opportunities in prediction markets,\npositioning the investment bank to benefit from the fast-growing forums for\nbets on real-world events.\n\n"
+  },
+  {
+    "title": "Bloomberg Surveillance 1/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbloomberg-surveillance-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 16:45:03 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Equinor Wins Ruling to Resume Wind Project Halted by Trump",
@@ -54,12 +90,6 @@
     "summary": "Trafigura Group, one of the large commodity traders tapped by US President\nDonald Trump to market Venezuelan oil, is preparing to discharge its first\ncargo after positioning a vessel off the shores of Curacao.\n\n"
   },
   {
-    "title": "How the Buffett family plans to give away more than $150 billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html",
-    "published": "Thu, 15 Jan 2026 16:20:09 CST",
-    "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
-  },
-  {
     "title": "Billionaire Rams owner Stan Kroenke becomes America's biggest private landowner",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstan-kroenke-largest-private-us-landowner.html",
     "published": "Thu, 15 Jan 2026 16:11:31 CST",
@@ -90,7 +120,7 @@
     "summary": "The top executive of the crypto exchange Coinbase scuttled a planned Senate\ncommittee vote on a major cryptocurrency bill after voicing his concerns, a\nsign of the company’s clout.\n\n"
   },
   {
-    "title": "JPMorgan Forms New Quant Group to Fend off Market-Maker Rivals",
+    "title": "JPMorgan Forms New Quant Group to Fend Off Market-Maker Rivals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjpmorgan-forms-new-quant-group-to-fend-off-market-maker-rivals",
     "published": "Thu, 15 Jan 2026 16:00:00 CST",
     "summary": "JPMorgan Chase & Co. has formed a new quantitative trading and research group\nin a bid to speed up its efforts in electronic trading and fend off non-bank\nrivals.\n\n"
@@ -138,22 +168,10 @@
     "summary": "Germany’s defunct Greensill Bank AG is seeking about £330 million ($441\nmillion) from the UK, accusing it of wrongly canceling Covid-era loan\nguarantees it agreed with Australian financier Lex Greensill’s trade finance\narm.\n\n"
   },
   {
-    "title": "Trump Media ETFs Test Brand Power in Crowded $14 Trillion Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-media-etfs-test-brand-power-in-crowded-14-trillion-market",
-    "published": "Thu, 15 Jan 2026 15:32:25 CST",
-    "summary": "Donald Trump’s social-media empire is muscling into Wall Street, entering the\n$14 trillion US ETF market with five new “Made in America” funds spanning\nindustries from energy to defense.\n\n"
-  },
-  {
     "title": "State Street Joins Crypto Rush With Digital-Asset Rollout",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstate-street-is-joining-crypto-rush-with-digital-asset-rollout",
     "published": "Thu, 15 Jan 2026 15:30:24 CST",
     "summary": "State Street Corp. is rolling out a digital-asset platform as the firm pushes\nto grow in the increasingly popular asset class.\n\n"
-  },
-  {
-    "title": "White House Always Answers the Phone, Ford CEO Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fwhite-house-always-answers-the-phone-ford-ceo-says-video",
-    "published": "Thu, 15 Jan 2026 15:29:29 CST",
-    "summary": "Ford Motor Co. Chief Executive Officer Jim Farley says the Trump\nadministration will \"always answer the phone\" and has been great to work with,\nbut he says there is still a long list of issues to work through. He speaks to\nBloomberg's Matt Miller. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Brazilian Tycoon Steinbruch to Sell CSN Assets to Slash Debt",
@@ -162,16 +180,10 @@
     "summary": "Brazilian steel-to-energy conglomerate CSN plans to divest key assets to\nreduce its heavy debt burden as high interest rates squeeze financing and\nweigh on investment.\n\n"
   },
   {
-    "title": "Gap Goes Hollywood With New Chief Entertainment Officer",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgap-goes-hollywood-with-new-chief-entertainment-officer",
-    "published": "Thu, 15 Jan 2026 15:17:13 CST",
-    "summary": "Gap Inc. tapped former Paramount executive Pam Kaufman to be its first chief\nentertainment officer, a sign the company is looking to grow its media\npresence.\n\n"
-  },
-  {
-    "title": "TSX Clears 33,000 For First Time as Tech Names Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsx-clears-33-000-for-first-time-as-tech-names-rise",
-    "published": "Thu, 15 Jan 2026 15:13:42 CST",
-    "summary": "Canadian stocks surpassed 33,000 to reach a record high as tech and\nindustrials names rose. The S&P/TSX Composite Index moved 0.3% higher on\nThursday to hit 33,014.\n\n"
+    "title": "S&amp;P 500 Flirts With Record as TSMC Outlook Renews AI Enthusiasm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-stocks-rally-as-tsmc-earnings-renew-faith-in-ai-trade",
+    "published": "Thu, 15 Jan 2026 15:02:18 CST",
+    "summary": "US stocks approached record highs on Thursday as traders piled into technology\nshares following Taiwan Semiconductor Manufacturing Co.’s earnings, a sign of\nrenewed optimism around artificial intelligence.\n\n"
   },
   {
     "title": "Paramount Loses Bid to Get Warner Bros. Suit on Fast Track",
@@ -246,22 +258,16 @@
     "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
   },
   {
-    "title": "Goldman Sachs Looking to Sell at Least $12 Billion in Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings",
-    "published": "Thu, 15 Jan 2026 13:04:01 CST",
-    "summary": "Goldman Sachs Group Inc. is seeking to raise at least $12 billion from an\ninvestment-grade bond sale, accelerating issuance by Wall Street’s biggest\nbanks after releasing fourth-quarter results.\n\n"
+    "title": "South Africa Closes Kruger Park as Deadly Floods Kill Dozens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsouth-africa-closes-kruger-park-as-deadly-floods-kill-dozens",
+    "published": "Thu, 15 Jan 2026 13:08:14 CST",
+    "summary": "Deadly floods prompted South Africa’s iconic Kruger National Park to shut to\nfurther visitors, after extreme rainfall killed dozens in the northeast of the\ncountry and neighboring Mozambique.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Taiwan Semiconductor, ASML, BlackRock and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstocks-making-the-biggest-moves-premarket-tsm-asml-blk.html",
     "published": "Thu, 15 Jan 2026 13:01:19 CST",
     "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
-  },
-  {
-    "title": "Mastercard, Visa, Revolut Lose London Suit Over Card Fee Cap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmastercard-visa-revolut-lose-uk-suit-over-cross-border-fees",
-    "published": "Thu, 15 Jan 2026 12:42:56 CST",
-    "summary": "Mastercard Inc., Visa Inc. and UK fintech Revolut Ltd. lost a lawsuit with the\nUK regulator over its plans to usher in a cap on cross-border card fees.\n\n"
   },
   {
     "title": "How a billionaire with interests in Greenland encouraged Trump to acquire the territory",
@@ -374,14 +380,14 @@
   {
     "title": "Kaiser Permanente Agrees to Pay $556 Million to Settle Medicare Overbilling Claims",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fhealth%2Fmedicare-advantage-kaiser-overbilling-fraud.html",
-    "published": "Wed, 14 Jan 2026 23:07:03 CST",
+    "published": "Wed, 14 Jan 2026 23:07:04 CST",
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Tech Stocks Power Wall Street Gains After Selloff: Markets Wrap",
+    "title": "Tech Powers Stock Gains as Small Caps Rally Anew: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "A rally in technology giants spurred a rebound in stocks as a blowout outlook\nfrom an artificial-intelligence bellwether rekindled hopes about the longevity\nof a key bull-market driver.\n\n"
+    "summary": "A rally in big tech spurred a rebound in stocks as a blowout outlook from an\nartificial-intelligence bellwether rekindled hopes about the longevity of a\nkey bull-market driver while signs of economic strength lifted small caps.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -928,12 +934,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F11%2Fgm-hq-detroit-artifacts-company-history.html",
     "published": "Sun, 11 Jan 2026 09:00:01 CST",
     "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and\n\"Easter eggs\" tied to the Detroit automaker's history.\n\n"
-  },
-  {
-    "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F10%2F2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
-    "published": "Sat, 10 Jan 2026 13:00:01 CST",
-    "summary": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk,\nand a rival oral drug from Eli Lilly is slated for U.S. approval later this\nyear.\n\n"
   },
   {
     "title": "Inside Tony Dokoupil’s chaotic first week as the CBS Evening News anchor",
