@@ -1,6 +1,60 @@
 [
   {
-    "title": "UniCredit Dismisses Monte Paschi Speculation as ‘Unjustified’",
+    "title": "Precious Metals Have Rallied Too Quickly: 3-Minutes MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fprecious-metals-have-rallied-too-quickly-3-minutes-mliv-video",
+    "published": "Thu, 15 Jan 2026 08:27:33 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "UK’s South East Water Faces New Investigation Over Outages",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fuk-s-south-east-water-faces-new-investigation-over-outages",
+    "published": "Thu, 15 Jan 2026 08:25:34 CST",
+    "summary": "South East Water Ltd. could be fined as much as 10% of its turnover if a new\ninvestigation by industry regulator Ofwat finds the UK company breached\nlicence conditions over customer care during recent outages.\n\n"
+  },
+  {
+    "title": "ASML Soars Above $500 Billion Value on TSMC’s Upbeat Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook",
+    "published": "Thu, 15 Jan 2026 08:22:35 CST",
+    "summary": "ASML Holding NV shares soared to a record high, sending its market value\nbeyond $500 billion, after its key customer Taiwan Semiconductor Manufacturing\nCo. gave a stronger-than-anticipated outlook for 2026.\n\n"
+  },
+  {
+    "title": "China’s State Grid Plans 40% Surge in Investment Through 2030",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-state-grid-plans-40-surge-in-investment-through-2030",
+    "published": "Thu, 15 Jan 2026 08:05:51 CST",
+    "summary": "The State Grid Corp. of China plans to boost spending to 4 trillion yuan ($574\nbillion) over the next five years, as the nation races to expand its power\nnetwork to keep pace with rising electricty demand and build-out of\nrenewables.\n\n"
+  },
+  {
+    "title": "Chinese Builder Jingrui Ordered to Liquidate by Hong Kong Court",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchinese-builder-jingrui-ordered-to-liquidate-by-hong-kong-court",
+    "published": "Thu, 15 Jan 2026 07:58:40 CST",
+    "summary": "Hong Kong’s High Court ordered the liquidation of developer Jingrui Holdings\nLtd., making it the latest defaulted Chinese builder to be wound up in the\ncity amid China’s years-long property crisis.\n\n"
+  },
+  {
+    "title": "Jim Ratcliffe Cuts Price Tag for French Football Club Nice",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjim-ratcliffe-cuts-price-tag-for-french-football-club-nice",
+    "published": "Thu, 15 Jan 2026 07:55:30 CST",
+    "summary": "Billionaire Jim Ratcliffe has slashed the asking price for French football\nteam OGC Nice, according to people with knowledge of the matter.\n\n"
+  },
+  {
+    "title": "Taylor Wimpey Sees ‘Muted’ Demand For UK Home Selling Season",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftaylor-wimpey-sees-muted-demand-for-uk-home-selling-season",
+    "published": "Thu, 15 Jan 2026 07:52:11 CST",
+    "summary": "The UK housing marked continues to be blighted by lackluster demand as buyers\nstruggle with elevated mortgage costs that have stretched affordability,\naccording to Taylor Wimpey Plc.\n\n"
+  },
+  {
+    "title": "Trump Holds Back on Iran; European Military In Greenland | Horizons Middle East & Africa 1/15/2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fhorizons-middle-east-africa-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 07:50:29 CST",
+    "summary": "Oil slumping after US president Donald Trump signals he may hold off on\nattacking Iran for now; German military personnel are set to arrive in\nGreenland today as European nations respond to US threats. Denmark says a\nfundamental disagreement remains after meeting with US officials; plus\nMozambique will only start discuss renegotiating its debt after a deal is\nagreed with the IMF on a new program. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Microsoft Investigated by Swiss Regulator over Licensing Fees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmicrosoft-investigated-by-swiss-regulator-over-licensing-fees",
+    "published": "Thu, 15 Jan 2026 07:39:40 CST",
+    "summary": "Switzerland’s competition commission has begun a preliminary investigation\ninto Microsoft Corp. over the licensing fees it charges clients in the country\nafter receiving complaints over recent price increases.\n\n"
+  },
+  {
+    "title": "UniCredit Dismisses ‘Unjustified’ Monte Paschi Speculation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified",
     "published": "Thu, 15 Jan 2026 07:32:15 CST",
     "summary": "UniCredit SpA said that recent media reports about its interest in potentially\nbuying a stake in rival Banca Monte dei Paschi di Siena SpA were\n“unjustified.”\n\n"
@@ -12,13 +66,13 @@
     "summary": "Chinese banks extended the smallest amount of new loans since 2018 last year\nwhile credit expansion slowed in December, in a reflection of sluggish demand\nfrom borrowers that’s weighing on growth.\n\n"
   },
   {
-    "title": "Philippines to Allow Visa-Free Entry for Chinese Visitors",
+    "title": "Philippines Waives Visas for Chinese to Boost Tourism",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fphilippines-to-allow-visa-free-entry-for-chinese-visitors",
     "published": "Thu, 15 Jan 2026 07:09:50 CST",
-    "summary": "The Philippines will allow Chinese nationals to enter without visas for a stay\nof up to 14 days, the Southeast Asian nation’s Department of Foreign Affairs\nsaid Thursday.\n\n"
+    "summary": "The Philippines will allow Chinese nationals to enter without visas for a stay\nof up to two weeks, as the Southeast Asian nation pushes to revive its\nfaltering tourism sector.\n\n"
   },
   {
-    "title": "UK Economy Grew More Than Expected in November",
+    "title": "Traders Pare BOE Cut Bets After UK Returns to Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-15%2Fftse-100-live-uk-gdp-oil-silver-gold-prices-pound-bonds-trump-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 15 Jan 2026 06:46:08 CST",
     "summary": "\n\n"
@@ -36,10 +90,10 @@
     "summary": "A federal officer shot a man in the leg on Wednesday night in Minneapolis,\nwhere protests have continued against ICE's presence. Mayor Jacob Frey and\nPolice Chief Brian O'Hara speak about the latest developments. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race",
+    "title": "Naver, NCSoft Cut From Korea’s Intense Sovereign AI Contest",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race",
     "published": "Thu, 15 Jan 2026 06:11:46 CST",
-    "summary": "South Korea dropped teams led by units of Naver Corp. and NCSoft Corp. from\nits closely-watched competition to develop the nation’s first sovereign AI\nmodel, narrowing the field to three teams.\n\n"
+    "summary": "South Korea dropped teams led by units of Naver Corp. and NCSoft Corp. from\nits closely watched competition to develop the nation’s first sovereign AI\nmodel, narrowing the field to three groups.\n\n"
   },
   {
     "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
@@ -72,16 +126,10 @@
     "summary": "Tony He, CFO of the Chinese biopharmaceutical firm 3SBio, discusses his\noutlook for dealmaking and the progress of a record licensing deal the company\nstruck with Pfizer last year. He speaks on “Bloomberg: The China Show” from\nSan Francisco, where the JPMorgan Healthcare Conference is taking place.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "TSMC’s Strong Outlook Shores Up Hopes of Sustained AI Boom",
+    "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength",
     "published": "Thu, 15 Jan 2026 05:34:02 CST",
     "summary": "Taiwan Semiconductor Manufacturing Co. is earmarking as much as $56 billion in\ncapital spending for 2026, a stronger-than-anticipated projection that signals\nits confidence in the longevity of the global AI boom.\n\n"
-  },
-  {
-    "title": "Bank Indonesia Joins Global Central Banks Backing Fed’s Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbank-indonesia-joins-global-central-banks-backing-fed-s-powell",
-    "published": "Thu, 15 Jan 2026 05:27:19 CST",
-    "summary": "Bank Indonesia joined a group of global central banks in throwing its support\nbehind Federal Reserve Chairman Jerome Powell, becoming the first monetary\nauthority in Southeast Asia to publicly do so.\n\n"
   },
   {
     "title": "Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects",
@@ -90,43 +138,13 @@
     "summary": "Trading desks across Wall Street have benefited in the last year as Trump's\npolicies have roiled markets for bonds, currencies, commodities and stocks.\n\n"
   },
   {
-    "title": "LIV Golf Is Losing Its $5 Billion Battle With the PGA Tour",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fliv-golf-is-losing-to-the-pga-tour-after-spending-nearly-5-billion",
-    "published": "Thu, 15 Jan 2026 05:01:00 CST",
-    "summary": "The first tournament from Saudi-backed LIV Golf Ltd. teed off more than three\nand a half years ago at a country club in North London. The winner would bank\n$4.75 million, the largest payday in pro golf history. Traffic signs warned of\nthrongs of fans clogging the roads.\n\n"
-  },
-  {
-    "title": "Foreign Enrollment on US Campuses Drops For First Time in Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fforeign-enrollment-on-us-campuses-drops-for-first-time-in-years",
-    "published": "Thu, 15 Jan 2026 05:01:00 CST",
-    "summary": "Foreign student enrollment at US universities fell this fall for the first\ntime in three years after the Trump administration clamped down on immigration\nand took aim at a bevy of elite schools.\n\n"
-  },
-  {
-    "title": "Zambia Leads Africa’s Rally as Its Stocks Rank Second Worldwide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fzambia-tops-africa-s-stock-rally-on-copper-boom-faster-growth",
-    "published": "Thu, 15 Jan 2026 05:00:00 CST",
-    "summary": "Zambia’s stock market is one of the world’s top two performers this year,\npowered by record high copper prices and expectations of faster economic\ngrowth.\n\n"
-  },
-  {
-    "title": "Emerging Market Payments Provider Dlocal Plans a Push Into Asia",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Femerging-market-payments-provider-dlocal-plans-a-push-into-asia",
-    "published": "Thu, 15 Jan 2026 05:00:00 CST",
-    "summary": "Payment services provider DLocal Ltd is deepening its presence this year in\nkey Asian markets where it operates with a plan to make dozens of hires,\nincluding a senior figure, Chief Executive Officer Pedro Arnt said in an\ninterview.\n\n"
-  },
-  {
     "title": "China Margin Clampdown Signals Bid to Cool Tech-Led Stock Froth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push",
     "published": "Thu, 15 Jan 2026 04:39:13 CST",
     "summary": "China’s surprise tightening of margin financing underscores mounting concern\namong regulators that speculative excess -- especially in pockets of the\ntechnology sector -- risks morphing into a destabilizing bubble if left\nunchecked.\n\n"
   },
   {
-    "title": "Investors Rotate Out of Tech Stocks | The Asia Trade 1/15/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-asia-trade-1-15-26-video",
-    "published": "Thu, 15 Jan 2026 04:39:08 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Mozambique Eyes Debt Talks After New IMF Program, President Says",
+    "title": "Mozambique Eyes Debt Talks After New IMF Program; Eurobond Slips",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says",
     "published": "Thu, 15 Jan 2026 04:30:00 CST",
     "summary": "Mozambique will only start talks with creditors to renegotiate its debt after\nreaching an agreement on a new program with the International Monetary Fund,\nPresident Daniel Chapo said.\n\n"
@@ -142,12 +160,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-tanker-rates-spike-as-us-push-into-venezuela-redraws-flows",
     "published": "Thu, 15 Jan 2026 04:08:16 CST",
     "summary": "The shipping market is being shaken up by Washington’s intervention in\nVenezuela, as the prospect of more oil being exported to the US boosts\nregional tanker rates to their highest level in almost two years.\n\n"
-  },
-  {
-    "title": "Iran Oil Risks Don't Disappear With Trump Reprieve",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-15%2Firan-oil-risks-don-t-disappear-with-trump-reprieve",
-    "published": "Thu, 15 Jan 2026 04:02:48 CST",
-    "summary": "The country is bringing far more danger to the geopolitical table than\nVenezuela.\n\n"
   },
   {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
@@ -168,22 +180,10 @@
     "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to\nChina while putting off a decision about imposing higher taxes on the chip\nindustry.\n\n"
   },
   {
-    "title": "Hedge Funds Bet Yen May Slide to 165 Before Intervention",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-are-betting-yen-may-slide-to-165-before-intervention",
-    "published": "Thu, 15 Jan 2026 01:03:00 CST",
-    "summary": "Hedge funds are ignoring yen intervention warnings and wagering in the\ncurrency option markets that it may fall toward 165 to a dollar before\nJapanese authorities step in.\n\n"
-  },
-  {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
     "published": "Wed, 14 Jan 2026 23:39:59 CST",
     "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
-  },
-  {
-    "title": "Silver Tumbles After Trump Holds Off on Critical Mineral Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
-    "published": "Wed, 14 Jan 2026 23:36:24 CST",
-    "summary": "Silver retreated on signs investors took profits following a bilstering rally\nand as the US held off from imposing import tariffs on critical minerals.\n\n"
   },
   {
     "title": "Oil Falls After Trump Signals US Response to Iran Is On Hold",
@@ -204,10 +204,16 @@
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Oil Leads Losses Among Commodities, Silver Slumps: Markets Wrap",
+    "title": "Flipping Japan IPOs Loses Luster as Small Share Sales Fade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fflipping-japan-ipos-loses-luster-as-small-share-sales-disappear",
+    "published": "Wed, 14 Jan 2026 23:00:30 CST",
+    "summary": "Japan’s initial public offerings have become less profitable to flip on their\ntrading debut, a trend investors have welcomed as an indication of higher\nquality companies coming to market.\n\n"
+  },
+  {
+    "title": "TSMC Spurs Tech Revival as Metals Slide From Peaks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "Oil fell for the first time in six days after President Donald Trump signaled\nhe may hold off on attacking Iran for now. Precious metals also slipped from\ntheir record highs.\n\n"
+    "summary": "Technology stocks bounced back on Thursday after Taiwan Semiconductor\nManufacturing Co. renewed confidence in the durability of artificial-\nintelligence demand. Metals fell from all-time highs.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -260,7 +266,7 @@
   {
     "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Frepublicans-stock-bill-trading.html",
-    "published": "Wed, 14 Jan 2026 19:19:58 CST",
+    "published": "Wed, 14 Jan 2026 19:19:59 CST",
     "summary": "The bill would allow lawmakers to keep their existing stock and continue to\nsell it if they provide seven to 14 days of notice. Democrats called it a\n“gift to insider traders.”\n\n"
   },
   {
@@ -458,7 +464,7 @@
   {
     "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
-    "published": "Tue, 13 Jan 2026 23:55:58 CST",
+    "published": "Tue, 13 Jan 2026 23:55:59 CST",
     "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
@@ -652,12 +658,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fjerome-powell-fed-chair-trump",
     "published": "Tue, 13 Jan 2026 11:00:59 CST",
     "summary": "Highly respected figure has cast off restrained approach in defending central\nbank from escalating attacks\n\nThere are often few surprises with Jerome Powell. At his handful of public\nappearances each month, the US Federal Reserve chair always sports the same\nsoftly stern expression. His voice, typically dispassionate and near-monotone,\nnever wavers.\n\nAs one of the most powerful officials in the world, commanding a platform that\nhas the ability to move global markets with a few words, Powell is often\nreserved in a way that fails to yield soundbites in this social media era:\nboring, even.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Global Central Banks Show Full Solidarity With Fed’s Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-13%2Fglobal-central-bankers-in-full-solidarity-with-fed-s-powell",
-    "published": "Tue, 13 Jan 2026 10:15:15 CST",
-    "summary": "Global central bankers threw their support behind Chairman Jerome Powell after\nthe Trump administration ratcheted up its already unprecedented pressure\ncampaign against the Federal Reserve.\n\n"
   },
   {
     "title": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
