@@ -1,12 +1,21 @@
 # NoBS News Digest - January 15, 2026
 
-Generated from **207** unique articles (deduplicated from 207 total) across **1** news sources
+Generated from **205** unique articles (deduplicated from 205 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate this week’s headlines, with Canada making a significant diplomatic push toward China. Prime Minister Mark Carney’s visit to Beijing—the first by a Canadian leader in eight years—signals an effort to repair strained relations and expand trade, as Chinese state media presses Ottawa to lift tariffs. The trip underscores Canada’s search for new markets amid worsening U.S.-China relations, though Beijing’s sensitivity to sovereignty issues remains evident, as seen in its earlier threat to cancel UK trade talks over a British minister’s visit to Taiwan. Meanwhile, the looming expiration of Ozempic patents promises to reshape global pharmaceutical markets, with generic versions expected to drive down prices in major economies like China, India, and Brazil. In Ukraine, businesses like vodka producer Nemiroff demonstrate resilience, expanding exports despite ongoing Russian attacks, while former U.S. President Trump’s aggressive pursuit of Venezuelan oil resources draws criticism for its outdated economic approach and potential to undermine American influence.
+{
+    "summary": "Geopolitical tensions and economic shifts dominate this week's headlines, with Canada making a significant diplomatic push toward China. Prime Minister Mark Carney arrives in Beijing for the first Canadian state visit in eight years, aiming to repair strained relations and expand trade ties. China, meanwhile, pressures Ottawa to lift tariffs on its exports, signaling a potential thaw in bilateral trade disputes. The visit comes as Canada seeks new markets amid a darkening U.S. economic outlook, underscoring the delicate balance of global trade alliances.
+
+In other developments, Ukraine's resilience in the face of ongoing conflict is highlighted by businesses like Nemiroff, which continues to export vodka to major UK retailers despite production challenges from Russian bombings. Meanwhile, China's assertive stance on Taiwan resurfaces, with reports revealing Beijing threatened to cancel key trade talks with the UK after a British minister's visit to Taipei earlier this year. The incident underscores the fragile nature of diplomatic relations in the Indo-Pacific region.",
+    "key_stories": [
+        "Canada's Carney visits Beijing to mend China ties amid tariff pressures",
+        "Ukraine's Nemiroff expands exports despite wartime production challenges",
+        "China threatened UK trade talks over minister's Taiwan visit"
+    ]
+}
 
 **Top Articles:**
 - [An Ozempic Price War Is Coming](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fan-ozempic-price-war-is-coming-video)
@@ -21,58 +30,59 @@ Geopolitical tensions and economic shifts dominate this week’s headlines, with
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of economic resilience and emerging risks, with central banks and policymakers at the center of key developments. In the U.S., inflation holds steady at 2.7% as the Federal Reserve faces political pressure, with President Trump pushing for interest rate cuts and a controversial 10% cap on credit card rates—a move banks are fiercely resisting. Meanwhile, corporate earnings reveal strength in financials, as JPMorgan, Citigroup, and Bank of America beat estimates, though retail struggles persist with Saks Global filing for bankruptcy amid mounting debt. Internationally, China’s record trade surplus and regulatory tightening on margin financing highlight its balancing act between growth and market stability, while geopolitical tensions and tariff policies dominate business risks, according to the World Economic Forum. Commodities see volatility, with oil tanker rates spiking due to U.S.-Venezuela oil flows and silver retreating after Trump delays critical mineral tariffs. M&A activity heats up as Netflix reportedly shifts to an all-cash bid for Warner Bros. Discovery, signaling a potential media shakeup.
+Global markets are experiencing mixed signals as investors navigate shifting economic policies and corporate developments. In the U.S., major banks like JPMorgan Chase and Citigroup report strong earnings, buoyed by robust trading revenue and net interest income, while Goldman Sachs prepares to release its fourth-quarter results amid heightened market volatility driven by Trump administration policies. However, retail giant Saks Global files for bankruptcy, highlighting ongoing struggles in the luxury sector, while food prices continue to climb, adding pressure on consumers. Meanwhile, China tightens margin financing rules to curb tech stock froth, even as its trade surplus hits a record $1.19 trillion, fueled by weak currency policies and export growth. Commodities see turbulence, with oil tanker rates spiking due to U.S. intervention in Venezuela, while silver prices retreat after Trump delays critical mineral tariffs. The Federal Reserve faces uncertainty as inflation holds steady at 2.7%, and political tensions rise over Trump’s proposed credit card rate cap, which banks vow to fight. Internationally, Zambia’s stock market surges on copper prices, and Mozambique seeks IMF support before debt renegotiations, reflecting divergent economic trajectories across emerging markets.
 
 **Top Articles:**
-- [China’s Margin Scrutiny Targets Stock Froth Created by Tech Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push)
-- [Mozambique Eyes Debt Talks After New IMF Program, President Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says)
-- [Oil Tanker Rates Spike as US Push Into Venezuela Redraws Flows](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-tanker-rates-spike-as-us-push-into-venezuela-redraws-flows)
-- [Goldman's Kwon: Bullish on Korea Fundamentals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgoldman-s-kwon-bullish-on-korea-fundamentals-video)
-- [Treasury Wine Drops Most in a Month on New Risk to US Business](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftreasury-wine-drops-most-in-a-month-on-new-risk-to-us-business)
+- [3SBio Sees More Business Development Deals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2F3sbio-sees-more-business-development-deals-video)
+- [Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html)
+- [Zambia Leads Africa’s Rally as Its Stocks Rank Second Worldwide](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fzambia-tops-africa-s-stock-rally-on-copper-boom-faster-growth)
+- [China Margin Clampdown Signals Bid to Cool Tech-Led Stock Froth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push)
+- [Investors Rotate Out of Tech Stocks | The Asia Trade 1/15/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-asia-trade-1-15-26-video)
 
-**Sources**: archive.ph (93 articles)
+**Sources**: archive.ph (94 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape in early 2026 is marked by high-stakes regulatory shifts, corporate strategy pivots, and emerging market trends. President Trump’s administration imposes limited tariffs on foreign semiconductors, targeting Nvidia’s sales to China while delaying broader industry taxes, as part of a broader trade strategy that includes a potential deal with Taiwan to boost U.S. chip manufacturing. Meanwhile, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, signaling a rebound, while GM and Ford face setbacks, with GM recording a $7.1 billion charge due to EV pullbacks and China restructuring. The year also hints at a potential IPO boom, with SpaceX, OpenAI, and Anthropic eyeing public listings that could inject billions into Silicon Valley. In healthcare, Amazon Pharmacy begins offering Novo Nordisk’s Wegovy weight-loss pill at discounted rates, reflecting the growing obesity drug market. Regulatory pressures mount as the U.S. considers expanding private sector roles in cyberwarfare, and the Supreme Court grapples with Louisiana’s lawsuits against oil companies, highlighting tensions between corporate and environmental interests.
+The tech and business landscape in early 2026 is marked by strong AI-driven growth, regulatory shifts, and strategic corporate moves. TSMC's robust earnings underscore sustained demand for AI hardware, while Boeing outperforms Airbus in jet deliveries for the first time since 2018. Meanwhile, the Trump administration's trade policies—including limited semiconductor tariffs and a potential Taiwan deal—are reshaping global supply chains. In healthcare, obesity pills like Novo Nordisk's Wegovy are gaining traction, with Amazon Pharmacy now offering the drug at discounted rates. The labor market shows signs of cooling, with U.S. job growth hitting a five-year low, while immigration policies contribute to a net decline in foreign enrollment at U.S. universities. Financial giants like JPMorgan face pressure amid leadership transitions, and crypto regulation remains a hot-button issue as lawmakers push for comprehensive legislation.
 
 **Top Articles:**
+- [TSMC Profit Beats Estimates in Fresh Sign of AI Demand Strength](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength)
+- [Foreign Enrollment on US Campuses Drops For First Time in Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fforeign-enrollment-on-us-campuses-drops-for-first-time-in-years)
+- [Emerging Market Payments Provider Dlocal Plans a Push Into Asia](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Femerging-market-payments-provider-dlocal-plans-a-push-into-asia)
 - [Iran Oil Risks Don't Disappear With Trump Reprieve](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-15%2Firan-oil-risks-don-t-disappear-with-trump-reprieve)
 - [BeOne CEO on Business Strategy, Biotech Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbeone-ceo-on-business-strategy-biotech-outlook-video)
-- [Nickel Steadies After Surge as Indonesia Flags Lower Ore Supply](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fnickel-steadies-after-surge-as-indonesia-flags-lower-ore-supply)
-- [China Drinks Maker Eastroc Beverage Said to Gauge Interest for Billion-Dollar Plus Hong Kong Listing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-eastroc-said-to-gauge-interest-for-billion-dollar-plus-hong-kong-listing)
-- [Trump Imposes Limited Tariffs on Foreign Semiconductors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Ftrump-chips-tariffs.html)
 
-**Sources**: archive.ph (70 articles)
+**Sources**: archive.ph (67 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discounters for their weekly shopping. The aggressive growth underscores rising competition in the grocery sector, with Aldi and other value-focused retailers drawing shoppers away from traditional supermarkets. The move reflects broader economic trends, as inflation and cost-of-living pressures push consumers across income levels to prioritize affordability without sacrificing quality. Aldi's strategy includes modernizing stores and expanding its product offerings, further intensifying pressure on established grocers to adapt. The expansion also highlights the shifting retail landscape, where discounters are gaining market share by appealing to both budget-minded and mainstream shoppers.
+LIV Golf's ambitious $5 billion challenge to the PGA Tour appears to be faltering, as the Saudi-backed league struggles to sustain momentum more than three years after its high-profile launch. Despite record-breaking prize money and bold promises, the circuit has failed to draw the anticipated crowds or disrupt the dominance of traditional golf tours. Meanwhile, in the business world, discount grocer Aldi announces aggressive expansion plans, aiming to open over 180 new U.S. stores in 2026. The move underscores shifting consumer priorities, as inflation and economic uncertainty drive shoppers toward value-focused retailers. While LIV Golf grapples with its future, Aldi's growth highlights broader trends in retail and sports economics, where financial pragmatism increasingly shapes industry landscapes.
 
 **Top Articles:**
+- [LIV Golf Is Losing Its $5 Billion Battle With the PGA Tour](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fliv-golf-is-losing-to-the-pga-tour-after-spending-nearly-5-billion)
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
 
-**Sources**: archive.ph (1 article)
+**Sources**: archive.ph (2 articles)
 
 ---
 
 ## 📰 Other News
 
-Global markets and economic pressures dominate headlines as South Korea's won tests authorities' resolve amid a 17-year low, despite rare verbal support from U.S. Treasury Secretary Scott Bessent. Meanwhile, iron ore prices remain robust despite soft Chinese demand, with mining giants BHP and Rio Tinto announcing a major collaboration to boost production in Australia’s Pilbara region. In the U.S., inflation concerns persist as food prices surge, while President Trump’s aggressive tactics to lower housing costs face internal contradictions, with his mortgage chief undermining affordability efforts. On the corporate front, Netflix prepares to adjust its offer for Warner Bros. Discovery, potentially shifting to an all-cash deal, while Paramount escalates its bid with boardroom threats. Human interest stories highlight the struggles of American families, from childcare costs straining budgets to the revival of *Gourmet Magazine* as an unsanctioned newsletter. Emerging trends include the bumpy rollout of psilocybin therapy in states where it’s legal and the growing reliance on immigrant labor in industries like roofing.
+Global markets and economic pressures dominate headlines this week, with notable developments in trade, corporate mergers, and inflation. South Korea's won continues its decline, testing authorities' resolve despite rare verbal support from U.S. Treasury Secretary Scott Bessent, while oil prices dip after President Trump signals a pause in potential Iran-related actions. Meanwhile, BHP and Rio Tinto announce a major collaboration to boost iron ore production in Australia, signaling a shift in the mining sector. On the domestic front, rising food prices and housing affordability remain critical issues, with the CPI report highlighting sharp increases in beef, coffee, and produce costs. The Trump administration faces scrutiny over conflicting policies on housing affordability, as Fannie Mae and Freddie Mac pull back from low-income homebuyer support. In corporate news, Netflix prepares to adjust its offer for Warner Bros. Discovery, and Allegiant Airlines acquires Sun Country in a $1.5 billion deal, reflecting ongoing consolidation in the budget airline sector. Cultural and social trends also emerge, with the revival of *Gourmet Magazine* as an unsanctioned newsletter and the growing reliance on immigrant labor in industries like roofing, underscoring broader labor market shifts.
 
 **Top Articles:**
 - [Verizon Outage Cuts Off Tens of Thousands of Users](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html)
 - [Korean Won Traders Test Authorities’ Resolve After Bessent Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorean-won-traders-test-authorities-resolve-after-bessent-rally)
-- [Iron Ore’s Strength Hard to Reconcile With Soft Chinese Demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Firon-ore-s-strength-hard-to-reconcile-with-soft-chinese-demand)
 - [BHP, Rio Tinto Are Joining Forces to Boost Iron Ore Pipeline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbhp-and-rio-tinto-to-collaborate-on-iron-ore-project-in-pilbara)
 - [Oil Falls After Trump Signals US Response to Iran Is On Hold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15)
+- [Where Did All the American-Born Roofers Go?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 15, 2026 at 05:01 AM *
+*Digest generated on January 15, 2026 at 05:50 AM *
