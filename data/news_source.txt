@@ -1,9 +1,75 @@
 [
   {
+    "title": "China’s Margin Scrutiny Targets Stock Froth Created by Tech Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push",
+    "published": "Thu, 15 Jan 2026 04:39:13 CST",
+    "summary": "China’s unexpected tightening of margin financing highlights the balancing act\nregulators face in curbing market froth while still supporting investment in\nits innovative technology firms.\n\n"
+  },
+  {
+    "title": "Mozambique Eyes Debt Talks After New IMF Program, President Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says",
+    "published": "Thu, 15 Jan 2026 04:30:00 CST",
+    "summary": "Mozambique will only start talks with creditors to renegotiate its debt after\nreaching an agreement on a new program with the International Monetary Fund,\nPresident Daniel Chapo said.\n\n"
+  },
+  {
+    "title": "Oil Tanker Rates Spike as US Push Into Venezuela Redraws Flows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-tanker-rates-spike-as-us-push-into-venezuela-redraws-flows",
+    "published": "Thu, 15 Jan 2026 04:08:16 CST",
+    "summary": "The shipping market is being shaken up by Washington’s intervention in\nVenezuela, as the prospect of more oil being exported to the US boosts\nregional tanker rates to their highest level in almost two years.\n\n"
+  },
+  {
+    "title": "Iran Oil Risks Don't Disappear With Trump Reprieve",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-15%2Firan-oil-risks-don-t-disappear-with-trump-reprieve",
+    "published": "Thu, 15 Jan 2026 04:02:48 CST",
+    "summary": "The country is bringing far more danger to the geopolitical table than\nVenezuela.\n\n"
+  },
+  {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Thu, 15 Jan 2026 02:07:29 CST",
-    "summary": "The company said on Wednesday night that it was making progress and would work\nthrough the evening, and it promised to provide credits to affected customers.\n\n"
+    "published": "Thu, 15 Jan 2026 03:50:17 CST",
+    "summary": "The outage cut off tens of thousands of users and lasted more than six hours.\nThe cause was not immediately clear.\n\n"
+  },
+  {
+    "title": "BeOne CEO on Business Strategy, Biotech Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbeone-ceo-on-business-strategy-biotech-outlook-video",
+    "published": "Thu, 15 Jan 2026 03:47:18 CST",
+    "summary": "John Oyler, Co-founder, Chairman and CEO at BeOne Medicines, discusses the\ncompany's business strategy and the outlook for the biotech sector. He speaks\nwith Avril Hong and Paul Allen from the sidelines of the JPMorgan Healthcare\nConference in San Francisco. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Korean Won Traders Test Authorities’ Resolve After Bessent Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorean-won-traders-test-authorities-resolve-after-bessent-rally",
+    "published": "Thu, 15 Jan 2026 03:46:19 CST",
+    "summary": "The South Korean won resumed its decline toward a 17‑year low on Thursday,\ntesting officials’ resolve to stem the slide despite supportive remarks from\nUS Treasury Secretary Scott Bessent.\n\n"
+  },
+  {
+    "title": "Goldman's Kwon: Bullish on Korea Fundamentals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgoldman-s-kwon-bullish-on-korea-fundamentals-video",
+    "published": "Thu, 15 Jan 2026 03:33:43 CST",
+    "summary": "Goldman Sachs Senior Asia Economist Goohoon Kwon breaks down the reasons for\nthe weak Korean won and explains why he is bullish on the strong fundamentals\nin the Korean equity market. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Nickel Steadies After Surge as Indonesia Flags Lower Ore Supply",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fnickel-steadies-after-surge-as-indonesia-flags-lower-ore-supply",
+    "published": "Thu, 15 Jan 2026 03:04:07 CST",
+    "summary": "Nickel steadied near the highest level since mid-2024 after top producer\nIndonesia signaled a potential drop in output.\n\n"
+  },
+  {
+    "title": "Treasury Wine Drops Most in a Month on New Risk to US Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftreasury-wine-drops-most-in-a-month-on-new-risk-to-us-business",
+    "published": "Thu, 15 Jan 2026 02:59:18 CST",
+    "summary": "Treasury Wine Estates Ltd. shares fell the most in a month after reports that\nan American distributor may sell its operations raised the prospect of further\ndisruption to the company’s already struggling US business.\n\n"
+  },
+  {
+    "title": "China Drinks Maker Eastroc Beverage Said to Gauge Interest for Billion-Dollar Plus Hong Kong Listing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-eastroc-said-to-gauge-interest-for-billion-dollar-plus-hong-kong-listing",
+    "published": "Thu, 15 Jan 2026 02:51:12 CST",
+    "summary": "Chinese energy-drink maker Eastroc Beverage Group Co. has started gauging\ninvestor interest for a second listing in Hong Kong that may raise more than\n$1 billion, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Senate Committee Delays Crypto Market-Structure Markup",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsenate-committee-delays-crypto-market-structure-markup",
+    "published": "Thu, 15 Jan 2026 02:47:26 CST",
+    "summary": "The Senate Banking Committee has delayed its discussion of the much-\nanticipated crypto market-structure bill, hours after exchange Coinbase Global\nInc. pulled its support for the latest version.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
@@ -24,7 +90,7 @@
     "summary": "Iron ore’s robust start to the year continues to highlight what many observers\ndeem to be a persistent mismatch between market pricing and conditions on the\nground.\n\n"
   },
   {
-    "title": "Hedge Funds Are Betting Yen May Slide to 165 Before Intervention",
+    "title": "Hedge Funds Bet Yen May Slide to 165 Before Intervention",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-are-betting-yen-may-slide-to-165-before-intervention",
     "published": "Thu, 15 Jan 2026 01:03:00 CST",
     "summary": "Hedge funds are ignoring yen intervention warnings and wagering in the\ncurrency option markets that it may fall toward 165 to a dollar before\nJapanese authorities step in.\n\n"
@@ -66,40 +132,22 @@
     "summary": "As Thailand’s general election nears, rising concerns about fiscal largesse\nare adding pressure on longer-dated bonds, spurring bets for sustained\nunderperformance versus short-term notes.\n\n"
   },
   {
-    "title": "KKR Asia Credit Fund Draws 75% New Investors as Decoupling Rises",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkkr-asia-credit-fund-draws-75-new-investors-as-decoupling-rises",
-    "published": "Thu, 15 Jan 2026 00:00:02 CST",
-    "summary": "KKR & Co. raised three-quarters of its $2.5 billion Asia private credit fund\nfrom new investors, as deepening economic decoupling pushes firms to broaden\nexposure and hedge geopolitical risk, according to top executives.\n\n"
-  },
-  {
-    "title": "How Iran’s Economic Protests Started &mdash; And How They Could End",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhow-iran-s-economic-protests-started-and-how-they-could-end",
-    "published": "Wed, 14 Jan 2026 23:51:31 CST",
-    "summary": "Today on the Big Take: Weeks of protests and the prospect of international\nintervention pose existential threats to Iran’s regime.\n\n"
-  },
-  {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
     "published": "Wed, 14 Jan 2026 23:39:59 CST",
     "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
   },
   {
-    "title": "Silver Dips After Trump Holds Off on Critical Minerals Tariffs",
+    "title": "Silver Tumbles After Trump Holds Off on Critical Mineral Tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
     "published": "Wed, 14 Jan 2026 23:36:24 CST",
-    "summary": "Silver edged lower, after US President Donald Trump held off on imposing new\ntariffs on imports of critical minerals but didn’t rule them out.\n\n"
+    "summary": "Silver retreated sharply -- after surging to a record high -- as the US held\noff from imposing tariffs on imports of critical minerals.\n\n"
   },
   {
     "title": "Goldman's Olson: See Private Credit Flows Slowing, But Resilient",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fgoldman-s-olson-see-private-credit-flows-slowing-video",
     "published": "Wed, 14 Jan 2026 23:34:59 CST",
     "summary": "Kristin Olson, Goldman Sachs’ Global Head of Alternatives for Wealth, says\nprivate credit remains resilient, though flows may slow and redemptions edge\nhigher. She tells David Gura and Romaine Bostick on “The Close.” (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Silver’s Torrid Rally Has Americans in Frenzy to Buy, Sell Coins",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fsilver-s-torrid-rally-has-americans-in-frenzy-to-buy-sell-coins",
-    "published": "Wed, 14 Jan 2026 23:31:37 CST",
-    "summary": "The last time silver was this hot, Reddit posters piled in to drive prices\neven higher, creating a frenzy that overwhelmed dealers. The metal’s current\nrally has set off a similar dynamic.\n\n"
   },
   {
     "title": "BHP, Rio Tinto Are Joining Forces to Boost Iron Ore Pipeline",
@@ -114,12 +162,6 @@
     "summary": "Stephen Ross, CEO and Chair of Related Ross, founder of Related Companies and\nowner of the Miami Dolphins, discusses the outlook for business development in\nWest Palm Beach and the future ownership of the Dolphins franchise with\nBloomberg’s Caroline Salas on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
-    "title": "BlackRock's Magyera: Private Market Adoption on the Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fblackrock-s-magyera-private-market-adoption-on-the-rise-video",
-    "published": "Wed, 14 Jan 2026 23:19:29 CST",
-    "summary": "Jaime Magyera, BlackRock Head of U.S. Wealth Advisory and Head of Retirement,\nsays advisors should consider the role private investments play in portfolios\nand how they complement traditional assets. She speaks with Romaine Bostick\nand Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Oil Falls After Trump Signals US Response to Iran Is On Hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15",
     "published": "Wed, 14 Jan 2026 23:17:52 CST",
@@ -132,37 +174,13 @@
     "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
   },
   {
-    "title": "Wells Fargo CFO: Don't See Credit Trends Deteriorating",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fwells-fargo-cfo-don-t-see-credit-trends-deteriorating-video",
-    "published": "Wed, 14 Jan 2026 23:09:43 CST",
-    "summary": "Mike Santomassimo, Wells Fargo CFO, says the bank saw strong loan momentum\nthis quarter. He tells Romaine Bostick and David Gura on “The Close” that the\npresident’s proposal would pull credit at a critical time, reducing access for\nconsumers across the credit card spectrum. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Kaiser Permanente Agrees to Pay $556 Million to Settle Medicare Overbilling Claims",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fhealth%2Fmedicare-advantage-kaiser-overbilling-fraud.html",
     "published": "Wed, 14 Jan 2026 23:07:03 CST",
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Flipping Japan IPOs Loses Luster as Small Share Sales Disappear",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fflipping-japan-ipos-loses-luster-as-small-share-sales-disappear",
-    "published": "Wed, 14 Jan 2026 23:00:30 CST",
-    "summary": "Japan’s initial public offerings have become less profitable to flip on their\ntrading debut, a trend investors have welcomed as an indication of higher\nquality companies coming to market.\n\n"
-  },
-  {
-    "title": "China Looks for Assurances Over Billions in Loans to Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fchina-looks-for-assurances-over-billions-in-loans-to-venezuela",
-    "published": "Wed, 14 Jan 2026 22:57:26 CST",
-    "summary": "Chinese officials have sought talks with Venezuelan and US officials to get\nassurances over its loans to the South American country, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Stocks Slide as Banks Weigh, Tech Weakness Persists | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fstocks-slide-as-banks-weigh-closing-bell-video",
-    "published": "Wed, 14 Jan 2026 22:47:57 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, David Gura,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Crude Oil Leads Commodities Lower, Silver Slumps: Markets Wrap",
+    "title": "Oil and Silver Lead Commodity Losses, Stocks Fall: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
     "summary": "Crude oil fell for the first time in six days after President Donald Trump\nsignaled he may hold off on attacking Iran for now. Precious metals also\nslipped from their record highs.\n\n"
@@ -172,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ffood-prices-tariffs-trump.html",
     "published": "Wed, 14 Jan 2026 22:09:56 CST",
     "summary": "Weather, supply, tariffs, labor and changing consumer habits continue to drive\nup the cost of groceries. President Trump falsely claims prices are falling.\n\n"
-  },
-  {
-    "title": "Asia Loan Bankers Brace for Competition, Thinner Margins in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fasia-loan-bankers-brace-for-competition-thinner-margins-in-2026",
-    "published": "Wed, 14 Jan 2026 22:00:00 CST",
-    "summary": "Loan bankers in Asia are bracing for an increasingly competitive market that\nis squeezing the returns they earn on lending, as they grapple with subdued\nsyndicated deal flow.\n\n"
   },
   {
     "title": "Stellantis CEO: 2026 is the ‘year of execution’ as Wall Street awaits turnaround strategy",
@@ -220,12 +232,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html",
     "published": "Wed, 14 Jan 2026 19:34:26 CST",
     "summary": "A new kind of tap-in, tap-out system at gyms has some New Yorkers flustered.\n\n"
-  },
-  {
-    "title": "Key US Power Grid Cuts Demand Outlook on Overstated AI Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbiggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom",
-    "published": "Wed, 14 Jan 2026 19:26:27 CST",
-    "summary": "The biggest US grid operator dialed back its forecast for power demand growth,\noffering a reality check to the frenzy around the artificial intelligence\nboom.\n\n"
   },
   {
     "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
@@ -308,7 +314,7 @@
   {
     "title": "Saks Files for Bankruptcy as Department Stores Fight for Survival",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
-    "published": "Wed, 14 Jan 2026 15:32:37 CST",
+    "published": "Wed, 14 Jan 2026 15:32:38 CST",
     "summary": "The parent company of Saks, Neiman Marcus and Bergdorf Goodman struggled with\ndebt, designers and customers in recent years.\n\n"
   },
   {
@@ -328,12 +334,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fneko-health-expansion.html",
     "published": "Wed, 14 Jan 2026 15:19:05 CST",
     "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
-  },
-  {
-    "title": "Hologic $8.75 Billion Buyout Loan to Wrap Up With Strong Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhologic-s-8-5-billion-lbo-loan-costs-tighten-on-strong-demand",
-    "published": "Wed, 14 Jan 2026 14:48:48 CST",
-    "summary": "The $8.75 billion debt financing tied to the buyout of medical-device maker\nHologic Inc. has been widely considered the leveraged loan market’s first big\ntest of the year. Ahead of its expected pricing on Wednesday, it sent a clear\nsignal that demand for risky debt is strong.\n\n"
   },
   {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
@@ -376,6 +376,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fworld-economic-forum-2026-global-risks-report.html",
     "published": "Wed, 14 Jan 2026 12:25:40 CST",
     "summary": "The report captures a shifting landscape where geoeconomic confrontation leaps\nto the top spot on the list of business worries over the next two years\n\n"
+  },
+  {
+    "title": "HSBC Is Said to Explore Selling Singapore Insurance Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-is-said-to-consider-selling-singapore-insurance-business",
+    "published": "Wed, 14 Jan 2026 11:15:46 CST",
+    "summary": "HSBC Holdings Plc is exploring options for its insurance unit in Singapore,\nincluding a sale, people familiar with the matter said, following other\nbusiness revamps globally under Chief Executive Officer Georges Elhedery.\n\n"
   },
   {
     "title": "You don’t need Trump to cap your credit card interest. Just use this script.",
@@ -676,12 +682,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-american-poverty.html",
     "published": "Tue, 13 Jan 2026 05:00:06 CST",
     "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s\npolitical superiority over the United States, deflecting focus on China’s own\neconomic challenges.\n\n"
-  },
-  {
-    "title": "The campaign to persuade Trump to investigate the Federal Reserve chief",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F12%2Fjerome-powell-fed-chair-investigation%2F",
-    "published": "Tue, 13 Jan 2026 03:59:52 CST",
-    "summary": "It’s not clear how the inquiry into Federal Reserve Chair Jerome Powell was\napproved, but housing regulator Bill Pulte met with President Donald Trump at\nMar-a-Lago, and shared a prop resembling a “wanted poster” he had made up\nfeaturing Powell.\n\n"
   },
   {
     "title": "Trump Administration Nears Trade Deal With Taiwan",
