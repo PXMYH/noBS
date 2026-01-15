@@ -1,15 +1,63 @@
 [
   {
+    "title": "FTSE 100 to Extend Record in Broad Stocks Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-15%2Fftse-100-live-uk-gdp-oil-silver-gold-prices-pound-bonds-trump-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Thu, 15 Jan 2026 06:46:08 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fminneapolis-traffic-stop-shooting-fuels-further-tensions-video",
+    "published": "Thu, 15 Jan 2026 06:17:14 CST",
+    "summary": "A federal officer shot a man in the leg on Wednesday night in Minneapolis,\nwhere protests have continued against ICE's presence. Mayor Jacob Frey and\nPolice Chief Brian O'Hara speak about the latest developments. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race",
+    "published": "Thu, 15 Jan 2026 06:11:46 CST",
+    "summary": "South Korea dropped teams led by units of Naver Corp. and NCSoft Corp. from\nits closely-watched competition to develop the nation’s first sovereign AI\nmodel, narrowing the field to three teams.\n\n"
+  },
+  {
+    "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-s-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea",
+    "published": "Thu, 15 Jan 2026 06:09:14 CST",
+    "summary": "India’s buying of Russian crude is likely to stabilize or even decline this\nmonth, leaving more cargoes from the OPEC+ producer stranded and pushing the\nworld’s third-largest oil importer to look to pricier alternatives.\n\n"
+  },
+  {
+    "title": "Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcartier-owner-richemont-s-sales-top-views-in-holiday-quarter",
+    "published": "Thu, 15 Jan 2026 06:07:54 CST",
+    "summary": "Richemont sales jumped to a record in the final months of last year as holiday\nshoppers splurged on its watches and Cartier jewelry, led by demand in the US\nand the Middle East.\n\n"
+  },
+  {
+    "title": "China Moves to Slow Down Market Bull Run | The China Show 1/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-china-show-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 06:00:59 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "China’s CMRG Sounds Out Steel Mills on Banned BHP Ore Stockpiles",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-cmrg-sounds-out-steel-mills-on-banned-bhp-ore-stockpiles",
+    "published": "Thu, 15 Jan 2026 05:51:46 CST",
+    "summary": "China’s state-owned iron ore trader is checking on Jimblebar stockpiles held\nby some steel mills at Chinese ports, a sign that restrictions on the ore\nmined by BHP Group could be partially lifted.\n\n"
+  },
+  {
     "title": "3SBio Sees More Business Development Deals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2F3sbio-sees-more-business-development-deals-video",
     "published": "Thu, 15 Jan 2026 05:36:53 CST",
     "summary": "Tony He, CFO of the Chinese biopharmaceutical firm 3SBio, discusses his\noutlook for dealmaking and the progress of a record licensing deal the company\nstruck with Pfizer last year. He speaks on “Bloomberg: The China Show” from\nSan Francisco, where the JPMorgan Healthcare Conference is taking place.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "TSMC Profit Beats Estimates in Fresh Sign of AI Demand Strength",
+    "title": "TSMC Spending, Sales Outlook Beats Estimates in Strong AI Signal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength",
     "published": "Thu, 15 Jan 2026 05:34:02 CST",
-    "summary": "Taiwan Semiconductor Manufacturing Co. surpassed expectations with strong\nprofit growth, supporting bullish indications from US chip designers about AI\nhardware demand.\n\n"
+    "summary": "Taiwan Semiconductor Manufacturing Co. expects capital spending to surge to as\nmuch as $56 billion in 2026, a stronger-than-anticipated projection that\nsignals its confidence in the longevity of the global AI boom.\n\n"
+  },
+  {
+    "title": "Bank Indonesia Joins Global Central Banks Backing Fed’s Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbank-indonesia-joins-global-central-banks-backing-fed-s-powell",
+    "published": "Thu, 15 Jan 2026 05:27:19 CST",
+    "summary": "Bank Indonesia joined a group of global central banks in throwing its support\nbehind Federal Reserve Chairman Jerome Powell, becoming the first monetary\nauthority in Southeast Asia to publicly do so.\n\n"
   },
   {
     "title": "Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects",
@@ -45,7 +93,7 @@
     "title": "China Margin Clampdown Signals Bid to Cool Tech-Led Stock Froth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push",
     "published": "Thu, 15 Jan 2026 04:39:13 CST",
-    "summary": "China’s unexpected tightening of margin financing highlights the balancing act\nregulators face in curbing market froth while still supporting investment in\nits innovative technology firms.\n\n"
+    "summary": "China’s surprise tightening of margin financing underscores mounting concern\namong regulators that speculative excess -- especially in pockets of the\ntechnology sector -- risks morphing into a destabilizing bubble if left\nunchecked.\n\n"
   },
   {
     "title": "Investors Rotate Out of Tech Stocks | The Asia Trade 1/15/2026",
@@ -60,7 +108,13 @@
     "summary": "Mozambique will only start talks with creditors to renegotiate its debt after\nreaching an agreement on a new program with the International Monetary Fund,\nPresident Daniel Chapo said.\n\n"
   },
   {
-    "title": "Oil Tanker Rates Spike as US Push Into Venezuela Redraws Flows",
+    "title": "Singapore Home Sales Hit Multi-Year High Despite Recent Lull",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsingapore-home-sales-hit-multi-year-high-despite-december-lull",
+    "published": "Thu, 15 Jan 2026 04:26:48 CST",
+    "summary": "Singapore new home sales reached their highest level in years in 2025, even\nafter transactions cooled during the holiday season.\n\n"
+  },
+  {
+    "title": "Oil Tanker Rates Jump as US Push Into Venezuela Shifts Flows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-tanker-rates-spike-as-us-push-into-venezuela-redraws-flows",
     "published": "Thu, 15 Jan 2026 04:08:16 CST",
     "summary": "The shipping market is being shaken up by Washington’s intervention in\nVenezuela, as the prospect of more oil being exported to the US boosts\nregional tanker rates to their highest level in almost two years.\n\n"
@@ -96,24 +150,6 @@
     "summary": "Goldman Sachs Senior Asia Economist Goohoon Kwon breaks down the reasons for\nthe weak Korean won and explains why he is bullish on the strong fundamentals\nin the Korean equity market. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Nickel Steadies After Surge as Indonesia Flags Lower Ore Supply",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fnickel-steadies-after-surge-as-indonesia-flags-lower-ore-supply",
-    "published": "Thu, 15 Jan 2026 03:04:07 CST",
-    "summary": "Nickel steadied near the highest level since mid-2024 after top producer\nIndonesia signaled a potential drop in output.\n\n"
-  },
-  {
-    "title": "Treasury Wine Drops Most in a Month on New Risk to US Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftreasury-wine-drops-most-in-a-month-on-new-risk-to-us-business",
-    "published": "Thu, 15 Jan 2026 02:59:18 CST",
-    "summary": "Treasury Wine Estates Ltd. shares fell the most in a month after reports that\nan American distributor may sell its operations raised the prospect of further\ndisruption to the company’s already struggling US business.\n\n"
-  },
-  {
-    "title": "China Drinks Maker Eastroc Beverage Said to Gauge Interest for Billion-Dollar Plus Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-eastroc-said-to-gauge-interest-for-billion-dollar-plus-hong-kong-listing",
-    "published": "Thu, 15 Jan 2026 02:51:12 CST",
-    "summary": "Chinese energy-drink maker Eastroc Beverage Group Co. has started gauging\ninvestor interest for a second listing in Hong Kong that may raise more than\n$1 billion, according to people familiar with the matter.\n\n"
-  },
-  {
     "title": "Senate Committee Delays Crypto Market-Structure Markup",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsenate-committee-delays-crypto-market-structure-markup",
     "published": "Thu, 15 Jan 2026 02:47:26 CST",
@@ -124,12 +160,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Ftrump-chips-tariffs.html",
     "published": "Thu, 15 Jan 2026 02:06:58 CST",
     "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to\nChina while putting off a decision about imposing higher taxes on the chip\nindustry.\n\n"
-  },
-  {
-    "title": "An Ozempic Price War Is Coming",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fan-ozempic-price-war-is-coming-video",
-    "published": "Thu, 15 Jan 2026 02:04:23 CST",
-    "summary": "An Ozempic price war is coming. As patents on semaglutide begin to expire,\ngeneric versions could slash the cost of weight-loss drugs in markets like\nChina, India, Brazil and Canada. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Hedge Funds Bet Yen May Slide to 165 Before Intervention",
@@ -148,18 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
     "published": "Wed, 14 Jan 2026 23:36:24 CST",
     "summary": "Silver retreated on signs investors took profits following a bilstering rally\nand as the US held off from imposing import tariffs on critical minerals.\n\n"
-  },
-  {
-    "title": "Goldman's Olson: See Private Credit Flows Slowing, But Resilient",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-14%2Fgoldman-s-olson-see-private-credit-flows-slowing-video",
-    "published": "Wed, 14 Jan 2026 23:34:59 CST",
-    "summary": "Kristin Olson, Goldman Sachs’ Global Head of Alternatives for Wealth, says\nprivate credit remains resilient, though flows may slow and redemptions edge\nhigher. She tells David Gura and Romaine Bostick on “The Close.” (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "BHP, Rio Tinto Are Joining Forces to Boost Iron Ore Pipeline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbhp-and-rio-tinto-to-collaborate-on-iron-ore-project-in-pilbara",
-    "published": "Wed, 14 Jan 2026 23:28:46 CST",
-    "summary": "BHP Group and Rio Tinto Group, the world’s two biggest mining companies, are\npoised to join forces in Australia’s Pilbara iron ore hub to produce up to 200\nmillion tons of the steelmaking material from next decade.\n\n"
   },
   {
     "title": "Stephen Ross on Palm Beach Development, Dolphins Offers",
@@ -186,7 +204,7 @@
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Oil and Silver Lead Commodity Losses, Stocks Fall: Markets Wrap",
+    "title": "Oil Leads Losses Among Commodities, Silver Slumps: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
     "summary": "Oil fell for the first time in six days after President Donald Trump signaled\nhe may hold off on attacking Iran for now. Precious metals also slipped from\ntheir record highs.\n\n"
@@ -354,34 +372,16 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "Bessent Gives Rare Verbal Support to Korean Won, Sparking Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbessent-flags-won-s-weakness-as-excessive-offering-rare-support",
-    "published": "Wed, 14 Jan 2026 14:16:16 CST",
-    "summary": "Treasury Secretary Scott Bessent called out excessive declines in South\nKorea’s won on Wednesday, offering rare verbal support to the currency as it\nslides toward its weakest since 2009.\n\n"
-  },
-  {
     "title": "Saks Global files for bankruptcy after takeover leads to financial collapse",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F14%2Fsaks-global-files-for-bankruptcy",
     "published": "Wed, 14 Jan 2026 13:00:22 CST",
     "summary": "Debt-riddled retail giant’s demise has cast uncertainty over the future of US\nluxury fashion\n\nBeleaguered high-end department store conglomerate Saks Global filed for\nbankruptcy protection on Tuesday, a month after missing the deadline on a\n$100m interest payment, in one of the largest retail collapses since the\npandemic.\n\nBarely a year after a deal brought the chains Saks Fifth Avenue, Bergdorf\nGoodman and Neiman Marcus together, Saks Global said it had filed for chapter\n11 bankruptcy “to facilitate its ongoing transformation”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fcanada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs",
-    "published": "Wed, 14 Jan 2026 12:58:19 CST",
-    "summary": "Prime Minister Mark Carney landed in Beijing on Wednesday for the first state\nvisit from a Canadian leader in eight years, as Chinese state media called on\nOttawa to lift tariffs on the nation’s exports.\n\n"
-  },
-  {
     "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fworld-economic-forum-2026-global-risks-report.html",
     "published": "Wed, 14 Jan 2026 12:25:40 CST",
     "summary": "The report captures a shifting landscape where geoeconomic confrontation leaps\nto the top spot on the list of business worries over the next two years\n\n"
-  },
-  {
-    "title": "HSBC Is Said to Explore Selling Singapore Insurance Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fhsbc-is-said-to-consider-selling-singapore-insurance-business",
-    "published": "Wed, 14 Jan 2026 11:15:46 CST",
-    "summary": "HSBC Holdings Plc is exploring options for its insurance unit in Singapore,\nincluding a sale, people familiar with the matter said, following other\nbusiness revamps globally under Chief Executive Officer Georges Elhedery.\n\n"
   },
   {
     "title": "You don’t need Trump to cap your credit card interest. Just use this script.",
