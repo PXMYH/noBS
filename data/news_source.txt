@@ -1,9 +1,63 @@
 [
   {
+    "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html",
+    "published": "Thu, 15 Jan 2026 20:32:47 CST",
+    "summary": "Many proposals have been introduced, but there is little consensus among\ngovernors, Congress members and tech executives about exactly how much the\ncompanies behind data centers should pay for electricity.\n\n"
+  },
+  {
+    "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F",
+    "published": "Thu, 15 Jan 2026 20:26:16 CST",
+    "summary": "Plans for more Defense Department control of Stars and Stripes surface after\njob seekers were asked about their commitment to President Donald Trump’s\npolicies.\n\n"
+  },
+  {
+    "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
+    "published": "Thu, 15 Jan 2026 20:18:19 CST",
+    "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
+  },
+  {
+    "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
+    "published": "Thu, 15 Jan 2026 20:13:09 CST",
+    "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
+  },
+  {
+    "title": "Morgan Stanley earnings top estimates driven by wealth management",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
+    "published": "Thu, 15 Jan 2026 20:02:04 CST",
+    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
+  },
+  {
+    "title": "College Basketball Players Charged With Fixing Games to Win Bets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcollege-basketball-players-charged-with-fixing-games-to-win-bets",
+    "published": "Thu, 15 Jan 2026 19:51:27 CST",
+    "summary": "More than two dozen people, including college basketball players, were charged\nby federal prosecutors alleging a yearslong scheme to fix games in the US and\nChina that generated millions of dollars in illegal wagers.\n\n"
+  },
+  {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
-    "published": "Thu, 15 Jan 2026 19:41:36 CST",
+    "published": "Thu, 15 Jan 2026 19:49:24 CST",
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
+  },
+  {
+    "title": "Ex-Pimco Executive Scores Milestone With Catastrophe Bond ETF",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fex-pimco-executive-scores-milestone-with-catastrophe-bond-etf",
+    "published": "Thu, 15 Jan 2026 19:45:00 CST",
+    "summary": "An exchange-traded fund tied to bets on natural disasters has started trading\nin London, after becoming the first such ETF to attract a lead market maker.\n\n"
+  },
+  {
+    "title": "Goldman Sachs Tops Wall Street for Fourth Quarter ECM Revenue",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgoldman-sachs-tops-wall-street-for-fourth-quarter-ecm-revenue",
+    "published": "Thu, 15 Jan 2026 19:44:20 CST",
+    "summary": "Goldman Sachs Group Inc. returned to the top of Wall Street’s equity capital\nmarkets revenue leaderboard in the final quarter of last year, as banks jostle\nfor roles on the blockbuster initial public offerings expected in 2026.\n\n"
+  },
+  {
+    "title": "White-Collar Enforcement Sinks Under Trump, Public Citizen Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwhite-collar-enforcement-sinks-under-trump-public-citizen-says",
+    "published": "Thu, 15 Jan 2026 19:42:35 CST",
+    "summary": "The Trump administration canceled at least 162 corporate enforcement actions\nand halted 14 more in its first year back in office, according to progressive\nadvocacy group Public Citizen.\n\n"
   },
   {
     "title": "Coinbase Pulls Support For Crypto Bill",
@@ -12,16 +66,10 @@
     "summary": "Coinbase has pulled its support for the current version of the market-\nstructure bill due for markup in the Senate Banking Committee on Thursday.\nBloomberg's SEC & CFTC reporter Lydia Beyoud discussed the story on \"Bloomberg\nMarkets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
-    "published": "Thu, 15 Jan 2026 19:40:36 CST",
-    "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
-  },
-  {
-    "title": "Morgan Stanley earnings top estimates driven by wealth management",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 19:16:41 CST",
-    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
+    "title": "Coinbase Pulls Support for Crypto Bill, Machado to Meet with Trump | Bloomberg Markets 1/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fbloomberg-markets-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 19:31:53 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: KBW Head of\nUS Bank Research Chris McGratty, Jito Labs COO, Chief Legal Officer Rebecca\nRettig and Buell Motorcycle Owner and CEO Bill Melvin. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
@@ -40,6 +88,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbank-ceos-say-record-134-billion-trading-haul-is-just-the-start",
     "published": "Thu, 15 Jan 2026 19:08:11 CST",
     "summary": "Morgan Stanley Chief Executive Officer Ted Pick started summing up his outlook\nafter Wall Street’s banner year for trading with four words: “The setup is\nideal.”\n\n"
+  },
+  {
+    "title": "Goldman Sachs Names BlackRock’s Lynam as Chief Credit Strategist",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgoldman-sachs-names-blackrock-s-lynam-as-chief-credit-strategist",
+    "published": "Thu, 15 Jan 2026 19:01:15 CST",
+    "summary": "Amanda Lynam, head of macro credit research at BlackRock Inc., is returning to\nGoldman Sachs Group Inc. after three years with the asset management firm.\n\n"
   },
   {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
@@ -70,12 +124,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgoldman-morgan-stanley-close-out-big-bank-earnings-video",
     "published": "Thu, 15 Jan 2026 18:45:53 CST",
     "summary": "Goldman Sachs Group Inc. set an all-time Wall Street record of $4.31 billion\nfor equities-trading revenue in the final three months of last year and Morgan\nStanley’s debt bankers increased revenue 93% in the fourth quarter, capping a\nrecord year for that business. Sridhar Natarajan breaks down the results on\nBloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
-    "published": "Thu, 15 Jan 2026 18:42:59 CST",
-    "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
   },
   {
     "title": "Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies",
@@ -144,46 +192,10 @@
     "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
   },
   {
-    "title": "This Is What Maduro's Arrest Means for the Oil Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthis-is-what-maduro-s-arrest-means-for-the-oil-market-video",
-    "published": "Thu, 15 Jan 2026 18:02:21 CST",
-    "summary": "Venezuela is sitting on, by some measures, the biggest oil reserves in the\nworld. And yet in the immediate wake of Maduro's capture by US forces, the\nactual price of oil has moved very little. So what gives? And what are the\nstakes for the industry? On this episode, we speak with Gregory Brew, a senior\nanalyst at the Eurasia Group. Greg has the perfect background for this\nconversation, because in addition to closely monitoring both the oil industry\nand the global geopolitical environment, he's a trained historian. So we talk\nabout the long history of the Venezuelan oil industry, starting in its boom\nyears, and then its ultimate decline amid nationalization, corruption,\nsanctions, and blockades. He explains to us the potential huge costs of\nrestarting production, the actual logic behind the arrest, as well as\npotential fallout across Latin America, and with Venezuela's friends, such as\nIran, China, and Cuba. Originally published 1/7/26. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Morgan Stanley to Sell $8 Billion From US Dollar Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmorgan-stanley-to-sell-8-billion-from-us-dollar-bond-sale",
-    "published": "Thu, 15 Jan 2026 17:56:19 CST",
-    "summary": "Morgan Stanley is selling $8 billion of bonds as Wall Street banks flood the\ndebt markets after earnings.\n\n"
-  },
-  {
-    "title": "NYC Sues Delivery App Over Lost Pay in New Mamdani Crackdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fnyc-sues-delivery-app-over-lost-pay-video",
-    "published": "Thu, 15 Jan 2026 17:56:05 CST",
-    "summary": "New York City said it’s suing a food-delivery technology provider for\nwithholding pay from workers, signaling Mayor Zohran Mamdani’s get-tough\napproach to regulating app-based work. Bloomberg's Myles Miller reports.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Petro Vows to Cut Colombia Gasoline Prices in Policy U-Turn",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fpetro-vows-to-cut-colombia-gasoline-prices-in-policy-u-turn",
-    "published": "Thu, 15 Jan 2026 17:55:58 CST",
-    "summary": "Colombian President Gustavo Petro said he will cut gasoline prices, a reversal\nof the policy in his first years in office when he phased out fuel subsidies\nto narrow the fiscal deficit.\n\n"
-  },
-  {
     "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
     "published": "Thu, 15 Jan 2026 17:55:06 CST",
     "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
-  },
-  {
-    "title": "Goldman’s Stock Traders Smash Records as BlackRock Assets Hit $14 Trillion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fblackrock-total-assets-hit-14t-video",
-    "published": "Thu, 15 Jan 2026 17:33:35 CST",
-    "summary": "Wall Street banks handed back a record amount of capital to shareholders as\nsurging profit and relaxing capital rules gave executives the confidence to\nramp up stock buybacks. Morgan Stanley’s debt bankers increased revenue 93% in\nthe fourth quarter, by far the biggest jump on Wall Street and capping a\nrecord year for that business. Goldman Sachs Group Inc. blew through\nexpectations for equities-trading revenue, posting an all-time Wall Street\nrecord of $4.31 billion in the final three months of last year. BlackRock Inc.\npulled in $342 billion of total client cash in the fourth quarter, pushing the\nfirm to a record $14 trillion of assets as it integrates a string of recent\nacquisitions to become a force in private markets. Bloomberg's Neil Sipes\njoins to break down bank earnings on Bloomberg Intelligence. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Peru Hit by Unexpectedly Big Economic Slowdown Led by Copper",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fperu-hit-by-unexpectedly-large-economic-slowdown-led-by-copper",
-    "published": "Thu, 15 Jan 2026 16:53:08 CST",
-    "summary": "Peru’s economy expanded much less than forecast in November due to a slump in\ncopper output.\n\n"
   },
   {
     "title": "Equinor Wins Ruling to Resume Wind Project Halted by Trump",
@@ -262,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmoodys-commercial-real-estate-dealmaking-november.html",
     "published": "Thu, 15 Jan 2026 13:12:45 CST",
     "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
-  },
-  {
-    "title": "South Africa Closes Kruger Park as Deadly Floods Kill Dozens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsouth-africa-closes-kruger-park-as-deadly-floods-kill-dozens",
-    "published": "Thu, 15 Jan 2026 13:08:14 CST",
-    "summary": "Deadly floods prompted South Africa’s iconic Kruger National Park to shut to\nfurther visitors, after extreme rainfall killed dozens in the northeast of the\ncountry and neighboring Mozambique.\n\n"
   },
   {
     "title": "Goldman Raising $16 Billion in Record Wall Street Bank Bond Sale",
@@ -382,6 +388,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-denmark-amb-greenlanders-are-great-friends-of-us-video",
     "published": "Thu, 15 Jan 2026 00:04:29 CST",
     "summary": "Carla Sands, former U.S. ambassador to Denmark and America First Policy\nInstitute Energy Policy Distinguished Senior Fellow, says Denmark lacks the\ncapacity and resources to develop or secure Greenland. She speaks with Romaine\nBostick and David Gura on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Tumbles After Trump Signals US Response to Iran Is On Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15",
+    "published": "Wed, 14 Jan 2026 23:17:52 CST",
+    "summary": "Oil fell the most since June after the US held off on attacking Iran for now\nas the country pledged not to execute protesters.\n\n"
   },
   {
     "title": "Wells Fargo CFO: Don't See Credit Trends Deteriorating",
@@ -844,12 +856,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Flori-chavez-deremer-misconduct-investigation.html",
     "published": "Tue, 13 Jan 2026 03:11:18 CST",
     "summary": "The Labor Department is investigating a complaint alleging misconduct by\nSecretary Lori Chavez-DeRemer.\n\n"
-  },
-  {
-    "title": "A Top Fed Official Conveys Little Urgency for Immediate Rate Cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-john-williams-rates.html",
-    "published": "Tue, 13 Jan 2026 01:30:40 CST",
-    "summary": "The Federal Reserve is likely to hold interest rates steady when it meets at\nthe end of the month, keeping tensions high with President Trump.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Citigroup, Abercrombie, Vistra, Duolingo and more",

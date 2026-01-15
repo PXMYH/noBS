@@ -1,15 +1,15 @@
 # NoBS News Digest - January 15, 2026
 
-Generated from **208** unique articles (deduplicated from 208 total) across **1** news sources
+Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions escalate as the Trump administration makes bold moves in Venezuela and immigration policy. The U.S. capture of Venezuelan President Nicolás Maduro has sent shockwaves through global oil markets, though prices remain stable for now. Analysts question whether major oil companies will rush to invest in Venezuela, with many preferring domestic U.S. production. Meanwhile, Trump’s self-declared role as acting president of Venezuela raises concerns about economic overreach, with critics warning his approach could weaken U.S. economic influence. On the immigration front, the State Department halts visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. Internationally, Canada seeks to mend ties with China as former Bank of England Governor Mark Carney travels to Beijing to explore new trade opportunities amid strained U.S.-China relations.
+The Trump administration dominates this week's geopolitical headlines with a series of controversial moves. The Pentagon announces plans to overhaul *Stars and Stripes*, the independent military newspaper, citing concerns over its editorial direction and alignment with Trump's policies—a decision critics label as politically motivated. Meanwhile, the administration indefinitely suspends immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns, a policy that risks further straining international relations. Trump also escalates his focus on Venezuela, declaring himself its 'acting president' and pushing to seize its oil reserves, though analysts warn the move could backfire economically and alienate global oil markets. Elsewhere, Canada seeks to diversify its trade partnerships as former Bank of England governor Mark Carney travels to Beijing to repair strained Canada-China relations, signaling a shift away from U.S. dependence amid growing tensions. The combined actions underscore a fractious global landscape, with Trump's aggressive policies drawing both domestic and international scrutiny.
 
 **Top Articles:**
-- [This Is What Maduro's Arrest Means for the Oil Market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthis-is-what-maduro-s-arrest-means-for-the-oil-market-video)
+- [Pentagon to overhaul independent military newspaper, calling it ‘woke’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F)
 - [Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela)
 - [Trump administration halts immigrant visa processing from 75 countries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Fimmigrant-visas-suspended-trump)
 - [Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html)
@@ -21,14 +21,14 @@ Geopolitical tensions escalate as the Trump administration makes bold moves in V
 
 ## 💰 Finance, Economics & Business
 
-Wall Street banks deliver mixed earnings results this week, with Goldman Sachs and Morgan Stanley outperforming expectations thanks to strong trading and wealth management revenue, while Bank of America, Citigroup, JPMorgan, and Wells Fargo face pressure from President Trump’s proposed 10% cap on credit card interest rates. The banking sector is also flooding the debt markets, with Goldman Sachs launching a record $16 billion bond sale. Meanwhile, BlackRock hits a milestone with $14 trillion in assets under management, driven by ETF growth. In retail, Saks Global files for bankruptcy after its debt-laden acquisition of Neiman Marcus, drawing opposition from Amazon, which calls the restructuring plan 'drastic' and harmful to creditors. Elsewhere, Coinbase flexes its political influence by withdrawing support for a crypto regulatory bill, while China reports a record $1.19 trillion trade surplus, raising concerns about global market imbalances. Economic risks, including tariffs and AI disruptions, dominate discussions at the World Economic Forum.
+Wall Street banks delivered mixed earnings this week, with Goldman Sachs and Morgan Stanley outperforming on strong trading and wealth management revenue, while Bank of America, Citigroup, JPMorgan, and Wells Fargo faced pressure from President Trump’s proposed 10% credit card rate cap. Goldman also made headlines by raising $16 billion in a record bond sale and exploring entry into prediction markets, while BlackRock hit a record $14 trillion in assets. Meanwhile, Saks Global’s bankruptcy filing after its Neiman Marcus acquisition sent shockwaves through retail, with Amazon threatening legal action over its $475 million stake. In policy, Trump’s push for credit card rate caps and tariffs sparked industry backlash, while the Fed warned against undermining central bank independence. Elsewhere, TSMC’s strong results fueled an AI rally, and China’s record trade surplus highlighted global economic tensions.
 
 **Top Articles:**
-- [Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html)
-- [Coinbase Pulls Support For Crypto Bill](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fcoinbase-pulls-support-for-crypto-bill-video)
+- [Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html)
 - [Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html)
 - [Morgan Stanley earnings top estimates driven by wealth management](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html)
-- [Goldman Sachs tops profit estimates as equities, asset and wealth management outperform](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html)
+- [Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html)
+- [Ex-Pimco Executive Scores Milestone With Catastrophe Bond ETF](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fex-pimco-executive-scores-milestone-with-catastrophe-bond-etf)
 
 **Sources**: archive.ph (97 articles)
 
@@ -36,44 +36,45 @@ Wall Street banks deliver mixed earnings results this week, with Goldman Sachs a
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Taiwan Semiconductor Manufacturing Co. (TSMC) delivers a strong earnings report, reigniting investor enthusiasm for artificial intelligence and pushing U.S. stocks near record highs. Meanwhile, President Trump imposes a 25% tariff on select AI chips, including Nvidia’s H200 and AMD’s MI325X, citing national security concerns, though exemptions for data centers and consumers soften the impact. The move comes amid broader trade negotiations with Taiwan, where TSMC commits to expanding U.S. manufacturing. In regulatory news, New York City sues food-delivery app Motoclick over alleged wage theft, signaling Mayor Zohran Mamdani’s aggressive stance on gig economy labor rights. Elsewhere, Boeing faces scrutiny after a report reveals it knew about engine flaws linked to a fatal crash, while the company celebrates outselling Airbus for the first time since 2018. The tech sector also braces for a potential wave of mega IPOs in 2026, with SpaceX, OpenAI, and Anthropic rumored to go public, promising a windfall for Silicon Valley and Wall Street.
+Tech and AI dominate headlines as Taiwan Semiconductor Manufacturing Co. (TSMC) reports strong earnings, reigniting investor optimism in artificial intelligence and pushing U.S. stocks near record highs. Meanwhile, President Trump imposes a 25% tariff on certain AI chips, including Nvidia’s H200 and AMD’s MI325X, citing national security concerns, though exemptions for data centers and consumers soften the impact. The move follows a broader trade deal with Taiwan, which includes commitments from TSMC to expand U.S. manufacturing. In other tech news, Starlink provides free internet access to users in Iran amid a communications blackout, while a Swedish startup, Neko Health, backed by Spotify’s Daniel Ek, plans to expand its full-body scanning services to the U.S. market. Beyond tech, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, signaling a potential turnaround, while JPMorgan Chase reports lower profits amid regulatory pressures. Labor tensions rise as New York City sues food-delivery app Motoclick over wage violations, and Breads Bakery workers push to unionize over pay and working conditions. The UK economy shows unexpected growth, and Britain awards major wind farm contracts to power 12 million homes, underscoring a shift toward renewable energy.
 
 **Top Articles:**
 - [Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Ftrump-congress-aca-subsidies-health-care.html)
 - [Mamdani Cracks Down on Food-Delivery Tech Motoclick](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fmamdani-cracks-down-on-food-delivery-tech-motoclick-video)
 - [The Business of Butterworths, the Hottest New Restaurant in Washington DC](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-business-of-butterworths-video)
 - [How the Buffett family plans to give away more than $150 billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html)
-- [NYC Sues Delivery App Over Lost Pay in New Mamdani Crackdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fnyc-sues-delivery-app-over-lost-pay-video)
+- [Billionaire Rams owner Stan Kroenke becomes America's biggest private landowner](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstan-kroenke-largest-private-us-landowner.html)
 
-**Sources**: archive.ph (66 articles)
+**Sources**: archive.ph (63 articles)
 
 ---
 
 ## ⚽ Sports
 
-The Trump administration is spotlighting domestic manufacturing and affordability this week, with top officials visiting Ford and Stellantis operations in Ohio. The move underscores ongoing efforts to promote U.S. auto production amid economic pressures. Meanwhile, discount grocer Aldi announces an aggressive expansion, planning to open over 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The growth reflects intensifying competition in the grocery sector, with discounters gaining market share from traditional chains. These developments highlight broader economic trends, from industrial policy to shifting consumer spending habits.
+A major scandal rocks college basketball as federal prosecutors charge over two dozen individuals, including players, in a yearslong game-fixing scheme tied to illegal betting in the U.S. and China. The allegations highlight ongoing concerns about integrity in sports amid the rise of legalized gambling. Meanwhile, in business news, discount grocer Aldi announces plans to open more than 180 new U.S. stores in 2026, capitalizing on consumer demand for value as inflation pressures persist. The expansion underscores the growing competition between discounters and traditional grocery chains. Additionally, Trump administration officials, including U.S. Trade Chief Greer, are set to visit Ford and Stellantis operations in Ohio this week to promote domestic manufacturing and vehicle affordability, signaling a continued focus on economic policy ahead of the auto show season.
 
 **Top Articles:**
+- [College Basketball Players Charged With Fixing Games to Win Bets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcollege-basketball-players-charged-with-fixing-games-to-win-bets)
 - [US Trade Chief Greer, Others to Tout Affordability at Auto Show](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-trade-chief-greer-others-to-tout-affordability-at-auto-show)
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
 
-**Sources**: archive.ph (2 articles)
+**Sources**: archive.ph (3 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, policy changes, and cultural trends shaping global and domestic landscapes. In the U.S., the Trump administration escalates its immigration crackdown by suspending immigrant visas from 75 countries indefinitely, while also grappling with housing affordability as rising costs strain voters. The administration's aggressive tactics to lower prices—including threats to companies—reflect broader inflation concerns, with food prices surging in December. Meanwhile, Spain announces a €10.5 billion sovereign fund to sustain economic growth post-pandemic, contrasting with the U.S.'s more isolationist trade policies. In business, Netflix prepares to adjust its offer for Warner Bros. Discovery's streaming assets, and Bombardier hits a 23-year stock high after unveiling a new Quebec factory. Tech and AI developments also stand out, with Elon Musk's X restricting explicit AI-generated images and Alibaba-backed PixVerse launching a real-time AI video tool. Human interest stories, such as seniors caring for aging partners and the resurgence of *Gourmet Magazine* as an unsanctioned newsletter, add depth to the week's narratives.
+The latest news cycle highlights a mix of economic, political, and social developments shaping global and domestic landscapes. On the economic front, Spain announces a €10.5 billion sovereign fund to sustain post-pandemic recovery, while the U.S. grapples with housing affordability as Trump’s administration faces criticism for undermining low-income homebuying initiatives. Meanwhile, energy markets react to geopolitical tensions, with oil prices tumbling after the U.S. delays a response to Iran, and natural gas futures dip due to shifting weather forecasts. In corporate news, Bombardier hits a 23-year stock high after unveiling a new Quebec factory, and Netflix prepares to adjust its offer for Warner Bros. Discovery’s streaming assets. Socially, rising childcare costs strain family budgets, and seniors increasingly shoulder caregiving burdens alone, reflecting broader economic pressures. Culturally, the revival of *Gourmet Magazine* as an unsanctioned newsletter and China’s state media focus on American poverty underscore evolving media and geopolitical narratives.
 
 **Top Articles:**
+- [State and Federal Lawmakers Want Data Centers to Pay More for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html)
+- [White-Collar Enforcement Sinks Under Trump, Public Citizen Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwhite-collar-enforcement-sinks-under-trump-public-citizen-says)
 - [College students and teens could be fueling the prediction markets boom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fprediction-markets-college-students-teens-could-be-fueling-the-boom.html)
 - [US Suspends Immigration Visas From 75 Countries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fus-suspends-immigration-visas-from-75-countries-video)
 - [Spain Plans €10.5 Billion ‘Sovereign Fund’ to Follow NextGen EU](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fspain-plans-10-5-billion-sovereign-fund-to-follow-nextgen-eu)
-- [Cullen Roche on the Art of Building a Perfect Portfolio](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fcullen-roche-on-the-art-of-building-a-perfect-portfolio-video)
-- [NBCUniversal strategically leans into sports as it prepares for 'Legendary February'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fnbcuniversal-leans-into-sports.html)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 15, 2026 at 07:47 PM *
+*Digest generated on January 15, 2026 at 08:49 PM *
