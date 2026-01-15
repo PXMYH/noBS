@@ -1,5 +1,35 @@
 [
   {
+    "title": "SpaceX Capsule With ISS Astronauts Splashes Down",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fastronauts-return-to-earth-following-iss-medical-issue-video",
+    "published": "Thu, 15 Jan 2026 09:26:38 CST",
+    "summary": "A crew of four astronauts landed back on Earth after departing the\nInternational Space Station in NASA’s first-ever medical evacuation over an\nundisclosed ailment involving one of the crew members. The astronauts undocked\nfrom the station at about 5:20 p.m. New York time on Wednesday in a SpaceX\nDragon capsule and splashed down off the coast of California at around 3:41\na.m. on Thursday.\n\n"
+  },
+  {
+    "title": "Gaza Deal’s Second Phase to Begin",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgaza-deal-s-second-phase-to-begin-video",
+    "published": "Thu, 15 Jan 2026 09:09:53 CST",
+    "summary": "The US has announced the launch of the second phase of President Trump's peace\nplan in the Gaza Strip, which will involve moving from a ceasefire to\ndemilitarization. Bloomberg's Dan Williams reports. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "German Economy Grows for First Year Since 2022 on Spending",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgerman-economy-grows-for-first-year-since-2022-on-spending-boost",
+    "published": "Thu, 15 Jan 2026 09:06:15 CST",
+    "summary": "Germany’s economy grew for the first year since 2022 as a government spending\nspree helps the country overcome its lengthy industrial slump.\n\n"
+  },
+  {
+    "title": "How to Make Money From the Booming Demand for Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhow-to-make-money-from-the-booming-demand-for-energy",
+    "published": "Thu, 15 Jan 2026 09:00:31 CST",
+    "summary": "A conversation with fund manager Tyler Rosenlicht.\n\n"
+  },
+  {
+    "title": "Mozambique Leader Sees Total LNG Project Restart Within Weeks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-leader-sees-total-lng-project-restart-within-weeks",
+    "published": "Thu, 15 Jan 2026 09:00:07 CST",
+    "summary": "Mozambican President Daniel Chapo expects TotalEnergies SE’s $20 billion\nliquefied natural gas project to restart as early as this month, reviving a\npotentially key revenue source for the cash-strapped government.\n\n"
+  },
+  {
     "title": "Precious Metals Have Rallied Too Quickly: 3-Minutes MLIV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fprecious-metals-have-rallied-too-quickly-3-minutes-mliv-video",
     "published": "Thu, 15 Jan 2026 08:27:33 CST",
@@ -60,10 +90,10 @@
     "summary": "UniCredit SpA said that recent media reports about its interest in potentially\nbuying a stake in rival Banca Monte dei Paschi di Siena SpA were\n“unjustified.”\n\n"
   },
   {
-    "title": "China New Loans Shrink to Least in Seven Years as Demand Weakens",
+    "title": "China New Loans Shrink to Least Since 2018 as Demand Weakens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-new-loans-shrink-to-least-in-seven-years-as-demand-weakens",
     "published": "Thu, 15 Jan 2026 07:13:57 CST",
-    "summary": "Chinese banks extended the smallest amount of new loans since 2018 last year\nwhile credit expansion slowed in December, in a reflection of sluggish demand\nfrom borrowers that’s weighing on growth.\n\n"
+    "summary": "Chinese banks extended the smallest amount of new loans since 2018 last year\ndespite an uptick in December, in a reflection of sluggish demand from\nborrowers that’s weighing on growth.\n\n"
   },
   {
     "title": "Philippines Waives Visas for Chinese to Boost Tourism",
@@ -96,34 +126,10 @@
     "summary": "South Korea dropped teams led by units of Naver Corp. and NCSoft Corp. from\nits closely watched competition to develop the nation’s first sovereign AI\nmodel, narrowing the field to three groups.\n\n"
   },
   {
-    "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-s-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea",
-    "published": "Thu, 15 Jan 2026 06:09:14 CST",
-    "summary": "India’s buying of Russian crude is likely to stabilize or even decline this\nmonth, leaving more cargoes from the OPEC+ producer stranded and pushing the\nworld’s third-largest oil importer to look to pricier alternatives.\n\n"
-  },
-  {
     "title": "Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcartier-owner-richemont-s-sales-top-views-in-holiday-quarter",
     "published": "Thu, 15 Jan 2026 06:07:54 CST",
     "summary": "Richemont sales jumped to a record in the final months of last year as holiday\nshoppers splurged on its watches and Cartier jewelry, led by demand in the US\nand the Middle East.\n\n"
-  },
-  {
-    "title": "China Moves to Slow Down Market Bull Run | The China Show 1/15/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-china-show-1-15-2026-video",
-    "published": "Thu, 15 Jan 2026 06:00:59 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "China’s CMRG Sounds Out Steel Mills on Banned BHP Ore Stockpiles",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-cmrg-sounds-out-steel-mills-on-banned-bhp-ore-stockpiles",
-    "published": "Thu, 15 Jan 2026 05:51:46 CST",
-    "summary": "China’s state-owned iron ore trader is checking on Jimblebar stockpiles held\nby some steel mills at Chinese ports, a sign that restrictions on the ore\nmined by BHP Group could be partially lifted.\n\n"
-  },
-  {
-    "title": "3SBio Sees More Business Development Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2F3sbio-sees-more-business-development-deals-video",
-    "published": "Thu, 15 Jan 2026 05:36:53 CST",
-    "summary": "Tony He, CFO of the Chinese biopharmaceutical firm 3SBio, discusses his\noutlook for dealmaking and the progress of a record licensing deal the company\nstruck with Pfizer last year. He speaks on “Bloomberg: The China Show” from\nSan Francisco, where the JPMorgan Healthcare Conference is taking place.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom",
@@ -138,28 +144,10 @@
     "summary": "Trading desks across Wall Street have benefited in the last year as Trump's\npolicies have roiled markets for bonds, currencies, commodities and stocks.\n\n"
   },
   {
-    "title": "China Margin Clampdown Signals Bid to Cool Tech-Led Stock Froth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-margin-scrutiny-targets-stock-froth-created-by-tech-push",
-    "published": "Thu, 15 Jan 2026 04:39:13 CST",
-    "summary": "China’s surprise tightening of margin financing underscores mounting concern\namong regulators that speculative excess -- especially in pockets of the\ntechnology sector -- risks morphing into a destabilizing bubble if left\nunchecked.\n\n"
-  },
-  {
     "title": "Mozambique Eyes Debt Talks After New IMF Program; Eurobond Slips",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says",
     "published": "Thu, 15 Jan 2026 04:30:00 CST",
     "summary": "Mozambique will only start talks with creditors to renegotiate its debt after\nreaching an agreement on a new program with the International Monetary Fund,\nPresident Daniel Chapo said.\n\n"
-  },
-  {
-    "title": "Singapore Home Sales Hit Multi-Year High Despite Recent Lull",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsingapore-home-sales-hit-multi-year-high-despite-december-lull",
-    "published": "Thu, 15 Jan 2026 04:26:48 CST",
-    "summary": "Singapore new home sales reached their highest level in years in 2025, even\nafter transactions cooled during the holiday season.\n\n"
-  },
-  {
-    "title": "Oil Tanker Rates Jump as US Push Into Venezuela Shifts Flows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Foil-tanker-rates-spike-as-us-push-into-venezuela-redraws-flows",
-    "published": "Thu, 15 Jan 2026 04:08:16 CST",
-    "summary": "The shipping market is being shaken up by Washington’s intervention in\nVenezuela, as the prospect of more oil being exported to the US boosts\nregional tanker rates to their highest level in almost two years.\n\n"
   },
   {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
@@ -180,16 +168,16 @@
     "summary": "The tariffs will allow President Trump to take a cut of Nvidia’s chip sales to\nChina while putting off a decision about imposing higher taxes on the chip\nindustry.\n\n"
   },
   {
+    "title": "Hedge Funds Hire Talent Scouts in Japan to Tap Comeback",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhedge-funds-hire-talent-scouts-in-japan-to-tap-market-comeback",
+    "published": "Thu, 15 Jan 2026 00:45:20 CST",
+    "summary": "A hiring spree among hedge funds in Japan is reaching fever pitch. The latest\nmust-have: talent scouts.\n\n"
+  },
+  {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
     "published": "Wed, 14 Jan 2026 23:39:59 CST",
     "summary": "President Trump revived a campaign promise to cap interest rates, but it is\nunclear how he would make that a reality.\n\n"
-  },
-  {
-    "title": "Oil Falls After Trump Signals US Response to Iran Is On Hold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flatest-oil-market-news-and-analysis-for-jan-15",
-    "published": "Wed, 14 Jan 2026 23:17:52 CST",
-    "summary": "Oil fell for the first time in six days after US President Donald Trump\nsignaled he may hold off on attacking Iran for now.\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -244,6 +232,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fsaks-bankruptcy-neiman-marcus-bergdorf%2F",
     "published": "Wed, 14 Jan 2026 20:10:56 CST",
     "summary": "The announcement comes after Saks missed a $100 million interest payment\nconnected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
+  },
+  {
+    "title": "Private Equity Firms Circle Volkswagen’s €6 Billion Everllence Unit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fbuyout-firms-are-said-to-circle-vw-s-6-billion-everllence-unit",
+    "published": "Wed, 14 Jan 2026 20:10:05 CST",
+    "summary": "A majority stake in Volkswagen AG’s heavy diesel engine unit Everllence SE is\nattracting interest from a number of private equity firms, according to people\nfamiliar with the matter, as the German automaker proceeds with its asset\ndisposal program.\n\n"
   },
   {
     "title": "2026 May Be the Year of the Mega I.P.O.",

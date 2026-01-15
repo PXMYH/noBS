@@ -1,12 +1,12 @@
 # NoBS News Digest - January 15, 2026
 
-Generated from **206** unique articles (deduplicated from 206 total) across **1** news sources
+Generated from **205** unique articles (deduplicated from 205 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global tensions remain high as geopolitical and economic rivalries shape international relations. In the Middle East, U.S. President Donald Trump signals a temporary pause on potential military action against Iran, easing oil market fears, while European nations, including Germany, deploy military personnel to Greenland in response to perceived U.S. threats. Denmark reports unresolved disagreements with Washington, underscoring transatlantic strains. Meanwhile, Canada seeks to repair relations with China, with former Bank of England Governor Mark Carney leading trade discussions in Beijing as the U.S. economic outlook darkens. Elsewhere, China's diplomatic pressure intensifies after threatening to cancel UK trade talks over a British minister's visit to Taiwan, revealing Beijing's sensitivity to Taiwan-related issues. In Ukraine, businesses like vodka producer Nemiroff demonstrate resilience, expanding exports despite ongoing Russian attacks, highlighting the country's determination to maintain economic activity amid war.
+Global tensions remain high as geopolitical and economic maneuvering dominates headlines. In the Middle East, President Donald Trump signals a temporary pause on potential military action against Iran, easing oil market pressures, while European nations, including Germany, deploy military personnel to Greenland in response to perceived U.S. threats. Denmark acknowledges lingering disagreements with Washington, underscoring transatlantic strains. Meanwhile, Canada’s former central bank governor, Mark Carney, travels to Beijing to repair frayed Canada-China relations, seeking new trade opportunities as U.S. economic policies face criticism. Analysts warn Trump’s aggressive pursuit of Venezuelan resources could undermine long-term U.S. economic stability, drawing historical parallels to colonial-era exploitation. In Ukraine, businesses like vodka producer Nemiroff defy wartime challenges, expanding exports to Western markets despite ongoing Russian attacks. Diplomatic tensions also flare between the UK and China after Beijing threatened to cancel trade talks following a British minister’s visit to Taiwan, revealing the fragility of post-Brexit international relations.
 
 **Top Articles:**
 - [Trump Holds Back on Iran; European Military In Greenland | Horizons Middle East & Africa 1/15/2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fhorizons-middle-east-africa-1-15-2026-video)
@@ -21,29 +21,29 @@ Global tensions remain high as geopolitical and economic rivalries shape interna
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of economic headwinds and policy shifts, with China's slowing credit growth and record trade surplus underscoring its uneven recovery. Chinese banks extended the fewest new loans in seven years in 2025, reflecting weak demand, while Beijing's weak currency and export-driven surplus hit $1.19 trillion. Meanwhile, China is moving to temper its stock market rally, signaling caution amid volatility. In the U.S., inflation held steady at 2.7% in December, keeping the Federal Reserve under scrutiny as it debates rate cuts. President Trump's push for a 10% cap on credit card interest rates has sparked industry backlash, with banks warning of reduced access to credit. Corporate earnings season kicks off with strong results from JPMorgan, Citigroup, and Bank of America, though Saks Global's bankruptcy filing highlights ongoing retail sector struggles. Geopolitical tensions and tariffs remain top risks for businesses, per the World Economic Forum, while Netflix's potential all-cash bid for Warner Bros. Discovery could reshape the media landscape.
+Global markets and economic indicators present a mixed picture as 2026 begins. Germany’s economy shows signs of recovery, growing for the first time since 2022, thanks to government spending, while China faces weakening demand, with new loans shrinking to their lowest levels since 2018. In the U.S., inflation holds steady at 2.7%, but rising food prices and persistent cost-of-living concerns contrast with President Trump’s claims of economic victory. Meanwhile, corporate earnings reports reveal resilience in banking, with Citigroup and JPMorgan Chase exceeding expectations, though Wall Street remains on edge over Trump’s proposed 10% cap on credit card interest rates, which banks warn could disrupt lending. Major business developments include Netflix’s potential all-cash bid for Warner Bros. Discovery, signaling a shift in the streaming wars, and the high-profile bankruptcy of Saks Global, underscoring ongoing struggles in the luxury retail sector. Central banks, led by the Federal Reserve, face political pressure as global counterparts rally to defend Fed Chair Jerome Powell’s independence amid Trump’s criticism.
 
 **Top Articles:**
+- [German Economy Grows for First Year Since 2022 on Spending](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fgerman-economy-grows-for-first-year-since-2022-on-spending-boost)
 - [Precious Metals Have Rallied Too Quickly: 3-Minutes MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fprecious-metals-have-rallied-too-quickly-3-minutes-mliv-video)
-- [China New Loans Shrink to Least in Seven Years as Demand Weakens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-new-loans-shrink-to-least-in-seven-years-as-demand-weakens)
-- [India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-s-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea)
-- [China Moves to Slow Down Market Bull Run | The China Show 1/15/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-china-show-1-15-2026-video)
-- [China’s CMRG Sounds Out Steel Mills on Banned BHP Ore Stockpiles](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-cmrg-sounds-out-steel-mills-on-banned-bhp-ore-stockpiles)
+- [China New Loans Shrink to Least Since 2018 as Demand Weakens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-new-loans-shrink-to-least-in-seven-years-as-demand-weakens)
+- [Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-gs-q4-2025-earnings.html)
+- [Mozambique Eyes Debt Talks After New IMF Program; Eurobond Slips](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-eyes-debt-talks-after-new-imf-program-president-says)
 
-**Sources**: archive.ph (90 articles)
+**Sources**: archive.ph (87 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech sector is riding high on AI-driven momentum, with TSMC's bullish $56 billion capital spending plan for 2026 reigniting confidence in sustained demand for advanced semiconductors. The chipmaker's strong outlook propelled ASML's market value past $500 billion, underscoring the industry's bet on AI's longevity. Meanwhile, regulatory scrutiny intensifies, as Switzerland investigates Microsoft over licensing fee hikes and China tightens margin financing to curb speculative tech stock bubbles. In the U.S., the Trump administration is weighing expanded private sector roles in cyberwarfare, while lawmakers revive efforts to pass comprehensive crypto legislation amid growing market maturity. Beyond tech, Boeing outperformed Airbus in 2025 deliveries for the first time since 2018, signaling a potential turnaround for the aerospace giant, while Delta's upbeat profit forecast highlights resilient premium travel demand despite broader economic caution.
+The tech sector is riding high on AI-driven momentum, with Taiwan Semiconductor Manufacturing Co. (TSMC) projecting a record $56 billion in capital spending for 2026, signaling sustained demand for AI chips. TSMC's upbeat outlook has propelled ASML Holding NV's market value past $500 billion, underscoring the semiconductor industry's pivotal role in the AI boom. Meanwhile, regulatory scrutiny intensifies as Switzerland investigates Microsoft over licensing fee hikes, and the U.S. weighs expanding private companies' involvement in cyberwarfare, raising legal and ethical concerns. In other developments, South Korea narrows its sovereign AI competition to three finalists, excluding teams from Naver and NCSoft, while SpaceX successfully completes a medical evacuation mission from the International Space Station. Beyond tech, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, and Amazon Pharmacy begins offering Novo Nordisk's Wegovy weight-loss pill, reflecting the growing obesity drug market. Political and economic tensions persist, with Trump imposing limited semiconductor tariffs and labor disputes escalating under his administration.
 
 **Top Articles:**
+- [SpaceX Capsule With ISS Astronauts Splashes Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fastronauts-return-to-earth-following-iss-medical-issue-video)
+- [Mozambique Leader Sees Total LNG Project Restart Within Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmozambique-leader-sees-total-lng-project-restart-within-weeks)
 - [UK’s South East Water Faces New Investigation Over Outages](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fuk-s-south-east-water-faces-new-investigation-over-outages)
 - [ASML Soars Above $500 Billion Value on TSMC’s Upbeat Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook)
 - [Chinese Builder Jingrui Ordered to Liquidate by Hong Kong Court](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchinese-builder-jingrui-ordered-to-liquidate-by-hong-kong-court)
-- [Taylor Wimpey Sees ‘Muted’ Demand For UK Home Selling Season](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftaylor-wimpey-sees-muted-demand-for-uk-home-selling-season)
-- [Microsoft Investigated by Swiss Regulator over Licensing Fees](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmicrosoft-investigated-by-swiss-regulator-over-licensing-fees)
 
 **Sources**: archive.ph (70 articles)
 
@@ -51,7 +51,7 @@ The tech sector is riding high on AI-driven momentum, with TSMC's bullish $56 bi
 
 ## ⚽ Sports
 
-In football business news, billionaire Jim Ratcliffe reduces the asking price for French club OGC Nice, signaling a potential shift in ownership for the Ligue 1 team. The move comes amid broader financial dynamics in European football, where club valuations and investment strategies continue to evolve. Meanwhile, in the retail sector, discount grocer Aldi announces plans to expand aggressively in the U.S., opening over 180 new stores in 2026. The expansion underscores growing consumer demand for value-driven shopping, intensifying competition with traditional grocery chains as discounters capture a larger share of weekly grocery spending.
+In football business news, billionaire Jim Ratcliffe reduces the asking price for French club OGC Nice, signaling potential shifts in ownership as financial pressures mount in European football. Meanwhile, in the retail sector, discount grocer Aldi accelerates its U.S. expansion, planning over 180 new stores this year as budget-conscious consumers drive demand for value-focused shopping. The moves highlight broader economic trends, with sports franchises adjusting valuations and retailers capitalizing on cost-sensitive markets. Upcoming developments in both industries could reshape competitive landscapes, from football club ownership to grocery retail dominance.
 
 **Top Articles:**
 - [Jim Ratcliffe Cuts Price Tag for French Football Club Nice](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjim-ratcliffe-cuts-price-tag-for-french-football-club-nice)
@@ -63,17 +63,17 @@ In football business news, billionaire Jim Ratcliffe reduces the asking price fo
 
 ## 📰 Other News
 
-Global economic and corporate developments dominate today’s news, with China’s State Grid announcing a massive $574 billion investment surge through 2030 to expand its power network amid rising electricity demand and renewable energy growth. Meanwhile, corporate maneuvering takes center stage as Netflix prepares to adjust its offer for Warner Bros. Discovery’s streaming and studio business to an all-cash deal, while Paramount threatens a board fight to secure the acquisition. In financial markets, traders scale back expectations of Bank of England interest rate cuts after the UK returns to growth, and oil prices dip following signals from President Trump that a U.S. response to Iran may be delayed. On the consumer front, luxury sales soar as Richemont reports record holiday quarter revenue, driven by strong demand in the U.S. and Middle East, while rising food prices—particularly for beef, coffee, and produce—add to inflation concerns. Social and cultural trends also emerge, with a resurgence of interest in psychedelic medicine like psilocybin, though access remains limited, and a revival of the iconic *Gourmet* magazine as an unsanctioned newsletter. Housing affordability remains a pressing issue, with Trump’s administration grappling with policy solutions amid conflicting signals from his mortgage chief, while families increasingly struggle with childcare costs and stagnant wages despite minimum wage hikes in several states.
+Global economic and political developments dominate today's news, with the U.S. advancing the second phase of President Trump's Gaza peace plan, focusing on demilitarization after a ceasefire. Meanwhile, China's State Grid announces a massive $574 billion investment surge through 2030 to expand its power infrastructure, reflecting the nation's push toward renewable energy. In corporate news, Richemont reports record holiday sales, driven by luxury demand in the U.S. and Middle East, while Netflix prepares to adjust its offer for Warner Bros. Discovery's streaming assets. On the domestic front, rising food prices and housing affordability remain pressing issues, with the Trump administration facing criticism for mixed signals on mortgage policies. A notable human interest story highlights the revival of *Gourmet Magazine* as an unsanctioned newsletter, blending nostalgia with modern media trends.
 
 **Top Articles:**
+- [Gaza Deal’s Second Phase to Begin](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fgaza-deal-s-second-phase-to-begin-video)
+- [How to Make Money From the Booming Demand for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fhow-to-make-money-from-the-booming-demand-for-energy)
 - [China’s State Grid Plans 40% Surge in Investment Through 2030](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fchina-s-state-grid-plans-40-surge-in-investment-through-2030)
 - [UniCredit Dismisses ‘Unjustified’ Monte Paschi Speculation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified)
 - [Traders Pare BOE Cut Bets After UK Returns to Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-15%2Fftse-100-live-uk-gdp-oil-silver-gold-prices-pound-bonds-trump-what-s-moving-uk-markets-right-now-markets-today)
-- [Trump Doubles Down on Greenland Ambitions | Insight with Haslinda Amin 01/15/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Finsight-with-haslinda-amin-1-15-2026-video)
-- [Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcartier-owner-richemont-s-sales-top-views-in-holiday-quarter)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 15, 2026 at 08:55 AM *
+*Digest generated on January 15, 2026 at 09:51 AM *
