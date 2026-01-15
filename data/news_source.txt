@@ -1,5 +1,65 @@
 [
   {
+    "title": "Stock Market’s Calm Belies Extreme Swings in Individual Shares",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fstock-market-s-calm-belies-extreme-swings-in-individual-shares",
+    "published": "Thu, 15 Jan 2026 10:30:00 CST",
+    "summary": "The sense of calm that has pervaded the US stock market for months is masking\nunprecedented bursts of volatility in individual shares, say Barclays Plc\nstrategists.\n\n"
+  },
+  {
+    "title": "Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fapple-tech-hardware-stocks-face-crisis-as-memory-prices-soar",
+    "published": "Thu, 15 Jan 2026 10:14:58 CST",
+    "summary": "Soaring prices for memory and storage components have turned companies like\nSandisk Corp., Micron Technology Inc. and Western Digital Corp. into the\nhottest stocks in the market over the past year. But they’re causing headaches\nfor many of their customers.\n\n"
+  },
+  {
+    "title": "US Wants EU Regulation Simplified, Trump Envoy Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fus-wants-eu-regulation-simplified-trump-envoy-says-video",
+    "published": "Thu, 15 Jan 2026 10:06:19 CST",
+    "summary": "US Ambassador to Belgium Bill White discusses President Donald Trump’s support\nof NATO, US interest in Greenland and EU regulation. He said “we would love to\nsee Europe’s regulation simplified, much more simplified if not eliminated.’’\nHe speaks with Oliver Crook on \"Bloomberg: The Opening Trade.\" (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
+    "published": "Thu, 15 Jan 2026 10:02:43 CST",
+    "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
+  },
+  {
+    "title": "Leading Prediction Firms Share a Commonality: Donald Trump Jr.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fus%2Fpolitics%2Fdonald-trump-jr-prediction-markets.html",
+    "published": "Thu, 15 Jan 2026 10:02:18 CST",
+    "summary": "Traders in companies with ties to the president’s eldest son can bet on the\noutcome of events the president affects.\n\n"
+  },
+  {
+    "title": "The other effort to control the Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fother-effort-control-fed%2F",
+    "published": "Thu, 15 Jan 2026 10:00:30 CST",
+    "summary": "Politics, Wall Street or the American people?\n\n"
+  },
+  {
+    "title": "Canadian Housing Market in Winter Freeze as Prices, Sales Decline",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcanadian-housing-market-in-winter-freeze-as-prices-sales-decline",
+    "published": "Thu, 15 Jan 2026 10:00:00 CST",
+    "summary": "The Canadian housing market ended 2025 on a down note, with both sales and\nprices declining as economic uncertainty kept buyers away.\n\n"
+  },
+  {
+    "title": "Why more seniors are being asked to care for their partners — alone",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F10%2Fsenior-caregivers-spouse%2F",
+    "published": "Thu, 15 Jan 2026 10:00:00 CST",
+    "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
+  },
+  {
+    "title": "BAT to End South Africa Cigarette Production on Illicit Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbat-to-end-south-africa-cigarette-production-on-illicit-trade",
+    "published": "Thu, 15 Jan 2026 09:43:08 CST",
+    "summary": "British American Tobacco Plc’s South Africa subsidiary said it will end local\nproduction of cigarettes after illicit trade shrank volumes and made operating\nunviable.\n\n"
+  },
+  {
+    "title": "Two Killed in Second Fatal Thai Crane Accident in as Many Days",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftwo-killed-in-second-fatal-thai-crane-accident-in-as-many-days",
+    "published": "Thu, 15 Jan 2026 09:34:13 CST",
+    "summary": "At least two people were killed when a crane collapsed from an under-\nconstruction elevated expressway onto a road in Thailand’s Samut Sakhon\nprovince, just one day after a similar accident involving a crane left 32\ndead.\n\n"
+  },
+  {
     "title": "SpaceX Capsule With ISS Astronauts Splashes Down",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fastronauts-return-to-earth-following-iss-medical-issue-video",
     "published": "Thu, 15 Jan 2026 09:26:38 CST",
@@ -45,7 +105,7 @@
     "title": "ASML Soars Above $500 Billion Value on TSMC’s Upbeat Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook",
     "published": "Thu, 15 Jan 2026 08:22:35 CST",
-    "summary": "ASML Holding NV shares soared to a record high, sending its market value\nbeyond $500 billion, after its key customer Taiwan Semiconductor Manufacturing\nCo. gave a stronger-than-anticipated outlook for 2026.\n\n"
+    "summary": "ASML Holding NV became only the third European company to surpass $500 billion\nin market value after key customer Taiwan Semiconductor Manufacturing Co. gave\na stronger-than-anticipated outlook for 2026.\n\n"
   },
   {
     "title": "China’s State Grid Plans 40% Surge in Investment Through 2030",
@@ -72,18 +132,6 @@
     "summary": "The UK housing marked continues to be blighted by lackluster demand as buyers\nstruggle with elevated mortgage costs that have stretched affordability,\naccording to Taylor Wimpey Plc.\n\n"
   },
   {
-    "title": "Trump Holds Back on Iran; European Military In Greenland | Horizons Middle East & Africa 1/15/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fhorizons-middle-east-africa-1-15-2026-video",
-    "published": "Thu, 15 Jan 2026 07:50:29 CST",
-    "summary": "Oil slumping after US president Donald Trump signals he may hold off on\nattacking Iran for now; German military personnel are set to arrive in\nGreenland today as European nations respond to US threats. Denmark says a\nfundamental disagreement remains after meeting with US officials; plus\nMozambique will only start discuss renegotiating its debt after a deal is\nagreed with the IMF on a new program. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Microsoft Investigated by Swiss Regulator over Licensing Fees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmicrosoft-investigated-by-swiss-regulator-over-licensing-fees",
-    "published": "Thu, 15 Jan 2026 07:39:40 CST",
-    "summary": "Switzerland’s competition commission has begun a preliminary investigation\ninto Microsoft Corp. over the licensing fees it charges clients in the country\nafter receiving complaints over recent price increases.\n\n"
-  },
-  {
     "title": "UniCredit Dismisses ‘Unjustified’ Monte Paschi Speculation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Funicredit-dismisses-monte-paschi-speculation-as-unjustified",
     "published": "Thu, 15 Jan 2026 07:32:15 CST",
@@ -102,18 +150,6 @@
     "summary": "The Philippines will allow Chinese nationals to enter without visas for a stay\nof up to two weeks, as the Southeast Asian nation pushes to revive its\nfaltering tourism sector.\n\n"
   },
   {
-    "title": "Traders Pare BOE Cut Bets After UK Returns to Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-15%2Fftse-100-live-uk-gdp-oil-silver-gold-prices-pound-bonds-trump-what-s-moving-uk-markets-right-now-markets-today",
-    "published": "Thu, 15 Jan 2026 06:46:08 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Trump Doubles Down on Greenland Ambitions | Insight with Haslinda Amin 01/15/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Finsight-with-haslinda-amin-1-15-2026-video",
-    "published": "Thu, 15 Jan 2026 06:33:15 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fminneapolis-traffic-stop-shooting-fuels-further-tensions-video",
     "published": "Thu, 15 Jan 2026 06:17:14 CST",
@@ -129,7 +165,7 @@
     "title": "Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fcartier-owner-richemont-s-sales-top-views-in-holiday-quarter",
     "published": "Thu, 15 Jan 2026 06:07:54 CST",
-    "summary": "Richemont sales jumped to a record in the final months of last year as holiday\nshoppers splurged on its watches and Cartier jewelry, led by demand in the US\nand the Middle East.\n\n"
+    "summary": "Richemont’s customers splurged on its watches and Cartier jewelry over the\nholidays particularly in the US, even as wider concerns about the luxury\nmarket remain.\n\n"
   },
   {
     "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom",
@@ -154,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
     "published": "Thu, 15 Jan 2026 03:50:17 CST",
     "summary": "The outage cut off tens of thousands of users and lasted more than six hours.\nThe cause was not immediately clear.\n\n"
-  },
-  {
-    "title": "Korean Won Traders Test Authorities’ Resolve After Bessent Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fkorean-won-traders-test-authorities-resolve-after-bessent-rally",
-    "published": "Thu, 15 Jan 2026 03:46:19 CST",
-    "summary": "The South Korean won resumed its decline toward a 17‑year low on Thursday,\ntesting officials’ resolve to stem the slide despite supportive remarks from\nUS Treasury Secretary Scott Bessent.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
@@ -192,16 +222,10 @@
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
   },
   {
-    "title": "Flipping Japan IPOs Loses Luster as Small Share Sales Fade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fflipping-japan-ipos-loses-luster-as-small-share-sales-disappear",
-    "published": "Wed, 14 Jan 2026 23:00:30 CST",
-    "summary": "Japan’s initial public offerings have become less profitable to flip on their\ntrading debut, a trend investors have welcomed as an indication of higher\nquality companies coming to market.\n\n"
-  },
-  {
     "title": "TSMC Spurs Tech Revival as Metals Slide From Peaks: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "Technology stocks bounced back on Thursday after Taiwan Semiconductor\nManufacturing Co. renewed confidence in the durability of artificial-\nintelligence demand. Metals fell from all-time highs.\n\n"
+    "summary": "Technology stocks bounced back on Thursday after Taiwan Semiconductor\nManufacturing Co. revived confidence in the durability of artificial-\nintelligence demand. Metals fell from all-time highs.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -666,12 +690,6 @@
     "summary": "White House officials have explored a vast array of ideas as the president\nlooks to unfurl a housing affordability plan at an economic conference this\nmonth.\n\n"
   },
   {
-    "title": "Congress agrees to fund Voice of America, bucking Trump shutdown order",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F13%2Fvoice-of-america-trump-congress-funding%2F",
-    "published": "Tue, 13 Jan 2026 10:00:35 CST",
-    "summary": "The Trump administration has tried to eliminate funding for the U.S. Agency\nfor Global Media, which oversees VOA. Appropriators in Congress have had other\nideas.\n\n"
-  },
-  {
     "title": "Trump warns of ‘complete mess’ if supreme court rejects tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F13%2Fdonald-trump-supreme-court-tariffs-iran-us-trade",
     "published": "Tue, 13 Jan 2026 09:10:10 CST",
@@ -702,12 +720,6 @@
     "summary": "The Federal Reserve is likely to hold interest rates steady when it meets at\nthe end of the month, keeping tensions high with President Trump.\n\n"
   },
   {
-    "title": "Fed Changes Course and Takes On Trump’s Political Fight",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Ffederal-reserve-changes-course-trump-administration.html",
-    "published": "Tue, 13 Jan 2026 00:22:57 CST",
-    "summary": "The Justice Department’s decision to open up a criminal investigation of\nJerome H. Powell, the chair of the Federal Reserve, is a major escalation in\nthe pressure campaign against the central bank to cut interest rates.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Citigroup, Abercrombie, Vistra, Duolingo and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fstocks-making-the-biggest-moves-midday-c-anf-vst-duol.html",
     "published": "Tue, 13 Jan 2026 00:10:33 CST",
@@ -724,12 +736,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Fjerome-powell-investigation-fed-renovations.html",
     "published": "Mon, 12 Jan 2026 23:03:27 CST",
     "summary": "The Justice Department’s probe into whether Jerome H. Powell, the chair of the\nFederal Reserve, lied about renovations to the central bank’s headquarters has\nraised alarms.\n\n"
-  },
-  {
-    "title": "Stocks, Bonds and the Dollar Fluctuate on Threat to Fed Chair Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fbusiness%2Fstock-market-dollar-trump-fed-powell.html",
-    "published": "Mon, 12 Jan 2026 21:44:08 CST",
-    "summary": "Stocks and U.S. Treasuries were relatively unchanged on Monday, a sign\ninvestors don’t see an immediate threat to the economy.\n\n"
   },
   {
     "title": "JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?",
