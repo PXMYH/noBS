@@ -1,12 +1,48 @@
 [
   {
+    "title": "Stocks making the biggest moves premarket: PNC, ImmunityBio, Coupang & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fstocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html",
+    "published": "Fri, 16 Jan 2026 13:48:07 CST",
+    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
+  },
+  {
+    "title": "Glencore Strikes Offtake Agreement for Steel Input From Oman",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fglencore-strikes-offtake-agreement-for-steel-input-from-oman",
+    "published": "Fri, 16 Jan 2026 13:42:52 CST",
+    "summary": "Glencore Plc has agreed to buy at least 500,000 tons a year of hot briquetted\niron from a planned Oman-based plant, securing supply of the low-carbon\nsteelmaking input from 2030.\n\n"
+  },
+  {
+    "title": "JPMorgan Eclipses Dimensional as World’s Biggest Active ETF Firm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fjpmorgan-eclipses-dimensional-as-world-s-biggest-active-etf-firm",
+    "published": "Fri, 16 Jan 2026 13:24:17 CST",
+    "summary": "JPMorgan Asset Management has a new superlative: The firm now hails as the\nworld’s largest issuer of actively managed exchange-traded funds.\n\n"
+  },
+  {
+    "title": "Baltic Nations Make Joint Push to Secure ECB Vice Presidency",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbaltic-nations-make-joint-push-to-secure-ecb-vice-presidency",
+    "published": "Fri, 16 Jan 2026 13:20:06 CST",
+    "summary": "The euro area’s three Baltic members launched a coordinated effort to ensure\none of their candidates becomes the next vice president of the European\nCentral Bank.\n\n"
+  },
+  {
+    "title": "US Colleges Plunge Off a \"Demographic Cliff\"",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fus-colleges-plunge-off-a-demographic-cliff",
+    "published": "Fri, 16 Jan 2026 13:15:05 CST",
+    "summary": "US colleges are in trouble. A tumbling birth rate is pushing many schools\ntoward a “demographic cliff,” where a steadily dropping population of people\nin their late teens and early 20s will leave desks and classrooms empty.\nElizabeth Rembert explains (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Benin Eyes $1 Billion in First Africa Dollar-Bond Sale This Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbenin-eyes-1-billion-in-first-africa-dollar-bond-sale-this-year",
+    "published": "Fri, 16 Jan 2026 13:01:29 CST",
+    "summary": "Benin is set to raise as much as $1 billion from a sale of dollar-denominated\nsukuk bonds and other loan securities in what would be the first African\nsovereign-debt offering this year, according to people familiar with the\nmatter.\n\n"
+  },
+  {
     "title": "Petro’s Record 23% Wage Hike Ripples Through Colombian Economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fpetro-s-record-23-wage-hike-ripples-through-colombian-economy",
     "published": "Fri, 16 Jan 2026 13:00:00 CST",
     "summary": "Colombia’s government is trying to cap some prices as it grapples with a\nseries of unintended consequences from its record minimum wage hike.\n\n"
   },
   {
-    "title": "Private Secondaries Deals Hit $226 Billion Amid Thirst for Cash",
+    "title": "Private Secondaries Deals Surge to Record $226 Billion, Evercore Reports",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fprivate-secondaries-deals-hit-226-billion-amid-thirst-for-cash",
     "published": "Fri, 16 Jan 2026 13:00:00 CST",
     "summary": "Secondary deal volume for private assets surged 41% to a record $226 billion\nlast year, Evercore Inc. said in a report, as investors got more creative\nabout tapping that market for liquidity.\n\n"
@@ -30,16 +66,16 @@
     "summary": "The oil majors may be balking on Venezuela, but smaller firms see\nopportunities to cash in. Some are big Trump donors.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves premarket: PNC, ImmunityBio, Coupang & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fstocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html",
-    "published": "Fri, 16 Jan 2026 12:47:30 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
     "title": "Oil Wildcatter Hamm Is Halting Drilling in the Bakken",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-16%2Foil-wildcatter-hamm-is-halting-drilling-in-the-bakken",
     "published": "Fri, 16 Jan 2026 12:43:41 CST",
     "summary": "Concerns over a global crude glut have pressured prices, weighing on profits.\n\n"
+  },
+  {
+    "title": "The Tech Trade Propels Equities, Yen-tervention Watch | The Opening Trade 1/16/2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fthe-opening-trade-1-16-2025-video",
+    "published": "Fri, 16 Jan 2026 12:40:15 CST",
+    "summary": "The latest wave of enthusiasm for technology stocks carried into Friday,\nlifting US stock futures. Small caps also advanced as investors continued to\nbroaden their exposure. Japan’s finance minister said an agreement with the US\njustifies intervention to cope with sudden currency moves, stepping up her\nverbal warnings to halt the yen’s weakness. The Opening Trade has everything\nyou need to know as markets open across Europe. With analysis you won't find\nanywhere else, we break down the biggest stories of the day and speak to top\nguests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom\nMackenzie. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Italian Court Closes Fraud Case Against Influencer Chiara Ferragni",
@@ -132,18 +168,6 @@
     "summary": "At first glance, Saks looked like exactly the kind of mess hedge funds love.\n\n"
   },
   {
-    "title": "Korea Exchange Mulls Riskier ETFs to Woo Retail Traders",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fkorea-exchange-mulls-riskier-etfs-to-woo-retail-traders-video",
-    "published": "Fri, 16 Jan 2026 11:06:32 CST",
-    "summary": "South Korea’s main bourse is in talks with financial authorities to ease rules\nthat ban high-risk leveraged exchange-traded products, as a record rally in\nlocal shares has failed to draw retail investors back to the domestic market.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump’s Credit Card Threats Rain on Big Banks’ Earnings Parade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ftrump-s-credit-card-threats-rain-on-big-banks-earnings-parade",
-    "published": "Fri, 16 Jan 2026 11:00:00 CST",
-    "summary": "President Donald Trump’s unexpected demand for a cap on credit card interest\nrates sent financial shares tumbling this week, while leaving the heads of\nWall Street’s biggest lenders fielding a swarm of questions on their quarterly\nearnings calls.\n\n"
-  },
-  {
     "title": "Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
     "published": "Fri, 16 Jan 2026 10:52:13 CST",
@@ -154,18 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Falantra-others-said-to-mull-stake-sale-in-spain-s-salto-systems",
     "published": "Fri, 16 Jan 2026 10:37:32 CST",
     "summary": "A group of shareholders in Salto Systems SL are weighing a sale of their\nstakes in the Spanish electronic locks manufacturer, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "Wall Street Is Split on Stock Market’s Top-Performing Sector",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fwall-street-is-split-on-stock-market-s-top-performing-sector",
-    "published": "Fri, 16 Jan 2026 10:30:00 CST",
-    "summary": "A market-beating rally in energy stocks amid flaring geopolitical tensions has\nsparked a debate about how long the momentum will last.\n\n"
-  },
-  {
-    "title": "Morgan Stanley Sees 70% Surge for ASML Shares in Bull Case",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmorgan-stanley-sees-70-surge-for-asml-shares-in-bull-case",
-    "published": "Fri, 16 Jan 2026 10:16:00 CST",
-    "summary": "Morgan Stanley laid out its bullish case for why investors should buy ASML\nHolding NV shares, saying in the most optimistic scenario the stock has a 70%\nrally ahead as chipmakers ramp up spending to meet soaring demand for\nartificial intelligence.\n\n"
   },
   {
     "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
@@ -192,28 +204,16 @@
     "summary": "Brooke Rollins drew ridicule on social media after saying a meal could be a\n“piece of chicken, a piece of broccoli, a corn tortilla and one other thing.”\n\n"
   },
   {
-    "title": "Porsche Sales Slump Most in 16 Years on Poor China Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fporsche-sales-slump-most-in-16-years-on-weak-china-model-gaps",
-    "published": "Fri, 16 Jan 2026 09:02:37 CST",
-    "summary": "Porsche AG’s deliveries fell 10% last year, the steepest drop since 2009 when\nthe global financial crisis roiled markets, following weak demand for electric\nvehicles and a slump in China.\n\n"
-  },
-  {
-    "title": "Canada Says China to Ease Canola Tariffs by March in Trade Thaw",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fcanada-says-china-to-ease-crop-tariffs-by-march-in-trade-thaw",
-    "published": "Fri, 16 Jan 2026 08:25:04 CST",
-    "summary": "Canada expects China to cut tariffs on its rapeseed by March 1, which would be\na significant thaw in a trade rift that has disrupted crop flows and tested\nbilateral relations.\n\n"
-  },
-  {
     "title": "Del Vecchio’s Delfin Denies Paschi Talks With UniCredit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdel-vecchio-s-delfin-denies-paschi-stake-talks-with-unicredit",
     "published": "Fri, 16 Jan 2026 07:45:11 CST",
     "summary": "Delfin Sarl, the investment firm of the billionaire Del Vecchio family, denied\nit’s in talks with UniCredit SpA over potentially selling its 17.5% stake in\nrival lender Banca Monte dei Paschi di Siena SpA.\n\n"
   },
   {
-    "title": "Europe Gas Surges 25% on Week as ‘Perfect Storm’ Hits Sentiment",
+    "title": "Europe Gas Surges 29% on Week as ‘Perfect Storm’ Hits Sentiment",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Feuropean-gas-prices-post-biggest-weekly-gain-since-fall-of-2023",
     "published": "Fri, 16 Jan 2026 07:29:44 CST",
-    "summary": "European gas prices extended this week’s rally past 25% -- the biggest such\njump in over two years -- with a change in sentiment taking hold as traders\nrush to cover short positions amid bouts of unusually cold weather.\n\n"
+    "summary": "European gas prices extended this week’s jump past 29% as a change in\nsentiment took hold and traders rushed to cover short positions amid bouts of\nunusually cold weather.\n\n"
   },
   {
     "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
@@ -252,12 +252,6 @@
     "summary": "He and Steven Z. Meyers opened their first low-cost legal clinic in 1972.\nWithin a decade, they had revolutionized the legal industry, and Jacoby &\nMeyers had become a widely known brand.\n\n"
   },
   {
-    "title": "Silver Dips After US Tariff Pause, But Set for Hefty Weekly Gain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
-    "published": "Thu, 15 Jan 2026 23:40:04 CST",
-    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up more than 14% for the week on surging\ndemand for precious metals.\n\n"
-  },
-  {
     "title": "Oil Claws Back Some Losses on Iran Risks Heading Into Weekend",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16",
     "published": "Thu, 15 Jan 2026 23:14:47 CST",
@@ -270,10 +264,16 @@
     "summary": "Kathleen Kennedy stepped down as Lucasfilm’s president and returned to\nproducing. Two studio veterans took over.\n\n"
   },
   {
-    "title": "Stocks Rise as Fresh Burst of Tech Momentum Builds: Markets Wrap",
+    "title": "Tech Stock Gains Build as Small-Cap Rally Eases: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap",
     "published": "Thu, 15 Jan 2026 22:40:15 CST",
-    "summary": "The latest wave of enthusiasm for technology stocks carried into Friday,\nlifting US stock futures. Small caps also advanced as investors continued to\nbroaden their exposure.\n\n"
+    "summary": "The latest wave of enthusiasm for technology stocks carried into Friday,\nlifting US stock futures. Small caps slowed their advance.\n\n"
+  },
+  {
+    "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-to-direct-key-us-grid-operator-to-hold-emergency-auction",
+    "published": "Thu, 15 Jan 2026 22:35:58 CST",
+    "summary": "President Donald Trump and the governors of several US Northeastern states\nagreed to push for an emergency wholesale electricity auction that would\ncompel technology companies to effectively fund new power plants.\n\n"
   },
   {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
@@ -304,12 +304,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
     "published": "Thu, 15 Jan 2026 20:02:04 CST",
     "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
-  },
-  {
-    "title": "Ex-Pimco Executive Scores Milestone on Catastrophe Bond ETF",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fex-pimco-executive-scores-milestone-with-catastrophe-bond-etf",
-    "published": "Thu, 15 Jan 2026 19:45:00 CST",
-    "summary": "An exchange-traded fund tied to bets on natural disasters has started trading\nin London, after becoming the first such ETF to attract a lead market maker.\n\n"
   },
   {
     "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
@@ -376,6 +370,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Ffeds-goolsbee-says-inflation-could-come-roaring-back-if-central-bank-independence-goes-away.html",
     "published": "Thu, 15 Jan 2026 16:11:07 CST",
     "summary": "\"Anything that's infringing or attacking the independence of the central bank\nis a mess,\" Goolsbee told CNBC.\n\n"
+  },
+  {
+    "title": "Arms Supplier CSG Ushers in Wave of Defense IPOs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Farms-supplier-csg-ushers-in-wave-of-ipos-for-europe-s-top-trade",
+    "published": "Thu, 15 Jan 2026 15:54:18 CST",
+    "summary": "Defense stocks have been the hottest trade in Europe for more than a year. Now\nthat rally is finally on the cusp of drawing some of the continent’s private\narms makers onto public markets.\n\n"
   },
   {
     "title": "How Saks' acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
