@@ -1,12 +1,12 @@
 # NoBS News Digest - January 16, 2026
 
-Generated from **215** unique articles (deduplicated from 215 total) across **1** news sources
+Generated from **214** unique articles (deduplicated from 214 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-The Trump administration continues to make bold moves on multiple fronts, with significant implications for both domestic and international affairs. In a controversial decision, the Pentagon announces plans to overhaul *Stars and Stripes*, the independent military newspaper, citing concerns over its editorial direction and aligning it more closely with Defense Department priorities. Meanwhile, the administration indefinitely suspends immigrant visa processing for citizens of 75 countries, including Brazil, Iran, and Russia, citing welfare use as justification—a move likely to strain diplomatic relations and draw criticism from affected nations. On the economic front, Trump’s push to assert control over Venezuela’s oil reserves faces skepticism from major energy firms, which appear hesitant to engage amid legal and logistical uncertainties, preferring domestic sources instead. Internationally, Canada seeks to pivot its trade strategy as former Bank of England Governor Mark Carney travels to Beijing to repair strained Canada-China relations, signaling Ottawa’s effort to diversify markets amid worsening U.S.-China tensions. In entertainment, Lucasfilm undergoes a leadership shakeup as Kathleen Kennedy steps down as president, marking a shift in the *Star Wars* franchise’s direction under new studio veterans.
+The Trump administration continues to make bold moves on multiple fronts, with significant implications for both domestic and international affairs. Domestically, the Pentagon announces plans to overhaul *Stars and Stripes*, the independent military newspaper, citing concerns over its editorial direction and alignment with Trump’s policies. Meanwhile, the State Department indefinitely suspends immigrant visa processing for citizens of 75 countries, including Brazil, Iran, and Russia, citing welfare use as justification—a decision likely to strain diplomatic relations and draw criticism from affected nations. On the energy front, Trump’s push to assert control over Venezuela’s oil reserves faces skepticism from major oil companies, which may prefer domestic sources over the geopolitical and logistical risks of Venezuelan extraction. Internationally, Canada’s former central bank governor, Mark Carney, travels to Beijing to repair strained Canada-China relations, signaling Ottawa’s effort to diversify trade partnerships amid worsening U.S.-China tensions. In entertainment, Lucasfilm President Kathleen Kennedy steps down, marking a leadership shift in the *Star Wars* franchise as two studio veterans take the helm.
 
 **Top Articles:**
 - [Pentagon to overhaul independent military newspaper, calling it ‘woke’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F)
@@ -21,7 +21,7 @@ The Trump administration continues to make bold moves on multiple fronts, with s
 
 ## 💰 Finance, Economics & Business
 
-Financial markets are grappling with political and economic uncertainty as President Trump's policy proposals rattle key sectors. His push to cap credit card interest rates at 10% sent bank stocks tumbling, with major lenders like JPMorgan and Bank of America facing earnings pressure amid the threat of regulatory intervention. Meanwhile, the Federal Reserve's independence is under scrutiny, with Chair Jerome Powell garnering support amid a Justice Department investigation and Trump signaling hesitation over nominating economic adviser Kevin Hassett as his replacement. In corporate news, Novo Nordisk surged 8% on strong early sales of its Wegovy obesity drug, while Clear Street closed a $12 billion pre-IPO funding round. Energy markets saw volatility, with European gas prices soaring 30% on cold weather and supply concerns, while oil recovered slightly on geopolitical tensions. Central banks globally are stockpiling gold as a hedge against dollar instability, reflecting broader economic unease.
+Financial markets are grappling with political and economic uncertainty as President Trump's policy proposals rattle key sectors. His call to cap credit card interest rates at 10% sent banking stocks tumbling, with major lenders like JPMorgan and Bank of America facing earnings pressure amid the threat of regulatory intervention. Meanwhile, the Federal Reserve's independence is under scrutiny, with Jerome Powell garnering support amid a DOJ investigation and Trump signaling hesitation over nominating Kevin Hassett as his replacement. In corporate news, Novo Nordisk surged 8% on strong early sales of its obesity drug Wegovy, while Clear Street closed a $12 billion pre-IPO funding round. Energy markets saw volatility, with European gas prices soaring 30% on cold weather and supply concerns, while oil recovered slightly on geopolitical tensions. Central banks are increasingly turning to gold as a hedge against dollar instability, reflecting broader economic unease.
 
 **Top Articles:**
 - [Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html)
@@ -30,28 +30,28 @@ Financial markets are grappling with political and economic uncertainty as Presi
 - [Betting Stocks Fall as NFL Prediction Bets Gain on Gambling Apps](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbetting-stocks-fall-as-nfl-prediction-bets-gain-on-gambling-apps)
 - [Fed Officials Stress Independence, Potential Credit Complacency | Real Yield 1/16/2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Freal-yield-1-16-2025-video)
 
-**Sources**: archive.ph (106 articles)
+**Sources**: archive.ph (104 articles)
 
 ---
 
 ## 💻 Technology
 
-This week, tech and AI dominate headlines as demand for AI-driven data centers pushes electricity costs higher, prompting President Trump and Northeastern governors to propose emergency measures forcing tech giants to fund new power plants. Meanwhile, Trump imposes a 25% tariff on Nvidia and AMD AI chips, citing national security, while also finalizing a trade deal with Taiwan that includes tariff reductions and commitments from TSMC to expand U.S. chip manufacturing. In regulatory news, India’s Supreme Court rules that Tiger Global must pay taxes on its Flipkart stake sale, while the U.S. considers expanding private sector roles in cyberwarfare. Elsewhere, Starlink’s satellite internet becomes a lifeline for Iranian activists amid a government-imposed blackout, and Uber doubles down on its Japan expansion strategy. The week also sees Boeing outpace Airbus in 2025 deliveries for the first time since 2018, while JPMorgan faces succession questions as CEO Jamie Dimon marks two decades at the helm.
+This week’s tech and business headlines are dominated by AI-driven energy demands, regulatory shifts, and high-stakes corporate moves. OpenAI’s ChatGPT begins testing ads in the U.S., marking a new revenue push for the AI giant, while President Trump imposes a 25% tariff on Nvidia’s AI chips, citing national security concerns. The surge in AI and data center demand is straining power grids, prompting Trump and Northeastern governors to propose emergency measures forcing tech companies to fund new power plants. Meanwhile, Taiwan secures a trade deal with the U.S., pledging more chip factories, and Boeing outsells Airbus for the first time since 2018, despite ongoing safety scrutiny. In finance, JPMorgan faces succession questions as CEO Jamie Dimon marks 20 years at the helm, while India’s Supreme Court rules Tiger Global liable for Flipkart taxes. The week also sees labor tensions, with union accusations against Trump’s Labor Department and Breads Bakery workers pushing for unionization amid political disputes.
 
 **Top Articles:**
+- [IMF Approves $261 Million Payout to Ethiopia After Review](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fimf-approves-261-million-payout-to-ethiopia-after-review)
 - [Trump and States Aim to Stop A.I. From Inflating Energy Bills](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-ai-electricity-costs.html)
+- [What’s Next for Cuba, Now That Its Main Oil Supplier Is Gone?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fcuba-venezuela-mexico-oil-diplomacy.html)
+- [ChatGPT to start showing ads in the US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F16%2Fchatgpt-ads-in-revenue-boost)
 - [Battles Over Truth Rage Online Amid Iran’s Internet Blackout](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Firan-internet-blackout-protests-disinformation.html)
-- [Plunging US Birth Rate Leaves Too Many Colleges With Too Few Kids](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fus-colleges-face-future-with-with-too-few-students-video)
-- [Trump Moves to Make Tech Giants Pay for Surging Power Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ftrump-moves-to-make-tech-giants-pay-for-power-costs-video)
-- [Trump threatens tariffs against those who oppose him taking Greenland](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F16%2Ftrump-greenland-envoy-us-denmark)
 
-**Sources**: archive.ph (71 articles)
+**Sources**: archive.ph (72 articles)
 
 ---
 
 ## ⚽ Sports
 
-Formula One remains in the spotlight as four-time World Champion Max Verstappen shares insights into his championship mindset during a recent interview in Detroit. The Red Bull Racing driver reflects on his career goals and the challenges of maintaining dominance in the sport, offering a rare glimpse into the mentality of one of F1's top performers. Meanwhile, off the track, financial markets face potential volatility, with Morgan Stanley warning that traders are underestimating the risk of sharp swings in the euro, signaling broader economic uncertainties. In retail news, discount grocer Aldi announces an aggressive expansion plan, aiming to open over 180 new stores in the U.S. this year as consumers across income levels prioritize value amid rising competition in the grocery sector.
+Formula One remains in the spotlight as four-time World Champion Max Verstappen shares insights into his championship mindset during a recent interview in Detroit. The Red Bull Racing driver reflects on his career goals and the challenges of maintaining dominance in the sport, offering a rare glimpse into the mental fortitude required to stay at the top. Meanwhile, off the track, financial markets face potential volatility, with Morgan Stanley warning that traders are underestimating the risk of sharp swings in major currencies, particularly the euro. In retail news, discount grocer Aldi announces an aggressive expansion plan, aiming to open over 180 new stores in the U.S. this year as budget-conscious consumers increasingly turn to value-focused options. The move underscores the growing competition in the grocery sector as discounters gain market share.
 
 **Top Articles:**
 - [Inside Max Verstappen’s Championship Mindset](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Finside-max-verstappen-s-championship-mindset-video)
@@ -64,7 +64,7 @@ Formula One remains in the spotlight as four-time World Champion Max Verstappen 
 
 ## 📰 Other News
 
-This week's news highlights economic and social pressures reshaping key sectors across the U.S. and globally. A sharp decline in birth rates is forcing small colleges to confront existential threats, with institutions like Trinity Christian College struggling to attract enough students. Meanwhile, the housing crisis deepens as seniors increasingly take on solo caregiving roles for aging partners, compounding financial and emotional strains. On the economic front, inflation remains a focal point, with food prices surging in December, while President Trump's administration grapples with housing affordability through controversial tactics, including threats to lower costs. Internationally, the EU and South America are finalizing a landmark free-trade agreement covering 700 million people, contrasting with the U.S.'s more coercive trade policies. Tech and media trends also stand out, as NBCUniversal pivots heavily toward live sports, and Netflix prepares to adjust its offer for Warner Bros. Discovery's streaming assets. Emerging AI tools, like Alibaba-backed PixVerse's real-time video generator, signal rapid advancements in digital content creation, while regulatory scrutiny intensifies around platforms like X, which is restricting AI-generated explicit imagery.
+This week's news highlights economic pressures and societal shifts shaping the U.S. and global markets. Declining birth rates are forcing small colleges to confront financial instability, while rising food prices and housing costs strain household budgets. The Trump administration faces scrutiny over mixed signals in its inflation-fighting tactics, including threats to lower prices and a housing affordability push that clashes with policies under mortgage chief Bill Pulte. Meanwhile, the EU and South America's landmark free-trade deal signals a contrast to U.S. coercive trade strategies. Tech and media trends also stand out, with NBCUniversal doubling down on live sports and Netflix potentially revising its Warner Bros. Discovery offer. Human interest stories, like seniors caring for ailing partners and the challenges of immigrant labor in construction, underscore broader social struggles.
 
 **Top Articles:**
 - [Big Take: Birth Rate Drop Hits US Schools](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbig-take-birth-rate-drop-hits-us-schools-video)
@@ -77,4 +77,4 @@ This week's news highlights economic and social pressures reshaping key sectors 
 
 ---
 
-*Digest generated on January 16, 2026 at 07:39 PM *
+*Digest generated on January 16, 2026 at 08:44 PM *

@@ -1,5 +1,23 @@
 [
   {
+    "title": "IMF Approves $261 Million Payout to Ethiopia After Review",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fimf-approves-261-million-payout-to-ethiopia-after-review",
+    "published": "Fri, 16 Jan 2026 19:55:00 CST",
+    "summary": "The International Monetary Fund executive board agreed to immediately disburse\nabout $261 million to Ethiopia after the nation reached an agreement in\nprinciple with bondholders to restructure its debt.\n\n"
+  },
+  {
+    "title": "Trump and States Aim to Stop A.I. From Inflating Energy Bills",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-ai-electricity-costs.html",
+    "published": "Fri, 16 Jan 2026 19:54:40 CST",
+    "summary": "Demand from centers that power artificial intelligence has driven up\nelectricity bills, frustrating consumers.\n\n"
+  },
+  {
+    "title": "What’s Next for Cuba, Now That Its Main Oil Supplier Is Gone?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fcuba-venezuela-mexico-oil-diplomacy.html",
+    "published": "Fri, 16 Jan 2026 19:43:33 CST",
+    "summary": "The Soviet Union was Cuba’s benefactor for decades. Venezuela took up the\nslack, and Mexico has supplied “humanitarian aid.” But the world is changing\nrapidly, our columnist says.\n\n"
+  },
+  {
     "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
     "published": "Fri, 16 Jan 2026 19:33:45 CST",
@@ -36,12 +54,6 @@
     "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: BNP Paribas Head of US Rates Strategy Guneet Dhingra, JPMorgan\nAsset Management Core Plus Bond ETF Portfolio Manager Priya Misra, Invesco\nHead of North American Investment Grade Credit Matt Brill and UBS Investment\nBank Head of Credit Strategy Matthew Mish. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trump and States Aim to Stop A.I. From Inflating Energy Bills",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-ai-electricity-costs.html",
-    "published": "Fri, 16 Jan 2026 19:06:21 CST",
-    "summary": "Demand from centers that power artificial intelligence have driven up\nelectricity bills, frustrating consumers.\n\n"
-  },
-  {
     "title": "Fannie, Freddie Stock Woes Deepen as IPO Questions Mount",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ffannie-freddie-stock-woes-deepen-as-ipo-questions-mount",
     "published": "Fri, 16 Jan 2026 18:55:40 CST",
@@ -64,6 +76,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fnovo-nordisk-shares-wegovy-obesity-pill-launch.html",
     "published": "Fri, 16 Jan 2026 18:29:21 CST",
     "summary": "The early data is a boost to the Danish drugmaker's hopes of winning back more\nmarket share from Eli Lilly this year in the obesity drug space.\n\n"
+  },
+  {
+    "title": "ChatGPT to start showing ads in the US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F16%2Fchatgpt-ads-in-revenue-boost",
+    "published": "Fri, 16 Jan 2026 18:24:58 CST",
+    "summary": "Ads to be placed alongside answers as OpenAI looks to beef up revenue for\nflagship AI product\n\nChatGPT will start including advertisements beside answers for US users as\nOpenAI seeks a new revenue stream.\n\nThe ads will be tested first in ChatGPT for US users only, the company\nannounced on Friday, after increasing speculation that the San Francisco firm\nwould turn to a potential cashflow model on top of its current subscriptions.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stock Investors’ Strategy for 2026: ‘Don’t Fight the White House’",
@@ -148,12 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F16%2Ftrump-greenland-envoy-us-denmark",
     "published": "Fri, 16 Jan 2026 17:01:44 CST",
     "summary": "President raises pressure on European allies as US envoy says deal to take\nisland ‘should and will be made’\n\n  * Fear in Greenland as threat of invasion looms\n\nDonald Trump has threatened to impose tariffs on countries that do not “go\nalong” with his plan to annex Greenland, increasing pressure on European\nallies who have opposed his effort to take over the Arctic territory.\n\nAfter a tense week in which Nato allies deployed troops to the largely\nautonomous territory, which is part of the Danish kingdom, the US president\nannounced he might punish countries that do not support his plans to take over\nGreenland, using force if necessary.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "What’s Next for Cuba, Now That Its Main Oil Supplier Is Gone?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fcuba-venezuela-mexico-oil-diplomacy.html",
-    "published": "Fri, 16 Jan 2026 17:01:24 CST",
-    "summary": "The Soviet Union was Cuba’s benefactor for decades. Venezuela took up the\nslack, and Mexico has supplied “humanitarian aid.” But the world is changing\nrapidly, our columnist says.\n\n"
   },
   {
     "title": "Trump’s economic adviser expects there is ‘nothing to see’ as justice department investigates Fed",
@@ -268,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Firan-online-starlink.html",
     "published": "Fri, 16 Jan 2026 12:24:45 CST",
     "summary": "Activists spent years preparing for a communications blackout in Iran,\nsmuggling in Starlink satellite internet systems and making digital shutdowns\nharder for the authorities to enforce.\n\n"
-  },
-  {
-    "title": "PNC Shares Rise to Four-Year High as Revenue Beats Estimates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fpnc-beats-on-revenue-driven-by-jump-in-fees-from-capital-markets",
-    "published": "Fri, 16 Jan 2026 11:37:23 CST",
-    "summary": "Shares of PNC Financial Services Group Inc. rose to four-year high after the\nregional bank reported a 9% increase in fourth-quarter revenue, beating\nanalysts’ estimates as financing and dealmaking by middle-market customers\naccelerated.\n\n"
   },
   {
     "title": "Trump’s Credit Card Threats Rain on Banks’ Earnings Parade",
@@ -636,12 +642,6 @@
     "summary": "The state department cites welfare use as it pauses visa processing for\nBrazil, Iran, Russia, Somalia and others\n\n  * People affected by the US visa freeze: share your experience\n\nThe Donald Trump administration has indefinitely suspended immigrant visa\nprocessing for people from 75 countries, marking one of its most expansive\nefforts yet to restrict legal pathways to the United States.\n\nThe freeze, which takes effect on 21 January, targets applicants officials\ndeem likely to become a “public charge” – who they describe as people who may\nrely on government benefits for basic needs.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Saks files for bankruptcy as it struggles to pay debts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fsaks-bankruptcy-neiman-marcus-bergdorf%2F",
-    "published": "Wed, 14 Jan 2026 20:10:56 CST",
-    "summary": "The announcement comes after Saks missed a $100 million interest payment\nconnected to its nearly $2.7 billion acquisition of Neiman Marcus in 2024.\n\n"
-  },
-  {
     "title": "2026 May Be the Year of the Mega I.P.O.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
     "published": "Wed, 14 Jan 2026 19:55:54 CST",
@@ -736,12 +736,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 15:32:38 CST",
     "summary": "The parent company of Saks, Neiman Marcus and Bergdorf Goodman struggled with\ndebt, designers and customers in recent years.\n\n"
-  },
-  {
-    "title": "Suspended Michigan autoworker who heckled Trump gets outpouring of donations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Ftrump-suspended-michigan-autoworker",
-    "published": "Wed, 14 Jan 2026 15:23:33 CST",
-    "summary": "Tens of thousands of dollars raised for TJ Sabula after he reportedly calls\nTrump ‘pedophile protector’ during Ford plant tour\n\nTens of thousands of dollars have been raised for an autoworker at a Ford\nplant in Michigan who was suspended without pay after heckling Donald Trump.\n\nTJ Sabula is said to have called the president a “pedophile protector” as\nTrump toured the automotive giant’s River Rouge complex on Tuesday.\n\nContinue reading...\n\n"
   },
   {
     "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets",
