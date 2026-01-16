@@ -1,5 +1,29 @@
 [
   {
+    "title": "Switzerland Is Asking Itself: Is 10 Million People Too Many?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-16%2Fswitzerland-is-debating-a-population-cap-amid-a-growing-immigration-backlash",
+    "published": "Fri, 16 Jan 2026 05:00:32 CST",
+    "summary": "As the world flocks to Davos, the host country ponders a population cap\n\n"
+  },
+  {
+    "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fbattles-over-truth-rage-online-amid-irans-internet-blackout.html",
+    "published": "Fri, 16 Jan 2026 05:00:21 CST",
+    "summary": "The shutdown of online discourse within Iran has allowed both the government\nand its critics to flood social media outside the country with disinformation\ncampaigns and fake images.\n\n"
+  },
+  {
+    "title": "Uber’s Quest to Crack Japan Leads Through a Rural Hot-Springs Town",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fuber-japan-dara-khosrowshahi.html",
+    "published": "Fri, 16 Jan 2026 05:00:11 CST",
+    "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally\ngrab a bigger piece of one of the world’s largest taxi markets.\n\n"
+  },
+  {
+    "title": "Poland May Cut Rates Already in February, MPC’s Kotecki Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fpoland-may-cut-rates-already-in-february-mpc-s-kotecki-says",
+    "published": "Fri, 16 Jan 2026 05:00:01 CST",
+    "summary": "Poland may return to interest rate cuts next month with a quarter-point\nreduction as prospects for continued low inflation improve, according to\nMonetary Policy Council member Ludwik Kotecki.\n\n"
+  },
+  {
     "title": "Japan and Italy to Elevate Ties, Cooperate on Critical Minerals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fjapan-and-italy-to-elevate-ties-cooperate-on-critical-minerals",
     "published": "Fri, 16 Jan 2026 04:12:33 CST",
@@ -39,13 +63,13 @@
     "title": "Metals Sink as China Exchange Told to Rip Out High-Speed Servers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmetals-decline-as-china-clamps-down-on-high-frequency-trading",
     "published": "Fri, 16 Jan 2026 03:05:05 CST",
-    "summary": "Metals fell at the end of a dramatic week, as China clamped down on high-\nfrequency trading in a move that came after frenzied activity in mainland\nfutures that helped to fuel global price gains.\n\n"
+    "summary": "Metals fell at the end of a dramatic week, as news of a Chinese clampdown down\non high-frequency trading cooled sentiment after frenzied activity in mainland\nfutures that fueled global price gains.\n\n"
   },
   {
-    "title": "Global Corporate Bond Yield Premiums Fall to Lowest Since 2007",
+    "title": "Hottest Credit Markets Since 2007 Stir Concern About Complacency",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fglobal-corporate-bond-yield-premiums-fall-to-lowest-since-2007",
     "published": "Fri, 16 Jan 2026 02:46:22 CST",
-    "summary": "Investors across global credit markets are accepting the lowest yield premiums\non corporate debt in almost two decades, heartened by a resilient economic\noutlook.\n\n"
+    "summary": "Global credit markets are running at their hottest in two decades, prompting\nsome of the world’s biggest money managers including Aberdeen Investments and\nPimco to warn against complacency.\n\n"
   },
   {
     "title": "India Investors Pile Into Metal Stocks as Silver, Copper Soar",
@@ -180,28 +204,16 @@
     "summary": "Yen traders are on edge for the risk of renewed volatility in the currency as\nuncertainty over the nation’s snap election grows with a Bank of Japan meeting\napproaching next week.\n\n"
   },
   {
-    "title": "Fmr. Biden Advisor: Can't use Venezuela Playbook in Iran",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-biden-advisor-can-t-use-venezuela-playbook-in-iran-video",
-    "published": "Thu, 15 Jan 2026 23:04:58 CST",
-    "summary": "Amos Hochstein, former Special Presidential Coordinator for Global\nInfrastructure and Energy Security, says Iran is not Venezuela and removing\nthe supreme leader is not a simple option. He speaks with Romaine Bostick and\nKatie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html",
     "published": "Thu, 15 Jan 2026 22:49:29 CST",
     "summary": "Kathleen Kennedy stepped down as Lucasfilm’s president and returned to\nproducing. Two studio veterans took over.\n\n"
   },
   {
-    "title": "Asian Stocks Hit Record on Tech Rally, Yen Gains: Markets Wrap",
+    "title": "Stocks Extend Record Rally as Tech Momentum Builds: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap",
     "published": "Thu, 15 Jan 2026 22:40:15 CST",
-    "summary": "Asia’s tech-led rally pushed equities to new highs after strong earnings from\na chip bellwether eased worries about overheating in the artificial\nintelligence sector and encouraged investors to add bets.\n\n"
-  },
-  {
-    "title": "Trump Bought Bonds Worth $51 Million for His Personal Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-added-bonds-worth-51-million-to-his-personal-portfolio",
-    "published": "Thu, 15 Jan 2026 22:06:10 CST",
-    "summary": "President Donald Trump’s investments in municipal and corporate debt through\nDecember included bonds of some companies affected by his administration’s\npolicies.\n\n"
+    "summary": "The record-breaking stock rally gained fresh momentum as concerns about\noverheating in the technology sector eased after the blowout results from a\nchip bellwether.\n\n"
   },
   {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
@@ -804,12 +816,6 @@
     "summary": "The defense comes after Jerome Powell pushed back on what he described as\npressure by the Trump administration to cut interest rates in the United\nStates.\n\n"
   },
   {
-    "title": "Delta Offers Optimistic Outlook as Travelers Continue to Splurge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fdelta-airlines-premium-travel.html",
-    "published": "Tue, 13 Jan 2026 13:52:41 CST",
-    "summary": "Delta Air Lines said it was expecting profits to rise by around 20 percent in\n2026 thanks to strong demand for premium tickets.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fstocks-making-the-biggest-moves-premarket-lhx-jpm-dal-intc-amd.html",
     "published": "Tue, 13 Jan 2026 13:40:14 CST",
@@ -838,12 +844,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F13%2Fjerome-powell-fed-chair-trump",
     "published": "Tue, 13 Jan 2026 11:00:59 CST",
     "summary": "Highly respected figure has cast off restrained approach in defending central\nbank from escalating attacks\n\nThere are often few surprises with Jerome Powell. At his handful of public\nappearances each month, the US Federal Reserve chair always sports the same\nsoftly stern expression. His voice, typically dispassionate and near-monotone,\nnever wavers.\n\nAs one of the most powerful officials in the world, commanding a platform that\nhas the ability to move global markets with a few words, Powell is often\nreserved in a way that fails to yield soundbites in this social media era:\nboring, even.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fvenezuela-oil-winners-losers.html",
-    "published": "Tue, 13 Jan 2026 10:03:11 CST",
-    "summary": "Companies that already have operations in the country stand to benefit, but\nthose that have profited from a standoff between Caracas and Washington could\nlose out.\n\n"
   },
   {
     "title": "Facing Political Pressure, Trump Seeks Answer to Rising Housing Costs",
