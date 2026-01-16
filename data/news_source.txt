@@ -1,9 +1,81 @@
 [
   {
+    "title": "Wall Street Is Split on Stock Market’s Top-Performing Sector",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fwall-street-is-split-on-stock-market-s-top-performing-sector",
+    "published": "Fri, 16 Jan 2026 10:30:00 CST",
+    "summary": "A market-beating rally in energy stocks amid flaring geopolitical tensions has\nsparked a debate about how long the momentum will last.\n\n"
+  },
+  {
+    "title": "Morgan Stanley Sees 70% Surge for ASML Shares in Bull Case",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmorgan-stanley-sees-70-surge-for-asml-shares-in-bull-case",
+    "published": "Fri, 16 Jan 2026 10:16:00 CST",
+    "summary": "Morgan Stanley laid out its bullish case for why investors should buy ASML\nHolding NV shares, saying in the most optimistic scenario the stock has a 70%\nrally ahead as chipmakers ramp up spending to meet soaring demand for\nartificial intelligence.\n\n"
+  },
+  {
+    "title": "Intel Extends Comeback as Investors Bet on Foundry Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fintel-extends-comeback-as-investors-bet-on-foundry-growth",
+    "published": "Fri, 16 Jan 2026 10:08:36 CST",
+    "summary": "Intel Corp.’s dramatic rally to start the year shows investors are\nincreasingly optimistic about the chipmaker gaining new foundry customers,\nputting it back into the artificial intelligence trade it appeared to abandon\nin 2024.\n\n"
+  },
+  {
+    "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-says-critics-just-misunderstand-netflix.html",
+    "published": "Fri, 16 Jan 2026 10:05:24 CST",
+    "summary": "The company’s co-chief executive sat down for an extensive interview for the\nfirst time since announcing plans to buy Warner Bros. Discovery’s film and TV\nbusiness.\n\n"
+  },
+  {
+    "title": "Stock Investors’ Strategy for 2026:‘Don’t Fight the White House’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fstock-market-trump-policy.html",
+    "published": "Fri, 16 Jan 2026 10:05:16 CST",
+    "summary": "From oil drillers to credit card companies, President Trump has been a market\nmover this year.\n\n"
+  },
+  {
+    "title": "Korea Exchange Considers Riskier ETFs to Woo Retail Traders",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fkorea-exchange-considers-riskier-etfs-to-woo-retail-traders",
+    "published": "Fri, 16 Jan 2026 10:05:03 CST",
+    "summary": "South Korea’s main bourse is in talks with financial authorities to ease rules\nthat ban high-risk leveraged exchange-traded products, as a record rally in\nlocal shares has failed to draw retail investors back to the domestic market.\n\n"
+  },
+  {
+    "title": "The Gradual Return of Ships to the Red Sea Hits a Key Milestone",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fthe-gradual-return-of-ships-to-the-red-sea-hits-a-key-milestone",
+    "published": "Fri, 16 Jan 2026 10:03:02 CST",
+    "summary": "After more than two years of avoiding the Red Sea, the world’s leading\ncontainer lines are inching back to the vital lane for east-west trade and\nindicating it looks safe to navigate again.\n\n"
+  },
+  {
+    "title": "Mixed signals and suspicions fueled clash between Fed and prosecutors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F16%2Ffederal-reserve-trump-investigation-pirro%2F",
+    "published": "Fri, 16 Jan 2026 10:00:19 CST",
+    "summary": "The battle between the Federal Reserve and Trump administration prosecutors\ndeveloped amid mixed signals and mutual suspicion, according to interviews.\n\n"
+  },
+  {
+    "title": "Here’s who is likely to profit from Trump’s Venezuela takeover",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fvenezuela-oil-takeover-profits%2F",
+    "published": "Fri, 16 Jan 2026 10:00:09 CST",
+    "summary": "The oil majors may be balking on Venezuela, but smaller firms see\nopportunities to cash in. Some are big Trump donors.\n\n"
+  },
+  {
+    "title": "A healthy meal for $3? Agriculture secretary says it’s easy.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fthree-dollar-meals-rollins%2F",
+    "published": "Fri, 16 Jan 2026 10:00:00 CST",
+    "summary": "Brooke Rollins drew ridicule on social media after saying a meal could be a\n“piece of chicken, a piece of broccoli, a corn tortilla and one other thing.”\n\n"
+  },
+  {
+    "title": "Indian Rupee Slides to One-Month Low as Stock Outflows Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Findian-rupee-slides-to-one-month-low-as-foreign-outflows-rise",
+    "published": "Fri, 16 Jan 2026 09:48:18 CST",
+    "summary": "The Indian rupee fell to a one-month low amid persistent foreign outflows from\ndomestic equities and muted central bank support.\n\n"
+  },
+  {
     "title": "Rates Quiet for Now, Commodities Volatile: 3-Minute MLIV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Frates-quiet-for-now-commodities-volatile-3-minute-mliv-video",
     "published": "Fri, 16 Jan 2026 09:25:07 CST",
     "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today's key themes for analysts and investors on \"Bloomberg: The Opening\nTrade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Frigid Weather Drives India’s Power Demand to Year’s Maximum",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ffrigid-weather-drives-india-s-power-demand-to-year-s-maximum",
+    "published": "Fri, 16 Jan 2026 09:06:31 CST",
+    "summary": "India’s peak power demand in January has overshot typically higher consumption\nin the summer months, as a cold snap boosted the use of heaters across the\ncountry.\n\n"
   },
   {
     "title": "Porsche Sales Slump Most in 16 Years on Weak China, Model Gaps",
@@ -36,6 +108,12 @@
     "summary": "Europe’s record-breaking equity rally is far from over given a solid outlook\nfor corporate earnings, according to BlackRock Inc.’s Helen Jewell.\n\n"
   },
   {
+    "title": "GA-Backed ASG Hospital Taps Banks for $500 Million India IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fga-backed-asg-hospital-taps-banks-for-500-million-india-ipo",
+    "published": "Fri, 16 Jan 2026 08:08:42 CST",
+    "summary": "India’s ASG Hospital Pvt. has hired five banks for an initial public offering\nof as much as $500 million in the second half of the year, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
     "title": "How the Antarctic Ice Vault Stores Clues to the Earth's Past",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-the-antarctic-ice-vault-stores-clues-to-the-earth-s-past",
     "published": "Fri, 16 Jan 2026 08:00:08 CST",
@@ -60,58 +138,16 @@
     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Mobius Shuns Record-Breaking Gold on Risk of Dollar Rebound",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmobius-shuns-record-breaking-gold-on-risk-of-dollar-rebound",
-    "published": "Fri, 16 Jan 2026 07:36:29 CST",
-    "summary": "Veteran investor Mark Mobius said gold has become unattractive after its\nhistoric rally, warning that a potential rebound in the dollar could undercut\nprecious metals at a time when much of the market remains firmly bullish.\n\n"
-  },
-  {
-    "title": "Why India is a Top Market Pick for Veteran Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhy-india-is-a-top-market-pick-for-veteran-investors-video",
-    "published": "Fri, 16 Jan 2026 07:15:21 CST",
-    "summary": "Mobius Emerging Opportunities Fund Managing Director, and Franklin Templeton\nChief Market Strategist Stephen Dover remain positive on Indian markets\ndespite their underperformance at the start of the year. They spoke about\ntheir market strategies on Bloomberg's Insight with Haslinda Amin. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Dubai’s DWTC, Informa Said to Eye Listing Joint Events Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdubai-ipo-dwtc-informa-said-to-eye-listing-joint-events-business",
-    "published": "Fri, 16 Jan 2026 07:11:19 CST",
-    "summary": "Dubai World Trade Centre and the UK’s Informa Group are exploring a listing of\na joint events business that’s expected to combine some of the emirate’s most\nprominent exhibitions and conferences.\n\n"
-  },
-  {
-    "title": "Nigeria's Solar Boom Lights Up Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fnigeria-s-solar-boom-lights-up-economy-video",
-    "published": "Fri, 16 Jan 2026 06:55:37 CST",
-    "summary": "Nigeria has become a major market for solar, second only to South Africa for\nimports on the continent. Bloomberg's Jennifer Zabasajja spoke to Horizons\nMiddle East and Africa anchor Joumanna Bercetche. (Source: Bloomberg)\n\n"
+    "title": "European Gas Jumps 20% on Week as ‘Perfect Storm’ Hits Sentiment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Feuropean-gas-prices-post-biggest-weekly-gain-since-fall-of-2023",
+    "published": "Fri, 16 Jan 2026 07:29:44 CST",
+    "summary": "European gas prices are set for their biggest weekly rally in over two years,\nwith a change in sentiment taking hold as traders rush to cover short\npositions amid bouts of unusually cold weather.\n\n"
   },
   {
     "title": "Why Mark Mobius Recommends China, India; Shuns Gold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhy-mark-mobius-recommends-china-india-shuns-gold-video",
     "published": "Fri, 16 Jan 2026 06:52:06 CST",
     "summary": "Veteran investor, Mark Mobius, says China, India, Korea, and Taiwan are the\nregion’s most attractive stock markets for global investors. He also says gold\nlooks less appealing at current levels following its surge. He discussed his\ninvestment strategies on Bloomberg's Insight with Haslinda Amin. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Philippines Moves to Shore Up Investor Sentiment Hit By Corruption Scandal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fphilippines-moves-to-shore-up-investor-sentiment-hit-by-corruption-scandal",
-    "published": "Fri, 16 Jan 2026 06:47:42 CST",
-    "summary": "Philippine economic managers rallied business executives and assured them of\nreforms at a private forum on Friday, seeking to restore investor confidence\nshaken by a massive government corruption scandal.\n\n"
-  },
-  {
-    "title": "StanChart Mulls Options for India Cards Unit in Retail Pullback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fstanchart-mulls-options-for-india-cards-unit-in-retail-pullback",
-    "published": "Fri, 16 Jan 2026 06:43:38 CST",
-    "summary": "Standard Chartered Plc is reviewing its retail credit card business in India\namid a wider strategy to reshape operations in the world’s fastest‑growing\nmajor economy, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "FTSE 100 Pulls Back from Record, Gilts Dip",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-16%2Fftse-100-live-pound-bonds-tech-rally-dollar-oil-gold-silver-prices-what-s-moving-uk-markets-right-now-markets-today",
-    "published": "Fri, 16 Jan 2026 06:42:34 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "China’s Euro Settlements Jump Most Since 2010 on EU Trade Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-s-euro-settlements-jump-most-since-2010-on-eu-trade-boom",
-    "published": "Fri, 16 Jan 2026 06:28:14 CST",
-    "summary": "Chinese companies ramped up use of the euro in cross-border transactions last\nyear, with settlements in the currency rising at the fastest pace since 2010.\n\n"
   },
   {
     "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
@@ -136,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fjapan-s-finance-minister-warns-that-all-options-open-to-aid-yen",
     "published": "Fri, 16 Jan 2026 04:03:54 CST",
     "summary": "Japan’s finance minister said an agreement with the US justifies intervention\nto cope with sudden currency moves, stepping up her verbal warnings to halt\nthe yen’s weakness.\n\n"
-  },
-  {
-    "title": "Mitsubishi to Buy Aethon US Gas Assets in $5.2 Billion Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmitsubishi-to-buy-us-gas-assets-from-aethon-in-5-2-billion-deal",
-    "published": "Fri, 16 Jan 2026 03:39:24 CST",
-    "summary": "Mitsubishi Corp. agreed to buy Aethon Energy Management LLC’s US gas and\npipeline assets for $5.2 billion, the biggest purchase by a Japanese company\nin the American shale sector.\n\n"
   },
   {
     "title": "Metals Sink as China Exchange Told to Rip Out High-Speed Servers",
@@ -177,13 +207,13 @@
     "title": "Silver Dips After US Tariff Pause, But Set for Hefty Weekly Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
     "published": "Thu, 15 Jan 2026 23:40:04 CST",
-    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up more than 13% for the week on surging\ndemand for precious metals.\n\n"
+    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up more than 14% for the week on surging\ndemand for precious metals.\n\n"
   },
   {
-    "title": "Yen Watchers Face Double Whammy of BOJ, Election Uncertainty",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fyen-watchers-face-double-whammy-of-boj-election-uncertainty",
-    "published": "Thu, 15 Jan 2026 23:07:20 CST",
-    "summary": "Yen traders are on edge for the risk of renewed volatility in the currency as\nuncertainty over the nation’s snap election grows with a Bank of Japan meeting\napproaching next week.\n\n"
+    "title": "Oil Claws Back Some Losses on Iran Risks Heading Into Weekend",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16",
+    "published": "Thu, 15 Jan 2026 23:14:47 CST",
+    "summary": "Oil edged higher at the end of a volatile week, as traders weighed tensions in\nIran and positive sentiment in wider markets.\n\n"
   },
   {
     "title": "Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down",
@@ -648,30 +678,6 @@
     "summary": "The companies that turn oil into gasoline and diesel are likely to benefit\nmore, right away, than the businesses that pump oil out of the ground.\n\n"
   },
   {
-    "title": "We analyzed hundreds of earnings calls to see what executives really think of the economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2Finteractive%2F2026%2Fcorporate-earnings-calls-economic-optimism%2F",
-    "published": "Wed, 14 Jan 2026 10:00:51 CST",
-    "summary": "Executives on earnings calls in late 2025 struck an increasingly optimistic\ntone about growth and strength even as U.S. households grew more pessimistic\non the economy.\n\n"
-  },
-  {
-    "title": "Stars and Stripes job applicants are asked if they back Trump policies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fstars-and-stripes-trump-loyalty-test%2F",
-    "published": "Wed, 14 Jan 2026 10:00:49 CST",
-    "summary": "People seeking jobs at Stars and Stripes, which Congress guaranteed editorial\nindependence, are being asked how they would advance administration\npriorities.\n\n"
-  },
-  {
-    "title": "Boomers are staying in the job market as Gen Z struggles to break through",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fworkers-age-new-jobs-baby-boomers%2F",
-    "published": "Wed, 14 Jan 2026 10:00:00 CST",
-    "summary": "The average age of workers starting new jobs has spiked, new data shows, as AI\nand economic pressures lead employers to favor experience.\n\n"
-  },
-  {
-    "title": "Parents are cutting back on child care as costs stretch budgets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fchild-care-cost-cuts%2F",
-    "published": "Wed, 14 Jan 2026 10:00:00 CST",
-    "summary": "Research shows 1 in 5 families face child care hardships because of the\nexpense, with single mothers most affected.\n\n"
-  },
-  {
     "title": "What the Bankruptcy of Saks Means for You",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
     "published": "Wed, 14 Jan 2026 05:40:13 CST",
@@ -802,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fjpmorgan-chase-jpm-earnings-q4-2025.html",
     "published": "Tue, 13 Jan 2026 15:23:16 CST",
     "summary": "JPMorgan will give investors a view into how consumers and corporations fared\ntoward the end of last year and issue guidance on how 2026 may develop.\n\n"
-  },
-  {
-    "title": "Global Central Bankers Rally Around Fed Chair Powell Amid Criminal Investigation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Ftrump-powell-central-bank-support.html",
-    "published": "Tue, 13 Jan 2026 13:59:30 CST",
-    "summary": "The defense comes after Jerome Powell pushed back on what he described as\npressure by the Trump administration to cut interest rates in the United\nStates.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
