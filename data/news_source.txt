@@ -1,15 +1,93 @@
 [
   {
-    "title": "What you need to know about the latest US bank earnings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video",
-    "published": "Fri, 16 Jan 2026 22:38:53 CST",
-    "summary": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six\nUS banks reported. (Source: Bloomberg)\n\n"
+    "title": "AlixPartners Exec. Chairman: Disruption the New Norm Among CEOs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ffreakley-disruption-the-new-norm-among-ceos-video",
+    "published": "Fri, 16 Jan 2026 23:35:03 CST",
+    "summary": "Simon Freakley, AlixPartners Executive Chairman, says CEOs are adapting to\nintense disruption and managing through volatile times. He speaks with Romaine\nBostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fmr. FDIC Chair: Supreme Court Could Step In to Protect Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbair-supreme-court-could-step-in-to-protect-fed-video",
+    "published": "Fri, 16 Jan 2026 23:29:14 CST",
+    "summary": "Sheila Bair, former FDIC chair and a member of the Center for Financial\nStability Advisory Board, says the Supreme Court may draw a line to protect\nthe Fed’s independence. She speaks with Romaine Bostick and Emily Graffeo on\n“The Close.” (Source: Bloomberg)\n\n"
   },
   {
     "title": "WestJet Backpedals on Economy Seats That Don’t Recline",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Ftravel%2Fwestjet-non-reclinable-economy-seats.html",
-    "published": "Fri, 16 Jan 2026 22:37:15 CST",
+    "published": "Fri, 16 Jan 2026 23:25:32 CST",
     "summary": "WestJet, Canada’s second-largest carrier, backpedaled on a new seating plan\nafter videos of crammed travelers went viral on social media.\n\n"
+  },
+  {
+    "title": "Trump bought $1M in Netflix, Warner Bros. bonds after merger announcement",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-bought-1m-netflix-warner-bros-bonds-after-merger-announcement%2F",
+    "published": "Fri, 16 Jan 2026 23:19:37 CST",
+    "summary": "The president bought the bonds days after saying he’d be “involved” in\ndeciding whether to approve the $83 billion deal.’\n\n"
+  },
+  {
+    "title": "F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html",
+    "published": "Fri, 16 Jan 2026 23:14:45 CST",
+    "summary": "The Federal Aviation Administration released seven advisories warning pilots\nto stay away from parts of the Pacific Ocean near Mexico, Colombia, Ecuador\nand Panama.\n\n"
+  },
+  {
+    "title": "Mag 7 Stock Options Get SEC Nod for Monday, Wednesday Expiries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmag-7-stock-options-get-sec-nod-for-monday-wednesday-expiries",
+    "published": "Fri, 16 Jan 2026 23:14:05 CST",
+    "summary": "The Securities and Exchange Commission has approved new expirations for\nMagnificent Seven stocks, moving the US market a step closer to daily expiries\nin single stock options.\n\n"
+  },
+  {
+    "title": "Edison Sues LA County Over Fire Deaths for Delayed Alerts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fedison-blames-la-county-for-wildfire-deaths-over-delayed-alerts",
+    "published": "Fri, 16 Jan 2026 23:08:07 CST",
+    "summary": "Edison International sued Los Angeles County and other public agencies for\nallegedly failing to ensure timely evacuation alerts that the company says\ncould have saved most of the 19 people who died in a massive wildfire last\nyear.\n\n"
+  },
+  {
+    "title": "Belgian Immune System Drugmaker AgomAb Files for US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbelgian-immune-system-drugmaker-agomab-files-for-us-ipo",
+    "published": "Fri, 16 Jan 2026 23:05:19 CST",
+    "summary": "AgomAb Therapeutics NV filed for a initial public offering in the US to help\nfund trials of its drugs to treat immune and inflammation diseases.\n\n"
+  },
+  {
+    "title": "Edison Files Claims Against Los Angeles County and Others on Eaton Fire",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fenergy-environment%2Fsouthern-california-edison-eaton-fire.html",
+    "published": "Fri, 16 Jan 2026 23:02:45 CST",
+    "summary": "Southern California Edison said its equipment most likely started the Eaton\nFire but asserted that government agencies and other businesses shared\nliability for the devastation.\n\n"
+  },
+  {
+    "title": "Dana White on UFC at the White House, Future of Boxing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fdana-white-on-ufc-at-the-white-house-future-of-boxing-video",
+    "published": "Fri, 16 Jan 2026 23:02:34 CST",
+    "summary": "Dana White, UFC President, CEO and Co-Owner, discusses the UFC’s deal with\nParamount, a potential White House event, and the future of boxing with\nRomaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Stocks Close Lower While Chip Names Outperform Broad Market | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fstocks-close-lower-as-chip-outperform-closing-bell-video",
+    "published": "Fri, 16 Jan 2026 23:01:52 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Takaichi Trade Faces Risks From Inflation, Yen Slump, Yield Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ftakaichi-trade-faces-risks-from-inflation-yen-slump-yield-jump",
+    "published": "Fri, 16 Jan 2026 23:00:00 CST",
+    "summary": "The surge in Japanese stocks, triggered by Prime Minister Sanae Takaichi’s\nsnap election plans, may fade if she gets what she wants, as overspending\ndrives up inflation and government borrowing costs.\n\n"
+  },
+  {
+    "title": "Venezuela Signs First Gas Export Deal, Citing LPG Contract",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fvenezuela-signs-first-gas-export-deal-citing-lpg-contract",
+    "published": "Fri, 16 Jan 2026 22:50:29 CST",
+    "summary": "Venezuela has signed its first contract to export liquefied petroleum gas, or\nLPG, Acting President Delcy Rodríguez said Friday.\n\n"
+  },
+  {
+    "title": "Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes",
+    "published": "Fri, 16 Jan 2026 22:40:38 CST",
+    "summary": "Trinseo PLC is preparing to start negotiations with its creditors as the\nchemical company seeks to shore up its balance sheet amid slumping sales.\n\n"
+  },
+  {
+    "title": "What you need to know about the latest US bank earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video",
+    "published": "Fri, 16 Jan 2026 22:38:53 CST",
+    "summary": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six\nUS banks reported. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -28,6 +106,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
     "published": "Fri, 16 Jan 2026 22:23:56 CST",
     "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
+  },
+  {
+    "title": "How Investors Fall Into Bias Traps: Masters in Business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-investors-fall-into-bias-traps-masters-in-business-video",
+    "published": "Fri, 16 Jan 2026 22:06:42 CST",
+    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Hedge Funds Slash Bullish Silver Wagers to 22-Month Low",
@@ -114,24 +198,6 @@
     "summary": "Energy infrastructure services firm Solv Energy Inc. filed for an initial\npublic offering, becoming one of the latest companies to capitalize on data\ncenters’ increasing power needs.\n\n"
   },
   {
-    "title": "Mike Mayo Brought The Heat During State Street’s Earnings Call",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-16%2Fmike-mayo-brought-the-heat-during-state-street-s-stt-earnings-call",
-    "published": "Fri, 16 Jan 2026 20:45:51 CST",
-    "summary": "Analyst Mike Mayo pressed State Street management to spell out its strategy.\n\n"
-  },
-  {
-    "title": "Venezuela Creditor Group Said to Mull Hiring Financial Adviser",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fvenezuela-creditor-group-said-to-mull-hiring-financial-adviser",
-    "published": "Fri, 16 Jan 2026 20:39:35 CST",
-    "summary": "A group of private creditors holding Venezuela bonds has started the process\nto hire a financial adviser as it ramps up efforts to kick off a $60 billion\ndebt restructuring, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "IMF Approves $261 Million Payout to Ethiopia After Review",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fimf-approves-261-million-payout-to-ethiopia-after-review",
-    "published": "Fri, 16 Jan 2026 19:55:00 CST",
-    "summary": "The International Monetary Fund executive board agreed to immediately disburse\nabout $261 million to Ethiopia after the nation reached an agreement in\nprinciple with bondholders to restructure its debt.\n\n"
-  },
-  {
     "title": "Trump and States Aim to Stop A.I. From Inflating Energy Bills",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-ai-electricity-costs.html",
     "published": "Fri, 16 Jan 2026 19:54:40 CST",
@@ -156,12 +222,6 @@
     "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
   },
   {
-    "title": "Big Take: Birth Rate Drop Hits US Schools",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbig-take-birth-rate-drop-hits-us-schools-video",
-    "published": "Fri, 16 Jan 2026 19:26:59 CST",
-    "summary": "Across the US, small colleges like Trinity Christian College and Sterling\nCollege are confronting a hard reality: there simply aren't enough students.\nBloomberg's Big Take looks at how falling birth rates and declining enrollment\nare pushing more colleges to a breaking point. Bloomberg's Elizabeth Rembert\ndiscussed the story on \"Bloomberg Markets\" with Scarlet Fu. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "White House and governors confront electricity’s rising costs as data centers expand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fpjm-data-centers-electricity-bipartisan%2F",
     "published": "Fri, 16 Jan 2026 19:25:52 CST",
@@ -174,12 +234,6 @@
     "summary": "DraftKings Inc., Flutter Entertainment PLC and other stocks linked to the\nsports gambling industry tumbled on Friday after new data suggested that they\nmay be losing ground to competing products from prediction market startups.\n\n"
   },
   {
-    "title": "Fed Officials Stress Independence, Potential Credit Complacency | Real Yield 1/16/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Freal-yield-1-16-2025-video",
-    "published": "Fri, 16 Jan 2026 19:15:16 CST",
-    "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: BNP Paribas Head of US Rates Strategy Guneet Dhingra, JPMorgan\nAsset Management Core Plus Bond ETF Portfolio Manager Priya Misra, Invesco\nHead of North American Investment Grade Credit Matt Brill and UBS Investment\nBank Head of Credit Strategy Matthew Mish. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Fannie, Freddie Stock Woes Deepen as IPO Questions Mount",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ffannie-freddie-stock-woes-deepen-as-ipo-questions-mount",
     "published": "Fri, 16 Jan 2026 18:55:40 CST",
@@ -190,12 +244,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-hassett-federal-reserve-chair-senate%2F",
     "published": "Fri, 16 Jan 2026 18:43:58 CST",
     "summary": "President Donald Trump suggested he may keep Kevin Hassett in his current role\nas a top White House economic adviser.\n\n"
-  },
-  {
-    "title": "Clear Street Said to Close Pre-IPO Round at $12 Billion Value",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fclear-street-said-to-close-pre-ipo-round-at-12-billion-value",
-    "published": "Fri, 16 Jan 2026 18:41:50 CST",
-    "summary": "Securities and derivatives broker Clear Street has closed an investment round\nat a $12 billion valuation, paving the way for an initial public offering,\naccording to a person familiar with the matter.\n\n"
   },
   {
     "title": "ChatGPT to start showing ads in the US",
@@ -214,24 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Firan-internet-blackout-protests-disinformation.html",
     "published": "Fri, 16 Jan 2026 18:23:27 CST",
     "summary": "The shutdown of online discourse within Iran has allowed both the government\nand its critics to flood social media outside the country with disinformation\ncampaigns and fake images.\n\n"
-  },
-  {
-    "title": "Plunging US Birth Rate Leaves Too Many Colleges With Too Few Kids",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fus-colleges-face-future-with-with-too-few-students-video",
-    "published": "Fri, 16 Jan 2026 18:08:14 CST",
-    "summary": "Even before President Donald Trump launched his campaign against America’s\ncolleges and universities, the industry faced an existential threat. The\ncountry’s tumbling birth rate is pushing schools toward a “demographic cliff,”\nwhere a steadily dropping population of people in their late teens and early\n20s will leave desks and classrooms empty. Many smaller, lesser-known schools\nlike Cazenovia have already hit the precipice. They’re firing professors,\nparing back liberal arts courses in favor of STEM -- or closing altogether.\nBloomberg's Elizabeth Rembert joined Bloomberg Intelligence to discuss with\nScarlet Fu and Alex Semenova. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Investors Are Going to Have to Start Pricing Loyalty",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-16%2Finvestors-are-going-to-have-to-start-pricing-loyalty",
-    "published": "Fri, 16 Jan 2026 18:00:05 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
-    "title": "CD&amp;R, TPG Look to Blue Owl to Finance $2.5 Billion Covetrus Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fcd-r-tpg-look-to-blue-owl-to-finance-2-5-billion-covetrus-debt",
-    "published": "Fri, 16 Jan 2026 17:54:20 CST",
-    "summary": "Clayton Dubilier & Rice and TPG Inc. are in talks with private credit firms\nincluding Blue Owl Capital Inc. to line up at least $2.5 billion of debt for\nCovetrus, a technology company for veterinary practices, according to people\nwith knowledge of the matter.\n\n"
   },
   {
     "title": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
@@ -388,12 +418,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
     "published": "Thu, 15 Jan 2026 23:40:04 CST",
     "summary": "Gold slipped the most in more than two weeks after US President Donald Trump\nexpressed reluctance about nominating Kevin Hassett as Federal Reserve chair,\ncasting further doubt over his search for the next head of the central bank.\n\n"
-  },
-  {
-    "title": "Oil Claws Back Some Losses on Iran Risks Heading Into Weekend",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16",
-    "published": "Thu, 15 Jan 2026 23:14:47 CST",
-    "summary": "Oil edged higher at the end of a volatile week, as traders weighed tensions in\nIran and positive sentiment in wider markets.\n\n"
   },
   {
     "title": "Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down",
@@ -562,12 +586,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Foil-nuclear-electricity-vaneck-ceo-delivers-energy-plays.html",
     "published": "Thu, 15 Jan 2026 12:00:01 CST",
     "summary": "A major exchange-traded fund manager suggests the oil trade won't provide much\nupside ahead.\n\n"
-  },
-  {
-    "title": "India Top Court Says Tiger Global Liable for Flipkart Taxes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-top-court-says-tiger-global-liable-to-pay-flipkart-taxes",
-    "published": "Thu, 15 Jan 2026 11:03:57 CST",
-    "summary": "India’s Supreme Court has held that Tiger Global’s capital gains arising from\nits stake sale in Flipkart to Walmart Inc. are taxable under domestic law in a\nsetback for the US investment firm.\n\n"
   },
   {
     "title": "Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision",
@@ -808,12 +826,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Falibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html",
     "published": "Wed, 14 Jan 2026 04:42:23 CST",
     "summary": "Co-founder Jaden Xie told CNBC that the company is about to close another\nfinancing round, after raising $100 million in the last 6 months.\n\n"
-  },
-  {
-    "title": "Starlink Users in Iran Get Free Internet Access, Nonprofits Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
-    "published": "Wed, 14 Jan 2026 04:40:32 CST",
-    "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
   },
   {
     "title": "In a Risky Gambit, Trump Tries Brute Force to Lower Prices",
