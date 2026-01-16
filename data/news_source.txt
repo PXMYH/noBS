@@ -1,5 +1,23 @@
 [
   {
+    "title": "FTSE 100 Set to Pull Back from Record High",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-16%2Fftse-100-live-pound-bonds-tech-rally-dollar-oil-gold-silver-prices-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Fri, 16 Jan 2026 06:42:34 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "TSMC Reignites AI Fervor; Taiwan Secures US Trade Deal | The Asia Trade 1/16/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fthe-asia-trade-1-16-26-video",
+    "published": "Fri, 16 Jan 2026 05:58:58 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Carney Meets Xi to Renew Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fcarney-meets-xi-to-renew-ties-video",
+    "published": "Fri, 16 Jan 2026 05:48:32 CST",
+    "summary": "Canada’s PM Mark Carney praised a renewed partnership with China’s Xi Jinping\nduring a four-day visit to China. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Switzerland Is Asking Itself: Is 10 Million People Too Many?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-16%2Fswitzerland-is-debating-a-population-cap-amid-a-growing-immigration-backlash",
     "published": "Fri, 16 Jan 2026 05:00:32 CST",
@@ -66,7 +84,7 @@
     "summary": "Metals fell at the end of a dramatic week, as news of a Chinese clampdown down\non high-frequency trading cooled sentiment after frenzied activity in mainland\nfutures that fueled global price gains.\n\n"
   },
   {
-    "title": "Hottest Credit Markets Since 2007 Stir Concern About Complacency",
+    "title": "Hottest Credit Markets Since 2007 Spur Warnings on Complacency",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fglobal-corporate-bond-yield-premiums-fall-to-lowest-since-2007",
     "published": "Fri, 16 Jan 2026 02:46:22 CST",
     "summary": "Global credit markets are running at their hottest in two decades, prompting\nsome of the world’s biggest money managers including Aberdeen Investments and\nPimco to warn against complacency.\n\n"
@@ -156,40 +174,16 @@
     "summary": "He and Steven Z. Meyers opened their first low-cost legal clinic in 1972.\nWithin a decade, they had revolutionized the legal industry, and Jacoby &\nMeyers had become a widely known brand.\n\n"
   },
   {
-    "title": "EM Fund Beating 97% of Peers Says Memory Chips Are Best Bet",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fem-fund-beating-97-of-peers-says-memory-chips-are-best-bet",
-    "published": "Fri, 16 Jan 2026 00:06:16 CST",
-    "summary": "Memory stocks are the place to be as artificial intelligence continues to push\nup chip demand over the next decade, according to emerging‑market equity fund\nmanager Divya Mathur at ClearBridge Investments.\n\n"
-  },
-  {
     "title": "Silver’s Rally Slams Solar Makers Struggling With Losses",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fsilver-s-rally-slams-solar-makers-already-struggling-with-losses",
     "published": "Fri, 16 Jan 2026 00:03:05 CST",
     "summary": "Soaring prices for silver are putting an extra squeeze on solar panel makers\nas they look to end more than two years of losses amid brutal competition in\nthe sector.\n\n"
   },
   {
-    "title": "Tech Lifts Stocks as Small Caps Rally Anew | The Close 1/15/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-close-1-15-2026-video",
-    "published": "Thu, 15 Jan 2026 23:45:03 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Research Affiliates’ Jim Masturzo, Evercore ISI’s Jonathan\nChappell, Former US Treasury Secretary Jack Lew, Bahnsen Group’s David\nBahnsen, JPMorgan Chase’s Jamie Dimon, TWG Global’s Amos Hochstein, Christie’s\nBonnie Brennan. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "TSMC’s Huang Says Key to Managing FX Risk Is Keep It Simple",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-s-huang-says-key-to-managing-fx-exposure-is-keep-it-simple",
-    "published": "Thu, 15 Jan 2026 23:43:44 CST",
-    "summary": "When you’re a dominant company in a small economy with huge overseas earnings,\nthe best way to manage your exposure to the vagaries of the currency market is\nto keep it simple, according to Taiwan Semiconductor Manufacturing Co.’s\nWendell Huang.\n\n"
-  },
-  {
     "title": "Silver Dips After US Tariff Pause, But Set for Hefty Weekly Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
     "published": "Thu, 15 Jan 2026 23:40:04 CST",
     "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up more than 13% for the week on surging\ndemand for precious metals.\n\n"
-  },
-  {
-    "title": "Christie’s CEO on 2026 Art Sales Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fchristie-s-ceo-on-2026-art-sales-outlook-video",
-    "published": "Thu, 15 Jan 2026 23:14:48 CST",
-    "summary": "Bonnie Brennan, Christie’s CEO, discusses the 2026 art market outlook and the\nJim Irsay collection with Romaine Bostick and Katie Greifeld on “The Close.”\nShe says Asia is a key gateway for new and younger buyers. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Oil Holds Biggest Drop Since June as Iran Concerns Subside",
@@ -216,6 +210,12 @@
     "summary": "The record-breaking stock rally gained fresh momentum as concerns about\noverheating in the technology sector eased after the blowout results from a\nchip bellwether.\n\n"
   },
   {
+    "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-to-direct-key-us-grid-operator-to-hold-emergency-auction",
+    "published": "Thu, 15 Jan 2026 22:35:58 CST",
+    "summary": "President Donald Trump and the governors of several US Northeastern states\nagreed to push for an emergency wholesale electricity auction that would\ncompel technology companies to effectively fund new power plants.\n\n"
+  },
+  {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
     "published": "Thu, 15 Jan 2026 22:05:15 CST",
@@ -232,12 +232,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 21:39:10 CST",
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
-  },
-  {
-    "title": "The US Treasury Market’s Inertia Is Nearing Historic Levels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-us-treasury-market-s-inertia-is-nearing-historic-levels",
-    "published": "Thu, 15 Jan 2026 21:12:01 CST",
-    "summary": "The 10-year Treasury note’s yield is headed for a fifth straight week of\nminimal change, rivaling its longest stretch of inertia in the past two\ndecades.\n\n"
   },
   {
     "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
