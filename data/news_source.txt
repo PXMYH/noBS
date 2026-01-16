@@ -1,15 +1,63 @@
 [
   {
-    "title": "White House economic advisor floats idea of 'Trump cards’ amid credit card battle with banks",
+    "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
-    "published": "Fri, 16 Jan 2026 18:48:58 CST",
+    "published": "Fri, 16 Jan 2026 19:33:45 CST",
     "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that\nhas been roundly rejected by industry executives and their lobbyists this\nweek.\n\n"
+  },
+  {
+    "title": "Powell, an Unlikely Foil, Takes On Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Fpowell-trump-investigation.html",
+    "published": "Fri, 16 Jan 2026 19:32:38 CST",
+    "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
+  },
+  {
+    "title": "Big Take: Birth Rate Drop Hits US Schools",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbig-take-birth-rate-drop-hits-us-schools-video",
+    "published": "Fri, 16 Jan 2026 19:26:59 CST",
+    "summary": "Across the US, small colleges like Trinity Christian College and Sterling\nCollege are confronting a hard reality: there simply aren't enough students.\nBloomberg's Big Take looks at how falling birth rates and declining enrollment\nare pushing more colleges to a breaking point. Bloomberg's Elizabeth Rembert\ndiscussed the story on \"Bloomberg Markets\" with Scarlet Fu. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "White House and governors confront electricity’s rising costs as data centers expand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fpjm-data-centers-electricity-bipartisan%2F",
+    "published": "Fri, 16 Jan 2026 19:25:52 CST",
+    "summary": "A bipartisan proposal discussed at the White House Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
+  },
+  {
+    "title": "Betting Stocks Fall as NFL Prediction Bets Gain on Gambling Apps",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbetting-stocks-fall-as-nfl-prediction-bets-gain-on-gambling-apps",
+    "published": "Fri, 16 Jan 2026 19:15:44 CST",
+    "summary": "DraftKings Inc., Flutter Entertainment PLC and other stocks linked to the\nsports gambling industry are tumbling on Friday after new data suggested that\nthey may be losing ground to competing products from prediction market\nstartups.\n\n"
+  },
+  {
+    "title": "Fed Officials Stress Independence, Potential Credit Complacency | Real Yield 1/16/2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Freal-yield-1-16-2025-video",
+    "published": "Fri, 16 Jan 2026 19:15:16 CST",
+    "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: BNP Paribas Head of US Rates Strategy Guneet Dhingra, JPMorgan\nAsset Management Core Plus Bond ETF Portfolio Manager Priya Misra, Invesco\nHead of North American Investment Grade Credit Matt Brill and UBS Investment\nBank Head of Credit Strategy Matthew Mish. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump and States Aim to Stop A.I. From Inflating Energy Bills",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-ai-electricity-costs.html",
+    "published": "Fri, 16 Jan 2026 19:06:21 CST",
+    "summary": "Demand from centers that power artificial intelligence have driven up\nelectricity bills, frustrating consumers.\n\n"
+  },
+  {
+    "title": "Fannie, Freddie Stock Woes Deepen as IPO Questions Mount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ffannie-freddie-stock-woes-deepen-as-ipo-questions-mount",
+    "published": "Fri, 16 Jan 2026 18:55:40 CST",
+    "summary": "Shares of Fannie Mae and Freddie Mac extended days-long losing streaks amid\nmounting unease about the impact of President Donald Trump’s policy moves on\nefforts to release the mortgage-finance giants from government control.\n\n"
   },
   {
     "title": "Trump signals Hassett may stay at White House, reshaping Fed chair race",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-hassett-federal-reserve-chair-senate%2F",
     "published": "Fri, 16 Jan 2026 18:43:58 CST",
     "summary": "President Donald Trump suggested he may keep Kevin Hassett in his current role\nas a top White House economic adviser.\n\n"
+  },
+  {
+    "title": "Clear Street Said to Close Pre-IPO Round at $12 Billion Value",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fclear-street-said-to-close-pre-ipo-round-at-12-billion-value",
+    "published": "Fri, 16 Jan 2026 18:41:50 CST",
+    "summary": "Securities and derivatives broker Clear Street has closed an investment round\nat a $12 billion valuation, paving the way for an initial public offering,\naccording to a person familiar with the matter.\n\n"
   },
   {
     "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has ‘solid’ launch",
@@ -82,12 +130,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ftrump-moves-to-make-tech-giants-pay-for-power-costs-video",
     "published": "Fri, 16 Jan 2026 17:24:33 CST",
     "summary": "President Donald Trump and the governors of several US Northeastern states\nagreed to push for an emergency wholesale electricity auction that would\ncompel technology companies to effectively fund new power plants. The\nunprecedented plan, set to be announced Friday morning, seeks to address\ngrowing tensions over how the nation can supply electricity to power-hungry\ndata centers -- seen as necessary to help win the global AI race -- without\nsimultaneously hiking utility bills for homes and businesses. Bloomberg's\nMandeep Singh joins to discuss on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Powell, an Unlikely Foil, Takes On Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Fpowell-trump-investigation.html",
-    "published": "Fri, 16 Jan 2026 17:17:32 CST",
-    "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
   },
   {
     "title": "Congo State Miner Proposes Deal for Cobalt Producer Prized by US",
@@ -180,28 +222,10 @@
     "summary": "Mercuria Energy Group Ltd. paid almost no tax on profits of more than $1\nbillion in the 12 months through September, according to a copy of its\naccounts seen by Bloomberg News.\n\n"
   },
   {
-    "title": "Private-Jet Boom Brings Hangar Builder Sky Harbour to Muni Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fprivate-jet-boom-brings-hangar-builder-sky-harbour-skyh-to-muni-market",
-    "published": "Fri, 16 Jan 2026 15:13:58 CST",
-    "summary": "Sky Harbour Group Corp., a builder of exclusive hangars where the ultra-\nwealthy park their private aircraft, is turning to the tax-exempt municipal\nbond market to borrow $100 million as it seeks to expand.\n\n"
-  },
-  {
     "title": "Michael Saylor’s Creative Bitcoin Strategy Isn’t Working",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmichael-saylor-strategy-bitcoin.html",
     "published": "Fri, 16 Jan 2026 15:11:20 CST",
     "summary": "Michael Saylor’s financial alchemy thrust an ordinary software company,\nStrategy, into the center of the crypto frenzy. It all worked spectacularly,\nuntil now.\n\n"
-  },
-  {
-    "title": "Blue Owl to Snap Up Stakes From Fund Backers Looking to Cash Out",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fblue-owl-to-snap-up-stakes-from-fund-backers-looking-to-cash-out",
-    "published": "Fri, 16 Jan 2026 15:09:03 CST",
-    "summary": "Blue Owl Capital Inc. plans to start buying secondhand stakes in private-asset\nfunds from investors looking to cash out, taking advantage of a boom in such\ntransactions, according to people with knowledge of the matter.\n\n"
-  },
-  {
-    "title": "Market Story for This Year Is About Broadening, JPMorgan’s Parker Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fmarket-story-for-2026-is-about-broadening-jpm-s-parker-video",
-    "published": "Fri, 16 Jan 2026 14:48:50 CST",
-    "summary": "The broadening of the market “has legs in the year ahead,” says Stephen\nParker, co-head of global investment strategy at JPMorgan Private Bank, as he\nexpects to see a cyclical recovery that is not predicated on rate cuts.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Ecuador Eyes Return to Global Debt Markets After Seven Years",
@@ -214,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fyour-money%2Ftax-refunds-student-loans-default.html",
     "published": "Fri, 16 Jan 2026 14:00:15 CST",
     "summary": "Millions of people are at risk of the government’s seizing their refunds to\npay what is owed on student loans.\n\n"
-  },
-  {
-    "title": "Colombia Fights to Curb Prices After 23% Minimum Wage Hike",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fpetro-s-record-23-wage-hike-ripples-through-colombian-economy",
-    "published": "Fri, 16 Jan 2026 13:00:00 CST",
-    "summary": "Colombia’s government is trying to cap some prices as it grapples with a\nseries of unintended consequences from its record minimum wage hike.\n\n"
   },
   {
     "title": "Larry Fink, the New Mayor of Davos",
@@ -268,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
     "published": "Fri, 16 Jan 2026 10:52:13 CST",
     "summary": "The Trump administration agreed to lower tariffs on Taiwanese goods, while\nTaiwan said it would invest more in U.S. manufacturing.\n\n"
-  },
-  {
-    "title": "Intel Extends Comeback as Investors Bet on Foundry Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fintel-extends-comeback-as-investors-bet-on-foundry-growth",
-    "published": "Fri, 16 Jan 2026 10:08:36 CST",
-    "summary": "Intel Corp.’s dramatic rally to start the year shows investors are\nincreasingly optimistic about the chipmaker gaining new foundry customers,\nputting it back into the artificial intelligence trade it appeared to abandon\nin 2024.\n\n"
   },
   {
     "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
@@ -802,12 +814,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
     "published": "Wed, 14 Jan 2026 04:40:32 CST",
     "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
-  },
-  {
-    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fhealth%2Fobamacare-enrollment-decrease-subsidies.html",
-    "published": "Tue, 13 Jan 2026 23:55:59 CST",
-    "summary": "That number could increase significantly as more consumers are faced with\nhigher bills brought on by expiring premium subsidies.\n\n"
   },
   {
     "title": "Blowback Builds Over Criminal Investigation of Powell",
