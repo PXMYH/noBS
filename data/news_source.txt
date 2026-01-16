@@ -1,5 +1,47 @@
 [
   {
+    "title": "Russia-Bound Phantom Oil Tanker U-Turns Away From Baltic Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Frussia-bound-phantom-oil-tanker-u-turns-away-from-baltic-sea",
+    "published": "Fri, 16 Jan 2026 11:30:20 CST",
+    "summary": "An oil tanker that shows up on maritime databases as having never existed\nU-turned as it headed toward German waters and is now sailing in the direction\nof Russia’s Arctic coast.\n\n"
+  },
+  {
+    "title": "Credit Markets Haven’t Been This Hot in Two Decades",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-16%2Fcredit-markets-haven-t-been-this-hot-in-two-decades",
+    "published": "Fri, 16 Jan 2026 11:28:45 CST",
+    "summary": "Corporate bond investors need to guard against complacency, Aberdeen and Pimco\nsay.\n\n"
+  },
+  {
+    "title": "Saks Bonds Worth Just 1 Cent Hand Hedge Funds a Painful Lesson",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fsaks-bonds-worth-just-1-cent-hand-hedge-funds-a-painful-lesson",
+    "published": "Fri, 16 Jan 2026 11:10:00 CST",
+    "summary": "At first glance, Saks looked like exactly the kind of mess hedge funds love.\n\n"
+  },
+  {
+    "title": "Korea Exchange Mulls Riskier ETFs to Woo Retail Traders",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fkorea-exchange-mulls-riskier-etfs-to-woo-retail-traders-video",
+    "published": "Fri, 16 Jan 2026 11:06:32 CST",
+    "summary": "South Korea’s main bourse is in talks with financial authorities to ease rules\nthat ban high-risk leveraged exchange-traded products, as a record rally in\nlocal shares has failed to draw retail investors back to the domestic market.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump’s Credit Card Threats Rain on Big Banks’ Earnings Parade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ftrump-s-credit-card-threats-rain-on-big-banks-earnings-parade",
+    "published": "Fri, 16 Jan 2026 11:00:00 CST",
+    "summary": "President Donald Trump’s unexpected demand for a cap on credit card interest\nrates sent financial shares tumbling this week, while leaving the heads of\nWall Street’s biggest lenders fielding a swarm of questions on their quarterly\nearnings calls.\n\n"
+  },
+  {
+    "title": "Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
+    "published": "Fri, 16 Jan 2026 10:52:13 CST",
+    "summary": "The Trump administration agreed to lower tariffs on Taiwanese goods, while\nTaiwan said it would invest more in U.S. manufacturing.\n\n"
+  },
+  {
+    "title": "Alantra, Others Said To Mull Stake Sale in Spain’s Salto Systems",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Falantra-others-said-to-mull-stake-sale-in-spain-s-salto-systems",
+    "published": "Fri, 16 Jan 2026 10:37:32 CST",
+    "summary": "A group of shareholders in Salto Systems SL are weighing a sale of their\nstakes in the Spanish electronic locks manufacturer, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
     "title": "Wall Street Is Split on Stock Market’s Top-Performing Sector",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fwall-street-is-split-on-stock-market-s-top-performing-sector",
     "published": "Fri, 16 Jan 2026 10:30:00 CST",
@@ -19,7 +61,7 @@
   },
   {
     "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-says-critics-just-misunderstand-netflix.html",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-netflix.html",
     "published": "Fri, 16 Jan 2026 10:05:24 CST",
     "summary": "The company’s co-chief executive sat down for an extensive interview for the\nfirst time since announcing plans to buy Warner Bros. Discovery’s film and TV\nbusiness.\n\n"
   },
@@ -34,12 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fkorea-exchange-considers-riskier-etfs-to-woo-retail-traders",
     "published": "Fri, 16 Jan 2026 10:05:03 CST",
     "summary": "South Korea’s main bourse is in talks with financial authorities to ease rules\nthat ban high-risk leveraged exchange-traded products, as a record rally in\nlocal shares has failed to draw retail investors back to the domestic market.\n\n"
-  },
-  {
-    "title": "The Gradual Return of Ships to the Red Sea Hits a Key Milestone",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fthe-gradual-return-of-ships-to-the-red-sea-hits-a-key-milestone",
-    "published": "Fri, 16 Jan 2026 10:03:02 CST",
-    "summary": "After more than two years of avoiding the Red Sea, the world’s leading\ncontainer lines are inching back to the vital lane for east-west trade and\nindicating it looks safe to navigate again.\n\n"
   },
   {
     "title": "Mixed signals and suspicions fueled clash between Fed and prosecutors",
@@ -78,7 +114,13 @@
     "summary": "India’s peak power demand in January has overshot typically higher consumption\nin the summer months, as a cold snap boosted the use of heaters across the\ncountry.\n\n"
   },
   {
-    "title": "Porsche Sales Slump Most in 16 Years on Weak China, Model Gaps",
+    "title": "Jefferies’ Wood Drops Bitcoin on Threat From Quantum Computing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmr-greed-and-fear-drops-bitcoin-btc-for-gold-on-quantum-threat",
+    "published": "Fri, 16 Jan 2026 09:04:33 CST",
+    "summary": "The once-distant threat of quantum computing has prompted one of the most\nclosely followed market strategists to walk away from Bitcoin, underscoring\nhow doubts over the token’s security are creeping into mainstream portfolio\nthinking.\n\n"
+  },
+  {
+    "title": "Porsche Sales Slump Most in 16 Years on Poor China Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fporsche-sales-slump-most-in-16-years-on-weak-china-model-gaps",
     "published": "Fri, 16 Jan 2026 09:02:37 CST",
     "summary": "Porsche AG’s deliveries fell 10% last year, the steepest drop since 2009 when\nthe global financial crisis roiled markets, following weak demand for electric\nvehicles and a slump in China.\n\n"
@@ -90,13 +132,7 @@
     "summary": "European stocks’ outperformance over the US has taken a surprising turn this\nyear, with technology names in the driving seat.\n\n"
   },
   {
-    "title": "Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
-    "published": "Fri, 16 Jan 2026 08:43:57 CST",
-    "summary": "The Trump administration agreed to lower tariffs on Taiwanese goods, while\nTaiwan said it would invest more in U.S. manufacturing.\n\n"
-  },
-  {
-    "title": "Canada Says China to Ease Crop Tariffs by March in Trade Thaw",
+    "title": "Canada Says China to Ease Canola Tariffs by March in Trade Thaw",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fcanada-says-china-to-ease-crop-tariffs-by-march-in-trade-thaw",
     "published": "Fri, 16 Jan 2026 08:25:04 CST",
     "summary": "Canada expects China to cut tariffs on its rapeseed by March 1, which would be\na significant thaw in a trade rift that has disrupted crop flows and tested\nbilateral relations.\n\n"
@@ -108,34 +144,10 @@
     "summary": "Europe’s record-breaking equity rally is far from over given a solid outlook\nfor corporate earnings, according to BlackRock Inc.’s Helen Jewell.\n\n"
   },
   {
-    "title": "GA-Backed ASG Hospital Taps Banks for $500 Million India IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fga-backed-asg-hospital-taps-banks-for-500-million-india-ipo",
-    "published": "Fri, 16 Jan 2026 08:08:42 CST",
-    "summary": "India’s ASG Hospital Pvt. has hired five banks for an initial public offering\nof as much as $500 million in the second half of the year, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "How the Antarctic Ice Vault Stores Clues to the Earth's Past",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-the-antarctic-ice-vault-stores-clues-to-the-earth-s-past",
-    "published": "Fri, 16 Jan 2026 08:00:08 CST",
-    "summary": "In a remote frozen cave deep in Antarctica scientists are preserving ice cores\nextracted from the world's glaciers before they disappear. Bloomberg's Lou Del\nBello has more. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Del Vecchio’s Delfin Denies Paschi Talks with UniCredit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdel-vecchio-s-delfin-denies-paschi-stake-talks-with-unicredit",
     "published": "Fri, 16 Jan 2026 07:45:11 CST",
     "summary": "Delfin Sarl, the investment firm of the billionaire Del Vecchio family, denied\nit’s in talks with UniCredit SpA over potentially selling its 17.5% stake in\nrival lender Banca Monte dei Paschi di Siena SpA.\n\n"
-  },
-  {
-    "title": "Al Suwaidi: Want to Mobilize More Capital in Global South",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fal-suwaidi-want-to-mobilize-more-capital-in-global-south-video",
-    "published": "Fri, 16 Jan 2026 07:41:17 CST",
-    "summary": "Abu Dhabi's climate investment platform Alterra is planning a new $1.2 billion\nco-investment vehicle, with Spain's BBVA committing $250 million as a\nstrategic partner. The fund is part of the UAE's broader push to mobilize\nprivate capital into climate-aligned investments across infrastructure,\nprivate equity and private credit. Majid Al Suwaidi, CEO of ALTÉRRA spoke to\nBloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche on the\ndeployment of the capital. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Canada Cozies Up to China As Trump Turns Up the Heat | Insight with Haslinda Amin 01/16/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Finsight-with-haslinda-amin-1-16-2026-video",
-    "published": "Fri, 16 Jan 2026 07:38:52 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "European Gas Jumps 20% on Week as ‘Perfect Storm’ Hits Sentiment",
@@ -151,7 +163,7 @@
   },
   {
     "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fbattles-over-truth-rage-online-amid-irans-internet-blackout.html",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Firan-internet-blackout-protests-disinformation.html",
     "published": "Fri, 16 Jan 2026 05:00:21 CST",
     "summary": "The shutdown of online discourse within Iran has allowed both the government\nand its critics to flood social media outside the country with disinformation\ncampaigns and fake images.\n\n"
   },
@@ -177,7 +189,7 @@
     "title": "Metals Sink as China Exchange Told to Rip Out High-Speed Servers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmetals-decline-as-china-clamps-down-on-high-frequency-trading",
     "published": "Fri, 16 Jan 2026 03:05:05 CST",
-    "summary": "Metals fell at the end of a dramatic week, as news of a Chinese clampdown down\non high-frequency trading cooled sentiment after frenzied activity in mainland\nfutures that fueled global price gains.\n\n"
+    "summary": "Metals fell at the end of a dramatic week, as news of a Chinese clampdown on\nhigh-frequency trading cooled sentiment after frenzied activity in mainland\nfutures that fueled global price gains.\n\n"
   },
   {
     "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
@@ -236,7 +248,7 @@
   {
     "title": "Italian Court Closes Fraud Case Against Influencer Chiara Ferragni",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fworld%2Feurope%2Fchiara-ferragni-pandoro-cake-italy-influencer.html",
-    "published": "Thu, 15 Jan 2026 21:48:47 CST",
+    "published": "Thu, 15 Jan 2026 21:48:48 CST",
     "summary": "A judge dropped the case against Ms. Ferragni, who had been embroiled in a\nscandal over sales of a limited edition Christmas cake marketed as supporting\ncancer treatment.\n\n"
   },
   {
@@ -244,12 +256,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 21:39:10 CST",
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
-  },
-  {
-    "title": "The US Treasury Market’s Inertia Is Nearing Historic Levels",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-us-treasury-market-s-inertia-is-nearing-historic-levels",
-    "published": "Thu, 15 Jan 2026 21:12:01 CST",
-    "summary": "The 10-year Treasury note’s yield is headed for a fifth straight week of\nminimal change, rivaling its longest stretch of inertia in the past two\ndecades.\n\n"
   },
   {
     "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
@@ -370,12 +376,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F15%2Ftrump-tariff-nvidia-ai-chips",
     "published": "Thu, 15 Jan 2026 14:01:38 CST",
     "summary": "The order follows a nine-month investigation and includes broad exemptions for\ndatacenters and consumers\n\nDonald Trump on Wednesday imposed a 25% tariff on certain AI chips, such as\nthe Nvidia H200 AI processor ​and a similar semiconductor from AMD called the\nMI325X, under a new national security order released by the White House.\n\nThe proclamation follows a nine-month investigation under ‌section 232 of the\nTrade Expansion Act of 1962 and targets a number of high-end semiconductors\nmeeting certain performance benchmarks and devices containing them for import\nduties. The action is part of a broader effort to create incentives for\nchipmakers to produce more semiconductors in the US and decrease reliance on\nchip manufacturers in places such as Taiwan.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Abu Dhabi’s Adnoc Is Said to Mull Investing in Venezuela Gas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fabu-dhabi-s-adnoc-is-said-to-evaluate-investing-in-venezuela-gas",
-    "published": "Thu, 15 Jan 2026 13:43:36 CST",
-    "summary": "The United Arab Emirates’ state oil giant is evaluating options for a\npotential entry into Venezuela’s energy industry as the Middle Eastern country\nseeks to build out its international natural gas business, according to people\nwith knowledge of the situation.\n\n"
   },
   {
     "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
@@ -658,12 +658,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fworld-economic-forum-2026-global-risks-report.html",
     "published": "Wed, 14 Jan 2026 12:25:40 CST",
     "summary": "The report captures a shifting landscape where geoeconomic confrontation leaps\nto the top spot on the list of business worries over the next two years\n\n"
-  },
-  {
-    "title": "You don’t need Trump to cap your credit card interest. Just use this script.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Ftrump-credit-card-interest-cap-how-to-lower%2F",
-    "published": "Wed, 14 Jan 2026 11:00:56 CST",
-    "summary": "You may have more power than you think to challenge your high interest rate,\nparticularly if you have a strong credit score and payment history.\n\n"
   },
   {
     "title": "Union leaders accuse Trump labor department of echoing Nazi rhetoric",
