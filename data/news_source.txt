@@ -1,5 +1,47 @@
 [
   {
+    "title": "What you need to know about the latest US bank earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video",
+    "published": "Fri, 16 Jan 2026 22:38:53 CST",
+    "summary": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six\nUS banks reported. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "WestJet Backpedals on Economy Seats That Don’t Recline",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Ftravel%2Fwestjet-non-reclinable-economy-seats.html",
+    "published": "Fri, 16 Jan 2026 22:37:15 CST",
+    "summary": "WestJet, Canada’s second-largest carrier, backpedaled on a new seating plan\nafter videos of crammed travelers went viral on social media.\n\n"
+  },
+  {
+    "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html",
+    "published": "Fri, 16 Jan 2026 22:33:25 CST",
+    "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
+  },
+  {
+    "title": "Defense Firm York Space Systems Seeks $544 Million in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdefense-firm-york-space-systems-seeks-544-million-in-us-ipo",
+    "published": "Fri, 16 Jan 2026 22:29:18 CST",
+    "summary": "York Space Systems Inc., a space and defense firm backed by AE Industrial\nPartners, is seeking to raise as much as $544 million in an initial public\noffering.\n\n"
+  },
+  {
+    "title": "What the Bankruptcy of Saks Means for You",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
+    "published": "Fri, 16 Jan 2026 22:23:56 CST",
+    "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
+  },
+  {
+    "title": "Hedge Funds Slash Bullish Silver Wagers to 22-Month Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-funds-slash-bullish-silver-wagers-to-22-month-low",
+    "published": "Fri, 16 Jan 2026 21:56:22 CST",
+    "summary": "Money managers slashed their bullish wagers on silver to the lowest in nearly\ntwo years before the White House refrained from putting import tariffs on\ncritical minerals that include the white metal.\n\n"
+  },
+  {
+    "title": "Hedge Funds Turn More Bullish on Brent Oil as Iran Risks Swirl",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-funds-turn-more-bullish-on-brent-oil-as-iran-risks-swirl",
+    "published": "Fri, 16 Jan 2026 21:50:06 CST",
+    "summary": "Hedge funds turned the most bullish on Brent oil since April as unrest in\nIran, OPEC’s fourth-biggest producer, revived risk premium in crude prices.\n\n"
+  },
+  {
     "title": "Wall Street Gives Trump the All-Clear to Push Disruptive Agenda",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fwall-street-gives-trump-the-all-clear-to-push-disruptive-agenda",
     "published": "Fri, 16 Jan 2026 21:34:02 CST",
@@ -123,7 +165,7 @@
     "title": "White House and governors confront electricity’s rising costs as data centers expand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fpjm-data-centers-electricity-bipartisan%2F",
     "published": "Fri, 16 Jan 2026 19:25:52 CST",
-    "summary": "A bipartisan proposal discussed at the White House Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
+    "summary": "A bipartisan proposal discussed at the White House on Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
   },
   {
     "title": "Gambling Stocks Fall as NFL Predictions Gain on Sportsbooks",
@@ -192,40 +234,16 @@
     "summary": "Clayton Dubilier & Rice and TPG Inc. are in talks with private credit firms\nincluding Blue Owl Capital Inc. to line up at least $2.5 billion of debt for\nCovetrus, a technology company for veterinary practices, according to people\nwith knowledge of the matter.\n\n"
   },
   {
-    "title": "Enbridge Files Regulatory Documents to Expand Part of Mainline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fenbridge-files-regulatory-documents-to-expand-part-of-mainline",
-    "published": "Fri, 16 Jan 2026 17:48:19 CST",
-    "summary": "Enbridge Inc. plans to expand part of its Mainline oil pipeline network\nrunning from Alberta into the US by about 10% within two years, according to\nregulatory documents filed by the company.\n\n"
-  },
-  {
     "title": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Ftrump-praises-hassett-but-casts-doubt-on-making-him-fed-chair.html",
     "published": "Fri, 16 Jan 2026 17:39:47 CST",
     "summary": "The blowback set off by the Justice Department’s criminal investigation into\nJerome H. Powell, the chair of the central bank, has shaken up the race to\nreplace him.\n\n"
   },
   {
-    "title": "Inside Max Verstappen’s Championship Mindset",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Finside-max-verstappen-s-championship-mindset-video",
-    "published": "Fri, 16 Jan 2026 17:30:34 CST",
-    "summary": "Bloomberg's Matt Miller caught up with Oracle Red Bull Racing driver and four-\ntime World Champion Max Verstappen in Detroit. From chasing new career goals\nto navigating last season’s toughest challenges, Max opens up about what\ndrives him and what it takes to stay on top of Formula One. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F",
     "published": "Fri, 16 Jan 2026 17:30:13 CST",
     "summary": "Plans for more Defense Department control of Stars and Stripes surface after\njob seekers were asked about their commitment to President Donald Trump’s\npolicies.\n\n"
-  },
-  {
-    "title": "Morgan Stanley Says Traders Are Unprepared for Sharp Euro Swings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmorgan-stanley-says-traders-are-unprepared-for-sharp-euro-swings",
-    "published": "Fri, 16 Jan 2026 17:26:05 CST",
-    "summary": "Traders are underpricing the risk of extreme scenarios potentially causing\nruptures in major currencies, especially in the euro, according to Morgan\nStanley’s David Adams.\n\n"
-  },
-  {
-    "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ftrump-moves-to-make-tech-giants-pay-for-power-costs-video",
-    "published": "Fri, 16 Jan 2026 17:24:33 CST",
-    "summary": "President Donald Trump and the governors of several US Northeastern states\nagreed to push for an emergency wholesale electricity auction that would\ncompel technology companies to effectively fund new power plants. The\nunprecedented plan, set to be announced Friday morning, seeks to address\ngrowing tensions over how the nation can supply electricity to power-hungry\ndata centers -- seen as necessary to help win the global AI race -- without\nsimultaneously hiking utility bills for homes and businesses. Bloomberg's\nMandeep Singh joins to discuss on Bloomberg Intelligence. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: PNC, ImmunityBio, Coupang & more",
@@ -268,6 +286,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmichael-saylor-strategy-bitcoin.html",
     "published": "Fri, 16 Jan 2026 15:11:20 CST",
     "summary": "Michael Saylor’s financial alchemy thrust an ordinary software company,\nStrategy, into the center of the crypto frenzy. It all worked spectacularly,\nuntil now.\n\n"
+  },
+  {
+    "title": "Ecuador Eyes Return to Global Debt Markets After Seven Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fecuador-readies-return-to-global-debt-markets-after-seven-years",
+    "published": "Fri, 16 Jan 2026 14:42:44 CST",
+    "summary": "Ecuador is readying its return to international debt markets for the first\ntime since 2019.\n\n"
   },
   {
     "title": "Your Tax Refund Could Be Taken if You’ve Defaulted on Student Loans: What to Know",
@@ -328,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fthree-dollar-meals-rollins%2F",
     "published": "Fri, 16 Jan 2026 10:00:00 CST",
     "summary": "Brooke Rollins drew ridicule on social media after saying a meal could be a\n“piece of chicken, a piece of broccoli, a corn tortilla and one other thing.”\n\n"
-  },
-  {
-    "title": "European Gas Soars 30% on Week as ‘Perfect Storm’ Hits Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Feuropean-gas-prices-post-biggest-weekly-gain-since-fall-of-2023",
-    "published": "Fri, 16 Jan 2026 07:29:44 CST",
-    "summary": "European natural gas prices surged 30% this week as a change in sentiment took\nhold and traders rushed to cover short positions amid bouts of unusually cold\nweather.\n\n"
   },
   {
     "title": "Uber’s Quest to Crack Japan Leads Through a Rural Hot-Springs Town",
@@ -454,12 +472,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
     "published": "Thu, 15 Jan 2026 17:55:06 CST",
     "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
-  },
-  {
-    "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html",
-    "published": "Thu, 15 Jan 2026 16:35:21 CST",
-    "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
   },
   {
     "title": "NBCUniversal strategically leans into sports as it prepares for 'Legendary February'",
@@ -650,7 +662,7 @@
   {
     "title": "Where Did All the American-Born Roofers Go?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html",
-    "published": "Wed, 14 Jan 2026 19:38:30 CST",
+    "published": "Wed, 14 Jan 2026 19:38:31 CST",
     "summary": "The real story of how immigrant labor came to define the construction\nindustry.\n\n"
   },
   {
@@ -786,12 +798,6 @@
     "summary": "The companies that turn oil into gasoline and diesel are likely to benefit\nmore, right away, than the businesses that pump oil out of the ground.\n\n"
   },
   {
-    "title": "What the Bankruptcy of Saks Means for You",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
-    "published": "Wed, 14 Jan 2026 05:40:13 CST",
-    "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
-  },
-  {
     "title": "China reports record trillion-dollar trade surplus despite Trump tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F14%2Fchina-reports-record-trillion-dollar-trade-surplus-despite-trump-tariffs",
     "published": "Wed, 14 Jan 2026 04:50:56 CST",
@@ -808,12 +814,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Ftechnology%2Firan-starlink-elon-musk.html",
     "published": "Wed, 14 Jan 2026 04:40:32 CST",
     "summary": "Under a near-total communications blackout, users of Elon Musk’s satellite\nservice have gotten online without paying, organizations that work on tech\nissues said.\n\n"
-  },
-  {
-    "title": "Blowback Builds Over Criminal Investigation of Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Fjerome-powell-investigation-blowback.html",
-    "published": "Tue, 13 Jan 2026 22:19:52 CST",
-    "summary": "Trump allies fear that the inquiry into the Fed chair could complicate the\nprocess of replacing him this year.\n\n"
   },
   {
     "title": "In a Risky Gambit, Trump Tries Brute Force to Lower Prices",
