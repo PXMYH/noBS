@@ -1,5 +1,23 @@
 [
   {
+    "title": "Rates Quiet for Now, Commodities Volatile: 3-Minute MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Frates-quiet-for-now-commodities-volatile-3-minute-mliv-video",
+    "published": "Fri, 16 Jan 2026 09:25:07 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Skylar Montgomery Koning break\ndown today's key themes for analysts and investors on \"Bloomberg: The Opening\nTrade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Porsche Sales Slump Most in 16 Years on Weak China, Model Gaps",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fporsche-sales-slump-most-in-16-years-on-weak-china-model-gaps",
+    "published": "Fri, 16 Jan 2026 09:02:37 CST",
+    "summary": "Porsche AG’s deliveries fell 10% last year, the steepest drop since 2009 when\nthe global financial crisis roiled markets, following weak demand for electric\nvehicles and a slump in China.\n\n"
+  },
+  {
+    "title": "Even for Tech Exposure, Europe Is the Market to Be in Right Now",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Feven-for-tech-exposure-europe-is-the-market-to-be-in-right-now",
+    "published": "Fri, 16 Jan 2026 09:00:12 CST",
+    "summary": "European stocks’ outperformance over the US has taken a surprising turn this\nyear, with technology names in the driving seat.\n\n"
+  },
+  {
     "title": "Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
     "published": "Fri, 16 Jan 2026 08:43:57 CST",
@@ -9,7 +27,7 @@
     "title": "Canada Says China to Ease Crop Tariffs by March in Trade Thaw",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fcanada-says-china-to-ease-crop-tariffs-by-march-in-trade-thaw",
     "published": "Fri, 16 Jan 2026 08:25:04 CST",
-    "summary": "Canada expects China to cut tariffs on Canadian rapeseed by March 1, marking a\nsignificant thaw in a trade rift that has disrupted crop flows and tested\nbilateral relations\n\n"
+    "summary": "Canada expects China to cut tariffs on its rapeseed by March 1, which would be\na significant thaw in a trade rift that has disrupted crop flows and tested\nbilateral relations.\n\n"
   },
   {
     "title": "BlackRock’s Jewell Says Strong Earnings to Boost European Stocks",
@@ -96,24 +114,6 @@
     "summary": "Chinese companies ramped up use of the euro in cross-border transactions last\nyear, with settlements in the currency rising at the fastest pace since 2010.\n\n"
   },
   {
-    "title": "TSMC Reignites AI Fervor; Taiwan Secures US Trade Deal | The Asia Trade 1/16/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fthe-asia-trade-1-16-26-video",
-    "published": "Fri, 16 Jan 2026 05:58:58 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and\nSingapore with Paul Allen and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Carney Meets Xi to Renew Ties",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fcarney-meets-xi-to-renew-ties-video",
-    "published": "Fri, 16 Jan 2026 05:48:32 CST",
-    "summary": "Canada’s PM Mark Carney praised a renewed partnership with China’s Xi Jinping\nduring a four-day visit to China. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Switzerland Is Asking Itself: Is 10 Million People Too Many?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-16%2Fswitzerland-is-debating-a-population-cap-amid-a-growing-immigration-backlash",
-    "published": "Fri, 16 Jan 2026 05:00:32 CST",
-    "summary": "As the world flocks to Davos, the host country ponders a population cap\n\n"
-  },
-  {
     "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fbattles-over-truth-rage-online-amid-irans-internet-blackout.html",
     "published": "Fri, 16 Jan 2026 05:00:21 CST",
@@ -124,6 +124,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fuber-japan-dara-khosrowshahi.html",
     "published": "Fri, 16 Jan 2026 05:00:11 CST",
     "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally\ngrab a bigger piece of one of the world’s largest taxi markets.\n\n"
+  },
+  {
+    "title": "Poland Set to Return to Rate Cuts Soon, Policymakers Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fpoland-may-cut-rates-already-in-february-mpc-s-kotecki-says",
+    "published": "Fri, 16 Jan 2026 05:00:01 CST",
+    "summary": "Poland is set to return to interest rate cuts as soon as next month as\nprospects for continued low inflation improve, according to two policymakers.\n\n"
   },
   {
     "title": "Japan Says Agreement with US OKs Intervention for Rapid Moves",
@@ -142,18 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmetals-decline-as-china-clamps-down-on-high-frequency-trading",
     "published": "Fri, 16 Jan 2026 03:05:05 CST",
     "summary": "Metals fell at the end of a dramatic week, as news of a Chinese clampdown down\non high-frequency trading cooled sentiment after frenzied activity in mainland\nfutures that fueled global price gains.\n\n"
-  },
-  {
-    "title": "Hottest Credit Markets Since 2007 Spur Warnings on Complacency",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fglobal-corporate-bond-yield-premiums-fall-to-lowest-since-2007",
-    "published": "Fri, 16 Jan 2026 02:46:22 CST",
-    "summary": "Global credit markets are running at their hottest in two decades, prompting\nsome of the world’s biggest money managers including Aberdeen Investments and\nPimco to warn against complacency.\n\n"
-  },
-  {
-    "title": "China Vanke Bonds Extend Rally on Sweetened Extension Proposals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-vanke-bonds-extend-rally-on-sweetened-extension-proposals",
-    "published": "Fri, 16 Jan 2026 02:40:20 CST",
-    "summary": "China Vanke Co.’s bonds extended their rally, a day after the distressed\ndeveloper unveiled sweetened proposals to extend payments on some notes,\npotentially easing the risk of an imminent default.\n\n"
   },
   {
     "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
@@ -622,6 +616,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
     "published": "Wed, 14 Jan 2026 14:26:46 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
+  },
+  {
+    "title": "Lucid to Start Car Production in Saudi Arabia in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Flucid-set-to-start-manufacturing-cars-in-saudi-arabia-in-2026",
+    "published": "Wed, 14 Jan 2026 13:55:52 CST",
+    "summary": "Lucid Group Inc. is on track with plans to start producing cars in Saudi\nArabia as it looks to drive the kingdom’s ambitions to create a domestic auto\nmanufacturing hub and cut down on imports.\n\n"
   },
   {
     "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
