@@ -1,12 +1,90 @@
 [
   {
+    "title": "Japan and Italy to Elevate Ties, Cooperate on Critical Minerals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fjapan-and-italy-to-elevate-ties-cooperate-on-critical-minerals",
+    "published": "Fri, 16 Jan 2026 04:12:33 CST",
+    "summary": "Japanese Prime Minister Sanae Takaichi and Italian Prime Minister Giorgia\nMeloni agreed to work together on critical mineral supply and elevate their\nrelationship to a new level.\n\n"
+  },
+  {
+    "title": "Japan’s Finance Minister Warns That All Options Open to Aid Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fjapan-s-finance-minister-warns-that-all-options-open-to-aid-yen",
+    "published": "Fri, 16 Jan 2026 04:03:54 CST",
+    "summary": "Japan’s finance minister reiterated her warning that all options including\ndirect currency intervention are available for dealing with recent weakness in\nthe yen.\n\n"
+  },
+  {
+    "title": "Mitsubishi to Buy Aethon US Gas Assets in $5.2 Billion Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmitsubishi-to-buy-us-gas-assets-from-aethon-in-5-2-billion-deal",
+    "published": "Fri, 16 Jan 2026 03:39:24 CST",
+    "summary": "Mitsubishi Corp. agreed to buy Aethon Energy Management LLC’s US gas and\npipeline assets for $5.2 billion, the biggest purchase by a Japanese company\nin the American shale sector.\n\n"
+  },
+  {
+    "title": "Machado on Gifting Nobel Peace Medal to Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fmachado-on-gifting-nobel-peace-medal-to-trump-video",
+    "published": "Fri, 16 Jan 2026 03:27:13 CST",
+    "summary": "Maria Corina Machado, Venezuela's opposition leader, speaks about her decision\nto gift her Nobel Peace Prize medal to Donald Trump at a White House meeting.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Asian Investors 'More Bullish' on China Than Their US Peers, BofA's Wu Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fasia-investors-more-bullish-on-china-than-us-peers-bofa-video",
+    "published": "Fri, 16 Jan 2026 03:18:38 CST",
+    "summary": "BofA's Winnie Wu says \"Asian investors are more bullish on the Asia market,\nand China is one of the favored markets within this region.\" She tells\nBloomberg Television that her conversations with US investors show that their\npositioning on China \"is quite light.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Akeso Confident of Cancer Drug's FDA Approval Odds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fakeso-confident-of-cancer-drug-s-fda-approval-odds-video",
+    "published": "Fri, 16 Jan 2026 03:10:33 CST",
+    "summary": "Chinese biopharmaceutical firm Akeso’s CFO, Bing Wang, says he feels “pretty\ngood” about the chances of receiving approval from US regulators for\nivonescimab, the company’s key cancer drug developed in partnership with US-\nbased Summit Therapeutics. Wang speaks exclusively on Bloomberg: The China\nShow from San Francisco, where the marquee industry event hosted by JPMorgan\nis taking place. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Metals Sink as China Exchange Told to Rip Out High-Speed Servers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmetals-decline-as-china-clamps-down-on-high-frequency-trading",
+    "published": "Fri, 16 Jan 2026 03:05:05 CST",
+    "summary": "Metals fell at the end of a dramatic week, as China clamped down on high-\nfrequency trading in a move that came after frenzied activity in mainland\nfutures that helped to fuel global price gains.\n\n"
+  },
+  {
+    "title": "Global Corporate Bond Yield Premiums Fall to Lowest Since 2007",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fglobal-corporate-bond-yield-premiums-fall-to-lowest-since-2007",
+    "published": "Fri, 16 Jan 2026 02:46:22 CST",
+    "summary": "Investors across global credit markets are accepting the lowest yield premiums\non corporate debt in almost two decades, heartened by a resilient economic\noutlook.\n\n"
+  },
+  {
+    "title": "India Investors Pile Into Metal Stocks as Silver, Copper Soar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-16%2Finfosys-guidance-may-boost-it-mood-vedanta-hindustan-zinc-ride-metals-rally",
+    "published": "Fri, 16 Jan 2026 02:43:38 CST",
+    "summary": "Commodity derivatives are the latest fad among retail traders.\n\n"
+  },
+  {
+    "title": "AmCham China: US Firms Regaining Optimism on China",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Famcham-china-us-firms-regaining-optimism-on-china-video",
+    "published": "Fri, 16 Jan 2026 02:42:48 CST",
+    "summary": "James Zimmerman, Chairman at AmCham China, discusses the chamber's latest\nbusiness climate survey. According to the report, US companies are more upbeat\nabout doing business in China following the trade truce between the two\ncountries. He speaks with Yvonne Man and David Ingles on \"The China Show\".\nZimmerman is also a lawyer at Loeb and Loeb, which provides legal services to\nBloomberg L.P. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China Vanke Bonds Extend Rally on Sweetened Extension Proposals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-vanke-bonds-extend-rally-on-sweetened-extension-proposals",
+    "published": "Fri, 16 Jan 2026 02:40:20 CST",
+    "summary": "China Vanke Co.’s bonds extended their rally, a day after the distressed\ndeveloper unveiled sweetened proposals to extend payments on some notes,\npotentially easing the risk of an imminent default.\n\n"
+  },
+  {
+    "title": "Heavy Rainfall Disrupts Australian Metallurgical Coal Supplies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fheavy-rainfall-disrupts-australian-metallurgical-coal-supplies",
+    "published": "Fri, 16 Jan 2026 02:26:57 CST",
+    "summary": "Heavy rainfall in northeast Australia has triggered floods that are hampering\nmine operations and disrupting supplies of metallurgical coal in the region.\n\n"
+  },
+  {
+    "title": "China’s FX Conversion Jumps to Record as Firms Rush Back to Yuan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-s-fx-conversion-jumps-to-record-as-firms-rush-back-to-yuan",
+    "published": "Fri, 16 Jan 2026 02:23:43 CST",
+    "summary": "Chinese banks helped clients sell a record amount of foreign currencies back\ninto the yuan in December, supercharged by expectations of appreciation and\nincreased seasonal demand.\n\n"
+  },
+  {
     "title": "China National Team ETFs Log Record Outflows Amid Cooling Signal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-national-team-etfs-log-record-outflows-amid-cooling-signal",
     "published": "Fri, 16 Jan 2026 02:00:29 CST",
     "summary": "Some of the exchange‑traded funds heavily owned by China’s so‑called national\nteam saw record outflows on Thursday, a development that aligns with broader\nefforts to temper the stock market rally.\n\n"
   },
   {
-    "title": "China Clamps Down on High-Speed Traders, Removing Data Servers",
+    "title": "China Clamps Down on High-Speed Traders, Removing Servers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-clamps-down-on-high-speed-traders-removing-data-servers",
     "published": "Fri, 16 Jan 2026 01:38:17 CST",
     "summary": "China is pulling the plug on a key advantage held by high-frequency traders,\nremoving servers dedicated to those firms out of local exchanges’ data\ncenters, according to people familiar with the matter.\n\n"
@@ -81,7 +159,7 @@
     "title": "Silver Dips After US Tariff Pause, But Set for Hefty Weekly Gain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
     "published": "Thu, 15 Jan 2026 23:40:04 CST",
-    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up 15% for the week on surging demand for\nprecious metals.\n\n"
+    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up more than 13% for the week on surging\ndemand for precious metals.\n\n"
   },
   {
     "title": "Christie’s CEO on 2026 Art Sales Outlook",
@@ -108,58 +186,16 @@
     "summary": "Amos Hochstein, former Special Presidential Coordinator for Global\nInfrastructure and Energy Security, says Iran is not Venezuela and removing\nthe supreme leader is not a simple option. He speaks with Romaine Bostick and\nKatie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trump’s Push to Ban Corporate Landlords",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ftrump-s-push-to-ban-corporate-landlords-video",
-    "published": "Thu, 15 Jan 2026 23:02:04 CST",
-    "summary": "Trump wants to ban Wall Street investors from buying single-family homes.\nWould that actually help Americans trying to buy a house? Bloomberg reporter\nPatrick Clark and Bloomberg CityLab reporter Kriston Capps join host Sarah\nHolder on today’s Big Take podcast. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Fmr. Treasury Secretary Jack Lew on Fed Independence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-treasury-secretary-jack-lew-on-fed-independence-video",
-    "published": "Thu, 15 Jan 2026 23:01:58 CST",
-    "summary": "Jack Lew, former U.S. Treasury Secretary, says using legal prosecution to\npressure the Fed chair would set a dangerous precedent. He tells Romaine\nBostick and Katie Greifeld on “The Close” that framing it as a building issue\nmisses the broader threat to central bank independence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Stocks, Currencies Rift Forces Funds to Rethink Asia Strategy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fa-long-held-tenet-of-asia-s-markets-is-suddenly-breaking-apart",
-    "published": "Thu, 15 Jan 2026 23:00:00 CST",
-    "summary": "A breakdown in the relationship between Asia’s stocks and its currencies is\nflashing a signal for global funds to rethink their investment strategy in the\nregion.\n\n"
-  },
-  {
     "title": "Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html",
     "published": "Thu, 15 Jan 2026 22:49:29 CST",
     "summary": "Kathleen Kennedy stepped down as Lucasfilm’s president and returned to\nproducing. Two studio veterans took over.\n\n"
   },
   {
-    "title": "Dimon Says Lot of Good 'Short Term Things' In US Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fdimon-says-lot-of-good-short-term-things-in-us-economy-video",
-    "published": "Thu, 15 Jan 2026 22:47:33 CST",
-    "summary": "JPMorgan CEO Jamie Dimon told Bloomberg's David Rubenstein that he sees a lot\nof good 'short term things' in the US economy, including Trump's 'big\nbeautiful bill' and deregulation coming out of the White House. Dimon also\ncalled on industry leaders to put the good of the US above their own companies\nor profits, saying that there is too much focused on self-interest and people\nshould 'open our eyes' and do the right things. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Asian Stocks Set Record as Tech Rally Powers On: Markets Wrap",
+    "title": "Asian Stocks Hit Record on Tech Rally, Yen Gains: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap",
     "published": "Thu, 15 Jan 2026 22:40:15 CST",
-    "summary": "Asia’s tech-led rally pushed to new highs after strong earnings from a chip\nbellwether eased worries about overheating in the artificial intelligence\nsector and encouraged investors to add bets.\n\n"
-  },
-  {
-    "title": "Trump Moves to Make Data Centers Pay for Surging Power Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-to-direct-key-us-grid-operator-to-hold-emergency-auction",
-    "published": "Thu, 15 Jan 2026 22:35:58 CST",
-    "summary": "President Donald Trump and US Northeast governors will direct the nation’s\nlargest grid operator to hold an emergency power auction that would force\ntechnology giants to pay for the construction of a fleet of new plants.\n\n"
-  },
-  {
-    "title": "Dimon Says 'No Chance' He'd Take Fed Chair Position",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fdimon-says-no-chance-he-d-take-fed-chair-position-video",
-    "published": "Thu, 15 Jan 2026 22:35:38 CST",
-    "summary": "JPMorgan CEO Jamie Dimon told Bloomberg's David Rubenstein that there was 'no\nchance' he would take up the role of chair of the Federal Reserve, but would\nconsider taking on the Treasury if the president asked him to serve as\nsecretary. However, he joked that he might like being his own boss too much to\ntake the role. Dimon also weighed in on questions around the Fed's role,\nsaying that chipping away at Fed independence drives rates higher. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Dimon Says ‘Absolutely, Positively No Chance’ on Fed Chair Job",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fdimon-says-absolutely-positively-no-chance-on-fed-chair-job",
-    "published": "Thu, 15 Jan 2026 22:15:27 CST",
-    "summary": "In the Wall Street-to-Washington corridor, the prospect of Jamie Dimon for\nTreasury secretary, or even for president, has come up repeatedly over the\nyears.\n\n"
+    "summary": "Asia’s tech-led rally pushed equities to new highs after strong earnings from\na chip bellwether eased worries about overheating in the artificial\nintelligence sector and encouraged investors to add bets.\n\n"
   },
   {
     "title": "Trump Bought Bonds Worth $51 Million for His Personal Investments",
@@ -174,28 +210,10 @@
     "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
   },
   {
-    "title": "Why Japan’s Economy Is at a Tipping Point",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fwhy-japan-s-economy-is-at-a-tipping-point",
-    "published": "Thu, 15 Jan 2026 22:00:03 CST",
-    "summary": "For 30 years, Japan’s prices were largely at a standstill. Now a weak yen has\nchanged everything. Here’s how consumers and businesses are coping with rising\ncosts, and what it means for the future. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan’s Muni Bond Yields Hit Decades High, Straining Finances",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjapan-s-muni-bond-yields-hit-decades-high-straining-finances",
-    "published": "Thu, 15 Jan 2026 22:00:00 CST",
-    "summary": "The first wave of Japanese local government issuers selling municipal bonds\nthis year will face some of the highest funding costs in decades, as market\nyields rose after the Bank of Japan’s December rate hike and Prime Minister\nSanae Takaichi’s plans for a snap election.\n\n"
-  },
-  {
     "title": "Italian Court Closes Fraud Case Against Influencer Chiara Ferragni",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fworld%2Feurope%2Fchiara-ferragni-pandoro-cake-italy-influencer.html",
     "published": "Thu, 15 Jan 2026 21:48:47 CST",
     "summary": "A judge dropped the case against Ms. Ferragni, who had been embroiled in a\nscandal over sales of a limited edition Christmas cake marketed as supporting\ncancer treatment.\n\n"
-  },
-  {
-    "title": "JPMorgan's Dimon Says Up to Board on How Long He Stays CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fjpm-s-dimon-wants-to-stay-in-job-at-least-5-more-years-video",
-    "published": "Thu, 15 Jan 2026 21:40:40 CST",
-    "summary": "JPMorgan Chase Chair and CEO Jamie Dimon says he wants to remain the company's\nCEO during an interview with David Rubenstein at the US Chamber of Commerce's\n2026 State of American Business. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
@@ -208,12 +226,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-us-treasury-market-s-inertia-is-nearing-historic-levels",
     "published": "Thu, 15 Jan 2026 21:12:01 CST",
     "summary": "The 10-year Treasury note’s yield is headed for a fifth straight week of\nminimal change, rivaling its longest stretch of inertia in the past two\ndecades.\n\n"
-  },
-  {
-    "title": "Panama to Rule on Fate of Shuttered Copper Mine in June",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fpanama-targets-june-decision-on-fate-of-shuttered-copper-mine",
-    "published": "Thu, 15 Jan 2026 21:10:27 CST",
-    "summary": "Panama expects to decide in the coming months whether to restart a vast mine\nthat has become one of the biggest uncertainties in the global copper market.\n\n"
   },
   {
     "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
@@ -232,12 +244,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
     "published": "Thu, 15 Jan 2026 20:02:04 CST",
     "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
-  },
-  {
-    "title": "White-Collar Enforcement Sinks Under Trump, Group Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwhite-collar-enforcement-sinks-under-trump-public-citizen-says",
-    "published": "Thu, 15 Jan 2026 19:42:35 CST",
-    "summary": "The Trump administration canceled at least 162 corporate enforcement actions\nand halted 14 more in its first year back in office, according to progressive\nadvocacy group Public Citizen.\n\n"
   },
   {
     "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
@@ -348,12 +354,6 @@
     "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
   },
   {
-    "title": "Goldman Raising $16 Billion in Record Wall Street Bank Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwells-fargo-kicks-off-us-dollar-bond-sale-after-earnings",
-    "published": "Thu, 15 Jan 2026 13:04:01 CST",
-    "summary": "Goldman Sachs Group Inc. raised $16 billion with the largest investment-grade\nbond sale ever from a Wall Street bank, leading a surge of borrowing by big\nlenders that’s kicking off what’s expected to be a record year of corporate\nbond issuance.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Taiwan Semiconductor, ASML, BlackRock and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fstocks-making-the-biggest-moves-premarket-tsm-asml-blk.html",
     "published": "Thu, 15 Jan 2026 13:01:19 CST",
@@ -426,6 +426,12 @@
     "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
   },
   {
+    "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Findia-s-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea",
+    "published": "Thu, 15 Jan 2026 06:09:14 CST",
+    "summary": "India’s buying of Russian crude is likely to stabilize or even decline this\nmonth, leaving more cargoes from the OPEC+ producer stranded and pushing the\nworld’s third-largest oil importer to look to pricier alternatives.\n\n"
+  },
+  {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
     "published": "Thu, 15 Jan 2026 03:50:17 CST",
@@ -442,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Flouisville-crash-report.html",
     "published": "Thu, 15 Jan 2026 01:51:06 CST",
     "summary": "In a report Wednesday, the National Transportation Safety Board said fractures\nthat appeared to have led the left engine to separate from the plane’s wing\nhad occurred at least four other times.\n\n"
-  },
-  {
-    "title": "Silver Falls After Trump Holds Off on Critical Mineral Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fgold-and-silver-in-modest-retreat-after-surging-to-record-highs",
-    "published": "Wed, 14 Jan 2026 23:36:24 CST",
-    "summary": "Silver pulled back from a record high as investors took profits after a\nblistering rally and as the US refrained from imposing import tariffs on\ncritical minerals.\n\n"
   },
   {
     "title": "Kaiser Permanente Agrees to Pay $556 Million to Settle Medicare Overbilling Claims",
@@ -512,7 +512,7 @@
   {
     "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html",
-    "published": "Wed, 14 Jan 2026 19:01:18 CST",
+    "published": "Wed, 14 Jan 2026 19:01:19 CST",
     "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
   },
   {
