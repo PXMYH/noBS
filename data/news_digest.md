@@ -1,57 +1,57 @@
-# NoBS News Digest - January 15, 2026
+# NoBS News Digest - January 16, 2026
 
-Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
+Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and domestic policy shifts dominate this week's headlines, with the Trump administration making bold moves on multiple fronts. The U.S. indefinitely suspends immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns—a decision likely to strain diplomatic relations. Meanwhile, former Biden advisor Amos Hochstein warns against applying a 'Venezuela playbook' to Iran, emphasizing the complexity of regime change in Tehran. The administration's aggressive push to control Venezuela's oil resources faces skepticism, as analysts argue domestic production remains a more viable option for U.S. energy needs. On the diplomatic front, Canada's former central bank governor, Mark Carney, travels to Beijing to repair frayed Canada-China relations, signaling Ottawa's pivot away from U.S. dependence amid worsening bilateral ties. Domestically, the Pentagon moves to overhaul the independent military newspaper *Stars and Stripes*, sparking concerns over political interference after job applicants were questioned about loyalty to Trump's policies.
+Geopolitical tensions and economic shifts dominate global headlines this week. The Trump administration escalates its aggressive stance on Venezuela, with former advisor Amos Hochstein cautioning against simplistic regime-change strategies, while analysts warn that Trump’s push to seize Venezuelan oil could backfire, weakening U.S. economic stability. Meanwhile, the State Department suspends immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns—a move likely to strain international relations further. In Asia, Japan faces financial strain as municipal bond yields soar to decades-high levels following the Bank of Japan’s rate hike and Prime Minister Sanae Takaichi’s snap election plans, signaling potential economic turbulence. On the diplomatic front, former Bank of Canada Governor Mark Carney travels to Beijing to repair Canada-China relations, seeking new trade opportunities as U.S.-China tensions persist. Domestically, the Pentagon moves to overhaul the independent military newspaper *Stars and Stripes*, criticizing its editorial direction as 'woke' and tightening Defense Department control, reflecting broader political polarization.
 
 **Top Articles:**
 - [Fmr. Biden Advisor: Can't use Venezuela Playbook in Iran](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-biden-advisor-can-t-use-venezuela-playbook-in-iran-video)
-- [‘Star Wars’ Boss Departs, Ending an Asteroid-Filled Reign](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
+- [Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
+- [Japan’s Muni Bond Yields Hit Decades High, Straining Finances](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjapan-s-muni-bond-yields-hit-decades-high-straining-finances)
 - [Pentagon to overhaul independent military newspaper, calling it ‘woke’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F)
 - [Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela)
-- [Trump administration halts immigrant visa processing from 75 countries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Fimmigrant-visas-suspended-trump)
 
-**Sources**: archive.ph (7 articles)
+**Sources**: archive.ph (8 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of economic optimism and policy uncertainty, with Wall Street banks reporting strong trading revenues but facing pressure from potential credit card rate caps proposed by President Trump. Major financial institutions like JPMorgan, Goldman Sachs, and Morgan Stanley posted robust earnings, driven by wealth management and trading, though concerns linger over regulatory threats to the Fed's independence. Meanwhile, Japan's economy stands at a tipping point as a weak yen fuels inflation, while China's record trade surplus underscores its export dominance. Corporate struggles are also in focus, with Saks Global filing for bankruptcy after its debt-laden acquisition of Neiman Marcus, and Amazon threatening legal action over its $475 million stake in the failed deal. In commodities, silver prices retreated after Trump delayed tariffs on critical minerals, while AI-driven stock rallies and rising food costs add to market volatility.
+Global markets are experiencing mixed signals as China tightens controls on high-frequency trading and state-backed ETFs see record outflows, signaling efforts to cool its stock rally. Meanwhile, U.S. firms regain optimism about China following a Trump-Xi trade truce, though economic tensions persist. In the U.S., corporate earnings reveal a split: Morgan Stanley and Goldman Sachs beat estimates, while Bank of America, Citi, and JPMorgan fall short amid concerns over Trump’s proposed credit card rate caps. The Fed’s independence remains a hot topic, with former Treasury Secretary Jack Lew warning against political interference. Elsewhere, Saks Global’s bankruptcy filing highlights retail struggles, while silver prices surge despite a pause in U.S. tariffs on critical minerals. The yen faces volatility ahead of a Bank of Japan meeting, and Japan’s economy grapples with inflation after decades of stagnation.
 
 **Top Articles:**
-- [Christie’s CEO on 2026 Art Sales Outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fchristie-s-ceo-on-2026-art-sales-outlook-video)
-- [Yen Watchers Face Double Whammy of BOJ, Election Uncertainty](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fyen-watchers-face-double-whammy-of-boj-election-uncertainty)
-- [Trump’s Push to Ban Corporate Landlords](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ftrump-s-push-to-ban-corporate-landlords-video)
-- [Fmr. Treasury Secretary Jack Lew on Fed Independence](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Ffmr-treasury-secretary-jack-lew-on-fed-independence-video)
-- [A Long-Held Tenet of Asia’s Markets Is Suddenly Breaking Apart](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fa-long-held-tenet-of-asia-s-markets-is-suddenly-breaking-apart)
+- [China National Team ETFs Log Record Outflows Amid Cooling Signal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-national-team-etfs-log-record-outflows-amid-cooling-signal)
+- [China Clamps Down on High-Speed Traders, Removing Data Servers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-clamps-down-on-high-speed-traders-removing-data-servers)
+- [US Firms Regain Optimism on China After Trump-Xi Trade Truce](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fus-firms-regain-optimism-on-china-after-trump-xi-trade-truce)
+- [China’s $1.2 Trillion Windfall Quietly Seeps Into Global Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-s-1-2-trillion-windfall-quietly-seeps-into-global-markets)
+- [EM Fund Beating 97% of Peers Says Memory Chips Are Best Bet](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fem-fund-beating-97-of-peers-says-memory-chips-are-best-bet)
 
-**Sources**: archive.ph (99 articles)
+**Sources**: archive.ph (100 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as Asian markets rally on renewed AI optimism, while the U.S. imposes a 25% tariff on Nvidia and AMD AI chips, citing national security concerns. The move follows a nine-month investigation and includes exemptions for data centers and consumers, signaling a shift in trade policy under President Trump. Meanwhile, Starlink's satellite internet is proving crucial for Iranian activists circumventing government blackouts, with nonprofits reporting free access for users. In corporate news, Boeing outperforms Airbus for the first time since 2018, delivering 600 jetliners in 2025, while JPMorgan reports lower profits amid regulatory pressures. The UK economy shows unexpected growth, and Britain awards wind farm contracts to power 12 million homes, highlighting a push toward renewable energy.
+Tech and geopolitics dominate headlines as Taiwan strikes a trade deal with the U.S., lowering tariffs while pledging to expand chip manufacturing in America—a move that aligns with President Trump’s push to bolster domestic semiconductor production. Meanwhile, Trump imposes a 25% tariff on select AI chips, including Nvidia’s H200 and AMD’s MI325X, citing national security concerns, though exemptions for data centers and consumers soften the blow. In Iran, activists leverage Starlink’s satellite internet to bypass government blackouts, highlighting the growing role of private tech in circumventing state censorship. On the corporate front, Boeing outperforms Airbus in deliveries for the first time since 2018, signaling a potential turnaround, while JPMorgan’s Jamie Dimon dismisses speculation about leading the Federal Reserve but leaves the door open for a Treasury role. The AI sector faces volatility as U.S. stocks dip amid competition from China’s DeepSeek, though analysts downplay long-term threats to Nvidia’s dominance. Regulatory and labor tensions simmer, with union leaders accusing the Trump administration of echoing divisive rhetoric, and the U.S. weighing expanded private-sector involvement in cyberwarfare, raising legal and ethical questions.
 
 **Top Articles:**
 - [How Activists in Iran Are Using Starlink to Stay Online](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Firan-online-starlink.html)
+- [Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html)
+- [CBS News report on ICE officer’s injuries drew ‘huge internal concern’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F15%2Fcbs-news-ice-officer-injuries)
 - [Leonard D. Jacoby, 83, Dies; Brought Legal Services to the Masses](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fleonard-d-jacoby-dead.html)
-- [Asian Tech Stocks to Rise on Renewed AI Optimism: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap)
-- [Trump Moves to Make Data Centers Pay for Surging Power Costs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftrump-to-direct-key-us-grid-operator-to-hold-emergency-auction)
-- [Dimon Says 'No Chance' He'd Take Fed Chair Position](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fdimon-says-no-chance-he-d-take-fed-chair-position-video)
+- [Tech Lifts Stocks as Small Caps Rally Anew | The Close 1/15/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-close-1-15-2026-video)
 
-**Sources**: archive.ph (63 articles)
+**Sources**: archive.ph (66 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocer Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi capturing a larger share of weekly shopping trips across income levels. The move reflects broader economic trends, as shoppers prioritize affordability amid persistent inflation and shifting spending habits. Aldi's strategy highlights the growing pressure on traditional supermarkets to adapt as discount chains expand their footprint and appeal. Meanwhile, the retail landscape continues to evolve, with consumers demonstrating a sustained preference for cost-effective alternatives without sacrificing quality.
+Aldi, the discount grocery chain, is accelerating its expansion in the U.S. with plans to open more than 180 new stores in 2026. The move underscores the growing competition in the grocery sector as budget-conscious consumers, regardless of income level, increasingly turn to discounters for their weekly shopping. Aldi's aggressive growth strategy highlights a broader shift in consumer behavior, with shoppers prioritizing value amid economic pressures. The expansion also signals intensifying rivalry with traditional supermarkets, which are struggling to retain customers drawn to lower prices and streamlined shopping experiences. Industry analysts note that Aldi's focus on efficiency and affordability is reshaping the retail landscape, forcing competitors to adapt or risk losing market share.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocer Aldi is accelerating its U.S. expansion, announcing plans to ope
 
 ## 📰 Other News
 
-Global markets and economic policies dominate headlines as oil prices stabilize after a sharp drop amid easing Iran tensions, while Venezuela's bonds surge following a surprise U.S. strike. Meanwhile, the U.S. pushes allies to reduce reliance on Chinese critical minerals, signaling a shift in trade strategy as the EU and South America finalize a massive free-trade agreement. Domestically, housing affordability remains a pressing issue, with Trump's administration grappling with rising costs and mortgage policies that undermine low-income homebuyers. Tech and media sectors see notable moves, including NBCUniversal's pivot to sports and Netflix's potential all-cash bid for Warner Bros. Discovery. Human interest stories highlight the strain on senior caregivers and the financial burdens of childcare, while cultural trends like the revival of *Gourmet Magazine* and AI-driven tools from Alibaba-backed PixVerse underscore evolving media and tech landscapes.
+This week's news highlights economic and policy tensions shaping markets and daily life. Oil prices stabilize after a sharp drop as U.S.-Iran tensions ease, while global funds reassess Asia strategies amid currency and stock market disruptions. Domestically, housing affordability remains a flashpoint, with Trump's administration grappling with rising costs and contradictory policies—his mortgage chief undermines affordability efforts even as the White House explores solutions. Meanwhile, tech and energy sectors face scrutiny: lawmakers debate data center energy costs, and Elon Musk's X restricts AI-generated explicit content under legal pressure. Human interest stories reveal strain on caregivers and families, from seniors managing pre-bereavement to parents cutting childcare due to soaring costs. Cultural shifts include the revival of *Gourmet* magazine as an unsanctioned newsletter and gyms adopting tap-in systems that frustrate patrons. Emerging trends like AI-driven video tools and a booming prediction market among young adults signal evolving consumer behaviors.
 
 **Top Articles:**
-- [Oil Holds Biggest Drop Since June as Iran Concerns Subside](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16)
-- [The ETF That Bought Venezuela at the Right Time](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-etf-that-bought-venezuela-at-the-right-time)
 - [State and Federal Lawmakers Want Data Centers to Pay More for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html)
+- [Oil Holds Biggest Drop Since June as Iran Concerns Subside](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16)
+- [Stocks, Currencies Rift Forces Funds to Rethink Asia Strategy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fa-long-held-tenet-of-asia-s-markets-is-suddenly-breaking-apart)
 - [White-Collar Enforcement Sinks Under Trump, Group Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fwhite-collar-enforcement-sinks-under-trump-public-citizen-says)
 - [College students and teens could be fueling the prediction markets boom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fprediction-markets-college-students-teens-could-be-fueling-the-boom.html)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 15, 2026 at 11:43 PM *
+*Digest generated on January 16, 2026 at 02:34 AM *

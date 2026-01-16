@@ -1,15 +1,87 @@
 [
   {
+    "title": "China National Team ETFs Log Record Outflows Amid Cooling Signal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-national-team-etfs-log-record-outflows-amid-cooling-signal",
+    "published": "Fri, 16 Jan 2026 02:00:29 CST",
+    "summary": "Some of the exchange‑traded funds heavily owned by China’s so‑called national\nteam saw record outflows on Thursday, a development that aligns with broader\nefforts to temper the stock market rally.\n\n"
+  },
+  {
+    "title": "China Clamps Down on High-Speed Traders, Removing Data Servers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-clamps-down-on-high-speed-traders-removing-data-servers",
+    "published": "Fri, 16 Jan 2026 01:38:17 CST",
+    "summary": "China is pulling the plug on a key advantage held by high-frequency traders,\nremoving servers dedicated to those firms out of local exchanges’ data\ncenters, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "US Firms Regain Optimism on China After Trump-Xi Trade Truce",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fus-firms-regain-optimism-on-china-after-trump-xi-trade-truce",
+    "published": "Fri, 16 Jan 2026 01:30:00 CST",
+    "summary": "US companies are more upbeat about doing business in China after a trade truce\nbetween President Donald Trump and Chinese leader Xi Jinping, according to a\nsurvey by the American Chamber of Commerce in China.\n\n"
+  },
+  {
+    "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html",
+    "published": "Fri, 16 Jan 2026 01:15:51 CST",
+    "summary": "Despite many proposals, there is little consensus among governors, lawmakers\nand tech executives about exactly how much the companies behind data centers\nshould pay for electricity.\n\n"
+  },
+  {
     "title": "How Activists in Iran Are Using Starlink to Stay Online",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Firan-online-starlink.html",
-    "published": "Thu, 15 Jan 2026 23:24:24 CST",
+    "published": "Fri, 16 Jan 2026 01:08:49 CST",
     "summary": "Activists spent years preparing for a communications blackout in Iran,\nsmuggling in Starlink satellite internet systems and making digital shutdowns\nharder for the authorities to enforce.\n\n"
+  },
+  {
+    "title": "Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
+    "published": "Fri, 16 Jan 2026 01:08:38 CST",
+    "summary": "The United States agreed to lower tariffs on Taiwanese goods from 20 to 15\npercent, while Taiwan says it will invest in more chip manufacturing in the\nU.S.\n\n"
+  },
+  {
+    "title": "CBS News report on ICE officer’s injuries drew ‘huge internal concern’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F15%2Fcbs-news-ice-officer-injuries",
+    "published": "Fri, 16 Jan 2026 01:04:04 CST",
+    "summary": "Anonymously sourced report that Jonathan Ross ‘suffered internal bleeding’\nafter killing Renee Good faced skepticism inside CBS newsroom\n\nSome CBS News employees expressed concern after the network cited two\nanonymous “US officials” on Wednesday to report that the ICE officer who\nfatally shot Renee Nicole Good in Minneapolis “suffered internal bleeding to\nthe torso” after the incident.\n\nCBS initially published the account about officer Jonathan Ross on X, formerly\nTwitter. About 30 minutes later, the network followed up with another post,\ncontaining a link to an article by two correspondents that similarly cited\n“two US officials briefed on his medical condition”.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "China’s $1.2 Trillion Windfall Quietly Seeps Into Global Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchina-s-1-2-trillion-windfall-quietly-seeps-into-global-markets",
+    "published": "Fri, 16 Jan 2026 01:00:19 CST",
+    "summary": "A record trade surplus racked up by China is washing up around the world, as\nexport earnings that once ended up in state coffers instead fund massive\nprivate purchases of overseas securities and business expansion abroad.\n\n"
   },
   {
     "title": "Leonard D. Jacoby, 83, Dies; Brought Legal Services to the Masses",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fleonard-d-jacoby-dead.html",
-    "published": "Thu, 15 Jan 2026 23:16:20 CST",
-    "summary": "He and Steven Z. Meyers opened their first low-cost legal clinic in 1972.\nWithin a decade, they had revolutionized the legal industry.\n\n"
+    "published": "Fri, 16 Jan 2026 00:25:32 CST",
+    "summary": "He and Steven Z. Meyers opened their first low-cost legal clinic in 1972.\nWithin a decade, they had revolutionized the legal industry, and Jacoby &\nMeyers had become a widely known brand.\n\n"
+  },
+  {
+    "title": "EM Fund Beating 97% of Peers Says Memory Chips Are Best Bet",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fem-fund-beating-97-of-peers-says-memory-chips-are-best-bet",
+    "published": "Fri, 16 Jan 2026 00:06:16 CST",
+    "summary": "Memory stocks are the place to be as artificial intelligence continues to push\nup chip demand over the next decade, according to emerging‑market equity fund\nmanager Divya Mathur at ClearBridge Investments.\n\n"
+  },
+  {
+    "title": "Silver’s Rally Slams Solar Makers Struggling With Losses",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fsilver-s-rally-slams-solar-makers-already-struggling-with-losses",
+    "published": "Fri, 16 Jan 2026 00:03:05 CST",
+    "summary": "Soaring prices for silver are putting an extra squeeze on solar panel makers\nas they look to end more than two years of losses amid brutal competition in\nthe sector.\n\n"
+  },
+  {
+    "title": "Tech Lifts Stocks as Small Caps Rally Anew | The Close 1/15/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fthe-close-1-15-2026-video",
+    "published": "Thu, 15 Jan 2026 23:45:03 CST",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Research Affiliates’ Jim Masturzo, Evercore ISI’s Jonathan\nChappell, Former US Treasury Secretary Jack Lew, Bahnsen Group’s David\nBahnsen, JPMorgan Chase’s Jamie Dimon, TWG Global’s Amos Hochstein, Christie’s\nBonnie Brennan. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "TSMC’s Huang Says Key to Managing FX Risk Is Keep It Simple",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsmc-s-huang-says-key-to-managing-fx-exposure-is-keep-it-simple",
+    "published": "Thu, 15 Jan 2026 23:43:44 CST",
+    "summary": "When you’re a dominant company in a small economy with huge overseas earnings,\nthe best way to manage your exposure to the vagaries of the currency market is\nto keep it simple, according to Taiwan Semiconductor Manufacturing Co.’s\nWendell Huang.\n\n"
+  },
+  {
+    "title": "Silver Dips After US Tariff Pause, But Set for Hefty Weekly Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fsilver-dips-after-us-pause-on-critical-minerals-import-tariff",
+    "published": "Thu, 15 Jan 2026 23:40:04 CST",
+    "summary": "Silver dropped on Friday after the US refrained from putting import tariffs on\ncritical minerals, but was still up 15% for the week on surging demand for\nprecious metals.\n\n"
   },
   {
     "title": "Christie’s CEO on 2026 Art Sales Outlook",
@@ -21,7 +93,7 @@
     "title": "Oil Holds Biggest Drop Since June as Iran Concerns Subside",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Flatest-oil-market-news-and-analysis-for-jan-16",
     "published": "Thu, 15 Jan 2026 23:14:47 CST",
-    "summary": "Oil steadied after its biggest decline since June after the US indicated it\nwould hold off on attacking Iran for now.\n\n"
+    "summary": "Oil steadied after its biggest decline since June as the US indicated it would\nhold off on attacking Iran for now.\n\n"
   },
   {
     "title": "Yen Watchers Face Double Whammy of BOJ, Election Uncertainty",
@@ -48,13 +120,13 @@
     "summary": "Jack Lew, former U.S. Treasury Secretary, says using legal prosecution to\npressure the Fed chair would set a dangerous precedent. He tells Romaine\nBostick and Katie Greifeld on “The Close” that framing it as a building issue\nmisses the broader threat to central bank independence. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "A Long-Held Tenet of Asia’s Markets Is Suddenly Breaking Apart",
+    "title": "Stocks, Currencies Rift Forces Funds to Rethink Asia Strategy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fa-long-held-tenet-of-asia-s-markets-is-suddenly-breaking-apart",
     "published": "Thu, 15 Jan 2026 23:00:00 CST",
     "summary": "A breakdown in the relationship between Asia’s stocks and its currencies is\nflashing a signal for global funds to rethink their investment strategy in the\nregion.\n\n"
   },
   {
-    "title": "‘Star Wars’ Boss Departs, Ending an Asteroid-Filled Reign",
+    "title": "Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html",
     "published": "Thu, 15 Jan 2026 22:49:29 CST",
     "summary": "Kathleen Kennedy stepped down as Lucasfilm’s president and returned to\nproducing. Two studio veterans took over.\n\n"
@@ -66,10 +138,10 @@
     "summary": "JPMorgan CEO Jamie Dimon told Bloomberg's David Rubenstein that he sees a lot\nof good 'short term things' in the US economy, including Trump's 'big\nbeautiful bill' and deregulation coming out of the White House. Dimon also\ncalled on industry leaders to put the good of the US above their own companies\nor profits, saying that there is too much focused on self-interest and people\nshould 'open our eyes' and do the right things. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Asian Tech Stocks to Rise on Renewed AI Optimism: Markets Wrap",
+    "title": "Asian Stocks Set Record as Tech Rally Powers On: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fasian-tech-stocks-to-rise-on-renewed-ai-optimism-markets-wrap",
     "published": "Thu, 15 Jan 2026 22:40:15 CST",
-    "summary": "Asian technology stocks are set to gain after US equities recovered from their\nfirst back-to-back losses of the year, reviving confidence in the sector.\n\n"
+    "summary": "Asia’s tech-led rally pushed to new highs after strong earnings from a chip\nbellwether eased worries about overheating in the artificial intelligence\nsector and encouraged investors to add bets.\n\n"
   },
   {
     "title": "Trump Moves to Make Data Centers Pay for Surging Power Costs",
@@ -108,10 +180,10 @@
     "summary": "For 30 years, Japan’s prices were largely at a standstill. Now a weak yen has\nchanged everything. Here’s how consumers and businesses are coping with rising\ncosts, and what it means for the future. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "JPMorgan's Dimon Says Chipping Away at Fed Will Drive Rates Higher",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fdimon-says-chipping-away-at-fed-will-drive-rates-higher-video",
-    "published": "Thu, 15 Jan 2026 21:54:23 CST",
-    "summary": "JPMorgan Chase Chair and CEO Jamie Dimon weighs in on the independence of the\nFederal Reserve during an interview with David Rubenstein at the US Chamber of\nCommerce's 2026 State of American Business. (Source: Bloomberg)\n\n"
+    "title": "Japan’s Muni Bond Yields Hit Decades High, Straining Finances",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fjapan-s-muni-bond-yields-hit-decades-high-straining-finances",
+    "published": "Thu, 15 Jan 2026 22:00:00 CST",
+    "summary": "The first wave of Japanese local government issuers selling municipal bonds\nthis year will face some of the highest funding costs in decades, as market\nyields rose after the Bank of Japan’s December rate hike and Prime Minister\nSanae Takaichi’s plans for a snap election.\n\n"
   },
   {
     "title": "Italian Court Closes Fraud Case Against Influencer Chiara Ferragni",
@@ -120,10 +192,10 @@
     "summary": "A judge dropped the case against Ms. Ferragni, who had been embroiled in a\nscandal over sales of a limited edition Christmas cake marketed as supporting\ncancer treatment.\n\n"
   },
   {
-    "title": "JPMorgan's Dimon Wants to Stay in Job 'At Least' 5 More Years",
+    "title": "JPMorgan's Dimon Says Up to Board on How Long He Stays CEO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fjpm-s-dimon-wants-to-stay-in-job-at-least-5-more-years-video",
     "published": "Thu, 15 Jan 2026 21:40:40 CST",
-    "summary": "JPMorgan Chase Chair and CEO Jamie Dimon says he wants to remain the company's\nCEO for at least five more years during an interview with David Rubenstein at\nthe US Chamber of Commerce's 2026 State Of American Business. (Source:\nBloomberg)\n\n"
+    "summary": "JPMorgan Chase Chair and CEO Jamie Dimon says he wants to remain the company's\nCEO during an interview with David Rubenstein at the US Chamber of Commerce's\n2026 State of American Business. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
@@ -132,28 +204,16 @@
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
   },
   {
-    "title": "The ETF That Bought Venezuela at the Right Time",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-etf-that-bought-venezuela-at-the-right-time",
-    "published": "Thu, 15 Jan 2026 21:33:18 CST",
-    "summary": "Venezuela bonds were up 100% even before the surprise US strike. Then they\nwent up another 30%.\n\n"
+    "title": "The US Treasury Market’s Inertia Is Nearing Historic Levels",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fthe-us-treasury-market-s-inertia-is-nearing-historic-levels",
+    "published": "Thu, 15 Jan 2026 21:12:01 CST",
+    "summary": "The 10-year Treasury note’s yield is headed for a fifth straight week of\nminimal change, rivaling its longest stretch of inertia in the past two\ndecades.\n\n"
   },
   {
-    "title": "Venezuela to Set up Funds for Oil Revenues and Amend Energy Law",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fvenezuela-to-set-up-funds-for-oil-revenues-and-amend-energy-law",
-    "published": "Thu, 15 Jan 2026 21:22:48 CST",
-    "summary": "Venezuela’s acting President Delcy Rodríguez presented a reform to the\nnation’s hydrocarbons law and announced the creation of two funds into which\ndollars from oil sales will be funneled.\n\n"
-  },
-  {
-    "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html",
-    "published": "Thu, 15 Jan 2026 21:17:02 CST",
-    "summary": "Many proposals have been introduced, but there is little consensus among\ngovernors, Congress members and tech executives about exactly how much the\ncompanies behind data centers should pay for electricity.\n\n"
-  },
-  {
-    "title": "Foreign Holdings of US Treasuries Climbed to Record in November",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fforeign-holdings-of-us-treasuries-climbed-to-record-in-november",
-    "published": "Thu, 15 Jan 2026 21:15:21 CST",
-    "summary": "Overseas holdings of US Treasuries advanced in November to the highest level\non record, with increases in Norwegian, Canadian and Saudi Arabian stockpiles\nhelping offset another monthly drop in China’s total.\n\n"
+    "title": "Panama to Rule on Fate of Shuttered Copper Mine in June",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fpanama-targets-june-decision-on-fate-of-shuttered-copper-mine",
+    "published": "Thu, 15 Jan 2026 21:10:27 CST",
+    "summary": "Panama expects to decide in the coming months whether to restart a vast mine\nthat has become one of the biggest uncertainties in the global copper market.\n\n"
   },
   {
     "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
@@ -192,12 +252,6 @@
     "summary": "This week, Bank of America, Citi, JPMorgan and Wells Fargo released fraught\nearnings reports as President Trump’s threatened cap on credit card rates\nloomed large.\n\n"
   },
   {
-    "title": "Bank CEOs Say $134 Billion Trading Record Is Just the Start",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fbank-ceos-say-record-134-billion-trading-haul-is-just-the-start",
-    "published": "Thu, 15 Jan 2026 19:08:11 CST",
-    "summary": "Morgan Stanley Chief Executive Officer Ted Pick started summing up his outlook\nafter Wall Street’s banner year for trading with four words: “The setup is\nideal.”\n\n"
-  },
-  {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Fcoinbase-crypto-bill-clarity-act.html",
     "published": "Thu, 15 Jan 2026 19:00:18 CST",
@@ -220,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html",
     "published": "Thu, 15 Jan 2026 18:03:39 CST",
     "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
-  },
-  {
-    "title": "Morgan Stanley Raises $8 Billion From US Dollar Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fmorgan-stanley-to-sell-8-billion-from-us-dollar-bond-sale",
-    "published": "Thu, 15 Jan 2026 17:56:19 CST",
-    "summary": "Morgan Stanley sold $8 billion of bonds as Wall Street banks flooded the debt\nmarkets after earnings.\n\n"
   },
   {
     "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
@@ -264,24 +312,6 @@
     "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus, but didn't have\nenough money left over to pay vendors, which led the company to declare\nbankruptcy.\n\n"
   },
   {
-    "title": "TSX Clears 33,000 For First Time as Tech Names Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Ftsx-clears-33-000-for-first-time-as-tech-names-rise",
-    "published": "Thu, 15 Jan 2026 15:13:42 CST",
-    "summary": "The S&P/TSX Composite Index surpassed 33,000 for the first time on Thursday.\nThe broad benchmark for Canadian stocks gained 0.3% to close at a record\n33,029, powered by gains in tech and industrials shares.\n\n"
-  },
-  {
-    "title": "S&amp;P 500 Advances But Falls Short of Record After Lift From AI",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-stocks-rally-as-tsmc-earnings-renew-faith-in-ai-trade",
-    "published": "Thu, 15 Jan 2026 15:02:18 CST",
-    "summary": "US stocks bounced back from a two-day drop but ultimately fell short of\nreaching a fresh record close on Thursday.\n\n"
-  },
-  {
-    "title": "Paramount Loses Bid to Get Warner Bros. Suit on Fast Track",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fparamount-loses-bid-to-get-warner-bros-suit-put-on-fast-track",
-    "published": "Thu, 15 Jan 2026 15:01:16 CST",
-    "summary": "A judge refused to fast track Paramount Skydance Corp.’s lawsuit accusing\ndirectors of Warner Bros. Discovery Inc. of misleading investors about a more\nthan $82.7 billion buyout bid from Netflix Inc.\n\n"
-  },
-  {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html",
     "published": "Thu, 15 Jan 2026 14:53:55 CST",
@@ -316,12 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmoodys-commercial-real-estate-dealmaking-november.html",
     "published": "Thu, 15 Jan 2026 13:12:45 CST",
     "summary": "The multifamily sector saw the majority of November deals, recording 20\ntransactions, followed by office with 11 and industrial with eight.\n\n"
-  },
-  {
-    "title": "US Asks Allies to Step Up Measures on Chinese Minerals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Fus-asks-allies-to-step-up-measures-on-chinese-critical-minerals",
-    "published": "Thu, 15 Jan 2026 13:04:42 CST",
-    "summary": "The US will convene dozens of foreign ministers from allied countries next\nmonth to pursue an agreement designed to help reduce their dependencies on\nChinese critical minerals.\n\n"
   },
   {
     "title": "Goldman Raising $16 Billion in Record Wall Street Bank Bond Sale",
@@ -402,12 +426,6 @@
     "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
   },
   {
-    "title": "Cocoa Hits Two-Year Low as Europe Grinds Fewest Beans Since 2013",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-15%2Feurope-cocoa-grindings-sink-more-than-expected-as-demand-craters",
-    "published": "Thu, 15 Jan 2026 08:09:05 CST",
-    "summary": "Cocoa futures fell to a two-year low in London after Europe’s cocoa processing\nposted a steeper-than-expected slump, showing the extent of demand destruction\nas the industry reels from the lingering impact of record prices.\n\n"
-  },
-  {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
     "published": "Thu, 15 Jan 2026 03:50:17 CST",
@@ -436,12 +454,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fhealth%2Fmedicare-advantage-kaiser-overbilling-fraud.html",
     "published": "Wed, 14 Jan 2026 23:07:04 CST",
     "summary": "The Justice Department and whistle-blowers accused the major health insurer of\noverbilling the government for about $1 billion under the private plans.\n\n"
-  },
-  {
-    "title": "Stocks Get AI Boost as Small Caps Keep Rallying: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-14%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Wed, 14 Jan 2026 22:43:16 CST",
-    "summary": "Stocks rebounded as a blowout outlook from an artificial-intelligence\nbellwether revived hopes about the longevity of a key bull-market driver while\nsigns of economic strength lifted small caps.\n\n"
   },
   {
     "title": "Food Prices Keep Climbing, Rattling Consumers and Trump",
@@ -652,12 +664,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F14%2Fchild-care-cost-cuts%2F",
     "published": "Wed, 14 Jan 2026 10:00:00 CST",
     "summary": "Research shows 1 in 5 families face child care hardships because of the\nexpense, with single mothers most affected.\n\n"
-  },
-  {
-    "title": "Netflix ‘plans to switch to all-cash offer to seal $83bn Warner Bros deal’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2026%2Fjan%2F14%2Fnetflix-plans-to-switch-to-all-cash-offer-to-seal-warner-bros-deal",
-    "published": "Wed, 14 Jan 2026 09:12:22 CST",
-    "summary": "Aim is to speed up acquisition of WBD studio and streaming businesses and hold\noff rival Paramount bid\n\nNetflix is reportedly preparing to switch to an all-cash offer to seal its\ntakeover of the studios and streaming businesses of Warner Bros Discovery\n(WBD), as it tries to speed up the deal and fend off a rival hostile bid from\nParamount Skydance.\n\nThe changes to Netflix’s $83bn (£62bn) offer, first reported by Bloomberg, are\ndesigned to accelerate the acquisition, which is expected to take months to\nconclude, and make it more palatable for WBD shareholders.\n\nContinue reading...\n\n"
   },
   {
     "title": "What the Bankruptcy of Saks Means for You",
