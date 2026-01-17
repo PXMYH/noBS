@@ -1,4 +1,4 @@
-# NoBS News Digest - January 16, 2026
+# NoBS News Digest - January 17, 2026
 
 Generated from **216** unique articles (deduplicated from 216 total) across **1** news sources
 
@@ -6,52 +6,52 @@ Generated from **216** unique articles (deduplicated from 216 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate this week’s headlines, with the Trump administration making bold moves on multiple fronts. The U.S. Federal Aviation Administration issues warnings about military activity in Latin American airspace, urging caution over parts of the Pacific near Mexico, Colombia, Ecuador, and Panama, signaling heightened regional tensions. Meanwhile, Venezuela, under Acting President Delcy Rodríguez, secures its first liquefied petroleum gas (LPG) export deal, a potential economic lifeline amid ongoing U.S. sanctions. However, Trump’s push to exploit Venezuela’s oil resources faces skepticism from major energy firms, who may prefer domestic alternatives. On the diplomatic front, Canada’s former central bank governor, Mark Carney, travels to Beijing to repair strained Canada-China relations, seeking new trade opportunities as U.S. ties with China deteriorate. Domestically, the Trump administration tightens immigration policies, indefinitely suspending visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. The Pentagon also announces plans to overhaul the independent military newspaper *Stars and Stripes*, criticizing its editorial stance as 'woke' and increasing Defense Department control. These developments underscore a period of assertive U.S. policy shifts, regional instability, and evolving global alliances.
+Geopolitical tensions and domestic policy shifts dominate global headlines this week. In Japan, Prime Minister Sanae Takaichi is reportedly considering a temporary suspension of the sales tax on food as part of her election campaign, signaling potential economic relief ahead of an expected parliamentary dissolution. Meanwhile, the U.S. under President Donald Trump continues to make bold moves, halting immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. The administration also warns of heightened military activity in the Pacific near Latin American nations, with the FAA issuing advisories for pilots to avoid certain oceanic regions. On the energy front, Venezuela secures its first LPG export deal under Acting President Delcy Rodríguez, though U.S. oil giants remain hesitant to engage with Trump’s push for Venezuelan oil, preferring domestic sources. Diplomatically, former Bank of Canada Governor Mark Carney travels to Beijing to strengthen Canada-China relations amid worsening U.S.-China ties, reflecting a broader realignment in global trade dynamics.
 
 **Top Articles:**
+- [Takaichi to Mull Suspension of Food Sales Tax, Mainichi Reports](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Ftakaichi-to-mull-suspension-of-food-sales-tax-mainichi-reports)
 - [Trump bought $1M in Netflix, Warner Bros. bonds after merger announcement](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-bought-1m-netflix-warner-bros-bonds-after-merger-announcement%2F)
 - [F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html)
 - [Venezuela Signs First Gas Export Deal, Citing LPG Contract](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fvenezuela-signs-first-gas-export-deal-citing-lpg-contract)
 - [Pentagon to overhaul independent military newspaper, calling it ‘woke’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F)
-- [Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
 
-**Sources**: archive.ph (8 articles)
+**Sources**: archive.ph (9 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of political uncertainty and economic shifts as President Trump's disruptive policy proposals—including a potential 10% cap on credit card interest rates and a ban on corporate single-family home purchases—rattle Wall Street. The Federal Reserve remains a focal point, with Vice Chair Philip Jefferson asserting current monetary policy is 'well positioned,' while traders push back expectations for rate cuts to June amid lingering inflation concerns. Meanwhile, corporate earnings reveal mixed results: Morgan Stanley and Goldman Sachs outperformed estimates, but Bank of America, Citi, JPMorgan, and Wells Fargo fell short, pressured by regulatory threats. In other developments, Novo Nordisk surged 8% on strong Wegovy sales, while Saks' bankruptcy filing after its Neiman Marcus acquisition highlights risks in the retail sector. IPO activity continues with defense firm York Space Systems and biopharma company SpyGlass Pharma seeking public listings, even as hedge funds like Roscommon Analytics scale back operations amid market volatility.
+Markets are navigating a mix of political and economic pressures as President Trump's disruptive agenda rattles Wall Street. The Justice Department's criminal subpoena of Fed Chair Jerome Powell and Trump's push for a 10% credit card interest rate cap have sparked concerns over central bank independence and financial sector stability. Despite these tensions, Fed Vice Chair Philip Jefferson asserts that current monetary policy is 'well positioned,' though traders now expect no rate cuts before June. Meanwhile, corporate earnings reveal mixed results: while Morgan Stanley and Goldman Sachs outperformed expectations, major banks like JPMorgan and Bank of America fell short amid regulatory uncertainty. In other developments, Novo Nordisk surged 8% on strong Wegovy sales, and York Space Systems filed for a $544 million IPO, signaling continued investor appetite for defense and biotech sectors. The bankruptcy of Saks, following its troubled acquisition of Neiman Marcus, underscores retail sector struggles, while Ecuador's planned return to global debt markets highlights shifting emerging market dynamics.
 
 **Top Articles:**
+- [Bill Dudley: Trump Pressure on Powell ‘Counterproductive’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fdudley-trump-pressure-on-powell-counterproductive-video)
+- [Why Banks Are So Worried About a 10% Credit Card Rate Cap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Ftrump-credit-card-interest-rate-cap-banks.html)
+- [Russell 2000 Rallies as Small Caps Outperform Broader Market | The Close 1/16/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fthe-close-1-16-2026-video)
 - [Fmr. FDIC Chair: Supreme Court Could Step In to Protect Fed](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbair-supreme-court-could-step-in-to-protect-fed-video)
 - [Takaichi Trade Faces Risks From Inflation, Yen Slump, Yield Jump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ftakaichi-trade-faces-risks-from-inflation-yen-slump-yield-jump)
-- [Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes)
-- [What you need to know about the latest US bank earnings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video)
-- [Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html)
 
-**Sources**: archive.ph (106 articles)
+**Sources**: archive.ph (104 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines highlight significant developments in tech, AI, and global trade, alongside corporate and regulatory shifts. OpenAI announces plans to introduce advertisements in ChatGPT for US users, marking a new revenue strategy for its flagship AI product. Meanwhile, the Trump administration imposes a 25% tariff on select AI chips, including Nvidia’s H200 and AMD’s MI325X, citing national security concerns, while also finalizing a trade deal with Taiwan that includes tariff reductions and commitments from TSMC to expand US chip manufacturing. In corporate news, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, though safety concerns resurface after an NTSB report reveals prior knowledge of flaws in a crashed UPS plane. Additionally, the SEC approves new expiration dates for 'Magnificent Seven' stock options, signaling a move toward daily expiries in single-stock options. Regulatory and labor tensions also emerge, with union leaders criticizing the Trump administration’s labor department rhetoric as echoing extremist language, while the UK economy shows unexpected growth despite budget uncertainties.
+This week's headlines are dominated by major tech and economic developments, with OpenAI announcing plans to introduce advertisements in ChatGPT for U.S. users, marking a significant shift in monetization for its flagship AI product. Meanwhile, the Trump administration imposes a 25% tariff on select AI chips, including Nvidia's H200 and AMD's MI325X, citing national security concerns, though exemptions for data centers and consumers soften the impact. In corporate news, Boeing outperforms Airbus in 2025 deliveries for the first time since 2018, while Uber doubles down on its expansion in Japan through rural markets. Regulatory and legal stories include Southern California Edison suing Los Angeles County over delayed wildfire evacuation alerts, and the SEC approving new expiration rules for 'Magnificent Seven' stock options. Economic trends highlight a potential surge in mega IPOs in 2026, with SpaceX, OpenAI, and Anthropic eyed as key players, while McKinsey's Chris Bradley declares a new economic era defined by disruption and volatility.
 
 **Top Articles:**
-- [AlixPartners Exec. Chairman: Disruption the New Norm Among CEOs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ffreakley-disruption-the-new-norm-among-ceos-video)
-- [WestJet Backpedals on Economy Seats That Don’t Recline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Ftravel%2Fwestjet-non-reclinable-economy-seats.html)
-- [Mag 7 Stock Options Get SEC Nod for Monday, Wednesday Expiries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmag-7-stock-options-get-sec-nod-for-monday-wednesday-expiries)
-- [Edison Sues LA County Over Fire Deaths for Delayed Alerts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fedison-blames-la-county-for-wildfire-deaths-over-delayed-alerts)
 - [Edison Files Claims Against Los Angeles County and Others on Eaton Fire](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fenergy-environment%2Fsouthern-california-edison-eaton-fire.html)
+- [Mckinsey’s Bradley: We’re in a New Economic Era](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fmckinsey-s-bradley-we-re-in-a-new-economic-era-video)
+- [Your Tax Refund Could Be Taken if You’ve Defaulted on Student Loans: What to Know](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fyour-money%2Ftax-refunds-student-loans-default.html)
+- [H&amp;F Explores $9 Billion-Plus Sale of Medical Device Maker Cordis](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fh-f-explores-9-billion-plus-sale-of-medical-device-maker-cordis)
+- [AlixPartners Exec. Chairman: Disruption the New Norm Among CEOs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Ffreakley-disruption-the-new-norm-among-ceos-video)
 
-**Sources**: archive.ph (70 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi capturing a larger share of weekly shopping trips across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures push shoppers toward more affordable alternatives, challenging traditional supermarket chains. Aldi's expansion strategy includes both new locations and remodels, aiming to enhance its footprint in key markets while maintaining its low-price model. Industry analysts note that the shift could further disrupt the grocery landscape, forcing competitors to adjust pricing and promotions to retain customers.
+Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discounters for their weekly shopping. The aggressive growth underscores rising competition in the grocery sector, with Aldi and other value-focused retailers drawing shoppers away from traditional supermarkets. The move reflects broader economic trends, as inflation and cost-of-living pressures push consumers across income levels to prioritize affordability without sacrificing quality. Aldi's strategy includes modernizing stores and expanding its product offerings, further intensifying pressure on established grocers to adapt. The expansion also signals confidence in the discounter's long-term growth, with plans to strengthen its footprint in both urban and suburban markets.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic pressures, corporate maneuvers, and societal shifts. Financial markets are reacting to geopolitical tensions, with hedge funds turning bullish on Brent oil amid unrest in Iran, while natural gas prices fluctuate due to shifting weather forecasts. Meanwhile, corporate developments include AgomAb Therapeutics filing for a U.S. IPO to fund immune disease treatments, and Netflix potentially adjusting its offer for Warner Bros. Discovery’s streaming assets to an all-cash deal. On the social front, rising food prices and housing affordability crises dominate, with the Trump administration exploring aggressive measures to lower costs, even as Fannie Mae and Freddie Mac pull back from low-income homebuyer support. A notable human interest story emerges as seniors increasingly take on solo caregiving roles, facing emotional and financial strain. Additionally, the E.U. and South America’s push for a massive free-trade zone contrasts with U.S. protectionist trends, underscoring global economic divides.
+This week's news highlights a mix of economic pressures, corporate maneuvers, and societal shifts. In the financial sector, hedge funds are turning bullish on Brent oil amid geopolitical tensions in Iran, while AgomAb Therapeutics files for a U.S. IPO to fund immune system drug trials. Meanwhile, the Federal Reserve faces scrutiny over its handling of a criminal probe involving Chair Jerome Powell, underscoring ongoing tensions between monetary policy and political oversight. On the housing front, President Trump’s administration grapples with rising costs, with conflicting signals from his mortgage chief undermining affordability efforts, even as more states raise minimum wages to $15 or higher. Culturally, Netflix’s potential all-cash bid for Warner Bros. Discovery’s streaming assets signals a major shift in media consolidation, while Elon Musk’s X platform restricts AI-generated explicit content under legal pressure. Human interest stories emerge in the struggles of elderly caregivers and the labor shortages in industries like roofing, where immigrant workers now dominate. Energy markets also see volatility, with natural gas prices fluctuating due to shifting weather forecasts, and a major Permian Basin deal reshaping the sector.
 
 **Top Articles:**
 - [Belgian Immune System Drugmaker AgomAb Files for US IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbelgian-immune-system-drugmaker-agomab-files-for-us-ipo)
 - [Hedge Funds Turn More Bullish on Brent Oil as Iran Risks Swirl](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-funds-turn-more-bullish-on-brent-oil-as-iran-risks-swirl)
-- [Florida’s Brightline Skips Second Payment on Subordinate Munis](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fflorida-s-brightline-skips-second-payment-on-subordinate-munis)
-- [Your Tax Refund Could Be Taken if You’ve Defaulted on Student Loans: What to Know](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fyour-money%2Ftax-refunds-student-loans-default.html)
 - [Mixed signals and suspicions fueled clash between Fed and prosecutors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F16%2Ffederal-reserve-trump-investigation-pirro%2F)
+- [State and Federal Lawmakers Want Data Centers to Pay More for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html)
+- [College students and teens could be fueling the prediction markets boom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fprediction-markets-college-students-teens-could-be-fueling-the-boom.html)
 
-**Sources**: archive.ph (31 articles)
+**Sources**: archive.ph (29 articles)
 
 ---
 
-*Digest generated on January 16, 2026 at 11:42 PM *
+*Digest generated on January 17, 2026 at 02:27 AM *
