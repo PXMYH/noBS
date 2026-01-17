@@ -2,17 +2,29 @@
   {
     "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
-    "published": "Sat, 17 Jan 2026 20:32:00 CST",
+    "published": "Sat, 17 Jan 2026 21:34:17 CST",
     "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
   },
   {
-    "title": "EU Set to Halt US Trade Deal Over Trump’s Latest Tariff Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat",
-    "published": "Sat, 17 Jan 2026 20:26:18 CST",
-    "summary": "European Union lawmakers are poised to block approval of the EU’s trade deal\nwith the US over President Donald Trump’s vow to impose tariffs on countries\nthat supported Greenland in the face of American threats.\n\n"
+    "title": "BOJ Keeps Yen Watchers on Edge for Rate-Hike Clues",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fboj-keeps-yen-watchers-on-edge-for-rate-hike-clues",
+    "published": "Sat, 17 Jan 2026 21:00:00 CST",
+    "summary": "The upcoming Bank of Japan meeting offers scope for sharp movements in the yen\nas investors try to gauge the timing of its next hike -- with a looming\nelection adding to the confusion.\n\n"
   },
   {
-    "title": "Sweetgreen Chief Development Officer to Leave Chain",
+    "title": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fmedia%2Fcbs-news-trump-interview.html",
+    "published": "Sat, 17 Jan 2026 20:51:53 CST",
+    "summary": "In previously unreported remarks, the White House press secretary Karoline\nLeavitt told CBS News that Mr. Trump would “sue” the news outlet if it did not\nair an interview unedited.\n\n"
+  },
+  {
+    "title": "EU Set to Halt US Trade Deal Over Trump’s New Tariff Threat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat",
+    "published": "Sat, 17 Jan 2026 20:26:18 CST",
+    "summary": "European Union lawmakers are poised to halt approval of the EU’s trade deal\nwith the US over President Donald Trump’s vow to impose tariffs on countries\nthat supported Greenland in the face of American threats.\n\n"
+  },
+  {
+    "title": "Sweetgreen Chief Development Officer Tarrant to Leave Chain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fsweetgreen-chief-development-officer-to-leave-restaurant-chain",
     "published": "Sat, 17 Jan 2026 20:20:43 CST",
     "summary": "Sweetgreen Inc. Chief Development Officer Chris Tarrant is leaving the\nrestaurant chain after a more than a year leading the company’s efforts to\nexpand its footprint.\n\n"
@@ -298,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fedison-blames-la-county-for-wildfire-deaths-over-delayed-alerts",
     "published": "Fri, 16 Jan 2026 23:08:07 CST",
     "summary": "Edison International sued Los Angeles County and other public agencies for\nallegedly failing to ensure timely evacuation alerts that the company says\ncould have saved most of the 19 people who died in a massive wildfire last\nyear.\n\n"
-  },
-  {
-    "title": "Belgian Immune System Drugmaker AgomAb Files for US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbelgian-immune-system-drugmaker-agomab-files-for-us-ipo",
-    "published": "Fri, 16 Jan 2026 23:05:19 CST",
-    "summary": "AgomAb Therapeutics NV filed for a initial public offering in the US to help\nfund trials of its drugs to treat immune and inflammation diseases.\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -802,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
     "published": "Wed, 14 Jan 2026 15:45:19 CST",
     "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
-  },
-  {
-    "title": "The Swedish Start-Up Aiming to Conquer America’s Full-Body-Scan Craze",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fneko-health-expansion.html",
-    "published": "Wed, 14 Jan 2026 15:19:05 CST",
-    "summary": "Neko Health, backed by the Spotify founder Daniel Ek, plans to open in New\nYork this spring.\n\n"
   },
   {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
