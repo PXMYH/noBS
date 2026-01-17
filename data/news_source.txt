@@ -1,5 +1,23 @@
 [
   {
+    "title": "NASA Starts Artemis II Roll Out to Kennedy Space Center",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fnasa-starts-artemis-ii-roll-out-to-kennedy-space-center-video",
+    "published": "Sat, 17 Jan 2026 14:23:50 CST",
+    "summary": "NASA started rolled out of the Artemis II rocket to the Kennedy Space Center\nlaunch pad, in Florida, on Saturday. Artemis II is a milestone in the lunar\nspace race between the US and China. The rocket's short 4-mile long trip will\ntake the team as long as 12 hours, according to a NASA. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Zelenskiy Says Russian Strikes Undermine Prospects for Dialogue",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fzelenskiy-says-russian-strikes-undermine-prospects-for-dialogue",
+    "published": "Sat, 17 Jan 2026 14:18:28 CST",
+    "summary": "Constant airstrikes by Kremlin forces are undermining “even the small\nopportunities for dialogue” between Kyiv and Moscow, said President Volodymyr\nZelenskiy.\n\n"
+  },
+  {
+    "title": "Pricey Equity Markets Charge Into a High-Stakes Earnings Season",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fpricey-equity-markets-charge-into-a-high-stakes-earnings-season",
+    "published": "Sat, 17 Jan 2026 14:00:00 CST",
+    "summary": "So far, so good for global equity investors looking to clock a fourth straight\nyear of solid returns as stocks rise in tandem from Tokyo to Paris to New\nYork.\n\n"
+  },
+  {
     "title": "Machado Takes a New Tack to Win Trump’s Backing on Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fmachado-takes-a-new-tack-to-win-trump-s-backing-on-venezuela",
     "published": "Sat, 17 Jan 2026 13:30:00 CST",
@@ -62,7 +80,7 @@
   {
     "title": "As Office Rents Rise, Doctors Get Creative",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
-    "published": "Sat, 17 Jan 2026 10:00:28 CST",
+    "published": "Sat, 17 Jan 2026 10:00:29 CST",
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
   },
   {
@@ -240,18 +258,6 @@
     "summary": "Venezuela has signed its first contract to export liquefied petroleum gas, or\nLPG, Acting President Delcy Rodríguez said Friday.\n\n"
   },
   {
-    "title": "Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes",
-    "published": "Fri, 16 Jan 2026 22:40:38 CST",
-    "summary": "Trinseo PLC is preparing to start negotiations with its creditors as the\nchemical company seeks to shore up its balance sheet amid slumping sales.\n\n"
-  },
-  {
-    "title": "What you need to know about the latest US bank earnings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video",
-    "published": "Fri, 16 Jan 2026 22:38:53 CST",
-    "summary": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six\nUS banks reported. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html",
     "published": "Fri, 16 Jan 2026 22:33:25 CST",
@@ -262,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdefense-firm-york-space-systems-seeks-544-million-in-us-ipo",
     "published": "Fri, 16 Jan 2026 22:29:18 CST",
     "summary": "York Space Systems Inc., a space and defense firm backed by AE Industrial\nPartners, is seeking to raise as much as $544 million in an initial public\noffering.\n\n"
-  },
-  {
-    "title": "How Investors Fall Into Bias Traps: Masters in Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-investors-fall-into-bias-traps-masters-in-business-video",
-    "published": "Fri, 16 Jan 2026 22:06:42 CST",
-    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
