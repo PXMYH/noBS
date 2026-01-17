@@ -1,5 +1,11 @@
 [
   {
+    "title": "China Lowers Downpayment Ratio for Commercial Property to 30%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-lowers-downpayment-ratio-for-commercial-property-to-30",
+    "published": "Sat, 17 Jan 2026 08:41:18 CST",
+    "summary": "The People’s Bank of China has lowered the minimum downpayment ratio for\ncommercial property purchases to 30%, the central bank said in a statement\nSaturday.\n\n"
+  },
+  {
     "title": "Zelenskiy Courts Potential Challengers With US Calling for Vote",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fzelenskiy-courts-potential-challengers-with-us-calling-for-vote",
     "published": "Sat, 17 Jan 2026 08:30:00 CST",
@@ -214,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fcredit-market-isn-t-too-complacent-matthew-mish-video",
     "published": "Fri, 16 Jan 2026 21:25:17 CST",
     "summary": "Global credit markets are running at their hottest in two decades, prompting\nsome of the world’s biggest money managers to warn against complacency about\nthe risks. Yield premiums on corporate debt have fallen to just over one\npercentage point, the least since June 2007, amid confidence about the\neconomic outlook, a Bloomberg index of bonds across currencies and ratings\nshows. On \"Bloomberg Real Yield\", Matthew Mish, head of credit strategy at UBS\nInvestment Bank, and Matt Brill, head of North American investment grade\ncredit at Invesco, talk with Bloomberg's Scarlet Fu about the credit market.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Hedge Fund Roscommon Analytics Shutters US Gas Desk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-fund-roscommon-analytics-shutters-us-gas-desk",
-    "published": "Fri, 16 Jan 2026 21:24:39 CST",
-    "summary": "Hedge fund Roscommon Analytics is moving to close its gas trading business\nfollowing losses in the energy market, according to people familiar with the\nmatter.\n\n"
   },
   {
     "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has 'solid' launch",
