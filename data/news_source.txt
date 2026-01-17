@@ -1,5 +1,23 @@
 [
   {
+    "title": "A United Front at the Fed and in Israel",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-17%2Fwhat-doj-subpoenas-mean-for-the-fed-and-what-war-means-for-israel-s-startups",
+    "published": "Sat, 17 Jan 2026 13:00:07 CST",
+    "summary": "Grand jury subpoenas could backfire on the Fed\n\n"
+  },
+  {
+    "title": "Big Oil’s Complicated Calculus for Investing in Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdealbook%2Fvenezuela-oil.html",
+    "published": "Sat, 17 Jan 2026 13:00:05 CST",
+    "summary": "The industry has long prioritized projects with quick and reliable payback.\nTrump is pushing for a return to risk.\n\n"
+  },
+  {
+    "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fdisney-dominated-2025-box-office.html",
+    "published": "Sat, 17 Jan 2026 13:00:01 CST",
+    "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul.\nIt looks to be a dominant force in 2026, too.\n\n"
+  },
+  {
     "title": "Why you may just be renting your car even if you have a loan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F17%2F7-year-car-loan-affordability-underwater%2F",
     "published": "Sat, 17 Jan 2026 11:00:00 CST",
@@ -40,6 +58,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fblack-women-job-market-hiring-careers-dei.html",
     "published": "Sat, 17 Jan 2026 10:00:08 CST",
     "summary": "Black female professionals have seen a steep drop in employment over the last\nyear. They are turning to each other for pep talks and résumé advice.\n\n"
+  },
+  {
+    "title": "EU Aims to Fight Industrial Decline With ‘Made in Europe’ Law",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-aims-to-fight-industrial-decline-with-made-in-europe-law",
+    "published": "Sat, 17 Jan 2026 09:52:40 CST",
+    "summary": "The European Union is set to propose a swathe of new conditions to ensure\nlocal companies are prioritized when investment decisions are made in the\nregion by member-states and foreign firms, upending a free-trade philosophy\nthat has governed decades of policy.\n\n"
   },
   {
     "title": "HDFC Bank’s Net Income Exceeds Estimates on Strong Loan Growth",
@@ -246,12 +270,6 @@
     "summary": "Money managers slashed their bullish wagers on silver to the lowest in nearly\ntwo years before the White House refrained from putting import tariffs on\ncritical minerals that include the white metal.\n\n"
   },
   {
-    "title": "Hedge Funds Turn More Bullish on Brent Oil as Iran Risks Swirl",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-funds-turn-more-bullish-on-brent-oil-as-iran-risks-swirl",
-    "published": "Fri, 16 Jan 2026 21:50:06 CST",
-    "summary": "Hedge funds turned the most bullish on Brent oil since April as unrest in\nIran, OPEC’s fourth-biggest producer, revived risk premium in crude prices.\n\n"
-  },
-  {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Fcoinbase-crypto-bill-clarity-act.html",
     "published": "Fri, 16 Jan 2026 21:30:40 CST",
@@ -370,12 +388,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmichael-saylor-strategy-bitcoin.html",
     "published": "Fri, 16 Jan 2026 15:11:21 CST",
     "summary": "Michael Saylor’s financial alchemy thrust an ordinary software company,\nStrategy, into the center of the crypto frenzy. It all worked spectacularly,\nuntil now.\n\n"
-  },
-  {
-    "title": "Ecuador Eyes Return to Global Debt Markets After Seven Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fecuador-readies-return-to-global-debt-markets-after-seven-years",
-    "published": "Fri, 16 Jan 2026 14:42:44 CST",
-    "summary": "Ecuador is readying its return to international debt markets for the first\ntime since 2019.\n\n"
   },
   {
     "title": "Larry Fink, the New Mayor of Davos",
@@ -958,12 +970,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-targets-credit-card-rates-whats-at-stake-for-capital-one-and-other-banks.html",
     "published": "Mon, 12 Jan 2026 20:49:00 CST",
     "summary": "Capital One shares sank Monday after Trump called for a 10% cap on credit card\nrates, a major profit driver for the company.\n\n"
-  },
-  {
-    "title": "Ho-hum holiday: Retail's early results show modest growth in critical shopping season",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fretails-early-holiday-2025-results-show-modest-growth.html",
-    "published": "Mon, 12 Jan 2026 18:50:36 CST",
-    "summary": "The 2025 holiday season was solid for some retailers as they posted modest\ngrowth, but results failed to blow away expectations.\n\n"
   },
   {
     "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
