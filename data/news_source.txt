@@ -1,5 +1,11 @@
 [
   {
+    "title": "Why you may just be renting your car even if you have a loan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F17%2F7-year-car-loan-affordability-underwater%2F",
+    "published": "Sat, 17 Jan 2026 11:00:00 CST",
+    "summary": "Rolling debt and seven-year loans are leaving households underwater on their\ncar, making ownership unaffordable.\n\n"
+  },
+  {
     "title": "At Least $110,000 Worth of Pokémon Cards Stolen From New York Store",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fnyregion%2Fpokemon-card-shop-robbery-new-york.html",
     "published": "Sat, 17 Jan 2026 10:02:28 CST",
@@ -616,12 +622,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela",
     "published": "Thu, 15 Jan 2026 11:00:03 CST",
     "summary": "It may well be safer, easier and cheaper for US companies to procure whatever\noil the US economy needs at home\n\nThere are a few reasons that Donald Trump – now self-anointed acting president\nof Venezuela, as well as the United States – might be so excited about\nappropriating Venezuela’s oil.\n\nTrump may be counting on some boost from cheap oil to the US economy: he is\nobsessed with the price of gas. As the midterm elections approach, he has\nbecome concerned about unemployment. Deeply imprinted memories of scarcity\nduring the oil crises of the 1970s may prime his belief that cheap oil cures\nit all.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Trump’s promised manufacturing boom is a bust so far",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Ftrump-manufacturing-jobs-tariffs%2F",
-    "published": "Thu, 15 Jan 2026 11:00:00 CST",
-    "summary": "Manufacturing employment has declined every month since April, when the\npresident said tariffs would bring factories “roaring back.”\n\n"
   },
   {
     "title": "UK economy grew by better-than-expected 0.3% in November despite budget uncertainty",
