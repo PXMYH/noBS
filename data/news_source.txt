@@ -1,9 +1,21 @@
 [
   {
-    "title": "Trump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland",
+    "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
-    "published": "Sat, 17 Jan 2026 17:28:44 CST",
-    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other nations aligned with it.\n\n"
+    "published": "Sat, 17 Jan 2026 18:27:08 CST",
+    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting eight countries with tariffs.\n\n"
+  },
+  {
+    "title": "Trump Blasts Dimon, Threatens to Sue JPMorgan Over Debanking",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Ftrump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking",
+    "published": "Sat, 17 Jan 2026 18:11:18 CST",
+    "summary": "President Donald Trump railed against JPMorgan Chase & Co. and its leader\nJamie Dimon, threatening to sue the banking giant over his claim that he was\ndebanked after the Jan. 6, 2021, Capitol riot.\n\n"
+  },
+  {
+    "title": "Trump threatens 25% tariff on European allies until Denmark sells Greenland to US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F17%2Ftrump-tariff-european-countries-greenland",
+    "published": "Sat, 17 Jan 2026 17:51:25 CST",
+    "summary": "President said 10% tariff on Denmark, Norway, Sweden, France, Germany, the UK,\nthe Netherlands and Finland will begin on 1 February and increase to 25% on 1\nJune\n\nDonald Trump threatened a 25% tariff on a slew of European countries including\nDenmark, Germany, France and the UK – until the US is allowed to purchase\nGreenland, in an extraordinary escalation of the president’s bid to claim the\nautonomous Danish territory.\n\nIn a lengthy post on Saturday on Truth Social, Trump said he would impose a\n10% tariff on Denmark, Norway, Sweden, France, Germany, the United Kingdom,\nthe Netherlands and Finland beginning 1 February, “on any and all goods sent\nto the United States of America”.\n\nContinue reading...\n\n"
   },
   {
     "title": "EU Inks South America Trade Deal After 25 Years of Negotiations",
@@ -282,12 +294,6 @@
     "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
   },
   {
-    "title": "Defense Firm York Space Systems Seeks $544 Million in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fdefense-firm-york-space-systems-seeks-544-million-in-us-ipo",
-    "published": "Fri, 16 Jan 2026 22:29:18 CST",
-    "summary": "York Space Systems Inc., a space and defense firm backed by AE Industrial\nPartners, is seeking to raise as much as $544 million in an initial public\noffering.\n\n"
-  },
-  {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Fcoinbase-crypto-bill-clarity-act.html",
     "published": "Fri, 16 Jan 2026 21:30:40 CST",
@@ -370,12 +376,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fstocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html",
     "published": "Fri, 16 Jan 2026 17:13:45 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "Trump threatens tariffs against those who oppose him taking Greenland",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F16%2Ftrump-greenland-envoy-us-denmark",
-    "published": "Fri, 16 Jan 2026 17:01:44 CST",
-    "summary": "President raises pressure on European allies as US envoy says deal to take\nisland ‘should and will be made’\n\n  * Fear in Greenland as threat of invasion looms\n\nDonald Trump has threatened to impose tariffs on countries that do not “go\nalong” with his plan to annex Greenland, increasing pressure on European\nallies who have opposed his effort to take over the Arctic territory.\n\nAfter a tense week in which Nato allies deployed troops to the largely\nautonomous territory, which is part of the Danish kingdom, the US president\nannounced he might punish countries that do not support his plans to take over\nGreenland, using force if necessary.\n\nContinue reading...\n\n"
   },
   {
     "title": "‘Nothing to see’: Trump’s economic adviser plays down Fed investigation",
