@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
+    "published": "Sat, 17 Jan 2026 17:28:44 CST",
+    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other nations aligned with it.\n\n"
+  },
+  {
+    "title": "EU Inks South America Trade Deal After 25 Years of Negotiations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-inks-south-america-trade-deal-after-25-years-of-negotiations",
+    "published": "Sat, 17 Jan 2026 17:00:02 CST",
+    "summary": "The European Union and Mercosur officially signed one of the world’s largest\nfree trade agreements on Saturday, clinching a deal that has been in the works\nfor more than two decades.\n\n"
+  },
+  {
+    "title": "India Regulator Fines IndiGo $2.4 Million Over December Meltdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Findia-regulator-fines-indigo-2-4-million-over-december-meltdown",
+    "published": "Sat, 17 Jan 2026 16:42:52 CST",
+    "summary": "India’s Directorate General of Civil Aviation said late Saturday that it\nimposed a penalty of over 220 million rupees ($2.4 million) on IndiGo and\nchided the airline’s executives over their December flight cancellations.\n\n"
+  },
+  {
     "title": "2020 Fed Transcripts Show How Powell Sold Fateful Rate Guidance",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2F2020-fed-transcripts-show-how-powell-sold-fateful-rate-guidance",
     "published": "Sat, 17 Jan 2026 15:40:02 CST",
@@ -52,6 +70,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fdisney-dominated-2025-box-office.html",
     "published": "Sat, 17 Jan 2026 13:00:01 CST",
     "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul.\nIt looks to be a dominant force in 2026, too.\n\n"
+  },
+  {
+    "title": "How local and national news outlets are covering the aftermath of ICE shooting: ‘Get there, bear witness, ask questions’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F17%2Fminneapolis-ice-shooting-media-coverage",
+    "published": "Sat, 17 Jan 2026 11:00:25 CST",
+    "summary": "Strong media presence in Minneapolis has ensured Renee Good’s shooting, and\nits fallout, has received wide coverage\n\nAfter a federal immigration agent shot and killed 37-year-old Renee Nicole\nGood in Minneapolis, Minnesota, with grisly videos quickly going viral on\nsocial media, news organizations from around the state, country and world\ndispatched correspondents and anchors to the scene.\n\nIn the days since, that media presence has ebbed and flowed – though a well-\nresourced local news corps and many national journalists have remained,\nincluding reporters for the Guardian, covering additional clashes between\npolice and protesters.\n\nContinue reading...\n\n"
   },
   {
     "title": "Why you may just be renting your car even if you have a loan",
@@ -250,18 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Ftakaichi-trade-faces-risks-from-inflation-yen-slump-yield-jump",
     "published": "Fri, 16 Jan 2026 23:00:00 CST",
     "summary": "The surge in Japanese stocks, triggered by Prime Minister Sanae Takaichi’s\nsnap election plans, may fade if she gets what she wants, as overspending\ndrives up inflation and government borrowing costs.\n\n"
-  },
-  {
-    "title": "Venezuela Signs First Gas Export Deal, Citing LPG Contract",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fvenezuela-signs-first-gas-export-deal-citing-lpg-contract",
-    "published": "Fri, 16 Jan 2026 22:50:29 CST",
-    "summary": "Venezuela has signed its first contract to export liquefied petroleum gas, or\nLPG, Acting President Delcy Rodríguez said Friday.\n\n"
-  },
-  {
-    "title": "Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes",
-    "published": "Fri, 16 Jan 2026 22:40:38 CST",
-    "summary": "Trinseo PLC is preparing to start negotiations with its creditors as the\nchemical company seeks to shore up its balance sheet amid slumping sales.\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -808,18 +820,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fworld-economic-forum-2026-global-risks-report.html",
     "published": "Wed, 14 Jan 2026 12:25:40 CST",
     "summary": "The report captures a shifting landscape where geoeconomic confrontation leaps\nto the top spot on the list of business worries over the next two years\n\n"
-  },
-  {
-    "title": "Union leaders accuse Trump labor department of echoing Nazi rhetoric",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Funion-leaders-trump-administration-white-supremacy",
-    "published": "Wed, 14 Jan 2026 11:00:23 CST",
-    "summary": "Labor department rhetoric, such as ‘One Homeland. One People. One Heritage’,\nprompt comparisons to Nazi slogan\n\nUnion leaders have accused the Trump administration of a “rhetorical shift\ntowards white supremacy” after social media posts by the US Department of\nLabor drew comparison with a Nazi slogan.\n\nRecent posts from the agency include a video captioned “remember who you are,\nAmerican”, with the phrase: “One Homeland. One People. One Heritage.”\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "U.S. Refiners to Profit as Trump Asserts Control Over Venezuelan Oil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fenergy-environment%2Frefineries-trump-venezuela-oil.html",
-    "published": "Wed, 14 Jan 2026 10:00:54 CST",
-    "summary": "The companies that turn oil into gasoline and diesel are likely to benefit\nmore, right away, than the businesses that pump oil out of the ground.\n\n"
   },
   {
     "title": "China reports record trillion-dollar trade surplus despite Trump tariffs",
