@@ -1,5 +1,47 @@
 [
   {
+    "title": "At Least $110,000 Worth of Pokémon Cards Stolen From New York Store",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fnyregion%2Fpokemon-card-shop-robbery-new-york.html",
+    "published": "Sat, 17 Jan 2026 10:02:28 CST",
+    "summary": "The robbery at the Poké Court on Wednesday was the latest in a string of\nthefts of high-value Pokémon trading cards.\n\n"
+  },
+  {
+    "title": "Tech Firms Are Persuading Retailers to Put A.I. Everywhere",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftech-firms-ai-retailers.html",
+    "published": "Sat, 17 Jan 2026 10:02:20 CST",
+    "summary": "Stores of all kinds are using artificial intelligence to sell everything from\nluxury handbags to hay for horses.\n\n"
+  },
+  {
+    "title": "Alex Imas and Richard Thaler on Learning Behavioral Economics",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Falex-imas-and-richard-thaler-on-behavioral-economics-video",
+    "published": "Sat, 17 Jan 2026 10:02:15 CST",
+    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. Listen to the\npeople, ideas and conversations that shape markets on the Masters in Business\npodcast: Apple: http://bit.ly/43wa4F4 Spotify: http://bit.ly/3qj7LqO Anywhere:\nhttp://bit.ly/3OPAL3n (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "‘Punched in the Face’ by a Rail Disaster, an Ohio Town Fights Its Way Back",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Feast-palestine-norfolk-southern-derailment.html",
+    "published": "Sat, 17 Jan 2026 10:00:55 CST",
+    "summary": "Residents and officials are still trying to revitalize East Palestine nearly\nthree years after a derailment and chemical burn.\n\n"
+  },
+  {
+    "title": "As Office Rents Rise, Doctors Get Creative",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
+    "published": "Sat, 17 Jan 2026 10:00:28 CST",
+    "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
+  },
+  {
+    "title": "Black Women Turn to One Another as Their Career Paths Suddenly Recede",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fblack-women-job-market-hiring-careers-dei.html",
+    "published": "Sat, 17 Jan 2026 10:00:08 CST",
+    "summary": "Black female professionals have seen a steep drop in employment over the last\nyear. They are turning to each other for pep talks and résumé advice.\n\n"
+  },
+  {
+    "title": "HDFC Bank’s Net Income Exceeds Estimates on Strong Loan Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fhdfc-bank-s-net-income-exceeds-estimates-on-strong-loan-growth",
+    "published": "Sat, 17 Jan 2026 09:38:59 CST",
+    "summary": "HDFC Bank Ltd.’s third-quarter profit beat estimates on strong growth in loans\nwhile margins stayed under pressure at India’s largest private sector lender.\n\n"
+  },
+  {
     "title": "China Lowers Downpayment Ratio for Commercial Property to 30%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-lowers-downpayment-ratio-for-commercial-property-to-30",
     "published": "Sat, 17 Jan 2026 08:41:18 CST",
@@ -180,16 +222,16 @@
     "summary": "York Space Systems Inc., a space and defense firm backed by AE Industrial\nPartners, is seeking to raise as much as $544 million in an initial public\noffering.\n\n"
   },
   {
-    "title": "What the Bankruptcy of Saks Means for You",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fstyle%2Fsaks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
-    "published": "Fri, 16 Jan 2026 22:23:56 CST",
-    "summary": "Answers to this and other questions about the financial crisis in America’s\nbiggest luxury department store.\n\n"
-  },
-  {
     "title": "How Investors Fall Into Bias Traps: Masters in Business",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-investors-fall-into-bias-traps-masters-in-business-video",
     "published": "Fri, 16 Jan 2026 22:06:42 CST",
     "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Richard Thaler on the mentality of spending money",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Frichard-thaler-on-the-mentality-of-spending-money-video",
+    "published": "Fri, 16 Jan 2026 22:00:58 CST",
+    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. Listen to the\npeople, ideas and conversations that shape markets on the Masters in Business\npodcast: Apple: http://bit.ly/43wa4F4 Spotify: http://bit.ly/3qj7LqO Anywhere:\nhttp://bit.ly/3OPAL3n (Source: Bloomberg)\n\n"
   },
   {
     "title": "Hedge Funds Slash Bullish Silver Wagers to 22-Month Low",
@@ -204,22 +246,10 @@
     "summary": "Hedge funds turned the most bullish on Brent oil since April as unrest in\nIran, OPEC’s fourth-biggest producer, revived risk premium in crude prices.\n\n"
   },
   {
-    "title": "Wall Street Gives Trump the All-Clear to Push Disruptive Agenda",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fwall-street-gives-trump-the-all-clear-to-push-disruptive-agenda",
-    "published": "Fri, 16 Jan 2026 21:34:02 CST",
-    "summary": "In the first weeks of the year, the political landscape has shifted in ways\nthat once might have rattled global markets. A foreign leader was captured.\nThe Department of Justice opened a probe into the Federal Reserve. And a\ndisruptive White House intervened across fresh swaths of US commerce.\n\n"
-  },
-  {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Fcoinbase-crypto-bill-clarity-act.html",
     "published": "Fri, 16 Jan 2026 21:30:40 CST",
     "summary": "The top executive of the crypto exchange Coinbase scuttled a planned Senate\ncommittee vote on a major cryptocurrency bill after voicing his concerns, a\nsign of the company’s clout.\n\n"
-  },
-  {
-    "title": "Credit Market Isn't Too Complacent: Matthew Mish",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fcredit-market-isn-t-too-complacent-matthew-mish-video",
-    "published": "Fri, 16 Jan 2026 21:25:17 CST",
-    "summary": "Global credit markets are running at their hottest in two decades, prompting\nsome of the world’s biggest money managers to warn against complacency about\nthe risks. Yield premiums on corporate debt have fallen to just over one\npercentage point, the least since June 2007, amid confidence about the\neconomic outlook, a Bloomberg index of bonds across currencies and ratings\nshows. On \"Bloomberg Real Yield\", Matthew Mish, head of credit strategy at UBS\nInvestment Bank, and Matt Brill, head of North American investment grade\ncredit at Invesco, talk with Bloomberg's Scarlet Fu about the credit market.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has 'solid' launch",
@@ -256,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fpjm-data-centers-electricity-bipartisan%2F",
     "published": "Fri, 16 Jan 2026 19:25:52 CST",
     "summary": "A bipartisan proposal discussed at the White House on Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
-  },
-  {
-    "title": "Gambling Stocks Fall as NFL Predictions Gain on Sportsbooks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fbetting-stocks-fall-as-nfl-prediction-bets-gain-on-gambling-apps",
-    "published": "Fri, 16 Jan 2026 19:15:44 CST",
-    "summary": "DraftKings Inc., Flutter Entertainment PLC and other stocks linked to the\nsports gambling industry tumbled on Friday after new data suggested that they\nmay be losing ground to competing products from prediction market startups.\n\n"
   },
   {
     "title": "Trump signals Hassett may stay at White House, reshaping Fed chair race",
@@ -612,22 +636,10 @@
     "summary": "Traders in companies with ties to the president’s eldest son can bet on the\noutcome of events the president affects.\n\n"
   },
   {
-    "title": "The other effort to control the Fed",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fother-effort-control-fed%2F",
-    "published": "Thu, 15 Jan 2026 10:00:30 CST",
-    "summary": "Politics, Wall Street or the American people?\n\n"
-  },
-  {
     "title": "‘The consumers are still out there’: why a bankruptcy for Saks Global may not spell the end",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fsaks-global-bankruptcy",
     "published": "Thu, 15 Jan 2026 10:00:02 CST",
     "summary": "Just more than a year after the new luxury behemoth was formed, it announced\nit had filed for chapter 11 bankruptcy\n\nEvery year, the stores down Manhattan’s Fifth Avenue dress up their windows at\nChristmastime. Tourists from all over the world come to gawk at all the\nglitter, lace, ruffles and bows.\n\nSaks’s Fifth Avenue location, so iconic that it’s embedded in the brand’s\nname, is usually dressed top to bottom during the holidays. In 2023, the store\npartnered with Christian Dior to display a giant zodiac calendar. As part of\nthe light show, fireworks were released from the top of the store to the oohs\nand aahs of spectators.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Why more seniors are being asked to care for their partners — alone",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F10%2Fsenior-caregivers-spouse%2F",
-    "published": "Thu, 15 Jan 2026 10:00:00 CST",
-    "summary": "Caregivers in their 60s, 70s and beyond often go through “pre-bereavement” as\ntheir loved ones fade, and then face the financial and emotional fallout.\n\n"
   },
   {
     "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
@@ -676,12 +688,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
     "published": "Wed, 14 Jan 2026 19:55:54 CST",
     "summary": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash\nfor Silicon Valley and Wall Street.\n\n"
-  },
-  {
-    "title": "Where Did All the American-Born Roofers Go?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fupshot%2Fhome-construction-roofers-immigration.html",
-    "published": "Wed, 14 Jan 2026 19:38:31 CST",
-    "summary": "The real story of how immigrant labor came to define the construction\nindustry.\n\n"
   },
   {
     "title": "These Gyms’ Most Intimidating Machine: The Front Door",
@@ -754,24 +760,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
     "published": "Wed, 14 Jan 2026 15:45:19 CST",
     "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
-  },
-  {
-    "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fworld%2Fcanada%2Fcarney-trip-china-relations-trump.html",
-    "published": "Wed, 14 Jan 2026 15:35:54 CST",
-    "summary": "The prime minister is seeking new markets for Canadian goods and to mend\nrelations with China after years of deep acrimony between the two nations.\n\n"
-  },
-  {
-    "title": "Saks Files for Bankruptcy as Department Stores Fight for Survival",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fsaks-files-for-bankruptcy.html",
-    "published": "Wed, 14 Jan 2026 15:32:38 CST",
-    "summary": "The parent company of Saks, Neiman Marcus and Bergdorf Goodman struggled with\ndebt, designers and customers in recent years.\n\n"
-  },
-  {
-    "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Fchina-trade-surplus-exports.html",
-    "published": "Wed, 14 Jan 2026 15:23:05 CST",
-    "summary": "China’s surplus reached $1.19 trillion last year, a 20 percent increase from\n2024, as Beijing kept the currency weak and pursued self-reliance to replace\nimports.\n\n"
   },
   {
     "title": "The Swedish Start-Up Aiming to Conquer America’s Full-Body-Scan Craze",
