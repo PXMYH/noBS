@@ -1,27 +1,27 @@
 [
   {
+    "title": "Smaller companies are rising quickly to challenge Big Tech as AI 's best trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fai-power-demand-markets-investor-risk.html",
+    "published": "Sat, 17 Jan 2026 15:28:47 CST",
+    "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity\nare now core drivers of stock returns from the AI theme as demand ramps.\n\n"
+  },
+  {
+    "title": "Wall Street Week | Dudley on Powell, Saudi Arabia Tourism, Israeli Tech Economy, Megapass Skiing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fwall-street-week-fed-unity-saudi-arabia-tourism-video",
+    "published": "Sat, 17 Jan 2026 15:14:46 CST",
+    "summary": "This week, former New York Fed President Bill Dudley discusses the Justice\nDepartment’s criminal investigation of Fed Chair Jay Powell. And,Saudi Arabia\nis betting big on tourism to diversify its economy and transform how the world\nsees the Kingdom. Plus, Israel’s startup economy after the war, and how the\nEpic and Ikon passes transformed skiing, boosted growth, and forced resorts\nand skiers to weigh scale against experience. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "NASA Starts Artemis II Roll Out to Kennedy Space Center",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fnasa-starts-artemis-ii-roll-out-to-kennedy-space-center-video",
     "published": "Sat, 17 Jan 2026 14:23:50 CST",
     "summary": "NASA started rolled out of the Artemis II rocket to the Kennedy Space Center\nlaunch pad, in Florida, on Saturday. Artemis II is a milestone in the lunar\nspace race between the US and China. The rocket's short 4-mile long trip will\ntake the team as long as 12 hours, according to a NASA. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Zelenskiy Says Russian Strikes Undermine Prospects for Dialogue",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fzelenskiy-says-russian-strikes-undermine-prospects-for-dialogue",
-    "published": "Sat, 17 Jan 2026 14:18:28 CST",
-    "summary": "Constant airstrikes by Kremlin forces are undermining “even the small\nopportunities for dialogue” between Kyiv and Moscow, said President Volodymyr\nZelenskiy.\n\n"
-  },
-  {
     "title": "Pricey Equity Markets Charge Into a High-Stakes Earnings Season",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fpricey-equity-markets-charge-into-a-high-stakes-earnings-season",
     "published": "Sat, 17 Jan 2026 14:00:00 CST",
     "summary": "So far, so good for global equity investors looking to clock a fourth straight\nyear of solid returns as stocks rise in tandem from Tokyo to Paris to New\nYork.\n\n"
-  },
-  {
-    "title": "Machado Takes a New Tack to Win Trump’s Backing on Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fmachado-takes-a-new-tack-to-win-trump-s-backing-on-venezuela",
-    "published": "Sat, 17 Jan 2026 13:30:00 CST",
-    "summary": "María Corina Machado’s charm offensive in the Trump White House, complete with\na shiny Nobel medal in an elegant frame, is part of a recalibrated effort by\nthe leader of Venezuela’s opposition to reclaim the narrative about the\ncountry’s transformation.\n\n"
   },
   {
     "title": "From Oil Giant to Travel Hub: Saudi Arabia’s Vision 2030 Test",
@@ -106,12 +106,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-lowers-downpayment-ratio-for-commercial-property-to-30",
     "published": "Sat, 17 Jan 2026 08:41:18 CST",
     "summary": "The People’s Bank of China has lowered the minimum downpayment ratio for\ncommercial property purchases to 30%, the central bank said in a statement\nSaturday.\n\n"
-  },
-  {
-    "title": "Zelenskiy Courts Potential Challengers With US Calling for Vote",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fzelenskiy-courts-potential-challengers-with-us-calling-for-vote",
-    "published": "Sat, 17 Jan 2026 08:30:00 CST",
-    "summary": "In the wake of a damaging corruption scandal, Ukrainian President Volodymyr\nZelenskiy is increasingly reaching out to potential political rivals as the\nprospect of an election becomes more likely.\n\n"
   },
   {
     "title": "Hope of German Industrial Recovery Fuels a Broader Stock Rally",
@@ -256,6 +250,18 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fvenezuela-signs-first-gas-export-deal-citing-lpg-contract",
     "published": "Fri, 16 Jan 2026 22:50:29 CST",
     "summary": "Venezuela has signed its first contract to export liquefied petroleum gas, or\nLPG, Acting President Delcy Rodríguez said Friday.\n\n"
+  },
+  {
+    "title": "Chemical Maker Trinseo Gears Up for Debt Talks as Demand Wanes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fchemical-firm-trinseo-gears-up-for-debt-talks-as-demand-wanes",
+    "published": "Fri, 16 Jan 2026 22:40:38 CST",
+    "summary": "Trinseo PLC is preparing to start negotiations with its creditors as the\nchemical company seeks to shore up its balance sheet amid slumping sales.\n\n"
+  },
+  {
+    "title": "What you need to know about the latest US bank earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fwhat-you-need-to-know-about-the-latest-us-bank-earnings-video",
+    "published": "Fri, 16 Jan 2026 22:38:53 CST",
+    "summary": "JPMorgan kicked Q4 earnings season. Norah Mulinda breaks down what the big six\nUS banks reported. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
@@ -982,12 +988,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html",
     "published": "Mon, 12 Jan 2026 14:51:22 CST",
     "summary": "Aldi's growth reflects the fiercer competition with traditional players as\ndiscounters lure away shoppers and win more of their weekly grocery runs.\n\n"
-  },
-  {
-    "title": "DOJ probe into Fed chair Powell is 'Maduro' warning from Trump, analyst says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-powell-maduro-probe-fed-chair-investigation.html",
-    "published": "Mon, 12 Jan 2026 13:07:45 CST",
-    "summary": "Investors could reassess U.S. assets as Powell probe reignites fears over\ncentral bank's independence from the White House.\n\n"
   },
   {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
