@@ -1,5 +1,17 @@
 [
   {
+    "title": "Machado Takes a New Tack to Win Trump’s Backing on Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fmachado-takes-a-new-tack-to-win-trump-s-backing-on-venezuela",
+    "published": "Sat, 17 Jan 2026 13:30:00 CST",
+    "summary": "María Corina Machado’s charm offensive in the Trump White House, complete with\na shiny Nobel medal in an elegant frame, is part of a recalibrated effort by\nthe leader of Venezuela’s opposition to reclaim the narrative about the\ncountry’s transformation.\n\n"
+  },
+  {
+    "title": "From Oil Giant to Travel Hub: Saudi Arabia’s Vision 2030 Test",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fsaudi-arabia-s-vision-2030-test-video",
+    "published": "Sat, 17 Jan 2026 13:03:55 CST",
+    "summary": "Saudi Arabia is attempting one of the most ambitious economic transformations\nin the world, hoping to use tourism to reduce its reliance on oil and reshape\nits global image. Under Vision 2030, Crown Prince Mohammed bin Salman has\nbacked massive investments in luxury resorts, cultural destinations, airlines,\nand infrastructure. Tourism Minister Ahmed Al-Khateeb, Red Sea Global CEO John\nPagano, and Royal Commission for AlUla CEO Abeer AlAkel explain how projects\nlike the Red Sea resorts and AlUla aim to attract tens of millions of\nvisitors. Steven Cook of the Council on Foreign Relations discusses how\nforeign capital, global competition, and social change impact the Kingdom’s\npush to become a major leisure destination. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "A United Front at the Fed and in Israel",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-17%2Fwhat-doj-subpoenas-mean-for-the-fed-and-what-war-means-for-israel-s-startups",
     "published": "Sat, 17 Jan 2026 13:00:07 CST",
@@ -44,7 +56,7 @@
   {
     "title": "‘Punched in the Face’ by a Rail Disaster, an Ohio Town Fights Its Way Back",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Feast-palestine-norfolk-southern-derailment.html",
-    "published": "Sat, 17 Jan 2026 10:00:55 CST",
+    "published": "Sat, 17 Jan 2026 10:00:56 CST",
     "summary": "Residents and officials are still trying to revitalize East Palestine nearly\nthree years after a derailment and chemical burn.\n\n"
   },
   {
@@ -256,18 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fhow-investors-fall-into-bias-traps-masters-in-business-video",
     "published": "Fri, 16 Jan 2026 22:06:42 CST",
     "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Richard Thaler on the mentality of spending money",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Frichard-thaler-on-the-mentality-of-spending-money-video",
-    "published": "Fri, 16 Jan 2026 22:00:58 CST",
-    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. Listen to the\npeople, ideas and conversations that shape markets on the Masters in Business\npodcast: Apple: http://bit.ly/43wa4F4 Spotify: http://bit.ly/3qj7LqO Anywhere:\nhttp://bit.ly/3OPAL3n (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Hedge Funds Slash Bullish Silver Wagers to 22-Month Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fhedge-funds-slash-bullish-silver-wagers-to-22-month-low",
-    "published": "Fri, 16 Jan 2026 21:56:22 CST",
-    "summary": "Money managers slashed their bullish wagers on silver to the lowest in nearly\ntwo years before the White House refrained from putting import tariffs on\ncritical minerals that include the white metal.\n\n"
   },
   {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
