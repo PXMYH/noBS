@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
+    "published": "Sun, 18 Jan 2026 03:56:44 CST",
+    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
+  },
+  {
     "title": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fmedia%2Fcbs-news-trump-interview.html",
     "published": "Sun, 18 Jan 2026 01:00:48 CST",
@@ -16,12 +22,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fnyregion%2Fpokemon-card-shop-robbery-new-york.html",
     "published": "Sat, 17 Jan 2026 23:57:50 CST",
     "summary": "The robbery at the Poké Court on Wednesday was the latest in a string of\nthefts of high-value Pokémon trading cards.\n\n"
-  },
-  {
-    "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
-    "published": "Sat, 17 Jan 2026 22:41:01 CST",
-    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
   },
   {
     "title": "Trump threatens 25% tariff on European allies until Denmark sells Greenland to US",
@@ -496,12 +496,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fuber-japan-dara-khosrowshahi.html",
     "published": "Fri, 16 Jan 2026 05:00:11 CST",
     "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally\ngrab a bigger piece of one of the world’s largest taxi markets.\n\n"
-  },
-  {
-    "title": "Medical examiner likely to classify death of ICE detainee as homicide, recorded call says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fimmigration%2F2026%2F01%2F15%2Fice-detention-death-homicide%2F",
-    "published": "Fri, 16 Jan 2026 03:41:50 CST",
-    "summary": "A fellow detainee says he witnessed Geraldo Lunas Campos being choked to death\nby guards at the ICE detention center in Texas on Jan. 3.\n\n"
   },
   {
     "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
