@@ -1,5 +1,17 @@
 [
   {
+    "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
+    "published": "Sun, 18 Jan 2026 20:07:21 CST",
+    "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
+  },
+  {
+    "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
+    "published": "Sun, 18 Jan 2026 19:56:51 CST",
+    "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
+  },
+  {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
     "published": "Sun, 18 Jan 2026 19:21:25 CST",
@@ -10,12 +22,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
     "published": "Sun, 18 Jan 2026 18:45:40 CST",
     "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
-  },
-  {
-    "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
-    "published": "Sun, 18 Jan 2026 18:22:21 CST",
-    "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
   },
   {
     "title": "Trump Tariff Threat to Weigh Risk Sentiment, European Stocks",
@@ -568,12 +574,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 21:39:10 CST",
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
-  },
-  {
-    "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
-    "published": "Thu, 15 Jan 2026 20:13:10 CST",
-    "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
   },
   {
     "title": "Morgan Stanley earnings top estimates driven by wealth management",
