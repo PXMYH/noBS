@@ -6,37 +6,37 @@ Generated from **216** unique articles (deduplicated from 216 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions dominate global headlines as Europe grapples with escalating hostilities with Russia. European Central Bank official Martins Kazaks warns that Europe is already 'at war' with Russia, urging central banks to prepare for further escalation. Meanwhile, the U.S. tightens immigration policies, halting visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. In Asia, Japan's Prime Minister Sanae Takaichi considers suspending food sales tax ahead of an expected parliamentary dissolution, while China intensifies its anti-corruption crackdown, punishing 69 senior officials last year. The Pentagon also makes waves by overhauling the independent military newspaper *Stars and Stripes*, criticizing its editorial direction as 'woke' and seeking greater control. On the economic front, former U.S. President Donald Trump invests in entertainment bonds amid his administration's push to reshape energy policies, though oil giants remain hesitant about his Venezuelan oil ambitions.
+Geopolitical tensions dominate global headlines as Europe grapples with escalating hostilities with Russia. European Central Bank official Martins Kazaks warns that Europe is already 'at war' with Russia, urging central banks to prepare for further escalation. Meanwhile, the U.S. tightens immigration policies, halting visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. The Pentagon also overhauls the independent military newspaper *Stars and Stripes*, accusing it of being 'woke' and increasing Defense Department control. In China, an anti-corruption crackdown intensifies, with 69 senior officials punished last year. On the economic front, former President Trump invests $1 million in Netflix and Warner Bros. bonds following their merger announcement, while his administration's push to exploit Venezuela's oil faces skepticism from major energy firms.
 
 **Top Articles:**
 - [ECB’s Kazaks Tells FT Europe Is Already ‘at War’ With Russia](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fecb-s-kazaks-tells-ft-europe-is-already-at-war-with-russia)
 - [China Punished 69 Senior Officials for Corruption Last Year](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-punished-69-senior-officials-for-corruption-last-year)
-- [Takaichi to Mull Suspension of Food Sales Tax, Mainichi Reports](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Ftakaichi-to-mull-suspension-of-food-sales-tax-mainichi-reports)
 - [Trump bought $1M in Netflix, Warner Bros. bonds after merger announcement](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-bought-1m-netflix-warner-bros-bonds-after-merger-announcement%2F)
 - [F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html)
+- [Pentagon to overhaul independent military newspaper, calling it ‘woke’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F)
 
-**Sources**: archive.ph (9 articles)
+**Sources**: archive.ph (8 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, corporate earnings, and central bank uncertainty as 2026 kicks off. Equity markets remain resilient, with strong performances in Europe—particularly Germany—and optimism around earnings season, though concerns linger over valuations. The Federal Reserve faces renewed scrutiny after transcripts revealed Chair Jerome Powell’s 2020 rate guidance decisions, while the Bank of Japan keeps investors guessing on potential rate hikes amid political pressures. Meanwhile, President Trump’s threats to cap credit card rates and sue JPMorgan over alleged debanking have rattled financial institutions, adding volatility to an already tense policy landscape. Corporate highlights include Novo Nordisk’s 8% stock surge on strong Wegovy sales, Stellantis’ turnaround push, and Goldman Sachs’ exploration of prediction markets. Trade frictions escalate as the EU halts a US deal over Trump’s tariff threats, and China’s rare-earth export declines stoke fears of supply chain disruptions. Central banks, including Hong Kong’s, are bolstering gold reserves amid dollar skepticism, reflecting broader economic unease.
+Global markets are navigating a mix of geopolitical tensions, central bank uncertainty, and corporate shifts as 2026 begins. Emerging markets are seeing a surge in private credit deals, with sovereign wealth funds and institutional investors diversifying away from U.S. assets, while China's rare-earth exports decline amid rising tensions with Japan. The Bank of Japan's upcoming meeting keeps yen traders on edge as speculation grows over potential rate hikes, while the Federal Reserve faces political pressure, with transcripts revealing past missteps and President Trump escalating his feud with JPMorgan CEO Jamie Dimon over debanking claims. Corporate earnings present a mixed picture: HDFC Bank and Novo Nordisk outperform, but major U.S. banks like JPMorgan and Bank of America fall short amid regulatory threats, including Trump's proposed 10% cap on credit card interest rates. Meanwhile, Saudi Arabia's ambitious Vision 2030 tourism push and Stellantis' turnaround efforts highlight broader economic transformations, while gold demand surges as central banks seek hedges against dollar volatility.
 
 **Top Articles:**
+- [Sovereign Wealth Funds Join Clamor for Private Credit in EMs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fsovereign-wealth-funds-join-clamor-for-private-credit-in-ems)
+- [What’s Happening in EM: Surge in Private Credit Deals (Podcast)](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-18%2Fwhat-s-happening-in-em-surge-in-private-credit-deals-podcast)
+- [‘America first’? Trump financial products raise questions about potential presidential conflicts of interest](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F18%2Ftrump-financial-products-conflicts-of-interest)
 - [Trump Blasts Dimon, Threatens to Sue JPMorgan Over Debanking](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Ftrump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking)
 - [The Man Delivering FedEx Into the Age of Drones, Robots and A.I.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Ffedex-raj-subramaniam.html)
-- [No One’s Buying? Maybe Consumers Are Just ‘Choiceful,’ Executives Say.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fno-ones-buying-maybe-consumers-are-just-choiceful-executives-say.html)
-- [Hong Kong to Sign MOU With Shanghai Gold Exchange, Chan Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-to-sign-mou-with-shanghai-gold-exchange-chan-says)
-- [China Rare-Earth Product Exports Fall as Japan Spat Draws Focus](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-rare-earth-product-exports-fall-as-japan-spat-draws-focus)
 
-**Sources**: archive.ph (95 articles)
+**Sources**: archive.ph (97 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines are dominated by geopolitical tensions and economic shifts, with President Trump escalating trade disputes by threatening tariffs on European allies over Greenland and imposing limited tariffs on foreign semiconductors. Meanwhile, Taiwan secures a trade deal with the U.S., pledging more chip factories amid growing tech competition. In the corporate world, Boeing outsells Airbus for the first time since 2018, while Uber makes inroads into Japan’s taxi market. AI continues to reshape industries, with OpenAI introducing ads in ChatGPT and tech firms pushing retailers to adopt AI tools. Regulatory and legal developments include Kaiser Permanente’s $556 million Medicare fraud settlement and Edison suing LA County over wildfire response failures. The World Economic Forum in Davos spotlights global challenges, from AI to economic instability, with BlackRock’s Larry Fink emerging as a key figure.
+This week’s tech and business landscape is dominated by AI advancements and geopolitical tensions. OpenAI announces plans to introduce ads in ChatGPT for U.S. users, marking a new revenue stream for its flagship AI product. Meanwhile, smaller tech firms are gaining traction as AI’s infrastructure demands—such as reliable power and data-center efficiency—become critical drivers of stock performance. In geopolitics, President Trump escalates trade disputes, imposing tariffs on European allies over Greenland and targeting foreign semiconductors, while also securing a trade deal with Taiwan that includes commitments for more U.S. chip factories. The World Economic Forum in Davos spotlights AI’s economic impact, with BlackRock CEO Larry Fink taking a prominent role amid global uncertainty. Elsewhere, Boeing outperforms Airbus in 2025 deliveries, and JPMorgan faces succession questions as CEO Jamie Dimon marks two decades at the helm.
 
 **Top Articles:**
 - [Chinese EV giant BYD is a buy — and not just for its cars, Bernstein says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F18%2Fchinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html)
@@ -45,13 +45,13 @@ This week’s headlines are dominated by geopolitical tensions and economic shif
 - [At Davos, Global Leaders Gather to Ponder the Future of a Messy World](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html)
 - [How Gen Z is making millennials look cool again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F)
 
-**Sources**: archive.ph (73 articles)
+**Sources**: archive.ph (72 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discounters for their weekly shopping. The aggressive growth underscores rising competition in the grocery sector, with Aldi and other value-focused retailers drawing shoppers away from traditional supermarkets. The move reflects broader economic trends, as inflation and cost-of-living pressures push consumers across income levels to prioritize affordability without sacrificing quality. Aldi's strategy includes modernizing stores and expanding its product offerings, further intensifying pressure on established grocers to adapt. The expansion also signals confidence in the U.S. market, where discounters are gaining a larger share of the grocery spend.
+Aldi, the discount grocery chain, is accelerating its expansion in the U.S. with plans to open more than 180 new stores in 2026. The move underscores the growing competition in the grocery sector as budget-conscious consumers, regardless of income level, increasingly turn to discounters for their weekly shopping. Aldi's aggressive growth strategy highlights a broader shift in consumer behavior, with shoppers prioritizing value amid economic pressures. The expansion also signals intensifying rivalry with traditional supermarkets, which are struggling to retain customers drawn to lower prices and streamlined shopping experiences. Industry analysts note that Aldi's focus on efficiency and affordability is reshaping the retail landscape, forcing competitors to adapt or risk losing market share.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,7 +62,7 @@ Discount grocery chain Aldi is accelerating its U.S. expansion, announcing plans
 
 ## 📰 Other News
 
-Global economic and political developments take center stage this week, with the EU finalizing a landmark free trade deal with South America after 25 years of negotiations, creating one of the world’s largest trade blocs. Meanwhile, the White House escalates its media confrontations, threatening legal action against CBS over an unedited Trump interview, signaling a more aggressive stance toward press coverage. In business, Disney maintains its box office dominance, while Netflix prepares to revise its Warner Bros. Discovery offer, potentially shifting the streaming landscape. On the housing front, rising costs and shrinking backyards reflect broader affordability crises, with Black women professionals facing disproportionate employment challenges. Technological and cultural trends also emerge, from AI-driven video tools gaining traction to a surge in Pokémon card thefts, highlighting the blending of nostalgia and high-value collectibles.
+Global economic and political developments dominate this week’s news, with the EU finalizing a landmark free trade deal with South America after 25 years of negotiations, creating one of the world’s largest trade blocs. Meanwhile, the White House escalates its media confrontations, threatening legal action against CBS over an unedited Trump interview, underscoring tensions between the administration and press. On the domestic front, housing affordability remains a pressing issue, as Trump’s policies face scrutiny for undermining low-income homebuyer assistance while rising food prices and stagnant wages squeeze households. In tech and business, NASA’s Artemis II mission advances the U.S.-China space race, while Disney’s box office dominance and Netflix’s potential all-cash bid for Warner Bros. Discovery highlight shifting entertainment industry dynamics. Cultural trends also emerge, from the surge in Pokémon card thefts to the growing influence of prediction markets among younger audiences.
 
 **Top Articles:**
 - [Can Davos Help Protect the Planet?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-conference-sustainability.html)
@@ -75,4 +75,4 @@ Global economic and political developments take center stage this week, with the
 
 ---
 
-*Digest generated on January 18, 2026 at 01:08 PM *
+*Digest generated on January 18, 2026 at 01:48 PM *
