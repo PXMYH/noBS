@@ -1,15 +1,27 @@
 [
   {
+    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
+    "published": "Sun, 18 Jan 2026 19:21:25 CST",
+    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
+  },
+  {
+    "title": "How Gen Z is making millennials look cool again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
+    "published": "Sun, 18 Jan 2026 18:45:40 CST",
+    "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
+  },
+  {
     "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
     "published": "Sun, 18 Jan 2026 18:22:21 CST",
     "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
   },
   {
-    "title": "Trump Tariff Threat to Weigh on Risk Sentiment, European Stocks",
+    "title": "Trump Tariff Threat to Weigh Risk Sentiment, European Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
     "published": "Sun, 18 Jan 2026 17:29:19 CST",
-    "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland is set to weigh on risk sentiment as trading kicks\noff on Monday, with the region’s equities facing the brunt of any selloff.\n\n"
+    "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed risk sentiment as trading kicked off on\nMonday, with the region’s equities facing the brunt of any selloff.\n\n"
   },
   {
     "title": "Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival",
@@ -114,12 +126,6 @@
     "summary": "Americans have more and more reasons to have smaller outdoor spaces.\n\n"
   },
   {
-    "title": "How Gen Z is making millennials look cool again",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
-    "published": "Sun, 18 Jan 2026 10:00:00 CST",
-    "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
-  },
-  {
     "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
     "published": "Sun, 18 Jan 2026 06:01:39 CST",
@@ -147,7 +153,7 @@
     "title": "White House told CBS to run Trump interview unedited or get sued",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F17%2Ftrump-cbs-dokoupil-interview%2F",
     "published": "Sun, 18 Jan 2026 00:14:05 CST",
-    "summary": "Exchange underscores president’s readiness to challenge media organizations,\nin court and online.\n\n"
+    "summary": "The exchange underscores the president’s readiness to challenge media\norganizations, in court and online.\n\n"
   },
   {
     "title": "At Least $110,000 Worth of Pokémon Cards Stolen From New York Store",
@@ -418,12 +424,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Fpowell-trump-investigation.html",
     "published": "Fri, 16 Jan 2026 19:32:38 CST",
     "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
-  },
-  {
-    "title": "White House and governors confront electricity’s rising costs as data centers expand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fpjm-data-centers-electricity-bipartisan%2F",
-    "published": "Fri, 16 Jan 2026 19:25:52 CST",
-    "summary": "A bipartisan proposal discussed at the White House on Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
   },
   {
     "title": "ChatGPT to start showing ads in the US",
@@ -754,12 +754,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
     "published": "Wed, 14 Jan 2026 19:55:54 CST",
     "summary": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash\nfor Silicon Valley and Wall Street.\n\n"
-  },
-  {
-    "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Frepublicans-stock-bill-trading.html",
-    "published": "Wed, 14 Jan 2026 19:19:59 CST",
-    "summary": "The bill would allow lawmakers to keep their existing stock and continue to\nsell it if they provide seven to 14 days of notice. Democrats called it a\n“gift to insider traders.”\n\n"
   },
   {
     "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
