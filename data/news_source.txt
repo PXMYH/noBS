@@ -1,5 +1,11 @@
 [
   {
+    "title": "As Office Rents Rise, Doctors Get Creative",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
+    "published": "Sun, 18 Jan 2026 21:12:51 CST",
+    "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
+  },
+  {
     "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
     "published": "Sun, 18 Jan 2026 20:07:21 CST",
@@ -310,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Feast-palestine-norfolk-southern-derailment.html",
     "published": "Sat, 17 Jan 2026 10:00:56 CST",
     "summary": "Residents and officials are still trying to revitalize East Palestine nearly\nthree years after a derailment and chemical burn.\n\n"
-  },
-  {
-    "title": "As Office Rents Rise, Doctors Get Creative",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
-    "published": "Sat, 17 Jan 2026 10:00:29 CST",
-    "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
   },
   {
     "title": "Black Women Turn to One Another as Their Career Paths Suddenly Recede",
