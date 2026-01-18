@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
+    "published": "Sun, 18 Jan 2026 06:01:38 CST",
+    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
+  },
+  {
     "title": "Hong Kong to Sign MOU With Shanghai Gold Exchange, Chan Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-to-sign-mou-with-shanghai-gold-exchange-chan-says",
     "published": "Sun, 18 Jan 2026 05:20:29 CST",
@@ -10,12 +16,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-rare-earth-product-exports-fall-as-japan-spat-draws-focus",
     "published": "Sun, 18 Jan 2026 05:17:06 CST",
     "summary": "China’s rare-earth product exports declined in December compared with the\nprevious month, as investors monitor heightened tensions between Beijing and\nJapan that could trigger tighter shipment controls.\n\n"
-  },
-  {
-    "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
-    "published": "Sun, 18 Jan 2026 03:56:44 CST",
-    "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
   },
   {
     "title": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
