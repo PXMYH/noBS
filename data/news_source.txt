@@ -1,15 +1,33 @@
 [
   {
+    "title": "Gold and Silver Hit Record Highs on Greenland Tariff Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats",
+    "published": "Sun, 18 Jan 2026 23:10:40 CST",
+    "summary": "Gold and silver hit record highs after US President Donald Trump said he would\nslap tariffs on eight European nations that have opposed his plan to take\nGreenland.\n\n"
+  },
+  {
+    "title": "Taiwan Dollar at Risk of Insurers Reducing $95 Billion of Hedges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftaiwan-dollar-faces-losses-from-estimated-95-billion-hedge-unwind",
+    "published": "Sun, 18 Jan 2026 23:00:00 CST",
+    "summary": "The Taiwanese dollar is expected to lose a crucial source of support as new\naccounting rules allow insurers to unwind foreign-exchange hedges on as much\nas NT$3 trillion ($95 billion) of overseas assets.\n\n"
+  },
+  {
+    "title": "China’s $7 Trillion Cash Pile Is Shifting Into Stocks, Gold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-s-7-trillion-cash-pile-is-shifting-into-stocks-gold",
+    "published": "Sun, 18 Jan 2026 23:00:00 CST",
+    "summary": "Chinese households are scouring for higher-yielding investments as roughly $7\ntrillion in time deposits come due this year, a shift that could provide\nadditional fuel for the nation’s financial markets.\n\n"
+  },
+  {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
     "published": "Sun, 18 Jan 2026 22:38:51 CST",
     "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
-    "title": "Trump Tariff Threats Weigh on Asian Risk Appetite: Markets Wrap",
+    "title": "Stocks Fall, Gold Jumps on Trump’s Tariff Threat: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
     "published": "Sun, 18 Jan 2026 22:13:21 CST",
-    "summary": "Asian markets are facing some pressure early Monday after US President Donald\nTrump proposed new tariffs on eight European countries, denting risk appetite\nand boosting demand for haven assets.\n\n"
+    "summary": "Stocks retreated and gold jumped to a record after US President Donald Trump\nproposed new tariffs on eight European countries, denting risk appetite and\nboosting demand for haven assets.\n\n"
   },
   {
     "title": "Reform UK Reveals Another Conservative MP Defection",
@@ -162,6 +180,12 @@
     "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
   },
   {
+    "title": "Trump will order TV networks to ‘protect’ Army-Navy football game",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F18%2Ftrump-army-navy-tv-football%2F",
+    "published": "Sun, 18 Jan 2026 06:00:26 CST",
+    "summary": "The president promised an executive order granting an exclusive broadcast\nwindow for the game, which faces scheduling pressure if the College Football\nPlayoff expands.\n\n"
+  },
+  {
     "title": "Hong Kong to Sign MOU With Shanghai Gold Exchange, Chan Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-to-sign-mou-with-shanghai-gold-exchange-chan-says",
     "published": "Sun, 18 Jan 2026 05:20:29 CST",
@@ -288,12 +312,6 @@
     "summary": "Saudi Arabia is attempting one of the most ambitious economic transformations\nin the world, hoping to use tourism to reduce its reliance on oil and reshape\nits global image. Under Vision 2030, Crown Prince Mohammed bin Salman has\nbacked massive investments in luxury resorts, cultural destinations, airlines,\nand infrastructure. Tourism Minister Ahmed Al-Khateeb, Red Sea Global CEO John\nPagano, and Royal Commission for AlUla CEO Abeer AlAkel explain how projects\nlike the Red Sea resorts and AlUla aim to attract tens of millions of\nvisitors. Steven Cook of the Council on Foreign Relations discusses how\nforeign capital, global competition, and social change impact the Kingdom’s\npush to become a major leisure destination. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "A United Front at the Fed and in Israel",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-17%2Fwhat-doj-subpoenas-mean-for-the-fed-and-what-war-means-for-israel-s-startups",
-    "published": "Sat, 17 Jan 2026 13:00:07 CST",
-    "summary": "Grand jury subpoenas could backfire on the Fed\n\n"
-  },
-  {
     "title": "Big Oil’s Complicated Calculus for Investing in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdealbook%2Fvenezuela-oil.html",
     "published": "Sat, 17 Jan 2026 13:00:05 CST",
@@ -324,12 +342,6 @@
     "summary": "Stores of all kinds are using artificial intelligence to sell everything from\nluxury handbags to hay for horses.\n\n"
   },
   {
-    "title": "Alex Imas and Richard Thaler on Learning Behavioral Economics",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Falex-imas-and-richard-thaler-on-behavioral-economics-video",
-    "published": "Sat, 17 Jan 2026 10:02:15 CST",
-    "summary": "Barry speaks with Richard Thaler and Alex Imas award winning economists and\nco-authors of \"The Winner's Curse: Behavioral Economics Anomalies\". They\ndiscuss the psychology of spending at auctions, and the effects of draft picks\non NFL team spending. They also discuss the anomalies of human behavior and\ndecision making that challenge classical economic theories. Listen to the\npeople, ideas and conversations that shape markets on the Masters in Business\npodcast: Apple: http://bit.ly/43wa4F4 Spotify: http://bit.ly/3qj7LqO Anywhere:\nhttp://bit.ly/3OPAL3n (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "‘Punched in the Face’ by a Rail Disaster, an Ohio Town Fights Its Way Back",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Feast-palestine-norfolk-southern-derailment.html",
     "published": "Sat, 17 Jan 2026 10:00:56 CST",
@@ -340,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fblack-women-job-market-hiring-careers-dei.html",
     "published": "Sat, 17 Jan 2026 10:00:08 CST",
     "summary": "Black female professionals have seen a steep drop in employment over the last\nyear. They are turning to each other for pep talks and résumé advice.\n\n"
-  },
-  {
-    "title": "EU Aims to Fight Industrial Decline With ‘Made in Europe’ Law",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-aims-to-fight-industrial-decline-with-made-in-europe-law",
-    "published": "Sat, 17 Jan 2026 09:52:40 CST",
-    "summary": "The European Union is set to propose a swathe of new conditions to ensure\nlocal companies are prioritized when investment decisions are made in the\nregion by member-states and foreign firms, upending a free-trade philosophy\nthat has governed decades of policy.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
