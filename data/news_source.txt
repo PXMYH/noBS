@@ -1,5 +1,29 @@
 [
   {
+    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
+    "published": "Sun, 18 Jan 2026 22:38:51 CST",
+    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
+  },
+  {
+    "title": "Trump Tariff Threats Weigh on Asian Risk Appetite: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
+    "published": "Sun, 18 Jan 2026 22:13:21 CST",
+    "summary": "Asian markets are facing some pressure early Monday after US President Donald\nTrump proposed new tariffs on eight European countries, denting risk appetite\nand boosting demand for haven assets.\n\n"
+  },
+  {
+    "title": "Reform UK Reveals Another Conservative MP Defection",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Freform-uk-reveals-defection-of-second-conservative-mp-in-a-week",
+    "published": "Sun, 18 Jan 2026 21:39:22 CST",
+    "summary": "Reform UK has announced the second defection of a sitting lawmaker in a week\nto its party, as lawmaker Andrew Rosindell joined from the Conservatives.\n\n"
+  },
+  {
+    "title": "Libya in Multinational $2.7 Billion Deal to Develop Misrata Zone",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flibya-in-multinational-2-7-billion-deal-to-develop-misrata-zone",
+    "published": "Sun, 18 Jan 2026 21:34:44 CST",
+    "summary": "Libya signed a partnership deal that involves Qatari, Italian and Swiss\ncompanies to expand and develop the Misrata Free Zone port terminal on the\nMediterranean, the OPEC member said.\n\n"
+  },
+  {
     "title": "As Office Rents Rise, Doctors Get Creative",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
     "published": "Sun, 18 Jan 2026 21:12:51 CST",
@@ -18,12 +42,6 @@
     "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
   },
   {
-    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
-    "published": "Sun, 18 Jan 2026 19:21:25 CST",
-    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
-  },
-  {
     "title": "How Gen Z is making millennials look cool again",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
     "published": "Sun, 18 Jan 2026 18:45:40 CST",
@@ -33,7 +51,7 @@
     "title": "Trump Tariff Threat to Weigh Risk Sentiment, European Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
     "published": "Sun, 18 Jan 2026 17:29:19 CST",
-    "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed risk sentiment as trading kicked off on\nMonday, with the region’s equities facing the brunt of any selloff.\n\n"
+    "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed on risk sentiment as trading kicked off on\nMonday, with the region’s equities facing the brunt of any selloff.\n\n"
   },
   {
     "title": "Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival",
@@ -328,24 +346,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-aims-to-fight-industrial-decline-with-made-in-europe-law",
     "published": "Sat, 17 Jan 2026 09:52:40 CST",
     "summary": "The European Union is set to propose a swathe of new conditions to ensure\nlocal companies are prioritized when investment decisions are made in the\nregion by member-states and foreign firms, upending a free-trade philosophy\nthat has governed decades of policy.\n\n"
-  },
-  {
-    "title": "HDFC Bank’s Net Income Exceeds Estimates on Strong Loan Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fhdfc-bank-s-net-income-exceeds-estimates-on-strong-loan-growth",
-    "published": "Sat, 17 Jan 2026 09:38:59 CST",
-    "summary": "HDFC Bank Ltd.’s third-quarter profit beat estimates on strong growth in loans\nwhile margins stayed under pressure at India’s largest private sector lender.\n\n"
-  },
-  {
-    "title": "China Lowers Downpayment Ratio for Commercial Property to 30%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-lowers-downpayment-ratio-for-commercial-property-to-30",
-    "published": "Sat, 17 Jan 2026 08:41:18 CST",
-    "summary": "The People’s Bank of China has lowered the minimum downpayment ratio for\ncommercial property purchases to 30%, the central bank said in a statement\nSaturday.\n\n"
-  },
-  {
-    "title": "Hope of German Industrial Recovery Fuels a Broader Stock Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fhope-of-german-industrial-recovery-fuels-a-broader-stock-rally",
-    "published": "Sat, 17 Jan 2026 08:00:00 CST",
-    "summary": "As German stocks outpaced broader European indexes in recent years, a big part\nof the country’s market was left behind. That’s finally changing.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
