@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump Tariff Threat to Weigh on Risk Sentiment, European Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
+    "published": "Sun, 18 Jan 2026 17:29:19 CST",
+    "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland is set to weigh on risk sentiment as trading kicks\noff on Monday, with the region’s equities facing the brunt of any selloff.\n\n"
+  },
+  {
     "title": "Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fbrazil-s-billionaire-batistas-poised-for-venezuelan-oil-revival",
     "published": "Sun, 18 Jan 2026 16:00:00 CST",
@@ -128,7 +134,7 @@
   {
     "title": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fmedia%2Fcbs-news-trump-interview.html",
-    "published": "Sun, 18 Jan 2026 01:00:48 CST",
+    "published": "Sun, 18 Jan 2026 01:00:49 CST",
     "summary": "In previously unreported remarks, the White House press secretary Karoline\nLeavitt told CBS News that Mr. Trump would “sue” the news outlet if it did not\nair an interview unedited.\n\n"
   },
   {
@@ -272,7 +278,7 @@
   {
     "title": "Tech Firms Are Persuading Retailers to Put A.I. Everywhere",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftech-firms-ai-retailers.html",
-    "published": "Sat, 17 Jan 2026 10:02:20 CST",
+    "published": "Sat, 17 Jan 2026 10:02:21 CST",
     "summary": "Stores of all kinds are using artificial intelligence to sell everything from\nluxury handbags to hay for horses.\n\n"
   },
   {
@@ -322,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fhope-of-german-industrial-recovery-fuels-a-broader-stock-rally",
     "published": "Sat, 17 Jan 2026 08:00:00 CST",
     "summary": "As German stocks outpaced broader European indexes in recent years, a big part\nof the country’s market was left behind. That’s finally changing.\n\n"
-  },
-  {
-    "title": "China Consumed Twice the Electricity of the US in 2025: CCTV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-consumed-twice-the-electricity-of-the-us-in-2025-cctv",
-    "published": "Sat, 17 Jan 2026 04:08:11 CST",
-    "summary": "China used more than double the electricity of the US in 2025, China Central\nTelevision reported Saturday, citing data from the National Energy\nAdministration.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
@@ -448,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ftrump-praises-hassett-but-casts-doubt-on-making-him-fed-chair.html",
     "published": "Fri, 16 Jan 2026 17:39:47 CST",
     "summary": "The blowback set off by the Justice Department’s criminal investigation into\nJerome H. Powell, the chair of the central bank, has shaken up the race to\nreplace him.\n\n"
-  },
-  {
-    "title": "Pentagon to overhaul independent military newspaper, calling it ‘woke’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F15%2Fstars-and-stripes-pentagon-editorial-independence%2F",
-    "published": "Fri, 16 Jan 2026 17:30:13 CST",
-    "summary": "Plans for more Defense Department control of Stars and Stripes surface after\njob seekers were asked about their commitment to President Donald Trump’s\npolicies.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: PNC, ImmunityBio, Coupang & more",
