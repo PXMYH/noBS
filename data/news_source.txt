@@ -1,5 +1,47 @@
 [
   {
+    "title": "How to Prevent Aging Parents and Relatives from Making Financial Mistakes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Faging-parents-finances.html",
+    "published": "Sun, 18 Jan 2026 10:00:58 CST",
+    "summary": "Getting family members to listen to you when you think they are headed down a\ndangerous financial path can be difficult. But there are preventive steps you\ncan take.\n\n"
+  },
+  {
+    "title": "The Man Delivering FedEx Into the Age of Drones, Robots and A.I.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Ffedex-raj-subramaniam.html",
+    "published": "Sun, 18 Jan 2026 10:00:51 CST",
+    "summary": "Raj Subramaniam took over three years ago from FedEx’s founder, who ran the\ncompany for nearly 50 years. Since then, technology, tariffs and other\ndisruptions have “fundamentally shifted” patterns of global trade.\n\n"
+  },
+  {
+    "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
+    "published": "Sun, 18 Jan 2026 10:00:44 CST",
+    "summary": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle\nwith war, economics, artificial intelligence and other pressing issues.\n\n"
+  },
+  {
+    "title": "Can Davos Help Protect the Planet?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-conference-sustainability.html",
+    "published": "Sun, 18 Jan 2026 10:00:32 CST",
+    "summary": "The World Economic Forum, which takes place in Switzerland, aims to meet at\nleast some of the goals its leaders set for the rest of the world.\n\n"
+  },
+  {
+    "title": "No One’s Buying? Maybe Consumers Are Just ‘Choiceful,’ Executives Say.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fno-ones-buying-maybe-consumers-are-just-choiceful-executives-say.html",
+    "published": "Sun, 18 Jan 2026 10:00:22 CST",
+    "summary": "A new way to characterize unenthusiastic consumers has overtaken earnings\ncalls.\n\n"
+  },
+  {
+    "title": "Why the American backyard is getting even smaller",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fhigh-mortgage-rates-shrinking-backyards%2F",
+    "published": "Sun, 18 Jan 2026 10:00:00 CST",
+    "summary": "Americans have more and more reasons to have smaller yards.\n\n"
+  },
+  {
+    "title": "How Gen Z is making millennials look cool again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
+    "published": "Sun, 18 Jan 2026 10:00:00 CST",
+    "summary": "Gen Z is reimagining the trends its elders, embracing low-rise baggy and flare\njeans, baby doll tops, fur-trimmed cable-knit V-necks, and sweatpants with\nnumbers.\n\n"
+  },
+  {
     "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
     "published": "Sun, 18 Jan 2026 06:01:38 CST",
@@ -318,12 +360,6 @@
     "summary": "Edison International sued Los Angeles County and other public agencies for\nallegedly failing to ensure timely evacuation alerts that the company says\ncould have saved most of the 19 people who died in a massive wildfire last\nyear.\n\n"
   },
   {
-    "title": "Bilt Launches New Credit Cards With Mortgage and Rent Rewards: What to Know",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbilt-rent-mortgage-rewards.html",
-    "published": "Fri, 16 Jan 2026 22:33:25 CST",
-    "summary": "Bilt, a rewards and payments start-up, has three new credit cards that can\nhelp users earn points when they pay their mortgage. You will need to do math.\n\n"
-  },
-  {
     "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Ftechnology%2Fcoinbase-crypto-bill-clarity-act.html",
     "published": "Fri, 16 Jan 2026 21:30:40 CST",
@@ -478,18 +514,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-netflix.html",
     "published": "Fri, 16 Jan 2026 10:05:24 CST",
     "summary": "The company’s co-chief executive sat down for an extensive interview for the\nfirst time since announcing plans to buy Warner Bros. Discovery’s film and TV\nbusiness.\n\n"
-  },
-  {
-    "title": "Mixed signals and suspicions fueled clash between Fed and prosecutors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F16%2Ffederal-reserve-trump-investigation-pirro%2F",
-    "published": "Fri, 16 Jan 2026 10:00:19 CST",
-    "summary": "The criminal probe of Fed Chair Jerome Powell followed months of criticism\nfrom President Donald Trump — and then a breezy email from the U.S. attorney’s\noffice with a line about hopping on a call.\n\n"
-  },
-  {
-    "title": "A healthy meal for $3? Agriculture secretary says it’s easy.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Fthree-dollar-meals-rollins%2F",
-    "published": "Fri, 16 Jan 2026 10:00:00 CST",
-    "summary": "Brooke Rollins drew ridicule on social media after saying a meal could be a\n“piece of chicken, a piece of broccoli, a corn tortilla and one other thing.”\n\n"
   },
   {
     "title": "Uber’s Quest to Crack Japan Leads Through a Rural Hot-Springs Town",
@@ -756,12 +780,6 @@
     "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
   },
   {
-    "title": "Britain Awards Wind Farm Contracts That Will Power 12 Million Homes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fbritain-wind-farms.html",
-    "published": "Wed, 14 Jan 2026 18:36:38 CST",
-    "summary": "The British government provided guaranteed electricity prices to a group of\nwind farm developers in what it says is an effort to bring down power costs\nfor consumers.\n\n"
-  },
-  {
     "title": "Airlines to save big money on fuel as new weight loss pills gain popularity, Wall Street says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fairlines-to-save-on-fuel-as-weight-loss-pills-grow-popular-wall-street-says.html",
     "published": "Wed, 14 Jan 2026 18:09:56 CST",
@@ -786,12 +804,6 @@
     "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling\noff parts of its overseas operations.\n\n"
   },
   {
-    "title": "U.S. Weighs Expanding Private Companies’ Role in Cyberwarfare",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Fus-cyberwarfare-private-companies.html",
-    "published": "Wed, 14 Jan 2026 16:59:31 CST",
-    "summary": "The proposal raises a host of questions about the legality and practicality of\nbolstering the involvement of the private sector in offensive cyberoperations.\n\n"
-  },
-  {
     "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fwarren-trump-credit-card-interest-rate-affordability.html",
     "published": "Wed, 14 Jan 2026 16:46:13 CST",
@@ -802,12 +814,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fnetflix-warner-bros-discovery-deal-all-cash.html",
     "published": "Wed, 14 Jan 2026 16:22:32 CST",
     "summary": "Netflix is likely to amend its offer for Warner Bros. Discovery's streaming\nand studio business after reaching an earlier agreement in December.\n\n"
-  },
-  {
-    "title": "Banks Ready Battle Plans to Save Their Credit Card Businesses",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fdealbook%2Fbanks-credit-cards-trump.html",
-    "published": "Wed, 14 Jan 2026 15:45:19 CST",
-    "summary": "“Everything’s on the table,” an executive at JPMorgan Chase said, as the\nindustry seeks to head off President Trump’s effort to cap interest rates.\n\n"
   },
   {
     "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",

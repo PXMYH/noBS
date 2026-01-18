@@ -1,12 +1,12 @@
 # NoBS News Digest - January 18, 2026
 
-Generated from **215** unique articles (deduplicated from 215 total) across **1** news sources
+Generated from **216** unique articles (deduplicated from 216 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global political and economic developments dominate this week's headlines, with significant actions from major powers shaping international relations. In China, an intensified anti-corruption campaign sees 69 high-ranking officials punished, reinforcing President Xi Jinping's ongoing crackdown on graft within the ruling elite. Meanwhile, Japanese Prime Minister Sanae Takaichi prepares to dissolve parliament, signaling potential economic shifts with plans to suspend food sales taxes—a move tied to her election campaign. The U.S. remains a focal point as the Trump administration halts immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns, while also asserting controversial claims over Venezuela's oil reserves. Military tensions rise as the FAA warns pilots of heightened activity near Latin American waters, urging caution over parts of the Pacific Ocean near Mexico, Colombia, and Ecuador. Domestically, the Pentagon moves to overhaul the independent military newspaper *Stars and Stripes*, alleging ideological bias, while former President Trump's financial maneuvers—including a $1 million investment in Netflix and Warner Bros. bonds—raise eyebrows amid his involvement in corporate mergers.
+Global political and economic developments dominate this week's headlines, with significant actions from major powers shaping international relations. In China, an intensified anti-corruption campaign results in the punishment of 69 high-ranking officials, underscoring President Xi Jinping's ongoing efforts to consolidate power and root out graft within the Communist Party. Meanwhile, Japanese Prime Minister Sanae Takaichi prepares to dissolve parliament, signaling potential economic shifts as she considers suspending food sales taxes—a move tied to her election campaign promises. In the U.S., the Trump administration tightens immigration policies by halting visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns, while also asserting controversial claims over Venezuela's oil reserves, though energy analysts remain skeptical about industry interest. On the security front, the FAA issues warnings about military activity in Latin American airspace, advising pilots to avoid certain Pacific Ocean routes near Mexico, Colombia, and Panama, raising tensions in the region. Domestically, the Pentagon moves to overhaul the independent military newspaper *Stars and Stripes*, criticizing its editorial direction as 'woke' and seeking greater Defense Department control, reflecting broader political polarization under Trump's leadership.
 
 **Top Articles:**
 - [China Punished 69 Senior Officials for Corruption Last Year](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-punished-69-senior-officials-for-corruption-last-year)
@@ -21,14 +21,14 @@ Global political and economic developments dominate this week's headlines, with 
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, central bank uncertainty, and corporate maneuvering as 2026 kicks off. The Bank of Japan’s upcoming meeting has yen traders on edge amid speculation over rate hikes, while the Federal Reserve faces renewed pressure from the Trump administration, with Chair Jerome Powell defending the central bank’s independence as a DOJ investigation looms. Meanwhile, China’s rare-earth export decline and Hong Kong’s gold exchange deal with Shanghai underscore shifting trade dynamics in Asia. Corporate earnings paint a mixed picture: HDFC Bank and Novo Nordisk beat expectations, but major U.S. banks like JPMorgan and Bank of America struggle amid Trump’s threatened credit card rate caps. In M&A, Netflix’s bold bid for Warner Bros. Discovery’s film and TV assets signals a content war escalation, while Saks’ bankruptcy after its Neiman Marcus acquisition highlights retail sector strains. Geopolitical risks also flare, with the EU halting a U.S. trade deal over Trump’s tariff threats and Venezuela’s oil sector drawing speculative interest from smaller firms tied to the administration.
+Global markets are navigating a mix of geopolitical tensions, central bank uncertainty, and corporate earnings this week. The Bank of Japan's upcoming meeting has yen traders on edge amid speculation over rate hikes, while the Federal Reserve faces renewed scrutiny after transcripts revealed Chair Jerome Powell's 2020 policy missteps. Meanwhile, President Trump's threats to cap credit card rates and sue JPMorgan Chase over alleged debanking have rattled financial institutions, with banks pushing back against regulatory pressures. In corporate news, Novo Nordisk surged 8% on strong demand for its obesity drug Wegovy, while Stellantis and other automakers face execution challenges in 2026. Geopolitical risks loom as China's rare-earth exports decline amid tensions with Japan, and the EU halts a U.S. trade deal over Trump's tariff threats. Gold remains a safe-haven asset as central banks diversify reserves, reflecting broader economic uncertainty.
 
 **Top Articles:**
+- [The Man Delivering FedEx Into the Age of Drones, Robots and A.I.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Ffedex-raj-subramaniam.html)
+- [No One’s Buying? Maybe Consumers Are Just ‘Choiceful,’ Executives Say.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fno-ones-buying-maybe-consumers-are-just-choiceful-executives-say.html)
 - [Hong Kong to Sign MOU With Shanghai Gold Exchange, Chan Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-to-sign-mou-with-shanghai-gold-exchange-chan-says)
 - [China Rare-Earth Product Exports Fall as Japan Spat Draws Focus](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-rare-earth-product-exports-fall-as-japan-spat-draws-focus)
 - [Trump Blasts Dimon, Threatens to Sue JPMorgan Over Debanking](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Ftrump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking)
-- [BOJ Keeps Yen Watchers on Edge for Rate-Hike Clues](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fboj-keeps-yen-watchers-on-edge-for-rate-hike-clues)
-- [EU Set to Halt US Trade Deal Over Trump’s New Tariff Threat](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat)
 
 **Sources**: archive.ph (96 articles)
 
@@ -36,22 +36,22 @@ Global markets are navigating a mix of geopolitical tensions, central bank uncer
 
 ## 💻 Technology
 
-This week's headlines are dominated by geopolitical tensions and economic shifts, with President Trump escalating trade disputes by imposing tariffs on European allies, including Denmark, over Greenland, while also finalizing a trade deal with Taiwan that includes commitments for more U.S. chip factories. In tech, OpenAI announces plans to introduce ads in ChatGPT for U.S. users, marking a new revenue strategy, while smaller AI-focused firms gain traction amid surging demand for data center efficiency and grid capacity. Meanwhile, regulatory and legal developments see Boeing facing scrutiny over safety flaws in a crashed UPS plane, and Kaiser Permanente agreeing to a $556 million settlement over Medicare overbilling claims. The UK economy shows unexpected growth, and Britain awards major wind farm contracts to power millions of homes, signaling a push toward renewable energy. Additionally, activists in Iran leverage Starlink to bypass government internet blackouts, highlighting the role of tech in circumventing censorship.
+This week, global leaders convene at the World Economic Forum in Davos to tackle pressing issues like AI, economic instability, and geopolitical tensions, with Larry Fink of BlackRock taking a prominent role in shaping discussions. In tech, OpenAI announces plans to introduce advertisements in ChatGPT for U.S. users, marking a new revenue stream for the AI giant, while smaller firms gain traction in the AI sector amid surging demand for data center efficiency and grid capacity. Meanwhile, the Trump administration makes waves with tariff threats on European allies over Greenland and finalizes a trade deal with Taiwan, securing commitments for more U.S. chip factories. Regulatory and legal developments include Kaiser Permanente's $556 million settlement for Medicare overbilling and Boeing facing scrutiny over safety flaws in its planes. Emerging trends highlight the potential for mega IPOs in 2026, with SpaceX, OpenAI, and Anthropic poised to go public, while activists in Iran leverage Starlink to bypass government internet blackouts.
 
 **Top Articles:**
+- [How to Prevent Aging Parents and Relatives from Making Financial Mistakes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Faging-parents-finances.html)
+- [At Davos, Global Leaders Gather to Ponder the Future of a Messy World](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html)
+- [Why the American backyard is getting even smaller](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fhigh-mortgage-rates-shrinking-backyards%2F)
+- [How Gen Z is making millennials look cool again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F)
 - [Trump Announces New Tariffs on Some European Countries in Greenland Standoff](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html)
-- [White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fmedia%2Fcbs-news-trump-interview.html)
-- [Trump threatens 25% tariff on European allies until Denmark sells Greenland to US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F17%2Ftrump-tariff-european-countries-greenland)
-- [Smaller companies are rising quickly to challenge Big Tech as AI's best trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fai-power-demand-markets-investor-risk.html)
-- [Sweetgreen Chief Development Officer Tarrant to Leave Chain](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fsweetgreen-chief-development-officer-to-leave-restaurant-chain)
 
-**Sources**: archive.ph (73 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-Discount grocer Aldi is accelerating its expansion in the U.S., announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The move underscores a broader shift in grocery shopping habits, with discounters gaining ground against traditional supermarkets by attracting shoppers across income levels. Aldi's aggressive growth strategy reflects rising competition in the sector, as inflation and economic uncertainty drive demand for affordable grocery options. The expansion also highlights the company's confidence in its low-cost, high-efficiency model, which has resonated with cost-sensitive consumers seeking quality at lower prices.
+Discount grocery chain Aldi is accelerating its expansion in the U.S., announcing plans to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to discounters for their weekly shopping. The move underscores the intensifying competition in the grocery sector, with Aldi and other value-focused retailers gaining market share by attracting shoppers across income levels. The company's aggressive growth strategy reflects broader economic trends, as inflation and cost-of-living pressures drive more consumers to prioritize affordability without sacrificing quality. Aldi's expansion also signals a shift in consumer behavior, with discounters no longer seen as just a budget alternative but as a primary shopping destination for a wider demographic.
 
 **Top Articles:**
 - [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
@@ -62,17 +62,17 @@ Discount grocer Aldi is accelerating its expansion in the U.S., announcing plans
 
 ## 📰 Other News
 
-This week’s news highlights a mix of economic shifts, geopolitical developments, and cultural trends. The European Union and South America finalized a landmark free trade deal after 25 years of negotiations, creating one of the world’s largest economic blocs. Meanwhile, the U.S. grapples with inflation and housing affordability, as the Trump administration explores aggressive measures to lower prices and address rising costs. In tech, Elon Musk’s X platform restricts AI-generated explicit content amid legal pressures, while Netflix eyes an all-cash bid for Warner Bros. Discovery’s streaming assets. On the cultural front, Disney’s box office dominance continues, and a high-profile Pokémon card heist underscores the booming collectibles market. Socially, Black women professionals face employment challenges, turning to peer networks for support, while rising office rents force doctors into unconventional workspace solutions.
+This week's news highlights a mix of economic shifts, geopolitical developments, and cultural trends. The European Union and South America finalized a landmark free trade agreement after 25 years of negotiations, creating one of the world's largest trade blocs. Meanwhile, the U.S. faces internal economic pressures, with rising food prices and housing affordability concerns prompting political action. In tech, Elon Musk's X platform restricts AI-generated explicit content amid legal scrutiny, while NASA advances its Artemis II mission, signaling a renewed space race with China. On the cultural front, Disney's box office dominance continues, and a high-profile Pokémon card heist underscores the growing value of collectibles. Social issues also take center stage, as Black women professionals navigate career setbacks and doctors adapt to rising office costs with creative solutions.
 
 **Top Articles:**
+- [Can Davos Help Protect the Planet?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-conference-sustainability.html)
 - [White House told CBS to run Trump interview unedited or get sued](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F17%2Ftrump-cbs-dokoupil-interview%2F)
 - [At Least $110,000 Worth of Pokémon Cards Stolen From New York Store](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fnyregion%2Fpokemon-card-shop-robbery-new-york.html)
 - [EU Inks South America Trade Deal After 25 Years of Negotiations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Feu-inks-south-america-trade-deal-after-25-years-of-negotiations)
 - [India Regulator Fines IndiGo $2.4 Million Over December Meltdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Findia-regulator-fines-indigo-2-4-million-over-december-meltdown)
-- [NASA Starts Artemis II Roll Out to Kennedy Space Center](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fnasa-starts-artemis-ii-roll-out-to-kennedy-space-center-video)
 
 **Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 18, 2026 at 09:43 AM *
+*Digest generated on January 18, 2026 at 10:46 AM *
