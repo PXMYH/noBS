@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hong Kong to Sign MOU With Shanghai Gold Exchange, Chan Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-to-sign-mou-with-shanghai-gold-exchange-chan-says",
+    "published": "Sun, 18 Jan 2026 05:20:29 CST",
+    "summary": "Hong Kong will sign a memorandum of understanding with the Shanghai Gold\nExchange at the upcoming Asian Financial Forum, according to the city’s\nFinancial Secretary Paul Chan.\n\n"
+  },
+  {
+    "title": "China Rare-Earth Product Exports Fall as Japan Spat Draws Focus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-rare-earth-product-exports-fall-as-japan-spat-draws-focus",
+    "published": "Sun, 18 Jan 2026 05:17:06 CST",
+    "summary": "China’s rare-earth product exports declined in December compared with the\nprevious month, as investors monitor heightened tensions between Beijing and\nJapan that could trigger tighter shipment controls.\n\n"
+  },
+  {
     "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
     "published": "Sun, 18 Jan 2026 03:56:44 CST",
@@ -288,12 +300,6 @@
     "summary": "Simon Freakley, AlixPartners Executive Chairman, says CEOs are adapting to\nintense disruption and managing through volatile times. He speaks with Romaine\nBostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Fmr. FDIC Chair: Supreme Court Could Step In to Protect Fed",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-16%2Fbair-supreme-court-could-step-in-to-protect-fed-video",
-    "published": "Fri, 16 Jan 2026 23:29:14 CST",
-    "summary": "Sheila Bair, former FDIC chair and a member of the Center for Financial\nStability Advisory Board, says the Supreme Court may draw a line to protect\nthe Fed’s independence. She speaks with Romaine Bostick and Emily Graffeo on\n“The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "WestJet Backpedals on Economy Seats That Don’t Recline",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Ftravel%2Fwestjet-non-reclinable-economy-seats.html",
     "published": "Fri, 16 Jan 2026 23:25:33 CST",
@@ -304,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html",
     "published": "Fri, 16 Jan 2026 23:14:45 CST",
     "summary": "The Federal Aviation Administration released seven advisories warning pilots\nto stay away from parts of the Pacific Ocean near Mexico, Colombia, Ecuador\nand Panama.\n\n"
-  },
-  {
-    "title": "Mag 7 Stock Options Get SEC Nod for Monday, Wednesday Expiries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-16%2Fmag-7-stock-options-get-sec-nod-for-monday-wednesday-expiries",
-    "published": "Fri, 16 Jan 2026 23:14:05 CST",
-    "summary": "The Securities and Exchange Commission has approved new expirations for\nMagnificent Seven stocks, moving the US market a step closer to daily expiries\nin single stock options.\n\n"
   },
   {
     "title": "Edison Sues LA County Over Fire Deaths for Delayed Alerts",
