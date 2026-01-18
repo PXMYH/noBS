@@ -1,5 +1,11 @@
 [
   {
+    "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
+    "published": "Sun, 18 Jan 2026 18:22:21 CST",
+    "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
+  },
+  {
     "title": "Trump Tariff Threat to Weigh on Risk Sentiment, European Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
     "published": "Sun, 18 Jan 2026 17:29:19 CST",
@@ -420,12 +426,6 @@
     "summary": "A bipartisan proposal discussed at the White House on Friday would push tech\ncompanies to bankroll power plants as consumer anger over utility bills\nmounts.\n\n"
   },
   {
-    "title": "Trump signals Hassett may stay at White House, reshaping Fed chair race",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-hassett-federal-reserve-chair-senate%2F",
-    "published": "Fri, 16 Jan 2026 18:43:58 CST",
-    "summary": "President Donald Trump suggested he may keep Kevin Hassett in his current role\nas a top White House economic adviser.\n\n"
-  },
-  {
     "title": "ChatGPT to start showing ads in the US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F16%2Fchatgpt-ads-in-revenue-boost",
     "published": "Fri, 16 Jan 2026 18:24:58 CST",
@@ -754,12 +754,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Ftechnology%2Fai-ipo-openai-anthropic-spacex.html",
     "published": "Wed, 14 Jan 2026 19:55:54 CST",
     "summary": "If SpaceX, OpenAI and Anthropic go public, they will unleash gushers of cash\nfor Silicon Valley and Wall Street.\n\n"
-  },
-  {
-    "title": "These Gyms’ Most Intimidating Machine: The Front Door",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fpuregym-exits-fire-department.html",
-    "published": "Wed, 14 Jan 2026 19:34:26 CST",
-    "summary": "A new kind of tap-in, tap-out system at gyms has some New Yorkers flustered.\n\n"
   },
   {
     "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
