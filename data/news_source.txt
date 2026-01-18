@@ -1,5 +1,17 @@
 [
   {
+    "title": "‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2F-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool",
+    "published": "Sun, 18 Jan 2026 14:00:00 CST",
+    "summary": "The new year was supposed to bring opportunities for beaten-down software\nstocks. Instead, the group is off to its worst start in years.\n\n"
+  },
+  {
+    "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Ftrump-jpmorgan-chase-debanking.html",
+    "published": "Sun, 18 Jan 2026 13:47:50 CST",
+    "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him\nfollowing the Jan. 6 insurrection in 2021.\n\n"
+  },
+  {
     "title": "Sovereign Wealth Funds Join Clamor for Private Credit in EMs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fsovereign-wealth-funds-join-clamor-for-private-credit-in-ems",
     "published": "Sun, 18 Jan 2026 13:30:00 CST",
@@ -22,12 +34,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F18%2Fchinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html",
     "published": "Sun, 18 Jan 2026 12:29:41 CST",
     "summary": "After beating Tesla in the number of electric vehicles sold, BYD has another\nbig business that investors have yet to fully appreciate, according to\nBernstein.\n\n"
-  },
-  {
-    "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Ftrump-jpmorgan-chase-debanking.html",
-    "published": "Sun, 18 Jan 2026 12:09:43 CST",
-    "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him\nfollowing the Jan. 6 insurrection in 2021.\n\n"
   },
   {
     "title": "ECB’s Kazaks Tells FT Europe Is Already ‘at War’ With Russia",
@@ -86,7 +92,7 @@
   {
     "title": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fus%2Fpolitics%2Ftrump-eu-tariffs-greenland.html",
-    "published": "Sun, 18 Jan 2026 06:01:38 CST",
+    "published": "Sun, 18 Jan 2026 06:01:39 CST",
     "summary": "The president escalated his drive to take charge of the Danish territory,\ntargeting Denmark and seven other European countries with a 10 percent rate.\n\n"
   },
   {
@@ -316,12 +322,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-17%2Fdudley-trump-pressure-on-powell-counterproductive-video",
     "published": "Sat, 17 Jan 2026 02:03:30 CST",
     "summary": "Former New York Fed President Bill Dudley reacts to the Justice Department’s\ncriminal subpoena of Fed Chair Jerome Powell, and discusses Powell’s public\nresponse. Dudley explains how the Trump Administration’s pressure on the Fed\nto lower interest rates is ‘counterproductive,’ and addresses concerns about\ndamaging the Fed’s credibility. He says that although President Donald Trump\nviews interest rates like a real estate developer, lower rates aren’t always\ngood for American consumers. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Capital A Completes Sale of Aviation Business to AirAsia X",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fcapital-a-completes-sale-of-aviation-business-to-airasia-x",
-    "published": "Sat, 17 Jan 2026 01:58:30 CST",
-    "summary": "Malaysia’s Capital A Bhd. said it completed the sale of its short-haul\naviation business to AirAsia X Bhd., as part of the restructuring of the\nbusiness empire controlled by Tony Fernandes.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
