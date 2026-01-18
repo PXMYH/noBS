@@ -1,5 +1,17 @@
 [
   {
+    "title": "Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fbrazil-s-billionaire-batistas-poised-for-venezuelan-oil-revival",
+    "published": "Sun, 18 Jan 2026 16:00:00 CST",
+    "summary": "The billionaire Batista brothers are eyeing a billion-barrel Venezuelan oil\nproject that stands to benefit from US President Donald Trump’s planned\nrevival of the South American nation’s energy sector.\n\n"
+  },
+  {
+    "title": "Trump’s Campaign Manager Resolves Daily Beast Defamation Suit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Fchris-lacivita-daily-beast-defamation-suit.html",
+    "published": "Sun, 18 Jan 2026 15:46:11 CST",
+    "summary": "As part of the settlement, The Daily Beast was not required to apologize or\nissue any payment to Chris LaCivita, who sued the outlet last year.\n\n"
+  },
+  {
     "title": "Wall Street’s Hot 2026 Trades, From AI Dispersion to Tech Tails",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fwall-street-s-hot-2026-trades-from-ai-dispersion-to-tech-tails",
     "published": "Sun, 18 Jan 2026 15:00:00 CST",
@@ -316,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-consumed-twice-the-electricity-of-the-us-in-2025-cctv",
     "published": "Sat, 17 Jan 2026 04:08:11 CST",
     "summary": "China used more than double the electricity of the US in 2025, China Central\nTelevision reported Saturday, citing data from the National Energy\nAdministration.\n\n"
-  },
-  {
-    "title": "China Punished 69 Senior Officials for Corruption Last Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-17%2Fchina-punished-69-senior-officials-for-corruption-last-year",
-    "published": "Sat, 17 Jan 2026 04:06:31 CST",
-    "summary": "China punished 69 officials at the level of minister, provincial rank and\nabove last year for corruption amid an ongoing crackdown, according to a\nstatement posted Saturday on the website of the Central Commission for\nDiscipline Inspection and the National Supervisory Commission.\n\n"
   },
   {
     "title": "Why Banks Are So Worried About a 10% Credit Card Rate Cap",
@@ -712,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fsaks-global-bankruptcy",
     "published": "Thu, 15 Jan 2026 10:00:02 CST",
     "summary": "Just more than a year after the new luxury behemoth was formed, it announced\nit had filed for chapter 11 bankruptcy\n\nEvery year, the stores down Manhattan’s Fifth Avenue dress up their windows at\nChristmastime. Tourists from all over the world come to gawk at all the\nglitter, lace, ruffles and bows.\n\nSaks’s Fifth Avenue location, so iconic that it’s embedded in the brand’s\nname, is usually dressed top to bottom during the holidays. In 2023, the store\npartnered with Christian Dior to display a giant zodiac calendar. As part of\nthe light show, fireworks were released from the top of the store to the oohs\nand aahs of spectators.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Verizon Outage Cuts Off Tens of Thousands of Users",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Fverizon-outage-downdetector.html",
-    "published": "Thu, 15 Jan 2026 03:50:17 CST",
-    "summary": "The outage cut off tens of thousands of users and lasted more than six hours.\nThe cause was not immediately clear.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
