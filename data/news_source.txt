@@ -1,9 +1,75 @@
 [
   {
+    "title": "S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fem-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries",
+    "published": "Mon, 19 Jan 2026 06:41:31 CST",
+    "summary": "Emerging Asian equities gained, led by South Korea and Taiwan, helping reverse\nearly declines fueled by US President Donald Trump’s announcement of new\ntariffs on eight European countries over Greenland.\n\n"
+  },
+  {
+    "title": "FTSE 100 Set to Fall as Tariff Worries Hit Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-19%2Fftse-100-live-trump-tariffs-davos-house-prices-pound-bonds-what-s-moving-uk-markets-right-now-markets-today-mkksqzv1",
+    "published": "Mon, 19 Jan 2026 06:41:08 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Brookfield-backed Indian Energy Firm Clean Max Said to Plan Reduced IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbrookfield-backed-clean-max-said-to-plan-downsized-india-ipo",
+    "published": "Mon, 19 Jan 2026 06:33:42 CST",
+    "summary": "Clean Max Enviro Energy Solutions Ltd., a renewable energy company backed by\nBrookfield Corp., is preparing to launch its initial public offering in\nFebruary with a reduced deal size, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Trump Says Mamdani Facing ‘Big Test’ From NYSE’s Texas Trading Outpost",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftrump-says-mamdani-facing-big-test-from-nyse-s-texas-outpost",
+    "published": "Mon, 19 Jan 2026 06:23:27 CST",
+    "summary": "President Donald Trump called a New York Stock Exchange equities trading\noutpost in Texas “an UNBELIEVABLY BAD THING” for New York and a “big test” for\nMayor Zohran Mamdani, who took office earlier this month.\n\n"
+  },
+  {
+    "title": "HDFC Bank’s Recovery Gains Momentum on Lending Expansion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhdfc-bank-s-recovery-gains-momentum-on-lending-expansion",
+    "published": "Mon, 19 Jan 2026 06:17:38 CST",
+    "summary": "HDFC Bank Ltd. posted better-than-expected results on healthy loan growth,\nsignaling that India’s biggest private sector lender is beginning to recapture\nground it had ceded to rival ICICI Bank Ltd. for most of last year.\n\n"
+  },
+  {
+    "title": "Indonesia’s Danantara Mulls Raising $1.2 Billion in Fresh Funding Round",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fdanantara-mulling-1-2-billion-in-new-funding-via-patriot-bonds",
+    "published": "Mon, 19 Jan 2026 06:16:06 CST",
+    "summary": "Danantara, Indonesia’s new sovereign wealth fund, plans to raise 20 trillion\nrupiah ($1.2 billion) in the first half via a fresh round of so-called patriot\nbonds, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Key Chinese Rio Tinto Shareholder Backs Glencore Bid to Gain Copper Access",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchinalco-seen-backing-rio-bid-for-glencore-to-gain-copper-share",
+    "published": "Mon, 19 Jan 2026 06:13:36 CST",
+    "summary": "Aluminum Corp. of China, one of the largest shareholders in Rio Tinto Group,\nis likely to support the mining giant’s potential acquisition of rival\nGlencore Plc, a combination that would give the Chinese company increased\nexposure to copper, the industry’s most coveted metal.\n\n"
+  },
+  {
+    "title": "iPhone Tops China Market After Shipments Soar, Counterpoint Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fapple-tops-china-market-after-iphone-shipments-soar-28-counterpoint-says",
+    "published": "Mon, 19 Jan 2026 06:00:27 CST",
+    "summary": "Apple Inc. retook the top spot in China after iPhone shipments jumped 28%\nduring the holiday quarter despite a worsening shortage of vital memory chips,\naccording to Counterpoint Research.\n\n"
+  },
+  {
+    "title": "Japan’s Food Stocks Jump on Tax Cut Talk, Fiscal Woes Hit Bonds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-s-food-stocks-feast-on-tax-cut-talk-fiscal-woes-hit-bonds",
+    "published": "Mon, 19 Jan 2026 05:56:02 CST",
+    "summary": "Food-related stocks surged in Japan on speculation of a temporary tax break\nwhile government bonds slumped because of the strain this would put on the\nnation’s finances.\n\n"
+  },
+  {
     "title": "China’s Birthrate Plunges to Lowest Level Since 1949",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html",
     "published": "Mon, 19 Jan 2026 05:41:46 CST",
     "summary": "China’s population fell for a fourth straight year and its birthrate tumbled\nas policymakers failed to slow a demographic crisis.\n\n"
+  },
+  {
+    "title": "Chinese Exports Give Biggest Growth Boost to Economy Since 1997",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchinese-exports-give-biggest-growth-boost-to-economy-since-1997",
+    "published": "Mon, 19 Jan 2026 05:31:59 CST",
+    "summary": "China relied on exports to drive economic growth to a degree unseen since the\nAsian financial crisis nearly three decades ago, in a demonstration of\nstrength that allowed it to ride out the trade war started by Donald Trump.\n\n"
+  },
+  {
+    "title": "China Meets 5% Growth Target but Momentum Weakens | The China Show &mdash; 1/19/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fthe-china-show-1-19-2026-video",
+    "published": "Mon, 19 Jan 2026 05:27:28 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Why Franklin Templeton Sees India As A Long-Term Winner",
@@ -72,28 +138,10 @@
     "summary": "A leading South Korean credit card company is selling a dollar bond in the\nlocal market, highlighting demand to diversify away from the won after recent\ndeclines.\n\n"
   },
   {
-    "title": "Romania to Hold Rates With Inflation Near 10%: Decision Guide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fromania-to-hold-rates-with-inflation-near-10-decision-guide",
-    "published": "Mon, 19 Jan 2026 04:00:00 CST",
-    "summary": "Romania’s policymakers will likely maintain one of the highest interest rates\nin the European Union to tame inflation that’s running near 10% and expected\nto slow only gradually in the coming months.\n\n"
-  },
-  {
     "title": "National Anger Spills Into Target Stores, Again",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftarget-immigration-minneapolis.html",
     "published": "Mon, 19 Jan 2026 03:59:59 CST",
     "summary": "Videos of immigration officers dragging an employee out of a store near\nMinneapolis, the retailer’s hometown, set off renewed political debate after\nyears of boycotts.\n\n"
-  },
-  {
-    "title": "Trump's Greenland Threat Drives Gold to Fresh Record | The Asia Trade 1/19/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fthe-asia-trade-1-19-26-video",
-    "published": "Mon, 19 Jan 2026 03:56:16 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Chinese Pig Breeder Muyuan Is Said to Gauge Interest for $1.5 Billion Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchinese-pig-breeder-muyuan-is-said-to-gauge-interest-for-1-5-billion-hk-listing",
-    "published": "Mon, 19 Jan 2026 03:55:39 CST",
-    "summary": "Muyuan Foods Co., one of the world’s biggest pig breeders and pork producers,\nhas started gauging investor interest for a Hong Kong listing that may raise\nas much as $1.5 billion, according to people familiar with the matter.\n\n"
   },
   {
     "title": "Real Estate Crash Weighs on China’s Economic Growth",
@@ -102,52 +150,22 @@
     "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
   },
   {
-    "title": "Copper Rises Toward $13,000 as Dollar Dips on Greenland Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcopper-rises-toward-13-000-as-dollar-dips-on-greenland-tariffs",
-    "published": "Mon, 19 Jan 2026 03:26:44 CST",
-    "summary": "Copper resumed gains as the dollar weakened on President Donald Trump’s\nthreats to impose tariffs over Greenland, and China’s economic growth met the\ngovernment target.\n\n"
-  },
-  {
-    "title": "Tokyo Electric to Delay Niigata Nuclear Plant Restart, NHK Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftokyo-electric-to-delay-niigata-nuclear-plant-restart-nhk-says",
-    "published": "Mon, 19 Jan 2026 03:26:09 CST",
-    "summary": "Japanese utility Tokyo Electric Power Co. will delay the restart of its\nnuclear power unit in Niigata, local broadcaster NHK reported on Monday,\nfollowing an issue with an alarm that was discovered over the weekend.\n\n"
-  },
-  {
-    "title": "China's Annual Investment Drop Among 'Worst' Economic Figures, ANZ's Yeung Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fchina-s-investment-drop-among-worst-figures-anz-says-video",
-    "published": "Mon, 19 Jan 2026 03:15:31 CST",
-    "summary": "Raymond Yeung, chief Greater China economist at ANZ, reacts to the latest data\non China's economy. While GDP met the government target, retail sales and\ninvestment worsened. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Japan Power Firm Erex in Discussions to Take Over Enetrade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-power-firm-erex-in-talks-to-take-over-embattled-enetrade",
     "published": "Mon, 19 Jan 2026 03:07:53 CST",
     "summary": "Tokyo-based electricity and renewable energy firm Erex Co. is in advanced\ndiscussions to take over Enetrade Inc., a trader which is grappling with the\nfallout from unprofitable deals, according to a document seen by Bloomberg.\n\n"
   },
   {
-    "title": "Record China ETF Outflows Signal National Team Is Cooling Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Frecord-china-etf-outflows-signal-national-team-is-cooling-rally",
-    "published": "Mon, 19 Jan 2026 03:01:07 CST",
-    "summary": "A basket of exchange-traded funds owned by China’s so-called national team saw\nanother day of record outflows on Friday, adding to signs that authorities are\nstepping in to curb the risk of a bubble.\n\n"
-  },
-  {
-    "title": "Iron Ore Sinks as China Steel Output Drops, Simandou Cargo Docks",
+    "title": "Iron Ore Sinks as China Steel Cuts, New Mine Feed Glut Concerns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Firon-ore-sinks-as-china-steel-output-drops-simandou-cargo-docks",
     "published": "Mon, 19 Jan 2026 02:56:17 CST",
-    "summary": "Iron ore sank for a fifth day as Beijing confirmed a big drop in steel\nproduction and the inaugural cargo from a major new mine in Africa arrived in\nChina, raising concerns about oversupply in the seaborne market.\n\n"
+    "summary": "Iron ore sank for a fifth day on concerns about oversupply, as Beijing\nconfirmed a substantial drop in steel output, the inaugural cargo from a major\nnew mine in Africa arrived in China, and port stockpiles expanded.\n\n"
   },
   {
-    "title": "Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Freliance-industries-icici-bank-earnings-fall-short-of-expectations",
-    "published": "Mon, 19 Jan 2026 02:45:42 CST",
-    "summary": "Banks make up about 30% of the Nifty and are key to any earnings recovery.\n\n"
-  },
-  {
-    "title": "Philippine Bourse’s Filings Website Hit by Intermittent Outages",
+    "title": "Philippine Bourse’s Disclosure Website Restored After Outage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fphilippine-bourse-s-filings-website-hit-by-intermittent-outages",
     "published": "Mon, 19 Jan 2026 02:45:09 CST",
-    "summary": "The Philippine Stock Exchange Inc.’s website for company disclosures is\nexperiencing intermittent downtime, though market trading continues as usual,\naccording to the stock exchange operator.\n\n"
+    "summary": "The Philippine Stock Exchange Inc.’s website for company disclosures has\nreturned to normal operations by noon, according to the stock exchange\noperator.\n\n"
   },
   {
     "title": "One Month Later, CBS Airs Postponed ‘60 Minutes’ Report With Few Changes",
@@ -162,34 +180,22 @@
     "summary": "The segment, reported by Sharyn Alfonsi, was supposed to air on 21 December\nbut was pulled by editor in chief Bari Weiss\n\nNearly a month after CBS News editor in chief Bari Weiss ignited controversy\nby shelving a 60 Minutes segment about Venezuelan prisoners, telling staffers\nthat it needed more reporting, the piece finally aired on Sunday night.\n\nWeiss had originally instructed 60 Minutes to hold the segment about the Cecot\nprison in El Salvador, which had already been scheduled, in part because it\nlacked “the administration’s argument”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "China Aluminum Output at Record, Steel Below 1 Billion Tons",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-aluminum-output-hits-record-steel-below-1-billion-tons",
-    "published": "Mon, 19 Jan 2026 02:24:04 CST",
-    "summary": "Chinese aluminum output rose to an all-time high last year, climbing above the\ncountry’s capacity limit, while steel fell to a seven-year low, underscoring\ndramatically different prospects for the two most widely used metals.\n\n"
-  },
-  {
-    "title": "Japan Bonds Slump as Food Tax Cut Talk Adds to Election Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-bond-yields-jump-on-fiscal-concerns-as-election-approaches",
-    "published": "Mon, 19 Jan 2026 02:09:25 CST",
-    "summary": "Japan’s government bonds fell after reports of a possible cut to food tax\nrenewed fiscal concerns ahead of a snap election expected to be held next\nmonth.\n\n"
-  },
-  {
-    "title": "China’s Economic Momentum Weakens Despite Meeting 5% Growth Goal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-economy-grows-5-in-2025-as-export-boom-helps-meet-goal",
-    "published": "Mon, 19 Jan 2026 02:00:01 CST",
-    "summary": "China’s economy lost more momentum last quarter even as it met the\ngovernment’s target in 2025, in another year of lopsided growth that will be\nhard to sustain in an era of protectionism around the world.\n\n"
-  },
-  {
     "title": "‘60 Minutes’ story held for lacking interview with Trump official airs without one",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fcbs-60-minutes-cecot%2F",
     "published": "Mon, 19 Jan 2026 01:46:17 CST",
     "summary": "Bari Weiss intervened to postpone a “60 Minutes” interview, leading to\nallegations of “corporate censorship.” The segment aired Sunday without major\nchanges.\n\n"
   },
   {
-    "title": "China Home Prices Fall Again as Calls Grow for More Action",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-home-prices-fall-in-december-as-calls-grow-for-more-action",
-    "published": "Mon, 19 Jan 2026 01:39:31 CST",
-    "summary": "China’s home prices fell in December, closing another tumultuous year for the\nreal estate industry as its debt crisis persists.\n\n"
+    "title": "Blast at Chinese Steel Plant Leaves Two Dead, Eight Missing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fexplosion-at-chinese-steel-plant-leaves-two-dead-eight-missing",
+    "published": "Mon, 19 Jan 2026 00:46:27 CST",
+    "summary": "A large explosion at a steel plant in northern China killed at least two\nworkers, injured dozens of others, and prompted the country’s emergencies\nministry to send officials to the site.\n\n"
+  },
+  {
+    "title": "Hong Kong Billionaire Puts Quarter of His Wealth in Gold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-value-billionaire-puts-quarter-of-his-wealth-in-gold",
+    "published": "Sun, 18 Jan 2026 23:30:00 CST",
+    "summary": "For three decades, Cheah Cheng Hye was a face of value investing in Asia,\nbuilding Value Partners Group Ltd. into a multi-billion dollar stock-picking\npowerhouse.\n\n"
   },
   {
     "title": "Oil Steadies With Iran and Trump’s Greenland Threat to the Fore",
@@ -240,7 +246,7 @@
     "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
   },
   {
-    "title": "Stock Futures Fall as Trump’s Europe Tariffs Weigh on Sentiment",
+    "title": "Stock Futures Sink as Trump’s Europe Tariffs Weigh on Sentiment",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
     "published": "Sun, 18 Jan 2026 17:29:19 CST",
     "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed on risk sentiment as trading kicked off\nMonday.\n\n"
@@ -586,12 +592,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
     "published": "Thu, 15 Jan 2026 22:05:15 CST",
     "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
-  },
-  {
-    "title": "Why Japan’s Economy Is at a Tipping Point",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fwhy-japan-s-economy-is-at-a-tipping-point",
-    "published": "Thu, 15 Jan 2026 22:00:03 CST",
-    "summary": "For 30 years, Japan’s prices were largely at a standstill. Now a weak yen has\nchanged everything. Here’s how consumers and businesses are coping with rising\ncosts, and what it means for the future. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
