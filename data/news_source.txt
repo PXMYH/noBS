@@ -1,9 +1,27 @@
 [
   {
+    "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
+    "published": "Mon, 19 Jan 2026 17:15:32 CST",
+    "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
+  },
+  {
+    "title": "Croatia’s Vujcic Closes in on ECB No. 2 Job in Tussle With Rehn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fecb-no-2-job-race-has-four-candidates-left-as-two-baltics-quit",
+    "published": "Mon, 19 Jan 2026 16:54:58 CST",
+    "summary": "Croatia’s Boris Vujcic is heading for victory in the race for the European\nCentral Bank vice presidency with only Finland’s Olli Rehn left to beat after\ntwo rounds of voting by finance ministers, according to people with knowledge\nof the matter.\n\n"
+  },
+  {
     "title": "QIA CEO on Strategy, Long Term Vision and Markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fqia-ceo-on-strategy-long-term-vision-and-markets-video",
     "published": "Mon, 19 Jan 2026 16:39:14 CST",
     "summary": "Mohammed Saif Al-Sowaidi, Chief Executive Officer, QIA discusses the fund’s\ninvestment strategy, long-term vision and global market role with Bloomberg’s\nFrancine Lacqua at At Invest Qatar Pavillon during the 2026 World Economic\nForum. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "State Street's Yie-Hsin Hung Speaks to BTV at Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fstate-street-s-yie-hsin-hung-speaks-to-btv-at-davos-video",
+    "published": "Mon, 19 Jan 2026 16:38:42 CST",
+    "summary": "State Street Investment Management CEO Yie-Hsin Hung speaks to Bloomberg TV’s\nLisa Abramowicz on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
   },
   {
     "title": "State Street Eyes Further Expansion Into Secondaries, Hung Says",
@@ -144,10 +162,10 @@
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
   },
   {
-    "title": "Zurich Makes £7.7 Billion Bid for Speciality Insurer Beazley",
+    "title": "Zurich Makes £7.7 Billion Bid for Specialty Insurer Beazley",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fzurich-makes-7-7-billion-bid-for-uk-cyber-insurer-beazley",
     "published": "Mon, 19 Jan 2026 13:20:05 CST",
-    "summary": "Zurich Insurance Group AG has gone public with a £7.67 billion ($10.3 billion)\nbid to buy Beazley Plc, a move that would create Europe’s largest specialty\ninsurer.\n\n"
+    "summary": "Zurich Insurance Group AG has gone public with a £7.67 billion ($10.3 billion)\nbid to buy Beazley Plc, increasing pressure on the UK-listed company it’s been\nwooing for more than 12 months.\n\n"
   },
   {
     "title": "Trump Threatens Europe, Global Stocks Sell Off | The Opening Trade 1/19/2025",
@@ -166,12 +184,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fstellantis-stock-stla-five-year-anniversary.html",
     "published": "Mon, 19 Jan 2026 13:00:01 CST",
     "summary": "Stellantis shares were largely up – as high as 93% in March 2024 – until\nreporting troubling financial results that year amid cost-cutting efforts and\nEVs.\n\n"
-  },
-  {
-    "title": "Hedge Fund Picton Says Markets Will Punish a Fed That Bows to Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-fund-picton-says-markets-will-punish-a-fed-that-bows-to-trump",
-    "published": "Mon, 19 Jan 2026 13:00:00 CST",
-    "summary": "The head of Picton Investments said bond markets will swiftly discipline the\nUS if President Donald Trump appoints a Federal Reserve chair who’s seen as\ntoo malleable -- and precious metals remain a good hedge against political\nvolatility.\n\n"
   },
   {
     "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
@@ -216,16 +228,16 @@
     "summary": "The 3.3 percent rate for 2026 would match last year’s pace. Booming investment\nin artificial intelligence is buttressing global output.\n\n"
   },
   {
-    "title": "UK Starts New Program for Retail Access to Corporate Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuk-starts-new-program-for-retail-access-to-corporate-bonds",
-    "published": "Mon, 19 Jan 2026 09:21:35 CST",
-    "summary": "The UK is launching a new effort to lower the barrier for retail investors to\nbuy corporate bonds, introducing a dedicated label and simplified rules.\n\n"
-  },
-  {
     "title": "Mideast Oil Prices Diverge as Refiners Seek Cheaper Options",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Foil-refiners-shun-uae-s-flagship-murban-for-cheaper-alternatives",
     "published": "Mon, 19 Jan 2026 08:44:05 CST",
     "summary": "Middle Eastern crude prices are diverging, with heavier grades growing cheaper\nrelative to lighter barrels -- a shift that’s encouraging Asian refiners to\nfavor medium and sour crudes to boost margins.\n\n"
+  },
+  {
+    "title": "S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fem-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries",
+    "published": "Mon, 19 Jan 2026 06:41:31 CST",
+    "summary": "Emerging-market currencies gained against a weaker dollar on Monday as trade\ntensions between the US and Europe flared over President Donald Trump’s push\nto take control of Greenland.\n\n"
   },
   {
     "title": "China’s Birthrate Plunges to Lowest Level Since 1949",
@@ -286,12 +298,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flatest-oil-market-news-and-analysis-for-jan-19",
     "published": "Sun, 18 Jan 2026 23:27:46 CST",
     "summary": "Oil recovered from earlier losses to trade little changed as the market\nweighed the fallout from US President Donald Trump’s threat to annex\nGreenland, while tensions over Iran cooled.\n\n"
-  },
-  {
-    "title": "Gold and Silver Jump to Record Highs on Greenland Tariff Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats",
-    "published": "Sun, 18 Jan 2026 23:10:40 CST",
-    "summary": "Gold and silver jumped to record highs as President Donald Trump’s\nintensifying push to take over Greenland fueled fears of a damaging trade war\nbetween the US and Europe.\n\n"
   },
   {
     "title": "Stocks Sink as US-Europe Turmoil Fuels Gold Demand: Markets Wrap",
@@ -640,12 +646,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html",
     "published": "Thu, 15 Jan 2026 22:49:29 CST",
     "summary": "Kathleen Kennedy stepped down as Lucasfilm’s president and returned to\nproducing. Two studio veterans took over.\n\n"
-  },
-  {
-    "title": "Trump Outlines Health Care Proposals as Prices and Premiums Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fus%2Fpolitics%2Ftrump-health-care-plan.html",
-    "published": "Thu, 15 Jan 2026 22:16:57 CST",
-    "summary": "The long-awaited plan would leave much to Congress and calls for payments to\nhealth savings accounts rather than insurance subsidies, among other broad\nproposals.\n\n"
   },
   {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
