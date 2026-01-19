@@ -1,5 +1,17 @@
 [
   {
+    "title": "Henkel in Talks With Wendel to Acquire Chemical Maker Stahl",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhenkel-in-talks-with-wendel-to-acquire-chemical-maker-stahl",
+    "published": "Mon, 19 Jan 2026 20:53:43 CST",
+    "summary": "Henkel AG is in talks with French investment firm Wendel SE on a potential\nacquisition of Dutch chemical maker Stahl Holdings BV.\n\n"
+  },
+  {
+    "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
+    "published": "Mon, 19 Jan 2026 20:52:36 CST",
+    "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
+  },
+  {
     "title": "Starmer plays down prospect of retaliatory tariffs against US over Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2026%2Fjan%2F19%2Fgreenland-keir-starmer-rules-out-retaliatory-tariffs-against-us",
     "published": "Mon, 19 Jan 2026 20:33:44 CST",
@@ -34,12 +46,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-greenland-tax-threat-risks-new-us-europe-trade-war-video",
     "published": "Mon, 19 Jan 2026 18:15:07 CST",
     "summary": "Donald Trump’s threat to hit European countries with a 10% levy over his claim\non Greenland risks a new trade war between the US and the EU. Alex Morgan\nexplains. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
-    "published": "Mon, 19 Jan 2026 18:11:18 CST",
-    "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
   },
   {
     "title": "Viridis Targets US, Europe Rare-Earth Deals Amid China Pushback",
@@ -108,10 +114,10 @@
     "summary": "Defense firm Czechoslovak Group AS is considering setting a price in an\naccelerated initial public offering that would value the company at about €25\nbillion ($29.1 billion), according to people familiar with the matter.\n\n"
   },
   {
-    "title": "Canadian Stocks Slide After Inflation Report, Tariff Concerns",
+    "title": "Gold Stocks Push S&amp;P/TSX to Record on Greenland Tensions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcanadian-stocks-slide-after-inflation-report-tariff-concerns",
     "published": "Mon, 19 Jan 2026 15:22:25 CST",
-    "summary": "Canadian equities slipped at Monday’s open after a hotter-than-expected\ninflation report and as the country considers sending troops to Greenland\ndespite threats of more tariffs from US President Donald Trump.\n\n"
+    "summary": "Canadian equities extended their winning streak to a fourth session Monday on\ngains by gold and silver miners, as precious metals prices surged in response\nto US President Donald Trump’s tariff threats against Europe over Greenland.\n\n"
   },
   {
     "title": "IMF’s Georgieva Says Tensions Over Greenland Could Curb Growth",
@@ -166,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftheater%2Fphantom-of-the-opera-masquerade.html",
     "published": "Mon, 19 Jan 2026 14:23:14 CST",
     "summary": "An immersive adaptation of Andrew Lloyd Webber’s musical has seen some people\nreturn a dozen times since it began performances last summer.\n\n"
-  },
-  {
-    "title": "Norway Wealth Fund Trims UK Holdings, Keeps Overall Exposure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnorway-wealth-fund-trims-uk-holdings-keeps-overall-exposure",
-    "published": "Mon, 19 Jan 2026 14:18:41 CST",
-    "summary": "Norway’s $2 trillion sovereign wealth fund is selling off shares in some UK\ncompanies as it works to reduce the number of individual holdings in line with\nits strategy.\n\n"
   },
   {
     "title": "Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble",
