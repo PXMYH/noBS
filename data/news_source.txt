@@ -1,5 +1,11 @@
 [
   {
+    "title": "Tesla, Volvo Set to Be First Winners of China-Canada EV Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftesla-volvo-set-to-be-first-winners-of-china-canada-ev-deal",
+    "published": "Mon, 19 Jan 2026 07:13:09 CST",
+    "summary": "Tesla Inc. and brands controlled by Zhejiang Geely Holding Group Co. will\nlikely be the first beneficiaries of Canada’s move to slash import tariffs on\nmade-in-China electric vehicles.\n\n"
+  },
+  {
     "title": "S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fem-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries",
     "published": "Mon, 19 Jan 2026 06:41:31 CST",
@@ -16,6 +22,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbrookfield-backed-clean-max-said-to-plan-downsized-india-ipo",
     "published": "Mon, 19 Jan 2026 06:33:42 CST",
     "summary": "Clean Max Enviro Energy Solutions Ltd., a renewable energy company backed by\nBrookfield Corp., is preparing to launch its initial public offering in\nFebruary with a reduced deal size, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Trump’s Greenland Push Makes Markets Nervous | Insight with Haslinda Amin 01/19/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Finsight-with-haslinda-amin-1-19-2026-video",
+    "published": "Mon, 19 Jan 2026 06:29:37 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump Says Mamdani Facing ‘Big Test’ From NYSE’s Texas Trading Outpost",
@@ -48,10 +60,10 @@
     "summary": "Apple Inc. retook the top spot in China after iPhone shipments jumped 28%\nduring the holiday quarter despite a worsening shortage of vital memory chips,\naccording to Counterpoint Research.\n\n"
   },
   {
-    "title": "Japan’s Food Stocks Jump on Tax Cut Talk, Fiscal Woes Hit Bonds",
+    "title": "Japan’s Government Bonds Slump, Food Stocks Jump on Tax Cut Talk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-s-food-stocks-feast-on-tax-cut-talk-fiscal-woes-hit-bonds",
     "published": "Mon, 19 Jan 2026 05:56:02 CST",
-    "summary": "Food-related stocks surged in Japan on speculation of a temporary tax break\nwhile government bonds slumped because of the strain this would put on the\nnation’s finances.\n\n"
+    "summary": "Japanese government bonds fell and food-related stocks surged in Japan after\nreports of a possible cut to food tax ahead of a snap election expected to be\nheld next month.\n\n"
   },
   {
     "title": "China’s Birthrate Plunges to Lowest Level Since 1949",
@@ -132,12 +144,6 @@
     "summary": "The dollar faces fresh headwinds as President Donald Trump weighs tariffs on\nEuropean nations tied to his plan to acquire Greenland, raising uncertainties\nover US policies, according to analysts.\n\n"
   },
   {
-    "title": "Kimchi Bonds Return in Korea as Weak Won Sparks Forex Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fwon-slide-to-asia-s-worst-performer-sparks-kimchi-bond-demand",
-    "published": "Mon, 19 Jan 2026 04:14:45 CST",
-    "summary": "A leading South Korean credit card company is selling a dollar bond in the\nlocal market, highlighting demand to diversify away from the won after recent\ndeclines.\n\n"
-  },
-  {
     "title": "National Anger Spills Into Target Stores, Again",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftarget-immigration-minneapolis.html",
     "published": "Mon, 19 Jan 2026 03:59:59 CST",
@@ -148,12 +154,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-gdp-economy.html",
     "published": "Mon, 19 Jan 2026 03:47:38 CST",
     "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
-  },
-  {
-    "title": "Japan Power Firm Erex in Discussions to Take Over Enetrade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-power-firm-erex-in-talks-to-take-over-embattled-enetrade",
-    "published": "Mon, 19 Jan 2026 03:07:53 CST",
-    "summary": "Tokyo-based electricity and renewable energy firm Erex Co. is in advanced\ndiscussions to take over Enetrade Inc., a trader which is grappling with the\nfallout from unprofitable deals, according to a document seen by Bloomberg.\n\n"
   },
   {
     "title": "Iron Ore Sinks as China Steel Cuts, New Mine Feed Glut Concerns",
@@ -198,10 +198,10 @@
     "summary": "For three decades, Cheah Cheng Hye was a face of value investing in Asia,\nbuilding Value Partners Group Ltd. into a multi-billion dollar stock-picking\npowerhouse.\n\n"
   },
   {
-    "title": "Oil Steadies With Iran and Trump’s Greenland Threat to the Fore",
+    "title": "Oil Declines as Iran Tensions Ease and Trump Menaces Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flatest-oil-market-news-and-analysis-for-jan-19",
     "published": "Sun, 18 Jan 2026 23:27:46 CST",
-    "summary": "Oil steadied as tensions over Iran cooled and wider markets had a risk-off\ntone with President Donald Trump’s push to take Greenland.\n\n"
+    "summary": "Oil fell as tensions over Iran cooled and wider markets had a risk-off tone\nwith President Donald Trump’s push to take Greenland.\n\n"
   },
   {
     "title": "Gold and Silver Jump to Record Highs on Greenland Tariff Threats",
@@ -246,7 +246,7 @@
     "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
   },
   {
-    "title": "Stock Futures Sink as Trump’s Europe Tariffs Weigh on Sentiment",
+    "title": "European Stocks Set to Tumble on Fresh Tariff Threats from Trump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
     "published": "Sun, 18 Jan 2026 17:29:19 CST",
     "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed on risk sentiment as trading kicked off\nMonday.\n\n"
