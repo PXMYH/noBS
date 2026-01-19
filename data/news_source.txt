@@ -1,12 +1,120 @@
 [
   {
+    "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
+    "published": "Mon, 19 Jan 2026 04:20:17 CST",
+    "summary": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle\nwith war, economics, artificial intelligence and other pressing issues.\n\n"
+  },
+  {
+    "title": "Dollar Faces Pressure From Trump’s Fresh Tariff Threat to Europe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fdollar-faces-pressure-from-trump-s-fresh-tariff-threat-to-europe",
+    "published": "Mon, 19 Jan 2026 04:17:43 CST",
+    "summary": "The dollar faces fresh headwinds as President Donald Trump weighs tariffs on\nEuropean nations tied to his plan to acquire Greenland, raising uncertainties\nover US policies, according to analysts.\n\n"
+  },
+  {
+    "title": "Won Slide as Asia’s Worst Performer Sparks Kimchi Bond Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fwon-slide-to-asia-s-worst-performer-sparks-kimchi-bond-demand",
+    "published": "Mon, 19 Jan 2026 04:14:45 CST",
+    "summary": "A leading South Korean credit card company is selling a dollar bond in the\nlocal market, highlighting demand to diversify away from the won after recent\nits declines.\n\n"
+  },
+  {
+    "title": "Romania to Hold Rates With Inflation Near 10%: Decision Guide",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fromania-to-hold-rates-with-inflation-near-10-decision-guide",
+    "published": "Mon, 19 Jan 2026 04:00:00 CST",
+    "summary": "Romania’s policymakers will likely maintain one of the highest interest rates\nin the European Union to tame inflation that’s running near 10% and expected\nto slow only gradually in the coming months.\n\n"
+  },
+  {
+    "title": "National Anger Spills Into Target Stores, Again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftarget-immigration-minneapolis.html",
+    "published": "Mon, 19 Jan 2026 03:59:59 CST",
+    "summary": "Videos of immigration officers dragging an employee out of a store near\nMinneapolis, the retailer’s hometown, set off renewed political debate after\nyears of boycotts.\n\n"
+  },
+  {
+    "title": "Trump's Greenland Threat Drives Gold to Fresh Record | The Asia Trade 1/19/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fthe-asia-trade-1-19-26-video",
+    "published": "Mon, 19 Jan 2026 03:56:16 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Chinese Pig Breeder Muyuan Is Said to Gauge Interest for $1.5 Billion Hong Kong Listing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchinese-pig-breeder-muyuan-is-said-to-gauge-interest-for-1-5-billion-hk-listing",
+    "published": "Mon, 19 Jan 2026 03:55:39 CST",
+    "summary": "Muyuan Foods Co., one of the world’s biggest pig breeders and pork producers,\nhas started gauging investor interest for a Hong Kong listing that may raise\nas much as $1.5 billion, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Real Estate Crash Weighs on China’s Economic Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-gdp-economy.html",
+    "published": "Mon, 19 Jan 2026 03:47:37 CST",
+    "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
+  },
+  {
+    "title": "Copper Rises Toward $13,000 as Dollar Dips on Greenland Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcopper-rises-toward-13-000-as-dollar-dips-on-greenland-tariffs",
+    "published": "Mon, 19 Jan 2026 03:26:44 CST",
+    "summary": "Copper resumed gains as the dollar weakened on President Donald Trump’s\nthreats to impose tariffs over Greenland, and China’s economic growth met the\ngovernment target.\n\n"
+  },
+  {
+    "title": "Tokyo Electric to Delay Niigata Nuclear Plant Restart, NHK Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftokyo-electric-to-delay-niigata-nuclear-plant-restart-nhk-says",
+    "published": "Mon, 19 Jan 2026 03:26:09 CST",
+    "summary": "Japanese utility Tokyo Electric Power Co. will delay the restart of its\nnuclear power unit in Niigata, local broadcaster NHK reported on Monday,\nfollowing an issue with an alarm that was discovered over the weekend.\n\n"
+  },
+  {
+    "title": "China's Annual Investment Drop Among 'Worst' Economic Figures, ANZ's Yeung Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fchina-s-investment-drop-among-worst-figures-anz-says-video",
+    "published": "Mon, 19 Jan 2026 03:15:31 CST",
+    "summary": "Raymond Yeung, chief Greater China economist at ANZ, reacts to the latest data\non China's economy. While GDP met the government target, retail sales and\ninvestment worsened. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan Power Firm Erex in Discussions to Take Over Enetrade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-power-firm-erex-in-talks-to-take-over-embattled-enetrade",
+    "published": "Mon, 19 Jan 2026 03:07:53 CST",
+    "summary": "Tokyo-based electricity and renewable energy firm Erex Co. is in advanced\ndiscussions to take over Enetrade Inc., a trader which is grappling with the\nfallout from unprofitable deals, according to a document seen by Bloomberg.\n\n"
+  },
+  {
+    "title": "Record China ETF Outflows Signal National Team Is Cooling Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Frecord-china-etf-outflows-signal-national-team-is-cooling-rally",
+    "published": "Mon, 19 Jan 2026 03:01:07 CST",
+    "summary": "A basket of exchange-traded funds owned by China’s so-called national team saw\nanother day of record outflows on Friday, adding to signs that authorities are\nstepping in to curb the risk of a bubble.\n\n"
+  },
+  {
+    "title": "Iron Ore Sinks as China Steel Output Drops, Simandou Cargo Docks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Firon-ore-sinks-as-china-steel-output-drops-simandou-cargo-docks",
+    "published": "Mon, 19 Jan 2026 02:56:17 CST",
+    "summary": "Iron ore sank for a fifth day as Beijing confirmed a big drop in steel\nproduction and the inaugural cargo from a major new mine in Africa arrived in\nChina, raising concerns about oversupply in the seaborne market.\n\n"
+  },
+  {
+    "title": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html",
+    "published": "Mon, 19 Jan 2026 02:54:10 CST",
+    "summary": "With fewer babies and more deaths, China’s population fell for a fourth\nstraight year as policymakers face a demographic crisis in the making.\n\n"
+  },
+  {
+    "title": "Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Freliance-industries-icici-bank-earnings-fall-short-of-expectations",
+    "published": "Mon, 19 Jan 2026 02:45:42 CST",
+    "summary": "Banks make up about 30% of the Nifty and are key to any earnings recovery.\n\n"
+  },
+  {
+    "title": "Philippine Bourse’s Filings Website Hit by Intermittent Outages",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fphilippine-bourse-s-filings-website-hit-by-intermittent-outages",
+    "published": "Mon, 19 Jan 2026 02:45:09 CST",
+    "summary": "The Philippine Stock Exchange Inc.’s website for company disclosures is\nexperiencing intermittent downtime, though market trading continues as usual,\naccording to the stock exchange operator.\n\n"
+  },
+  {
     "title": "One Month Later, CBS Airs Postponed ‘60 Minutes’ Report With Few Changes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Fcbs-60-minutes-venezuela-report.html",
     "published": "Mon, 19 Jan 2026 02:31:11 CST",
     "summary": "A 13-minute segment about Venezuelan men deported by the Trump administration\nhad been pulled at the last minute by CBS News’s editor in chief, Bari Weiss.\n\n"
   },
   {
-    "title": "China’s Aluminum Output Hits Record, Steel Below 1 Billion Tons",
+    "title": "CBS finally airs 60 Minutes segment on Venezuelan prisoners sent to Cecot in El Salvador",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F19%2Fcbs-60-minutes-venezuelan-prisoners-bari-weiss",
+    "published": "Mon, 19 Jan 2026 02:27:37 CST",
+    "summary": "The segment, reported by Sharyn Alfonsi, was supposed to air on 21 December\nbut was pulled by editor in chief Bari Weiss\n\nNearly a month after CBS News editor in chief Bari Weiss ignited controversy\nby shelving a 60 Minutes segment about Venezuelan prisoners, telling staffers\nthat it needed more reporting, the piece finally aired on Sunday night.\n\nWeiss had originally instructed 60 Minutes to hold the segment about the Cecot\nprison in El Salvador, which had already been scheduled, in part because it\nlacked “the administration’s argument”.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "China Aluminum Output at Record, Steel Below 1 Billion Tons",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-aluminum-output-hits-record-steel-below-1-billion-tons",
     "published": "Mon, 19 Jan 2026 02:24:04 CST",
     "summary": "Chinese aluminum output rose to an all-time high last year, climbing above the\ncountry’s capacity limit, while steel fell to a seven-year low, underscoring\ndramatically different prospects for the two most widely used metals.\n\n"
@@ -24,12 +132,6 @@
     "summary": "New Zealand Finance Minister Nicola Willis said she would have preferred\nReserve Bank Governor Anna Breman spoke with her before signing a statement in\nsupport of Federal Reserve Chair Jerome Powell.\n\n"
   },
   {
-    "title": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html",
-    "published": "Mon, 19 Jan 2026 02:19:09 CST",
-    "summary": "With fewer babies and more deaths, China’s population fell for a fourth\nstraight year as policymakers face a demographic crisis in the making.\n\n"
-  },
-  {
     "title": "Singapore Property Stocks Set for Best Start in Over a Decade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsingapore-property-stocks-set-for-best-start-in-over-a-decade",
     "published": "Mon, 19 Jan 2026 02:17:36 CST",
@@ -42,10 +144,10 @@
     "summary": "Point72 Asset Management has signed a deal to take more space for its upcoming\noffice in The Henderson, a skyscraper in Hong Kong’s Central district, as\ndemand from the financial sector provides relief to the city’s beleaguered\noffice market.\n\n"
   },
   {
-    "title": "Japan Bond Yields Jump on Fiscal Concerns as Election Approaches",
+    "title": "Japan Bonds Slump as Food Tax Cut Talk Adds to Election Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-bond-yields-jump-on-fiscal-concerns-as-election-approaches",
     "published": "Mon, 19 Jan 2026 02:09:25 CST",
-    "summary": "Japan’s government bond yields jumped after reports of a possible cut to food\ntax renewed fiscal concerns ahead of a snap election expected to be held next\nmonth.\n\n"
+    "summary": "Japan’s government bonds fell after reports of a possible cut to food tax\nrenewed fiscal concerns ahead of a snap election expected to be held next\nmonth.\n\n"
   },
   {
     "title": "Jane Street India Unit Saw Trading Gains Soar 494% Before Curbs",
@@ -54,22 +156,22 @@
     "summary": "Jane Street Group LLC’s unit in India reported an almost six-fold jump in\ntrading gains for the financial year ended March before its operations were\nbrought to an abrupt halt by the regulator on allegations of market\nmanipulation last year.\n\n"
   },
   {
-    "title": "Real Estate Crash Weighs on China’s Economic Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-gdp-economy.html",
-    "published": "Mon, 19 Jan 2026 02:02:07 CST",
-    "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
-  },
-  {
-    "title": "China’s Economy Grows 5% in 2025 as Exports Help Meet Target",
+    "title": "China’s Economic Momentum Weakens Despite Meeting 5% Growth Goal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-economy-grows-5-in-2025-as-export-boom-helps-meet-goal",
     "published": "Mon, 19 Jan 2026 02:00:01 CST",
-    "summary": "China’s economic growth met the government’s target last year despite a\npronounced slowdown in recent months, weathering Donald Trump’s trade war by\nboosting exports outside the US.\n\n"
+    "summary": "China’s economy lost more momentum last quarter even as it met the\ngovernment’s target in 2025, in another year of lopsided growth that will be\nhard to sustain in an era of protectionism around the world.\n\n"
   },
   {
     "title": "Franklin Templeton Strategist Sees Promise in Indian Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ffranklin-templeton-strategist-sees-promise-in-indian-stocks",
     "published": "Mon, 19 Jan 2026 02:00:00 CST",
     "summary": "A lack of enthusiasm toward Indian equities is opening an opportunity for\nlong-term investors, according to Franklin Templeton Institute’s Chief Market\nStrategist and Head Stephen Dover.\n\n"
+  },
+  {
+    "title": "Tiger Global’s Tax Ruling Casts Pall on India’s Buyout Sector",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftiger-global-s-tax-ruling-casts-pall-on-india-s-buyout-sector",
+    "published": "Mon, 19 Jan 2026 02:00:00 CST",
+    "summary": "An India court ruling forcing Tiger Global Management to pay taxes on an asset\nsale will have ripple effects on other buyout firms seeking to unload long-\nheld investments, and may set a precedent for tax probes on high-frequency\ntrading firms including Jane Street Group.\n\n"
   },
   {
     "title": "Trump Rocks Europe With Tariff Play to Seize Greenland",
@@ -84,58 +186,10 @@
     "summary": "Bari Weiss intervened to postpone a “60 Minutes” interview, leading to\nallegations of “corporate censorship.” The segment aired Sunday without major\nchanges.\n\n"
   },
   {
-    "title": "Hedge Funds Exit Bullish Euro Bets Just Before Greenland Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-funds-exit-bullish-euro-bets-just-before-greenland-threat",
-    "published": "Mon, 19 Jan 2026 01:42:03 CST",
-    "summary": "Hedge funds closed their bullish euro positions just days before US President\nDonald Trump threatened to impose new tariffs on European nations as he ramped\nup efforts to take over Greenland.\n\n"
-  },
-  {
-    "title": "China Home Prices Fall in December as Calls Grow for More Action",
+    "title": "China Home Prices Fall Again as Calls Grow for More Action",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-home-prices-fall-in-december-as-calls-grow-for-more-action",
     "published": "Mon, 19 Jan 2026 01:39:31 CST",
     "summary": "China’s home prices fell in December, closing another tumultuous year for the\nreal estate industry as its debt crisis persists.\n\n"
-  },
-  {
-    "title": "US Natural Gas Jumps on Colder Outlook for Last Week of January",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fus-natural-gas-jumps-on-colder-outlook-for-last-week-of-january",
-    "published": "Mon, 19 Jan 2026 01:24:53 CST",
-    "summary": "US natural gas futures jumped as the weather outlook for late January shifted\ncolder, with blasts of Arctic air set to sweep the eastern part of the\ncountry, raising demand for the fuel that’s used for heating and power\ngeneration.\n\n"
-  },
-  {
-    "title": "Sunway’s $2.7 Billion IJM Bid Questioned Over Bumiputera Rights",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsunway-s-2-7-billion-ijm-bid-questioned-over-bumiputera-rights",
-    "published": "Mon, 19 Jan 2026 01:24:14 CST",
-    "summary": "Sunway Bhd.’s proposed 11 billion ringgit ($2.7 billion) takeover of IJM Corp\nBhd. is drawing political scrutiny over concerns that it could dilute both the\nequity interests of the government and the rights of Malaysia’s indigenous\nmajority.\n\n"
-  },
-  {
-    "title": "Explosion at Chinese Steel Plant Leaves Two Dead, Eight Missing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fexplosion-at-chinese-steel-plant-leaves-two-dead-eight-missing",
-    "published": "Mon, 19 Jan 2026 00:46:27 CST",
-    "summary": "A large blast at a steel plant in northern China killed at least two workers\nand injured dozens of others, according to state media.\n\n"
-  },
-  {
-    "title": "Hohn Breaks Citadel’s Record With $18.9 Billion Trading Profit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhohn-breaks-citadel-s-record-with-18-9-billion-trading-profit",
-    "published": "Mon, 19 Jan 2026 00:01:00 CST",
-    "summary": "Chris Hohn broke the hedge fund profit record last year as rising stocks and\nglobal market volatility helped the industry rack up $543 billion worth of\ngains, also an all-time high.\n\n"
-  },
-  {
-    "title": "Reeves Says London IPO Critics Were ‘Wrong’ as New Rules Kick In",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Freeves-says-london-ipo-critics-were-wrong-as-new-rules-kick-in",
-    "published": "Mon, 19 Jan 2026 00:01:00 CST",
-    "summary": "Chancellor of the Exchequer Rachel Reeves is set to say critics of the UK’s\ncapital markets “were wrong” and herald “a new golden age for the City” at the\nLondon Stock Exchange on Monday, as new rules to make it easier to raise\npublic capital in Britain kick in.\n\n"
-  },
-  {
-    "title": "Rupiah May Sink Past Record Low as Fiscal Woes Erode BI Support",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fusd-idr-indonesian-rupiah-nears-record-low-as-fiscal-woes-blunt-bi-support",
-    "published": "Sun, 18 Jan 2026 23:55:45 CST",
-    "summary": "Indonesia’s rupiah looks poised to weaken past a record low, analysts say,\nwith central bank intervention unlikely to halt the slide amid persistent\nfiscal worries.\n\n"
-  },
-  {
-    "title": "Hong Kong Billionaire Puts Quarter of His Wealth in Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-value-billionaire-puts-quarter-of-his-wealth-in-gold",
-    "published": "Sun, 18 Jan 2026 23:30:00 CST",
-    "summary": "For three decades, Cheah Cheng Hye was a face of value investing in Asia,\nbuilding Value Partners Group Ltd. into a multi-billion dollar stock-picking\npowerhouse.\n\n"
   },
   {
     "title": "Oil Steadies With Iran and Trump’s Greenland Threat to the Fore",
@@ -147,19 +201,7 @@
     "title": "Gold and Silver Jump to Record Highs on Greenland Tariff Threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats",
     "published": "Sun, 18 Jan 2026 23:10:40 CST",
-    "summary": "Gold and silver jumped to record highs as President Donald Trump’s\nintensifying push to take Greenland spurred fears of a damaging trade war\nbetween the US and Europe.\n\n"
-  },
-  {
-    "title": "Taiwan Dollar at Risk of Insurers Reducing $95 Billion of Hedges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftaiwan-dollar-faces-losses-from-estimated-95-billion-hedge-unwind",
-    "published": "Sun, 18 Jan 2026 23:00:00 CST",
-    "summary": "The Taiwanese dollar is expected to lose a crucial source of support as new\naccounting rules allow insurers to unwind foreign-exchange hedges on as much\nas NT$3 trillion ($95 billion) of overseas assets.\n\n"
-  },
-  {
-    "title": "China’s $7 Trillion Cash Pile Is Shifting Into Stocks, Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-s-7-trillion-cash-pile-is-shifting-into-stocks-gold",
-    "published": "Sun, 18 Jan 2026 23:00:00 CST",
-    "summary": "Chinese households are scouring for higher-yielding investments as roughly $7\ntrillion in time deposits come due this year, a shift that could provide\nadditional fuel for the nation’s financial markets.\n\n"
+    "summary": "Gold and silver jumped to record highs as President Donald Trump’s\nintensifying push to take over Greenland spurred fears of a damaging trade war\nbetween the US and Europe.\n\n"
   },
   {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
@@ -171,19 +213,7 @@
     "title": "Stocks Fall, Havens Rise on Greenland Tariff Woes: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
     "published": "Sun, 18 Jan 2026 22:13:21 CST",
-    "summary": "US and European stock futures fell and haven assets such as gold rallied after\nPresident Donald Trump proposed new levies on eight countries, including\nGermany and France, that have opposed his plans to acquire Greenland. The\ndollar weakened against most of its major peers.\n\n"
-  },
-  {
-    "title": "Reform UK Reveals Another Conservative MP Defection",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Freform-uk-reveals-defection-of-second-conservative-mp-in-a-week",
-    "published": "Sun, 18 Jan 2026 21:39:22 CST",
-    "summary": "Reform UK has announced the second defection of a sitting lawmaker in a week\nto its party, as lawmaker Andrew Rosindell joined from the Conservatives.\n\n"
-  },
-  {
-    "title": "Libya in Multinational $2.7 Billion Deal to Develop Misrata Zone",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flibya-in-multinational-2-7-billion-deal-to-develop-misrata-zone",
-    "published": "Sun, 18 Jan 2026 21:34:44 CST",
-    "summary": "Libya signed a partnership deal that involves Qatari, Italian and Swiss\ncompanies to expand and develop the Misrata Free Zone port terminal on the\nMediterranean, the OPEC member said.\n\n"
+    "summary": "US and European stock futures fell and haven assets such as gold rallied after\nPresident Donald Trump proposed new levies on eight countries that have\nopposed his plans to acquire Greenland. The dollar weakened against most of\nits major peers.\n\n"
   },
   {
     "title": "As Office Rents Rise, Doctors Get Creative",
@@ -194,13 +224,13 @@
   {
     "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
-    "published": "Sun, 18 Jan 2026 20:07:21 CST",
+    "published": "Sun, 18 Jan 2026 20:07:22 CST",
     "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
   },
   {
     "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
-    "published": "Sun, 18 Jan 2026 19:56:51 CST",
+    "published": "Sun, 18 Jan 2026 19:56:52 CST",
     "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
   },
   {
@@ -216,34 +246,16 @@
     "summary": "US President Donald Trump’s announcement of new tariffs on eight European\ncountries over Greenland weighed on risk sentiment as trading kicked off\nMonday.\n\n"
   },
   {
-    "title": "Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fbrazil-s-billionaire-batistas-poised-for-venezuelan-oil-revival",
-    "published": "Sun, 18 Jan 2026 16:00:00 CST",
-    "summary": "The billionaire Batista brothers are eyeing a billion-barrel Venezuelan oil\nproject that stands to benefit from US President Donald Trump’s planned\nrevival of the South American nation’s energy sector.\n\n"
-  },
-  {
     "title": "Trump’s Campaign Manager Resolves Daily Beast Defamation Suit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Fchris-lacivita-daily-beast-defamation-suit.html",
     "published": "Sun, 18 Jan 2026 15:46:11 CST",
     "summary": "As part of the settlement, The Daily Beast was not required to apologize or\nissue any payment to Chris LaCivita, who sued the outlet last year.\n\n"
   },
   {
-    "title": "Wall Street’s Hot 2026 Trades, From AI Dispersion to Tech Tails",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fwall-street-s-hot-2026-trades-from-ai-dispersion-to-tech-tails",
-    "published": "Sun, 18 Jan 2026 15:00:00 CST",
-    "summary": "As investors are caught between fear of missing out on a further stock market\nrally and the building geopolitical risks, they can take a cue from the\nderivatives strategists at the biggest Wall Street banks.\n\n"
-  },
-  {
     "title": "The Man Delivering FedEx Into the Age of Drones, Robots and A.I.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Ffedex-raj-subramaniam.html",
     "published": "Sun, 18 Jan 2026 14:59:33 CST",
     "summary": "Raj Subramaniam took over three years ago from FedEx’s founder, who ran the\ncompany for nearly 50 years. Since then, technology, tariffs and other\ndisruptions have “fundamentally shifted” patterns of global trade.\n\n"
-  },
-  {
-    "title": "‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2F-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool",
-    "published": "Sun, 18 Jan 2026 14:00:00 CST",
-    "summary": "The new year was supposed to bring opportunities for beaten-down software\nstocks. Instead, the group is off to its worst start in years.\n\n"
   },
   {
     "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
@@ -268,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Faging-parents-finances.html",
     "published": "Sun, 18 Jan 2026 10:00:58 CST",
     "summary": "Getting family members to listen to you when you think they are headed down a\ndangerous financial path can be difficult. But there are preventive steps you\ncan take.\n\n"
-  },
-  {
-    "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
-    "published": "Sun, 18 Jan 2026 10:00:44 CST",
-    "summary": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle\nwith war, economics, artificial intelligence and other pressing issues.\n\n"
   },
   {
     "title": "Can Davos Help Protect the Planet?",
@@ -336,12 +342,6 @@
     "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity\nare now core drivers of stock returns from the AI theme as demand ramps.\n\n"
   },
   {
-    "title": "National Anger Spills Into Target Stores, Again",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftarget-immigration-minneapolis.html",
-    "published": "Sat, 17 Jan 2026 19:24:02 CST",
-    "summary": "Videos of immigration officers dragging an employee out of a store near\nMinneapolis, the retailer’s hometown, set off renewed political debate after\nyears of boycotts.\n\n"
-  },
-  {
     "title": "Trump says he’ll sue JPMorgan Chase for allegedly cutting him off after US Capitol riot",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F17%2Ftrump-jp-morgan-chase",
     "published": "Sat, 17 Jan 2026 19:02:44 CST",
@@ -392,7 +392,7 @@
   {
     "title": "Edison Files Claims Against Los Angeles County and Others on Eaton Fire",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fenergy-environment%2Fsouthern-california-edison-eaton-fire.html",
-    "published": "Sat, 17 Jan 2026 00:26:22 CST",
+    "published": "Sat, 17 Jan 2026 00:26:23 CST",
     "summary": "Southern California Edison said its equipment most likely started the Eaton\nfire but asserted that government agencies and other businesses shared\nliability for the devastation.\n\n"
   },
   {
@@ -588,6 +588,12 @@
     "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
   },
   {
+    "title": "Why Japan’s Economy Is at a Tipping Point",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-15%2Fwhy-japan-s-economy-is-at-a-tipping-point",
+    "published": "Thu, 15 Jan 2026 22:00:03 CST",
+    "summary": "For 30 years, Japan’s prices were largely at a standstill. Now a weak yen has\nchanged everything. Here’s how consumers and businesses are coping with rising\ncosts, and what it means for the future. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 21:39:10 CST",
@@ -748,12 +754,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fus%2Fpolitics%2Ftrump-tariffs-economists.html",
     "published": "Wed, 14 Jan 2026 20:29:32 CST",
     "summary": "Many indicators appear to suggest that the United States is growing despite\ntariffs, not because of them.\n\n"
-  },
-  {
-    "title": "Trump administration halts immigrant visa processing from 75 countries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F14%2Fimmigrant-visas-suspended-trump",
-    "published": "Wed, 14 Jan 2026 20:11:52 CST",
-    "summary": "The state department cites welfare use as it pauses visa processing for\nBrazil, Iran, Russia, Somalia and others\n\n  * People affected by the US visa freeze: share your experience\n\nThe Donald Trump administration has indefinitely suspended immigrant visa\nprocessing for people from 75 countries, marking one of its most expansive\nefforts yet to restrict legal pathways to the United States.\n\nThe freeze, which takes effect on 21 January, targets applicants officials\ndeem likely to become a “public charge” – who they describe as people who may\nrely on government benefits for basic needs.\n\nContinue reading...\n\n"
   },
   {
     "title": "2026 May Be the Year of the Mega I.P.O.",
