@@ -1,42 +1,42 @@
 # NoBS News Digest - January 19, 2026
 
-Generated from **214** unique articles (deduplicated from 214 total) across **1** news sources
+Generated from **213** unique articles (deduplicated from 213 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions escalate as US President Donald Trump threatens new tariffs on the UK and EU, citing his pursuit of Greenland and linking the move to Norway's refusal to award him the Nobel Peace Prize. The threats trigger market volatility, with US and European stock futures falling as EU leaders prepare for an emergency meeting. Meanwhile, the European Central Bank faces a leadership transition, with finance ministers selecting a new vice president amid calls for stability in an uncertain economic climate. In Latin America, the FAA issues warnings about military activity near key Pacific Ocean routes, while Venezuela's oil sector sees renewed interest from traders like Vitol, though US companies remain hesitant despite Trump's push for Venezuelan oil access. Elsewhere, Lucasfilm undergoes a leadership shakeup as Kathleen Kennedy steps down, marking a shift in the 'Star Wars' franchise.
+Global tensions escalate as U.S. President Donald Trump's aggressive push for Greenland sovereignty triggers a tariff dispute with European allies. Trump's threats of new tariffs on the UK and EU, linked to his Greenland ambitions, have rattled financial markets, sending stock futures lower and boosting safe-haven assets. UK Prime Minister Keir Starmer has ruled out retaliatory tariffs, urging diplomatic resolution, while EU leaders prepare for an emergency meeting. Meanwhile, Trump's controversial claims on Greenland are tied to his frustration over not receiving the Nobel Peace Prize, further straining transatlantic relations. In other developments, the Czech government rejects selling combat aircraft to Ukraine, highlighting divisions within NATO over military support. The ECB faces calls for stability amid economic uncertainty, while the FAA warns of heightened military activity in Latin American airspace, raising concerns over regional security.
 
 **Top Articles:**
+- [Starmer rules out retaliatory tariffs against US over Greenland](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2026%2Fjan%2F19%2Fgreenland-keir-starmer-rules-out-retaliatory-tariffs-against-us)
+- [Trump's Greenland Power Play Sparks Tariff War](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-s-greenland-power-play-sparks-tariff-war-video)
+- [Czechs Won’t Sell Combat Aircraft to Ukraine, Party Leader Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fczechs-won-t-sell-combat-aircraft-to-ukraine-party-leader-says)
 - [ECB to Benefit From His Voice of Consensus As Vice President: Centeno](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fecb-vice-president-candidate-mario-centeno-video)
 - [Horizons Middle East and Africa 1/19/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhorizons-middle-east-and-africa-1-19-2026-video)
-- [Trump Links Greenland Threats to Nobel Peace Prize Snub](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-links-greenland-threats-to-nobel-peace-prize-snub-video)
-- [Vitol Offers Venezuelan Crude Oil to China at Narrower Discount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fvitol-offers-venezuelan-crude-oil-to-china-at-narrower-discount)
-- [Euro Area to Pick ECB’s No. 2 in Prelude to Board Revamp](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuro-area-to-pick-ecb-s-no-2-in-prelude-to-bigger-board-revamp)
 
-**Sources**: archive.ph (8 articles)
+**Sources**: archive.ph (10 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are grappling with renewed trade tensions as President Donald Trump’s threat of a 10% tariff on European allies over Greenland sparks volatility. European stocks and U.S. futures fell sharply, while safe-haven assets like gold and silver surged to record highs. The dollar weakened amid concerns over erratic U.S. policy, though analysts suggest the economic impact on Europe may be limited, with Goldman Sachs estimating a modest 0.1% GDP hit. Meanwhile, China’s export-driven growth remains resilient despite domestic deflation, benefiting from Trump’s pressure on U.S. allies. In corporate news, Novo Nordisk shares jumped 8% on strong early sales of its obesity drug Wegovy, while Saks Global filed for bankruptcy after its risky acquisition of Neiman Marcus. The Federal Reserve’s independence is under scrutiny as Trump’s administration investigates Chair Jerome Powell, raising fears of inflation resurgence if central bank autonomy is compromised. Elsewhere, sovereign wealth funds are increasingly turning to private credit in emerging markets, and prediction markets are gaining traction, with Goldman Sachs exploring opportunities in the space.
+Global markets are navigating fresh volatility as President Donald Trump's latest tariff threats against European allies over Greenland spark trade tensions, sending gold and silver to record highs while pressuring the dollar. Despite the geopolitical uncertainty, Asian equities—led by South Korea and Taiwan—show resilience, and corporate earnings remain robust, with Novo Nordisk surging 8% on strong demand for its obesity drug Wegovy. Meanwhile, central bank independence is under scrutiny as Trump's administration investigates Fed Chair Jerome Powell, while sovereign wealth funds and institutional investors pile into private credit deals across emerging markets. In corporate news, Saks Global's bankruptcy filing after its Neiman Marcus acquisition highlights risks in retail consolidation, and Amazon threatens legal action over its $475 million stake in the failed deal. The Fed warns that eroding central bank autonomy could reignite inflation, even as Goldman Sachs and Morgan Stanley post strong earnings driven by wealth management and asset growth.
 
 **Top Articles:**
+- [Stock Bulls Are Lining Up to Buy the Dip on Tariff Threat](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Fstock-bulls-are-lining-up-to-buy-the-dip-on-tariff-threat)
 - [Goldman Economists See Limited US Tariff Hit to European Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgoldman-economists-see-limited-us-tariff-hit-to-european-growth)
-- [Xi’s Export Machine Helped by Trump’s Moves to Strongarm Allies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies)
+- [Xi’s Export Machine Gets Lift From US Move to Strongarm Allies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies)
 - [Malaysia Plans Dollar Bond Sale This Year, First Since 2021](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmalaysia-plans-to-sell-dollar-bonds-this-year-first-since-2021)
 - [Prominent Architecture Firm Is Accused of Illegally Ousting Employees](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fsnohetta-nlrb-complaint.html)
-- [The Rise of Prediction Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftechnology%2Fpolymarket-kalshi-prediction-markets.html)
 
-**Sources**: archive.ph (91 articles)
+**Sources**: archive.ph (90 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business world is buzzing with AI advancements and geopolitical tensions. OpenAI's ChatGPT begins displaying ads in the U.S., marking a new revenue push, while smaller AI-focused firms gain traction as investors shift focus to infrastructure like power and data centers. Meanwhile, global leaders at Davos grapple with AI's economic impact, as the IMF upgrades growth forecasts partly due to AI-driven investment. Geopolitical strains escalate as Trump threatens tariffs on European allies over Greenland, rattling automakers and semiconductor markets. In corporate news, BYD's dominance in EVs draws investor attention, and Taiwan secures a trade deal with the U.S., pledging more chip factories. Social media and retail sectors see AI integration accelerate, with stores adopting AI tools for sales and customer engagement.
+This week’s tech and business landscape is dominated by AI advancements and their economic ripple effects. OpenAI’s ChatGPT begins testing ads in the U.S., marking a new revenue push for the AI giant, while smaller firms rise as AI’s best trade, driven by demand for reliable power and data-center efficiency. Meanwhile, the IMF upgrades its 2026 global growth forecast to 3.3%, citing booming AI investment as a key driver, though concerns over energy costs persist as AI data centers inflate electricity bills. In corporate news, Boeing outsells Airbus for the first time since 2018, delivering 600 jetliners in 2025, while BYD’s electric vehicle dominance and Taiwan’s chip factory pledges underscore Asia’s growing tech influence. Regulatory and geopolitical tensions also flare, with Trump imposing limited tariffs on foreign semiconductors and escalating trade disputes over Greenland. At Davos, global leaders grapple with AI’s societal impact, while activists in Iran leverage Starlink to bypass government internet blackouts, highlighting tech’s dual role in both censorship and resistance.
 
 **Top Articles:**
 - [HSBC's Roberts Says AI Won't Lead to 'Massive Layoffs'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video)
@@ -45,13 +45,13 @@ The tech and business world is buzzing with AI advancements and geopolitical ten
 - [When is it least likely to rain in the United States?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F19%2Fwhen-is-it-least-likely-rain-united-states%2F)
 - [I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html)
 
-**Sources**: archive.ph (78 articles)
+**Sources**: archive.ph (76 articles)
 
 ---
 
 ## ⚽ Sports
 
-President Trump announces plans to issue an executive order protecting the Army-Navy football game's broadcast window amid concerns over potential scheduling conflicts with an expanded College Football Playoff. The move underscores the game's cultural significance and the ongoing debate over playoff structure in college sports. Meanwhile, in business news, discount grocer Aldi reveals ambitious expansion plans, aiming to open over 180 new U.S. stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth highlights shifting consumer habits and intensifying competition in the grocery sector.
+In a move blending sports and politics, President Trump announces plans to issue an executive order protecting the broadcast window for the Army-Navy football game, ensuring it remains unaffected by potential expansions to the College Football Playoff. The decision underscores the game's cultural significance amid ongoing debates over playoff formats. Meanwhile, in the business world, discount grocer Aldi accelerates its U.S. expansion, unveiling plans to open over 180 new stores this year as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth highlights shifting consumer habits and intensifying competition in the grocery sector.
 
 **Top Articles:**
 - [Trump will order TV networks to ‘protect’ Army-Navy football game](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F18%2Ftrump-army-navy-tv-football%2F)
@@ -63,17 +63,17 @@ President Trump announces plans to issue an executive order protecting the Army-
 
 ## 📰 Other News
 
-This week’s news highlights a shift in global economic and political dynamics, with the World Economic Forum in Davos reflecting a growing deference to Trump’s policies, as traditional themes of climate cooperation take a backseat. Meanwhile, hedge funds are making aggressive moves in currency markets, betting against the yen amid Japan’s political uncertainty and abandoning euro positions ahead of Trump’s tariff threats over Greenland. On the cultural front, immersive theater adaptations like *Masquerade* are drawing repeat audiences, while Disney’s box office dominance continues into 2026. Social trends reveal challenges in housing affordability, with homeowners downsizing backyards and Black women professionals forming support networks amid job market setbacks. Tech developments include the rise of AI tools like Claude Code and PixVerse’s real-time video platform, signaling rapid advancements in artificial intelligence.
+This week’s news highlights a mix of economic shifts, cultural trends, and political maneuvering. In finance, hedge funds are aggressively shorting the yen amid speculation about Japan’s fiscal policy, while a Taconic Capital spinoff secures $200 million for a new private credit fund. The tech world buzzes over Claude Code, with some speculating it could be a step toward artificial general intelligence (AGI). Meanwhile, the World Economic Forum in Davos reflects a stark shift, with global leaders deferring to Trump’s policies over traditional climate and cooperation agendas. On the cultural front, an immersive *Phantom of the Opera* adaptation, *Masquerade*, draws repeat audiences, while Disney’s box office dominance in 2025 positions it for another strong year. Socially, Black women professionals face shrinking career opportunities, turning to peer networks for support, and homeowners grapple with rising costs and shrinking backyards as housing affordability remains a pressing issue. Notable human interest stories include the death of Cannondale co-founder Joe Montgomery, who revolutionized bicycle design, and a brazen $110,000 Pokémon card heist in New York.
 
 **Top Articles:**
+- [Former Taconic European Credit Team Spins-Out With $1.3 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fformer-taconic-european-credit-team-spins-out-with-1-3-billion)
 - [‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftheater%2Fphantom-of-the-opera-masquerade.html)
 - [Why the Tech World Is Going Crazy for Claude Code](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fwhy-the-tech-world-is-going-crazy-for-claude-code)
 - [Hedge Funds Boost Yen Shorts by Most Since 2015 on Japan Vote](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-funds-boost-yen-shorts-by-most-since-2015-on-japan-vote)
 - [As Davos Convenes, Deference to Trump Has Replaced Everything](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html)
-- [Hedge Funds Exit Bullish Euro Bets Before Greenland Threat](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-funds-exit-bullish-euro-bets-just-before-greenland-threat)
 
 **Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 19, 2026 at 10:56 AM *
+*Digest generated on January 19, 2026 at 11:44 AM *
