@@ -1,9 +1,111 @@
 [
   {
-    "title": "Starmer rules out retaliatory tariffs against US over Greenland",
+    "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
+    "published": "Mon, 19 Jan 2026 13:36:02 CST",
+    "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Zurich Makes £7.7 Billion Bid for UK Cyber Insurer Beazley",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fzurich-makes-7-7-billion-bid-for-uk-cyber-insurer-beazley",
+    "published": "Mon, 19 Jan 2026 13:20:05 CST",
+    "summary": "Zurich Insurance Group AG has made an offer to buy Beazley Plc, valuing the\nUK-listed cyber insurer at about £7.67 billion ($10.3 billion).\n\n"
+  },
+  {
+    "title": "Romania Holds Rates as Inflation Near 10% Prevents Easing Debate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fromania-holds-rates-as-inflation-near-10-prevents-easing-debate",
+    "published": "Mon, 19 Jan 2026 13:00:56 CST",
+    "summary": "Romania’s central bank maintained one of the highest interest rates in the\nEuropean Union as policymakers wait for inflation to slow from around 10%\nbefore they start discussions about lowering borrowing costs.\n\n"
+  },
+  {
+    "title": "Stellantis stock off 43% as Jeep maker turns five, executes turnaround",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fstellantis-stock-stla-five-year-anniversary.html",
+    "published": "Mon, 19 Jan 2026 13:00:01 CST",
+    "summary": "Stellantis shares were largely up – as high as 93% in March 2024 – until\nreporting troubling financial results that year amid cost-cutting efforts and\nEVs.\n\n"
+  },
+  {
+    "title": "Hedge Fund Picton Says Markets Will Punish a Fed That Bows to Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-fund-picton-says-markets-will-punish-a-fed-that-bows-to-trump",
+    "published": "Mon, 19 Jan 2026 13:00:00 CST",
+    "summary": "The head of Picton Investments said bond markets will swiftly discipline the\nUS if President Donald Trump appoints a Federal Reserve chair who’s seen as\ntoo malleable -- and precious metals remain a good hedge against political\nvolatility.\n\n"
+  },
+  {
+    "title": "UAE Economy & Tourism Minister on diversification and resilience",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fuae-economy-minister-on-diversification-and-resilience-video",
+    "published": "Mon, 19 Jan 2026 12:46:51 CST",
+    "summary": "The UAE is responding to economic fragmentation and rising protectionism by\nstrengthening diversification and dialogue, with non-oil sectors now making up\naround three-quarters of GDP and growth of about 4–5% expected this year,\naccording to UAE Economy & Tourism Minister Abdulla Bin Touq Al Marri,\nspeaking to Bloomberg's Joumanna Bercetche in Davos. Al Marri also highlighted\nstrong foreign investment inflows and the expanding role of tourism as central\nto the country’s economic resilience. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "NYSE Builds Venue for 24/7 Trading of Tokenized Stocks, ETFs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnyse-builds-venue-for-24-7-trading-of-tokenized-stocks-etfs",
+    "published": "Mon, 19 Jan 2026 12:45:01 CST",
+    "summary": "The New York Stock Exchange is building a venue using blockchain technology to\nallow for trading tokenized stocks and exchange-traded funds around the clock.\n\n"
+  },
+  {
+    "title": "Senegal Celebrates Football Victory While Navigating Debt Talks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsenegal-celebrates-football-victory-while-navigating-debt-talks",
+    "published": "Mon, 19 Jan 2026 12:37:08 CST",
+    "summary": "Senegalese President Bassirou Diomaye Faye declared a public holiday following\nthe national football team’s victory at the Africa Cup of Nations championship\nSunday, providing a morale boost to a country grappling with a debt crisis.\n\n"
+  },
+  {
+    "title": "Aftermath of Spain High-Speed Train Collision",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Faftermath-of-spain-high-speed-train-collision-video",
+    "published": "Mon, 19 Jan 2026 12:30:27 CST",
+    "summary": "Aerial video shows the aftermath of a collision between two trains in Spain.\nMore than three dozen people died in Spain after a high-speed train derailed\nSunday evening and hit another traveling in the opposite direction. (Source:\nGuardia Civil via Associated Press)\n\n"
+  },
+  {
+    "title": "Extreme Volatility Returns to Europe’s Natural Gas Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Fextreme-price-volatility-returns-to-europe-s-natural-gas-markets",
+    "published": "Mon, 19 Jan 2026 12:20:00 CST",
+    "summary": "The biggest weekly price swings in two years show the power of speculative\ntraders\n\n"
+  },
+  {
+    "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F19%2Fafraid-to-take-vacation-the-problem-isnt-your-boss-its-how-you-work",
+    "published": "Mon, 19 Jan 2026 12:00:25 CST",
+    "summary": "Many people use their vacation time each year. These people take ownership of\ntheir jobs, and make sure they get them done\n\nA recent survey of more than 3,000 US workers for employment search site\nFlexJobs found that almost a quarter didn’t take a vacation day during the\npast year and – more concerning to the study’s authors – as many as 82% “avoid\nusing” their accrued time off. Why?\n\nKelsey Szamet, an employment lawyer, says the reason is a shift in mentality.\n“Many employees are concerned about the security of their jobs,” she told\nQuartz. “The adoption of AI and automation technologies has allowed employees\nto actually consider their own replaceability before requesting a leave or a\nholiday, or any kind of time-off benefit.”\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "What Trump’s proposed 10 percent cap on card rates could mean for you",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F19%2Ftrump-credit-card-cap-interest-rates%2F",
+    "published": "Mon, 19 Jan 2026 12:00:00 CST",
+    "summary": "President Donald Trump’s proposal for a 10 percent cap on credit card interest\nrates could save consumers billions, but may also reduce access to credit for\nthose with lower credit scores\n\n"
+  },
+  {
+    "title": "SRT Boom Offers Costly Lifeline to Banks Shedding Risky CRE Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsrt-boom-offers-costly-lifeline-to-banks-shedding-risky-cre-debt",
+    "published": "Mon, 19 Jan 2026 11:57:37 CST",
+    "summary": "Investors in the white-hot significant risk transfer market are increasingly\nwilling to provide hedging to European banks saddled with over €200 billion\n($232.5 billion) of deteriorating commercial property loans, but at a hefty\nprice.\n\n"
+  },
+  {
+    "title": "Khazanah Nasional MD Sees Ringgit Strengthening Further",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fkhazanah-nasional-md-sees-ringgit-strengthening-further-video",
+    "published": "Mon, 19 Jan 2026 11:57:03 CST",
+    "summary": "Malaysia’s sovereign wealth fund Khazanah Nasional sees the ringgit\nstrengthening further after its run as Asia’s top-performing currency last\nyear. Managing Director Amirul Feisal Wan Zahir’s comments come as Malaysia’s\nstock index is trading near a seven-year high and the country’s economic\ngrowth has surpassed expectations in recent quarters, defying the impact of\nhigher US tariffs. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Europe Relies Too Much on China for Drugs, Fresenius CEO Warns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feurope-relies-too-much-on-china-for-drugs-fresenius-ceo-warns",
+    "published": "Mon, 19 Jan 2026 11:49:19 CST",
+    "summary": "Europe must quickly shore up its supply of key drug ingredients to prevent\ntheir “weaponization” as global trade tensions mount, the chief executive\nofficer of German health-care company Fresenius SE warned.\n\n"
+  },
+  {
+    "title": "Vinjamuri: Americans Not on Side of the President on Greenland Issue",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fvinjamuri-americans-not-on-side-of-the-president-on-greenland-issue",
+    "published": "Mon, 19 Jan 2026 11:48:29 CST",
+    "summary": "Leslie Vinjamuri, President and CEO of the Chicago Council on Global Affairs,\njoins Bloomberg TV to discuss the latest tariff threats as Europe hardens its\nstance on Greenland. Vinjamuri speaks with Bloomberg's Anna Edwards and Tom\nMackenzie on 'The Opening Trade'. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Americans Bear Almost All the Cost of Trump Tariffs, Study Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Famericans-bear-almost-all-the-cost-of-trump-tariffs-study-shows",
+    "published": "Mon, 19 Jan 2026 11:35:32 CST",
+    "summary": "President Donald Trump’s duties on imported goods are paid almost entirely by\nAmerican importers, their domestic customers and ultimately US consumers, a\nstudy from a German think tank concluded.\n\n"
+  },
+  {
+    "title": "Starmer plays down prospect of retaliatory tariffs against US over Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2026%2Fjan%2F19%2Fgreenland-keir-starmer-rules-out-retaliatory-tariffs-against-us",
     "published": "Mon, 19 Jan 2026 11:33:51 CST",
-    "summary": "PM says US tariffs are in no one’s interests – and Greenland row should be\nresolved through ‘calm discussion’\n\n  * UK politics live – latest updates\n\n  * Europe live – latest updates\n\nKeir Starmer has ruled out imposing retaliatory tariffs on the United States,\nsaying they would be the “wrong thing to do”, after Donald Trump threatened\nthem against Nato allies to try to secure Greenland.\n\nThe prime minister said US tariffs would damage the British economy and were\n“in no one’s interests”. The UK would instead prefer to address the issue\nthrough “calm discussion” between allies, he added.\n\nContinue reading...\n\n"
+    "summary": "PM says US tariffs are in no one’s interests – and Greenland row should be\nresolved through ‘calm discussion’\n\n  * UK politics live – latest updates\n\n  * Europe live – latest updates\n\nKeir Starmer has played down the prospect of retaliatory tariffs on the US,\nsaying they would be the “wrong thing to do”, after Donald Trump threatened\nthem against Nato allies to try to secure Greenland.\n\nThe prime minister said US tariffs would damage the British economy and were\n“in no one’s interests”. The UK would instead prefer to address the issue\nthrough “calm discussion” between allies, he added.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump's Greenland Power Play Sparks Tariff War",
@@ -30,6 +132,12 @@
     "summary": "A European credit spinoff from recently overhauled US hedge fund Taconic\nCapital Advisors has secured $200 million in additional capital from seeder\nStable Asset Management to support the launch of an evergreen private credit\nfund.\n\n"
   },
   {
+    "title": "Chile’s Debt Market Rakes In the Money Amid ‘Sell America’ Trend",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchile-s-debt-market-rakes-in-the-money-amid-sell-america-trend",
+    "published": "Mon, 19 Jan 2026 11:00:00 CST",
+    "summary": "No Latin American debt market is benefitting from the “Sell America” sentiment\nof the last year as much as Chile, where foreign investors are snapping up\ndomestic bonds at the fastest pace ever as a new right-wing government\nprepares to take office.\n\n"
+  },
+  {
     "title": "Goldman Economists See Limited US Tariff Hit to European Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgoldman-economists-see-limited-us-tariff-hit-to-european-growth",
     "published": "Mon, 19 Jan 2026 10:40:49 CST",
@@ -40,36 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video",
     "published": "Mon, 19 Jan 2026 10:32:34 CST",
     "summary": "Michael Roberts, head of corporate and institutional banking at HSBC,\ndiscusses geopolitical risks, the bank's restructure and the impact of\nartificial intelligence on staffing. \"I don't think it'll lead to massive\nlayoffs,\" Roberts says. \"I don't think it'll lead to massive change in how we\ndo things other than as to make it more efficient,\" he adds. Roberts speaks on\nBloomberg Television at the World Economic Forum's annual meeting in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Xi’s Export Machine Gets Lift From US Move to Strongarm Allies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies",
-    "published": "Mon, 19 Jan 2026 10:32:03 CST",
-    "summary": "As Xi Jinping battles unprecedented deflation and shrinking investment, he’s\nbetting that China can sell more and more goods to the world to drive growth.\nTo that end, Donald Trump’s threats against key US allies are coming at a good\ntime.\n\n"
-  },
-  {
-    "title": "ECB to Benefit From His Voice of Consensus As Vice President: Centeno",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fecb-vice-president-candidate-mario-centeno-video",
-    "published": "Mon, 19 Jan 2026 10:30:20 CST",
-    "summary": "Mario Centeno, former Bank of Portugal governor discusses monetary policy,\nrates and his candidacy for ECB vice president position. He says that as\nEurope has entered a phase of structural uncertainty, “EU institutions will\nincreasingly be called upon to act as a stabilizing actor” and that a ‘’voice\nof consensus’’ is his well-known trademark he will be to the ECB if elected\nvice president. He speaks with Tom McKenzie and Anna Edwards. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Toscafund Is Said to Explore Sale of Portuguese Insurer Caravela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftoscafund-is-said-to-explore-sale-of-portuguese-insurer-caravela",
-    "published": "Mon, 19 Jan 2026 10:26:34 CST",
-    "summary": "Toscafund Asset Management and other minority shareholders of Caravela Seguros\nare exploring a sale of the Portuguese insurer, according to people familiar\nwith the matter.\n\n"
-  },
-  {
-    "title": "UK Should Double Bill Sales to Help Gilts, Morgan Stanley Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuk-should-double-bill-sales-to-help-gilts-morgan-stanley-says",
-    "published": "Mon, 19 Jan 2026 10:24:50 CST",
-    "summary": "The UK should double its issuance of government bills to ease strains in the\ngilt market and lower borrowing costs, according to Morgan Stanley\nstrategists.\n\n"
-  },
-  {
-    "title": "Malaysia Plans Dollar Bond Sale This Year, First Since 2021",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmalaysia-plans-to-sell-dollar-bonds-this-year-first-since-2021",
-    "published": "Mon, 19 Jan 2026 10:07:52 CST",
-    "summary": "Malaysia has sounded out debt arrangers about a dollar bond offering, putting\nthe Asian government on track to join a record global fundraising binge so far\nin 2026.\n\n"
   },
   {
     "title": "Prominent Architecture Firm Is Accused of Illegally Ousting Employees",
@@ -87,7 +165,7 @@
     "title": "When is it least likely to rain in the United States?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F19%2Fwhen-is-it-least-likely-rain-united-states%2F",
     "published": "Mon, 19 Jan 2026 10:00:15 CST",
-    "summary": "The U.S. is generally driest in late September, but it depends on where you\nare.\n\n"
+    "summary": "The Department of Data went on a quest to find the driest days of the year and\ndiscovered an odd relationship with birthdays and wedding days.\n\n"
   },
   {
     "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
@@ -96,64 +174,22 @@
     "summary": "The immersive adaptation of Andrew Lloyd Webber’s musical is a hit, with some\npeople coming back a dozen times since it began performances last summer.\n\n"
   },
   {
-    "title": "US Tariff Hit to European Stocks Will Be Brief, Strategists Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fus-tariff-hit-to-european-stocks-will-be-brief-strategists-say",
-    "published": "Mon, 19 Jan 2026 09:59:25 CST",
-    "summary": "President Donald Trump’s latest tariff threats present only a short-term risk\nto European stocks as the broader corporate earnings outlook remains robust.\n\n"
-  },
-  {
-    "title": "Horizons Middle East and Africa 1/19/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhorizons-middle-east-and-africa-1-19-2026-video",
-    "published": "Mon, 19 Jan 2026 09:55:37 CST",
-    "summary": "US and European stock futures fall and safe havens surge as US President\nDonald Trump threatens new tariffs on the UK and EU allies, in his pursuit of\na Greenland takeover. Also on the show: EU leaders set to hold an emergency\nmeeting on Trump's tariff threat; President Trump's so-called Board of Peace\nfor Gaza is beginning to take shape; Saudi Arabia is finalizing an agreement\non a new military coalition with Somalia and Egypt; US is ratcheting up\ncriticism of South Africa following joint naval drills involving Iran. Guests\ninclude: Anita Krishna Gupta, CIO, Wealthbrix Capital Partners; David Wilson,\nBNP Paribas, Director of Commodities Strategy. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:04 CST",
     "summary": "The 3.3 percent rate for 2026 would match last year’s pace. Booming investment\nin artificial intelligence is buttressing global output.\n\n"
   },
   {
-    "title": "New World Shares Surge 16% Amid Bets on More Support From Parent",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnew-world-shares-surge-16-amid-bets-on-more-support-from-parent",
-    "published": "Mon, 19 Jan 2026 09:27:03 CST",
-    "summary": "New World Development Co. shares surged 16% to the highest level in two years\non bets the company’s parent may boost its support for the troubled developer.\n\n"
-  },
-  {
-    "title": "‘Board of Peace’ Takes Shape Despite Israel’s Concerns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2F-board-of-peace-takes-shape-despite-israel-s-concerns-video",
-    "published": "Mon, 19 Jan 2026 09:22:01 CST",
-    "summary": "Donald Trump’s so-called Board of Peace for Gaza is beginning to take shape,\neven as Israel voiced rare objections to parts of the US president’s plan.\nBloomberg's Dan Williams explains. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Pipeline Firm Seeks $824 Million in First Kenyan IPO in 11 Years",
+    "title": "Kenya Seeks to Raise $824 Million in First IPO in 11 Years",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fpipeline-firm-seeks-824-million-in-first-kenyan-ipo-in-11-years",
     "published": "Mon, 19 Jan 2026 09:07:39 CST",
-    "summary": "Kenya plans to raise a record 106.3 shillings ($824.1 million) from an initial\npublic offering of a state-run pipeline company.\n\n"
+    "summary": "Kenya plans to raise a record 106.3 shillings ($824.1 million) from an initial\npublic offering of a state-run pipeline company, the first such sale in more\nthan a decade.\n\n"
   },
   {
-    "title": "Trump Links Greenland Threats to Nobel Peace Prize Snub",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-links-greenland-threats-to-nobel-peace-prize-snub-video",
-    "published": "Mon, 19 Jan 2026 09:05:46 CST",
-    "summary": "Donald Trump linked his claims on Greenland to not being awarded the Nobel\nPeace Prize in a letter the US president sent to Norwegian Prime Minister\nJonas Gahr Store. \"Considering your Country decided not to give me the Nobel\nPeace Prize for having stopped 8 Wars PLUS, I no longer feel an obligation to\nthink purely of Peace,\" Trump says in the letter obtained by Bloomberg.\n\"Although it will always be predominant, but can now think about what is good\nand proper for the United States of America.\" Our White House reporter Skylar\nWoodhouse joins Stephen Carroll and Jack Sidders on Bloomberg Radio to\ndiscuss. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Why the Tech World Is Going Crazy for Claude Code",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fwhy-the-tech-world-is-going-crazy-for-claude-code",
-    "published": "Mon, 19 Jan 2026 09:00:31 CST",
-    "summary": "Maybe this is what AGI is.\n\n"
-  },
-  {
-    "title": "Odd Lots: Why the Tech World Is Crazy For Claude Code (Podcast)",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Faudio%2F2026-01-19%2Fodd-lots-why-the-tech-world-is-crazy-for-claude-code-podcast",
-    "published": "Mon, 19 Jan 2026 09:00:00 CST",
-    "summary": "In the AI industry, there’s always a hot new thing. First it was ChatGPT. Then\nit was the image generators. There was the DeepSeek moment. In the latter half\nof last year, everyone was excited about how good Google’s Gemini was. In\nJanuary 2026, the new hot thing everyone is talking about is Claude Code. But\nof course, the AI models have been able to generate lines of code for a long\ntime now. So what is it about Claude Code that has people so excited? Why is\nit that people are asking: “Is this\n\n"
-  },
-  {
-    "title": "Hedge Funds Boost Yen Shorts by Most Since 2015 on Japan Vote",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-funds-boost-yen-shorts-by-most-since-2015-on-japan-vote",
-    "published": "Mon, 19 Jan 2026 08:57:11 CST",
-    "summary": "Hedge funds ramped up bearish yen wagers by the most in over a decade last\nweek as investors weighed the prospects of a snap Japanese election and its\nimplication on fiscal policy.\n\n"
+    "title": "Mideast Oil Prices Diverge as Refiners Seek Cheaper Options",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Foil-refiners-shun-uae-s-flagship-murban-for-cheaper-alternatives",
+    "published": "Mon, 19 Jan 2026 08:44:05 CST",
+    "summary": "Middle Eastern crude prices are diverging, with heavier grades growing cheaper\nrelative to lighter barrels -- a shift that’s encouraging Asian refiners to\nfavor medium and sour crudes to boost margins.\n\n"
   },
   {
     "title": "Prabowo Nominates Nephew as Bank Indonesia Deputy Governor",
@@ -174,6 +210,12 @@
     "summary": "China’s population fell for a fourth straight year and its birthrate tumbled\nas policymakers failed to slow a demographic crisis.\n\n"
   },
   {
+    "title": "Euro Area to Pick ECB’s No. 2 in Prelude to Board Revamp",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuro-area-to-pick-ecb-s-no-2-in-prelude-to-bigger-board-revamp",
+    "published": "Mon, 19 Jan 2026 05:15:00 CST",
+    "summary": "Euro-area finance ministers are poised to select the European Central Bank’s\nnext vice president on Monday in a decision that will set the stage for the\nsuccession to Christine Lagarde in the top job.\n\n"
+  },
+  {
     "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html",
     "published": "Mon, 19 Jan 2026 05:01:19 CST",
@@ -184,12 +226,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
     "published": "Mon, 19 Jan 2026 04:20:17 CST",
     "summary": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle\nwith war, economics, artificial intelligence and other pressing issues.\n\n"
-  },
-  {
-    "title": "Dollar Faces Pressure on Trump’s New European Tariff Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fdollar-faces-pressure-from-trump-s-fresh-tariff-threat-to-europe",
-    "published": "Mon, 19 Jan 2026 04:17:43 CST",
-    "summary": "The dollar is coming under pressure after President Donald Trump announced a\n10% tariff on European countries opposed to his plans to seize Greenland,\nraising jitters around holding American assets amid erratic US policy.\n\n"
   },
   {
     "title": "National Anger Spills Into Target Stores, Again",
@@ -222,12 +258,6 @@
     "summary": "The segment, reported by Sharyn Alfonsi, was supposed to air on 21 December\nbut was pulled by editor in chief Bari Weiss\n\nNearly a month after CBS News editor in chief Bari Weiss ignited controversy\nby shelving a 60 Minutes segment about Venezuelan prisoners, telling staffers\nthat it needed more reporting, the piece finally aired on Sunday night.\n\nWeiss had originally instructed 60 Minutes to hold the segment about the Cecot\nprison in El Salvador, which had already been scheduled, in part because it\nlacked “the administration’s argument”.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Jane Street India’s Trading Gains Soared 494% Before Curbs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjane-street-india-unit-saw-trading-gains-soar-494-before-curbs",
-    "published": "Mon, 19 Jan 2026 02:06:38 CST",
-    "summary": "Jane Street Group LLC’s unit in India reported an almost six-fold jump in\ntrading gains for the financial year ended March before its operations were\nbrought to an abrupt halt by the regulator on allegations of market\nmanipulation last year.\n\n"
-  },
-  {
     "title": "‘60 Minutes’ story held for lacking interview with Trump official airs without one",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fcbs-60-minutes-cecot%2F",
     "published": "Mon, 19 Jan 2026 01:46:17 CST",
@@ -252,10 +282,10 @@
     "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
-    "title": "Stocks Tumble as Greenland Fallout Fuels Gold: Markets Wrap",
+    "title": "Stocks Sink as US-Europe Turmoil Fuels Gold Demand: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
     "published": "Sun, 18 Jan 2026 22:13:21 CST",
-    "summary": "Stocks slumped and gold hit a fresh record as US-Europe trade tensions flared\nover President Donald Trump’s push to take control of Greenland.\n\n"
+    "summary": "Stocks slumped and gold hit a fresh record as trade tensions between the US\nand Europe flared over President Donald Trump’s push to take control of\nGreenland.\n\n"
   },
   {
     "title": "As Office Rents Rise, Doctors Get Creative",
@@ -304,12 +334,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Ftrump-jpmorgan-chase-debanking.html",
     "published": "Sun, 18 Jan 2026 13:47:50 CST",
     "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him\nfollowing the Jan. 6 insurrection in 2021.\n\n"
-  },
-  {
-    "title": "Sovereign Wealth Funds Join Clamor for Private Credit in EMs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fsovereign-wealth-funds-join-clamor-for-private-credit-in-ems",
-    "published": "Sun, 18 Jan 2026 13:30:00 CST",
-    "summary": "A record wave of private credit deals across emerging markets looks set to\nextend this year, with a host of institutional and sovereign wealth investors\nseeking to diversify their US-focused portfolios.\n\n"
   },
   {
     "title": "‘America first’? Trump financial products raise questions about potential presidential conflicts of interest",
@@ -732,12 +756,6 @@
     "summary": "Jaguar Land Rover’s recovery from cyber-attack appears to have contributed to\nGDP growth\n\n• Growth figures give boost to Reeves – but it’s too early to get carried away  \n• Business live – latest updates\n\nThe UK economy grew by a stronger-than-expected 0.3% in November despite\nuncertainty around Rachel Reeves’s budget, official figures show.\n\nFigures from the Office for National Statistics (ONS) on Thursday showed the\nimprovement, up from a 0.1% fall in October.\n\nContinue reading...\n\n"
   },
   {
-    "title": "‘The consumers are still out there’: why a bankruptcy for Saks Global may not spell the end",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fsaks-global-bankruptcy",
-    "published": "Thu, 15 Jan 2026 10:00:02 CST",
-    "summary": "Just more than a year after the new luxury behemoth was formed, it announced\nit had filed for chapter 11 bankruptcy\n\nEvery year, the stores down Manhattan’s Fifth Avenue dress up their windows at\nChristmastime. Tourists from all over the world come to gawk at all the\nglitter, lace, ruffles and bows.\n\nSaks’s Fifth Avenue location, so iconic that it’s embedded in the brand’s\nname, is usually dressed top to bottom during the holidays. In 2023, the store\npartnered with Christian Dior to display a giant zodiac calendar. As part of\nthe light show, fireworks were released from the top of the store to the oohs\nand aahs of spectators.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Ftrump-chips-tariffs.html",
     "published": "Thu, 15 Jan 2026 02:06:58 CST",
@@ -960,22 +978,10 @@
     "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say\nhe remains as involved as ever managing the sprawling operations of the\nmegabank.\n\n"
   },
   {
-    "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-credit-card-rate-cap-enforcement-path-risks.html",
-    "published": "Mon, 12 Jan 2026 21:06:22 CST",
-    "summary": "A 10% rate cap would make large swaths of the credit card industry\nunprofitable, especially tied to customers with less-than-ideal credit, banks\nsay.\n\n"
-  },
-  {
     "title": "Trump targets credit card rates. What’s at stake for Capital One and other banks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Ftrump-targets-credit-card-rates-whats-at-stake-for-capital-one-and-other-banks.html",
     "published": "Mon, 12 Jan 2026 20:49:00 CST",
     "summary": "Capital One shares sank Monday after Trump called for a 10% cap on credit card\nrates, a major profit driver for the company.\n\n"
-  },
-  {
-    "title": "Yellen says Powell probe 'extremely chilling' for Fed independence, market should be concerned",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Fyellen-says-powell-probe-extremely-chilling-for-fed-independence-market-should-be-concerned.html",
-    "published": "Mon, 12 Jan 2026 16:27:31 CST",
-    "summary": "Former Fed Chair Janet Yellen spoke Monday to CNBC about a Department of\nJustice investigation into current Chair Jerome Powell.\n\n"
   },
   {
     "title": "Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value",
