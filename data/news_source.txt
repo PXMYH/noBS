@@ -1,6 +1,36 @@
 [
   {
-    "title": "Trade Uncertainty Sapping Optimism, Bank of Canada Surveys Show",
+    "title": "QIA CEO on Strategy, Long Term Vision and Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fqia-ceo-on-strategy-long-term-vision-and-markets-video",
+    "published": "Mon, 19 Jan 2026 16:39:14 CST",
+    "summary": "Mohammed Saif Al-Sowaidi, Chief Executive Officer, QIA discusses the fund’s\ninvestment strategy, long-term vision and global market role with Bloomberg’s\nFrancine Lacqua at At Invest Qatar Pavillon during the 2026 World Economic\nForum. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "State Street Eyes Further Expansion Into Secondaries, Hung Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstate-street-eyes-further-expansion-into-secondaries-hung-says",
+    "published": "Mon, 19 Jan 2026 16:18:04 CST",
+    "summary": "State Street Corp.’s asset management arm is seeking more opportunities to\ngive retail investors access to secondaries and other private assets.\n\n"
+  },
+  {
+    "title": "‘Weaponizing’ $10 Trillion of US Assets Is Tough Ask for Europe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2F-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe",
+    "published": "Mon, 19 Jan 2026 16:15:58 CST",
+    "summary": "As Europe considers how best to respond to US President Donald Trump’s latest\nthreats over Greenland’s sovereignty, there’s one extreme potential counter\nmeasure that’s fueling debate among investors.\n\n"
+  },
+  {
+    "title": "UAE to Double Trade With India, Signs Long-Term LNG Contact",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuae-to-double-trade-with-india-signs-long-term-lng-contact",
+    "published": "Mon, 19 Jan 2026 15:59:51 CST",
+    "summary": "The United Arab Emirates will invest in developing a special investment hub in\nwestern India as well as double bilateral trade to $200 billion by 2032 as the\ntwo countries seek closer ties amid global geopolitical uncertainties.\n\n"
+  },
+  {
+    "title": "Mubadala CEO Al Mubarak on Monetization, AI, Private Credit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fmubadala-ceo-on-monetization-ai-private-credit-video",
+    "published": "Mon, 19 Jan 2026 15:46:01 CST",
+    "summary": "Khaldoon Al Mubarak, CEO of Abu Dhabi’s Mubadala Investment Co., discusses\ninvestment monetization and sector trajectories, with a focus on AI,\ntechnology and infrastructure, geographic assets and private credit. He spoke\nwith Bloomberg’s Joumanna Bercetche on the sidelines of the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trade Uncertainty Saps Optimism, Bank of Canada Surveys Show",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftrade-uncertainty-sapping-optimism-bank-of-canada-surveys-show",
     "published": "Mon, 19 Jan 2026 15:30:00 CST",
     "summary": "Bank of Canada surveys show persistent pessimism among firms and consumers as\nthe ongoing US trade war deepens uncertainty.\n\n"
@@ -10,6 +40,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
     "published": "Mon, 19 Jan 2026 15:28:04 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
+  },
+  {
+    "title": "CSG Said to Eye Friday Trading Debut at €25 Billion Valuation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcsg-said-to-eye-friday-trading-debut-at-25-billion-valuation",
+    "published": "Mon, 19 Jan 2026 15:23:54 CST",
+    "summary": "Defense firm Czechoslovak Group AS is considering setting a price in an\naccelerated initial public offering that would value the company at about €25\nbillion ($29.1 billion), according to people familiar with the matter.\n\n"
   },
   {
     "title": "Canadian Stocks Slide After Inflation Report, Tariff Concerns",
@@ -138,36 +174,6 @@
     "summary": "The head of Picton Investments said bond markets will swiftly discipline the\nUS if President Donald Trump appoints a Federal Reserve chair who’s seen as\ntoo malleable -- and precious metals remain a good hedge against political\nvolatility.\n\n"
   },
   {
-    "title": "UAE Economy & Tourism Minister on diversification and resilience",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fuae-economy-minister-on-diversification-and-resilience-video",
-    "published": "Mon, 19 Jan 2026 12:46:51 CST",
-    "summary": "The UAE is responding to economic fragmentation and rising protectionism by\nstrengthening diversification and dialogue, with non-oil sectors now making up\naround three-quarters of GDP and growth of about 4–5% expected this year,\naccording to UAE Economy & Tourism Minister Abdulla Bin Touq Al Marri,\nspeaking to Bloomberg's Joumanna Bercetche in Davos. Al Marri also highlighted\nstrong foreign investment inflows and the expanding role of tourism as central\nto the country’s economic resilience. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "NYSE Builds Venue for 24/7 Trading of Tokenized Stocks, ETFs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnyse-builds-venue-for-24-7-trading-of-tokenized-stocks-etfs",
-    "published": "Mon, 19 Jan 2026 12:45:01 CST",
-    "summary": "The New York Stock Exchange is building a venue using blockchain technology to\nallow for trading tokenized stocks and exchange-traded funds around the clock.\n\n"
-  },
-  {
-    "title": "Senegal Celebrates Football Victory While Navigating Debt Talks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsenegal-celebrates-football-victory-while-navigating-debt-talks",
-    "published": "Mon, 19 Jan 2026 12:37:08 CST",
-    "summary": "Senegalese President Bassirou Diomaye Faye declared a public holiday following\nthe national football team’s victory at the Africa Cup of Nations championship\nSunday, providing a morale boost to a country grappling with a debt crisis.\n\n"
-  },
-  {
-    "title": "Aftermath of Spain High-Speed Train Collision",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Faftermath-of-spain-high-speed-train-collision-video",
-    "published": "Mon, 19 Jan 2026 12:30:27 CST",
-    "summary": "Aerial video shows the aftermath of a collision between two trains in Spain.\nMore than three dozen people died in Spain after a high-speed train derailed\nSunday evening and hit another traveling in the opposite direction. (Source:\nGuardia Civil via Associated Press)\n\n"
-  },
-  {
-    "title": "Extreme Volatility Returns to Europe’s Natural Gas Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Fextreme-price-volatility-returns-to-europe-s-natural-gas-markets",
-    "published": "Mon, 19 Jan 2026 12:20:00 CST",
-    "summary": "The biggest weekly price swings in two years show the power of speculative\ntraders\n\n"
-  },
-  {
     "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F19%2Fafraid-to-take-vacation-the-problem-isnt-your-boss-its-how-you-work",
     "published": "Mon, 19 Jan 2026 12:00:25 CST",
@@ -214,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuk-starts-new-program-for-retail-access-to-corporate-bonds",
     "published": "Mon, 19 Jan 2026 09:21:35 CST",
     "summary": "The UK is launching a new effort to lower the barrier for retail investors to\nbuy corporate bonds, introducing a dedicated label and simplified rules.\n\n"
-  },
-  {
-    "title": "Kenya Seeks to Raise $824 Million in First IPO in 11 Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fpipeline-firm-seeks-824-million-in-first-kenyan-ipo-in-11-years",
-    "published": "Mon, 19 Jan 2026 09:07:39 CST",
-    "summary": "Kenya plans to raise a record 106.3 shillings ($824.1 million) from an initial\npublic offering of a state-run pipeline company, the first such sale in more\nthan a decade.\n\n"
   },
   {
     "title": "Mideast Oil Prices Diverge as Refiners Seek Cheaper Options",
@@ -282,10 +282,10 @@
     "summary": "Bari Weiss intervened to postpone a “60 Minutes” interview, leading to\nallegations of “corporate censorship.” The segment aired Sunday without major\nchanges.\n\n"
   },
   {
-    "title": "Oil Falls as Iran Tensions Ease and Trump Threatens Greenland",
+    "title": "Oil Steady as Trump Threatens Greenland While Iran Tensions Wane",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flatest-oil-market-news-and-analysis-for-jan-19",
     "published": "Sun, 18 Jan 2026 23:27:46 CST",
-    "summary": "Oil edged lower as tensions over Iran cooled and traders weighed the fallout\nfrom President Donald Trump’s threat to annex Greenland.\n\n"
+    "summary": "Oil recovered from earlier losses to trade little changed as the market\nweighed the fallout from US President Donald Trump’s threat to annex\nGreenland, while tensions over Iran cooled.\n\n"
   },
   {
     "title": "Gold and Silver Jump to Record Highs on Greenland Tariff Threats",
@@ -318,7 +318,7 @@
     "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
   },
   {
-    "title": "How Gen Z is making millennials look cool again",
+    "title": "Gen Z is obsessed with Y2K fashion. These brands are winning.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
     "published": "Sun, 18 Jan 2026 18:45:40 CST",
     "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
