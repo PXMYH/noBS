@@ -1,8 +1,32 @@
 [
   {
+    "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html",
+    "published": "Mon, 19 Jan 2026 18:28:20 CST",
+    "summary": "The traditional rhetoric of the World Economic Forum centered on global\nintegration, climate change and international cooperation. Not anymore.\n\n"
+  },
+  {
+    "title": "Brazil’s Finance Chief Backs Central Bank Oversight of Investment Funds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbrazil-s-haddad-backs-central-bank-fund-oversight-after-master",
+    "published": "Mon, 19 Jan 2026 18:24:20 CST",
+    "summary": "Brazil’s finance chief called for giving the central bank authority to\nregulate investment funds, arguing the move would strengthen oversight of the\nfinancial system following the liquidation of troubled Banco Master SA.\n\n"
+  },
+  {
+    "title": "Brazilian Judge Orders Tanure’s Assets Frozen in Banco Master Probe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbrazil-judge-orders-nelson-tanure-s-assets-frozen-in-banco-master-probe",
+    "published": "Mon, 19 Jan 2026 18:18:53 CST",
+    "summary": "Brazil Supreme Court Justice Dias Toffoli authorized the freezing of assets\nbelonging to investor Nelson Tanure as part of an investigation into Banco\nMaster SA, according to a Jan. 6 decision unsealed by the court on Friday.\n\n"
+  },
+  {
+    "title": "Trump Greenland TariffThreat Risks NewUS-Europe Trade War",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-greenland-tax-threat-risks-new-us-europe-trade-war-video",
+    "published": "Mon, 19 Jan 2026 18:15:07 CST",
+    "summary": "Donald Trump’s threat to hit European countries with a 10% levy over his claim\non Greenland risks a new trade war between the US and the EU. Alex Morgan\nexplains. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
-    "published": "Mon, 19 Jan 2026 17:15:32 CST",
+    "published": "Mon, 19 Jan 2026 18:11:18 CST",
     "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
   },
   {
@@ -56,7 +80,7 @@
   {
     "title": "Trump’s Trade Negotiator Says Response to Court Loss Would Be Immediate",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
-    "published": "Mon, 19 Jan 2026 15:28:04 CST",
+    "published": "Mon, 19 Jan 2026 15:28:05 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
   },
   {
@@ -150,12 +174,6 @@
     "summary": "Locals in Venezuela, as well as others living under unstable regimes, are\nturning to USDT as protection from political and economic uncertainties.\n\n"
   },
   {
-    "title": "Trump Era Davos 'Survival of the Richest' | The Pulse 1/19",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fthe-pulse-1-19-video",
-    "published": "Mon, 19 Jan 2026 13:44:58 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Jenny Johnson, Franklin\nTempleton CEO; Michael Roberts, HSBC Corporate and Institutional Banking CEO\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
     "published": "Mon, 19 Jan 2026 13:36:02 CST",
@@ -166,18 +184,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fzurich-makes-7-7-billion-bid-for-uk-cyber-insurer-beazley",
     "published": "Mon, 19 Jan 2026 13:20:05 CST",
     "summary": "Zurich Insurance Group AG has gone public with a £7.67 billion ($10.3 billion)\nbid to buy Beazley Plc, increasing pressure on the UK-listed company it’s been\nwooing for more than 12 months.\n\n"
-  },
-  {
-    "title": "Trump Threatens Europe, Global Stocks Sell Off | The Opening Trade 1/19/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fthe-opening-trade-1-19-2025-video",
-    "published": "Mon, 19 Jan 2026 13:07:02 CST",
-    "summary": "European stocks and US futures fell while havens such as gold rallied after\nPresident Donald Trump threatened levies on countries opposing his plans to\nacquire Greenland. The euro and Swiss franc advanced. Defense stocks are back\non the march again as Trump's threats are met with defiant responses from\nEuropean leaders. The Opening Trade has everything you need to know as markets\nopen across Europe. With analysis you won't find anywhere else, we break down\nthe biggest stories of the day and speak to top guests who have skin in the\ngame. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Romania Holds Rates as Inflation Near 10% Prevents Easing Debate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fromania-holds-rates-as-inflation-near-10-prevents-easing-debate",
-    "published": "Mon, 19 Jan 2026 13:00:56 CST",
-    "summary": "Romania’s central bank maintained one of the highest interest rates in the\nEuropean Union as policymakers wait for inflation to slow from around 10%\nbefore they start discussions about lowering borrowing costs.\n\n"
   },
   {
     "title": "Stellantis stock off 43% as Jeep maker turns five, executes turnaround",
@@ -250,12 +256,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuro-area-to-pick-ecb-s-no-2-in-prelude-to-bigger-board-revamp",
     "published": "Mon, 19 Jan 2026 05:15:00 CST",
     "summary": "Euro-area finance ministers are poised to start choosing the European Central\nBank’s next vice president, in a decision that will set the stage for the\nsuccession to Christine Lagarde in the top job.\n\n"
-  },
-  {
-    "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html",
-    "published": "Mon, 19 Jan 2026 05:01:19 CST",
-    "summary": "The traditional rhetoric of the World Economic Forum centered on global\nintegration, climate change and international cooperation. Not anymore.\n\n"
   },
   {
     "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
