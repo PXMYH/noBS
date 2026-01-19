@@ -1,9 +1,45 @@
 [
   {
+    "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fseattle-dock-workers-tariffs-trump.html",
+    "published": "Mon, 19 Jan 2026 23:36:17 CST",
+    "summary": "Dock workers are used to uncertainty, but nothing since the Great Recession of\n2008 compares to what they have experienced this year.\n\n"
+  },
+  {
+    "title": "Twin Falls, Idaho Has New Residents: 37 Afrikaners",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftwin-falls-idaho-afrikaners-trump.html",
+    "published": "Mon, 19 Jan 2026 23:33:24 CST",
+    "summary": "Twin Falls and its dairy industry have benefited from an influx of refugees\nfrom places like Bosnia, the Democratic Republic of Congo and Myanmar. That\nera is over.\n\n"
+  },
+  {
+    "title": "Nome, Alaska Is Now Key to Trump’s Global Ambitions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html",
+    "published": "Mon, 19 Jan 2026 23:29:18 CST",
+    "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
+  },
+  {
+    "title": "Silver Rises to Record as US-EU Tensions Over Greenland Persist",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsilver-rises-to-record-as-us-eu-tensions-over-greenland-persist",
+    "published": "Mon, 19 Jan 2026 23:08:23 CST",
+    "summary": "Silver hit a record and gold traded just below an all-time high, as President\nDonald Trump’s push to take over Greenland fueled fears of a damaging trade\nwar between the US and Europe.\n\n"
+  },
+  {
+    "title": "MSCI Rule Shift May Spur $2 Billion Exit From Indonesian Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmsci-rule-shift-may-spur-2-billion-exit-from-indonesian-stocks",
+    "published": "Mon, 19 Jan 2026 23:00:00 CST",
+    "summary": "Global funds may withdraw more than $2 billion from Indonesian equities in\ncoming months if MSCI Inc. proceeds with a change to its indexing methodology,\nunderscoring concerns about the investability of Southeast Asia’s biggest\nstock market.\n\n"
+  },
+  {
+    "title": "Japan’s 20-Year Government Bond Sale Has Investors on Edge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-s-20-year-government-bond-sale-has-investors-on-edge",
+    "published": "Mon, 19 Jan 2026 22:59:08 CST",
+    "summary": "Investors are on tenterhooks ahead of an auction of 20-year Japanese sovereign\nbonds Tuesday after the government’s plans for tax relief on food jolted the\nmarket.\n\n"
+  },
+  {
     "title": "Asian Stocks Face Wary Start as Tariff Feud Grows: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 19 Jan 2026 22:24:47 CST",
-    "summary": "Asian stocks were poised for a cautious open as investors weighed escalating\nUS-Europe trade tensions sparked by President Donald Trump’s tariff threats\nover Greenland.\n\n"
+    "summary": "Asian stocks were poised for modest losses at the open as President Donald\nTrump’s tariff threats over Greenland revived trade tensions and weighed on\ninvestor appetite for risk.\n\n"
   },
   {
     "title": "BHP Iron Ore Output Edges Higher, Potash Costs Rise Again",
@@ -27,7 +63,7 @@
     "title": "Mexican Billionaire Carlos Slim Snaps Up More Assets in Oil Push",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmexican-billionaire-carlos-slim-snaps-up-more-assets-in-oil-push",
     "published": "Mon, 19 Jan 2026 19:19:10 CST",
-    "summary": "Carlos Slim’s foray into Mexico’s offshore oil market shows no signs of\nabating, with the Mexican media magnate’s now planning to spend $270 million\non the remaining shares of oil fields off the coast of Campeche.\n\n"
+    "summary": "Carlos Slim’s foray into Mexico’s offshore oil market shows no signs of\nabating, with the Mexican media magnate now planning to spend $270 million on\nthe remaining shares of oil fields off the coast of Campeche.\n\n"
   },
   {
     "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
@@ -93,7 +129,7 @@
     "title": "‘Weaponizing’ $10 Trillion of US Assets Is Tough Ask for Europe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2F-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe",
     "published": "Mon, 19 Jan 2026 16:15:58 CST",
-    "summary": "As Europe considers how best to respond to US President Donald Trump’s latest\nthreats over Greenland’s sovereignty, there’s one extreme potential counter\nmeasure that’s fueling debate among investors.\n\n"
+    "summary": "As Europe considers how best to respond to US President Donald Trump’s latest\nthreats over Greenland’s sovereignty, there’s one extreme potential\ncountermeasure that’s fueling debate among investors.\n\n"
   },
   {
     "title": "UAE to Double Trade With India, Signs Long-Term LNG Contact",
@@ -154,18 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbarrick-changes-cfo-as-overhaul-continues-ahead-of-possible-ipo",
     "published": "Mon, 19 Jan 2026 15:01:08 CST",
     "summary": "Barrick Mining Corp. appointed Helen Cai as chief financial officer, replacing\nGraham Shuttleworth whose departure adds to a string of senior exits at the\nCanadian miner amid speculation it could be acquired or broken up.\n\n"
-  },
-  {
-    "title": "Gold Miner Plots Seizure of Peru Assets Over $67 Million Arbitration Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt",
-    "published": "Mon, 19 Jan 2026 14:42:01 CST",
-    "summary": "A Canadian gold miner said it will attempt to seize Peruvian state assets --\nincluding future debt payments -- unless the South American nation makes\nprompt payment of an arbitration award.\n\n"
-  },
-  {
-    "title": "Mitsui OSK CEO Hashimoto on 2026 Global Trade Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fmitsui-osk-ceo-hashimoto-on-2026-global-trade-outlook-video",
-    "published": "Mon, 19 Jan 2026 14:38:06 CST",
-    "summary": "Mitsui OSK Lines President and CEO Takeshi Hashimoto said there are signs of\ngradual stabilization following a “very difficult” 2025. He also expressed\nconfidence in his company’s ability to adapt despite ongoing geopolitical\ntensions in the Middle East and the Strait of Hormuz. Hashimoto speaks to\nBloomberg TV on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
   },
   {
     "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
@@ -252,12 +276,6 @@
     "summary": "China’s population fell for a fourth straight year and its birthrate tumbled\nas policymakers failed to slow a demographic crisis.\n\n"
   },
   {
-    "title": "ECB Race for No. 2 Job Kicks off in Brussels Before Board Revamp",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuro-area-to-pick-ecb-s-no-2-in-prelude-to-bigger-board-revamp",
-    "published": "Mon, 19 Jan 2026 05:15:00 CST",
-    "summary": "Euro-area finance ministers are poised to start choosing the European Central\nBank’s next vice president, in a decision that will set the stage for the\nsuccession to Christine Lagarde in the top job.\n\n"
-  },
-  {
     "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
     "published": "Mon, 19 Jan 2026 04:20:17 CST",
@@ -310,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
     "published": "Sun, 18 Jan 2026 21:12:51 CST",
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
-  },
-  {
-    "title": "Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html",
-    "published": "Sun, 18 Jan 2026 20:07:22 CST",
-    "summary": "Six months after President Trump told Wall Street banks to prepare a swift\nstock offering, there is no firm plan for how to take the giant mortgage firms\npublic.\n\n"
   },
   {
     "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
@@ -622,12 +634,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fuber-japan-dara-khosrowshahi.html",
     "published": "Fri, 16 Jan 2026 05:00:11 CST",
     "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally\ngrab a bigger piece of one of the world’s largest taxi markets.\n\n"
-  },
-  {
-    "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fenergy-environment%2Fdata-center-energy-electricity-costs.html",
-    "published": "Fri, 16 Jan 2026 01:15:51 CST",
-    "summary": "Despite many proposals, there is little consensus among governors, lawmakers\nand tech executives about exactly how much the companies behind data centers\nshould pay for electricity.\n\n"
   },
   {
     "title": "CBS News report on ICE officer’s injuries drew ‘huge internal concern’",
@@ -996,12 +1002,6 @@
     "summary": "The agreement represents a push for deeper global cooperation, in contrast to\nthe United States’ turning to coercion in its dealings with other countries.\n\n"
   },
   {
-    "title": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F05%2Fbusiness%2Feconomy%2Fbusiness-economy-jobs-report-december.html",
-    "published": "Fri, 09 Jan 2026 23:17:06 CST",
-    "summary": "The unemployment rate fell in December, but job growth across 2025 was the\nlowest in five years.\n\n"
-  },
-  {
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fus%2Fpolitics%2Fus-hiring-economy-trump-second-term.html",
     "published": "Fri, 09 Jan 2026 21:39:15 CST",
@@ -1012,12 +1012,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Ffederal-reserve-labor-market-rate-cuts.html",
     "published": "Fri, 09 Jan 2026 14:23:55 CST",
     "summary": "For the central bank to lower interest rates again, officials will likely need\nto see more notable signs that unemployment is rising.\n\n"
-  },
-  {
-    "title": "Nicolai Tangen Manages Trillions of Dollars, but His Podcast Made Him Famous",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F09%2Fbusiness%2Feconomy%2Fnicolai-tangen-in-good-company-podcast-norges-bank.html",
-    "published": "Fri, 09 Jan 2026 12:08:53 CST",
-    "summary": "Nicolai Tangen wanted to raise the profile of Norway’s $2.1 trillion oil fund\nand change corporate behavior, but he may have helped embroil it in a\ngeopolitical tangle.\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
