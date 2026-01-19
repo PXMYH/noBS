@@ -1,5 +1,83 @@
 [
   {
+    "title": "Goldman Economists See Limited US Tariff Hit to European Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgoldman-economists-see-limited-us-tariff-hit-to-european-growth",
+    "published": "Mon, 19 Jan 2026 10:40:49 CST",
+    "summary": "The latest 10% tariff threatened by President Donald Trump is likely to shave\noff about 0.1% from the euro area’s gross domestic product, according to\nGoldman Sachs Group Inc. economists.\n\n"
+  },
+  {
+    "title": "HSBC's Roberts Says AI Won't Lead to 'Massive Layoffs'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video",
+    "published": "Mon, 19 Jan 2026 10:32:34 CST",
+    "summary": "Michael Roberts, head of corporate and institutional banking at HSBC,\ndiscusses geopolitical risks, the bank's restructure and the impact of\nartificial intelligence on staffing. \"I don't think it'll lead to massive\nlayoffs,\" Roberts says. \"I don't think it'll lead to massive change in how we\ndo things other than as to make it more efficient,\" he adds. Roberts speaks on\nBloomberg Television at the World Economic Forum's annual meeting in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Xi’s Export Machine Helped by Trump’s Moves to Strongarm Allies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies",
+    "published": "Mon, 19 Jan 2026 10:32:03 CST",
+    "summary": "As Xi Jinping battles unprecedented deflation and shrinking investment, he’s\nbetting that China can sell more and more goods to the world to drive growth.\nTo that end, Donald Trump’s threats against key US allies are coming at a good\ntime.\n\n"
+  },
+  {
+    "title": "ECB to Benefit From His Voice of Consensus As Vice President: Centeno",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fecb-vice-president-candidate-mario-centeno-video",
+    "published": "Mon, 19 Jan 2026 10:30:20 CST",
+    "summary": "Mario Centeno, former Bank of Portugal governor discusses monetary policy,\nrates and his candidacy for ECB vice president position. He says that as\nEurope has entered a phase of structural uncertainty, “EU institutions will\nincreasingly be called upon to act as a stabilizing actor” and that a ‘’voice\nof consensus’’ is his well-known trademark he will be to the ECB if elected\nvice president. He speaks with Tom McKenzie and Anna Edwards. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Toscafund Is Said to Explore Sale of Portuguese Insurer Caravela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftoscafund-is-said-to-explore-sale-of-portuguese-insurer-caravela",
+    "published": "Mon, 19 Jan 2026 10:26:34 CST",
+    "summary": "Toscafund Asset Management and other minority shareholders of Caravela Seguros\nare exploring a sale of the Portuguese insurer, according to people familiar\nwith the matter.\n\n"
+  },
+  {
+    "title": "UK Should Double Bill Sales to Help Gilts, Morgan Stanley Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuk-should-double-bill-sales-to-help-gilts-morgan-stanley-says",
+    "published": "Mon, 19 Jan 2026 10:24:50 CST",
+    "summary": "The UK should double its issuance of government bills to ease strains in the\ngilt market and lower borrowing costs, according to Morgan Stanley\nstrategists.\n\n"
+  },
+  {
+    "title": "Malaysia Plans Dollar Bond Sale This Year, First Since 2021",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmalaysia-plans-to-sell-dollar-bonds-this-year-first-since-2021",
+    "published": "Mon, 19 Jan 2026 10:07:52 CST",
+    "summary": "Malaysia has sounded out debt arrangers about a dollar bond offering, putting\nthe Asian government on track to join a record global fundraising binge so far\nin 2026.\n\n"
+  },
+  {
+    "title": "Prominent Architecture Firm Is Accused of Illegally Ousting Employees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fsnohetta-nlrb-complaint.html",
+    "published": "Mon, 19 Jan 2026 10:02:16 CST",
+    "summary": "A federal labor regulator says the firm, Snohetta, laid off eight employees in\nretaliation for trying to unionize.\n\n"
+  },
+  {
+    "title": "The Rise of Prediction Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftechnology%2Fpolymarket-kalshi-prediction-markets.html",
+    "published": "Mon, 19 Jan 2026 10:01:04 CST",
+    "summary": "Billions of dollars are trading hands on sites like Polymarket and Kalshi,\nwhere people bet on everything from Taylor Swift’s wedding date to election\noutcomes.\n\n"
+  },
+  {
+    "title": "When is it least likely to rain in the United States?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F19%2Fwhen-is-it-least-likely-rain-united-states%2F",
+    "published": "Mon, 19 Jan 2026 10:00:15 CST",
+    "summary": "The U.S. is generally driest in late September, but it depends on where you\nare.\n\n"
+  },
+  {
+    "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftheater%2Fphantom-of-the-opera-masquerade.html",
+    "published": "Mon, 19 Jan 2026 10:00:09 CST",
+    "summary": "The immersive adaptation of Andrew Lloyd Webber’s musical is a hit, with some\npeople coming back a dozen times since it began performances last summer.\n\n"
+  },
+  {
+    "title": "US Tariff Hit to European Stocks Will Be Brief, Strategists Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fus-tariff-hit-to-european-stocks-will-be-brief-strategists-say",
+    "published": "Mon, 19 Jan 2026 09:59:25 CST",
+    "summary": "President Donald Trump’s latest tariff threats present only a short-term risk\nto European stocks as the broader corporate earnings outlook remains robust.\n\n"
+  },
+  {
+    "title": "Horizons Middle East and Africa 1/19/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fhorizons-middle-east-and-africa-1-19-2026-video",
+    "published": "Mon, 19 Jan 2026 09:55:37 CST",
+    "summary": "US and European stock futures fall and safe havens surge as US President\nDonald Trump threatens new tariffs on the UK and EU allies, in his pursuit of\na Greenland takeover. Also on the show: EU leaders set to hold an emergency\nmeeting on Trump's tariff threat; President Trump's so-called Board of Peace\nfor Gaza is beginning to take shape; Saudi Arabia is finalizing an agreement\non a new military coalition with Somalia and Egypt; US is ratcheting up\ncriticism of South Africa following joint naval drills involving Iran. Guests\ninclude: Anita Krishna Gupta, CIO, Wealthbrix Capital Partners; David Wilson,\nBNP Paribas, Director of Commodities Strategy. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:04 CST",
@@ -66,52 +144,22 @@
     "summary": "Asian oil refiners are switching from Abu Dhabi’s flagship Murban crude as\nother grades become cheaper, according to traders.\n\n"
   },
   {
-    "title": "Wilson: Gold Thrives on Uncertainty",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fwilson-gold-thrives-on-uncertainty-video",
-    "published": "Mon, 19 Jan 2026 08:26:48 CST",
-    "summary": "Gold and silver jumped to record highs after President Trump announced tariffs\non 8 European allies that are opposing US plans to take over Greenland. David\nWilson, Director of Commodities Strategy at BNP Paribas spoke to Bloomberg’s\nJennifer Zabasajja on Horizons Middle East and Africa about the precious\nmetals price action. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Investcorp’s Alardhi on GCC investment, IPO market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Finvestcorp-s-alardhi-on-gcc-investment-ipo-market-video",
-    "published": "Mon, 19 Jan 2026 08:23:41 CST",
-    "summary": "Investcorp Executive Chairman Mohammed Alardhi says there is “value in\npockets” across GCC investment opportunities and that the region’s IPO market\nis gaining momentum. He spoke with Bloomberg’s Joumanna Bertcetche on the\nsidelines of the 2026 World Economic Forum in Davos, Switzerland. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Bayer Shares Jump as US Supreme Court to Hear Roundup Appeal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbayer-shares-jump-as-us-supreme-court-to-hear-roundup-appeal",
-    "published": "Mon, 19 Jan 2026 08:23:16 CST",
-    "summary": "Bayer AG’s shares surged after the US Supreme Court said it would hear the\ncompany’s appeal in a Roundup case that could undercut thousands of lawsuits\ntied to the weedkiller.\n\n"
-  },
-  {
-    "title": "Goldman Sees Further Dollar Weakening on Tariffs Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fgoldman-sees-further-dollar-weakening-on-tariffs-threat-video",
-    "published": "Mon, 19 Jan 2026 08:16:18 CST",
-    "summary": "Kamakshya Trivedi, chief FX and EM strategist at Goldman Sachs, says the\ndollar is likely to continue its decline as US President Donald Trump’s\nproposed new levies on eight countries that have opposed his plans to acquire\nGreenland. “I would expect the Swiss to be the primary beneficiary,” Trivedi\ntells Bloomberg Television. “That’s the safe haven of choice at a time like\nthis.”\n\n"
-  },
-  {
-    "title": "China Plants Another Africa Marker in Campaign to Globalize Yuan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-plants-another-africa-marker-in-campaign-to-globalize-yuan",
-    "published": "Mon, 19 Jan 2026 08:15:13 CST",
-    "summary": "Zambia is the first African country to let Chinese mining companies pay taxes\nin yuan. It probably won’t be the last, as Beijing seeks to internationalize\nthe currency and dilute its dollar dependence.\n\n"
-  },
-  {
     "title": "European Automakers Fall on Trump’s Latest Tariff Threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuropean-automaker-shares-fall-on-trump-s-latest-tariff-threats",
     "published": "Mon, 19 Jan 2026 08:11:17 CST",
     "summary": "European automakers plunged after US President Donald Trump threatened to hike\ntariffs again in the standoff over Greenland.\n\n"
   },
   {
-    "title": "Tesla, Volvo Set to Be First Winners of China-Canada EV Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftesla-volvo-set-to-be-first-winners-of-china-canada-ev-deal",
-    "published": "Mon, 19 Jan 2026 07:13:09 CST",
-    "summary": "Tesla Inc. and brands controlled by Zhejiang Geely Holding Group Co. will\nlikely be the first beneficiaries of Canada’s move to slash import tariffs on\nmade-in-China electric vehicles.\n\n"
+    "title": "Prabowo Nominates Nephew as Bank Indonesia Deputy Governor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fprabowo-nominates-his-nephew-as-bank-indonesia-deputy-reuters",
+    "published": "Mon, 19 Jan 2026 07:01:43 CST",
+    "summary": "Indonesian President Prabowo Subianto has nominated his nephew for Bank\nIndonesia deputy governor, sparking apprehension among investors that the move\ncould erode the central bank’s autonomy. The rupiah closed near its record\nlow.\n\n"
   },
   {
-    "title": "Japan’s Government Bonds Slump, Food Stocks Jump on Tax Cut Talk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-s-food-stocks-feast-on-tax-cut-talk-fiscal-woes-hit-bonds",
-    "published": "Mon, 19 Jan 2026 05:56:02 CST",
-    "summary": "Japanese government bonds fell and food-related stocks surged in Japan after\nreports of a possible cut to food tax ahead of a snap election expected to be\nheld next month.\n\n"
+    "title": "S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fem-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries",
+    "published": "Mon, 19 Jan 2026 06:41:31 CST",
+    "summary": "Emerging stocks and currencies held broadly steady Monday, as commodity price\ngains and Asian shares’ resilience offset renewed tariff headlines. South\nAfrica’s rand underperformed amid diplomatic tensions with the US.\n\n"
   },
   {
     "title": "China’s Birthrate Plunges to Lowest Level Since 1949",
@@ -156,12 +204,6 @@
     "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
   },
   {
-    "title": "Japan’s Largest Nuclear Plant Delays Restart on Alarm Issue",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftokyo-electric-to-delay-niigata-nuclear-plant-restart-nhk-says",
-    "published": "Mon, 19 Jan 2026 03:26:09 CST",
-    "summary": "Tokyo Electric Power Co. will delay the restart of a reactor in Japan’s\nlargest nuclear power plant, initially planned for Tuesday, following an issue\nwith an alarm that was discovered over the weekend.\n\n"
-  },
-  {
     "title": "One Month Later, CBS Airs Postponed ‘60 Minutes’ Report With Few Changes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Fcbs-60-minutes-venezuela-report.html",
     "published": "Mon, 19 Jan 2026 02:31:11 CST",
@@ -172,12 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F19%2Fcbs-60-minutes-venezuelan-prisoners-bari-weiss",
     "published": "Mon, 19 Jan 2026 02:27:37 CST",
     "summary": "The segment, reported by Sharyn Alfonsi, was supposed to air on 21 December\nbut was pulled by editor in chief Bari Weiss\n\nNearly a month after CBS News editor in chief Bari Weiss ignited controversy\nby shelving a 60 Minutes segment about Venezuelan prisoners, telling staffers\nthat it needed more reporting, the piece finally aired on Sunday night.\n\nWeiss had originally instructed 60 Minutes to hold the segment about the Cecot\nprison in El Salvador, which had already been scheduled, in part because it\nlacked “the administration’s argument”.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Point72 Expands Office Space in Hong Kong’s Henderson Tower",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fpoint72-expands-office-space-in-hong-kong-s-henderson-tower",
-    "published": "Mon, 19 Jan 2026 02:12:53 CST",
-    "summary": "Point72 Asset Management has signed a deal to take more space for its upcoming\noffice in The Henderson, a skyscraper in Hong Kong’s Central district, as\ndemand from the financial sector provides relief to the city’s beleaguered\noffice market.\n\n"
   },
   {
     "title": "Jane Street India’s Trading Gains Soared 494% Before Curbs",
@@ -198,22 +234,10 @@
     "summary": "Hedge funds closed their bullish euro positions just days before US President\nDonald Trump threatened to impose new tariffs on European nations as he ramped\nup efforts to take over Greenland.\n\n"
   },
   {
-    "title": "Reeves Calls Off LSE Speech to Support Starmer Over Trump Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Freeves-says-london-ipo-critics-were-wrong-as-new-rules-kick-in",
-    "published": "Mon, 19 Jan 2026 00:01:00 CST",
-    "summary": "Chancellor of the Exchequer Rachel Reeves pulled out of a planned Monday-\nmorning London Stock Exchange speech at late notice, with people familiar with\nthe situation saying she will instead join Prime Minister Keir Starmer as he\naddresses Donald Trump’s threats over Greenland.\n\n"
-  },
-  {
-    "title": "Hong Kong Billionaire Puts Quarter of His Wealth in Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fhong-kong-value-billionaire-puts-quarter-of-his-wealth-in-gold",
-    "published": "Sun, 18 Jan 2026 23:30:00 CST",
-    "summary": "For three decades, Cheah Cheng Hye was a face of value investing in Asia,\nbuilding Value Partners Group Ltd. into a multi-billion dollar stock-picking\npowerhouse.\n\n"
-  },
-  {
-    "title": "Oil Declines as Iran Tensions Ease and Trump Menaces Greenland",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flatest-oil-market-news-and-analysis-for-jan-19",
-    "published": "Sun, 18 Jan 2026 23:27:46 CST",
-    "summary": "Oil fell as tensions over Iran cooled and wider markets had a risk-off tone\nwith President Donald Trump’s push to take Greenland.\n\n"
+    "title": "Gold and Silver Jump to Record Highs on Greenland Tariff Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats",
+    "published": "Sun, 18 Jan 2026 23:10:40 CST",
+    "summary": "Gold and silver jumped to record highs as President Donald Trump’s\nintensifying push to take over Greenland fueled fears of a damaging trade war\nbetween the US and Europe.\n\n"
   },
   {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
@@ -624,12 +648,6 @@
     "summary": "Goldman's revenue dipped 3% in Q4, which the company said was the result of\noff-loading the Apple Card loan portfolio to JPMorgan Chase.\n\n"
   },
   {
-    "title": "Earnings Fall Short at Bank of America, Citi, JPMorgan and Wells Fargo",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fbanks-earnings-goldman-sachs-jpmorgan.html",
-    "published": "Thu, 15 Jan 2026 19:15:35 CST",
-    "summary": "This week, Bank of America, Citi, JPMorgan and Wells Fargo released fraught\nearnings reports as President Trump’s threatened cap on credit card rates\nloomed large.\n\n"
-  },
-  {
     "title": "College students and teens could be fueling the prediction markets boom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fprediction-markets-college-students-teens-could-be-fueling-the-boom.html",
     "published": "Thu, 15 Jan 2026 18:57:42 CST",
@@ -646,12 +664,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fbuffett-family-fortune-philanthropy.html",
     "published": "Thu, 15 Jan 2026 18:03:39 CST",
     "summary": "In a rare interview, the three Buffett heirs said their world view, priorities\nand approach to philanthropy began in the Buffett household.\n\n"
-  },
-  {
-    "title": "Trump Vows to Make Venezuela Rich. It Will Take More Than U.S. Cash.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fvenezuela-oil-history-investment.html",
-    "published": "Thu, 15 Jan 2026 17:55:06 CST",
-    "summary": "History suggests that the price of oil and a wider distribution of wealth are\nas important as foreign investment.\n\n"
   },
   {
     "title": "NBCUniversal strategically leans into sports as it prepares for 'Legendary February'",
@@ -676,18 +688,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fsaks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 15:50:07 CST",
     "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus, but didn't have\nenough money left over to pay vendors, which led the company to declare\nbankruptcy.\n\n"
-  },
-  {
-    "title": "Coinbase and the Crypto Revolt Against a Crypto Bill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fdealbook%2Fcrypto-bill-coinbase.html",
-    "published": "Thu, 15 Jan 2026 14:48:24 CST",
-    "summary": "Legislation to establish a regulatory framework for digital tokens has been\nthrown into turmoil — by one of its biggest champions.\n\n"
-  },
-  {
-    "title": "Elon Musk’s X Restricts Ability to Create Explicit Images With Grok",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fgrok-ai-images-x.html",
-    "published": "Thu, 15 Jan 2026 14:42:04 CST",
-    "summary": "Bowing to pressure, the company said it would restrict X users from generating\nexplicit images of real people in jurisdictions where such content is illegal.\n\n"
   },
   {
     "title": "Under threat from Trump, Wall Street banks wager they can fend off credit card price controls",
@@ -736,12 +736,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Fuk-economy-grew-november-reeves-budget-ons-gdp",
     "published": "Thu, 15 Jan 2026 10:10:38 CST",
     "summary": "Jaguar Land Rover’s recovery from cyber-attack appears to have contributed to\nGDP growth\n\n• Growth figures give boost to Reeves – but it’s too early to get carried away  \n• Business live – latest updates\n\nThe UK economy grew by a stronger-than-expected 0.3% in November despite\nuncertainty around Rachel Reeves’s budget, official figures show.\n\nFigures from the Office for National Statistics (ONS) on Thursday showed the\nimprovement, up from a 0.1% fall in October.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Leading Prediction Firms Share a Commonality: Donald Trump Jr.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fus%2Fpolitics%2Fdonald-trump-jr-prediction-markets.html",
-    "published": "Thu, 15 Jan 2026 10:02:18 CST",
-    "summary": "Traders in companies with ties to the president’s eldest son can bet on the\noutcome of events the president affects.\n\n"
   },
   {
     "title": "‘The consumers are still out there’: why a bankruptcy for Saks Global may not spell the end",
