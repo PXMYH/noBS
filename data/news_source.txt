@@ -1,5 +1,59 @@
 [
   {
+    "title": "China’s Birthrate Plunges to Lowest Level Since 1949",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html",
+    "published": "Mon, 19 Jan 2026 05:41:46 CST",
+    "summary": "China’s population fell for a fourth straight year and its birthrate tumbled\nas policymakers failed to slow a demographic crisis.\n\n"
+  },
+  {
+    "title": "Why Franklin Templeton Sees India As A Long-Term Winner",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fwhy-franklin-templeton-sees-india-as-a-long-term-winner-video",
+    "published": "Mon, 19 Jan 2026 05:19:49 CST",
+    "summary": "Franklin Templeton’s Chief Market Strategist Stephen Dover shares his bullish\noutlook on India despite recent underperformance. He explains why structural\nreforms, capital investment, and government support could drive significant\ngrowth over the next decade. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Euro Area to Pick ECB’s No. 2 in Prelude to Bigger Board Revamp",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feuro-area-to-pick-ecb-s-no-2-in-prelude-to-bigger-board-revamp",
+    "published": "Mon, 19 Jan 2026 05:15:00 CST",
+    "summary": "Euro-area finance ministers are set to select the European Central Bank’s next\nvice president on Monday in a decision that will set the stage for the\nsuccession to Christine Lagarde in the top job.\n\n"
+  },
+  {
+    "title": "UniCredit Rattles Polish Rivals With Return to Corporate Lending",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Funicredit-rattles-polish-rivals-with-return-to-corporate-lending",
+    "published": "Mon, 19 Jan 2026 05:15:00 CST",
+    "summary": "UniCredit SpA is aggressively pushing into Poland’s corporate debt market just\nmonths after restarting operations, triggering a margin squeeze that has local\ncompetitors on alert.\n\n"
+  },
+  {
+    "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html",
+    "published": "Mon, 19 Jan 2026 05:01:19 CST",
+    "summary": "The traditional rhetoric of the World Economic Forum centered on global\nintegration, climate change and international cooperation. Not anymore.\n\n"
+  },
+  {
+    "title": "Singapore Bourse Targets Global Macro Funds in Japan Rates Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsingapore-bourse-targets-global-macro-funds-in-japan-rates-push",
+    "published": "Mon, 19 Jan 2026 05:00:45 CST",
+    "summary": "Singapore Exchange Ltd. will introduce futures on longer-dated Japanese\ngovernment bonds as trading in the world’s third-biggest debt market heats up.\n\n"
+  },
+  {
+    "title": "Jeremy Grantham Says AI Is Indeed a Classic Market Bubble",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjeremy-grantham-says-ai-is-indeed-a-classic-market-bubble-podcast",
+    "published": "Mon, 19 Jan 2026 05:00:32 CST",
+    "summary": "The GMO co-founder explains why most investing “premiums” boil down to value--\nand why AI’s promise doesn’t spare it from a painful shakeout.\n\n"
+  },
+  {
+    "title": "UK Bond Market Readies for £18 Billion Retail Investment Rush",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuk-bond-market-readies-for-18-billion-retail-investment-rush",
+    "published": "Mon, 19 Jan 2026 05:00:01 CST",
+    "summary": "UK bonds with the most favorable tax terms are outperforming as investors look\nto get ahead of an expected rush from retail traders.\n\n"
+  },
+  {
+    "title": "Airbus Humanoid Order Sends Chinese Robot Maker’s Shares Surging",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fairbus-humanoid-order-sends-chinese-robot-maker-s-shares-surging",
+    "published": "Mon, 19 Jan 2026 04:31:00 CST",
+    "summary": "UBTech Robotics Corp. shares jumped after the China-based humanoid maker\nreceived an order from Airbus SE, bolstering the outlook for use of its\nproducts in global manufacturing.\n\n"
+  },
+  {
     "title": "At Davos, Global Leaders Gather to Ponder the Future of a Messy World",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
     "published": "Mon, 19 Jan 2026 04:20:17 CST",
@@ -12,10 +66,10 @@
     "summary": "The dollar faces fresh headwinds as President Donald Trump weighs tariffs on\nEuropean nations tied to his plan to acquire Greenland, raising uncertainties\nover US policies, according to analysts.\n\n"
   },
   {
-    "title": "Won Slide as Asia’s Worst Performer Sparks Kimchi Bond Demand",
+    "title": "Kimchi Bonds Return in Korea as Weak Won Sparks Forex Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fwon-slide-to-asia-s-worst-performer-sparks-kimchi-bond-demand",
     "published": "Mon, 19 Jan 2026 04:14:45 CST",
-    "summary": "A leading South Korean credit card company is selling a dollar bond in the\nlocal market, highlighting demand to diversify away from the won after recent\nits declines.\n\n"
+    "summary": "A leading South Korean credit card company is selling a dollar bond in the\nlocal market, highlighting demand to diversify away from the won after recent\ndeclines.\n\n"
   },
   {
     "title": "Romania to Hold Rates With Inflation Near 10%: Decision Guide",
@@ -44,7 +98,7 @@
   {
     "title": "Real Estate Crash Weighs on China’s Economic Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-gdp-economy.html",
-    "published": "Mon, 19 Jan 2026 03:47:37 CST",
+    "published": "Mon, 19 Jan 2026 03:47:38 CST",
     "summary": "Falling apartment prices have erased the savings of millions of Chinese\nhouseholds, but exports lifted the economy to 5 percent growth last year.\n\n"
   },
   {
@@ -84,12 +138,6 @@
     "summary": "Iron ore sank for a fifth day as Beijing confirmed a big drop in steel\nproduction and the inaugural cargo from a major new mine in Africa arrived in\nChina, raising concerns about oversupply in the seaborne market.\n\n"
   },
   {
-    "title": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html",
-    "published": "Mon, 19 Jan 2026 02:54:10 CST",
-    "summary": "With fewer babies and more deaths, China’s population fell for a fourth\nstraight year as policymakers face a demographic crisis in the making.\n\n"
-  },
-  {
     "title": "Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-19%2Freliance-industries-icici-bank-earnings-fall-short-of-expectations",
     "published": "Mon, 19 Jan 2026 02:45:42 CST",
@@ -120,64 +168,16 @@
     "summary": "Chinese aluminum output rose to an all-time high last year, climbing above the\ncountry’s capacity limit, while steel fell to a seven-year low, underscoring\ndramatically different prospects for the two most widely used metals.\n\n"
   },
   {
-    "title": "China’s Coal Output Hits Record in 2025 Even as It Burns Less",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-coal-output-hits-record-in-2025-even-as-it-burns-less",
-    "published": "Mon, 19 Jan 2026 02:20:59 CST",
-    "summary": "China’s coal production reached a record last year, even as the country’s\npower plants burned less of the fossil fuel due to a flood of cleaner\nelectricity, with Beijing continuing to prioritize energy security.\n\n"
-  },
-  {
-    "title": "RBNZ Chief Should Have Discussed Support for Powell, Willis Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Frbnz-chief-should-have-discussed-support-for-powell-willis-says",
-    "published": "Mon, 19 Jan 2026 02:20:25 CST",
-    "summary": "New Zealand Finance Minister Nicola Willis said she would have preferred\nReserve Bank Governor Anna Breman spoke with her before signing a statement in\nsupport of Federal Reserve Chair Jerome Powell.\n\n"
-  },
-  {
-    "title": "Singapore Property Stocks Set for Best Start in Over a Decade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsingapore-property-stocks-set-for-best-start-in-over-a-decade",
-    "published": "Mon, 19 Jan 2026 02:17:36 CST",
-    "summary": "Singapore’s real estate stocks are set for their best start in 14 years,\nbuoyed by investor bets that upcoming earnings reports will unveil generous\ncapital return plans.\n\n"
-  },
-  {
-    "title": "Point72 Expands Office Space in Hong Kong’s Henderson Tower",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fpoint72-expands-office-space-in-hong-kong-s-henderson-tower",
-    "published": "Mon, 19 Jan 2026 02:12:53 CST",
-    "summary": "Point72 Asset Management has signed a deal to take more space for its upcoming\noffice in The Henderson, a skyscraper in Hong Kong’s Central district, as\ndemand from the financial sector provides relief to the city’s beleaguered\noffice market.\n\n"
-  },
-  {
     "title": "Japan Bonds Slump as Food Tax Cut Talk Adds to Election Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-bond-yields-jump-on-fiscal-concerns-as-election-approaches",
     "published": "Mon, 19 Jan 2026 02:09:25 CST",
     "summary": "Japan’s government bonds fell after reports of a possible cut to food tax\nrenewed fiscal concerns ahead of a snap election expected to be held next\nmonth.\n\n"
   },
   {
-    "title": "Jane Street India Unit Saw Trading Gains Soar 494% Before Curbs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjane-street-india-unit-saw-trading-gains-soar-494-before-curbs",
-    "published": "Mon, 19 Jan 2026 02:06:38 CST",
-    "summary": "Jane Street Group LLC’s unit in India reported an almost six-fold jump in\ntrading gains for the financial year ended March before its operations were\nbrought to an abrupt halt by the regulator on allegations of market\nmanipulation last year.\n\n"
-  },
-  {
     "title": "China’s Economic Momentum Weakens Despite Meeting 5% Growth Goal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-economy-grows-5-in-2025-as-export-boom-helps-meet-goal",
     "published": "Mon, 19 Jan 2026 02:00:01 CST",
     "summary": "China’s economy lost more momentum last quarter even as it met the\ngovernment’s target in 2025, in another year of lopsided growth that will be\nhard to sustain in an era of protectionism around the world.\n\n"
-  },
-  {
-    "title": "Franklin Templeton Strategist Sees Promise in Indian Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ffranklin-templeton-strategist-sees-promise-in-indian-stocks",
-    "published": "Mon, 19 Jan 2026 02:00:00 CST",
-    "summary": "A lack of enthusiasm toward Indian equities is opening an opportunity for\nlong-term investors, according to Franklin Templeton Institute’s Chief Market\nStrategist and Head Stephen Dover.\n\n"
-  },
-  {
-    "title": "Tiger Global’s Tax Ruling Casts Pall on India’s Buyout Sector",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftiger-global-s-tax-ruling-casts-pall-on-india-s-buyout-sector",
-    "published": "Mon, 19 Jan 2026 02:00:00 CST",
-    "summary": "An India court ruling forcing Tiger Global Management to pay taxes on an asset\nsale will have ripple effects on other buyout firms seeking to unload long-\nheld investments, and may set a precedent for tax probes on high-frequency\ntrading firms including Jane Street Group.\n\n"
-  },
-  {
-    "title": "Trump Rocks Europe With Tariff Play to Seize Greenland",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-rocks-europe-with-tariff-play-to-seize-greenland-video",
-    "published": "Mon, 19 Jan 2026 01:54:06 CST",
-    "summary": "European leaders are taking steps to respond to Donald Trump's move on\nGreenland, with an emergency summit called and some leaders warning of\nretaliatory measures. Jon Herskovitz shares the latest. (Source: Bloomberg)\n\n"
   },
   {
     "title": "‘60 Minutes’ story held for lacking interview with Trump official airs without one",
@@ -210,10 +210,10 @@
     "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
-    "title": "Stocks Fall, Havens Rise on Greenland Tariff Woes: Markets Wrap",
+    "title": "European, US Stock Futures Fall on Trump’s Tariff: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
     "published": "Sun, 18 Jan 2026 22:13:21 CST",
-    "summary": "US and European stock futures fell and haven assets such as gold rallied after\nPresident Donald Trump proposed new levies on eight countries that have\nopposed his plans to acquire Greenland. The dollar weakened against most of\nits major peers.\n\n"
+    "summary": "European and US stock futures fell and haven assets such as gold rallied after\nPresident Donald Trump proposed new levies on eight countries that have\nopposed his plans to acquire Greenland. The dollar weakened against most of\nits major peers.\n\n"
   },
   {
     "title": "As Office Rents Rise, Doctors Get Creative",
