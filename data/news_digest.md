@@ -1,16 +1,16 @@
-# NoBS News Digest - January 18, 2026
+# NoBS News Digest - January 19, 2026
 
-Generated from **214** unique articles (deduplicated from 214 total) across **1** news sources
+Generated from **215** unique articles (deduplicated from 215 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions dominate the week as Europe grapples with escalating hostilities with Russia. European Central Bank official Martins Kazaks warns that Europe is already 'at war' with Russia, urging central banks to prepare for further escalation. Meanwhile, the U.S. tightens its immigration policies, halting immigrant visa processing for 75 countries, including Brazil, Iran, and Russia, citing welfare concerns. In Latin America, the FAA issues advisories cautioning pilots about military activity in Pacific Ocean regions near Mexico, Colombia, Ecuador, and Panama, raising concerns over regional stability. On the domestic front, former President Donald Trump makes headlines with a $1 million investment in Netflix and Warner Bros. bonds following their merger announcement, while his administration's controversial claim over Venezuela's oil resources faces skepticism from major oil companies. The entertainment industry also sees a shake-up as Kathleen Kennedy steps down as Lucasfilm president, marking a significant leadership change in the 'Star Wars' franchise.
+Global tensions escalate as Donald Trump's administration makes bold geopolitical moves, including a controversial push to assert control over Greenland, prompting European leaders to call an emergency summit and threaten retaliatory measures. The U.S. also suspends immigrant visa processing for 75 countries, citing welfare concerns, a decision that could strain diplomatic relations with nations like Brazil, Iran, and Russia. Meanwhile, the Federal Aviation Administration issues warnings about military activity in parts of the Pacific Ocean near Latin American countries, raising concerns about regional security. On the economic front, Japan faces fiscal uncertainty as bond yields surge ahead of a snap election, fueled by reports of potential tax cuts. In corporate news, Kathleen Kennedy steps down as Lucasfilm president, marking a shift in leadership for the 'Star Wars' franchise.
 
 **Top Articles:**
-- [ECB’s Kazaks Tells FT Europe Is Already ‘at War’ With Russia](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fecb-s-kazaks-tells-ft-europe-is-already-at-war-with-russia)
-- [Trump bought $1M in Netflix, Warner Bros. bonds after merger announcement](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F16%2Ftrump-bought-1m-netflix-warner-bros-bonds-after-merger-announcement%2F)
+- [Japan Bond Yields Jump on Fiscal Concerns as Election Approaches](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjapan-bond-yields-jump-on-fiscal-concerns-as-election-approaches)
+- [Trump Rocks Europe With Tariff Play to Seize Greenland](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Ftrump-rocks-europe-with-tariff-play-to-seize-greenland-video)
 - [F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html)
 - [Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
 - [Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela)
@@ -21,37 +21,37 @@ Geopolitical tensions dominate the week as Europe grapples with escalating hosti
 
 ## 💰 Finance, Economics & Business
 
-Global markets are on edge as geopolitical tensions and policy shifts dominate headlines. Gold and silver surged to record highs after President Trump threatened tariffs on eight European nations over Greenland, sparking a selloff in equities and boosting demand for haven assets. The move also jeopardized the EU-US trade deal, with European lawmakers poised to halt approval. Meanwhile, China’s $7 trillion cash pile is flowing into stocks and gold as households seek higher yields, while sovereign wealth funds and institutional investors pile into private credit deals in emerging markets. Central banks, including Serbia’s, are stockpiling gold amid concerns over the dollar’s credibility, adding to the metal’s rally. On the corporate front, Novo Nordisk shares jumped 8% after strong early sales of its Wegovy obesity drug, while Amazon threatened legal action over Saks’ bankruptcy, which wiped out its $475 million stake. The Fed remains in focus as transcripts reveal Chair Jerome Powell’s past policy missteps, while Trump’s threats to cap credit card rates at 10% and sue JPMorgan over alleged debanking rattled financial institutions. Wall Street banks reported mixed earnings, with Goldman Sachs and Morgan Stanley beating estimates, while Bank of America, Citi, and Wells Fargo fell short amid regulatory uncertainty.
+Global markets are navigating a mix of geopolitical tensions and economic shifts as 2026 begins. President Donald Trump’s aggressive trade policies, including proposed tariffs on European nations over Greenland and threats to cap credit card interest rates, are rattling investors. Stock futures and risk assets fell on the news, while safe-haven assets like gold and silver surged to record highs. Meanwhile, China’s economy grew 5% in 2025, meeting its target despite a slumping real estate sector, as exports provided a critical lifeline. Corporate earnings reports are also in focus, with mixed results from major banks like JPMorgan and Goldman Sachs, while Novo Nordisk saw an 8% stock jump on strong sales of its obesity drug Wegovy. In other developments, hedge funds posted record profits in 2025, and central banks are increasingly turning to gold amid concerns over dollar stability.
 
 **Top Articles:**
-- [Gold and Silver Hit Record Highs on Greenland Tariff Threats](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats)
-- [China’s $7 Trillion Cash Pile Is Shifting Into Stocks, Gold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fchina-s-7-trillion-cash-pile-is-shifting-into-stocks-gold)
-- [Stocks Fall, Gold Jumps on Trump’s Tariff Threat: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap)
-- [Big Plan for Fannie and Freddie I.P.O. in Flux as Trump Pushes Affordability](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ffannie-and-freddie-ipo.html)
-- [Trump Tariff Threat to Weigh Risk Sentiment, European Stocks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks)
+- [RBNZ Chief Should Have Discussed Support for Powell, Willis Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Frbnz-chief-should-have-discussed-support-for-powell-willis-says)
+- [Singapore Property Stocks Set for Best Start in Over a Decade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsingapore-property-stocks-set-for-best-start-in-over-a-decade)
+- [Point72 Expands Office Space in Hong Kong’s Henderson Tower](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fpoint72-expands-office-space-in-hong-kong-s-henderson-tower)
+- [Jane Street India Unit Saw Trading Gains Soar 494% Before Curbs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fjane-street-india-unit-saw-trading-gains-soar-494-before-curbs)
+- [Real Estate Crash Weighs on China’s Economic Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-gdp-economy.html)
 
-**Sources**: archive.ph (94 articles)
+**Sources**: archive.ph (93 articles)
 
 ---
 
 ## 💻 Technology
 
-This week's headlines are dominated by geopolitical tensions and economic shifts, with President Trump escalating trade disputes by imposing tariffs on European allies over Greenland and targeting foreign semiconductors. Meanwhile, Taiwan secures a trade deal with the U.S., pledging more chip factories, while its currency faces pressure from unwinding hedges. In tech, OpenAI introduces ads in ChatGPT to boost revenue, and AI-driven energy demands spark consumer backlash over rising electricity bills. The World Economic Forum in Davos takes center stage, with leaders like Larry Fink shaping discussions on AI, economics, and global stability. Elsewhere, Boeing outsells Airbus for the first time since 2018, and activists in Iran rely on Starlink to bypass government internet blackouts.
+This week's headlines are dominated by geopolitical tensions and economic shifts, with President Trump escalating trade disputes by imposing tariffs on European allies over Greenland and targeting foreign semiconductors. Meanwhile, China's industrial output hits record highs in aluminum and coal, even as its population decline deepens, signaling long-term economic challenges. In tech, OpenAI introduces ads in ChatGPT to boost revenue, while AI-driven energy demands spark consumer backlash over rising electricity bills. The World Economic Forum in Davos grapples with global instability, AI regulation, and economic uncertainty, with BlackRock's Larry Fink emerging as a key figure. Elsewhere, Taiwan secures a trade deal with the U.S., pledging more chip factories, while activists in Iran rely on Starlink to bypass government internet blackouts. The week also saw notable corporate moves, including WestJet reversing unpopular seating changes and Uber's push into Japan's rural markets.
 
 **Top Articles:**
-- [Taiwan Dollar at Risk of Insurers Reducing $95 Billion of Hedges](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftaiwan-dollar-faces-losses-from-estimated-95-billion-hedge-unwind)
-- [Reform UK Reveals Another Conservative MP Defection](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Freform-uk-reveals-defection-of-second-conservative-mp-in-a-week)
-- [Libya in Multinational $2.7 Billion Deal to Develop Misrata Zone](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flibya-in-multinational-2-7-billion-deal-to-develop-misrata-zone)
-- [How Gen Z is making millennials look cool again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F)
-- [Brazil’s Billionaire Batistas Poised for Venezuelan Oil Revival](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fbrazil-s-billionaire-batistas-poised-for-venezuelan-oil-revival)
+- [One Month Later, CBS Airs Postponed ‘60 Minutes’ Report With Few Changes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Fcbs-60-minutes-venezuela-report.html)
+- [China’s Aluminum Output Hits Record, Steel Below 1 Billion Tons](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-aluminum-output-hits-record-steel-below-1-billion-tons)
+- [China’s Coal Output Hits Record in 2025 Even as It Burns Less](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-coal-output-hits-record-in-2025-even-as-it-burns-less)
+- [China’s Population Shrinks Again as Policies Fail to Reverse Decline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fchina-population-data.html)
+- [‘60 Minutes’ story held for lacking interview with Trump official airs without one](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fcbs-60-minutes-cecot%2F)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (78 articles)
 
 ---
 
 ## ⚽ Sports
 
-In sports, President Trump announces plans to issue an executive order protecting the Army-Navy football game's broadcast window amid concerns over potential scheduling conflicts if the College Football Playoff expands. The move underscores the game's cultural significance and the ongoing debates around playoff structure in college football. Meanwhile, in business news, discount grocer Aldi reveals ambitious expansion plans, aiming to open over 180 new stores across the U.S. in 2026. The aggressive growth reflects shifting consumer preferences as budget-conscious shoppers increasingly turn to discount retailers, intensifying competition with traditional grocery chains.
+In sports, President Trump announces plans to issue an executive order protecting the Army-Navy football game's broadcast window amid concerns over potential scheduling conflicts with an expanded College Football Playoff. The move underscores the game's cultural significance and the ongoing debate over playoff structure in college football. Meanwhile, in business news, discount grocer Aldi accelerates its U.S. expansion, unveiling plans to open over 180 new stores this year as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth reflects shifting shopping habits and intensifying competition in the grocery sector, with discounters gaining market share from traditional supermarkets.
 
 **Top Articles:**
 - [Trump will order TV networks to ‘protect’ Army-Navy football game](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F18%2Ftrump-army-navy-tv-football%2F)
@@ -63,17 +63,17 @@ In sports, President Trump announces plans to issue an executive order protectin
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic pressures, corporate shifts, and cultural trends shaping global and domestic landscapes. Rising costs dominate headlines, with physicians adopting unconventional office arrangements amid soaring rents, while homeowners grapple with shrinking backyards and disaster-prone housing markets. The White House faces scrutiny over its aggressive media tactics, including threats to sue CBS over an unedited Trump interview, and its contradictory housing policies, as Trump pushes affordability while his mortgage chief undermines low-income homebuying programs. Meanwhile, the EU finalizes a landmark trade deal with South America after 25 years of negotiations, signaling a push for global cooperation, while NASA advances its Artemis II mission, marking a key milestone in the U.S.-China space race. Cultural stories include the theft of $110,000 in Pokémon cards and the death of Joe Montgomery, a pioneer in lightweight bicycle design. Emerging trends like AI-generated content restrictions on Elon Musk’s X platform and the rise of prediction markets among young adults underscore evolving digital landscapes.
+Global economic and political tensions dominate headlines as hedge funds exit bullish euro positions just before President Trump threatens new tariffs on European nations, escalating trade disputes. Meanwhile, Indonesia's rupiah faces a potential record low amid fiscal concerns, and Malaysia scrutinizes a $2.7 billion corporate takeover over indigenous rights. On the domestic front, rising housing costs and inflation pressures prompt the White House to explore aggressive measures, while Disney maintains its box office dominance. Notable human interest stories include the death of Cannondale co-founder Joe Montgomery and a surge in Pokémon card thefts, reflecting broader cultural trends. Emerging trends highlight the growing influence of AI in media, with Elon Musk's X restricting explicit AI-generated images, and the rise of prediction markets among younger demographics.
 
 **Top Articles:**
+- [Hedge Funds Exit Bullish Euro Bets Just Before Greenland Threat](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fhedge-funds-exit-bullish-euro-bets-just-before-greenland-threat)
+- [Sunway’s $2.7 Billion IJM Bid Questioned Over Bumiputera Rights](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsunway-s-2-7-billion-ijm-bid-questioned-over-bumiputera-rights)
+- [Explosion at Chinese Steel Plant Leaves Two Dead, Eight Missing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fexplosion-at-chinese-steel-plant-leaves-two-dead-eight-missing)
+- [Rupiah May Sink Past Record Low as Fiscal Woes Erode BI Support](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fusd-idr-indonesian-rupiah-nears-record-low-as-fiscal-woes-blunt-bi-support)
 - [Joe Montgomery, Who Made Bicycles Lighter, Dies at 86](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html)
-- [As Office Rents Rise, Doctors Get Creative](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html)
-- [Top Editor at Axel Springer Is Ousted After Workplace Investigation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html)
-- [Can Davos Help Protect the Planet?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-conference-sustainability.html)
-- [Homeowners don’t want to move. It’s a big deal for their shrinking backyards.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fhigh-mortgage-rates-shrinking-backyards%2F)
 
-**Sources**: archive.ph (35 articles)
+**Sources**: archive.ph (36 articles)
 
 ---
 
-*Digest generated on January 18, 2026 at 11:42 PM *
+*Digest generated on January 19, 2026 at 02:40 AM *
