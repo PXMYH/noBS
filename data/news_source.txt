@@ -1,9 +1,51 @@
 [
   {
+    "title": "Trade Uncertainty Sapping Optimism, Bank of Canada Surveys Show",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftrade-uncertainty-sapping-optimism-bank-of-canada-surveys-show",
+    "published": "Mon, 19 Jan 2026 15:30:00 CST",
+    "summary": "Bank of Canada surveys show persistent pessimism among firms and consumers as\nthe ongoing US trade war deepens uncertainty.\n\n"
+  },
+  {
     "title": "Trump’s Trade Negotiator Says Response to Court Loss Would Be Immediate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrumps-trade-negotiator-says-response-to-court-loss-would-be-immediate.html",
-    "published": "Mon, 19 Jan 2026 14:41:21 CST",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
+    "published": "Mon, 19 Jan 2026 15:28:04 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
+  },
+  {
+    "title": "Canadian Stocks Slide After Inflation Report, Tariff Concerns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcanadian-stocks-slide-after-inflation-report-tariff-concerns",
+    "published": "Mon, 19 Jan 2026 15:22:25 CST",
+    "summary": "Canadian equities slipped at Monday’s open after a hotter-than-expected\ninflation report and as the country considers sending troops to Greenland\ndespite threats of more tariffs from US President Donald Trump.\n\n"
+  },
+  {
+    "title": "IMF’s Georgieva Says Tensions Over Greenland Could Curb Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fimf-s-georgieva-says-tensions-over-greenland-could-curb-growth",
+    "published": "Mon, 19 Jan 2026 15:22:22 CST",
+    "summary": "International Monetary Fund Managing Director Kristalina Georgieva said it’s\ntoo early to gauge the economic impact of tensions over Greenland, though it\ncould be a headwind for growth.\n\n"
+  },
+  {
+    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
+    "published": "Mon, 19 Jan 2026 15:18:38 CST",
+    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
+  },
+  {
+    "title": "China’s Top Trade Negotiator Slated to Meet Global CEOs in Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-top-trade-negotiator-slated-to-meet-global-ceos-in-davos",
+    "published": "Mon, 19 Jan 2026 15:06:48 CST",
+    "summary": "Chinese Vice Premier He Lifeng, the nation’s economic czar and top trade\nnegotiator, is scheduled to meet with a group of global CEOs while attending\nthe World Economic Forum, according to a person familiar with the matter.\n\n"
+  },
+  {
+    "title": "Barrick Changes CFO as Overhaul Continues Ahead of Possible IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbarrick-changes-cfo-as-overhaul-continues-ahead-of-possible-ipo",
+    "published": "Mon, 19 Jan 2026 15:01:08 CST",
+    "summary": "Barrick Mining Corp. appointed Helen Cai as chief financial officer, replacing\nGraham Shuttleworth whose departure adds to a string of senior exits at the\nCanadian miner amid speculation it could be acquired or broken up.\n\n"
+  },
+  {
+    "title": "Gold Miner Plots Seizure of Peru Assets Over $67 Million Arbitration Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt",
+    "published": "Mon, 19 Jan 2026 14:42:01 CST",
+    "summary": "A Canadian gold miner said it will attempt to seize Peruvian state assets --\nincluding future debt payments -- unless the South American nation makes\nprompt payment of an arbitration award.\n\n"
   },
   {
     "title": "Mitsui OSK CEO Hashimoto on 2026 Global Trade Outlook",
@@ -138,42 +180,6 @@
     "summary": "President Donald Trump’s proposal for a 10 percent cap on credit card interest\nrates could save consumers billions, but may also reduce access to credit for\nthose with lower credit scores\n\n"
   },
   {
-    "title": "SRT Boom Offers Costly Lifeline to Banks Shedding Risky CRE Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsrt-boom-offers-costly-lifeline-to-banks-shedding-risky-cre-debt",
-    "published": "Mon, 19 Jan 2026 11:57:37 CST",
-    "summary": "Investors in the white-hot significant risk transfer market are increasingly\nwilling to provide hedging to European banks saddled with over €200 billion\n($232.5 billion) of deteriorating commercial property loans, but at a hefty\nprice.\n\n"
-  },
-  {
-    "title": "Khazanah Nasional MD Sees Ringgit Strengthening Further",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fkhazanah-nasional-md-sees-ringgit-strengthening-further-video",
-    "published": "Mon, 19 Jan 2026 11:57:03 CST",
-    "summary": "Malaysia’s sovereign wealth fund Khazanah Nasional sees the ringgit\nstrengthening further after its run as Asia’s top-performing currency last\nyear. Managing Director Amirul Feisal Wan Zahir’s comments come as Malaysia’s\nstock index is trading near a seven-year high and the country’s economic\ngrowth has surpassed expectations in recent quarters, defying the impact of\nhigher US tariffs. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Europe Relies Too Much on China for Drugs, Fresenius CEO Warns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Feurope-relies-too-much-on-china-for-drugs-fresenius-ceo-warns",
-    "published": "Mon, 19 Jan 2026 11:49:19 CST",
-    "summary": "Europe must quickly shore up its supply of key drug ingredients to prevent\ntheir “weaponization” as global trade tensions mount, the chief executive\nofficer of German health-care company Fresenius SE warned.\n\n"
-  },
-  {
-    "title": "Vinjamuri: Americans Not on Side of the President on Greenland Issue",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fvinjamuri-americans-not-on-side-of-the-president-on-greenland-issue",
-    "published": "Mon, 19 Jan 2026 11:48:29 CST",
-    "summary": "Leslie Vinjamuri, President and CEO of the Chicago Council on Global Affairs,\njoins Bloomberg TV to discuss the latest tariff threats as Europe hardens its\nstance on Greenland. Vinjamuri speaks with Bloomberg's Anna Edwards and Tom\nMackenzie on 'The Opening Trade'. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Malaysia Sovereign Fund Chief Sees Ringgit Strengthening Further",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmalaysia-sovereign-fund-chief-sees-ringgit-strengthening-further",
-    "published": "Mon, 19 Jan 2026 11:38:54 CST",
-    "summary": "Malaysia’s sovereign wealth fund Khazanah Nasional Bhd. sees the ringgit\nstrengthening further after its run as Asia’s top-performing currency last\nyear, its Managing Director Amirul Feisal Wan Zahir said.\n\n"
-  },
-  {
-    "title": "Americans Bear Almost All the Cost of Trump Tariffs, Study Shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Famericans-bear-almost-all-the-cost-of-trump-tariffs-study-shows",
-    "published": "Mon, 19 Jan 2026 11:35:32 CST",
-    "summary": "President Donald Trump’s duties on imported goods are paid almost entirely by\nAmerican importers, their domestic customers and ultimately US consumers, a\nstudy from a German think tank concluded.\n\n"
-  },
-  {
     "title": "Starmer plays down prospect of retaliatory tariffs against US over Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2026%2Fjan%2F19%2Fgreenland-keir-starmer-rules-out-retaliatory-tariffs-against-us",
     "published": "Mon, 19 Jan 2026 11:33:51 CST",
@@ -286,12 +292,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Fgold-rises-to-record-high-after-trump-s-greenland-tariff-threats",
     "published": "Sun, 18 Jan 2026 23:10:40 CST",
     "summary": "Gold and silver jumped to record highs as President Donald Trump’s\nintensifying push to take over Greenland fueled fears of a damaging trade war\nbetween the US and Europe.\n\n"
-  },
-  {
-    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
-    "published": "Sun, 18 Jan 2026 22:38:51 CST",
-    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
     "title": "Stocks Sink as US-Europe Turmoil Fuels Gold Demand: Markets Wrap",
