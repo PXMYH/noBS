@@ -1,12 +1,48 @@
 [
   {
+    "title": "Greenland Isn't as Big as It Looks in 'Risk'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-20%2Fgreenland-isn-t-as-big-as-it-looks-in-risk",
+    "published": "Tue, 20 Jan 2026 05:13:39 CST",
+    "summary": "Europe has it in its power to force a messy compromise with capital flows, not\ntroops.\n\n"
+  },
+  {
+    "title": "AllianzGI Secures $690 Million for New Blended Finance Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fallianzgi-secures-690-million-for-new-blended-finance-fund",
+    "published": "Tue, 20 Jan 2026 05:00:00 CST",
+    "summary": "Allianz Global Investors has secured $690 million in capital for a newly\nlaunched fund designed to combine private and public capital for climate\ninitiatives.\n\n"
+  },
+  {
+    "title": "China Locks in Oilseed Abundance by Reviving Canadian Canola",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-locks-in-oilseed-abundance-by-reviving-canadian-canola",
+    "published": "Tue, 20 Jan 2026 04:49:10 CST",
+    "summary": "China has unblocked all major channels for oilseed imports by easing\nrestrictions on Canadian canola, boosting supplies of feed for its vast\nnumbers of livestock.\n\n"
+  },
+  {
+    "title": "China Electric Stocks Jump on Booming AI Demand, Investment Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-electric-stocks-jump-on-booming-ai-demand-investment-push",
+    "published": "Tue, 20 Jan 2026 04:37:18 CST",
+    "summary": "Chinese electric stocks are winning favor with investors early in 2026, thanks\nto intensifying global demand for power gear to build data centers for\nartificial intelligence as well as a state-led investment push in the sector.\n\n"
+  },
+  {
+    "title": "Barclays on Rupiah’s Record Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fbarclays-on-rupiah-s-record-low-video",
+    "published": "Tue, 20 Jan 2026 04:32:17 CST",
+    "summary": "The Indonesian rupiah has hit a record low against the U.S. dollar over\nconcerns around central bank independence and policy direction. Mitul Kotecha,\nHead of Asia FX at Barclays, shares why he expects some stabilization ahead\nfor the currency. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "BlackRock Gets Nod to Extend Asia Credit Fund by Another Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fblackrock-gets-nod-to-extend-asia-credit-fund-by-another-year",
+    "published": "Tue, 20 Jan 2026 04:27:28 CST",
+    "summary": "BlackRock Inc. has obtained investor consent to extend the investment period\nof its second Asia private credit fund, a step forward as it navigates\nchallenges in the region’s private markets.\n\n"
+  },
+  {
     "title": "India Allows Some Exports of Wheat Products After Three-Year Ban",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Findia-allows-some-exports-of-wheat-products-after-three-year-ban",
     "published": "Tue, 20 Jan 2026 04:13:51 CST",
     "summary": "India approved the export of some wheat-based goods, easing restrictions that\nhave been in place for more than three years, on expectations for a strong\nharvest that will likely boost domestic supplies.\n\n"
   },
   {
-    "title": "Singapore’s Small Stocks to Rally on Boost From Market Revamp",
+    "title": "Singapore’s Small-Cap Stocks Get Bullish Calls on Market Revamp",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fsingapore-s-small-stocks-to-rally-on-boost-from-market-revamp",
     "published": "Tue, 20 Jan 2026 04:13:18 CST",
     "summary": "Singapore’s small- and mid-cap stocks may be poised for further gains,\nsupported by local market reforms, according to analysts.\n\n"
@@ -114,40 +150,22 @@
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
   },
   {
-    "title": "RBI Needs to Ramp Up Bond Purchases to Cool Yields, Funds Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frbi-needs-to-ramp-up-bond-purchases-to-cool-yields-funds-say",
-    "published": "Tue, 20 Jan 2026 01:30:00 CST",
-    "summary": "India’s central bank will need to pump significantly more liquidity into the\nbanking system, as four interest-rate cuts and record debt purchases have yet\nto ease elevated yields, market participants said.\n\n"
-  },
-  {
     "title": "Treasuries Join Global Bond Slide as Tariff Angst Grips Markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftreasuries-join-global-bond-selloff-as-tariff-fears-grip-markets",
     "published": "Tue, 20 Jan 2026 00:59:20 CST",
     "summary": "Treasuries joined a selloff in global bonds amid concerns about fiscal\nspending, a fresh geopolitical tariff threat and questions over the impact\nthat might have on demand for American assets.\n\n"
   },
   {
-    "title": "Japan 40-Year Bond Yield Hits 4% for First Time Since 2007 Debut",
+    "title": "Japan’s 40-Year Yield Hits 4% as Takaichi’s Tax Plan Sinks Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-40-year-bond-yield-hits-4-for-first-time-since-2007-debut-mkluxpba",
     "published": "Tue, 20 Jan 2026 00:30:05 CST",
-    "summary": "The yield on Japan’s 40-year government bond hit 4%, the highest since its\ndebut in 2007 and a first for any maturity of the nation’s sovereign debt in\nmore than three decades.\n\n"
-  },
-  {
-    "title": "Shionogi Invests $2.1 Billion to Raise ViiV Healthcare Stake",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fshionogi-invests-2-1-billion-to-raise-viiv-healthcare-stake",
-    "published": "Tue, 20 Jan 2026 00:08:46 CST",
-    "summary": "Japanese drugmaker company Shionogi & Co. will invest $2.1 billion to raise\nits stake in ViiV Healthcare to 21.7%, reinforcing its focus on HIV and other\nmajor infectious diseases.\n\n"
+    "summary": "The slump in Japanese bonds deepened Tuesday, sending yields soaring to\nrecords as investors gave a thumbs down to Prime Minister Sanae Takaichi’s\nelection pitch to cut taxes on food.\n\n"
   },
   {
     "title": "Citi Sees Risk of Three BOJ Rate Hikes in 2026 on Weak Yen",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcitigroup-sees-risk-of-three-boj-rate-hikes-in-2026-on-weak-yen",
     "published": "Tue, 20 Jan 2026 00:00:12 CST",
     "summary": "The Bank of Japan will potentially raise interest rates three times this year\nto double the current level if the yen’s weakness persists, according to\nCitigroup Inc.’s markets head for the country.\n\n"
-  },
-  {
-    "title": "China’s Yulan Bond Sales Boom in Sign of Deeper Ties With Europe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-s-yulan-bond-sales-boom-in-sign-of-deeper-ties-with-europe",
-    "published": "Tue, 20 Jan 2026 00:00:00 CST",
-    "summary": "A corner of China’s credit market is signaling the country’s closer ties with\nEurope, with a record amount of bonds issued via a mechanism established by\nthe Shanghai Clearing House and its counterpart in Brussels.\n\n"
   },
   {
     "title": "Lawsuit contests RFK Jr.’s new vaccine guidance for children",
@@ -162,22 +180,16 @@
     "summary": "Oil steadied as traders tracked the fallout from the US push to take control\nof Greenland, and concerns about a global surplus.\n\n"
   },
   {
-    "title": "Gold Steadies Near Record High as Greenland Crisis Simmers",
+    "title": "Gold Hits Record High as Greenland Tensions Fuel Trade War Fears",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsilver-rises-to-record-as-us-eu-tensions-over-greenland-persist",
     "published": "Mon, 19 Jan 2026 23:08:23 CST",
-    "summary": "Gold was steady near a record high, while silver retreated from an all-time\npeak, as President Donald Trump’s push to take over Greenland stoked fears of\na potential US–Europe trade war.\n\n"
+    "summary": "Gold hit a record high, while silver retreated from an all-time peak, as\nPresident Donald Trump’s push to take over Greenland stoked fears of a\npotential US–Europe trade war.\n\n"
   },
   {
-    "title": "MSCI Rule Shift May Spur $2 Billion Exit From Indonesian Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmsci-rule-shift-may-spur-2-billion-exit-from-indonesian-stocks",
-    "published": "Mon, 19 Jan 2026 23:00:00 CST",
-    "summary": "Global funds may withdraw more than $2 billion from Indonesian equities in\ncoming months if MSCI Inc. proceeds with a change to its indexing methodology,\nunderscoring concerns about the investability of Southeast Asia’s biggest\nstock market.\n\n"
-  },
-  {
-    "title": "Stocks, Treasuries Drop on Trump’s Tariff Threats: Markets Wrap",
+    "title": "Treasuries Drop on Trump Tariffs, Gold Hits Record: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 19 Jan 2026 22:24:47 CST",
-    "summary": "Stocks pulled back as President Donald Trump’s Greenland-related tariff\nthreats reignited trade tensions, testing market confidence after a rally\nfueled by investments in artificial intelligence. Treasuries joined a selloff\nin global bonds.\n\n"
+    "summary": "Treasuries joined a selloff in global bonds and stocks pulled back as\nPresident Donald Trump’s Greenland-related tariff threats reignited trade\ntensions, testing market confidence after a rally fueled by investments in\nartificial intelligence.\n\n"
   },
   {
     "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
@@ -210,12 +222,6 @@
     "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
-    "title": "Gold Miner Plots Seizure of Peru Assets Over $67 Million Arbitration Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt",
-    "published": "Mon, 19 Jan 2026 14:42:01 CST",
-    "summary": "A Canadian gold miner said it will attempt to seize Peruvian state assets --\nincluding future debt payments -- unless the South American nation makes\nprompt payment of an arbitration award.\n\n"
-  },
-  {
     "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftheater%2Fphantom-of-the-opera-masquerade.html",
     "published": "Mon, 19 Jan 2026 14:23:14 CST",
@@ -240,12 +246,6 @@
     "summary": "Stellantis shares were largely up – as high as 93% in March 2024 – until\nreporting troubling financial results that year amid cost-cutting efforts and\nEVs.\n\n"
   },
   {
-    "title": "NYSE Builds Venue for 24/7 Trading of Tokenized Stocks, ETFs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnyse-builds-venue-for-24-7-trading-of-tokenized-stocks-etfs",
-    "published": "Mon, 19 Jan 2026 12:45:01 CST",
-    "summary": "The New York Stock Exchange is building a venue using blockchain technology to\nallow for trading tokenized stocks and exchange-traded funds around the clock.\n\n"
-  },
-  {
     "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F19%2Fafraid-to-take-vacation-the-problem-isnt-your-boss-its-how-you-work",
     "published": "Mon, 19 Jan 2026 12:00:25 CST",
@@ -258,16 +258,10 @@
     "summary": "President Donald Trump’s proposal for a 10 percent cap on credit card interest\nrates could save consumers billions, but may also reduce access to credit for\nthose with lower credit scores\n\n"
   },
   {
-    "title": "CMOC Raises $1.2 Billion From Upsized Convertible-Bond Deal",
+    "title": "Chinese Miner CMOC Raises $1.2 Billion in Convertibles Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcmoc-seeks-1-billion-from-convertible-bonds-after-copper-rally",
     "published": "Mon, 19 Jan 2026 11:08:43 CST",
     "summary": "Chinese miner CMOC Group Ltd. raised $1.2 billion from an upsized sale of\nzero-coupon convertible bonds, after a rally in the price of copper lifted its\nprofit.\n\n"
-  },
-  {
-    "title": "Xi’s Export Machine Gets Lift From US Move to Strongarm Allies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies",
-    "published": "Mon, 19 Jan 2026 10:32:03 CST",
-    "summary": "As Xi Jinping battles unprecedented deflation and shrinking investment, he’s\nbetting that China can sell more and more goods to the world to drive growth.\nTo that end, Donald Trump’s threats against key US allies are coming at a good\ntime.\n\n"
   },
   {
     "title": "Prominent Architecture Firm Is Accused of Illegally Ousting Employees",
@@ -328,6 +322,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F19%2Fcbs-60-minutes-venezuelan-prisoners-bari-weiss",
     "published": "Mon, 19 Jan 2026 02:27:37 CST",
     "summary": "The segment, reported by Sharyn Alfonsi, was supposed to air on 21 December\nbut was pulled by editor in chief Bari Weiss\n\nNearly a month after CBS News editor in chief Bari Weiss ignited controversy\nby shelving a 60 Minutes segment about Venezuelan prisoners, telling staffers\nthat it needed more reporting, the piece finally aired on Sunday night.\n\nWeiss had originally instructed 60 Minutes to hold the segment about the Cecot\nprison in El Salvador, which had already been scheduled, in part because it\nlacked “the administration’s argument”.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "China’s Aluminum Output Hits Record While Steel Sinks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-aluminum-output-hits-record-steel-below-1-billion-tons",
+    "published": "Mon, 19 Jan 2026 02:24:04 CST",
+    "summary": "Chinese aluminum output rose to an all-time high last year, climbing to around\nthe country’s capacity limit, while steel fell to a seven-year low,\nunderscoring dramatically different prospects for the two most widely used\nmetals.\n\n"
   },
   {
     "title": "‘60 Minutes’ story held for lacking interview with Trump official airs without one",
