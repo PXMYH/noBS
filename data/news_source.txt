@@ -1,12 +1,84 @@
 [
   {
+    "title": "Japan Is Driving Global Bond Yields Higher",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-20%2Fjapan-is-driving-global-bond-yields-higher",
+    "published": "Tue, 20 Jan 2026 11:38:59 CST",
+    "summary": "The yield on some Japanese government debt is above 4% for the first time in\nmore than three decades.\n\n"
+  },
+  {
+    "title": "BlackRock CEO Larry Fink and Microsoft CEO Satya Nadella Speak at Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fblackrock-s-fink-and-microsoft-s-nadella-speak-at-davos-video",
+    "published": "Tue, 20 Jan 2026 11:21:55 CST",
+    "summary": "BlackRock CEO Larry Fink and Microsoft CEO Satya Nadella speak to Bloomberg TV\non the sidelines of the 2026 World Economic Forum in Davos, Switzerland.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Maharashtra Aims to Beat Last Year’s Investment Pledges at Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmaharashtra-aims-to-beat-last-year-s-investment-pledges-at-davos",
+    "published": "Tue, 20 Jan 2026 11:16:34 CST",
+    "summary": "The chief minister of one of India’s most industrialized states said in Davos\nthat it expects to surpass last year’s banner showing in investment pledges,\nas it seeks to reinforce its position as a top destination for business.\n\n"
+  },
+  {
+    "title": "Nomura Sued by Adani-Linked Fund Accused in Short-Seller Report",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnomura-sued-by-adani-linked-fund-accused-in-short-seller-report",
+    "published": "Tue, 20 Jan 2026 11:16:05 CST",
+    "summary": "Nomura Holdings Inc.’s loans to an investment fund embroiled in a short-\nselling firm’s allegations against Indian billionaire Gautam Adani have come\nunder scrutiny in a London lawsuit.\n\n"
+  },
+  {
+    "title": "ECB’s Villeroy Sees Muted Impact on Prices From Trade Tensions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fecb-s-villeroy-sees-muted-impact-on-prices-from-trade-tensions",
+    "published": "Tue, 20 Jan 2026 11:15:13 CST",
+    "summary": "Escalating transatlantic trade tensions won’t have much impact on the\ninflation outlook, according to European Central Bank Governing Council member\nFrancois Villeroy de Galhau.\n\n"
+  },
+  {
+    "title": "Netflix Results to Shine Light on Fundamentals Amid Warner Fight",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-results-to-shine-light-on-fundamentals-amid-warner-fight",
+    "published": "Tue, 20 Jan 2026 11:10:03 CST",
+    "summary": "While the chatter surrounding Netflix Inc. these days is all about its hefty\nbid for Warner Bros. Discovery Inc., Wall Street will get an opportunity to\nfocus on something else, at least for a little while, when the streaming giant\nreports earnings after the bell.\n\n"
+  },
+  {
+    "title": "US Additional Tariffs a ‘Mistake,’ von der Leyen Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fus-additional-tariffs-a-mistake-von-der-leyen-says-video",
+    "published": "Tue, 20 Jan 2026 11:04:10 CST",
+    "summary": "European Commission President Ursula von der Leyen said US President Donald\nTrump’s threats on the European Union over acquiring Greenland are “a\nmistake.” Speaking at the World Economic Forum in Davos, Switzerland, von der\nLeyen added that EU’s response will be “unflinching, united and proportional.”\n\n"
+  },
+  {
+    "title": "Bond Borrowers Make Cautious Return as Greenland Tensions Bite",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbond-borrowers-make-cautious-return-as-greenland-tensions-bite",
+    "published": "Tue, 20 Jan 2026 11:02:02 CST",
+    "summary": "Some borrowers ventured back into Europe’s marketplace for debt on Tuesday,\nthough others are still staying away amid tensions with the US over Greenland.\n\n"
+  },
+  {
+    "title": "Ghana Miners Warn Higher Gold Royalty Could Threaten Investment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fghana-miners-warn-higher-gold-royalty-could-threaten-investment",
+    "published": "Tue, 20 Jan 2026 11:01:08 CST",
+    "summary": "Ghana’s mining industry warned that a government proposal to increase the\nroyalty levied on gold producers could deter investment.\n\n"
+  },
+  {
+    "title": "Trade Turbulence Dents Emerging-Market Rally as Yields Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftrade-turbulence-dents-emerging-market-rally-as-yields-rise",
+    "published": "Tue, 20 Jan 2026 10:53:43 CST",
+    "summary": "Emerging-market stocks slipped, as a selloff in Japanese bonds and the\nprospect of a US-Europe trade war over Greenland sapped global risk appetite.\n\n"
+  },
+  {
+    "title": "Thailand Lifts Cap on Forex Repatriation to Temper Baht Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fthailand-lifts-cap-on-forex-repatriation-to-temper-baht-rally",
+    "published": "Tue, 20 Jan 2026 10:52:28 CST",
+    "summary": "Thailand is loosening rules on bringing foreign earnings home, lifting the\nthreshold by tenfold as authorities step up efforts to rein in the baht, which\nis trading near a five-year high.\n\n"
+  },
+  {
+    "title": "Spot Copper Prices Spike on LME as Traders Tussle Over Inventory",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fspot-copper-prices-spike-on-lme-as-traders-tussle-over-inventory",
+    "published": "Tue, 20 Jan 2026 10:51:50 CST",
+    "summary": "Spot copper prices surged above later-dated futures on the London Metal\nExchange in a sign that traders may be moving to withdraw large volumes of\nstock from the bourse’s warehouses.\n\n"
+  },
+  {
     "title": "Trump Threatens 200% Champagne Tariff as Macron Rejects ‘Peace Board’ Invite",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ftrump-floats-200-tariff-as-macron-rejects-peace-invite-video",
     "published": "Tue, 20 Jan 2026 10:40:21 CST",
     "summary": "US President Donald Trump took a swipe at President Emmanuel Macron for\nrejecting an invitation to back his latest peace initiative and threatened\ncrushing tariffs on French wine. Trump also published a text message from his\nFrench counterpart in which Macron invited Trump to have dinner in Paris on\nThursday. Oliver Crook reports on Bloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Quantinuum Is Said to Work with Morgan Stanley, JPMorgan on IPO",
+    "title": "Quantinuum Is Said to Work With Morgan Stanley, JPMorgan on IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fquantinuum-is-said-to-work-with-morgan-stanley-jpmorgan-on-ipo",
     "published": "Tue, 20 Jan 2026 10:30:00 CST",
     "summary": "Quantinuum, a quantum computing company, is working with Morgan Stanley and\nJPMorgan Chase & Co. on an initial public offering, according to people\nfamiliar with the matter.\n\n"
@@ -54,6 +126,12 @@
     "summary": "President Trump’s policies have so far done little to change the overall state\nof the American economy, but economists warn they will ultimately weaken the\nUnited States.\n\n"
   },
   {
+    "title": "EU Finance Ministers Discuss Trade Tool Use Against US Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Feu-finance-ministers-discuss-trade-tool-use-against-us-threats",
+    "published": "Tue, 20 Jan 2026 10:01:42 CST",
+    "summary": "European Finance Ministers are discussing using the bloc’s anti-coercion trade\ninstrument and other economic countermeasures following US President Donald\nTrump’s announcement of new tariffs over the Greenland dispute.\n\n"
+  },
+  {
     "title": "Japan Will Maintain Fiscal Health, Katayama Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fjapan-will-maintain-fiscal-health-katayama-says-video",
     "published": "Tue, 20 Jan 2026 10:00:11 CST",
@@ -78,64 +156,10 @@
     "summary": "Botswana is resigned to a prolonged period of weak diamond prices with serious\nimplications for the budget of the southern African nation, where the gems are\na vital source of income.\n\n"
   },
   {
-    "title": "Dollar Hits Two-Week Low as Tariff Threats Stoke Volatility",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fdollar-hits-two-week-low-as-tariff-threats-stoke-volatility",
-    "published": "Tue, 20 Jan 2026 09:38:34 CST",
-    "summary": "The dollar fell to its lowest level in two weeks and currency hedging costs\nclimbed as President Donald Trump showed no signs of backing down in his\ncampaign for control of Greenland and threatened new tariffs on France.\n\n"
-  },
-  {
-    "title": "Equatorial Guinea Offers Oil, LNG Prepay Deals to Energy Traders",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fequatorial-guinea-offers-oil-lng-prepay-deals-to-energy-traders",
-    "published": "Tue, 20 Jan 2026 09:37:18 CST",
-    "summary": "Equatorial Guinea, OPEC’s smallest member, has turned to commodity trading\ncompanies for prepayment deals on oil and liquefied natural gas to help\nfinance a revival of domestic hydrocarbon production.\n\n"
-  },
-  {
     "title": "Nigeria Aims for Less Borrowing, More Investment, Edun Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnigeria-aims-for-less-borrowing-more-investment-edun-says",
     "published": "Tue, 20 Jan 2026 09:28:58 CST",
     "summary": "Nigerian Finance Minister Wale Edun said the nation can access international\nbond markets if it needs to, but would prefer to rely more on its own\nresources.\n\n"
-  },
-  {
-    "title": "Venezuelan Oil Moves Into the Caribbean as US Trade Links Forged",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fvenezuelan-oil-moves-into-the-caribbean-as-us-trade-links-forged",
-    "published": "Tue, 20 Jan 2026 09:26:13 CST",
-    "summary": "Tankers have begun discharging Venezuelan crude at Caribbean islands, publicly\nsignaling their activity in a move that marks a new trade order after US\nexerted control over Caracas’ oil industry.\n\n"
-  },
-  {
-    "title": "Ferretti Investor Plots Move to Oust Board’s Chinese Directors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fferretti-investor-plots-move-to-oust-board-s-chinese-directors",
-    "published": "Tue, 20 Jan 2026 09:17:50 CST",
-    "summary": "Ferretti SpA’s second-largest investor is preparing to propose a shareholder\nvote to oust directors with connections to the yacht maker’s top owner,\nChina’s Weichai Group, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Platinum Equity’s Biscuit International Seeks Debt Extension",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fplatinum-equity-s-biscuit-international-seeks-debt-extension",
-    "published": "Tue, 20 Jan 2026 09:00:12 CST",
-    "summary": "Biscuit International is trying to negotiate an extension of its term loans\ncoming due in just over a year as the Platinum Equity-backed business faces\nweakened demand and high costs.\n\n"
-  },
-  {
-    "title": "Horizons Middle East and Africa 1/20/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fhorizons-middle-east-and-africa-1-20-2026-video",
-    "published": "Tue, 20 Jan 2026 08:59:16 CST",
-    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's\nfastest-growing regions. Live from Dubai, we bring you the latest global\nmarkets and analysis, plus news-making interviews, with a special focus on\nMEA. All that and more, as you head to the office in the Gulf, pause for lunch\nin Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Bain Said to Make Binding FineToday Bid, Eyes Asia Beauty Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbain-said-to-make-binding-finetoday-bid-eyes-asia-beauty-market",
-    "published": "Tue, 20 Jan 2026 08:56:46 CST",
-    "summary": "Bain Capital has made a binding offer for Japanese personal-care group\nFineToday Holdings Co., according to people familiar with the matter, as the\nglobal buyout firm seeks to capitalize on the business’s footprint in key\nAsian markets including China.\n\n"
-  },
-  {
-    "title": "Taiwan-US Trade Deal Seen Boosting Growth, Weighing on Currency",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftaiwan-us-trade-deal-seen-boosting-growth-weighing-on-currency",
-    "published": "Tue, 20 Jan 2026 08:54:13 CST",
-    "summary": "Barclays Plc raised its forecast for Taiwan’s growth after the Asian tech\npowerhouse reached a trade deal with the US, though the bank joined other\nforecasters in seeing some downward pressure on the currency over the medium-\nterm.\n\n"
-  },
-  {
-    "title": "Tata Eyes Bid for 6,000 E-Buses Without Joining Price Wars",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftata-eyes-bid-for-6-000-e-buses-without-joining-price-wars",
-    "published": "Tue, 20 Jan 2026 08:30:29 CST",
-    "summary": "Tata Motors Ltd. is preparing to bid for a government tender of as many as\n6,000 electric buses, as it seeks to claw back market share without joining\nthe steep discounting that has defined recent auctions, its top executive\nsaid.\n\n"
   },
   {
     "title": "Filoplumes Are Nature’s Super Feather",
@@ -144,28 +168,16 @@
     "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
   },
   {
-    "title": "Musk Asks If He Should Buy Ryanair as Brawl With CEO Runs On",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmusk-asks-if-he-should-buy-ryanair-as-brawl-with-ceo-drags-on",
-    "published": "Tue, 20 Jan 2026 07:48:55 CST",
-    "summary": "The online brawl between Elon Musk and Ryanair Holdings Plc dragged into a\nsecond week, with the world’s richest man again floating the idea of buying\nthe airline after clashing with its chief executive officer.\n\n"
-  },
-  {
-    "title": "Japan’s Bond Slump Highlights Policy Challenges, Strategists Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-s-bond-slump-highlights-policy-challenges-strategists-say",
-    "published": "Tue, 20 Jan 2026 07:48:20 CST",
-    "summary": "A meltdown in Japanese sovereign bonds, with yields on 40-year debt surging\npast 4% for the first time on record, may pile pressure on the Bank of Japan\nto act quicker to raise rates, according to some analysts.\n\n"
-  },
-  {
-    "title": "GSK to Buy Rapt Therapeutics in Deal Valued at $2.2 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgsk-to-buy-rapt-therapeutics-in-deal-valued-at-2-2-billion",
-    "published": "Tue, 20 Jan 2026 07:16:09 CST",
-    "summary": "GSK Plc agreed to buy Rapt Therapeutics, a US-based biotech developing\ntreatments for patients with inflammatory and immunologic diseases, in a deal\nvalued at $2.2 billion.\n\n"
-  },
-  {
-    "title": "Italy Finance Ministry Backs Lovaglio for New Paschi Term",
+    "title": "Italian Treasury Backs Paschi CEO for New Term Amid Headwind",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fitaly-finance-ministry-said-to-back-lovaglio-for-new-paschi-term",
     "published": "Tue, 20 Jan 2026 07:10:35 CST",
-    "summary": "Italy’s Finance Ministry is backing Banca Monte dei Paschi di Siena SpA Chief\nExecutive Officer Luigi Lovaglio for a new term in the role, according to\npeople familiar with the matter.\n\n"
+    "summary": "Italy’s Finance Ministry is backing Banca Monte dei Paschi di Siena SpA Chief\nExecutive Officer Luigi Lovaglio for a new term, winning him support from a\nkey stakeholder after other investors questioned his plans for the lender.\n\n"
+  },
+  {
+    "title": "AllianzGI Secures $690 Million for New Blended Finance Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fallianzgi-secures-690-million-for-new-blended-finance-fund",
+    "published": "Tue, 20 Jan 2026 05:00:00 CST",
+    "summary": "Allianz Global Investors has secured $690 million in capital for a newly\nlaunched fund designed to combine private and public capital for climate\ninitiatives.\n\n"
   },
   {
     "title": "Citi Strategist Who Called Europe’s Stock Rally Downgrades Bloc",
@@ -192,28 +204,16 @@
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
   },
   {
-    "title": "Treasury Yields Rise to Four-Month Highs After Japan Selloff",
+    "title": "Treasuries Join Global Bond Slide After Japan Triggers Selloff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftreasuries-join-global-bond-selloff-as-tariff-fears-grip-markets",
     "published": "Tue, 20 Jan 2026 00:59:20 CST",
-    "summary": "Treasury yields rose to the highest in more than four months as a fierce\nselloff in Japanese bonds spilled over into global debt markets.\n\n"
-  },
-  {
-    "title": "Japan Bond Meltdown Sends Yields to Record High on Fiscal Fears",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-40-year-bond-yield-hits-4-for-first-time-since-2007-debut-mkluxpba",
-    "published": "Tue, 20 Jan 2026 00:30:05 CST",
-    "summary": "The slump in Japanese bonds deepened Tuesday, sending yields soaring to\nrecords as investors gave a thumbs down to Prime Minister Sanae Takaichi’s\nelection pitch to cut taxes on food.\n\n"
+    "summary": "Treasuries fell, pushing yields to the highest in more than four months as a\nfierce selloff in Japanese bonds spilled over into global debt markets.\n\n"
   },
   {
     "title": "Lawsuit contests RFK Jr.’s new vaccine guidance for children",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F19%2Frfk-childhood-vaccines-lawsuit%2F",
     "published": "Mon, 19 Jan 2026 23:50:43 CST",
     "summary": "Several public health organizations accused the health secretary of packing a\nkey advisory committee with vaccine skeptics, arguing its latest guidance\nshould be voided.\n\n"
-  },
-  {
-    "title": "MSCI Rule Shift May Spur $2 Billion Exit From Indonesian Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fmsci-rule-shift-may-spur-2-billion-exit-from-indonesian-stocks",
-    "published": "Mon, 19 Jan 2026 23:00:00 CST",
-    "summary": "Global funds may withdraw more than $2 billion from Indonesian equities in\ncoming months if MSCI Inc. proceeds with a change to its indexing methodology,\nunderscoring concerns about the investability of Southeast Asia’s biggest\nstock market.\n\n"
   },
   {
     "title": "Stocks Sink on Greenland as Japan Stirs Bond Rout: Markets Wrap",
