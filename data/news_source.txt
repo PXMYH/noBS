@@ -1,27 +1,99 @@
 [
   {
+    "title": "Philippines Braves Rough Market With First Dollar Bond in a Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fphilippines-braves-rough-market-with-first-dollar-bond-in-a-year",
+    "published": "Tue, 20 Jan 2026 02:09:14 CST",
+    "summary": "The Philippines started marketing its first dollar notes in a year, braving\nrocky markets after President Donald Trump’s revival of the trade war between\nthe US and Europe pushed Treasury yields higher and hit risk assets.\n\n"
+  },
+  {
+    "title": "Indonesian Rupiah Drops to Record on Central Bank Autonomy Woes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fusd-idr-indonesian-rupiah-falls-to-record-low-as-fiscal-woes-persist",
+    "published": "Tue, 20 Jan 2026 02:06:24 CST",
+    "summary": "The Indonesian rupiah declined to its weakest level in history as resurging\nconcerns over the central bank’s autonomy add to persistent fiscal worries.\n\n"
+  },
+  {
+    "title": "Pop Mart Shares Surge as Traders Cheer First Buyback Since 2024",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fpop-mart-shares-surge-as-traders-cheer-first-buyback-since-2024",
+    "published": "Tue, 20 Jan 2026 02:01:07 CST",
+    "summary": "Pop Mart International Group Ltd. shares soared the most in five months after\nthe Chinese toymaker’s first share buyback since 2024 boosted investor\nconfidence.\n\n"
+  },
+  {
     "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fseattle-dock-workers-tariffs-trump.html",
-    "published": "Mon, 19 Jan 2026 23:36:17 CST",
+    "published": "Tue, 20 Jan 2026 01:42:25 CST",
     "summary": "Dock workers are used to uncertainty, but nothing since the Great Recession of\n2008 compares to what they have experienced this year.\n\n"
   },
   {
     "title": "Twin Falls, Idaho Has New Residents: 37 Afrikaners",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftwin-falls-idaho-afrikaners-trump.html",
-    "published": "Mon, 19 Jan 2026 23:33:24 CST",
+    "published": "Tue, 20 Jan 2026 01:41:47 CST",
     "summary": "Twin Falls and its dairy industry have benefited from an influx of refugees\nfrom places like Bosnia, the Democratic Republic of Congo and Myanmar. That\nera is over.\n\n"
   },
   {
     "title": "Nome, Alaska Is Now Key to Trump’s Global Ambitions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html",
-    "published": "Mon, 19 Jan 2026 23:29:18 CST",
+    "published": "Tue, 20 Jan 2026 01:41:09 CST",
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
   },
   {
-    "title": "Silver Rises to Record as US-EU Tensions Over Greenland Persist",
+    "title": "RBI Needs to Ramp Up Bond Purchases to Cool Yields, Funds Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frbi-needs-to-ramp-up-bond-purchases-to-cool-yields-funds-say",
+    "published": "Tue, 20 Jan 2026 01:30:00 CST",
+    "summary": "India’s central bank will need to pump significantly more liquidity into the\nbanking system, as four interest-rate cuts and record debt purchases have yet\nto ease elevated yields, market participants said.\n\n"
+  },
+  {
+    "title": "Treasuries Join Global Bond Selloff as Tariff Fears Grip Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftreasuries-join-global-bond-selloff-as-tariff-fears-grip-markets",
+    "published": "Tue, 20 Jan 2026 00:59:20 CST",
+    "summary": "Treasuries joined a selloff in global bonds as the threat of US tariffs\nrelating to Greenland undermined demand for American assets and added to\nconcerns about Washington’s long-term fiscal position.\n\n"
+  },
+  {
+    "title": "Japan 40-Year Bond Yield Hits 4% for First Time Since 2007 Debut",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-40-year-bond-yield-hits-4-for-first-time-since-2007-debut-mkluxpba",
+    "published": "Tue, 20 Jan 2026 00:30:05 CST",
+    "summary": "Japan’s 40-year bond yield hit 4%, the highest since its debut in 2007 and a\nfirst for any maturity of the nation’s sovereign debt in more than three\ndecades.\n\n"
+  },
+  {
+    "title": "Shionogi Invests $2.1 Billion to Raise ViiV Healthcare Stake",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fshionogi-invests-2-1-billion-to-raise-viiv-healthcare-stake",
+    "published": "Tue, 20 Jan 2026 00:08:46 CST",
+    "summary": "Japanese drugmaker company Shionogi & Co. will invest $2.1 billion to raise\nits stake in ViiV Healthcare to 21.7%, reinforcing its focus on HIV and other\nmajor infectious diseases.\n\n"
+  },
+  {
+    "title": "Citigroup Sees Risk of Three BOJ Rate Hikes in 2026 on Weak Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcitigroup-sees-risk-of-three-boj-rate-hikes-in-2026-on-weak-yen",
+    "published": "Tue, 20 Jan 2026 00:00:12 CST",
+    "summary": "The Bank of Japan will potentially raise interest rates three times this year\nto double the current level if the yen’s weakness persists, according to\nCitigroup Inc.’s markets head for the country.\n\n"
+  },
+  {
+    "title": "China’s Yulan Bond Sales Boom in Sign of Deeper Ties With Europe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-s-yulan-bond-sales-boom-in-sign-of-deeper-ties-with-europe",
+    "published": "Tue, 20 Jan 2026 00:00:00 CST",
+    "summary": "A corner of China’s credit market is signaling the country’s closer ties with\nEurope, with a record amount of bonds issued via a mechanism established by\nthe Shanghai Clearing House and its counterpart in Brussels.\n\n"
+  },
+  {
+    "title": "Lawsuit contests RFK Jr.’s new vaccine guidance for children",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F19%2Frfk-childhood-vaccines-lawsuit%2F",
+    "published": "Mon, 19 Jan 2026 23:50:43 CST",
+    "summary": "Several public health organizations accused the health secretary of packing a\nkey advisory committee with vaccine skeptics, arguing its latest guidance\nshould be voided.\n\n"
+  },
+  {
+    "title": "Korea Bourse CEO Sees Kospi at 6,000",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fkorea-bourse-ceo-sees-kospi-at-6-000-video",
+    "published": "Mon, 19 Jan 2026 23:40:17 CST",
+    "summary": "Korea Exchange (KRX) CEO Jeong Eun Bo spoke in an exclusive interview with\nBloomberg TV. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Steadies With Greenland Crisis and Surplus Concerns in Focus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Flatest-oil-market-news-and-analysis-for-jan-20",
+    "published": "Mon, 19 Jan 2026 23:26:15 CST",
+    "summary": "Oil steadied as traders tracked the fallout from the US push to take control\nof Greenland, and concerns about a global surplus.\n\n"
+  },
+  {
+    "title": "Gold Steadies Near Record High as Greenland Crisis Simmers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fsilver-rises-to-record-as-us-eu-tensions-over-greenland-persist",
     "published": "Mon, 19 Jan 2026 23:08:23 CST",
-    "summary": "Silver hit a record and gold traded just below an all-time high, as President\nDonald Trump’s push to take over Greenland fueled fears of a damaging trade\nwar between the US and Europe.\n\n"
+    "summary": "Gold was steady near a record high, while silver retreated from an all-time\npeak, as President Donald Trump’s push to take over Greenland stoked fears of\na potential US–Europe trade war.\n\n"
   },
   {
     "title": "MSCI Rule Shift May Spur $2 Billion Exit From Indonesian Stocks",
@@ -36,16 +108,16 @@
     "summary": "Investors are on tenterhooks ahead of an auction of 20-year Japanese sovereign\nbonds Tuesday after the government’s plans for tax relief on food jolted the\nmarket.\n\n"
   },
   {
-    "title": "Asian Stocks Face Wary Start as Tariff Feud Grows: Markets Wrap",
+    "title": "Treasuries, Stocks Fall on Greenland Tariff Angst: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 19 Jan 2026 22:24:47 CST",
-    "summary": "Asian stocks were poised for modest losses at the open as President Donald\nTrump’s tariff threats over Greenland revived trade tensions and weighed on\ninvestor appetite for risk.\n\n"
+    "summary": "Treasuries fell and stocks pulled back as President Donald Trump’s Greenland-\nrelated tariff threats reignited trade tensions, testing market confidence\nafter a rally fueled by investments in artificial intelligence.\n\n"
   },
   {
-    "title": "BHP Iron Ore Output Edges Higher, Potash Costs Rise Again",
+    "title": "BHP’s Potash Blowout Overshadows Australia Iron Ore Record",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbhp-iron-ore-production-edges-higher-potash-cost-rises-again",
     "published": "Mon, 19 Jan 2026 22:09:54 CST",
-    "summary": "BHP Group, the world’s largest miner, produced 69.7 million tons of iron ore\nin its second quarter, up 5% on the same period a year ago, and reaffirmed its\nannual production guidance.\n\n"
+    "summary": "BHP Group, the world’s largest miner, has again blown past cost estimates for\nits key Jansen potash project in Canada, raising projected investment in the\nfirst phase to $8.4 billion -- $1 billion above the upper range of an already\nrevised budget announced last year.\n\n"
   },
   {
     "title": "Henkel in Talks With Wendel to Acquire Chemical Maker Stahl",
@@ -56,7 +128,7 @@
   {
     "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
-    "published": "Mon, 19 Jan 2026 20:52:36 CST",
+    "published": "Mon, 19 Jan 2026 20:52:37 CST",
     "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
   },
   {
@@ -108,58 +180,10 @@
     "summary": "Croatia’s Boris Vujcic is heading for victory in the race for the European\nCentral Bank vice presidency with only Finland’s Olli Rehn left to beat after\ntwo rounds of voting by finance ministers, according to people with knowledge\nof the matter.\n\n"
   },
   {
-    "title": "QIA CEO on Strategy, Long Term Vision and Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fqia-ceo-on-strategy-long-term-vision-and-markets-video",
-    "published": "Mon, 19 Jan 2026 16:39:14 CST",
-    "summary": "Mohammed Saif Al-Sowaidi, Chief Executive Officer, QIA discusses the fund’s\ninvestment strategy, long-term vision and global market role with Bloomberg’s\nFrancine Lacqua at At Invest Qatar Pavillon during the 2026 World Economic\nForum. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "State Street's Yie-Hsin Hung Speaks to BTV at Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fstate-street-s-yie-hsin-hung-speaks-to-btv-at-davos-video",
-    "published": "Mon, 19 Jan 2026 16:38:42 CST",
-    "summary": "State Street Investment Management CEO Yie-Hsin Hung speaks to Bloomberg TV’s\nLisa Abramowicz on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "State Street Eyes Further Expansion Into Secondaries, Hung Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstate-street-eyes-further-expansion-into-secondaries-hung-says",
-    "published": "Mon, 19 Jan 2026 16:18:04 CST",
-    "summary": "State Street Corp.’s asset management arm is seeking more opportunities to\ngive retail investors access to secondaries and other private assets.\n\n"
-  },
-  {
-    "title": "‘Weaponizing’ $10 Trillion of US Assets Is Tough Ask for Europe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2F-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe",
-    "published": "Mon, 19 Jan 2026 16:15:58 CST",
-    "summary": "As Europe considers how best to respond to US President Donald Trump’s latest\nthreats over Greenland’s sovereignty, there’s one extreme potential\ncountermeasure that’s fueling debate among investors.\n\n"
-  },
-  {
-    "title": "UAE to Double Trade With India, Signs Long-Term LNG Contact",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fuae-to-double-trade-with-india-signs-long-term-lng-contact",
-    "published": "Mon, 19 Jan 2026 15:59:51 CST",
-    "summary": "The United Arab Emirates will invest in developing a special investment hub in\nwestern India as well as double bilateral trade to $200 billion by 2032 as the\ntwo countries seek closer ties amid global geopolitical uncertainties.\n\n"
-  },
-  {
-    "title": "Mubadala CEO Al Mubarak on Monetization, AI, Private Credit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fmubadala-ceo-on-monetization-ai-private-credit-video",
-    "published": "Mon, 19 Jan 2026 15:46:01 CST",
-    "summary": "Khaldoon Al Mubarak, CEO of Abu Dhabi’s Mubadala Investment Co., discusses\ninvestment monetization and sector trajectories, with a focus on AI,\ntechnology and infrastructure, geographic assets and private credit. He spoke\nwith Bloomberg’s Joumanna Bercetche on the sidelines of the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trade Uncertainty Saps Optimism, Bank of Canada Surveys Show",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Ftrade-uncertainty-sapping-optimism-bank-of-canada-surveys-show",
-    "published": "Mon, 19 Jan 2026 15:30:00 CST",
-    "summary": "Bank of Canada surveys show persistent pessimism among firms and consumers as\nthe ongoing US trade war deepens uncertainty.\n\n"
-  },
-  {
     "title": "Trump’s Trade Negotiator Says Response to Court Loss Would Be Immediate",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
     "published": "Mon, 19 Jan 2026 15:28:05 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
-  },
-  {
-    "title": "CSG Said to Eye Friday Trading Debut at €25 Billion Valuation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fcsg-said-to-eye-friday-trading-debut-at-25-billion-valuation",
-    "published": "Mon, 19 Jan 2026 15:23:54 CST",
-    "summary": "Defense firm Czechoslovak Group AS is considering setting a price in an\naccelerated initial public offering that would value the company at about €25\nbillion ($29.1 billion), according to people familiar with the matter.\n\n"
   },
   {
     "title": "Gold Stocks Push S&amp;P/TSX to Record on Greenland Tensions",
@@ -168,28 +192,16 @@
     "summary": "Canadian equities extended their winning streak to a fourth session Monday on\ngains by gold and silver miners, as precious metals prices surged in response\nto US President Donald Trump’s tariff threats against Europe over Greenland.\n\n"
   },
   {
-    "title": "IMF’s Georgieva Says Tensions Over Greenland Could Curb Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fimf-s-georgieva-says-tensions-over-greenland-could-curb-growth",
-    "published": "Mon, 19 Jan 2026 15:22:22 CST",
-    "summary": "International Monetary Fund Managing Director Kristalina Georgieva said it’s\ntoo early to gauge the economic impact of tensions over Greenland, though it\ncould be a headwind for growth.\n\n"
-  },
-  {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
     "published": "Mon, 19 Jan 2026 15:18:38 CST",
     "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
-    "title": "China’s Top Trade Negotiator Slated to Meet Global CEOs in Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fchina-s-top-trade-negotiator-slated-to-meet-global-ceos-in-davos",
-    "published": "Mon, 19 Jan 2026 15:06:48 CST",
-    "summary": "Chinese Vice Premier He Lifeng, the nation’s economic czar and top trade\nnegotiator, is scheduled to meet with a group of global CEOs while attending\nthe World Economic Forum, according to a person familiar with the matter.\n\n"
-  },
-  {
-    "title": "Barrick Changes CFO as Overhaul Continues Ahead of Possible IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbarrick-changes-cfo-as-overhaul-continues-ahead-of-possible-ipo",
-    "published": "Mon, 19 Jan 2026 15:01:08 CST",
-    "summary": "Barrick Mining Corp. appointed Helen Cai as chief financial officer, replacing\nGraham Shuttleworth whose departure adds to a string of senior exits at the\nCanadian miner amid speculation it could be acquired or broken up.\n\n"
+    "title": "Gold Miner Plots Seizure of Peru Assets Over $67 Million Arbitration Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fgold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt",
+    "published": "Mon, 19 Jan 2026 14:42:01 CST",
+    "summary": "A Canadian gold miner said it will attempt to seize Peruvian state assets --\nincluding future debt payments -- unless the South American nation makes\nprompt payment of an arbitration award.\n\n"
   },
   {
     "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
@@ -222,6 +234,12 @@
     "summary": "Stellantis shares were largely up – as high as 93% in March 2024 – until\nreporting troubling financial results that year amid cost-cutting efforts and\nEVs.\n\n"
   },
   {
+    "title": "NYSE Builds Venue for 24/7 Trading of Tokenized Stocks, ETFs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fnyse-builds-venue-for-24-7-trading-of-tokenized-stocks-etfs",
+    "published": "Mon, 19 Jan 2026 12:45:01 CST",
+    "summary": "The New York Stock Exchange is building a venue using blockchain technology to\nallow for trading tokenized stocks and exchange-traded funds around the clock.\n\n"
+  },
+  {
     "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F19%2Fafraid-to-take-vacation-the-problem-isnt-your-boss-its-how-you-work",
     "published": "Mon, 19 Jan 2026 12:00:25 CST",
@@ -234,9 +252,15 @@
     "summary": "President Donald Trump’s proposal for a 10 percent cap on credit card interest\nrates could save consumers billions, but may also reduce access to credit for\nthose with lower credit scores\n\n"
   },
   {
+    "title": "Xi’s Export Machine Gets Lift From US Move to Strongarm Allies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fxi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies",
+    "published": "Mon, 19 Jan 2026 10:32:03 CST",
+    "summary": "As Xi Jinping battles unprecedented deflation and shrinking investment, he’s\nbetting that China can sell more and more goods to the world to drive growth.\nTo that end, Donald Trump’s threats against key US allies are coming at a good\ntime.\n\n"
+  },
+  {
     "title": "Prominent Architecture Firm Is Accused of Illegally Ousting Employees",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fsnohetta-nlrb-complaint.html",
-    "published": "Mon, 19 Jan 2026 10:02:16 CST",
+    "published": "Mon, 19 Jan 2026 10:02:17 CST",
     "summary": "A federal labor regulator says the firm, Snohetta, laid off eight employees in\nretaliation for trying to unionize.\n\n"
   },
   {
@@ -256,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:05 CST",
     "summary": "The 3.3 percent rate for 2026 would match last year’s pace. Booming investment\nin artificial intelligence is buttressing global output.\n\n"
-  },
-  {
-    "title": "Mideast Oil Prices Diverge as Refiners Seek Cheaper Options",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Foil-refiners-shun-uae-s-flagship-murban-for-cheaper-alternatives",
-    "published": "Mon, 19 Jan 2026 08:44:05 CST",
-    "summary": "Middle Eastern crude prices are diverging, with heavier grades growing cheaper\nrelative to lighter barrels -- a shift that’s encouraging Asian refiners to\nfavor medium and sour crudes to boost margins.\n\n"
   },
   {
     "title": "S. Korea, Taiwan Lead EM Asia Stocks Higher, Reversing Greenland Tariff Worries",
@@ -312,12 +330,6 @@
     "summary": "Bari Weiss intervened to postpone a “60 Minutes” interview, leading to\nallegations of “corporate censorship.” The segment aired Sunday without major\nchanges.\n\n"
   },
   {
-    "title": "Oil Steady as Trump Threatens Greenland While Iran Tensions Wane",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Flatest-oil-market-news-and-analysis-for-jan-19",
-    "published": "Sun, 18 Jan 2026 23:27:46 CST",
-    "summary": "Oil recovered from earlier losses to trade little changed as the market\nweighed the fallout from US President Donald Trump’s threat to annex\nGreenland, while tensions over Iran cooled.\n\n"
-  },
-  {
     "title": "Stocks Sink as US-Europe Turmoil Fuels Gold Demand: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
     "published": "Sun, 18 Jan 2026 22:13:21 CST",
@@ -340,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F18%2Fgenz-millennial-core-y2k-aesthetic%2F",
     "published": "Sun, 18 Jan 2026 18:45:40 CST",
     "summary": "Gen Z is reimagining the trends of its elders, embracing low-rise baggy and\nflare jeans, baby doll tops, and sweatpants with numbers.\n\n"
-  },
-  {
-    "title": "Trump’s Tariff Threats Hit European Markets From Cars to Credit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-18%2Ftrump-tariff-threat-to-weigh-on-risk-sentiment-european-stocks",
-    "published": "Sun, 18 Jan 2026 17:29:19 CST",
-    "summary": "European shares tumbled from a near-record high, while credit risk gauges rose\nafter Donald Trump reignited the trade war between the US and Europe,\nthreatening fresh tariffs on eight countries over Greenland.\n\n"
   },
   {
     "title": "Trump’s Campaign Manager Resolves Daily Beast Defamation Suit",
@@ -418,12 +424,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fmedia%2Fcbs-news-trump-interview.html",
     "published": "Sun, 18 Jan 2026 01:00:49 CST",
     "summary": "In previously unreported remarks, the White House press secretary Karoline\nLeavitt told CBS News that Mr. Trump would “sue” the news outlet if it did not\nair an interview unedited.\n\n"
-  },
-  {
-    "title": "White House told CBS to run Trump interview unedited or get sued",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F17%2Ftrump-cbs-dokoupil-interview%2F",
-    "published": "Sun, 18 Jan 2026 00:14:05 CST",
-    "summary": "The exchange underscores the president’s readiness to challenge media\norganizations, in court and online.\n\n"
   },
   {
     "title": "At Least $110,000 Worth of Pokémon Cards Stolen From New York Store",
