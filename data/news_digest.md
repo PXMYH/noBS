@@ -1,56 +1,57 @@
 # NoBS News Digest - January 20, 2026
 
-Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
+Generated from **211** unique articles (deduplicated from 211 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic instability dominate headlines this week, with Venezuela at the center of multiple developments. Locals in the crisis-stricken nation are increasingly adopting Tether’s USDT stablecoin to shield themselves from political and economic volatility, reflecting broader distrust in unstable regimes. Meanwhile, the U.S. Federal Aviation Administration issues warnings about heightened military activity in the Pacific near Mexico, Colombia, Ecuador, and Panama, urging pilots to exercise caution—a move that underscores rising regional security concerns. On the diplomatic front, former U.S. President Donald Trump’s self-proclaimed authority over Venezuela’s oil reserves faces skepticism from major oil giants, who appear reluctant to engage amid legal and logistical uncertainties. Elsewhere, Hollywood sees a leadership shift as Kathleen Kennedy steps down as Lucasfilm president, marking the end of an era for the *Star Wars* franchise.
+Geopolitical tensions and economic instability dominate this week's headlines, with Venezuela emerging as a focal point. Locals in the crisis-stricken nation are increasingly adopting USDT, a Tether-issued stablecoin, to shield themselves from political and economic volatility, highlighting the broader trend of cryptocurrency adoption in unstable regimes. Meanwhile, the U.S. Federal Aviation Administration issues warnings about military activity in Latin American airspace, urging caution for flights over parts of the Pacific near Mexico, Colombia, Ecuador, and Panama, signaling heightened regional tensions. In Australia, the government pushes forward with controversial hate speech legislation while searching for a new ambassador to the U.S., following Kevin Rudd’s early departure. The move underscores Canberra’s efforts to navigate diplomatic relations amid domestic policy debates. Elsewhere, former President Donald Trump’s renewed interest in Venezuela’s oil reserves faces skepticism from major energy firms, who view domestic production as a more viable alternative. The intersection of economic strategy and geopolitical maneuvering continues to shape global dynamics.
 
 **Top Articles:**
+- [Inside Australia's Hate Speech Debate and US Ambassador Search](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Faustralia-s-hate-speech-debate-and-us-ambassador-search-video)
 - [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fvenezuelans-turned-to-tether-issued-usdt-stablecoin-as-its-government-wobbled.html)
 - [F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html)
 - [Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
 - [Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F15%2Ftrump-big-oil-venezuela)
 
-**Sources**: archive.ph (4 articles)
+**Sources**: archive.ph (5 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are grappling with renewed trade tensions as President Donald Trump's tariff threats over Greenland spark volatility. Treasuries and stocks decline amid fears of a US-Europe trade war, while gold steadies near record highs as investors seek safe havens. The Philippines braves rocky conditions with its first dollar bond sale in a year, and Japan's 40-year bond yield hits 4% for the first time since 2007, signaling shifting central bank policies. Meanwhile, corporate activity remains brisk: Henkel eyes the acquisition of chemical maker Stahl, Novo Nordisk shares surge on strong Wegovy sales, and Alibaba-backed Moonshot AI sees its valuation rise ahead of a funding round. Economic indicators paint a mixed picture, with China's export-driven growth offsetting its real estate slump, while Brazil's finance chief pushes for tighter central bank oversight of investment funds.
+Global markets face renewed volatility as President Donald Trump's tariff threats against Europe over Greenland reignite trade tensions, triggering a selloff in stocks and bonds. Treasuries join the decline amid fiscal concerns, while Japan's bond yields surge to multi-decade highs, pressuring the Bank of Japan to consider further rate hikes. Gold remains near record levels as geopolitical risks drive safe-haven demand, though silver's rally shows signs of caution. Corporate earnings reveal mixed performance, with Novo Nordisk surging on strong obesity drug sales, while Stellantis struggles despite turnaround efforts. Meanwhile, central banks ramp up gold purchases as dollar credibility wanes, and prediction markets gain traction amid regulatory debates.
 
 **Top Articles:**
-- [Philippines Braves Rough Market With First Dollar Bond in a Year](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fphilippines-braves-rough-market-with-first-dollar-bond-in-a-year)
-- [Pop Mart Shares Surge as Traders Cheer First Buyback Since 2024](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fpop-mart-shares-surge-as-traders-cheer-first-buyback-since-2024)
-- [RBI Needs to Ramp Up Bond Purchases to Cool Yields, Funds Say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frbi-needs-to-ramp-up-bond-purchases-to-cool-yields-funds-say)
-- [Treasuries Join Global Bond Selloff as Tariff Fears Grip Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftreasuries-join-global-bond-selloff-as-tariff-fears-grip-markets)
-- [Japan 40-Year Bond Yield Hits 4% for First Time Since 2007 Debut](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-40-year-bond-yield-hits-4-for-first-time-since-2007-debut-mkluxpba)
+- [Japan's 40-Year Bond Yield Hits 4% for First Time | The Asia Trade 1/20/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fthe-asia-trade-1-20-26-video)
+- [Japan 20-Year Bond Sale Sees Weaker Demand Than 12-Month Average](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-20-year-bond-sale-sees-weaker-demand-than-12-month-average-mkm1obji)
+- [UBP Strategist: Gold a Strong Bet, Be Cautious on Silver](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fubp-strategist-gold-a-strong-bet-be-cautious-on-silver-video)
+- [BHP Still Has Iron Ore Pricing Power Despite Discounts, RBC Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbhp-still-has-iron-ore-pricing-power-despite-discounts-rbc-says)
+- [Indian Retail Traders’ Favorite Stocks Are Big Laggards.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-20%2Fnse-nifty-fmcg-off-to-worst-start-to-year-since-2016-on-weak-consumption)
 
-**Sources**: archive.ph (92 articles)
+**Sources**: archive.ph (91 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, from AI advancements to geopolitical tensions. OpenAI is testing ads in ChatGPT for U.S. users, marking a new revenue push for its flagship AI product, while the NYSE is building a blockchain-based platform for 24/7 trading of tokenized stocks and ETFs. Meanwhile, global trade tensions escalate as Trump threatens tariffs on European countries over Greenland, risking a new U.S.-EU trade war, and China’s birthrate plunges to historic lows, exacerbating its demographic crisis. At Davos, world leaders grapple with AI’s economic impact, with the IMF upgrading global growth forecasts to 3.3% for 2026, fueled by AI investment. In corporate news, BYD’s dominance in EVs draws investor attention, and Taiwan secures a trade deal with the U.S., pledging more chip factories amid semiconductor tariff disputes. The intersection of AI, trade, and geopolitics continues to reshape industries and economies worldwide.
+This week’s headlines highlight a mix of economic shifts, tech advancements, and geopolitical tensions. The IMF raises its global growth forecast to 3.3% for 2026, citing AI investment as a key driver, while China’s birthrate plummets to historic lows, deepening demographic concerns. In tech, OpenAI introduces ads in ChatGPT for U.S. users, marking a new revenue push, while the NYSE prepares a 24/7 blockchain-based platform for tokenized stocks and ETFs. Trade and tariffs dominate political news, with Trump imposing new levies on European countries amid a Greenland standoff and Taiwan securing a trade deal with the U.S., pledging more chip factories. Meanwhile, Davos convenes global leaders to tackle AI, economic instability, and war, with BlackRock’s Larry Fink emerging as a central figure. Social unrest flares in the U.S., as protests erupt at Target over immigration enforcement, and CBS faces backlash for delaying a *60 Minutes* segment on Venezuelan deportees.
 
 **Top Articles:**
+- [India Allows Some Exports of Wheat Products After Three-Year Ban](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Findia-allows-some-exports-of-wheat-products-after-three-year-ban)
+- [Singapore’s Small Stocks to Rally on Boost From Market Revamp](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fsingapore-s-small-stocks-to-rally-on-boost-from-market-revamp)
 - [At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fseattle-dock-workers-tariffs-trump.html)
 - [Twin Falls, Idaho Has New Residents: 37 Afrikaners](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftwin-falls-idaho-afrikaners-trump.html)
 - [Shionogi Invests $2.1 Billion to Raise ViiV Healthcare Stake](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fshionogi-invests-2-1-billion-to-raise-viiv-healthcare-stake)
-- [Lawsuit contests RFK Jr.’s new vaccine guidance for children](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F19%2Frfk-childhood-vaccines-lawsuit%2F)
-- [BHP’s Potash Blowout Overshadows Australia Iron Ore Record](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbhp-iron-ore-production-edges-higher-potash-cost-rises-again)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (76 articles)
 
 ---
 
 ## ⚽ Sports
 
-In sports, President Trump announces plans to issue an executive order protecting the Army-Navy football game’s broadcast window amid concerns over potential scheduling conflicts if the College Football Playoff expands. The move aims to preserve the historic rivalry’s traditional time slot, underscoring the game’s cultural significance. Meanwhile, in business news, discount grocer Aldi accelerates its U.S. expansion, unveiling plans to open over 180 new stores this year as budget-conscious consumers across income levels prioritize value. The aggressive growth reflects intensifying competition in the grocery sector, with discounters gaining market share from traditional retailers. These developments highlight broader trends in both sports governance and retail, where legacy institutions face pressure to adapt to evolving demands.
+In sports, President Trump announces plans to issue an executive order protecting the Army-Navy football game’s broadcast window amid concerns over potential scheduling conflicts if the College Football Playoff expands. The move underscores the game’s cultural significance and the ongoing debates around playoff structure in college football. Meanwhile, in business news, discount grocer Aldi accelerates its U.S. expansion, planning to open over 180 new stores this year as budget-conscious consumers across income levels increasingly turn to discounters for grocery needs. The aggressive growth highlights intensifying competition in the retail sector, with traditional supermarkets facing pressure from value-driven chains.
 
 **Top Articles:**
 - [Trump will order TV networks to ‘protect’ Army-Navy football game](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2F2026%2F01%2F18%2Ftrump-army-navy-tv-football%2F)
@@ -62,17 +63,17 @@ In sports, President Trump announces plans to issue an executive order protectin
 
 ## 📰 Other News
 
-Global economic and political shifts dominate headlines as the World Economic Forum in Davos reflects a stark departure from its traditional focus on climate and cooperation, now overshadowed by deference to Trump’s policies. Indonesia’s rupiah hits a record low amid concerns over central bank autonomy, while Croatia’s Boris Vujcic edges closer to securing the ECB’s vice presidency. In the U.S., housing affordability remains a pressing issue, with Trump’s administration grappling with rising costs and mortgage policies that undermine accessibility. Meanwhile, cultural trends highlight Gen Z’s revival of Y2K fashion and the immersive theater boom, with *Masquerade* reimagining *Phantom of the Opera* to widespread acclaim. Corporate maneuvering also takes center stage, as Zurich Insurance makes a £7.7 billion bid for Beazley, and Netflix prepares to adjust its offer for Warner Bros. Discovery’s streaming assets.
+Global economic and geopolitical tensions dominate headlines as copper prices drop amid concerns over demand in China, while Citigroup downgrades European stocks due to escalating U.S.-EU friction over Greenland. Meanwhile, China meets its U.S. soybean purchase pledge, and Indonesia's rupiah hits a record low amid central bank autonomy concerns. On the cultural front, Gen Z's obsession with Y2K fashion drives retail trends, while Disney's box office dominance continues into 2026. The World Economic Forum in Davos reflects a shift from global cooperation to deference to U.S. policies, particularly under President Trump's administration. Notable human interest stories include the theft of $110,000 in Pokémon cards and the passing of Cannondale co-founder Joe Montgomery. Emerging trends highlight the rise of AI-driven tools like PixVerse's real-time video platform and the growing influence of prediction markets among younger demographics.
 
 **Top Articles:**
+- [Copper Drops on Concern Record Prices Hurting Demand in China](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcopper-drops-on-concern-record-prices-hurting-demand-in-china)
+- [Citi Downgrades European Stocks on US Friction Over Greenland](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fciti-downgrades-european-stocks-on-us-friction-over-greenland)
+- [Jiangxi Copper Plans $3.6 Billion Bond Sales to Fund Expansion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjiangxi-copper-plans-3-6-billion-bond-sales-to-fund-expansion)
+- [China Reaches 12 Million Tons of Soy Purchases to Meet US Pledge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-reaches-12-million-tons-of-soy-purchases-to-meet-us-pledge)
 - [Indonesian Rupiah Drops to Record on Central Bank Autonomy Woes](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fusd-idr-indonesian-rupiah-falls-to-record-low-as-fiscal-woes-persist)
-- [Nome, Alaska Is Now Key to Trump’s Global Ambitions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html)
-- [Korea Bourse CEO Sees Kospi at 6,000](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-19%2Fkorea-bourse-ceo-sees-kospi-at-6-000-video)
-- [As Davos Convenes, Deference to Trump Has Replaced Everything](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fdavos-president-trump.html)
-- [Brazilian Judge Orders Tanure’s Assets Frozen in Banco Master Probe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fbrazil-judge-orders-nelson-tanure-s-assets-frozen-in-banco-master-probe)
 
 **Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 20, 2026 at 02:36 AM *
+*Digest generated on January 20, 2026 at 04:32 AM *
