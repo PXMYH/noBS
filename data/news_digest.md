@@ -6,73 +6,62 @@ Generated from **211** unique articles (deduplicated from 211 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical and economic tensions dominate this week’s headlines, with President Trump’s policies drawing scrutiny as economists warn of long-term economic weakening despite minimal immediate impact. Meanwhile, Venezuela remains a focal point of instability, as locals increasingly adopt USDT stablecoins to shield against political and economic volatility. The F.A.A. issues advisories cautioning pilots about military activity over Latin American waters, heightening regional security concerns. In corporate news, Ghana’s mining sector pushes back against proposed gold royalty hikes, fearing reduced investment, while U.S. oil giants show reluctance toward Trump’s ambitious plans for Venezuelan oil, preferring domestic sources. The entertainment industry also sees a shake-up as Kathleen Kennedy steps down from Lucasfilm, marking a leadership transition in the 'Star Wars' franchise.
+Geopolitical tensions escalate as Poland considers banning Chinese-made cars from military bases, citing security concerns, while President Donald Trump's aggressive stance on Greenland sparks fears of a trade war with the European Union, rattling US stock futures. Domestically, Minnesota braces for an economic blackout protest against federal immigration enforcement, reflecting growing unrest over government policies. Meanwhile, Venezuela's economic instability drives locals toward cryptocurrency like USDT for stability, even as the FAA warns of heightened military activity in Latin American airspace, raising concerns over regional security. Analysts also question Trump's push to exploit Venezuela's oil reserves, suggesting domestic production may be a more viable alternative.
 
 **Top Articles:**
-- [Ghana Miners Warn Higher Gold Royalty Could Threaten Investment](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fghana-miners-warn-higher-gold-royalty-could-threaten-investment)
+- [Poland Considers Ban on Chinese-Made Cars Entering Its Military Bases](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fpoland-mulls-ban-on-chinese-made-cars-entering-military-bases)
+- [US Stock Futures Drop as Greenland Threats Stoke Trade Worries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fus-stock-futures-drop-as-greenland-threats-stoke-trade-worries)
+- [Economic blackout day planned in Minnesota to protest ICE surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F20%2Fice-immigrarion-minnesota-economic-protest)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fvenezuelans-turned-to-tether-issued-usdt-stablecoin-as-its-government-wobbled.html)
-- [F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ffaa-warnings-latin-america.html)
-- [Kathleen Kennedy, Lucasfilm President and ‘Star Wars’ Boss, Steps Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Fstar-wars-lucasfilm-kathleen-kennedy.html)
 
-**Sources**: archive.ph (6 articles)
+**Sources**: archive.ph (7 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets face turbulence as Japan's bond yields surge above 4% for the first time in decades, triggering a selloff in Treasuries and rippling through global debt markets. Meanwhile, escalating trade tensions between the U.S. and Europe over Greenland rattle equities, with emerging markets slipping amid rising yields and geopolitical uncertainty. At Davos, corporate leaders like BlackRock’s Larry Fink and Microsoft’s Satya Nadella weigh in on economic shifts, while the ECB downplays inflation risks from trade disputes. In corporate news, Netflix prepares to report earnings amid its high-profile bid for Warner Bros. Discovery, and Novo Nordisk shares jump 8% on strong early sales of its obesity drug Wegovy. Central banks, including Thailand’s, adjust policies to stabilize currencies, while Fed Chair Jerome Powell faces political pressure as Trump’s trade policies and legal threats against financial institutions add volatility.
+Global markets are facing renewed volatility as geopolitical tensions over Greenland and a sudden selloff in Japanese bonds disrupt the early-year calm. The standoff between the U.S. and Europe over Greenland has rattled equities, sent gold prices to record highs above $4,700 per ounce, and triggered a broader bond market rout, with Treasuries and Japanese debt yields surging. Meanwhile, the Federal Reserve remains in focus as President Trump narrows his list of potential nominees to replace Chair Jerome Powell, whose leadership is under scrutiny amid a Justice Department investigation. Corporate activity is also making headlines, with Netflix securing a $42 billion bridge loan to finance its amended all-cash bid for Warner Bros. Discovery’s studio and streaming business, while Saudi Arabia sets a January record by issuing over $20 billion in international bonds. In other developments, the ECB downplays the inflation impact of escalating trade tensions, and UK business liquidations hit a decade-high amid economic pressures. The week also saw Novo Nordisk shares surge 8% on strong early sales of its Wegovy obesity drug, while Stellantis CEO Antonio Filosa vows 2026 will be a 'year of execution' for the automaker’s turnaround.
 
 **Top Articles:**
-- [Japan Is Driving Global Bond Yields Higher](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-20%2Fjapan-is-driving-global-bond-yields-higher)
-- [BlackRock CEO Larry Fink and Microsoft CEO Satya Nadella Speak at Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fblackrock-s-fink-and-microsoft-s-nadella-speak-at-davos-video)
-- [Nomura Sued by Adani-Linked Fund Accused in Short-Seller Report](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnomura-sued-by-adani-linked-fund-accused-in-short-seller-report)
-- [ECB’s Villeroy Sees Muted Impact on Prices From Trade Tensions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fecb-s-villeroy-sees-muted-impact-on-prices-from-trade-tensions)
-- [Netflix Results to Shine Light on Fundamentals Amid Warner Fight](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-results-to-shine-light-on-fundamentals-amid-warner-fight)
+- [Bessent says Trump's pick for the next Fed chair could happen next week](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html)
+- [The Trump Drama Hits Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdealbook%2Ftrump-davos-tariffs-greenland.html)
+- [Wall Street’s Calm Shattered by Greenland and Japan Shocks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fwall-street-s-calm-shattered-by-greenland-and-japan-shocks)
+- [Netflix Boosts Bridge Loan for Warner Bros. Deal to $42 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-boosts-bridge-loan-for-warner-bros-deal-to-42-billion)
+- [Saudi Bond Borrowing Exceeds $20 Billion to Hit January Record](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fsaudi-bond-borrowing-exceeds-20-billion-to-hit-january-record)
 
-**Sources**: archive.ph (94 articles)
+**Sources**: archive.ph (92 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines highlight a mix of economic optimism, geopolitical tensions, and rapid advancements in AI and tech. The IMF raises its global growth forecast to 3.3% for 2026, citing booming AI investment as a key driver, while German investor confidence hits a four-year high amid government stimulus. Meanwhile, trade and tariffs dominate geopolitical news, with Trump threatening 200% tariffs on French champagne and imposing new levies on European countries in a standoff over Greenland. In tech, OpenAI begins testing ads in ChatGPT to bolster revenue, while smaller AI-focused firms challenge Big Tech’s dominance as energy and infrastructure demands reshape the sector. Regulatory and legal battles also make waves, from lawsuits over vaccine guidance to CBS’s delayed airing of a controversial *60 Minutes* segment on Venezuelan deportees. Elsewhere, Taiwan secures a trade deal with the U.S., pledging more chip factories, and BYD’s EV dominance draws investor attention beyond its automotive business.
+The tech and business world is buzzing with major developments, particularly in AI and corporate strategy. At the World Economic Forum in Davos, AI takes center stage as Anthropic CEO Dario Amodei and leaders from Utopai Studios and ElevenLabs discuss its transformative impact on industries, including creative sectors. Meanwhile, OpenAI announces plans to introduce advertisements in ChatGPT for U.S. users, signaling a new revenue push for its flagship AI product. In corporate news, Netflix intensifies its bidding war for Warner Bros. Discovery, switching to an all-cash $83 billion offer to outmaneuver Paramount Skydance. The deal underscores the streaming giant’s aggressive expansion strategy. Elsewhere, AI’s growing energy demands are sparking political action, with the Trump administration and states moving to curb rising electricity costs tied to data centers. The IMF also highlights AI investment as a key driver of global economic growth, projecting a 3.3% expansion in 2026. Regulatory and trade tensions persist, as Trump imposes new tariffs on European countries amid a Greenland standoff and targets foreign semiconductors, while Taiwan secures a trade deal with the U.S. and pledges more chip factories. Finally, the potential for mega IPOs in 2026 looms large, with SpaceX, OpenAI, and Anthropic poised to unleash significant capital into markets.
 
 **Top Articles:**
-- [Maharashtra Aims to Beat Last Year’s Investment Pledges at Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmaharashtra-aims-to-beat-last-year-s-investment-pledges-at-davos)
-- [Trump Threatens 200% Champagne Tariff as Macron Rejects ‘Peace Board’ Invite](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ftrump-floats-200-tariff-as-macron-rejects-peace-invite-video)
-- [German Investor Optimism Jumps to Highest in Over Four Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgerman-investor-optimism-jumps-to-highest-in-over-four-years)
-- [They’ve outsourced the worst parts of their jobs to tech. How you can do it, too.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fai-tips-for-work%2F)
-- [Filoplumes Are Nature’s Super Feather](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html)
+- [Anthropic CEO Dario Amodei on the Future of AI](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fanthropic-ceo-dario-amodei-on-the-future-of-ai-video)
+- [Technology and the Future of the Creative Industry](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ftechnology-and-the-future-of-the-creative-industry-video)
+- [China’s Struggling Solar Sector Has a Shiny New Problem](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-20%2Fchina-s-struggling-solar-sector-has-a-shiny-new-problem)
+- [GSK to buy food allergy drug maker RAPT in $2.2bn deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F20%2Fgsk-buy-food-allergy-drug-maker-rapt-us-biotech)
+- [Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html)
 
-**Sources**: archive.ph (75 articles)
-
----
-
-## ⚽ Sports
-
-Discount grocer Aldi is accelerating its expansion in the U.S., planning to open more than 180 new stores in 2026 as budget-conscious consumers increasingly turn to value-focused retailers. The aggressive growth underscores rising competition in the grocery sector, with discounters like Aldi gaining market share by attracting shoppers across income levels. The move reflects broader economic trends, as inflation and cost-of-living pressures drive more households to prioritize affordability in their weekly shopping. Aldi's strategy highlights the shifting dynamics in retail, where traditional supermarkets face mounting pressure from low-cost alternatives.
-
-**Top Articles:**
-- [Discount grocer Aldi plans to open more than 180 stores in U.S. this year as customers across incomes seek value](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F12%2Faldi-open-180-us-stores-2026.html)
-
-**Sources**: archive.ph (1 article)
+**Sources**: archive.ph (78 articles)
 
 ---
 
 ## 📰 Other News
 
-Global economic and political shifts dominate this week’s headlines, with President Trump’s aggressive policies reshaping international relations and domestic markets. At the World Economic Forum in Davos, the traditional focus on climate cooperation has given way to deference toward Trump’s unilateral approach, exemplified by tensions over Greenland and a push for Arctic expansion in Nome, Alaska. Meanwhile, economic pressures persist: Botswana braces for prolonged weak diamond prices, while Kenya’s state-owned pipeline plans a major IPO to fund infrastructure growth. In the U.S., housing affordability remains a flashpoint, with Trump’s administration clashing over mortgage policies even as food prices surge. Cultural trends also stand out, from Gen Z’s Y2K fashion revival to the immersive theater boom redefining Broadway hits like *Phantom of the Opera*. Corporate maneuvering is equally notable, with Netflix potentially revising its Warner Bros. Discovery bid and AllianzGI securing $690 million for climate-focused blended finance.
+This week's news highlights a shift in global economic and political dynamics, with the World Economic Forum in Davos reflecting a growing deference to Trump's policies over traditional themes of climate cooperation and globalization. Meanwhile, corporate maneuvering takes center stage as Netflix prepares to revise its offer for Warner Bros. Discovery's streaming assets, and Elon Musk's public feud with Ryanair's CEO escalates into speculation about a potential acquisition. On the cultural front, Gen Z's embrace of Y2K fashion trends underscores generational nostalgia, while an immersive reimagining of *Phantom of the Opera* draws repeat audiences, signaling evolving entertainment preferences. Economic pressures persist, with rising food prices and housing affordability dominating domestic concerns, even as the EU and South America finalize a landmark free-trade agreement. Notable human interest stories include the passing of Cannondale co-founder Joe Montgomery, whose innovations revolutionized bicycle design, and the resilience of Black women professionals forming support networks amid career setbacks.
 
 **Top Articles:**
-- [Kenya Pipeline to Triple Capital Spend to $852 Million Post IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fkenya-pipeline-to-triple-capital-spend-to-852-million-post-ipo)
-- [Diamonds Face Lasting Period of Depressed Prices, Botswana Warns](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fdiamonds-face-lasting-period-of-depressed-prices-botswana-warns)
-- [AllianzGI Secures $690 Million for New Blended Finance Fund](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fallianzgi-secures-690-million-for-new-blended-finance-fund)
-- [Citi Strategist Who Called Europe’s Stock Rally Downgrades Bloc](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fciti-downgrades-european-stocks-on-us-friction-over-greenland)
+- [Netflix likely to adjust Warner Bros. Discovery offer to make it all-cash](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fnetflix-warner-bros-discovery-deal-all-cash.html)
+- [Bessent says Powell attending Supreme Court arguments on Lisa Cook is a mistake](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-fed-chief-attending-supreme-court-arguments-on-lisa-cook-is-a-mistake.html)
+- [Glencore Prosecutors Set to Leave UK’s Crime Fighting Agency](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fglencore-prosecutors-set-to-leave-uk-s-crime-fighting-agency)
+- [Musk Asks If He Should Buy Ryanair as Brawl With CEO Runs On](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmusk-asks-if-he-should-buy-ryanair-as-brawl-with-ceo-drags-on)
 - [Nome, Alaska Is Now Key to Trump’s Global Ambitions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html)
 
-**Sources**: archive.ph (35 articles)
+**Sources**: archive.ph (34 articles)
 
 ---
 
-*Digest generated on January 20, 2026 at 11:46 AM *
+*Digest generated on January 20, 2026 at 01:28 PM *
