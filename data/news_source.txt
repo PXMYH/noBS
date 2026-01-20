@@ -1,5 +1,59 @@
 [
   {
+    "title": "Filoplumes Are Nature’s Super Feather",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html",
+    "published": "Tue, 20 Jan 2026 15:51:38 CST",
+    "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
+  },
+  {
+    "title": "Bessent Calls Powell’s Attendance at Supreme Court Arguments on Fed Independence a ‘Mistake’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Fbessent-powell-supreme-court-fed.html",
+    "published": "Tue, 20 Jan 2026 15:47:46 CST",
+    "summary": "The Treasury secretary’s criticism comes after he attended arguments over\nPresident Trump’s tariff authority last year.\n\n"
+  },
+  {
+    "title": "A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavos-trump.html",
+    "published": "Tue, 20 Jan 2026 15:41:28 CST",
+    "summary": "The World Economic Forum is now dominated by global technology companies whose\ninterests shunt aside most others.\n\n"
+  },
+  {
+    "title": "Congress moves toward funding government, dodging shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F",
+    "published": "Tue, 20 Jan 2026 15:30:35 CST",
+    "summary": "A bipartisan deal would keep the government open after the Jan. 31 deadline.\n\n"
+  },
+  {
+    "title": "Danish Fund Wrong to Sell US Treasuries, Guggenheim’s Walsh Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fdanish-fund-wrong-to-sell-us-treasuries-guggenheim-s-walsh-says",
+    "published": "Tue, 20 Jan 2026 15:29:15 CST",
+    "summary": "Danish pension fund AkademikerPension’s plan to exit US Treasuries is wrong\nbecause credit fundamentals of the world’s biggest economy remain strong\ndespite the risk-off sentiment pervading the markets, according to Anne Walsh,\nchief investment officer of Guggenheim Partners.\n\n"
+  },
+  {
+    "title": "UK’s Reeves: I Would Just Urge People to Keep Cool Heads",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fuk-s-reeves-i-would-just-urge-people-to-keep-cool-heads-video",
+    "published": "Tue, 20 Jan 2026 15:23:58 CST",
+    "summary": "Chancellor of the Exchequer Rachel Reeves says the UK wants to reduce tensions\nwith the US over President Donald Trump’s threat of new tariffs, ahead of his\narrival at the annual World Economic Forum in Davos. “I don’t think it’s in\nanyone’s interest to escalate tensions, or to allow rhetoric to be a\nsubstitute for hard work and diplomacy,” Reeves explains during a discussion\nat Bloomberg House in Davos, Switzerland.\n\n"
+  },
+  {
+    "title": "Stocks and Bonds Fall on Trump’s Greenland Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
+    "published": "Tue, 20 Jan 2026 15:21:14 CST",
+    "summary": "The S&P 500 dropped over 1 percent Tuesday morning, its lowest decline at the\nstart of the trading day since April, when President Trump first announced his\nsweeping tariffs.\n\n"
+  },
+  {
+    "title": "Trump's Credit Card Rate Threat Weighs on Bank Earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ftrump-s-credit-card-rate-threat-weighs-on-bank-earnings-video",
+    "published": "Tue, 20 Jan 2026 15:10:13 CST",
+    "summary": "President Donald Trump called on credit-card companies to cap interest rates\nat 10% for one year, which could wipe out billions in profits for the\nindustry. Herman Chan has more on \"Bloomberg Open Interest.\" (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Slovakia’s Fico Calls to Suspend Europe’s Flagship Carbon Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fslovakia-s-fico-calls-to-suspend-europe-s-flagship-carbon-market",
+    "published": "Tue, 20 Jan 2026 15:02:54 CST",
+    "summary": "Slovakia’s prime minister called for a suspension of the European Union’s\ncentral instrument to reduce carbon emissions, arguing the move is necessary\nto ease pressure on industry and boost the bloc’s competitiveness.\n\n"
+  },
+  {
     "title": "Ray Dalio warns that 'capital wars' could follow Trump's actions, with countries dumping U.S. assets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fray-dalio-fears-capital-wars-could-follow-trumps-actions-with-countries-dumping-us-assets.html",
     "published": "Tue, 20 Jan 2026 14:52:00 CST",
@@ -36,7 +90,7 @@
     "summary": "Chris Womack, chief executive officer of utility giant Southern Co., says\nelectricity demand is expected to grow by as much as 8% to 10%, citing what he\ncalls “incredible demand and opportunity” looking ahead. He also comments on\nPresident Trump’s plans to sell energy directly to some technology companies\nthrough an auction process as a \"good idea\". Womack was speaking with\nBloomberg TV on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Bessent Gets in Touch With Japan as US Treasuries Get Roiled",
+    "title": "Bessent Gets in Touch With Japan as Treasuries Get Roiled",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbessent-gets-in-touch-with-japan-as-us-treasuries-get-roiled",
     "published": "Tue, 20 Jan 2026 14:24:04 CST",
     "summary": "Treasury Secretary Scott Bessent said he had spoken with his Japanese\ncounterpart amid a selloff in Japan’s government bonds that he said had fed\nthrough to affect the Treasuries market.\n\n"
@@ -54,10 +108,10 @@
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
   },
   {
-    "title": "Japan’s Katayama Calls for Market Calm After Bond-Selling Storm",
+    "title": "Japan’s Katayama Calls for Market Calm After Bond Selloff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-s-katayama-calls-for-market-calm-after-bond-selling-storm",
     "published": "Tue, 20 Jan 2026 14:12:16 CST",
-    "summary": "Japanese Finance Minister Satsuki Katayama called on market participants to\ncalm down after an intense day of bond selling pushed up yields on long-term\ngovernment debt to the highest levels in decades with ripples reaching other\nglobal markets.\n\n"
+    "summary": "Japanese Finance Minister Satsuki Katayama called on market participants to\ncalm down after an intense day of bond selling pushed up long-term government\ndebt yields to the highest levels in decades with ripples reaching other\nglobal markets.\n\n"
   },
   {
     "title": "Insurance Platform Ethos, Backers Seeking $211 Million in IPO",
@@ -66,7 +120,7 @@
     "summary": "Insurance platform Ethos Technologies Inc. and some of its backers are seeking\nto raise about $211 million in an initial public offering, the latest\ninsurance-related firm set to debut.\n\n"
   },
   {
-    "title": "Allianz Exec Pushes EU to Pressure Trump With Market Volatility",
+    "title": "Allianz Executive Pushes EU to Pressure US With Volatility",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fallianz-exec-pushes-eu-to-pressure-trump-with-market-volatility",
     "published": "Tue, 20 Jan 2026 14:12:09 CST",
     "summary": "European policymakers should fuel market turbulence to pressure US President\nDonald Trump to back down from his Greenland claim, according to a senior\nexecutive at Allianz Global Investors.\n\n"
@@ -84,46 +138,10 @@
     "summary": "General Atlantic Co-President Martin Escobari tells Bloomberg Surveillance\nthat the AI-driven digital transformation and recent market stress are\ncreating new opportunities - but with US assets expensive, he sees global\ndiversification as essential amid rising uncertainty. Escobari speaks to\nBloomberg TV on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Batistas’ PicPay Fintech Seeks $2.5 Billion Market Cap in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbatistas-picpay-fintech-seeks-2-5-billion-market-cap-in-us-ipo",
-    "published": "Tue, 20 Jan 2026 13:53:19 CST",
-    "summary": "Picpay Holdings Netherlands BV, the Brazilian fintech controlled by the\nbillionaire Batista family, is seeking to raise more than $400 million in what\ncould be the first initial public offering out of the country in four years.\n\n"
-  },
-  {
-    "title": "Global Bonds Dip After Japan Triggers Selloff; Trump's Tariff Threat | Bloomberg Brief 1/20/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fbloomberg-brief-1-20-2026-video",
-    "published": "Tue, 20 Jan 2026 13:52:07 CST",
-    "summary": "US equity futures and Treasuries decline as the standoff over Greenland\nlingers and a heavy selloff in Japanese debt rippled through global bond\nmarkets. President Trump floats 200% tariffs on French wines and champagnes as\nhe reveals text messages from President Macron. US Treasury Secretary Scott\nBessent says the announcement for President Trump's pick for the Federal\nReserve chair could come as soon as next week. Filippo Gori, JPMorgan Co-Head\nof Global Banking, and Francois Villeroy de Galhau, ECB Governing Council\nMember and Banque de France Governor, join Bloomberg Brief from the World\nEconomic Forum in Davos. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "CoreWeave CEO Intrator on AI Demand, Infrastructure Strain and Skepticism",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fcoreweave-ceo-on-ai-demand-and-infrastructure-strain-video",
-    "published": "Tue, 20 Jan 2026 13:43:53 CST",
-    "summary": "CoreWeave CEO Michael Intrator discusses surging AI demand, infrastructure\ndevelopment, the company’s biggest constraints and growing skepticism in the\nsector. He speaks with Bloomberg Television on the sidelines of the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Gopinath Points to Danger of a US Inflation Comeback in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgopinath-points-to-danger-of-a-us-inflation-comeback-in-2026",
-    "published": "Tue, 20 Jan 2026 13:42:57 CST",
-    "summary": "The US economy is vulnerable to a snapback in consumer-price growth because of\neverything from fiscal stimulus to the weakness of the dollar, according to\nHarvard University Professor Gita Gopinath.\n\n"
-  },
-  {
-    "title": "Russian Oil Exports Plunge to 4-Month Low as India Shuns Cargoes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frussia-s-oil-exports-falter-amid-plunging-deliveries-to-india",
-    "published": "Tue, 20 Jan 2026 13:42:44 CST",
-    "summary": "December imports of Moscow’s crude into India were the lowest in more than\nthree years\n\n"
-  },
-  {
     "title": "The 'Sell America' Trade Is Real, Cohn Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fibm-vice-chairman-cohn-optimistic-about-us-market-video",
     "published": "Tue, 20 Jan 2026 13:40:03 CST",
     "summary": "IBM Vice Chairman Gary Cohn says he is still optimistic about the US economy\ndespite geopolitical tensions, citing high GDP growth as a major tailwind. But\nhe does say the \"Sell America\" trade is real. He speaks on \"Bloomberg\nSurveillance\" at the 2026 World Economic Forum in Davos, Switzerland. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Macquarie Capital Issues SRT Tied to $1 Billion of Private Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmacquarie-capital-issues-srt-tied-to-1-billion-of-private-loans",
-    "published": "Tue, 20 Jan 2026 13:35:41 CST",
-    "summary": "Macquarie Capital completed a significant risk transfer tied to high-yield\ncorporate loans, in a rare example of a non-bank lender making a foray into\nthe market.\n\n"
   },
   {
     "title": "Danish Pension Fund AkademikerPension to Exit US Treasuries",
@@ -156,10 +174,10 @@
     "summary": "Greenland, tariffs and wobbling markets are the talk of the town at the World\nEconomic Forum ahead of the president’s arrival on Wednesday.\n\n"
   },
   {
-    "title": "Anthropic’s Amodei on AI: Power and Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fanthropic-ceo-dario-amodei-on-the-future-of-ai-video",
-    "published": "Tue, 20 Jan 2026 13:12:10 CST",
-    "summary": "Dario Amodei, Co-Founder & CEO, Anthropic sits down with Bloomberg's Editor-\nin-Chief John Micklethwait to discuss the future of AI, focusing on harnessing\nits power while managing risk, at Bloomberg House in Davos on the sidelines of\nthe 2026 World Economic Forum. (Source: Bloomberg)\n\n"
+    "title": "Wall Street’s Calm Shattered by Greenland and Japan Shocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fwall-street-s-calm-shattered-by-greenland-and-japan-shocks",
+    "published": "Tue, 20 Jan 2026 13:02:02 CST",
+    "summary": "For weeks, the talk on Wall Street was how markets have been unusually subdued\nat the start of the year. But with a clash over Greenland throwing the\nEuropean and American alliance in disarray and Japanese bonds plunging, the\ncalm is breaking.\n\n"
   },
   {
     "title": "Netflix Boosts Bridge Loan for Warner Bros. Deal to $42 Billion",
@@ -172,6 +190,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-premarket-nvda-jbht-mmm-mu.html",
     "published": "Tue, 20 Jan 2026 12:54:32 CST",
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
+  },
+  {
+    "title": "Natural Gas Surges 29% as Forecasts Show Arctic Blast Across US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnatural-gas-surges-24-as-forecasts-show-arctic-blast-across-us",
+    "published": "Tue, 20 Jan 2026 12:41:14 CST",
+    "summary": "Natural gas futures soared 29% as forecasts turned much colder over the long\nholiday weekend in the US, calling for a deep freeze to grip much of the\ncountry during the weeks ahead.\n\n"
   },
   {
     "title": "Trump tariffs over Greenland are an error, says Ursula von der Leyen",
@@ -204,12 +228,6 @@
     "summary": "Netflix Inc. reached an amended, all-cash agreement to buy Warner Bros.\nDiscovery Inc.’s studio and streaming business as it battles Paramount\nSkydance Corp. to acquire one of Hollywood’s most iconic entertainment\ncompanies.\n\n"
   },
   {
-    "title": "Sudden Japan Bond Crash Unleashes Turmoil on Trading Floors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fsudden-japan-bond-crash-unleashes-turmoil-across-trading-floors",
-    "published": "Tue, 20 Jan 2026 11:47:29 CST",
-    "summary": "The selling in Japan’s $7.6 trillion bond market began slowly, then seemed to\nhit all at once.\n\n"
-  },
-  {
     "title": "Netflix Results to Shine Light on Fundamentals Amid Warner Fight",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-results-to-shine-light-on-fundamentals-amid-warner-fight",
     "published": "Tue, 20 Jan 2026 11:10:03 CST",
@@ -222,16 +240,16 @@
     "summary": "Unions, faith groups and local leaders urge residents not to work, shop or go\nto school after killing of Renee Good\n\nLabor unions, community leaders and faith groups are calling for an economic\nblackout in Minnesota on Friday to protest the surge of federal immigration\nagents in the state and mourn Renee Good.\n\nOrganizers are urging Minnesotans not to work, shop or go to school. The Trump\nadministration has dispatched some 3,000 federal agents to the state, in what\nit claims amounts to its largest enforcement operation thus far, amid a\nbroader crackdown on immigration.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Key LME Copper Spread Spikes to Highest Level Since 2021 Squeeze",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fspot-copper-prices-spike-on-lme-as-traders-tussle-over-inventory",
-    "published": "Tue, 20 Jan 2026 10:51:50 CST",
-    "summary": "Spot copper prices surged to trade at a huge premium over later-dated futures\non the London Metal Exchange, with a closely watched one-day spread reaching\nlevels not seen since an historic supply squeeze in 2021.\n\n"
-  },
-  {
     "title": "Global Stocks Trounce the S&amp;P 500 in Trump’s Chaotic First Year",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftrump-makes-global-stocks-great-again-as-us-lags-world-markets",
     "published": "Tue, 20 Jan 2026 10:30:00 CST",
     "summary": "After the S&P 500 Index rebounded from the brink of a bear market in April and\nspent the remainder of the year going from one record to the next, President\nDonald Trump billed it as a sign that he had transformed the US -- as he likes\nto put it -- into the world’s “hottest” country.\n\n"
+  },
+  {
+    "title": "Novartis CEO Vas Narasimhan on Drug Pricing, Trade, Jobs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fnovartis-ceo-vas-narasimhan-speaks-to-btv-at-davos-video",
+    "published": "Tue, 20 Jan 2026 10:11:35 CST",
+    "summary": "Novartis CEO Vas Narasimhan said his company has \"future-proofed\" against\ntrade tensions through a $23 billion investment in the United States. He spoke\nto Bloomberg TV's Francine Lacqua on the sidelines of the 2026 World Economic\nForum in Davos, Switzerland. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump’s First Year Could Have Lasting Economic Consequences",
@@ -252,10 +270,10 @@
     "summary": "The dollar fell to its lowest level in two weeks and currency hedging costs\nclimbed as President Donald Trump showed no signs of backing down in his\ncampaign to wrest control of Greenland from Denmark and threatened new tariffs\non France.\n\n"
   },
   {
-    "title": "Filoplumes Are Nature’s Super Feather",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html",
-    "published": "Tue, 20 Jan 2026 08:00:16 CST",
-    "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
+    "title": "Ferretti Investor Plots Move to Oust Chinese Directors",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fferretti-investor-plots-move-to-oust-board-s-chinese-directors",
+    "published": "Tue, 20 Jan 2026 09:17:50 CST",
+    "summary": "Ferretti SpA’s second-largest investor is preparing to propose a shareholder\nvote to oust directors with connections to the yacht maker’s top owner,\nChina’s Weichai Group, according to people familiar with the matter.\n\n"
   },
   {
     "title": "China’s Soy Purchases Hit 12 Million Tons to Meet US Pledge",
@@ -282,22 +300,28 @@
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
   },
   {
+    "title": "Treasuries Slide as Japan Bond Rout, Danish Sales Sour Sentiment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftreasuries-join-global-bond-selloff-as-tariff-fears-grip-markets",
+    "published": "Tue, 20 Jan 2026 00:59:20 CST",
+    "summary": "Treasuries fell, pushing long-term yields to the highest in four months, as\nselling pressures led by a rout in Japanese bonds and fallout over US Donald\nTrump’s tussle with European allies over control of Greenland weighed on US\ndebt.\n\n"
+  },
+  {
     "title": "Lawsuit contests RFK Jr.’s new vaccine guidance for children",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2F2026%2F01%2F19%2Frfk-childhood-vaccines-lawsuit%2F",
     "published": "Mon, 19 Jan 2026 23:50:43 CST",
     "summary": "Several public health organizations accused the health secretary of packing a\nkey advisory committee with vaccine skeptics, arguing its latest guidance\nshould be voided.\n\n"
   },
   {
-    "title": "Oil Swings as Traders Weigh Greenland Crisis and Supply Outlook",
+    "title": "Oil Rises as Traders Weigh Kazakh Supply and Greenland Tensions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Flatest-oil-market-news-and-analysis-for-jan-20",
     "published": "Mon, 19 Jan 2026 23:26:15 CST",
-    "summary": "Oil swung between gains and losses as traders weighed the fallout from the US\npush for Greenland.\n\n"
+    "summary": "Oil rose as traders weighed the supply impact from disruptions in the Black\nSea region along with broader market gyrations in the wake of President Donald\nTrump’s ambitions to take over Greenland.\n\n"
   },
   {
     "title": "S&amp;P 500 Wipes Out 2026 Gain on Trump-Europe Clash: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 19 Jan 2026 22:24:47 CST",
-    "summary": "Stocks, bonds and the dollar fell after President Donald Trump threatened\ntariffs on various European countries before high-level meetings in Davos amid\na growing standoff over his ambitions to take over Greenland. Gold hit all-\ntime highs.\n\n"
+    "summary": "Stocks, bonds and the dollar fell after President Donald Trump threatened\ntariffs on various European countries before high-level meetings in Davos amid\na growing standoff over his ambitions to take over Greenland. Bitcoin plunged.\nGold hit all-time highs.\n\n"
   },
   {
     "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
@@ -618,12 +642,6 @@
     "summary": "From oil drillers to credit card companies, President Trump has been a market\nmover this year.\n\n"
   },
   {
-    "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Firan-internet-blackout-protests-disinformation.html",
-    "published": "Fri, 16 Jan 2026 18:23:27 CST",
-    "summary": "The shutdown of online discourse within Iran has allowed both the government\nand its critics to flood social media outside the country with disinformation\ncampaigns and fake images.\n\n"
-  },
-  {
     "title": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Ftrump-praises-hassett-but-casts-doubt-on-making-him-fed-chair.html",
     "published": "Fri, 16 Jan 2026 17:39:47 CST",
@@ -672,22 +690,10 @@
     "summary": "Wall Street landlords are the primary target of Trump's proposed ban, but\ninvestment firms of the ultra rich could get caught in the crosshairs.\n\n"
   },
   {
-    "title": "Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F15%2Fbusiness%2Ftaiwan-trade-deal.html",
-    "published": "Fri, 16 Jan 2026 10:52:13 CST",
-    "summary": "The Trump administration agreed to lower tariffs on Taiwanese goods, while\nTaiwan said it would invest more in U.S. manufacturing.\n\n"
-  },
-  {
     "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-netflix.html",
     "published": "Fri, 16 Jan 2026 10:05:24 CST",
     "summary": "The company’s co-chief executive sat down for an extensive interview for the\nfirst time since announcing plans to buy Warner Bros. Discovery’s film and TV\nbusiness.\n\n"
-  },
-  {
-    "title": "Uber’s Quest to Crack Japan Leads Through a Rural Hot-Springs Town",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fuber-japan-dara-khosrowshahi.html",
-    "published": "Fri, 16 Jan 2026 05:00:11 CST",
-    "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally\ngrab a bigger piece of one of the world’s largest taxi markets.\n\n"
   },
   {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
