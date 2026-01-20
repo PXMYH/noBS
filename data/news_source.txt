@@ -1,9 +1,93 @@
 [
   {
+    "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html",
+    "published": "Tue, 20 Jan 2026 20:48:46 CST",
+    "summary": "President Trump may be on the verge of having his authority on imposing\ntariffs curtailed, but that hasn’t slowed down his threats.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html",
+    "published": "Tue, 20 Jan 2026 20:47:25 CST",
+    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
+  },
+  {
+    "title": "JPMorgan's Michele Sees No Alternative to US Debt",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fjpmorgan-s-michele-sees-no-alternative-to-us-debt-video",
+    "published": "Tue, 20 Jan 2026 20:42:18 CST",
+    "summary": "\"I don't think there will be wholesale selling of US Treasury debt,\" Bob\nMichele, JPMorgan Asset Management CIO and global head of fixed income, says\non Bloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bolivia Tightens Gold Buying Rules After Past Irregularities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbolivia-tightens-gold-buying-rules-after-past-irregularities",
+    "published": "Tue, 20 Jan 2026 20:41:37 CST",
+    "summary": "Bolivia’s central bank has resumed purchases of domestically mined gold to\nbolster foreign reserves, introducing a new US dollar reference price and\nstricter guidelines to avoid irregularities.\n\n"
+  },
+  {
+    "title": "EQT Plans to Roll Existing Venture Capital Stakes Into New Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Feqt-plans-to-roll-existing-venture-capital-stakes-into-new-fund",
+    "published": "Tue, 20 Jan 2026 20:28:04 CST",
+    "summary": "Private equity firm EQT AB is looking to shift assets in its first venture\nfund into a new vehicle amid the expansion of the secondary market for startup\nstakes.\n\n"
+  },
+  {
+    "title": "Goldman's Kaplan Sees Fed Maintaining Its Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fgoldman-s-kaplan-says-fed-at-about-neutral-cut-unlikely-video",
+    "published": "Tue, 20 Jan 2026 20:27:36 CST",
+    "summary": "Goldman Sachs Vice Chairman Robert Kaplan says all of the candidates to\nreplace Federal Reserve Chair Jerome Powell \"can do it.\" Speaking with Julie\nFine, Kaplan also says Fed rates are \"at about neutral\" and discusses the\neconomic impact of tariffs. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Stocks and Bonds Fall on Trump’s Greenland Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
+    "published": "Tue, 20 Jan 2026 20:27:07 CST",
+    "summary": "The S&P 500 dropped 2 percent on Tuesday, the first trading day after\nPresident Trump’s escalated his threats toward Europe over the weekend.\n\n"
+  },
+  {
+    "title": "GoldenTree Makes $200 Million Bet on Saks Bankruptcy Rescue Loan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgoldentree-makes-200-million-bet-on-saks-bankruptcy-rescue-loan",
+    "published": "Tue, 20 Jan 2026 20:25:54 CST",
+    "summary": "GoldenTree Asset Management will buy a chunk of a $1 billion bankruptcy\nfinancing for Saks Global Enterprises, in a bet that the iconic department\nstore will make it through Chapter 11 and chart a path forward.\n\n"
+  },
+  {
+    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
+    "published": "Tue, 20 Jan 2026 20:25:38 CST",
+    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
+  },
+  {
+    "title": "David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavid-rosen-dead.html",
+    "published": "Tue, 20 Jan 2026 20:24:05 CST",
+    "summary": "He transformed his Japanese photo booth business into a gaming industry game\ngiant that created Mortal Kombat, Sonic the Hedgehog and more.\n\n"
+  },
+  {
+    "title": "Congress moves toward funding government, dodging shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F",
+    "published": "Tue, 20 Jan 2026 20:06:10 CST",
+    "summary": "A bipartisan deal would keep the government open after the Jan. 31 deadline.\n\n"
+  },
+  {
+    "title": "Blackstone Said to Weigh $5 Billion-Plus Sale of Beacon Offshore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fblackstone-said-to-weigh-5-billion-plus-sale-of-beacon-offshore",
+    "published": "Tue, 20 Jan 2026 19:52:34 CST",
+    "summary": "Blackstone Inc. is in the early stages of weighing a sale of Beacon Offshore\nEnergy, a Gulf of Mexico driller it’s owned for about a decade that could\nfetch more than $5 billion, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Greenland Fight Takes Center Stage at Davos, Netflix Amends Deal | Bloomberg Markets 1/20/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fbloomberg-markets-1-20-2026-video",
+    "published": "Tue, 20 Jan 2026 19:52:32 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: BMO Private\nWealth Chief Market Strategist Carol Schleif, Bloomberg's Christina Ruffini,\nMichelle Davis and Geetha Rangananthan. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fdrug-pricing-patent-losses-deals-novo-nordisk-pfizer.html",
+    "published": "Tue, 20 Jan 2026 19:51:15 CST",
+    "summary": "Big pharma is grappling with new drug pricing deals and roughly $300 billion\nin potential lost revenue from patent expirations of blockbuster drugs.\n\n"
+  },
+  {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fstocks-trump-tariffs-greenland%2F",
     "published": "Tue, 20 Jan 2026 19:36:49 CST",
-    "summary": "“The fear trade is absolutely on right now,” one analyst says, as U.S. and\nEuropean markets slump and Wall Street’s “fear gauge” spikes/\n\n"
+    "summary": "“The fear trade is absolutely on right now,” one analyst says, as U.S. and\nEuropean markets slump and Wall Street’s “fear gauge” spikes.\n\n"
   },
   {
     "title": "Katayama Says Concerns About Japanese Bonds Are Misplaced",
@@ -78,16 +162,10 @@
     "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html",
-    "published": "Tue, 20 Jan 2026 18:07:07 CST",
-    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
     "title": "TowerBrook Takes Stake in Insurance Claims Firm MSA Mizar",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftowerbrook-takes-stake-in-insurance-claims-firm-msa-mizar",
     "published": "Tue, 20 Jan 2026 18:00:00 CST",
-    "summary": "Investment firm TowerBrook is acquiring a majority stake in MSA Mizar, an\ninsurance claims management services provider, marking its first deal in the\ncountry since it opened an office in Milan last year.\n\n"
+    "summary": "Investment firm TowerBrook is acquiring a majority stake in MSA Mizar, an\ninsurance claims management services provider, marking its first deal in Italy\nsince it opened an office in Milan last year.\n\n"
   },
   {
     "title": "Oaktree's Madelaine Jones: Diversify With European Credit",
@@ -120,34 +198,10 @@
     "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
   },
   {
-    "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html",
-    "published": "Tue, 20 Jan 2026 17:35:04 CST",
-    "summary": "President Trump may be on the verge of having his authority on imposing\ntariffs curtailed, but that hasn’t slowed down his threats.\n\n"
-  },
-  {
-    "title": "Diversifying Away From America Is Impossible, UBS CEO Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fubs-ceo-says-it-s-dangerous-to-dump-us-assets-video",
-    "published": "Tue, 20 Jan 2026 17:33:08 CST",
-    "summary": "“Diversifying away from America is impossible,” UBS Group AG Chief Executive\nOfficer Sergio Ermotti tells Bloomberg's Jonathan Ferro at the World Economic\nForum in Davos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Blue Owl BDC Plows Ahead on $400 Million Debt Sale for Tech Fund",
+    "title": "Blue Owl BDC Plows Ahead on $400 Million High-Grade Sale",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fblue-owl-bdc-plows-ahead-on-400-million-debt-sale-for-tech-fund",
     "published": "Tue, 20 Jan 2026 17:26:34 CST",
-    "summary": "A Blue Owl Capital Inc. private credit fund has launched its first dollar bond\nin a year, during a session in which global market jitters kept other\npotential borrowers on the sidelines.\n\n"
-  },
-  {
-    "title": "Netflix Amends Warner Bros. Deal to All Cash in Bidding War",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fnetflix-amends-warner-bros-deal-to-all-cash-video",
-    "published": "Tue, 20 Jan 2026 17:24:09 CST",
-    "summary": "Netflix Inc. reached an amended, all-cash agreement to buy Warner Bros.\nDiscovery Inc.’s studio and streaming business as it battles Paramount\nSkydance Corp. to acquire one of Hollywood’s most iconic entertainment\ncompanies. Bloomberg's Geetha Ranganathan joins to discuss on Bloomberg\nIntelligence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fdrug-pricing-patent-losses-deals-novo-nordisk-pfizer.html",
-    "published": "Tue, 20 Jan 2026 17:18:33 CST",
-    "summary": "Big pharma is grappling with new drug pricing deals and roughly $300 billion\nin potential lost revenue from patent expirations of blockbuster drugs.\n\n"
+    "summary": "A Blue Owl Capital Inc. private credit fund priced its first dollar bond in a\nyear, during a session in which global market jitters kept other potential\nborrowers on the sidelines.\n\n"
   },
   {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
@@ -162,46 +216,10 @@
     "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a\nParamount Skydance hostile takeover attempt.\n\n"
   },
   {
-    "title": "HK Financial Secretary Paul Chan Speaks to BTV at Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fhk-financial-secretary-paul-chan-speaks-to-btv-at-davos-video",
-    "published": "Tue, 20 Jan 2026 16:58:00 CST",
-    "summary": "Hong Kong Financial Secretary Paul Chan speaks to Bloomberg TV’s Haslinda Amin\non the sidelines of the 2026 World Economic Forum in Davos, Switzerland.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "KDIPA and Goldman Sachs on Gulf Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fkdipa-and-goldman-sachs-on-gulf-investments-video",
-    "published": "Tue, 20 Jan 2026 16:54:30 CST",
-    "summary": "H.E. Dr. Sobeeh A. A. Almukhaizim, Minister of Finance & Minister of State for\nEconomic Affairs & Investment, Kuwait and Anthony Gutman, Co-CEO, Goldman\nSachs International discuss fostering growth in the Gulf region with\nBloomberg's Lauren Kiel at Bloomberg House in Davos on the sidelines of the\n2026 World Economic Forum. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Columbus, Hillenbrand Leveraged Buyouts Reach Junk Bond Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcolumbus-hillenbrand-leveraged-buyouts-reach-junk-bond-market",
-    "published": "Tue, 20 Jan 2026 16:53:56 CST",
-    "summary": "Columbus McKinnon Corp. and the buyer of Hillenbrand Inc. are tapping the\njunk-bond market to help fund leveraged buyouts.\n\n"
-  },
-  {
-    "title": "Hassabis on an AI Shift Bigger Than Industrial Age",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fhassabis-on-an-ai-shift-bigger-than-industrial-age-video",
-    "published": "Tue, 20 Jan 2026 16:52:12 CST",
-    "summary": "Demis Hassabis, Co-Founder & CEO of Google DeepMind, discusses the years ahead\nin artificial intelligence, including advances in foundational models, real-\nworld applications and responsible AI development, with Bloomberg’s Emily\nChang at Bloomberg House in Davos on the sidelines of the 2026 World Economic\nForum. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japanese Bond Rout Sends Yields to Record Highs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fjapanese-bond-rout-triggers-turmoil-on-trading-floor-video",
-    "published": "Tue, 20 Jan 2026 16:48:02 CST",
-    "summary": "The selloff in Japan's bond market escalated quickly on Tuesday. Yields soared\nto records as investors gave a thumbs down to Prime Minister Sanae Takaichi’s\nelection pitch to cut taxes on food. Jordan Rochester, Mizuho EMEA FICC\nstrategy head, talks about what could come next for the bond markets. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-premarket-nvda-jbht-mmm-mu.html",
     "published": "Tue, 20 Jan 2026 16:31:34 CST",
     "summary": "These are the stocks posting the largest moves in early trading.\n\n"
-  },
-  {
-    "title": "Qiagen Said to Weigh Strategic Options Amid Fresh Interest",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fqiagen-is-said-to-consider-strategic-options-amid-fresh-interest",
-    "published": "Tue, 20 Jan 2026 16:27:20 CST",
-    "summary": "Qiagen NV, the European molecular testing firm, is weighing strategic options\nincluding a potential sale amid fresh takeover interest, people with knowledge\nof the matter said.\n\n"
   },
   {
     "title": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
@@ -216,22 +234,10 @@
     "summary": "John Collison, Co-Founder & President, Stripe discusses the role of digital\nbanking in a tech forward world with Bloomberg's Emily Chang at Bloomberg\nHouse in Davos on the sidelines of the 2026 World Economic Forum. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Stocks and Bonds Fall on Trump’s Greenland Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
-    "published": "Tue, 20 Jan 2026 16:11:31 CST",
-    "summary": "The S&P 500 dropped over 1 percent Tuesday morning, its lowest decline at the\nstart of the trading day since April, when President Trump first announced his\nsweeping tariffs.\n\n"
-  },
-  {
     "title": "Filoplumes Are Nature’s Super Feather",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html",
     "published": "Tue, 20 Jan 2026 15:51:38 CST",
     "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
-  },
-  {
-    "title": "Congress moves toward funding government, dodging shutdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F",
-    "published": "Tue, 20 Jan 2026 15:30:35 CST",
-    "summary": "A bipartisan deal would keep the government open after the Jan. 31 deadline.\n\n"
   },
   {
     "title": "Ray Dalio warns that 'capital wars' could follow Trump's actions, with countries dumping U.S. assets",
@@ -252,16 +258,16 @@
     "summary": "CNBC reported that Powell plans to be present for oral arguments in a case\nthat challenges Trump's power to remove governor Lisa Cook.\n\n"
   },
   {
+    "title": "Bessent Gets in Touch With Japan as Treasuries Get Roiled",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbessent-gets-in-touch-with-japan-as-us-treasuries-get-roiled",
+    "published": "Tue, 20 Jan 2026 14:24:04 CST",
+    "summary": "Treasury Secretary Scott Bessent said he had spoken with his Japanese\ncounterpart amid a selloff in Japan’s government bonds that he said had fed\nthrough to affect the Treasuries market.\n\n"
+  },
+  {
     "title": "As Office Rents Rise, Doctors Get Creative",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
     "published": "Tue, 20 Jan 2026 14:17:32 CST",
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
-  },
-  {
-    "title": "Cohn Says 'This, Too, Shall Pass' on Geopolitical Tensions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fibm-vice-chairman-cohn-optimistic-about-us-market-video",
-    "published": "Tue, 20 Jan 2026 13:40:03 CST",
-    "summary": "IBM Vice Chairman Gary Cohn says he is still optimistic about the US economy\ndespite geopolitical tensions, citing high GDP growth as a major tailwind. He\nspeaks on \"Bloomberg Surveillance\" at the 2026 World Economic Forum in Davos,\nSwitzerland. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Netflix sweetens Warner Bros bid with all-cash offer to block Paramount",
@@ -282,10 +288,10 @@
     "summary": "For weeks on Wall Street, markets were unusually subdued as President Donald\nTrump threatened the post-war order by asserting US dominance of the Western\nhemisphere.\n\n"
   },
   {
-    "title": "US Natural Gas Rises Most Since 2022 on Arctic Blast",
+    "title": "Natural Gas Jumps Most in 4 Years as Arctic Blast Descends on US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnatural-gas-surges-24-as-forecasts-show-arctic-blast-across-us",
     "published": "Tue, 20 Jan 2026 12:41:14 CST",
-    "summary": "US natural gas futures soared as much as 29% Tuesday as forecasts turned much\ncolder over the long holiday weekend in the US, calling for a deep freeze to\ngrip much of the country during the weeks ahead.\n\n"
+    "summary": "US natural gas futures closed way up Tuesday as forecasts turned much colder\nover the long holiday weekend in the US, calling for a deep freeze to grip\nmuch of the country during the weeks ahead.\n\n"
   },
   {
     "title": "US Stock Selloff Deepens on Tariff Fears, Global Bond Rout",
@@ -312,12 +318,6 @@
     "summary": "Unions, faith groups and local leaders urge residents not to work, shop or go\nto school after killing of Renee Good\n\nLabor unions, community leaders and faith groups are calling for an economic\nblackout in Minnesota on Friday in protest against the surge of federal\nimmigration agents in the state and to mourn Renee Good.\n\nOrganizers are urging Minnesotans not to work, shop or go to school. The Trump\nadministration has dispatched about 3,000 federal agents to the state, in what\nit claims amounts to its largest enforcement operation thus far, amid a\nbroader crackdown on immigration.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Emerging Assets Fall as Greenland Tensions, Japan Rattle Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftrade-turbulence-dents-emerging-market-rally-as-yields-rise",
-    "published": "Tue, 20 Jan 2026 10:53:43 CST",
-    "summary": "Developing world assets fell on Tuesday as a crash in Japanese bonds and\ngrowing fears over President Donald Trump’s Greenland threats weighed on\nglobal markets.\n\n"
-  },
-  {
     "title": "Trump’s First Year Could Have Lasting Economic Consequences",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html",
     "published": "Tue, 20 Jan 2026 10:02:46 CST",
@@ -330,16 +330,22 @@
     "summary": "New to AI? Here are five tips to make you more productive at work.\n\n"
   },
   {
-    "title": "European Stocks Extend Declines as Trump Ramps Up Tariff Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Feuropean-stocks-extend-declines-as-trump-ramps-up-tariff-threats",
-    "published": "Tue, 20 Jan 2026 08:16:18 CST",
-    "summary": "European stocks fell Tuesday as rhetoric about a renewed trade war with the US\nramped up, with President Donald Trump threatening a crushing tariff on wine\nand champagne and French leader Emmanuel Macron blasting his latest moves.\n\n"
-  },
-  {
-    "title": "Musk Asks If He Should Buy Ryanair as Brawl With CEO Runs On",
+    "title": "Elon Musk and Ryanair Keep Escalating an Online War of Words",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmusk-asks-if-he-should-buy-ryanair-as-brawl-with-ceo-drags-on",
     "published": "Tue, 20 Jan 2026 07:48:55 CST",
     "summary": "The online brawl between Elon Musk and Ryanair Holdings Plc dragged into a\nsecond week, with the world’s richest man again floating the idea of buying\nthe airline after clashing with its chief executive officer.\n\n"
+  },
+  {
+    "title": "China’s Soy Purchases Hit 12 Million Tons to Meet US Pledge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-reaches-12-million-tons-of-soy-purchases-to-meet-us-pledge",
+    "published": "Tue, 20 Jan 2026 02:43:15 CST",
+    "summary": "China has purchased roughly 12 million tons of US soybeans in the last three\nmonths, clearing a closely watched trade hurdle and meeting a key pledge\noutlined by the Trump administration in November.\n\n"
+  },
+  {
+    "title": "Philippines Sells $2.75 Billion Dollar Bonds Amid Volatility",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fphilippines-braves-rough-market-with-first-dollar-bond-in-a-year",
+    "published": "Tue, 20 Jan 2026 02:09:14 CST",
+    "summary": "The Philippines sold $2.75 billion of dollar bonds Tuesday, braving rocky\nmarkets after fresh tensions between the US and Europe along with a selloff in\nJapanese bonds and Treasuries.\n\n"
   },
   {
     "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
@@ -360,7 +366,13 @@
     "summary": "Several public health organizations accused the health secretary of packing a\nkey advisory committee with vaccine skeptics, arguing its latest guidance\nshould be voided.\n\n"
   },
   {
-    "title": "‘Sell America’ Trade Wipes Out S&amp;P 500’s 2026 Gain: Markets Wrap",
+    "title": "Oil Rises as Traders Weigh Kazakh Supply and Greenland Tensions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Flatest-oil-market-news-and-analysis-for-jan-20",
+    "published": "Mon, 19 Jan 2026 23:26:15 CST",
+    "summary": "Oil rose as traders weighed the supply impact from disruptions in the Black\nSea region along with broader market gyrations in the wake of President Donald\nTrump’s ambitions to take over Greenland.\n\n"
+  },
+  {
+    "title": "Wall Street Has Worst Session Since April Meltdown: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-19%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Mon, 19 Jan 2026 22:24:47 CST",
     "summary": "Stocks, bonds and the dollar fell after President Donald Trump threatened\ntariffs on various European countries before high-level meetings in Davos amid\na growing standoff over his ambitions to take over Greenland. Bitcoin plunged.\nGold hit all-time highs.\n\n"
@@ -382,12 +394,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
     "published": "Mon, 19 Jan 2026 15:28:05 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
-  },
-  {
-    "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html",
-    "published": "Mon, 19 Jan 2026 15:18:38 CST",
-    "summary": "A founder of Cannondale, he was among the first in the U.S. to mass-produce\nbikes frames out of large-diameter aluminum tubes, replacing heavier steel.\n\n"
   },
   {
     "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
@@ -712,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Ftrump-investors-homes-family-offices.html",
     "published": "Fri, 16 Jan 2026 12:30:01 CST",
     "summary": "Wall Street landlords are the primary target of Trump's proposed ban, but\ninvestment firms of the ultra rich could get caught in the crosshairs.\n\n"
-  },
-  {
-    "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fbusiness%2Fmedia%2Fted-sarandos-netflix.html",
-    "published": "Fri, 16 Jan 2026 10:05:24 CST",
-    "summary": "The company’s co-chief executive sat down for an extensive interview for the\nfirst time since announcing plans to buy Warner Bros. Discovery’s film and TV\nbusiness.\n\n"
   },
   {
     "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",

@@ -6,7 +6,7 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical and economic tensions dominate headlines as President Trump escalates threats of a new trade war, even as courts weigh limiting his tariff authority. His first year in office leaves economists warning of long-term economic weakening, while his controversial stance on Venezuela—where he has declared himself 'acting president'—faces skepticism from major oil companies wary of the risks. Meanwhile, Congress averts a government shutdown with a bipartisan funding deal, offering temporary stability amid political divisions. In Minnesota, unions and faith groups plan an economic blackout to protest increased ICE activity following a high-profile killing, highlighting domestic unrest. Internationally, the FAA issues warnings about military activity over Latin American waters, urging caution for flights near Mexico, Colombia, Ecuador, and Panama. The crisis in Venezuela also drives locals toward cryptocurrency like USDT as a hedge against economic collapse, underscoring the broader impact of political instability on global markets.
+Geopolitical and economic tensions dominate headlines as President Trump escalates threats of a new trade war, even as courts weigh limiting his tariff authority. His first year in office has left economists warning of long-term economic weakening, though immediate impacts remain limited. Meanwhile, Congress averts a government shutdown with a bipartisan funding deal, easing short-term fiscal concerns. In Venezuela, economic instability drives locals toward cryptocurrency like USDT as a hedge against volatility, while Trump’s push to exploit Venezuelan oil faces skepticism from major energy firms. The FAA also issues warnings about military activity over Latin American waters, urging caution for flights near Mexico, Colombia, Ecuador, and Panama. Domestically, Minnesota braces for an economic blackout protest against ICE operations following a high-profile killing, highlighting growing civil unrest over immigration enforcement.
 
 **Top Articles:**
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
@@ -19,49 +19,34 @@ Geopolitical and economic tensions dominate headlines as President Trump escalat
 
 ---
 
-## 💰 Finance, Economics & Business
-
-Global markets are reeling as geopolitical tensions and economic policy shifts dominate headlines. U.S. and European stocks plummeted Tuesday after President Trump threatened new tariffs on European allies, including a 10% cap on credit card interest rates, while escalating his push for control over Greenland. The S&P 500 erased its 2026 gains, and Treasury yields surged amid a broader selloff in bonds, including a record rout in Japanese government debt that sent yields to decades-high levels. Meanwhile, the Federal Reserve faces uncertainty as Trump weighs replacing Chair Jerome Powell, with Treasury Secretary Scott Bessent hinting a decision could come next week. Corporate maneuvering is also in focus, as Netflix sweetens its $82.7 billion all-cash bid for Warner Bros. Discovery to fend off rival Paramount, while Novo Nordisk shares jumped 8% on strong early sales of its Wegovy obesity drug. Against this backdrop, central banks are increasingly turning to gold as a hedge, with gold prices hitting all-time highs amid concerns over the dollar’s stability and rising capital wars.
-
-**Top Articles:**
-- [Stocks slide after Trump threatens new tariffs over Greenland](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fstocks-trump-tariffs-greenland%2F)
-- [Katayama Says Concerns About Japanese Bonds Are Misplaced](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fkatayama-says-concerns-about-japanese-bonds-are-misplaced)
-- [Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html)
-- [Municipal Bonds Fall on Growing Supply, Geopolitical Angst](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fmunicipal-bonds-fall-on-growing-supply-geopolitical-angst)
-- [Coinbase CEO on the Future of Digital Assets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fcoinbase-ceo-on-the-future-of-digital-assets-video)
-
-**Sources**: archive.ph (94 articles)
-
----
-
 ## 💻 Technology
 
-The tech and business world is buzzing with major developments this week, led by Netflix's aggressive all-cash $83 billion bid to acquire Warner Bros. Discovery, intensifying its rivalry with Paramount Skydance. Meanwhile, AI continues to dominate headlines, with OpenAI introducing ads in ChatGPT to boost revenue and Google DeepMind CEO Demis Hassabis predicting AI advancements will surpass the Industrial Revolution in impact. At Davos, global leaders grapple with AI's economic influence, while geopolitical tensions rise as Trump imposes tariffs on European nations amid a standoff over Greenland. In finance, smaller AI-focused firms are challenging Big Tech, and 2026 could see blockbuster IPOs from SpaceX, OpenAI, and Anthropic. Regulatory and legal battles also take center stage, with CBS facing backlash over editorial decisions and the IMF upgrading global growth forecasts amid booming AI investment.
+The tech and business landscape is buzzing with major developments this week. AI continues to dominate headlines, with OpenAI introducing ads in ChatGPT to boost revenue, while smaller firms emerge as strong contenders in the AI-driven market, challenging Big Tech’s dominance. Meanwhile, geopolitical tensions escalate as Trump imposes new tariffs on European countries amid a standoff over Greenland, drawing sharp criticism from European leaders. In corporate news, Netflix revamps its $83 billion bid for Warner Bros. Discovery, opting for an all-cash deal to outmaneuver Paramount, while Boeing outperforms Airbus in 2025 deliveries for the first time since 2018. The World Economic Forum in Davos highlights the growing influence of AI and global tech giants, with Larry Fink of BlackRock taking a prominent role as the event evolves under new leadership.
 
 **Top Articles:**
+- [Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html)
+- [Blackstone Said to Weigh $5 Billion-Plus Sale of Beacon Offshore](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fblackstone-said-to-weigh-5-billion-plus-sale-of-beacon-offshore)
+- [Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fdrug-pricing-patent-losses-deals-novo-nordisk-pfizer.html)
 - [Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html)
 - [A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavos-trump.html)
-- [New York Budget Doesn't Include Much-Feared Tax Hike For Millionaires](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnew-york-dodges-feared-tax-hike-for-millionaires-and-companies)
-- [Are Markets Ready to Price in Geopolitics?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-20%2Fare-markets-ready-to-price-in-geopolitics)
-- [Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (75 articles)
 
 ---
 
 ## 📰 Other News
 
-The Trump administration continues to reshape economic and immigration policies, with notable developments in housing affordability, tax reforms, and global trade. The IRS undergoes a major reorganization ahead of tax season, while the president's housing initiatives face criticism for undermining low-income homebuying programs. Meanwhile, natural gas prices surge amid an Arctic blast, and corporate maneuvering intensifies as Netflix adjusts its bid for Warner Bros. Discovery assets. On the cultural front, immersive theater adaptations and high-value Pokémon card thefts capture public attention, while Davos reflects a shift toward Trump-centric global priorities. Emerging trends include rising office costs pushing doctors into unconventional arrangements and a boom in prediction markets among younger demographics.
+This week's news highlights a mix of economic shifts, cultural milestones, and geopolitical maneuvering. In financial markets, JPMorgan's Bob Michele asserts that U.S. Treasury debt remains a safe bet despite economic uncertainties, while natural gas prices surge amid an Arctic blast gripping the nation. Meanwhile, the Trump administration continues to reshape policy, with IRS restructuring ahead of tax season and aggressive tactics to lower housing costs—even as critics argue these moves undermine affordability. On the global stage, Davos convenes under a starkly different tone, with deference to Trump's America-first agenda replacing traditional calls for climate action and cooperation. Culturally, immersive theater like the reimagined 'Phantom of the Opera' draws repeat audiences, while Disney's box office dominance shows no signs of waning. Notable obituaries include gaming pioneer David Rosen, co-founder of Sega, and Cannondale's Joe Montgomery, whose innovations revolutionized bicycles. Meanwhile, niche stories—like a $110,000 Pokémon card heist and a small Alaskan town's role in Arctic strategy—add color to the week's developments.
 
 **Top Articles:**
+- [JPMorgan's Michele Sees No Alternative to US Debt](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fjpmorgan-s-michele-sees-no-alternative-to-us-debt-video)
+- [Joe Montgomery, Who Made Bicycles Lighter, Dies at 86](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html)
+- [David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavid-rosen-dead.html)
 - [Twin Falls, Idaho Has New Residents: 37 Afrikaners](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftwin-falls-idaho-afrikaners-trump.html)
 - [Trump’s IRS chief reorganizes tax agency days before filing season](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Firs-tax-season-reorganization-trump-bisignano%2F)
-- [Nome, Alaska Is Now Key to Trump’s Global Ambitions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html)
-- [Netflix reports earnings after the bell. Here's what to expect](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
-- [Top Editor at Axel Springer Is Ousted After Workplace Investigation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html)
 
-**Sources**: archive.ph (35 articles)
+**Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 20, 2026 at 07:43 PM *
+*Digest generated on January 20, 2026 at 08:55 PM *
