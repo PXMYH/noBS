@@ -1,15 +1,111 @@
 [
   {
+    "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html",
+    "published": "Tue, 20 Jan 2026 23:33:36 CST",
+    "summary": "Netflix will pay all cash for the $83 billion deal to acquire major parts of\nWarner Bros. Discovery, instead of a mix of cash and stock.\n\n"
+  },
+  {
+    "title": "Fmr. Netflix Exec Reacts to 4Q Results, Content Strategy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ffmr-netflix-exec-reacts-to-4q-results-content-strategy-video",
+    "published": "Tue, 20 Jan 2026 23:28:09 CST",
+    "summary": "Simon Gallagher, SPG Global managing director and former strategy and content\nacquisition executive at Hulu and Netflix, says unlike YouTube, Netflix needs\nto focus on premium scripted and unscripted content rather than user generated\nprogramming. He speaks with Romaine Bostick and Katie Greifeld on “The Close.”\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
+    "published": "Tue, 20 Jan 2026 23:20:36 CST",
+    "summary": "The president has whittled down the field to four candidates, Bessent told\nCNBC during an interview at the World Economic Forum in Switzerland.\n\n"
+  },
+  {
+    "title": "US Power-Grid Plan Aims to Accelerate Data-Center Connections",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fus-power-grid-plan-aims-to-accelerate-data-center-connections",
+    "published": "Tue, 20 Jan 2026 23:18:33 CST",
+    "summary": "Data centers that have lined up new electricity capacity for their facilities\nwould get priority in connecting to the largest US power grid under a proposal\nby PJM Interconnection LLC.\n\n"
+  },
+  {
+    "title": "Gold and Silver Near Record Highs on Worsening Greenland Crisis",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgold-and-silver-near-record-highs-on-worsening-greenland-crisis",
+    "published": "Tue, 20 Jan 2026 23:17:37 CST",
+    "summary": "Gold and silver remained near record highs as the crisis between the US and\nEurope over Greenland supported haven demand.\n\n"
+  },
+  {
+    "title": "Netflix to Boost Program Spending, Crimping Profit as it Pursues WBD",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fnetflix-to-boost-program-spending-as-it-pursues-wbd-video",
+    "published": "Tue, 20 Jan 2026 23:06:38 CST",
+    "summary": "Netflix delivered fourth-quarter results that largely beat Wall Street\nestimates but issued a cautious forecast for the months ahead, citing higher\nprogram spending and the cost of closing its deal with Warner Bros. Discovery.\nThe streaming leader said it plans to increase spending on films and TV shows\nby 10% in 2026 while forging ahead with plans to buy the studio and streaming\nbusiness of Warner Bros., a deal that would unite two of the world’s largest\nentertainment companies. Netflix spent about $18 billion on programming last\nyear, with subscribers growing almost 8% to top 325 million. Bloomberg News\nSenior Editor and Entertainment Team Leader Chris Palmeri joins Bloomberg\nBusinessweek Daily to discuss. He speaks with Carol Massar and Tim Stenovec.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Netflix Should Adopt Warner's Theater Strategy: Comscore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fnetflix-should-adopt-warner-s-theater-strategy-comscore-video",
+    "published": "Tue, 20 Jan 2026 23:06:21 CST",
+    "summary": "Paul Dergarabedian, Comscore senior media analyst, says Netflix should\nrecognize the value of Warner Bros. as a theatrical partner that boosts a\nfilm’s value before it reaches streaming. He speaks with Katie Greifeld and\nRomaine Bostick on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Vietnam Pipemaker Poised for Growth as Parent SCG Eyes Deals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fvietnam-pipemaker-poised-for-growth-as-parent-scg-eyes-deals",
+    "published": "Tue, 20 Jan 2026 23:00:00 CST",
+    "summary": "Vietnam’s largest listed plastic pipe maker Binh Minh Plastics JSC, backed by\nThailand’s Siam Cement Pcl, is positioned to ride a prolonged construction\nupswing in a growing economy, underscoring the nation’s rising importance to\nits parent’s regional expansion plans, according to Binh Minh Chief Executive\nOfficer Niwat Athiwattananont.\n\n"
+  },
+  {
+    "title": "Investors Eye India Budget to Unlock Gains in State Companies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Finvestors-eye-india-budget-to-unlock-gains-in-state-companies",
+    "published": "Tue, 20 Jan 2026 23:00:00 CST",
+    "summary": "India’s state-run stocks may extend their outperformance versus the broader\nmarket, according to investors watching the Feb. 1 budget for signals on\nwhether the government will revive stake sales to raise funds and support\neconomic growth.\n\n"
+  },
+  {
     "title": "United Airlines could hit record earnings after strong start to 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Funited-airlines-ual-4q-2025-earnings.html",
-    "published": "Tue, 20 Jan 2026 22:35:21 CST",
+    "published": "Tue, 20 Jan 2026 22:55:49 CST",
     "summary": "United Airlines said 2026 is off to a strong start, both for premium seats and\nno-frills tickets, as it reported fourth-quarter earnings.\n\n"
+  },
+  {
+    "title": "Vanguard's Head of Fixed Income Head on Treasury Turmoil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fvanguard-s-head-of-fixed-income-head-on-treasury-turmoil-video",
+    "published": "Tue, 20 Jan 2026 22:55:25 CST",
+    "summary": "Sara Devereux, Vanguard Global Head of Fixed Income, says the term premium is\na key focus for the administration, with affordability top of mind. She tells\nKatie Greifeld and Romaine Bostick on “The Close” that mortgage rates and\nTreasury supply-demand dynamics remain central issues. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Stocks Fall as ‘Sell America’ Sentiment Returns | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fus-stocks-fall-as-sell-america-returns-closing-bell-video",
+    "published": "Tue, 20 Jan 2026 22:54:59 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump’s First Year Could Have Lasting Economic Consequences",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html",
+    "published": "Tue, 20 Jan 2026 22:49:13 CST",
+    "summary": "President Trump’s policies have so far done little to change the overall state\nof the American economy, but economists warn they will ultimately weaken the\nUnited States.\n\n"
   },
   {
     "title": "Netflix posts narrow earnings beat, reports 325 million global subscribers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html",
-    "published": "Tue, 20 Jan 2026 22:24:38 CST",
+    "published": "Tue, 20 Jan 2026 22:47:03 CST",
     "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a\nParamount Skydance hostile takeover attempt.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves after hours: Netflix, United Airlines, Interactive Brokers and more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-after-hours-nflx-ual-ibkr.html",
+    "published": "Tue, 20 Jan 2026 22:45:22 CST",
+    "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
+  },
+  {
+    "title": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not To.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Fbessent-powell-supreme-court-fed.html",
+    "published": "Tue, 20 Jan 2026 22:44:36 CST",
+    "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
+  },
+  {
+    "title": "Netflix sweetens Warner Bros bid with all-cash offer to block Paramount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F20%2Fnetflix-sweetens-warner-bros-bid-all-cash-offer-block-paramount",
+    "published": "Tue, 20 Jan 2026 22:29:15 CST",
+    "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Asian Stocks Set to Fall as Global Selloff Deepens: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
+    "published": "Tue, 20 Jan 2026 22:25:10 CST",
+    "summary": "Asian stocks looked set to decline Wednesday, tracking Wall Street losses as\nfears of an escalating US trade conflict with Europe and turmoil in Japanese\nbond markets rattled global investors.\n\n"
   },
   {
     "title": "Broker Clear Street Files for IPO Showing Revenue, Profit Surge",
@@ -18,10 +114,10 @@
     "summary": "Securities and derivatives broker Clear Street Group Inc. filed for an initial\npublic offering, disclosing a sizable jump in both its revenue and profit.\n\n"
   },
   {
-    "title": "Tricolor Founder Faces Creditors, Declines to Answer Questions",
+    "title": "Tricolor’s Founder Declines Over 100 Times to Discuss Its Demise",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftricolor-founder-faces-creditors-declines-to-answer-questions",
     "published": "Tue, 20 Jan 2026 22:17:55 CST",
-    "summary": "The founder of bankrupt subprime auto lender Tricolor Holdings didn’t answer\nquestions about the implosion of the company, citing his right to avoid\nincriminating himself in the face of criminal charges.\n\n"
+    "summary": "For five hours, lawyers for creditors pressed Daniel Chu again and again on\nTuesday for details on the collapse of his subprime auto-loan business\nTricolor Holdings.\n\n"
   },
   {
     "title": "Deal-Starved SPACs Flood Market in 2026 Following Bonanza Year",
@@ -48,10 +144,10 @@
     "summary": "John Belton of Gabelli Funds reacts to Netflix's fourth-quarter earnings on\n\"Bloomberg The Close.\" He says the top-line numbers look generally healthy,\nbut margin guidance is disappointing. The streaming leader says it plans to\nincrease spending on films and TV shows by 10% in 2026 while forging ahead\nwith plans to buy the studio and streaming business of Warner Bros. Discovery.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Stocks making the biggest moves after hours: Netflix, United Airlines, Interactive Brokers and more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-after-hours-nflx-ual-ibkr.html",
-    "published": "Tue, 20 Jan 2026 21:53:42 CST",
-    "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
+    "title": "Wall Street sees worst day since October after Trump tariff threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F20%2Fstock-markets-trump-greenland-tariff-ftse-100-gold",
+    "published": "Tue, 20 Jan 2026 21:53:57 CST",
+    "summary": "Sell-off hits US stocks in first trading day since president threatened\ntariffs against eight countries\n\nStock markets fell on both sides of the Atlantic on Tuesday, with Wall Street\nsuffering its worst day since October, as investor concerns persisted over the\nfallout from Donald Trump’s push for US control of Greenland.\n\nThe sell-off hit US stocks on the first day of trading in New York since Trump\nthreatened new tariffs on eight European countries, after the market was\nclosed for a public holiday on Monday. The S&P 500 closed down 2.1% while the\nDow Jones finished down 1.8%.\n\nContinue reading...\n\n"
   },
   {
     "title": "HSBC Warns Yen’s Surging Risk Premium Has Few Easy Fixes",
@@ -78,10 +174,10 @@
     "summary": "Zipline, a drone delivery and logistics startup, has raised more than $600\nmillion in new funding, boosting its valuation to $7.6 billion, as it expands\ncommercial deployments.\n\n"
   },
   {
-    "title": "Rio Tinto Copper Output Climbs as Oyu Tolgoi Ramps Up",
+    "title": "Rio Tinto Copper Output Climbs as Oyu Tolgoi Mine Ramps Up",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frio-tinto-pilbara-iron-ore-shipments-rise-to-record",
     "published": "Tue, 20 Jan 2026 21:39:43 CST",
-    "summary": "Rio Tinto Group’s copper production, a key plank of the miner’s growth plans,\nclimbed 5% in the fourth quarter thanks to the continued expansion of its\noperation at Oyu Tolgoi in Mongolia, while iron ore production at its core\nPilbara operations hit a record in the last three months of the year.\n\n"
+    "summary": "Rio Tinto Group’s copper production climbed 5% in the fourth quarter thanks to\nthe expansion of underground operations at Oyu Tolgoi in Mongolia, while its\ncore Pilbara iron ore mines hit a record in the last three months of the year.\n\n"
   },
   {
     "title": "KKR on Track to Beat $20 Billion Target for Americas Buyout Fund",
@@ -96,12 +192,6 @@
     "summary": "The S&P 500 dropped over 2 percent on Tuesday, its biggest decline since\nOctober.\n\n"
   },
   {
-    "title": "ECB’s Lagarde Says Uncertainty Is Back Amid Latest Trump Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fecb-s-lagarde-says-uncertainty-is-back-amid-latest-trump-threats",
-    "published": "Tue, 20 Jan 2026 21:29:36 CST",
-    "summary": "European Central Bank President Christine Lagarde said uncertainty has\nreturned due to the latest tariff threats by Donald Trump.\n\n"
-  },
-  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Tue, 20 Jan 2026 21:13:51 CST",
@@ -114,12 +204,6 @@
     "summary": "President Trump may be on the verge of having his authority on imposing\ntariffs curtailed, but that hasn’t slowed down his threats.\n\n"
   },
   {
-    "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html",
-    "published": "Tue, 20 Jan 2026 21:01:08 CST",
-    "summary": "Netflix will pay all cash for the $83 billion deal to acquire major parts of\nWarner Bros. Discovery, instead of a mix of cash and stock.\n\n"
-  },
-  {
     "title": "Netflix to Boost Program Spending in 2026, Crimping Profit",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-to-boost-spending-on-programs-in-2026-crimping-profit",
     "published": "Tue, 20 Jan 2026 21:01:06 CST",
@@ -130,42 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html",
     "published": "Tue, 20 Jan 2026 20:59:43 CST",
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
-    "title": "Boeing Shares Finally Recoup Losses From 2024 Midair Fiasco",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fboeing-shares-on-pace-to-recoup-losses-from-2024-midair-fiasco",
-    "published": "Tue, 20 Jan 2026 20:53:28 CST",
-    "summary": "Boeing Co. shares have recouped their losses following the midair near-\ndisaster involving one of the company’s jets in January 2024, a sign that\ninvestors continue to gain confidence in a turnaround under Chief Executive\nOfficer Kelly Ortberg.\n\n"
-  },
-  {
-    "title": "JPMorgan's Michele Sees No Alternative to US Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fjpmorgan-s-michele-sees-no-alternative-to-us-debt-video",
-    "published": "Tue, 20 Jan 2026 20:42:18 CST",
-    "summary": "\"I don't think there will be wholesale selling of US Treasury debt,\" Bob\nMichele, JPMorgan Asset Management CIO and global head of fixed income, says\non Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Bolivia Tightens Gold Buying Rules After Past Irregularities",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fbolivia-tightens-gold-buying-rules-after-past-irregularities",
-    "published": "Tue, 20 Jan 2026 20:41:37 CST",
-    "summary": "Bolivia’s central bank has resumed purchases of domestically mined gold to\nbolster foreign reserves, introducing a new US dollar reference price and\nstricter guidelines to avoid irregularities.\n\n"
-  },
-  {
-    "title": "EQT Plans to Roll Existing Venture Capital Stakes Into New Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Feqt-plans-to-roll-existing-venture-capital-stakes-into-new-fund",
-    "published": "Tue, 20 Jan 2026 20:28:04 CST",
-    "summary": "Private equity firm EQT AB is looking to shift assets in its first venture\nfund into a new vehicle amid the expansion of the secondary market for startup\nstakes.\n\n"
-  },
-  {
-    "title": "Goldman's Kaplan Sees Fed Maintaining Its Independence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fgoldman-s-kaplan-says-fed-at-about-neutral-cut-unlikely-video",
-    "published": "Tue, 20 Jan 2026 20:27:36 CST",
-    "summary": "Goldman Sachs Vice Chairman Robert Kaplan says all of the candidates to\nreplace Federal Reserve Chair Jerome Powell \"can do it.\" Speaking with Julie\nFine, Kaplan also says Fed rates are \"at about neutral\" and discusses the\neconomic impact of tariffs. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "GoldenTree Makes $200 Million Bet on Saks Bankruptcy Rescue Loan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgoldentree-makes-200-million-bet-on-saks-bankruptcy-rescue-loan",
-    "published": "Tue, 20 Jan 2026 20:25:54 CST",
-    "summary": "GoldenTree Asset Management will buy a chunk of a $1 billion bankruptcy\nfinancing for Saks Global Enterprises, in a bet that the iconic department\nstore will make it through Chapter 11 and chart a path forward.\n\n"
   },
   {
     "title": "Joe Montgomery, Who Made Bicycles Lighter, Dies at 86",
@@ -216,34 +264,10 @@
     "summary": "The Trump administration’s IRS chief, Frank Bisignano, is reorganizing the tax\nagency ahead of the upcoming tax filing season.\n\n"
   },
   {
-    "title": "Coinbase CEO on the Future of Digital Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fcoinbase-ceo-on-the-future-of-digital-assets-video",
-    "published": "Tue, 20 Jan 2026 18:30:38 CST",
-    "summary": "Brian Armstrong, Co-Founder & CEO of Coinbase, discusses the Trump-backed\ncrypto bill and the long-term role of digital assets in expanding access to\ninvesting worldwide with Bloomberg’s Emily Chang at Bloomberg House in Davos\non the sidelines of the 2026 World Economic Forum. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Nome, Alaska Is Now Key to Trump’s Global Ambitions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html",
     "published": "Tue, 20 Jan 2026 18:16:33 CST",
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
-  },
-  {
-    "title": "Europe condemns Trump’s ‘new colonialism’ as Greenland crisis grows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F20%2Ftrump-tariffs-over-greenland-are-an-error-says-ursula-von-der-leyen",
-    "published": "Tue, 20 Jan 2026 17:38:38 CST",
-    "summary": "US president says there is ‘no going back’ on goal of controlling Arctic\nterritory as Emmanuel Macron leads European resistance\n\n  * Europe live – latest updates\n\nEuropean leaders have lined up to condemn Donald Trump’s “new colonialism” and\nwarn that the continent was facing a crossroads as the US president said there\nwas no going back on his goal of controlling Greenland.\n\nAfter weeks of aggressive threats by Trump to seize the vast Arctic island,\nwhich is a largely autonomous part of Denmark, Emmanuel Macron, the French\npresident, said on Tuesday he preferred “respect to bullies” and the “rule of\nlaw to brutality”.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Fbessent-powell-supreme-court-fed.html",
-    "published": "Tue, 20 Jan 2026 17:37:01 CST",
-    "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
-  },
-  {
-    "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
-    "published": "Tue, 20 Jan 2026 17:02:04 CST",
-    "summary": "The president has whittled down the field to four candidates, Bessent told\nCNBC during an interview at the World Economic Forum in Switzerland.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
@@ -288,10 +312,16 @@
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
   },
   {
-    "title": "Netflix sweetens Warner Bros bid with all-cash offer to block Paramount",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F20%2Fnetflix-sweetens-warner-bros-bid-all-cash-offer-block-paramount",
-    "published": "Tue, 20 Jan 2026 13:35:00 CST",
-    "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
+    "title": "Japan’s Katayama Calls for Market Calm After Bond Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapan-s-katayama-calls-for-market-calm-after-bond-selling-storm",
+    "published": "Tue, 20 Jan 2026 14:12:16 CST",
+    "summary": "Japanese Finance Minister Satsuki Katayama called on market participants to\ncalm down after an intense day of bond selling pushed up long-term government\ndebt yields to the highest levels in decades with ripples reaching other\nglobal markets.\n\n"
+  },
+  {
+    "title": "China Defends Economic Model at Davos, Aims to Be World’s Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-defends-economic-model-at-davos-aims-to-be-world-s-market",
+    "published": "Tue, 20 Jan 2026 13:23:18 CST",
+    "summary": "Chinese Vice Premier He Lifeng stepped up a defense of his country’s economic\ntrack record, dangling the prospect of greater access to its domestic market\nto reduce imbalances in trade.\n\n"
   },
   {
     "title": "The Trump Drama Hits Davos",
@@ -300,28 +330,16 @@
     "summary": "Greenland, tariffs and wobbling markets are the talk of the town at the World\nEconomic Forum ahead of the president’s arrival on Wednesday.\n\n"
   },
   {
-    "title": "Treasuries, Stocks Sell Off as Greenland and Japan Shatter Calm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fwall-street-s-calm-shattered-by-greenland-and-japan-shocks",
-    "published": "Tue, 20 Jan 2026 13:02:02 CST",
-    "summary": "For weeks on Wall Street, markets were unusually subdued as President Donald\nTrump threatened the post-war order by asserting US dominance of the Western\nhemisphere.\n\n"
-  },
-  {
-    "title": "Natural Gas Jumps Most in 4 Years as Arctic Blast Descends on US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnatural-gas-surges-24-as-forecasts-show-arctic-blast-across-us",
-    "published": "Tue, 20 Jan 2026 12:41:14 CST",
-    "summary": "US natural gas futures closed way up Tuesday as forecasts turned much colder\nover the long holiday weekend in the US, calling for a deep freeze to grip\nmuch of the country during the weeks ahead.\n\n"
-  },
-  {
-    "title": "US Stocks Erase 2026 Gains on Tariff Fears, Global Bond Rout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fus-stock-futures-drop-as-greenland-threats-stoke-trade-worries",
-    "published": "Tue, 20 Jan 2026 12:31:15 CST",
-    "summary": "US stocks erased their year-to-date gains amid worries over a full-blown trade\nwar with Europe and a selloff in Japanese bonds that sent US Treasury yields\nhigher.\n\n"
-  },
-  {
     "title": "GSK to buy food allergy drug maker RAPT in $2.2bn deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F20%2Fgsk-buy-food-allergy-drug-maker-rapt-us-biotech",
     "published": "Tue, 20 Jan 2026 12:20:22 CST",
     "summary": "US-based biotech firm is developing treatment for allergies to nuts, milk and\neggs in children and adults\n\n  * Business live – latest updates\n\nGSK, the UK’s second-biggest drugmaker, has unveiled a $2.2bn (£1.6bn) deal to\nacquire a Californian biotech company which is developing a drug to protect\nagainst severe food allergies, including allergies to nuts, milk and eggs.\n\nIt is the first large deal announced by GSK’s new chief executive, Luke Miels,\nwho joined the London-based company in 2017 as chief commercial officer and\ntook the reins from Emma Walmsley at the start of the year.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Netflix Amends Warner Bros. Deal to All Cash in Bidding War",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-sweetens-warner-bros-terms-to-all-cash-in-bidding-war",
+    "published": "Tue, 20 Jan 2026 12:01:20 CST",
+    "summary": "Netflix Inc. reached an amended, all-cash agreement to buy Warner Bros.\nDiscovery Inc.’s studio and streaming business as it battles Paramount\nSkydance Corp. to acquire one of Hollywood’s most iconic entertainment\ncompanies.\n\n"
   },
   {
     "title": "Economic blackout day planned in Minnesota to protest ICE surge",
@@ -342,28 +360,10 @@
     "summary": "Spot copper prices surged to trade at a huge premium over later-dated futures\non the London Metal Exchange, with a closely watched one-day spread reaching\nlevels not seen since an historic supply squeeze in 2021.\n\n"
   },
   {
-    "title": "Trump’s First Year Could Have Lasting Economic Consequences",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html",
-    "published": "Tue, 20 Jan 2026 10:02:46 CST",
-    "summary": "President Trump’s policies have so far done little to change the overall state\nof the American economy, but economists warn they will ultimately weaken the\nUnited States.\n\n"
-  },
-  {
     "title": "They’ve outsourced the worst parts of their jobs to tech. How you can do it, too.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fai-tips-for-work%2F",
     "published": "Tue, 20 Jan 2026 10:00:00 CST",
     "summary": "New to AI? Here are five tips to make you more productive at work.\n\n"
-  },
-  {
-    "title": "Dollar Falls as Trump’s Greenland Push Heightens Trade Tensions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fdollar-hits-two-week-low-as-tariff-threats-stoke-volatility",
-    "published": "Tue, 20 Jan 2026 09:38:34 CST",
-    "summary": "The dollar fell to its lowest level in two weeks and traders sought protection\nagainst further currency swings as President Donald Trump’s new tariff threats\nas part of his campaign to take control of Greenland sparked fears of a major\ntrade confrontation with Europe.\n\n"
-  },
-  {
-    "title": "China’s Soy Purchases Hit 12 Million Tons to Meet US Pledge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-reaches-12-million-tons-of-soy-purchases-to-meet-us-pledge",
-    "published": "Tue, 20 Jan 2026 02:43:15 CST",
-    "summary": "China has purchased roughly 12 million tons of US soybeans in the last three\nmonths, clearing a closely watched trade hurdle and meeting a key pledge\noutlined by the Trump administration in November.\n\n"
   },
   {
     "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
