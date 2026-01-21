@@ -1,5 +1,77 @@
 [
   {
+    "title": "Netflix posts narrow earnings beat, reports 325 million global subscribers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html",
+    "published": "Wed, 21 Jan 2026 19:49:07 CST",
+    "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a\nParamount Skydance hostile takeover attempt.\n\n"
+  },
+  {
+    "title": "Supreme Court Seems Poised to Reject Trump’s Attempt to Immediately Fire a Fed Governor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html",
+    "published": "Wed, 21 Jan 2026 19:41:58 CST",
+    "summary": "During arguments, key justices appeared concerned that president’s efforts to\noust Lisa Cook could imperil the central bank’s independence.\n\n"
+  },
+  {
+    "title": "JPMorgan Becomes World’s Biggest Active ETF Firm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fjpmorgan-becomes-world-s-biggest-active-etf-firm-video",
+    "published": "Wed, 21 Jan 2026 19:41:32 CST",
+    "summary": "JPMorgan Asset Management hails as the world’s largest issuer of actively\nmanaged exchange-traded funds. The bank’s asset management arm currently\ncontrols nearly $257 billion in active ETFs worldwide, according to data\ncompiled by Bloomberg. Jed Laskowitz, Global Head of Private Markets and\nCustomized Solutions at JPMorgan Asset Management tells Bloomberg he sees a\nsupportive backdrop for markets, with US investors continuing to diversify\ninto international and emerging markets. He joined the conversation on\n\"Bloomberg ETF IQ\" with Scarlet Fu, Katie Greifeld and Eric Balchunas.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Washington Post demands government return electronics seized in raid of reporter’s home",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fwashington-post-reporter-fbi-search",
+    "published": "Wed, 21 Jan 2026 19:34:50 CST",
+    "summary": "The paper says ‘outrageous seizure’ of Hannah Natanson’s devices threatens\npress freedom\n\nThe Washington Post has asked a federal court in Virginia to force the US\ngovernment to return materials belonging to reporter Hannah Natanson, whose\napartment was raided last week.\n\nNatanson, who has closely reported on the ways in which the Trump\nadministration has reshaped the federal government, had two laptops, two\nphones, a Garmin watch and other devices seized as part of an investigation\ninto a government contractor’s alleged retention of classified materials, an\naction that press freedom groups decried as highly unusual and wildly\ninappropriate.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "A $6 Billion Treasury ETF Becomes Test Bed for Tokenized Finance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fa-6-billion-treasury-etf-becomes-test-bed-for-tokenized-finance",
+    "published": "Wed, 21 Jan 2026 19:25:51 CST",
+    "summary": "One of Wall Street’s most regulated asset classes is being pulled into the\norbit of digital finance.\n\n"
+  },
+  {
+    "title": "Tokenization Powering NYSE's New 24/7 Trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftokenization-powering-nyse-s-new-24-7-trading-video",
+    "published": "Wed, 21 Jan 2026 19:23:58 CST",
+    "summary": "The New York Stock Exchange is building a venue to allow for trading stocks\nand ETFs around the clock. Michael Blaugrund, VP of Strategic Initiatives at\nICE, discusses how blockchain technology and tokenization are behind the move.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Job Applicants Sue A.I. Recruitment Tool Company",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fai-hiring-tools-lawsuit-eightfold-fcra.html",
+    "published": "Wed, 21 Jan 2026 19:23:43 CST",
+    "summary": "A recently filed lawsuit claims the ratings assigned by A.I. screening\nsoftware are similar to those of a credit agency and should be subject to the\nsame laws.\n\n"
+  },
+  {
+    "title": "Matt Tuttle Talks Income ETFs And His UFO Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fmatt-tuttle-talks-income-etfs-and-his-ufo-fund-video",
+    "published": "Wed, 21 Jan 2026 19:22:22 CST",
+    "summary": "Tuttle Capital Management announced the launch of the Tuttle Capital Meme\nStock Income Blast ETF. Matt Tuttle, CEO & CIO of Tuttle Capital tells\nBloomberg that demand for income-driven products is surging as investors look\nbeyond traditional yields. He says interest in options-based income\nstrategies, thematic ETFs, and unconventional ideas reflects a market eager\nfor differentiated exposure. He joined the conversation on \"Bloomberg ETF IQ\"\nwith Scarlet Fu, Katie Greifeld and Eric Balchunas. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Greenland Tensions Rattle Global Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fgreenland-stocks-bonds-dollar-gold.html",
+    "published": "Wed, 21 Jan 2026 19:13:52 CST",
+    "summary": "Stocks in the U.S. stabilized on Wednesday after an earlier slump had spilled\ninto markets in Asia and Europe, ending a period of relative calm.\n\n"
+  },
+  {
+    "title": "JPM's Success As Active ETF Mngr, NYSE Builds for 24/7 Trading of Tokenized ETFs | ETF IQ 1/21/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fetf-iq-1-21-2026-video",
+    "published": "Wed, 21 Jan 2026 19:06:55 CST",
+    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied\nto the trillions of dollars in the global exchange traded funds industry.\nToday's guests: JPMorgan Asset Management Global Head of Private Markets and\nCustomized Solutions Jed Laskowitz, Intercontinental Exchange Vice President\nof Strategic Initiatives Michael Blaugrund and Tuttle Capital Management CEO\nand CIO Matt Tuttle. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fed’s Balance Sheet Is Point of Tension as Trump Weighs Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffed-s-balance-sheet-is-point-of-tension-as-trump-weighs-chair",
+    "published": "Wed, 21 Jan 2026 19:01:20 CST",
+    "summary": "A key question is emerging as investors await President Donald Trump’s nominee\nas the next Federal Reserve chair -- how the candidate will manage the central\nbank’s $6.6 trillion balance sheet.\n\n"
+  },
+  {
+    "title": "Private Equity CEO Urges Europe to Look East as Pressures Mount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fprivate-equity-ceo-urges-europe-to-look-east-as-pressures-mount",
+    "published": "Wed, 21 Jan 2026 18:57:43 CST",
+    "summary": "European companies should look to Asia to sustain growth as pressures mount at\nhome, according to Frank Tang, chief executive officer of private equity firm\nFountainVest Partners.\n\n"
+  },
+  {
     "title": "Mediaite Starts a Newsletter to Summarize Media Newsletters",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html",
     "published": "Wed, 21 Jan 2026 18:57:30 CST",
@@ -16,12 +88,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
     "published": "Wed, 21 Jan 2026 18:52:19 CST",
     "summary": "Conservative and liberal judges questioned administration over president’s\nauthority to fire without due process\n\n  * US politics – live updates\n\nUS supreme court justices appeared skeptical of Donald Trump’s case for firing\na Federal Reserve governor on Wednesday, in a key test of the president’s\npower – and his administration’s battle to exert greater control over the US\ncentral bank.\n\nFive months after Trump tried to fire Lisa Cook over apparent discrepancies on\nmortgage applications his officials claim are evidence of fraud, both\nconservative and liberal justices grilled the administration over whether the\nUS president has the power to fire a Fed governor with seemingly no process.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Davos live: Denmark welcomes Trump ruling out force to take Greenland but cautions ‘challenge is still there’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates",
-    "published": "Wed, 21 Jan 2026 18:52:11 CST",
-    "summary": "Rolling coverage of the World Economic Forum in Davos, where the US president\ndelivered a speech to world leaders\n\n  * Trump steps up demand to annex Greenland but rules out using force\n\n  * Middle powers assemble? Trump disorder prompts talk of new liberal alliances\n\n _Q: Is the US worried that institutional investors in Europe might pull out\nof the US Treasury market, such as pension funds in Denmark?_\n\n**Bessent** brushes this aside, saying\n\nThe size of Denmark’s investment in US Treasury bonds, like Denmark itself, is\nirrelevant.\n\nIt is less than $100 million.\n\nThey’ve been selling Treasuries for years. I’m not concerned at all.\n\nContinue reading...\n\n"
   },
   {
     "title": "‘Adaptive Normalcy’ as the Trump Show Arrives at Davos",
@@ -84,12 +150,6 @@
     "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish on Buffett's otherwise storied record.\n\n"
   },
   {
-    "title": "Supreme Court Appears Poised to Reject Trump’s Attempt to Immediately Fire a Fed Governor",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html",
-    "published": "Wed, 21 Jan 2026 17:16:49 CST",
-    "summary": "During arguments Wednesday, key justices appeared concerned that president’s\nefforts to oust Lisa Cook could imperil the central bank’s independence.\n\n"
-  },
-  {
     "title": "Citael's Griffin on the New Financial Landscape",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fcitael-s-griffin-on-the-new-financial-landscape-video",
     "published": "Wed, 21 Jan 2026 17:06:45 CST",
@@ -136,36 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmen-s-wearhouse-slaps-a-10-yield-on-junk-bond-to-fund-dividend",
     "published": "Wed, 21 Jan 2026 16:24:23 CST",
     "summary": "Men’s Wearhouse has begun marketing a $400 million junk bond, offering one of\nthe highest yields of the year, as the clothing retailer seeks funds to pay\nowners following one of the busiest periods ever for debt-funded dividends.\n\n"
-  },
-  {
-    "title": "Zambia Lifts Foreign Bond Cap Ahead of $1 Billion Debt Wall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fzambia-lifts-foreign-bond-cap-ahead-of-1-billion-debt-wall",
-    "published": "Wed, 21 Jan 2026 16:21:43 CST",
-    "summary": "Zambia has more than quadrupled the cap on local-currency bonds that foreign\ninvestors can buy, a move that may reduce rollover risk as about $1.16 billion\nin debt payments fall due this year.\n\n"
-  },
-  {
-    "title": "Greenland Tensions Rattle Global Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fgreenland-stocks-bonds-dollar-gold.html",
-    "published": "Wed, 21 Jan 2026 16:17:40 CST",
-    "summary": "Stocks in the U.S. stabilized on Wednesday after an earlier slump had spilled\ninto markets in Asia and Europe, ending a period of relative calm.\n\n"
-  },
-  {
-    "title": "Hot Dog Maker Nathan’s to Be Bought by Pork Producer Smithfield",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fhot-dog-maker-nathan-s-to-be-bought-by-pork-producer-smithfield",
-    "published": "Wed, 21 Jan 2026 16:10:04 CST",
-    "summary": "Smithfield Foods Inc. said it would acquire legendary hot dog brand Nathan’s\nFamous in a deal valued at about $450 million, securing the rights to a key\nproduct in its business’s largest segment.\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/21/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbloomberg-surveillance-1-21-2026-video",
-    "published": "Wed, 21 Jan 2026 16:04:52 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Canada’s Pipeline Problem Returns as Oil Sands Output Surges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fcanada-s-pipeline-problem-returns-as-oil-sands-output-surges",
-    "published": "Wed, 21 Jan 2026 16:04:35 CST",
-    "summary": "The Canadian oil industry’s two-year reprieve from pipeline bottlenecks may be\nnearing an end as global crude glut weighs on prices.\n\n"
   },
   {
     "title": "David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega",
@@ -246,12 +276,6 @@
     "summary": "Banks including Royal Bank of Canada kicked off the sale of $1.25 billion of\nloans tied to Investindustrial’s takeover of TreeHouse Foods Inc, a US food\nand beverage producer that supplies Walmart Inc. private-label products.\n\n"
   },
   {
-    "title": "Quants in Worst Losses Since October as Crowded Bets Buckle",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fquants-in-worst-drawdown-since-october-as-crowded-bets-buckle",
-    "published": "Wed, 21 Jan 2026 13:11:08 CST",
-    "summary": "Quant hedge funds are kicking off the year in the red, as setbacks in crowded\nUS stocks clobbered the strategies, reviving concerns about volatile returns\nin the sector.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
     "published": "Wed, 21 Jan 2026 13:04:03 CST",
@@ -262,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
     "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Lead Edge Capital Founder on Investing in China",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Flead-edge-capital-founder-green-on-investing-in-china-video",
-    "published": "Wed, 21 Jan 2026 12:13:13 CST",
-    "summary": "Lead Edge Capital Founder Mitchell Green speaks to Bloomberg Surveillance in\nDavos. Green discusses growth in China, the US-China AI race, and the wider US\ntech economy. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Why sticking to your savings plan beats panic buying gold or crypto",
@@ -312,12 +330,6 @@
     "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
   },
   {
-    "title": "The Asia Trade 1/21/26",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-asia-trade-1-21-26-video",
-    "published": "Wed, 21 Jan 2026 04:00:47 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Correct: video has been edited to remove UBS Chief Executive Officer Sergio\nErmotti's misstatement of 25 million new millionaires in the US last year.)\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Nearly 400 millionaires and billionaires call for higher taxes on super-rich",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F21%2Fmillionaires-billionaires-taxes-super-rich-mark-ruffalo-wef-davos",
     "published": "Wed, 21 Jan 2026 00:01:47 CST",
@@ -354,12 +366,6 @@
     "summary": "President Trump’s policies have so far done little to change the overall state\nof the American economy, but economists warn they will ultimately weaken the\nUnited States.\n\n"
   },
   {
-    "title": "Netflix posts narrow earnings beat, reports 325 million global subscribers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html",
-    "published": "Tue, 20 Jan 2026 22:47:03 CST",
-    "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a\nParamount Skydance hostile takeover attempt.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: Netflix, United Airlines, Interactive Brokers and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-after-hours-nflx-ual-ibkr.html",
     "published": "Tue, 20 Jan 2026 22:45:22 CST",
@@ -378,10 +384,10 @@
     "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Wall Street Sees Cautious Bounce on Trump’s Tone: Markets Wrap",
+    "title": "Stocks Surge on Trump’s Claim of Deal on Greenland: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "Tentative calm was restored to Wall Street after the worst day for markets\nsince April, with Donald Trump’s disavowal of force in his quest for Greenland\npushing up stocks and a halting slide in bonds.\n\n"
+    "summary": "Speculative spirits were restored on Wall Street after a one-day selloff,\nfueled by hopes for a solution in Donald Trump’s ambitions for Greenland that\nwould avoid tariffs. Stocks spiked and Treasuries gained after the president\nsaid he reached a reached the framework of a deal with NATO.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -712,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftech-firms-ai-retailers.html",
     "published": "Sat, 17 Jan 2026 10:02:21 CST",
     "summary": "Stores of all kinds are using artificial intelligence to sell everything from\nluxury handbags to hay for horses.\n\n"
-  },
-  {
-    "title": "‘Punched in the Face’ by a Rail Disaster, an Ohio Town Fights Its Way Back",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Feast-palestine-norfolk-southern-derailment.html",
-    "published": "Sat, 17 Jan 2026 10:00:56 CST",
-    "summary": "Residents and officials are still trying to revitalize East Palestine nearly\nthree years after a derailment and chemical burn.\n\n"
   },
   {
     "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has 'solid' launch",
