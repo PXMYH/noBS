@@ -1,9 +1,99 @@
 [
   {
+    "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
+    "published": "Wed, 21 Jan 2026 14:47:27 CST",
+    "summary": "JPMorgan Chase CEO Jamie Dimon on Wednesday advocated for a test of President\nDonald Trump's proposed credit card rate cap in Vermont and Massachusetts.\n\n"
+  },
+  {
+    "title": "Ineos Bonds Rise on Report Firm Nears New Financing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fineos-bonds-rise-on-report-firm-nears-new-financing",
+    "published": "Wed, 21 Jan 2026 14:45:45 CST",
+    "summary": "Ineos’s bonds rose on Wednesday as the chemicals giant is reportedly close to\na deal to shore up its cash position and address a bond due in little less\nthan a year.\n\n"
+  },
+  {
+    "title": "Davos live: Trump rules out taking Greenland by force but calls for ‘immediate negotiations’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates",
+    "published": "Wed, 21 Jan 2026 14:42:59 CST",
+    "summary": "Rolling coverage of the World Economic Forum in Davos, where the US president\nis addressing world leaders\n\n _Q: Is the US worried that institutional investors in Europe might pull out\nof the US Treasury market, such as pension funds in Denmark?_\n\n**Bessent** brushes this aside, saying\n\nThe size of Denmark’s investment in US Treasury bonds, like Denmark itself, is\nirrelevant.\n\nIt is less than $100 million.\n\nThey’ve been selling Treasuries for years. I’m not concerned at all.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Stocks Rebound as Trump Expounds on Greenland, Equity Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstocks-rebound-as-trump-expounds-on-greenland-equity-market",
+    "published": "Wed, 21 Jan 2026 14:40:23 CST",
+    "summary": "US equities reversed early losses during Donald Trump’s speech at the World\nEconomic Forum in Davos when the US president said he didn’t want to use\nexcessive force to acquire Greenland.\n\n"
+  },
+  {
+    "title": "Reliance Resumes Russian Crude Buying After Sanctions Pause",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Freliance-resumes-russian-crude-buying-after-sanctions-pause",
+    "published": "Wed, 21 Jan 2026 14:39:37 CST",
+    "summary": "Reliance Industries Ltd. has placed orders for non-sanctioned Russian crude\nfor delivery in February and March, according to a person familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "The surprising windfall that airlines could reap from weight-loss drugs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F21%2Fweight-loss-drugs-airlines-fuel-savings%2F",
+    "published": "Wed, 21 Jan 2026 14:36:54 CST",
+    "summary": "A new report suggests that U.S. airlines could save millions in fuel costs as\nmore Americans slim down with the help of weight-loss drugs.\n\n"
+  },
+  {
+    "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
+    "published": "Wed, 21 Jan 2026 14:34:17 CST",
+    "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish in Buffett's otherwise storied record.\n\n"
+  },
+  {
+    "title": "Citi Sees Romanian Bonds Extending Gains With Focus on Deficit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fciti-sees-romanian-bonds-extending-gains-with-focus-on-deficit",
+    "published": "Wed, 21 Jan 2026 14:33:51 CST",
+    "summary": "Romanian government bonds are likely to extend their advance this year as the\ncountry works to reduce the budget deficit and inflation is expected to move\ncloser to target, according to economists at Citigroup Inc. and ING Groep NV.\n\n"
+  },
+  {
+    "title": "Vape Firm That Boasted of $1 Billion in Revenue Sold for £76,500",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fvape-firm-that-boasted-of-1-billion-in-revenue-sold-for-76-500",
+    "published": "Wed, 21 Jan 2026 14:30:18 CST",
+    "summary": "A UK vaping company that boasted of $1 billion in revenue two years ago has\nbeen bought out of administration for just £76,500 ($102,000) after multiple\nfunding rounds failed to draw investment and cash ran dry.\n\n"
+  },
+  {
+    "title": "Popular Bond Bet Is Turbocharged by Simmering Greenland Tension",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fpopular-bond-bet-is-turbocharged-by-simmering-greenland-tension",
+    "published": "Wed, 21 Jan 2026 14:25:59 CST",
+    "summary": "Investors are giving one of last year’s most popular bond trades a second look\nas simmering geopolitical tensions and deficit worries trigger a fresh bout of\nweakness in long-dated debt.\n\n"
+  },
+  {
+    "title": "Trump Says Europe Is Not Heading in the Right Direction",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-says-europe-is-not-heading-in-the-right-direction-video",
+    "published": "Wed, 21 Jan 2026 14:18:47 CST",
+    "summary": "“I love Europe, and I want to see Europe go good, but it’s not heading in the\nright direction,” President Donald Trump said during his address to the World\nEconomic Forum's annual meeting in Davos, Switzerland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "AI ‘Contagion Channels’ Show Huge Economic Risk If Bubble Bursts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fai-contagion-channels-show-huge-economic-risk-if-bubble-bursts",
+    "published": "Wed, 21 Jan 2026 14:15:00 CST",
+    "summary": "Investors have poured billions of dollars into companies leading the\nartificial intelligence boom, and a sharp drop in valuations would have dire\nconsequences for the credit market and the broader US economy, according to\nMoody’s Ratings.\n\n"
+  },
+  {
+    "title": "Commerzbank Analyst Flags Sanction Risk for Treasury Holders",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fcommerzbank-analyst-flags-us-sanction-risk-for-treasury-holders",
+    "published": "Wed, 21 Jan 2026 14:14:31 CST",
+    "summary": "An escalation in US-European tensions over President Donald Trump’s claim to\nGreenland increases the risk of sanctions that could impact US Treasury\nholders in the European Union, according to a Commerzbank AG analyst.\n\n"
+  },
+  {
+    "title": "Trump’s Power Over Fed Is Tested at US Supreme Court",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-21%2Flisa-cook-hearing-at-us-supreme-court",
+    "published": "Wed, 21 Jan 2026 14:12:47 CST",
+    "summary": "Federal Reserve governor Lisa Cook and attorney Abbe Lowell arrive at the\nSupreme Court in Washington on Jan. 21. Photographer: Mark Schiefelbein/AP\nPhoto\n\n"
+  },
+  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Wed, 21 Jan 2026 14:02:02 CST",
     "summary": "The saga over President Donald Trump's efforts to reshape the Federal Reserve\nhas another twist.\n\n"
+  },
+  {
+    "title": "Banks Launch Debt Tied to Walmart Supplier Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbanks-launch-1-8-billion-of-loans-tied-to-walmart-supplier-deal",
+    "published": "Wed, 21 Jan 2026 14:00:56 CST",
+    "summary": "Banks including Royal Bank of Canada launched a seven-year, $1.25 billion term\nloan tied to Investindustrial’s takeover of TreeHouse Foods Inc, a US food and\nbeverage producer that supplies Walmart Inc. private-label products.\n\n"
   },
   {
     "title": "Tankmaker KNDS Is Said to Pick Banks for IPO in Frankfurt, Paris",
@@ -28,12 +118,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fvenezuela-shock-threatens-to-deepen-alberta-s-budget-woes",
     "published": "Wed, 21 Jan 2026 13:38:45 CST",
     "summary": "Alberta is facing its toughest fiscal situation since the pandemic as a\npossible flood of Venezuelan oil depresses the price of heavy crude, one of\nthe Canadian province’s largest sources of revenue.\n\n"
-  },
-  {
-    "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
-    "published": "Wed, 21 Jan 2026 13:24:16 CST",
-    "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish in Buffett's otherwise storied record.\n\n"
   },
   {
     "title": "Sweden’s Alecta Sold Most of Its US Treasuries Since Early 2025",
@@ -66,10 +150,10 @@
     "summary": "BHP CEO Mike Henry discusses metal markets and the \"ubiquitous\" demand for\ncopper. He also talks about the company's portfolio and copper flows in the\nUS. Henry speaks on Bloomberg Television at the World Economic Forum's annual\nmeeting in Davos, Switzerland. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Katie Pavlich was a rising star at Fox News. Now she’s in primetime for NewsNation",
+    "title": "Katie Pavlich was a rising star at Fox News. Now she’s in prime time for NewsNation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
-    "summary": "Pavlich began hosting her own show for the upstart cable channel this week and\nbooked Trump on her second day\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship the Trump\nadministration to try to book key decision-makers on her new 10pm show, Katie\nPavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
+    "summary": "Pavlich began hosting her own show for the upstart cable channel this week and\nbooked Trump on her second day\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
   },
   {
     "title": "Australia Faces ‘Steep’ Debt Rise Without Budget Cuts, OECD Says",
@@ -78,88 +162,22 @@
     "summary": "Australia’s national debt will “rise rapidly” over coming years unless the\nLabor government is prepared to overhaul a sclerotic tax system to boost\nrevenue or cut spending to reflect its more constrained means, the\nOrganization for Economic Co-operation and Development said.\n\n"
   },
   {
-    "title": "India’s Economy Resilient, Driven by Domestic Demand, RBI Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findia-s-economy-resilient-driven-by-domestic-demand-rbi-says",
-    "published": "Wed, 21 Jan 2026 12:59:36 CST",
-    "summary": "India’s growth impulses remain buoyant and demand conditions upbeat, the\nReserve Bank of India said in its monthly bulletin.\n\n"
-  },
-  {
     "title": "‘Adaptive Normalcy’ as the Trump Show Arrives at Davos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html",
     "published": "Wed, 21 Jan 2026 12:55:15 CST",
     "summary": "The president’s address at the World Economic Forum in Switzerland has trading\npartners and business executives on edge.\n\n"
   },
   {
-    "title": "TCW CEO on Asset Owners 'Quiet Quitting' the US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftcw-ceo-on-asset-owners-quiet-quitting-the-us-video",
-    "published": "Wed, 21 Jan 2026 12:54:28 CST",
-    "summary": "TCW Group CEO Katie Koch speaks to Bloomberg Surveillance on the sidelines of\nthe World Economic Forum in Davos. Koch says she sees a marginal move away\nfrom US Treasury investments, but still sees upsides in US markets. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "TCW’s Koch Sees ‘Marginal Move Away’ From US Treasuries",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftcw-s-koch-sees-marginal-move-away-from-us-treasuries-video",
-    "published": "Wed, 21 Jan 2026 12:53:10 CST",
-    "summary": "Katie Koch, chief executive officer at TCW, says the investment community\nglobally is likely to shift its holdings away from US Treasuries and describes\nmoves by assets owners she’s met with as “quiet-quitting” of US bonds. Koch\nspeaks to Bloomberg Television on the sidelines of the 2026 World Economic\nForum in Davos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Chile’s Kast Backtracks on Mining Post, Creates Dual Ministry",
+    "title": "Kast Backtracks on Chile Mining Minister, Creates Dual Post",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchile-s-kast-backtracks-on-mining-post-creates-dual-ministry",
     "published": "Wed, 21 Jan 2026 12:41:13 CST",
-    "summary": "President-elect José Antonio Kast surprised Chile’s mining industry by folding\nmining into the economy ministry, abandoning plans to appoint a former BHP\nGroup executive as a standalone mining minister.\n\n"
-  },
-  {
-    "title": "French Skincare Firm L’Occitane Is Said to Pick Banks for US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffrench-skincare-firm-l-occitane-is-said-to-pick-banks-for-us-ipo",
-    "published": "Wed, 21 Jan 2026 12:30:53 CST",
-    "summary": "L’Occitane Groupe, the skincare retailer that was taken private by its\nbillionaire owner Reinold Geiger in 2024, is weighing an initial public\noffering in the US as soon as this year, people with knowledge of the matter\nsaid.\n\n"
-  },
-  {
-    "title": "There Are No Safe Assets But Diversify Anyway, Ermotti Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fthere-are-no-safe-assets-but-diversify-anyway-ermotti-says",
-    "published": "Wed, 21 Jan 2026 12:30:41 CST",
-    "summary": "Diversification is even more important now for investors, although there are\n“no safe assets,” according to UBS Group AG boss Sergio Ermotti.\n\n"
+    "summary": "President-elect José Antonio Kast surprised copper and lithium companies in\nChile by naming a single minister to oversee the mining and economy\nportfolios, abandoning plans to appoint a former BHP Group executive as a\nstandalone minister.\n\n"
   },
   {
     "title": "ECB’s Lagarde Left Davos Dinner After Lutnick Slammed Europe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fecb-s-lagarde-left-davos-vip-dinner-after-lutnick-slammed-europe",
     "published": "Wed, 21 Jan 2026 12:16:21 CST",
     "summary": "European Central Bank President Christine Lagarde abruptly walked out of an\ninvitation-only sit-down dinner in Davos after US Commerce Secretary Howard\nLutnick started laying into Europe, according to people familiar with the\nmatter.\n\n"
-  },
-  {
-    "title": "Gap Inc. CEO Richard Dickson on Sustainability",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fgap-inc-ceo-richard-dickson-on-sustainability-video",
-    "published": "Wed, 21 Jan 2026 12:15:02 CST",
-    "summary": "Gap Inc. CEO Richard Dickson speaks to Bloomberg Surveillance in Davos.\nDickson discusses consumer willingness to pay more for sustainable products,\nand explains Gap's new project with Water.org. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "RBC CEO David McKay on US Relations, Global Trade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Frbc-ceo-david-mckay-on-us-relations-global-trade-video",
-    "published": "Wed, 21 Jan 2026 12:13:22 CST",
-    "summary": "Royal Bank of Canada Chief Executive Officer David McKay explains how Canada\nhelps the US with affordability and discusses Canada’s efforts to diversify\nits global trade relationships, with a focus on the Middle East. He speaks to\nBloomberg Television on the sidelines of the 2026 World Economic Forum in\nDavos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Lead Edge Capital Founder Mitchell Green on Investing in China",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Flead-edge-capital-founder-green-on-investing-in-china-video",
-    "published": "Wed, 21 Jan 2026 12:13:13 CST",
-    "summary": "Lead Edge Capital Founder Mitchell Green speaks to Bloomberg Surveillance in\nDavos. Green discusses growth in China, the US-China AI race, and the wider US\ntech economy. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Red Sea Reopening Falters Amid Simmering Risks in Middle East",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Fred-sea-reopening-falters-amid-simmering-risks-in-middle-east",
-    "published": "Wed, 21 Jan 2026 12:07:28 CST",
-    "summary": "Ships carrying energy cargoes are likely to forego the benefits of traveling\nthrough the Suez for now.\n\n"
-  },
-  {
-    "title": "Trump to Speak at Davos; Benioff on AI; Witkoff on Greenland Security | Bloomberg Brief 1/21/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbloomberg-brief-1-21-2026-video",
-    "published": "Wed, 21 Jan 2026 12:02:23 CST",
-    "summary": "US stock futures waver after the S&P 500 posted its biggest drop in three\nmonths. President Trump brushes off concerns that his Greenland threats will\nspoil trade deal with the EU ahead of his address in Davos. Shares of Netflix\nfall after a tepid outlook citing higher program spending and the potential\ncost for its Warner Bros. Discovery bid. Salesforce CEO Marc Benioff and US\nSpecial Envoy Steve Witkoff join Bloomberg Brief from the World Economic Forum\nin Davos. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Home-Purchase Applications Climb to Highest Since 2023",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-home-purchase-applications-climb-to-highest-since-early-2023",
-    "published": "Wed, 21 Jan 2026 12:00:00 CST",
-    "summary": "US mortgage applications for home purchases climbed last week to the highest\nsince January 2023, suggesting a further easing in financing costs is\ncontributing to a thaw in the housing market.\n\n"
   },
   {
     "title": "Kraft Heinz Falls After Berkshire Weighs Selling Its Stake",
@@ -180,16 +198,10 @@
     "summary": "Sticking to a savings plan beats panic selling or buying crypto or gold out of\nfear in a volatile stock market.\n\n"
   },
   {
-    "title": "Qatari Finance Minister on Energy, Global Resilience",
+    "title": "Qatar’s Finance Minister on Global Economic Uncertainty",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fqatari-finance-minister-on-energy-global-resilience-video",
     "published": "Wed, 21 Jan 2026 10:59:35 CST",
-    "summary": "Qatar's Finance Minister Ali bin Ahmed Al-Kuwari speaks to Bloomberg's\nJoumanna Bercetche on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. He discusses resilient growth amid geopolitical uncertainty,\nQatar's energy strength, and an AI-driven future. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "West London Homes Without Water After Thames Pipe Bursts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fwealthy-west-london-homes-without-water-after-thames-pipe-bursts",
-    "published": "Wed, 21 Jan 2026 10:46:45 CST",
-    "summary": "A burst water main owned by Thames Water caused major flooding, shut roads and\ncut supplies to homes across several affluent areas of west London.\n\n"
+    "summary": "H.E. Ali bin Ahmed Al-Kuwari, Minister of Finance, State of Qatar discusses\nglobal economic uncertainty, investment and international cooperation with\nBloomberg’s Joumanna Bercetche in Davos on the sidelines of the 2026 World\nEconomic Forum. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Greenland Tensions Rattle Global Markets",
@@ -204,28 +216,34 @@
     "summary": "Japan is reviving nuclear power, balancing the need for more clean energy\nagainst the lingering trauma of the 2011 Fukushima Daiichi disaster.\n\n"
   },
   {
+    "title": "Supreme Court Considers Trump’s Attempt to Fire Fed Governor Lisa Cook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html",
+    "published": "Wed, 21 Jan 2026 10:05:11 CST",
+    "summary": "The justices deferred a decision on the president’s efforts to oust Cook,\nagreeing to hear arguments on Wednesday instead.\n\n"
+  },
+  {
     "title": "Uber Faces Growing Pressure Over Sexual Assault Record",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fuber-scrutiny-sexual-assault.html",
     "published": "Wed, 21 Jan 2026 10:03:36 CST",
     "summary": "From the ballot box in California to the halls of Congress and Wall Street,\nseveral new initiatives would require more oversight of how the company\nprotects its passengers.\n\n"
   },
   {
+    "title": "Horizons Middle East and Africa 1/21/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fhorizons-middle-east-and-africa-1-21-2026-video",
+    "published": "Wed, 21 Jan 2026 09:12:03 CST",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's\nfastest-growing regions. Live from Dubai, we bring you the latest global\nmarkets and analysis, plus news-making interviews, with a special focus on\nMEA. All that and more, as you head to the office in the Gulf, pause for lunch\nin Hong Kong, or start your day in London or Johannesburg. (Correct: video has\nbeen edited to remove UBS Chief Executive Officer Sergio Ermotti's\nmisstatement of 25 million new millionaires in the US last year.) (Source:\nBloomberg)\n\n"
+  },
+  {
     "title": "US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
     "published": "Wed, 21 Jan 2026 09:00:56 CST",
-    "summary": "Case will test the limit of Trump’s powers as he continues extraordinary\ncampaign for control over central bank\n\nThe US supreme court will hear oral arguments over Donald Trump’s bid to fire\na Federal Reserve governor on Wednesday morning, as his administration\ncontinues its extraordinary campaign for control over the central bank.\n\nThe US president tried to fire Lisa Cook in August over apparent discrepancies\non mortgage applications Trump’s officials claim are evidence of fraud.\n\nContinue reading...\n\n"
+    "summary": "Case will test the limit of Trump’s powers as he continues extraordinary\ncampaign for control over central bank\n\nThe US supreme court will hear oral arguments over Donald Trump’s bid to fire\na Federal Reserve governor this morning, as his administration continues its\nextraordinary campaign for control over the central bank.\n\nThe US president tried to fire Lisa Cook in August over apparent discrepancies\non mortgage applications Trump’s officials claim are evidence of fraud.\n\nContinue reading...\n\n"
   },
   {
     "title": "Red Bull Boosts Can Sales at Fastest Past Since Pandemic",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fred-bull-lifts-can-sales-at-fastest-past-since-pandemic-sn-says",
     "published": "Wed, 21 Jan 2026 07:47:58 CST",
     "summary": "Red Bull GmbH increased sales of its blue-silver labeled energy drink by the\nmost in three years, boosting revenue and operating profit to a record last\nyear.\n\n"
-  },
-  {
-    "title": "Larry Fink Ponders Moving WEF Meetings From Davos to Dublin or Detroit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffink-ponders-moving-wef-meetings-from-davos-to-dublin-or-detroit",
-    "published": "Wed, 21 Jan 2026 06:40:44 CST",
-    "summary": "Larry Fink, the interim co-chief of the World Economic Forum, is openly musing\nabout a venue change for the flagship event that would take the annual January\nmeeting outside of Switzerland.\n\n"
   },
   {
     "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
@@ -288,10 +306,16 @@
     "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Stocks’ Mild Rebound Fades as Traders Await Trump: Markets Wrap",
+    "title": "Stocks Rise After Trump’s Remarks on Greenland: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "A tentative recovery in US stock futures lost steam as traders awaited\nPresident Donald Trump’s address at Davos to hear whether he would ratchet\ndown days of tensions with Europe over Greenland.\n\n"
+    "summary": "Stocks rebounded after their biggest selloff since October as President Donald\nTrump said the US doesn’t want to use excessive force to get Greenland.\n\n"
+  },
+  {
+    "title": "Tricolor’s Founder Declines to Discuss Its Demise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftricolor-founder-faces-creditors-declines-to-answer-questions",
+    "published": "Tue, 20 Jan 2026 22:17:55 CST",
+    "summary": "For five hours, lawyers for creditors pressed Daniel Chu again and again on\nTuesday for details on the collapse of his subprime auto-loan business\nTricolor Holdings.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -315,7 +339,7 @@
     "title": "Netflix Shares Slide as Spending Mounts Amid Warner Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-to-boost-spending-on-programs-in-2026-crimping-profit",
     "published": "Tue, 20 Jan 2026 21:01:06 CST",
-    "summary": "Netflix Inc. shares tumbled in early trading Wednesday after giving a\ndisappointing forecast for earnings in the months ahead as it spends more on\nprogramming and works to close its $82.7 billion deal with Warner Bros.\nDiscovery Inc.\n\n"
+    "summary": "Netflix Inc. shares tumbled Wednesday after giving a disappointing forecast\nfor earnings in the months ahead as it spends more on programming and works to\nclose its $82.7 billion deal with Warner Bros. Discovery Inc.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more",
@@ -624,12 +648,6 @@
     "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity\nare now core drivers of stock returns from the AI theme as demand ramps.\n\n"
   },
   {
-    "title": "Trump says he’ll sue JPMorgan Chase for allegedly cutting him off after US Capitol riot",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F17%2Ftrump-jp-morgan-chase",
-    "published": "Sat, 17 Jan 2026 19:02:44 CST",
-    "summary": "President also denies he ever offered JPMorgan CEO Jamie Dimon the chair of\nthe Federal Reserve\n\nDonald Trump threatened to sue JPMorgan Chase on Saturday, citing an\nunsubstantiated allegation that major banks discriminated against him after\nthe 6 January 2021 Capitol riot.\n\nTrump announced the potential lawsuit in a post on social media, tying the\nthreat to his criticism of a recent Wall Street Journal article that reported\nhe had offered the JPMorgan Chase CEO, Jamie Dimon, the position of US Federal\nReserve chair. Trump insists the report is inaccurate and says no such offer\nwas ever made.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Big Oil’s Complicated Calculus for Investing in Venezuela",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdealbook%2Fvenezuela-oil.html",
     "published": "Sat, 17 Jan 2026 13:00:05 CST",
@@ -694,12 +712,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
     "published": "Fri, 16 Jan 2026 19:33:45 CST",
     "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that\nhas been roundly rejected by industry executives and their lobbyists this\nweek.\n\n"
-  },
-  {
-    "title": "Powell, an Unlikely Foil, Takes On Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Fpowell-trump-investigation.html",
-    "published": "Fri, 16 Jan 2026 19:32:38 CST",
-    "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
   },
   {
     "title": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
@@ -958,12 +970,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fbusiness%2Feconomy%2Finflation-cpi-report-food-prices.html",
     "published": "Tue, 13 Jan 2026 16:01:16 CST",
     "summary": "Beef, coffee and produce were among the items that surged in price, inflation\ndata showed.\n\n"
-  },
-  {
-    "title": "Data center REIT CEO says real estate ‘not in an oversupply state’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fdata-center-reit-ceo-andy-power-not-oversupplied.html",
-    "published": "Tue, 13 Jan 2026 15:41:13 CST",
-    "summary": "Andy Power, CEO of Digital Realty says data center real estate is not\noversupplied as hyperscalers like Nvidia, Amazon, Google and Meta announce\nmore projects.\n\n"
   },
   {
     "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
