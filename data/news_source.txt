@@ -1,6 +1,36 @@
 [
   {
-    "title": "Pound Steady Ahead of Inflation Data",
+    "title": "EU Sees ‘Historic’ India Trade Pact in Wake of Trump’s Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Feu-sees-historic-india-trade-pact-in-wake-of-trump-s-threats",
+    "published": "Wed, 21 Jan 2026 07:31:51 CST",
+    "summary": "The European Union and India are nearing a “historic” trade agreement, the\nbloc’s chief said, as both sides look to strengthen ties and bolster their\neconomies in the face of rising tariff threats from US President Donald Trump.\n\n"
+  },
+  {
+    "title": "New World Seeks Asset Sale by June to Create Positive Cash Flow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fnew-world-seeks-asset-sale-by-june-to-create-positive-cash-flow",
+    "published": "Wed, 21 Jan 2026 07:21:35 CST",
+    "summary": "New World Development Co. is racing to offload at least one asset by the end\nof June to meet its self‑imposed HK$27 billion ($3.5 billion) sales target and\ngenerate positive cash flow, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Burberry’s Sales Rise Over Holidays as China Market Picks Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fburberry-s-sales-rise-over-holidays-as-china-market-picks-up",
+    "published": "Wed, 21 Jan 2026 07:12:49 CST",
+    "summary": "Burberry’s sales advanced over the key holiday period as shoppers snapped up\nthe British brand’s tartan scarves and trench coats, bolstering hopes of a\nluxury rebound in China.\n\n"
+  },
+  {
+    "title": "Air Force One Issue Forces Trump to Switch Plane",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fair-force-one-issue-forces-trump-to-switch-plane-video",
+    "published": "Wed, 21 Jan 2026 07:03:42 CST",
+    "summary": "Air Force One was forced to return to Joint Base Andrews in Maryland shortly\nafter departing for Switzerland because of a mechanical issue. US President\nDonald Trump was eventually able to board a replacement plane and take off\nagain, but the complication ultimately delayed his travel to the World\nEconomic Forum in Davos by more than two hours. (Source: US Network Pool)\n\n"
+  },
+  {
+    "title": "Bridgewater Is Bullish on China Stocks After Fund Jumps 45%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbridgewater-is-bullish-on-china-stocks-after-fund-jumps-45",
+    "published": "Wed, 21 Jan 2026 06:59:25 CST",
+    "summary": "Bridgewater Associates said it is still bullish on Chinese stocks this year,\nafter the local market’s rally helped its onshore hedge fund post a 45% gain\nin 2025, the best performance in at least five years.\n\n"
+  },
+  {
+    "title": "UK Inflation Rose More Than Expected in December",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-21%2Fftse-100-live-uk-inflation-trump-davos-cpi-pound-burberry-jd-sports-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Wed, 21 Jan 2026 06:46:23 CST",
     "summary": "\n\n"
@@ -40,6 +70,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fblackstone-said-to-weigh-500-million-india-ipo-for-pgp-glass",
     "published": "Wed, 21 Jan 2026 06:07:06 CST",
     "summary": "Blackstone Inc. is considering an initial public offering for Indian glass\npackaging maker PGP Glass Pvt. in Mumbai that could raise as much as $500\nmillion, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Bangladesh Central Bank Chief Says Economy to Rebound After Vote",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbangladesh-central-bank-chief-says-economy-to-rebound-after-vote",
+    "published": "Wed, 21 Jan 2026 06:05:41 CST",
+    "summary": "Bangladesh’s economy is poised for a quick rebound following next month’s\nnational election provided the transition of power in the South Asian nation\nremains peaceful, according to the head of the country’s central bank.\n\n"
   },
   {
     "title": "Sharma: US Structural Policy Shift Driving Volatility",
@@ -90,58 +126,16 @@
     "summary": "Japan’s second-biggest bank plans to aggressively rebuild its local sovereign\ndebt holdings once a wild surge in yields runs its course.\n\n"
   },
   {
-    "title": "The Asia Trade 1/21/26",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-asia-trade-1-21-26-video",
-    "published": "Wed, 21 Jan 2026 04:00:47 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Indian Rupee Declines to Set Fresh Record Low as Capital Outflows Persist",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Finr-usd-india-rupee-falls-to-set-fresh-record-low-as-capital-outflows-persist",
     "published": "Wed, 21 Jan 2026 03:53:45 CST",
     "summary": "The Indian rupee fell to a new low on foreign outflows from the nation’s\nequities, as a delay in a trade deal with the US dents investor sentiment.\n\n"
   },
   {
-    "title": "China’s Lithium Tumult Spurs Futures Exchange to Step In Again",
+    "title": "China Lithium Tumult Spurs Futures Exchange to Step In Again",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-s-lithium-tumult-spurs-futures-exchange-to-step-in-again",
     "published": "Wed, 21 Jan 2026 03:53:33 CST",
     "summary": "Lithium’s violent price swings have prompted China’s futures exchange to\nintervene once again to manage market risks.\n\n"
-  },
-  {
-    "title": "Global Market Turmoil Prompts China Oil Firm to Pull Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglobal-market-turmoil-prompts-china-oil-firm-to-pull-bond-sale",
-    "published": "Wed, 21 Jan 2026 03:34:39 CST",
-    "summary": "Spikes in borrowing costs following a meltdown in Japanese bonds and a selloff\nin US Treasuries have prompted at least one Asian borrower to shelve plans to\nraise funds, underscoring how renewed volatility is rippling through credit\nmarkets.\n\n"
-  },
-  {
-    "title": "India’s Reliance Tumbles Into Deepest Oversold Level in Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findia-s-reliance-tumbles-into-deepest-oversold-level-in-years",
-    "published": "Wed, 21 Jan 2026 03:28:47 CST",
-    "summary": "Reliance Industries Ltd.’s shares are the most oversold they have been in five\nyears, as India’s largest company grapples with headwinds -- from a slowdown\nin its retail business to growing unease over potential US action related to\nits purchases of Russian crude oil.\n\n"
-  },
-  {
-    "title": "Silver Retail Buying Keeps Supplies Tight as Rally Gathers Pace",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsilver-retail-buying-keeps-supplies-tight-as-rally-gathers-pace",
-    "published": "Wed, 21 Jan 2026 03:27:26 CST",
-    "summary": "From Chinese aunties queuing in Shenzhen markets to out-of-stock Turkish\nrefineries and a Korea Mint offer that sold out within an hour, silver’s\ndizzying rally is leaving banks and refiners scrambling to meet unprecedented\ndemand from retail investors.\n\n"
-  },
-  {
-    "title": "Australian Firms Delay Spending on Cost Pressures, Survey Shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Faustralian-firms-delay-spending-on-cost-pressures-survey-shows",
-    "published": "Wed, 21 Jan 2026 03:22:27 CST",
-    "summary": "Australian businesses are holding off on major investments until economic\nuncertainty eases, according to a new report, as renewed inflationary\npressures raise the risk the Reserve Bank may be forced to pivot to hiking\ninterest rates.\n\n"
-  },
-  {
-    "title": "Trump Brings Greenland Fight to Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-brings-greenland-fight-to-davos-video",
-    "published": "Wed, 21 Jan 2026 03:17:22 CST",
-    "summary": "Europe’s confrontation with Donald Trump over Greenland is fast becoming more\nthan another quarrel. The European Union faces a stress test of whether it can\nrespond as a united force when its sovereignty is challenged. Bloomberg's Jill\nDisis has the latest. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "What Happens if China Attacks Taiwan?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwhat-happens-if-china-attacks-taiwan-video",
-    "published": "Wed, 21 Jan 2026 03:14:53 CST",
-    "summary": "Recent US military action in Venezuela and the escalating push to acquire\nGreenland have raised urgent questions about the stability of international\nnorms. As global order shifts, concerns are mounting over a potential Chinese\nmove on Taiwan. The German Marshall Fund of the United States has gamed out\nscenarios for a potential cross-strait conflict, outlining the strategic and\neconomic costs Beijing might face. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Indonesian Bond Demand at 10-Month Low as Rupiah Weakens",
@@ -156,16 +150,10 @@
     "summary": "South Korea’s President Lee Jae Myung said the country’s beleaguered currency\nmay strengthen and stabilize around the 1,400-per-dollar level within the next\ntwo months.\n\n"
   },
   {
-    "title": "Japanese Bank Stocks Slide as JGB Volatility Stokes Loss Fears",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapanese-bank-stocks-slide-as-jgb-volatility-stokes-loss-fears",
-    "published": "Wed, 21 Jan 2026 01:59:25 CST",
-    "summary": "Japan’s financial stocks declined as Tuesday’s government bond meltdown raised\nalarms about potential losses for lenders and brokerages.\n\n"
-  },
-  {
     "title": "Japan’s Long Bonds Rebound After Finance Chief Calls for Market Calm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapanese-bonds-may-rebound-after-katayama-calls-for-market-calm",
     "published": "Tue, 20 Jan 2026 23:33:49 CST",
-    "summary": "Japan’s longer maturity bonds rebounded in a volatile market after Finance\nMinister Satsuki Katayama called for calm among market participants following\na rout that pushed yields to all-time highs.\n\n"
+    "summary": "Japan’s longer maturity bonds rebounded in a volatile market, with investors\nvoicing concerns that the government and central bank may need to do more to\ncalm the surge in yields.\n\n"
   },
   {
     "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
@@ -312,6 +300,12 @@
     "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
   },
   {
+    "title": "Ermotti Warns of Risky Bet as Europe Eyes US Debt Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fexiting-us-assets-is-a-dangerous-bet-ubs-ceo-ermotti-says",
+    "published": "Tue, 20 Jan 2026 16:58:30 CST",
+    "summary": "Europeans tempted to weaponize their holdings of US government debt amid the\nstandoff with President Trump over Greenland are making a “dangerous bet” that\nrisks backfiring.\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-premarket-nvda-jbht-mmm-mu.html",
     "published": "Tue, 20 Jan 2026 16:31:34 CST",
@@ -322,6 +316,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fmedia%2Faxel-springer-editor-welt.html",
     "published": "Tue, 20 Jan 2026 16:26:17 CST",
     "summary": "Jan Philipp Burgard was one of Axel Springer’s most prominent editors,\noverseeing its influential German broadsheet Welt.\n\n"
+  },
+  {
+    "title": "FTSE Owner Said to Eye Easing Rules for Foreign Firms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fftse-100-owner-said-to-eye-easing-entry-rules-for-foreign-firms",
+    "published": "Tue, 20 Jan 2026 15:55:49 CST",
+    "summary": "FTSE Russell is considering changes to its rules that would make it easier for\nforeign companies to join its UK stock indexes, according to people familiar\nwith the matter, which could make the market more attractive as a listing\nvenue.\n\n"
   },
   {
     "title": "Filoplumes Are Nature’s Super Feather",
