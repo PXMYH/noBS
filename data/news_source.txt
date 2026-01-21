@@ -1,5 +1,29 @@
 [
   {
+    "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
+    "published": "Wed, 21 Jan 2026 22:42:56 CST",
+    "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
+  },
+  {
+    "title": "Federal Regulators Take New Aim at Late-Night TV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Ffcc-late-night-stephen-colbert-jimmy-kimmel.html",
+    "published": "Wed, 21 Jan 2026 22:26:16 CST",
+    "summary": "The F.C.C. said it planned to enforce long-dormant rules on appearances by\npolitical candidates on network talk shows.\n\n"
+  },
+  {
+    "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html",
+    "published": "Wed, 21 Jan 2026 22:15:47 CST",
+    "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
+  },
+  {
+    "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
+    "published": "Wed, 21 Jan 2026 21:59:10 CST",
+    "summary": "JPMorgan Chase CEO Jamie Dimon on Wednesday advocated for a test of President\nDonald Trump's proposed credit card rate cap in Vermont and Massachusetts.\n\n"
+  },
+  {
     "title": "4 Takeaways from Supreme Court Hearing on Trump’s Firing of Lisa Cook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2F4-takeaways-supreme-court-fed-hearing.html",
     "published": "Wed, 21 Jan 2026 21:45:41 CST",
@@ -24,12 +48,6 @@
     "summary": "Investors who bought into this week’s Treasuries selloff are reaping the\nreward after President Donald Trump backed off his threat to slap new tariffs\non European nations as part of his push to acquire Greenland.\n\n"
   },
   {
-    "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html",
-    "published": "Wed, 21 Jan 2026 21:28:20 CST",
-    "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
-  },
-  {
     "title": "Target’s Non-Response to ICE Says a Lot",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fopinion-target-s-non-response-to-ice-says-a-lot-video",
     "published": "Wed, 21 Jan 2026 21:25:30 CST",
@@ -46,12 +64,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html",
     "published": "Wed, 21 Jan 2026 21:13:52 CST",
     "summary": "During arguments, key justices appeared concerned that the president’s efforts\nto oust Lisa Cook could imperil the central bank’s independence.\n\n"
-  },
-  {
-    "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
-    "published": "Wed, 21 Jan 2026 21:12:58 CST",
-    "summary": "JPMorgan Chase CEO Jamie Dimon on Wednesday advocated for a test of President\nDonald Trump's proposed credit card rate cap in Vermont and Massachusetts.\n\n"
   },
   {
     "title": "Churchill's Kencel on Capital Raise, Expects Active Year for M&A",
@@ -186,12 +198,6 @@
     "summary": "A new daily email from Mediaite intends to cut through the cacophony of online\nmedia news.\n\n"
   },
   {
-    "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
-    "published": "Wed, 21 Jan 2026 18:55:33 CST",
-    "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
-  },
-  {
     "title": "US supreme court appears skeptical of Trump’s bid to oust Lisa Cook from Fed board",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
     "published": "Wed, 21 Jan 2026 18:52:19 CST",
@@ -232,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fpending-home-sales-december-drop-sharply.html",
     "published": "Wed, 21 Jan 2026 16:57:26 CST",
     "summary": "There were just 1.18 million homes on the market in December, down 9% from\nNovember, and matching the lowest inventory level of 2025.\n\n"
-  },
-  {
-    "title": "BNY Mellon CEO on US Economy, Fed Independence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbny-mellon-ceo-on-us-economy-fed-independence",
-    "published": "Wed, 21 Jan 2026 16:42:24 CST",
-    "summary": "BNY Mellon CEO Robin Vince discusses the resilience of the US economy and Fed\nindependence during an interview with Bloomberg Surveillance at the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Treasuries Rise as 20-Year Auction Highlights Solid Demand",
@@ -720,12 +720,6 @@
     "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity\nare now core drivers of stock returns from the AI theme as demand ramps.\n\n"
   },
   {
-    "title": "Big Oil’s Complicated Calculus for Investing in Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdealbook%2Fvenezuela-oil.html",
-    "published": "Sat, 17 Jan 2026 13:00:05 CST",
-    "summary": "The industry has long prioritized projects with quick and reliable payback.\nTrump is pushing for a return to risk.\n\n"
-  },
-  {
     "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fdisney-dominated-2025-box-office.html",
     "published": "Sat, 17 Jan 2026 13:00:01 CST",
@@ -1024,6 +1018,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fsep%2F16%2Fthe-new-norm-sustainable-textiles-lauren-choi",
     "published": "Tue, 16 Sep 2025 13:00:06 CDT",
     "summary": "Lauren Choi wanted to give plastic a second life. Her experiment turned into\nThe New Norm, a sustainable textile startup\n\nIf you’ve been on a college campus in the last 30 years, you’ve likely come\nacross red party cups. Made by brands like Solo and Hefty, the iconic cups are\nbeloved by frats, crucial to drinking games like beer pong – and very\ndifficult to recycle because of the type of plastic they’re made from.\n\nBut Lauren Choi, an engineering student at Johns Hopkins University, saw an\nopportunity: she wanted to turn these problematic cups into fabric. In 2019,\nduring her senior year, she led a team that built an extruder machine that\ncould spin plastic waste into textile filaments. They partnered with campus\nfraternities to gather thousands of red cups that could serve as the raw\nmaterial.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Tracking Every Trump Tariff and Its Economic Effect",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fgraphics%2Ftrump-tariffs-tracker%2F",
+    "published": "Fri, 21 Mar 2025 05:00:41 CDT",
+    "summary": "For the full experience visit: Tracking Every Trump Tariff and Its Economic\nEffect\n\n"
   },
   {
     "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
