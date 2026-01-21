@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mediaite Starts a Newsletter to Summarize Media Newsletters",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html",
+    "published": "Wed, 21 Jan 2026 18:57:30 CST",
+    "summary": "A new daily email from Mediaite intends to cut through the cacophony of online\nmedia news.\n\n"
+  },
+  {
+    "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
+    "published": "Wed, 21 Jan 2026 18:55:32 CST",
+    "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
+  },
+  {
+    "title": "US supreme court appears skeptical of Trump’s bid to oust Lisa Cook from Fed board",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
+    "published": "Wed, 21 Jan 2026 18:52:19 CST",
+    "summary": "Conservative and liberal judges questioned administration over president’s\nauthority to fire without due process\n\n  * US politics – live updates\n\nUS supreme court justices appeared skeptical of Donald Trump’s case for firing\na Federal Reserve governor on Wednesday, in a key test of the president’s\npower – and his administration’s battle to exert greater control over the US\ncentral bank.\n\nFive months after Trump tried to fire Lisa Cook over apparent discrepancies on\nmortgage applications his officials claim are evidence of fraud, both\nconservative and liberal justices grilled the administration over whether the\nUS president has the power to fire a Fed governor with seemingly no process.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Davos live: Denmark welcomes Trump ruling out force to take Greenland but cautions ‘challenge is still there’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates",
+    "published": "Wed, 21 Jan 2026 18:52:11 CST",
+    "summary": "Rolling coverage of the World Economic Forum in Davos, where the US president\ndelivered a speech to world leaders\n\n  * Trump steps up demand to annex Greenland but rules out using force\n\n  * Middle powers assemble? Trump disorder prompts talk of new liberal alliances\n\n _Q: Is the US worried that institutional investors in Europe might pull out\nof the US Treasury market, such as pension funds in Denmark?_\n\n**Bessent** brushes this aside, saying\n\nThe size of Denmark’s investment in US Treasury bonds, like Denmark itself, is\nirrelevant.\n\nIt is less than $100 million.\n\nThey’ve been selling Treasuries for years. I’m not concerned at all.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "‘Adaptive Normalcy’ as the Trump Show Arrives at Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html",
+    "published": "Wed, 21 Jan 2026 18:42:33 CST",
+    "summary": "The president’s address at the World Economic Forum in Switzerland has trading\npartners and business executives on edge.\n\n"
+  },
+  {
+    "title": "Netflix's advertising strategy shift is starting to pay off",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fnetflix-advertising-revenue-strategy-paying-off.html",
+    "published": "Wed, 21 Jan 2026 18:39:32 CST",
+    "summary": "Netflix reported $1.5 billion in ad revenue last year and expects that to\ndouble in 2026.\n\n"
+  },
+  {
+    "title": "Could Bond Market Calm Fuel a Minsky Moment for Private Markets?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Fleverage-in-private-markets-is-a-source-of-instability-in-a-us-treasury-minsky",
+    "published": "Wed, 21 Jan 2026 18:29:49 CST",
+    "summary": "Risk-taking is aided by the calmest markets in decades, raising questions\nabout how prepared investors are for the next credit crunch.\n\n"
+  },
+  {
+    "title": "Energy Stocks on Track for Record on Greenland, Arctic Blast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fenergy-stocks-on-track-for-record-on-greenland-arctic-blast",
+    "published": "Wed, 21 Jan 2026 18:16:21 CST",
+    "summary": "A sizzling rally in energy stocks over the past few months has the group on\npace to reach a new high as rising geopolitical uncertainty pushes investors\nto bet on elevated oil prices.\n\n"
+  },
+  {
+    "title": "Trump Addresses Davos as Greenland Pressure Builds | Open Interest 1/21/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fopen-interest-1-21-2026-video",
+    "published": "Wed, 21 Jan 2026 18:11:25 CST",
+    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open\nInterest.\" President Trump is ramping up pressure on Europe over Greenland. At\nthe World Economic Forum, he called for immediate talks to acquire the Danish\nterritory. RBC Capital Markets Head of US Equity Strategy Lori Calvasina\njoined Bloomberg Open Interest with her take on the tensions and how markets\nare digesting his speech. Plus, business leaders react to Trump's speech.\nCitadel CEO Ken Griffin sits down with Bloomberg's Erik Schatzker in Davos to\ntalk about the impact of Trump's policies, and what to expect in the year\nahead. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "FountainVest Partners CEO Sees Improving Mood for China Investment",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ffrank-tang-sees-improving-mood-for-china-investment-video",
+    "published": "Wed, 21 Jan 2026 17:53:33 CST",
+    "summary": "FountainVest Partners CEO Frank Tang says he is confident in the resilience of\nChinese companies and the \"impressive\" innovation seen in sectors like life\nsciences and consumption. He speaks to Bloomberg TV’s Haslinda Amin on the\nsidelines of the 2026 World Economic Forum in Davos, Switzerland. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Ken Griffin Sees ‘Explicit Warning’ for US in Japan Bond Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fken-griffin-jgb-selloff-an-explicit-warning-for-us-video",
+    "published": "Wed, 21 Jan 2026 17:35:27 CST",
+    "summary": "Citadel’s Ken Griffin called the heavy selling of Japanese government bonds\nthis week an “explicit warning” to US politicians to improve the nation’s\nfinances. Griffin said, “what happened in Japan is a very important message to\nthe House and to the Senate: You need to get our fiscal house in order.” He\nspoke with Erik Schatzker at Bloomberg House at the World Economic Forum in\nDavos, Switzerland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Selling Treasuries Looks Symbolic If European Funds Keep Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fselling-treasuries-looks-symbolic-if-european-funds-keep-stocks",
+    "published": "Wed, 21 Jan 2026 17:31:06 CST",
+    "summary": "Sales of US Treasury holdings by European pension funds have largely been\nshrugged off by global investors, so long as they keep their much larger\nstockpiles of US corporate debt and equities.\n\n"
+  },
+  {
     "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Ftrump-congress-10percent-credit-card-interest-rate-cap.html",
     "published": "Wed, 21 Jan 2026 17:24:44 CST",
@@ -36,12 +108,6 @@
     "summary": "Citadel’s Ken Griffin said heavy selling of Japanese government bonds this\nweek should serve as an “explicit warning” to US politicians to improve the\nnation’s finances.\n\n"
   },
   {
-    "title": "Davos live: Trump rules out taking Greenland by force but calls for ‘immediate negotiations’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates",
-    "published": "Wed, 21 Jan 2026 16:52:50 CST",
-    "summary": "Rolling coverage of the World Economic Forum in Davos, where the US president\ndelivered a speech to world leaders\n\n  * Trump steps up demand to annex Greenland but rules out using force\n\n  * Guardian newsroom: Year One of Trumpism: Is Britain Emulating the US?\n\n_Q: Is the US worried that institutional investors in Europe might pull out of\nthe US Treasury market, such as pension funds in Denmark?_\n\n**Bessent** brushes this aside, saying\n\nThe size of Denmark’s investment in US Treasury bonds, like Denmark itself, is\nirrelevant.\n\nIt is less than $100 million.\n\nThey’ve been selling Treasuries for years. I’m not concerned at all.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Billionaire Soon-Shiong’s Biotech Stock Burns Shorts With Surge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsoon-shiong-s-immunitybio-ibrx-win-streak-forces-shorts-to-run-for-cover",
     "published": "Wed, 21 Jan 2026 16:44:24 CST",
@@ -60,10 +126,10 @@
     "summary": "BNY Mellon CEO Robin Vince discusses the resilience of the US economy and Fed\nindependence during an interview with Bloomberg Surveillance at the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "US 20-Year Bond Auction Tests Appetite Amid Greenland Tensions",
+    "title": "US 20-Year Bond Auction Draws Good Demand at Higher Yield",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-20-year-bond-auction-tests-appetite-amid-greenland-tensions",
     "published": "Wed, 21 Jan 2026 16:27:49 CST",
-    "summary": "Long-maturity Treasuries recouped losses ahead of an auction of 20-year bonds\nthat stands to illuminate investor attitudes about US aggression over control\nof Greenland and challenging fiscal conditions globally.\n\n"
+    "summary": "An auction of 20-year Treasury bonds drew good demand, suggesting investors\nwere assuaged by the rise in yields sparked by US aggression over control on\nGreenland and challenging fiscal conditions globally.\n\n"
   },
   {
     "title": "Men’s Wearhouse Slaps 10% Yield on Junk Bond to Fund Payout",
@@ -76,12 +142,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fzambia-lifts-foreign-bond-cap-ahead-of-1-billion-debt-wall",
     "published": "Wed, 21 Jan 2026 16:21:43 CST",
     "summary": "Zambia has more than quadrupled the cap on local-currency bonds that foreign\ninvestors can buy, a move that may reduce rollover risk as about $1.16 billion\nin debt payments fall due this year.\n\n"
-  },
-  {
-    "title": "Mediaite Starts a Newsletter to Summarize Media Newsletters",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html",
-    "published": "Wed, 21 Jan 2026 16:20:19 CST",
-    "summary": "A new daily email from Mediaite intends to cut through the cacophony of online\nmedia news.\n\n"
   },
   {
     "title": "Greenland Tensions Rattle Global Markets",
@@ -108,12 +168,6 @@
     "summary": "The Canadian oil industry’s two-year reprieve from pipeline bottlenecks may be\nnearing an end as global crude glut weighs on prices.\n\n"
   },
   {
-    "title": "Traders Should Hedge ‘Unexpected’ Tariff Ruling, Jefferies Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ftraders-should-hedge-unexpected-tariff-ruling-jefferies-says",
-    "published": "Wed, 21 Jan 2026 16:02:00 CST",
-    "summary": "Investors should consider hedging ahead of the Supreme Court’s ruling on\ntariffs, as “an unexpected decision” to allow some of the Trump\nadministration’s most sweeping levies to stand would trigger volatility,\naccording to strategists at Jefferies.\n\n"
-  },
-  {
     "title": "David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavid-rosen-dead.html",
     "published": "Wed, 21 Jan 2026 15:57:46 CST",
@@ -124,12 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fshort-microvacations.html",
     "published": "Wed, 21 Jan 2026 15:52:06 CST",
     "summary": "Travelers short on vacation time are embarking on one- to three-day trips that\ntake advantage of time zones and credit card points.\n\n"
-  },
-  {
-    "title": "South Africa’s Rand Surges to Strongest Level in Three Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsouth-africa-s-rand-surges-to-strongest-level-in-three-years",
-    "published": "Wed, 21 Jan 2026 15:51:43 CST",
-    "summary": "South Africa’s rand rose to its strongest level in more than three years,\nfollowing a broad markets rally after President Donald Trump ruled out using\nforce to take Greenland.\n\n"
   },
   {
     "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
@@ -162,12 +210,6 @@
     "summary": "Luxury travelers can expect to pay more than they did last year, while budget\ntravelers might get a break.\n\n"
   },
   {
-    "title": "United Seeing Strength 'Across the Board,' CEO Kirby Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Funited-seeing-strength-across-the-board-ceo-kirby-says-video",
-    "published": "Wed, 21 Jan 2026 15:43:52 CST",
-    "summary": "United Airlines Holdings CEO Scott Kirby discusses the company's upbeat\nforecast, saying demand so far in 2026 has \"come in pretty hot\" during an\ninterview with Lisa Abramowicz on Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "NYSE CEO on US Capital Markets, Trading Models",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fnyse-ceo-on-us-capital-markets-trading-models-video",
     "published": "Wed, 21 Jan 2026 15:40:35 CST",
@@ -180,28 +222,16 @@
     "summary": "Creditors to struggling Telesat Canada sued the satellite operator, demanding\nthe company unwind transfers they said placed the most valuable assets out of\ntheir reach and breached lending terms.\n\n"
   },
   {
-    "title": "US supreme court considers Trump’s bid to fire Lisa Cook from Fed board",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
-    "published": "Wed, 21 Jan 2026 15:09:45 CST",
-    "summary": "Case will test the limit of Trump’s powers as he continues extraordinary\ncampaign for control over central bank\n\n  * US politics – live updates\n\nThe US supreme court is hearing oral arguments over Donald Trump’s bid to fire\na Federal Reserve governor this morning, as his administration continues its\nextraordinary campaign for control over the central bank.\n\nThe US president tried to fire Lisa Cook in August over apparent discrepancies\non mortgage applications Trump’s officials claim are evidence of fraud.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Filoplumes Are Nature’s Super Feather",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html",
     "published": "Wed, 21 Jan 2026 14:56:02 CST",
     "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
   },
   {
-    "title": "US Stocks Rally as Trump Rules Out Force in Greenland Push",
+    "title": "Stock Rally Fizzles as Tariff Fears Override Trump’s Softer Tone",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstocks-rebound-as-trump-expounds-on-greenland-equity-market",
     "published": "Wed, 21 Jan 2026 14:40:23 CST",
-    "summary": "US stocks rallied after US President Donald Trump said he didn’t want to use\nexcessive force to acquire Greenland.\n\n"
-  },
-  {
-    "title": "Popular Bond Bet Turbocharged by Simmering Greenland Tension",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fpopular-bond-bet-is-turbocharged-by-simmering-greenland-tension",
-    "published": "Wed, 21 Jan 2026 14:25:59 CST",
-    "summary": "Investors are betting that one of last year’s most popular bond trades has\nfurther to run as simmering geopolitical tensions and deficit worries trigger\na fresh bout of weakness in long-dated debt.\n\n"
+    "summary": "US stocks pared gains as tariff concerns returned, weighing on investor\noptimism after US President Donald Trump said he wouldn’t want to use\nexcessive force to acquire Greenland.\n\n"
   },
   {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
@@ -232,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
     "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "‘Adaptive Normalcy’ as the Trump Show Arrives at Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html",
-    "published": "Wed, 21 Jan 2026 12:55:15 CST",
-    "summary": "The president’s address at the World Economic Forum in Switzerland has trading\npartners and business executives on edge.\n\n"
   },
   {
     "title": "Lead Edge Capital Founder on Investing in China",
@@ -276,10 +300,10 @@
     "summary": "US natural gas futures jumped more than 50% in two days, putting futures on\ntrack for their biggest weekly gain in more than three decades, as dangerously\ncold temperatures are set to take hold of a massive swath of the country.\n\n"
   },
   {
-    "title": "China Defends Growth Model at Davos | The China Show 1/21/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-china-show-1-21-2026-video",
-    "published": "Wed, 21 Jan 2026 04:49:03 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Correct:\nvideo has been edited to remove UBS Chief Executive Officer Sergio Ermotti's\nmisstatement of 25 million new millionaires in the US last year.) (Source:\nBloomberg)\n\n"
+    "title": "Europe Stocks Steady as Trump Rules Out Force to Take Greenland",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Feuropean-stocks-dip-on-tariff-jitters-as-trump-travels-to-davos",
+    "published": "Wed, 21 Jan 2026 08:26:26 CST",
+    "summary": "European shares erased declines after US President Donald Trump said he won’t\nuse excessive force in his pursuit of Greenland.\n\n"
   },
   {
     "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
@@ -306,22 +330,10 @@
     "summary": "Netflix will pay all cash for the $83 billion deal to acquire major parts of\nWarner Bros. Discovery, instead of a mix of cash and stock.\n\n"
   },
   {
-    "title": "Oil Steadies After Trump’s Davos Address and as IEA Sees Surplus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Flatest-oil-market-news-and-analysis-for-jan-21",
-    "published": "Tue, 20 Jan 2026 23:30:53 CST",
-    "summary": "Oil flipped between modest losses and gains as traders assessed US President\nDonald Trump’s demands to acquire Greenland and calls for peace in Ukraine,\nwhile the International Energy Agency trimmed its expectations for a supply\nglut.\n\n"
-  },
-  {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
     "published": "Tue, 20 Jan 2026 23:20:36 CST",
     "summary": "The president has whittled down the field to four candidates, Bessent told\nCNBC during an interview at the World Economic Forum in Switzerland.\n\n"
-  },
-  {
-    "title": "Gold Rally Cools Near Record as Trump Tempers Greenland Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgold-and-silver-near-record-highs-on-worsening-greenland-crisis",
-    "published": "Tue, 20 Jan 2026 23:17:37 CST",
-    "summary": "Gold’s scorching rally to an all-time high cooled slightly after President\nDonald Trump said the US doesn’t want to use excessive force to get Greenland.\n\n"
   },
   {
     "title": "United Airlines could hit record earnings after strong start to 2026",
@@ -382,6 +394,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F20%2Fstock-markets-trump-greenland-tariff-ftse-100-gold",
     "published": "Tue, 20 Jan 2026 21:53:57 CST",
     "summary": "Sell-off hits US stocks in first trading day since president threatened\ntariffs against eight countries\n\nStock markets fell on both sides of the Atlantic on Tuesday, with Wall Street\nsuffering its worst day since October, as investor concerns persisted over the\nfallout from Donald Trump’s push for US control of Greenland.\n\nThe sell-off hit US stocks on the first day of trading in New York since Trump\nthreatened new tariffs on eight European countries, after the market was\nclosed for a public holiday on Monday. The S&P 500 closed down 2.1% while the\nDow Jones finished down 1.8%.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Drone Delivery Startup Zipline Hits $7.6 Billion Valuation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fdrone-delivery-startup-zipline-hits-7-6-billion-valuation",
+    "published": "Tue, 20 Jan 2026 21:45:00 CST",
+    "summary": "Zipline, a drone delivery and logistics startup, has raised more than $600\nmillion in new funding, boosting its valuation to $7.6 billion, as it expands\ncommercial deployments.\n\n"
   },
   {
     "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
@@ -468,22 +486,10 @@
     "summary": "CNBC reported that Powell plans to be present for oral arguments in a case\nthat challenges Trump's power to remove governor Lisa Cook.\n\n"
   },
   {
-    "title": "As Office Rents Rise, Doctors Get Creative",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Fdoctors-office-leasing-rent.html",
-    "published": "Tue, 20 Jan 2026 14:17:32 CST",
-    "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
-  },
-  {
     "title": "The Trump Drama Hits Davos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdealbook%2Ftrump-davos-tariffs-greenland.html",
     "published": "Tue, 20 Jan 2026 13:18:10 CST",
     "summary": "Greenland, tariffs and wobbling markets are the talk of the town at the World\nEconomic Forum ahead of the president’s arrival on Wednesday.\n\n"
-  },
-  {
-    "title": "Technology and the Future of the Creative Industry",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ftechnology-and-the-future-of-the-creative-industry-video",
-    "published": "Tue, 20 Jan 2026 12:33:40 CST",
-    "summary": "Utopai Studios Co-Founder and CEO Cecilia Chen and ElevenLabs Co-Founder and\nCEO Mati Staniszewski discuss how AI and new technologies are transforming how\nstories are created and shared with Bloomberg's Ashish Verma at Bloomberg\nHouse in Davos on the sidelines of the 2026 World Economic Forum. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "GSK to buy food allergy drug maker RAPT in $2.2bn deal",
@@ -952,12 +958,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Fboeing-orders-deliveries.html",
     "published": "Tue, 13 Jan 2026 17:37:18 CST",
     "summary": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net\norders rose to 1,173 planes.\n\n"
-  },
-  {
-    "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F13%2Ftrump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
-    "published": "Tue, 13 Jan 2026 16:54:45 CST",
-    "summary": "Banks say a proposed 10% cap on credit card interest rates would result in\nfewer credit card accounts for Americans and a hit to the U.S. economy.\n\n"
   },
   {
     "title": "What to know about the report.",

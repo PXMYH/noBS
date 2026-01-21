@@ -6,73 +6,62 @@ Generated from **209** unique articles (deduplicated from 209 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical and economic tensions dominate this week’s headlines, with President Trump’s aggressive trade policies and fiscal warnings taking center stage. As Congress moves to avert a government shutdown with a bipartisan funding deal, Trump continues to threaten a new trade war, even as courts consider limiting his tariff authority. Economists caution that his first-year policies, while showing little immediate impact, could weaken the U.S. economy long-term—a concern echoed by Citadel’s Ken Griffin, who points to Japan’s bond selloff as a stark warning for America’s fiscal future. Meanwhile, domestic unrest flares in Minnesota, where unions and faith groups plan an economic blackout to protest increased ICE enforcement following a high-profile killing. Internationally, Venezuela’s economic instability drives locals toward cryptocurrency like USDT, highlighting how unstable regimes push citizens toward alternative financial systems.
+Geopolitical and economic tensions dominate headlines as global markets react to fiscal instability and political shifts. In the U.S., Congress secures a bipartisan deal to avert a government shutdown, easing short-term fiscal concerns, but warnings from Citadel’s Ken Griffin underscore deeper anxieties. Griffin frames Japan’s recent bond selloff as a stark warning for Washington to address its mounting debt, signaling potential turbulence ahead for U.S. financial markets. Meanwhile, President Trump’s aggressive trade policies continue to stir controversy, with threats of a new trade war looming even as courts consider reining in his tariff authority. Economists caution that his first-year policies, though yet to show major economic shifts, could weaken the U.S. in the long term. Internationally, Venezuela’s economic crisis drives locals toward cryptocurrency like USDT as a hedge against instability, reflecting broader trends in regions grappling with political volatility. Domestic unrest also flares in Minnesota, where unions and faith groups plan an economic blackout to protest increased ICE operations following a high-profile killing, highlighting growing tensions over immigration enforcement.
 
 **Top Articles:**
+- [Ken Griffin Sees ‘Explicit Warning’ for US in Japan Bond Selloff](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fken-griffin-jgb-selloff-an-explicit-warning-for-us-video)
 - [Ken Griffin Calls Japan Bond Selloff ‘Explicit Warning’ for US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fken-griffin-calls-japan-bond-selloff-explicit-warning-for-us)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 - [Congress moves toward funding government, dodging shutdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F)
-- [Economic blackout day planned in Minnesota to protest ICE surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F20%2Fice-immigrarion-minnesota-economic-protest)
 
-**Sources**: archive.ph (6 articles)
+**Sources**: archive.ph (7 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-{
-    "summary": "Global markets are grappling with heightened volatility as geopolitical tensions and policy shifts dominate headlines. President Trump’s aggressive push to acquire Greenland—without ruling out force—sparked a sharp sell-off in U.S. and European stocks, marking the worst market decline since October. The S&P 500 rebounded slightly after Trump clarified his stance, but uncertainty lingers, particularly around potential tariffs and their economic fallout. Meanwhile, the Supreme Court appears poised to reject Trump’s attempt to remove Federal Reserve Governor Lisa Cook, a move that could preserve the Fed’s independence amid broader concerns over central bank autonomy. In corporate news, Netflix’s all-cash $82.7 billion bid for Warner Bros. Discovery intensifies the media consolidation race, while Novo Nordisk surged 8% on strong early sales of its Wegovy obesity drug. Elsewhere, quant hedge funds face their worst losses since October as crowded trades unravel, and Zambia’s decision to lift foreign bond caps highlights emerging market debt pressures.
-
-    Economic indicators and policy moves are also in focus. The U.S. Treasury’s $3 billion private loan for Hg’s OneStream acquisition underscores robust dealmaking, even as high-yield bonds like Men’s Wearhouse’s 10% junk offering reflect tighter financing conditions. Oil prices remain unstable amid Trump’s Davos remarks and the IEA’s revised supply forecasts, while China’s real estate crisis continues to weigh on growth despite a 5% GDP expansion in 2025. Corporate leaders, including JPMorgan’s Jamie Dimon and FedEx’s Raj Subramaniam, are navigating disruptions from tariffs to AI-driven logistics, as Wall Street braces for potential ‘capital wars’ warned by Ray Dalio. Against this backdrop, the Fed’s next chair pick looms, with Treasury Secretary Scott Bessent hinting at an announcement within days.",
-    "key_stories": [
-        "Trump’s Greenland demands trigger market turmoil, worst sell-off since October",
-        "Supreme Court likely to block Trump’s bid to oust Fed Governor Lisa Cook",
-        "Netflix launches $82.7B all-cash bid for Warner Bros. Discovery",
-        "Novo Nordisk jumps 8% on strong Wegovy obesity drug sales",
-        "Quant funds suffer worst losses since October as crowded trades falter"
-    ]
-}
+Global markets are on edge as geopolitical tensions escalate, with President Trump's aggressive push to acquire Greenland rattling investors and triggering sharp sell-offs in U.S. and European stocks. The S&P 500 posted its biggest drop in months, while energy stocks surged amid rising oil prices and Arctic geopolitical uncertainty. Meanwhile, the Federal Reserve faces renewed scrutiny as the Supreme Court appears poised to reject Trump’s attempt to fire Fed Governor Lisa Cook, underscoring concerns about central bank independence. In corporate news, Netflix sweetened its $82.7 billion all-cash bid for Warner Bros. Discovery, intensifying the media consolidation battle, while quant hedge funds suffered their worst losses since October as crowded trades unraveled. Elsewhere, China’s real estate crash continues to weigh on growth, though exports provided a buffer, and drone delivery startup Zipline hit a $7.6 billion valuation after a major funding round.
 
 **Top Articles:**
-- [Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Ftrump-congress-10percent-credit-card-interest-rate-cap.html)
-- [Supreme Court Appears Poised to Reject Trump’s Attempt to Immediately Fire a Fed Governor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html)
-- [Citael's Griffin on the New Financial Landscape](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fcitael-s-griffin-on-the-new-financial-landscape-video)
-- [Davos live: Trump rules out taking Greenland by force but calls for ‘immediate negotiations’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates)
-- [Billionaire Soon-Shiong’s Biotech Stock Burns Shorts With Surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsoon-shiong-s-immunitybio-ibrx-win-streak-forces-shorts-to-run-for-cover)
+- [Davos live: Denmark welcomes Trump ruling out force to take Greenland but cautions ‘challenge is still there’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates)
+- [‘Adaptive Normalcy’ as the Trump Show Arrives at Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html)
+- [Could Bond Market Calm Fuel a Minsky Moment for Private Markets?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Fleverage-in-private-markets-is-a-source-of-instability-in-a-us-treasury-minsky)
+- [Energy Stocks on Track for Record on Greenland, Arctic Blast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fenergy-stocks-on-track-for-record-on-greenland-arctic-blast)
+- [Trump Addresses Davos as Greenland Pressure Builds | Open Interest 1/21/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fopen-interest-1-21-2026-video)
 
-**Sources**: archive.ph (88 articles)
+**Sources**: archive.ph (92 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments this week, led by Netflix's revised $83 billion all-cash bid for Warner Bros. Discovery, intensifying its rivalry with Paramount. Meanwhile, AI continues to dominate discussions at Davos, where global leaders and tech giants like ElevenLabs and Utopai Studios showcase how artificial intelligence is reshaping creative industries and retail, with stores increasingly adopting AI-driven solutions. In corporate news, United Airlines reports a strong start to 2026, forecasting record earnings amid robust demand, while GSK makes a $2.2 billion bet on food allergy treatments with its acquisition of RAPT. Regulatory and political tensions also take center stage, as the U.S. Supreme Court weighs Trump’s attempt to remove Federal Reserve Governor Lisa Cook, and the White House threatens legal action against CBS over an unedited Trump interview. Against this backdrop, economic indicators remain mixed, with the IMF upgrading global growth forecasts to 3.3% for 2026, buoyed by AI investments, even as China grapples with a historic population decline and plummeting birthrates.
+The tech and business landscape is buzzing with major developments this week. Netflix is making waves with its aggressive advertising strategy, reporting $1.5 billion in ad revenue last year and projecting a doubling in 2026, while also revamping its $83 billion bid for Warner Bros. Discovery to an all-cash offer, intensifying its rivalry with Paramount. Meanwhile, AI continues to dominate discussions at the World Economic Forum in Davos, where global leaders and tech giants are grappling with its rapid advancement and economic impact. The IMF has raised its global growth forecast to 3.3% for 2026, citing booming AI investment as a key driver, though regulatory and ethical concerns persist. In corporate news, Berkshire Hathaway is preparing to exit its 28% stake in Kraft Heinz, marking a rare misstep by Warren Buffett, while GSK announces a $2.2 billion acquisition of RAPT Therapeutics to bolster its food allergy drug pipeline. Elsewhere, facial recognition technology is expanding in airports, raising privacy debates, and smaller AI-focused firms are emerging as serious competitors to Big Tech, reshaping investment trends.
 
 **Top Articles:**
-- [Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html)
-- [Pending home sales drop sharply in December, dampening 2026 outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fpending-home-sales-december-drop-sharply.html)
 - [Mediaite Starts a Newsletter to Summarize Media Newsletters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html)
-- [Hot Dog Maker Nathan’s to Be Bought by Pork Producer Smithfield](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fhot-dog-maker-nathan-s-to-be-bought-by-pork-producer-smithfield)
-- [Canada’s Pipeline Problem Returns as Oil Sands Output Surges](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fcanada-s-pipeline-problem-returns-as-oil-sands-output-surges)
+- [Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html)
+- [US supreme court appears skeptical of Trump’s bid to oust Lisa Cook from Fed board](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case)
+- [Netflix's advertising strategy shift is starting to pay off](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fnetflix-advertising-revenue-strategy-paying-off.html)
+- [Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html)
 
-**Sources**: archive.ph (78 articles)
+**Sources**: archive.ph (75 articles)
 
 ---
 
 ## 📰 Other News
 
-This week’s news highlights a mix of economic shifts, cultural trends, and notable obituaries. In business and finance, U.S. stocks rallied after President Trump ruled out forceful measures in Greenland negotiations, easing market tensions. Meanwhile, Netflix reported a narrow earnings beat with 325 million global subscribers, while also adjusting its offer for Warner Bros. Discovery assets amid a hostile takeover bid. The travel industry sees contrasting trends: luxury costs rise while budget options become more accessible, and 'microvacations' gain popularity as time-strapped travelers maximize short trips. On the cultural front, an immersive reimagining of *Phantom of the Opera* draws repeat audiences, and Disney’s box office dominance in 2025 positions it for another strong year. Notable deaths include David Rosen, co-founder of Sega, and Joe Montgomery, pioneer of lightweight bicycle frames. Socially, Twin Falls, Idaho, welcomes 37 Afrikaner immigrants amid controversial refugee policies, while physicians adapt to rising office rents with unconventional workspace solutions. The World Economic Forum in Davos reflects a shift from global cooperation to deference to Trump’s policies, underscoring broader geopolitical tensions.
+This week's news highlights a mix of business, cultural, and political developments. In the corporate world, Netflix reports strong earnings with 325 million global subscribers and adjusts its offer for Warner Bros. Discovery amid a hostile takeover bid. Disney maintains its box office dominance, while NBCUniversal shifts focus to live sports. Meanwhile, the travel industry sees trends like 'microvacations' and easier access to rewards programs, though luxury travel costs rise. On the political front, the Trump administration reorganizes the IRS ahead of tax season and pushes for housing affordability solutions, despite internal contradictions. Internationally, the EU and South America finalize a major free-trade agreement, contrasting with U.S. coercive trade policies. Notable obituaries include gaming pioneer David Rosen, co-founder of Sega, and bicycle innovator Joe Montgomery of Cannondale. Cultural stories feature an immersive 'Phantom of the Opera' adaptation drawing repeat audiences and a high-value Pokémon card heist in New York.
 
 **Top Articles:**
 - [David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdavid-rosen-dead.html)
 - [Travel’s Latest Buzzword: ‘Microvacations’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fshort-microvacations.html)
 - [Getting Travel Rewards Is Getting Easier](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Floyalty-programs.html)
 - [For Travelers in 2026, Prices Are All Over the Map](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fprices-are-all-over-the-map.html)
-- [US Stocks Rally as Trump Rules Out Force in Greenland Push](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstocks-rebound-as-trump-expounds-on-greenland-equity-market)
+- [Netflix posts narrow earnings beat, reports 325 million global subscribers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 21, 2026 at 05:37 PM *
+*Digest generated on January 21, 2026 at 07:06 PM *
