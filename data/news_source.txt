@@ -1,9 +1,39 @@
 [
   {
-    "title": "Japan’s Second-Largest Bank Plans Big JGB Purchases After Rout",
+    "title": "Return of the Three-Headed Bond Monster Over Tokyo",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-21%2Fjapan-bonds-return-of-the-three-headed-monster-over-tokyo",
+    "published": "Wed, 21 Jan 2026 05:15:31 CST",
+    "summary": "The rampage of the vigilantes is running through Greenland to the US.\n\n"
+  },
+  {
+    "title": "Platinum Is Said to Mull Sale of Hong Kong Lingerie, Swimwear Firm Hop Lun",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fplatinum-is-said-to-mull-sale-of-hong-kong-lingerie-swimwear-firm-hop-lun",
+    "published": "Wed, 21 Jan 2026 05:05:06 CST",
+    "summary": "Platinum Equity is considering options for lingerie and swimwear maker Hop\nLun, including a possible sale, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "China Defends Growth Model at Davos | The China Show 1/21/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-china-show-1-21-2026-video",
+    "published": "Wed, 21 Jan 2026 04:49:03 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
+    "published": "Wed, 21 Jan 2026 04:35:20 CST",
+    "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
+  },
+  {
+    "title": "Bank Giant Plans to Ramp Up $67 Billion Japan Bond Holdings After Market Calms",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapan-s-second-largest-bank-plans-big-jgb-purchases-after-rout",
     "published": "Wed, 21 Jan 2026 04:02:58 CST",
     "summary": "Japan’s second-biggest bank plans to aggressively rebuild its local sovereign\ndebt holdings once a wild surge in yields runs its course.\n\n"
+  },
+  {
+    "title": "The Asia Trade 1/21/26",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-asia-trade-1-21-26-video",
+    "published": "Wed, 21 Jan 2026 04:00:47 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Indian Rupee Declines to Set Fresh Record Low as Capital Outflows Persist",
@@ -22,12 +52,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglobal-market-turmoil-prompts-china-oil-firm-to-pull-bond-sale",
     "published": "Wed, 21 Jan 2026 03:34:39 CST",
     "summary": "Spikes in borrowing costs following a meltdown in Japanese bonds and a selloff\nin US Treasuries have prompted at least one Asian borrower to shelve plans to\nraise funds, underscoring how renewed volatility is rippling through credit\nmarkets.\n\n"
-  },
-  {
-    "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
-    "published": "Wed, 21 Jan 2026 03:30:27 CST",
-    "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
   },
   {
     "title": "India’s Reliance Tumbles Into Deepest Oversold Level in Years",
@@ -78,7 +102,7 @@
     "summary": "Banco de Brasilia SA appointed a new chief financial officer and chief risk\nofficer, as the bank owned by Brazil’s capital city deals with the fallout of\nBanco Master SA’s failure.\n\n"
   },
   {
-    "title": "Indonesian Bond Demand Sinks to 10-Month Low as Rupiah Weakens",
+    "title": "Indonesian Bond Demand at 10-Month Low as Rupiah Weakens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findonesian-bond-demand-sinks-to-10-month-low-as-rupiah-weakens",
     "published": "Wed, 21 Jan 2026 02:19:22 CST",
     "summary": "Demand for Indonesian bonds fell to the lowest in 10 months at an auction as a\nselloff in the rupiah deepened and concerns over the country’s fiscal health\npersisted.\n\n"
@@ -96,40 +120,16 @@
     "summary": "Japan’s financial stocks declined as Tuesday’s government bond meltdown raised\nalarms about potential losses for lenders and brokerages.\n\n"
   },
   {
-    "title": "Brookfield Seeks $1.7 Billion Loan to Refinance Seoul IFC Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbrookfield-seeks-1-7-billion-loan-to-refinance-seoul-ifc-deal",
-    "published": "Wed, 21 Jan 2026 01:48:53 CST",
-    "summary": "Brookfield Asset Management Ltd. is seeking a 2.5 trillion won ($1.7 billion)\nloan backed by Seoul’s International Finance Center, people familiar with the\nmatter said, underscoring the refinancing squeeze facing investors stuck with\nunsold commercial real estate.\n\n"
-  },
-  {
-    "title": "Foreign Funds Return to Indian Tech Stocks on AI Growth Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fforeign-funds-return-to-indian-tech-stocks-on-ai-growth-bets",
-    "published": "Wed, 21 Jan 2026 01:46:26 CST",
-    "summary": "Global money managers are warming up to shares of Indian software exporters\nagain, as they gear their business toward artificial intelligence.\n\n"
-  },
-  {
     "title": "China Keeps Fix Weaker Than 7 in Attempt to Slow Yuan’s Gains",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-keeps-fix-weaker-than-7-despite-dollar-decline-yuan-rally",
     "published": "Wed, 21 Jan 2026 01:45:35 CST",
     "summary": "China set its daily reference rate for the yuan weaker than 7 per dollar in a\nsign the central bank is keen to slow the currency’s gains in the face of\nrecent weakness in the greenback.\n\n"
   },
   {
-    "title": "JGB Turmoil Risks Up to $130 Billion Treasury Selling, Citi Says",
+    "title": "Japan Bond Turmoil Risks Up to $130 Billion Treasury Selling, Citi Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjgb-turmoil-risks-up-to-130-billion-treasury-selling-citi-says",
     "published": "Wed, 21 Jan 2026 01:40:26 CST",
     "summary": "A sharp rise in volatility in Japan’s government bond market could spill over\ninto other markets -- especially US Treasuries -- forcing some investors to\ncut back risk across portfolios, Citigroup Inc. said.\n\n"
-  },
-  {
-    "title": "JPMorgan UK Unit to Open Branch in India’s GIFT City",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjpmorgan-uk-unit-to-open-branch-in-india-s-gift-city",
-    "published": "Wed, 21 Jan 2026 01:38:22 CST",
-    "summary": "A unit of JPMorgan Chase & Co. is setting up a branch in India’s Gujarat\nInternational Finance Tec-City, or GIFT City, to trade equities, among other\ninstruments, becoming the latest global bank to take advantage of the\ncountry’s low-tax hub.\n\n"
-  },
-  {
-    "title": "Indian State Refiner BPCL Leads Push to Lock In Mideast Crude",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findian-state-refiner-bpcl-leads-push-to-lock-in-mideast-crude",
-    "published": "Wed, 21 Jan 2026 01:06:05 CST",
-    "summary": "Indian state-owned refiner Bharat Petroleum Corp. is seeking to lock in long-\nterm Middle East crude purchases, in the latest sign that the world’s third-\nlargest oil importer is edging back toward traditional suppliers and away from\na heavy reliance on cheap Russian cargoes.\n\n"
   },
   {
     "title": "Vanke Wins Approval for Revised Plan to Extend Yuan Bond",
@@ -194,7 +194,7 @@
   {
     "title": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not To.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Fbessent-powell-supreme-court-fed.html",
-    "published": "Tue, 20 Jan 2026 22:44:36 CST",
+    "published": "Tue, 20 Jan 2026 22:44:37 CST",
     "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
   },
   {
@@ -207,7 +207,7 @@
     "title": "S&amp;P 500 Futures Advance, Japanese Bonds Rebound: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "Japanese bonds rebounded after a selloff that rippled through global debt\nmarkets, while US equity-index futures rose as volatility showed tentative\nsigns of easing.\n\n"
+    "summary": "Japanese bonds rebounded after a selloff that rippled through global debt\nmarkets, and US equity-index futures rose as volatility showed tentative signs\nof easing.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -452,7 +452,7 @@
   {
     "title": "The Rise of Prediction Markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftechnology%2Fpolymarket-kalshi-prediction-markets.html",
-    "published": "Mon, 19 Jan 2026 10:01:04 CST",
+    "published": "Mon, 19 Jan 2026 10:01:05 CST",
     "summary": "Billions of dollars are trading hands on sites like Polymarket and Kalshi,\nwhere people bet on everything from Taylor Swift’s wedding date to election\noutcomes.\n\n"
   },
   {
