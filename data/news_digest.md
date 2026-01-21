@@ -6,73 +6,62 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ## 🌍 World & Politics
 
-Global energy markets are shifting as India's state-owned refiner BPCL moves to secure long-term Middle East crude deals, signaling a potential reduction in reliance on discounted Russian oil. Meanwhile, China's access to cheap Venezuelan crude is dwindling as the final tankers of sanctioned oil approach Asian ports, forcing Beijing to seek alternative sources. In Venezuela, economic instability drives locals toward Tether's USDT stablecoin as a hedge against political turmoil, while U.S. oil giants remain hesitant to invest in the country despite President Trump's renewed interest in its reserves. Domestically, Trump's aggressive trade policies and threats of a new tariff war face legal challenges, with courts weighing limits on his executive authority. Congress, however, avoids a government shutdown with a bipartisan funding deal, though economic warnings persist about the long-term impact of Trump's policies. In Minnesota, unions and faith groups plan an economic blackout to protest increased ICE operations, reflecting growing tensions over immigration enforcement.
+Global tensions escalate as geopolitical shifts and economic pressures dominate headlines. China's potential move on Taiwan remains a critical concern amid broader instability, with recent U.S. military actions in Venezuela and Greenland further straining international norms. Meanwhile, India's state refiner BPCL is pivoting back to Middle Eastern crude, reducing reliance on Russian oil, while China's access to cheap Venezuelan oil nears its end as the last sanctioned tankers arrive. Domestically, President Trump's aggressive trade policies and economic strategies face legal challenges, though his threats of a new trade war persist. Congress, however, appears poised to avoid a government shutdown with a bipartisan funding deal. In Venezuela, economic turmoil drives locals toward cryptocurrency like USDT for stability, while the FAA warns of heightened military activity in Latin American airspace, reflecting broader regional instability.
 
 **Top Articles:**
+- [What Happens if China Attacks Taiwan?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwhat-happens-if-china-attacks-taiwan-video)
 - [Indian State Refiner BPCL Leads Push to Lock In Mideast Crude](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findian-state-refiner-bpcl-leads-push-to-lock-in-mideast-crude)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 - [Congress moves toward funding government, dodging shutdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F)
-- [Economic blackout day planned in Minnesota to protest ICE surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F20%2Fice-immigrarion-minnesota-economic-protest)
 
-**Sources**: archive.ph (9 articles)
+**Sources**: archive.ph (10 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-{
-    "summary": "Global markets are reeling from a wave of volatility driven by geopolitical tensions and central bank actions. Japanese government bond (JGB) turmoil has sent shockwaves through financial markets, with liquidity deteriorating to record lows and fears of a spillover into U.S. Treasuries, potentially triggering up to $130 billion in sales. The selloff has weighed on Asian stocks, though Japanese bonds rebounded slightly after Finance Minister Satsuki Katayama called for calm. Meanwhile, President Donald Trump’s aggressive trade policies—including threats of new tariffs and a push to annex Greenland—have rattled investors, sending U.S. stocks to their worst day since October and driving safe-haven demand for gold and platinum to record highs. Oil prices have also declined amid the uncertainty, while China’s central bank is resisting yuan appreciation despite a weaker dollar, signaling caution over rapid currency gains.
-
-On the corporate front, Netflix has intensified its bid for Warner Bros. Discovery with an all-cash $82.7 billion offer, aiming to outmaneuver Paramount and accelerate the deal’s completion. The streaming giant also reported strong fourth-quarter earnings but warned of higher programming spending in 2026. Elsewhere, Chinese firms like Pop Mart and Xiaomi are boosting share buybacks to shore up investor confidence, while Novo Nordisk saw an 8% stock surge after strong early sales of its Wegovy obesity drug. In the U.S., Stellantis is under pressure to execute its turnaround strategy after a 43% stock decline, and FedEx is doubling down on AI and drone technology under CEO Raj Subramaniam. Central banks, meanwhile, are increasingly turning to gold as a hedge against dollar instability, reflecting broader concerns about global economic fragmentation.",
-    "key_stories": [
-        "Japanese bond market turmoil sparks global volatility fears",
-        "Trump’s tariffs and Greenland push trigger market selloff",
-        "Netflix sweetens Warner Bros. bid with all-cash $82.7B offer",
-        "Gold and platinum hit records as safe-haven demand surges",
-        "China resists yuan strength despite dollar decline"
-    ]
-}
+Global markets are reeling from heightened volatility driven by geopolitical tensions and central bank uncertainty. A meltdown in Japanese government bonds (JGBs) has sent shockwaves through credit markets, prompting China’s state-owned oil firm to shelve a bond sale and raising fears of a $130 billion Treasury selloff. Meanwhile, US stocks suffered their worst day since October after President Trump’s threats of new tariffs over Greenland rattled investors, sending oil prices lower while gold and platinum surged to record highs. The Indian rupee hit a fresh low amid persistent capital outflows, and Reliance Industries faced its deepest oversold level in years due to retail slowdowns and US scrutiny over Russian oil purchases. In corporate news, Netflix sweetened its $82.7 billion all-cash bid for Warner Bros. Discovery, while Novo Nordisk shares jumped 8% on strong demand for its obesity drug Wegovy. Central banks remain in focus, with China weakening the yuan’s fix to curb gains and the Fed’s leadership in flux as Trump weighs replacements for Jerome Powell.
 
 **Top Articles:**
-- [Japanese Bank Stocks Slide as JGB Volatility Stokes Loss Fears](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapanese-bank-stocks-slide-as-jgb-volatility-stokes-loss-fears)
-- [Brookfield Seeks $1.7 Billion Loan to Refinance Seoul IFC Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbrookfield-seeks-1-7-billion-loan-to-refinance-seoul-ifc-deal)
-- [China Keeps Fix Weaker Than 7 Despite Dollar Decline, Yuan Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-keeps-fix-weaker-than-7-despite-dollar-decline-yuan-rally)
-- [JGB Turmoil Risks Up to $130 Billion Treasury Selling, Citi Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjgb-turmoil-risks-up-to-130-billion-treasury-selling-citi-says)
-- [JPMorgan UK Unit to Open Branch in India’s GIFT City](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjpmorgan-uk-unit-to-open-branch-in-india-s-gift-city)
+- [Japan’s Second-Largest Bank Plans Big JGB Purchases After Rout](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapan-s-second-largest-bank-plans-big-jgb-purchases-after-rout)
+- [Indian Rupee Declines to Set Fresh Record Low as Capital Outflows Persist](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Finr-usd-india-rupee-falls-to-set-fresh-record-low-as-capital-outflows-persist)
+- [Global Market Turmoil Prompts China Oil Firm to Pull Bond Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglobal-market-turmoil-prompts-china-oil-firm-to-pull-bond-sale)
+- [Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html)
+- [India’s Reliance Tumbles Into Deepest Oversold Level in Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findia-s-reliance-tumbles-into-deepest-oversold-level-in-years)
 
-**Sources**: archive.ph (92 articles)
+**Sources**: archive.ph (93 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, led by Netflix's revised $83 billion all-cash bid for Warner Bros. Discovery, intensifying its rivalry with Paramount. AI continues to dominate, with OpenAI introducing ads in ChatGPT to boost revenue, while global investors flock to Indian tech stocks amid AI-driven growth bets. Regulatory and economic shifts are also in focus, as President Trump imposes new tariffs on foreign semiconductors and European countries, while the IMF upgrades global growth forecasts to 3.3% for 2026, citing AI investment as a key driver. Meanwhile, South Korea's stock market rally persists, and China's Vanke secures creditor approval for a bond extension, easing default risks. In aviation, Boeing outperforms Airbus in deliveries for the first time since 2018, while United Airlines reports strong early 2026 earnings. The intersection of AI, corporate strategy, and geopolitical tensions remains a defining theme across industries.
+The tech and business landscape is buzzing with major developments, led by Netflix's revised $83 billion all-cash bid for Warner Bros. Discovery, intensifying its rivalry with Paramount. Meanwhile, AI continues to dominate headlines, with OpenAI introducing ads in ChatGPT to boost revenue, while global investors flock to Indian tech stocks amid AI-driven growth bets. Regulatory and trade tensions are also in focus, as the Trump administration imposes new tariffs on European countries and semiconductors, while China's lithium market faces intervention due to volatile price swings. At Davos, AI and Big Tech take center stage, with BlackRock CEO Larry Fink emerging as a key influencer. Elsewhere, Boeing outperforms Airbus in 2025 deliveries, and potential mega-IPOs from SpaceX, OpenAI, and Anthropic could reshape markets in 2026.
 
 **Top Articles:**
-- [Korea’s President Lee Says Won Is Holding Up, Could Hit 1,400](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fkorea-s-president-lee-says-won-is-holding-up-could-hit-1-400)
+- [China’s Lithium Tumult Spurs Futures Exchange to Step In Again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-s-lithium-tumult-spurs-futures-exchange-to-step-in-again)
+- [Korea’s Lee Says Won May Strengthen, Stabilize in Two Months](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fkorea-s-president-lee-says-won-is-holding-up-could-hit-1-400)
 - [Foreign Funds Return to Indian Tech Stocks on AI Growth Bets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fforeign-funds-return-to-indian-tech-stocks-on-ai-growth-bets)
-- [China Vanke Wins Approval for Revised Plan to Extend Yuan Bond](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-vanke-wins-approval-for-revised-plan-to-extend-yuan-bond)
-- [World-Beating South Korea Stocks Still ‘Cheap’, First Eagle Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fworld-beating-south-korea-stocks-still-cheap-first-eagle-says)
-- [Crescent Collects $3.2 Billion in Largest Credit Secondary Fund](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcrescent-collects-3-2-billion-in-largest-credit-secondary-fund)
+- [Vanke Wins Approval for Revised Plan to Extend Yuan Bond](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-vanke-wins-approval-for-revised-plan-to-extend-yuan-bond)
+- [Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html)
 
-**Sources**: archive.ph (74 articles)
+**Sources**: archive.ph (72 articles)
 
 ---
 
 ## 📰 Other News
 
-Global economic and corporate developments dominate this week's news, with Netflix reporting a narrow earnings beat and 325 million global subscribers, while also adjusting its offer for Warner Bros. Discovery assets amid a hostile takeover attempt by Paramount Skydance. Meanwhile, Rio Tinto's copper production rises 5% in Q4, driven by expansion at Mongolia's Oyu Tolgoi mine, signaling strength in the commodities sector despite broader market volatility. In financial markets, Indonesian bond demand hits a 10-month low as the rupiah weakens, reflecting persistent fiscal concerns. On the political front, the Trump administration continues to reshape economic policy, with IRS reorganization ahead of tax season and aggressive tactics to lower housing costs, though critics argue these moves undermine affordability efforts. Culturally, an immersive reimagining of *Phantom of the Opera* draws repeat audiences, while the World Economic Forum in Davos shifts focus from global cooperation to deference to U.S. policy under Trump. Notable obituaries include David Rosen, co-founder of Sega, and Joe Montgomery, pioneer of lightweight bicycle frames, marking the passing of two influential innovators.
+Global tensions and economic shifts dominate this week’s headlines, with Europe and the U.S. locked in a sovereignty dispute over Greenland as Donald Trump’s confrontational stance tests EU unity. Meanwhile, financial markets react to rising inflation, particularly in food prices, while housing affordability remains a pressing issue under Trump’s administration, which is exploring aggressive measures to lower costs. In corporate news, Netflix reports a narrow earnings beat with 325 million global subscribers and adjusts its offer for Warner Bros. Discovery assets amid a hostile takeover bid. Cultural highlights include the success of an immersive *Phantom of the Opera* adaptation and the passing of industry pioneers like Sega co-founder David Rosen and Cannondale’s Joe Montgomery. Social trends reveal challenges for Black women in the workforce and the growing appeal of prediction markets among younger investors.
 
 **Top Articles:**
+- [Trump Brings Greenland Fight to Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-brings-greenland-fight-to-davos-video)
+- [Glenfarne Mulls Expanding Capacity at Texas LNG Export Project](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglenfarne-mulls-expanding-capacity-at-texas-lng-export-project)
 - [Indonesian Bond Demand Sinks to 10-Month Low as Rupiah Weakens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findonesian-bond-demand-sinks-to-10-month-low-as-rupiah-weakens)
-- [Fmr. Netflix Exec Reacts to 4Q Results, Content Strategy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ffmr-netflix-exec-reacts-to-4q-results-content-strategy-video)
 - [Netflix posts narrow earnings beat, reports 325 million global subscribers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
-- [Rio Tinto Copper Output Climbs as Oyu Tolgoi Mine Ramps Up](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frio-tinto-pilbara-iron-ore-shipments-rise-to-record)
 - [Joe Montgomery, Who Made Bicycles Lighter, Dies at 86](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html)
 
 **Sources**: archive.ph (37 articles)
 
 ---
 
-*Digest generated on January 21, 2026 at 02:36 AM *
+*Digest generated on January 21, 2026 at 04:31 AM *

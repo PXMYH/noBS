@@ -1,15 +1,93 @@
 [
   {
+    "title": "Japan’s Second-Largest Bank Plans Big JGB Purchases After Rout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapan-s-second-largest-bank-plans-big-jgb-purchases-after-rout",
+    "published": "Wed, 21 Jan 2026 04:02:58 CST",
+    "summary": "Japan’s second-biggest bank plans to aggressively rebuild its local sovereign\ndebt holdings once a wild surge in yields runs its course.\n\n"
+  },
+  {
+    "title": "Indian Rupee Declines to Set Fresh Record Low as Capital Outflows Persist",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Finr-usd-india-rupee-falls-to-set-fresh-record-low-as-capital-outflows-persist",
+    "published": "Wed, 21 Jan 2026 03:53:45 CST",
+    "summary": "The Indian rupee fell to a new low on foreign outflows from the nation’s\nequities, as a delay in a trade deal with the US dents investor sentiment.\n\n"
+  },
+  {
+    "title": "China’s Lithium Tumult Spurs Futures Exchange to Step In Again",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-s-lithium-tumult-spurs-futures-exchange-to-step-in-again",
+    "published": "Wed, 21 Jan 2026 03:53:33 CST",
+    "summary": "Lithium’s violent price swings have prompted China’s futures exchange to\nintervene once again to manage market risks.\n\n"
+  },
+  {
+    "title": "Global Market Turmoil Prompts China Oil Firm to Pull Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglobal-market-turmoil-prompts-china-oil-firm-to-pull-bond-sale",
+    "published": "Wed, 21 Jan 2026 03:34:39 CST",
+    "summary": "Spikes in borrowing costs following a meltdown in Japanese bonds and a selloff\nin US Treasuries have prompted at least one Asian borrower to shelve plans to\nraise funds, underscoring how renewed volatility is rippling through credit\nmarkets.\n\n"
+  },
+  {
+    "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
+    "published": "Wed, 21 Jan 2026 03:30:27 CST",
+    "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
+  },
+  {
+    "title": "India’s Reliance Tumbles Into Deepest Oversold Level in Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findia-s-reliance-tumbles-into-deepest-oversold-level-in-years",
+    "published": "Wed, 21 Jan 2026 03:28:47 CST",
+    "summary": "Reliance Industries Ltd.’s shares are the most oversold they have been in five\nyears, as India’s largest company grapples with headwinds -- from a slowdown\nin its retail business to growing unease over potential US action related to\nits purchases of Russian crude oil.\n\n"
+  },
+  {
+    "title": "Silver Retail Buying Keeps Supplies Tight as Rally Gathers Pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsilver-retail-buying-keeps-supplies-tight-as-rally-gathers-pace",
+    "published": "Wed, 21 Jan 2026 03:27:26 CST",
+    "summary": "From Chinese aunties queuing in Shenzhen markets to out-of-stock Turkish\nrefineries and a Korea Mint offer that sold out within an hour, silver’s\ndizzying rally is leaving banks and refiners scrambling to meet unprecedented\ndemand from retail investors.\n\n"
+  },
+  {
+    "title": "Australian Firms Delay Spending on Cost Pressures, Survey Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Faustralian-firms-delay-spending-on-cost-pressures-survey-shows",
+    "published": "Wed, 21 Jan 2026 03:22:27 CST",
+    "summary": "Australian businesses are holding off on major investments until economic\nuncertainty eases, according to a new report, as renewed inflationary\npressures raise the risk the Reserve Bank may be forced to pivot to hiking\ninterest rates.\n\n"
+  },
+  {
+    "title": "Trump Brings Greenland Fight to Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-brings-greenland-fight-to-davos-video",
+    "published": "Wed, 21 Jan 2026 03:17:22 CST",
+    "summary": "Europe’s confrontation with Donald Trump over Greenland is fast becoming more\nthan another quarrel. The European Union faces a stress test of whether it can\nrespond as a united force when its sovereignty is challenged. Bloomberg's Jill\nDisis has the latest. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "What Happens if China Attacks Taiwan?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwhat-happens-if-china-attacks-taiwan-video",
+    "published": "Wed, 21 Jan 2026 03:14:53 CST",
+    "summary": "Recent US military action in Venezuela and the escalating push to acquire\nGreenland have raised urgent questions about the stability of international\nnorms. As global order shifts, concerns are mounting over a potential Chinese\nmove on Taiwan. The German Marshall Fund of the United States has gamed out\nscenarios for a potential cross-strait conflict, outlining the strategic and\neconomic costs Beijing might face. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Glenfarne Mulls Expanding Capacity at Texas LNG Export Project",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglenfarne-mulls-expanding-capacity-at-texas-lng-export-project",
+    "published": "Wed, 21 Jan 2026 03:00:19 CST",
+    "summary": "Glenfarne Group LLC is looking to expand the capacity to export liquefied\nnatural gas from its planned Texas LNG project.\n\n"
+  },
+  {
+    "title": "Investors Seek Safety of India State-Owned Firms as Selloff Deepens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Findia-realty-stocks-start-2026-on-a-bearish-note-psu-stocks-back-in-favor",
+    "published": "Wed, 21 Jan 2026 02:45:02 CST",
+    "summary": "A BSE gauge of state-owned firms is set to outperform the benchmark Sensex.\n\n"
+  },
+  {
+    "title": "Brazil’s BRB Replaces Finance and Risk Chiefs Amid Master Probes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbrazil-s-brb-replaces-finance-and-risk-chiefs-amid-master-probes",
+    "published": "Wed, 21 Jan 2026 02:37:39 CST",
+    "summary": "Banco de Brasilia SA appointed a new chief financial officer and chief risk\nofficer, as the bank owned by Brazil’s capital city deals with the fallout of\nBanco Master SA’s failure.\n\n"
+  },
+  {
     "title": "Indonesian Bond Demand Sinks to 10-Month Low as Rupiah Weakens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findonesian-bond-demand-sinks-to-10-month-low-as-rupiah-weakens",
     "published": "Wed, 21 Jan 2026 02:19:22 CST",
     "summary": "Demand for Indonesian bonds fell to the lowest in 10 months at an auction as a\nselloff in the rupiah deepened and concerns over the country’s fiscal health\npersisted.\n\n"
   },
   {
-    "title": "Korea’s President Lee Says Won Is Holding Up, Could Hit 1,400",
+    "title": "Korea’s Lee Says Won May Strengthen, Stabilize in Two Months",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fkorea-s-president-lee-says-won-is-holding-up-could-hit-1-400",
     "published": "Wed, 21 Jan 2026 02:05:40 CST",
-    "summary": "South Korea’s President Lee Jae Myung said the country’s beleaguered currency\nmay strengthen and stabilize at around the 1,400 to a dollar level within the\nnext two months.\n\n"
+    "summary": "South Korea’s President Lee Jae Myung said the country’s beleaguered currency\nmay strengthen and stabilize around the 1,400-per-dollar level within the next\ntwo months.\n\n"
   },
   {
     "title": "Japanese Bank Stocks Slide as JGB Volatility Stokes Loss Fears",
@@ -30,16 +108,16 @@
     "summary": "Global money managers are warming up to shares of Indian software exporters\nagain, as they gear their business toward artificial intelligence.\n\n"
   },
   {
-    "title": "China Keeps Fix Weaker Than 7 Despite Dollar Decline, Yuan Rally",
+    "title": "China Keeps Fix Weaker Than 7 in Attempt to Slow Yuan’s Gains",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-keeps-fix-weaker-than-7-despite-dollar-decline-yuan-rally",
     "published": "Wed, 21 Jan 2026 01:45:35 CST",
-    "summary": "China set its daily reference rate for the yuan weaker than 7 per dollar, a\nsign the central bank is keen to slow the currency’s gains in the face of\nrecent weakness in the greenback.\n\n"
+    "summary": "China set its daily reference rate for the yuan weaker than 7 per dollar in a\nsign the central bank is keen to slow the currency’s gains in the face of\nrecent weakness in the greenback.\n\n"
   },
   {
     "title": "JGB Turmoil Risks Up to $130 Billion Treasury Selling, Citi Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjgb-turmoil-risks-up-to-130-billion-treasury-selling-citi-says",
     "published": "Wed, 21 Jan 2026 01:40:26 CST",
-    "summary": "A sharp rise in Japanese government bond volatility “risks resulting in a rise\nin volatility in other asset classes, particularly US Treasuries,\nnecessitating a reduction in overall portfolio size,” according to Citigroup\nGlobal Markets.\n\n"
+    "summary": "A sharp rise in volatility in Japan’s government bond market could spill over\ninto other markets -- especially US Treasuries -- forcing some investors to\ncut back risk across portfolios, Citigroup Inc. said.\n\n"
   },
   {
     "title": "JPMorgan UK Unit to Open Branch in India’s GIFT City",
@@ -54,61 +132,13 @@
     "summary": "Indian state-owned refiner Bharat Petroleum Corp. is seeking to lock in long-\nterm Middle East crude purchases, in the latest sign that the world’s third-\nlargest oil importer is edging back toward traditional suppliers and away from\na heavy reliance on cheap Russian cargoes.\n\n"
   },
   {
-    "title": "JPMorgan’s Michele Says Market Selloff Is Message for Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjpmorgan-s-michele-says-market-selloff-is-message-for-trump",
-    "published": "Wed, 21 Jan 2026 01:03:19 CST",
-    "summary": "JPMorgan Asset Management’s Bob Michele said the selloff in markets is a\nmessage to President Donald Trump’s administration to take action to restore\ncalm as officials did after Liberation Day tariffs rattled investors last\nyear.\n\n"
-  },
-  {
-    "title": "RGA's Gardner on Risk Aversion on Global Trading Floors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Frga-s-gardner-on-risk-aversion-on-global-trading-floors-video",
-    "published": "Wed, 21 Jan 2026 00:57:21 CST",
-    "summary": "Rick Gardner, CIO at RGA Investments, shares his views on the recent selloff\nin Japanese government bonds and gives his perspective on the fear of a\nspillover into other markets. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "China Vanke Wins Approval for Revised Plan to Extend Yuan Bond",
+    "title": "Vanke Wins Approval for Revised Plan to Extend Yuan Bond",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-vanke-wins-approval-for-revised-plan-to-extend-yuan-bond",
     "published": "Wed, 21 Jan 2026 00:36:55 CST",
     "summary": "China Vanke Co. won enough creditor backing to extend payments on a yuan bond\nfor a year, after it sweetened an earlier proposal with an upfront cash\npayment, easing the embattled developer’s risk of an imminent default.\n\n"
   },
   {
-    "title": "Japan Bond Market Liquidity Worsens to Record on Buyers’ Strike",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapan-bond-market-liquidity-worsens-to-record-on-buyers-strike",
-    "published": "Wed, 21 Jan 2026 00:34:07 CST",
-    "summary": "Liquidity in Japan’s government bond market has deteriorated to record levels\namid this week’s sharp selloff, underscoring what many see as a buyers’ strike\nthat has sent super-long yields soaring.\n\n"
-  },
-  {
-    "title": "Pop Mart, Xiaomi Expand Share Buyback Wave as Stocks Waver",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fpop-mart-xiaomi-expand-share-buyback-wave-as-stocks-waver",
-    "published": "Wed, 21 Jan 2026 00:18:46 CST",
-    "summary": "Some of the biggest Chinese firms listed in Hong Kong are busy buying back\ntheir own shares, seeking to shore up investor confidence in their cooling\nstock prices.\n\n"
-  },
-  {
-    "title": "World-Beating South Korea Stocks Still ‘Cheap’, First Eagle Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fworld-beating-south-korea-stocks-still-cheap-first-eagle-says",
-    "published": "Wed, 21 Jan 2026 00:16:23 CST",
-    "summary": "South Korean equities remain attractive despite a record-breaking rally, with\na corporate reform drive modeled on Japan’s playbook seen delivering faster\ngains for shareholders, according to First Eagle Investment Management.\n\n"
-  },
-  {
-    "title": "Crescent Collects $3.2 Billion in Largest Credit Secondary Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcrescent-collects-3-2-billion-in-largest-credit-secondary-fund",
-    "published": "Tue, 20 Jan 2026 23:52:25 CST",
-    "summary": "Crescent Capital Group collected $3.2 billion for a fund that allows it to\nhold on to some of its private credit investments for longer, marking the\nlargest raise for a vehicle dedicated to credit secondaries so far.\n\n"
-  },
-  {
-    "title": "MNTN CEO: WBD's Ad Sales Could be a ‘Hidden Gem' for Netflix",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fwbd-s-ad-sales-could-be-a-hidden-gem-for-netflix-mntn-video",
-    "published": "Tue, 20 Jan 2026 23:47:05 CST",
-    "summary": "Mark Douglas, MNTN CEO, says Warner Bros. has a well established advertising\nbusiness, while Netflix is still building its ad platform. He tells Romaine\nBostick and Katie Greifeld on “The Close” that Warner Bros.’ ad sales team\ncould be a hidden gem if Netflix wins the acquisition battle. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Calpers Boosts Venture, Growth Investments in PE Overhaul",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fcalpers-boosts-venture-growth-investments-in-pe-overhaul",
-    "published": "Tue, 20 Jan 2026 23:35:09 CST",
-    "summary": "California Public Employees’ Retirement System, the biggest US public pension\nfund, is deploying more money to fast-growing and early-stage companies as\npart of a broader revamp of its private equity portfolio.\n\n"
-  },
-  {
-    "title": "Japan’s Long Bonds Rebound After Katayama Calls for Market Calm",
+    "title": "Japan’s Long Bonds Rebound After Finance Chief Calls for Market Calm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapanese-bonds-may-rebound-after-katayama-calls-for-market-calm",
     "published": "Tue, 20 Jan 2026 23:33:49 CST",
     "summary": "Japan’s longer maturity bonds rebounded after Finance Minister Satsuki\nKatayama called for calm among market participants following a rout that\npushed yields to all-time highs.\n\n"
@@ -124,12 +154,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Flatest-oil-market-news-and-analysis-for-jan-21",
     "published": "Tue, 20 Jan 2026 23:30:53 CST",
     "summary": "Oil fell as US President Donald Trump’s attempts to annex Greenland sent\njitters through wider markets, and traders waited for fresh insights into the\nglobal crude balance from the International Energy Agency.\n\n"
-  },
-  {
-    "title": "Fmr. Netflix Exec Reacts to 4Q Results, Content Strategy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Ffmr-netflix-exec-reacts-to-4q-results-content-strategy-video",
-    "published": "Tue, 20 Jan 2026 23:28:09 CST",
-    "summary": "Simon Gallagher, SPG Global managing director and former strategy and content\nacquisition executive at Hulu and Netflix, says unlike YouTube, Netflix needs\nto focus on premium scripted and unscripted content rather than user generated\nprogramming. He speaks with Romaine Bostick and Katie Greifeld on “The Close.”\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
@@ -180,16 +204,10 @@
     "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Asian Stocks Trim Losses, Japanese Bonds Rebound: Markets Wrap",
+    "title": "S&amp;P 500 Futures Advance, Japanese Bonds Rebound: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "Japanese bonds rebounded from a selloff and US equity-index futures edged\nhigher as markets showed signs of easing after a bout of global volatility.\n\n"
-  },
-  {
-    "title": "Tricolor’s Founder Declines Over 100 Times to Discuss Its Demise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Ftricolor-founder-faces-creditors-declines-to-answer-questions",
-    "published": "Tue, 20 Jan 2026 22:17:55 CST",
-    "summary": "For five hours, lawyers for creditors pressed Daniel Chu again and again on\nTuesday for details on the collapse of his subprime auto-loan business\nTricolor Holdings.\n\n"
+    "summary": "Japanese bonds rebounded after a selloff that rippled through global debt\nmarkets, while US equity-index futures rose as volatility showed tentative\nsigns of easing.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -204,18 +222,6 @@
     "summary": "Sell-off hits US stocks in first trading day since president threatened\ntariffs against eight countries\n\nStock markets fell on both sides of the Atlantic on Tuesday, with Wall Street\nsuffering its worst day since October, as investor concerns persisted over the\nfallout from Donald Trump’s push for US control of Greenland.\n\nThe sell-off hit US stocks on the first day of trading in New York since Trump\nthreatened new tariffs on eight European countries, after the market was\nclosed for a public holiday on Monday. The S&P 500 closed down 2.1% while the\nDow Jones finished down 1.8%.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Rio Tinto Copper Output Climbs as Oyu Tolgoi Mine Ramps Up",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Frio-tinto-pilbara-iron-ore-shipments-rise-to-record",
-    "published": "Tue, 20 Jan 2026 21:39:43 CST",
-    "summary": "Rio Tinto Group’s copper production climbed 5% in the fourth quarter thanks to\nthe expansion of underground operations at Oyu Tolgoi in Mongolia, while its\ncore Pilbara iron ore mines hit a record in the last three months of the year.\n\n"
-  },
-  {
-    "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html",
-    "published": "Tue, 20 Jan 2026 21:30:12 CST",
-    "summary": "The S&P 500 dropped over 2 percent on Tuesday, its biggest decline since\nOctober.\n\n"
-  },
-  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Tue, 20 Jan 2026 21:13:51 CST",
@@ -226,12 +232,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html",
     "published": "Tue, 20 Jan 2026 21:13:14 CST",
     "summary": "President Trump may be on the verge of having his authority on imposing\ntariffs curtailed, but that hasn’t slowed down his threats.\n\n"
-  },
-  {
-    "title": "Netflix to Boost Program Spending in 2026, Crimping Profit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fnetflix-to-boost-spending-on-programs-in-2026-crimping-profit",
-    "published": "Tue, 20 Jan 2026 21:01:06 CST",
-    "summary": "Netflix Inc. delivered fourth-quarter results that largely beat Wall Street\nestimates but issued a cautious forecast for the months ahead, citing higher\nprogram spending and the cost of closing its deal with Warner Bros. Discovery\nInc.\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more",
