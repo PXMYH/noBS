@@ -1,5 +1,59 @@
 [
   {
+    "title": "Morgan Stanley Lifts Frontier-Market Appeal, Sees Nigeria Upgrade Cycle",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmorgan-stanley-lifts-frontier-market-appeal-sees-nigeria-upgrade-cycle",
+    "published": "Wed, 21 Jan 2026 11:29:25 CST",
+    "summary": "Morgan Stanley turned positive on Nigerian sovereign bonds, saying the country\nis better placed to weather low oil prices and predicting more credit-rating\nupgrades.\n\n"
+  },
+  {
+    "title": "Lack of Market Panic on Greenland Undermines TACO Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Flack-of-market-panic-on-greenland-undermines-taco-trade",
+    "published": "Wed, 21 Jan 2026 11:16:53 CST",
+    "summary": "If markets don't sell off violently, does Trump have any reason to chicken\nout?\n\n"
+  },
+  {
+    "title": "Trump at Davos: What Next For Greenland, Europe & NATO? | The Pulse 1/21",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-pulse-1-21-video",
+    "published": "Wed, 21 Jan 2026 11:13:17 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Philipp Hildebrand,\nBlackRock Vice Chairman; Bettina Orlopp, Commerzbank CEO; Amir Yaron, Israel\nCentral Bank Governor. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "MHP Kicks Off Ukraine’s First Bond Sale Since Russian Invasion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmhp-kicks-off-ukraine-s-first-bond-sale-since-russian-invasion",
+    "published": "Wed, 21 Jan 2026 11:12:29 CST",
+    "summary": "Agricultural firm MHP SE is launching Ukraine’s first bond sale since Russia’s\nfull-scale invasion of the country in 2022.\n\n"
+  },
+  {
+    "title": "Russia Says Ukraine Attacked Afipsky Oil Refinery Overnight",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Frussia-says-ukraine-attacked-afipsky-oil-refinery-overnight",
+    "published": "Wed, 21 Jan 2026 11:00:43 CST",
+    "summary": "Russia said Ukrainian drones targeted the Afipsky refinery in the Krasnodar\nregion overnight, in the latest attack on the nation’s energy infrastructure.\n\n"
+  },
+  {
+    "title": "Former JPMorgan Banker Launches European Sports Fund Athvance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fformer-jpmorgan-banker-launches-european-sports-fund-athvance",
+    "published": "Wed, 21 Jan 2026 11:00:20 CST",
+    "summary": "Ex-JPMorgan Chase & Co. banker Karim Ben Rejeb has set up an investment fund\nthat will target emerging and under-commercialized sports in Europe.\n\n"
+  },
+  {
+    "title": "PGIM Plans $1 Billion Foray Into Private Credit Secondaries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fpgim-plans-1-billion-foray-into-private-credit-secondaries",
+    "published": "Wed, 21 Jan 2026 11:00:00 CST",
+    "summary": "PGIM, the asset management arm of Prudential Financial, is seeking to compete\nin the booming market for trading private credit stakes.\n\n"
+  },
+  {
+    "title": "Why sticking to your savings plan beats panic buying gold or crypto",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Ftrump-greenland-tariffs-panic-investing%2F",
+    "published": "Wed, 21 Jan 2026 11:00:00 CST",
+    "summary": "Sticking to a savings plan beats panic selling or buying crypto or gold out of\nfear in a volatile stock market.\n\n"
+  },
+  {
+    "title": "Qatari Finance Minister on Energy, Global Resilience",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fqatari-finance-minister-on-energy-global-resilience-video",
+    "published": "Wed, 21 Jan 2026 10:59:35 CST",
+    "summary": "Qatar's Finance Minister Ali bin Ahmed Al-Kuwari speaks to Bloomberg's\nJoumanna Bercetche on the sidelines of the 2026 World Economic Forum in Davos,\nSwitzerland. He discusses resilient growth amid geopolitical uncertainty,\nQatar's energy strength, and an AI-driven future. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Amazon Investors Bet on AWS to Pull the Stock Out of Its Malaise",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Famazon-investors-bet-on-aws-to-pull-the-stock-out-of-its-malaise",
     "published": "Wed, 21 Jan 2026 10:39:14 CST",
@@ -84,70 +138,16 @@
     "summary": "A mechanism designed to shield Norwegian consumers from power-price volatility\nis boosting demand in the south of the country and pushing up prices both\ndomestically and in neighboring markets, according to Danish energy trader\nMind Energy.\n\n"
   },
   {
-    "title": "AirAsia X Deputy CEO on Global Growth Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fairasia-x-deputy-ceo-on-global-growth-plans-video",
-    "published": "Wed, 21 Jan 2026 09:22:50 CST",
-    "summary": "AirAsia X Deputy Group CEO Farouk Kamal shares the airline’s strategy to\nconnect ASEAN to the world, with plans for a Middle East hub and increased\nlong-haul connectivity. He joined Paul Allen exclusively on Insight with\nHaslinda Amin to discuss the airline’s plans for restructuring, financing, and\nthe road ahead. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Thailand Finance Min on FDI, Gold, Inflation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthailand-finance-min-on-fdi-gold-inflation-video",
-    "published": "Wed, 21 Jan 2026 09:20:43 CST",
-    "summary": "Ekniti Nitithanprapas, Thailand’s Deputy Prime Minister and Finance Minister\ndiscussed attracting foreign investment, the Bank of Thailand and the\ncountry's economy outlook. He spoke with Bloomberg’s Haslinda Amin on the\nsidelines of the 2026 World Economic Forum in Davos, Switzerland. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Strong Baht Sparks Alarm Among Thailand’s Top Economic Officials",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstrong-baht-sparks-alarm-among-thailand-s-top-economic-officials",
-    "published": "Wed, 21 Jan 2026 09:19:53 CST",
-    "summary": "Top Thai economic officials sounded alarm over the baht’s surge to a five-year\nhigh, with the finance minister calling it a “very big concern” and the\ncentral bank chief saying that efforts to rein in the currency have had\nlimited impact.\n\n"
-  },
-  {
-    "title": "Mizuho CEO on BOJ, Fiscal Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fmizuho-ceo-on-boj-fiscal-outlook-video",
-    "published": "Wed, 21 Jan 2026 09:16:34 CST",
-    "summary": "Masahiro Kihara, President and CEO of Mizuho Financial Group, says Japan’s\nterminal policy rate is likely to reach at least 1.5% and that April is the\nnext opportunity for the Bank of Japan to raise interest rates. He spoke with\nBloomberg’s Haslinda Amin on the sidelines of the 2026 World Economic Forum in\nDavos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Horizons Middle East and Africa 1/21/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fhorizons-middle-east-and-africa-1-21-2026-video",
-    "published": "Wed, 21 Jan 2026 09:12:03 CST",
-    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's\nfastest-growing regions. Live from Dubai, we bring you the latest global\nmarkets and analysis, plus news-making interviews, with a special focus on\nMEA. All that and more, as you head to the office in the Gulf, pause for lunch\nin Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump Says ICE Makes 'Mistakes' as Backlash Grows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-says-ice-makes-mistakes-as-backlash-grows-video",
-    "published": "Wed, 21 Jan 2026 09:09:22 CST",
-    "summary": "President Donald Trump said that ICE agents sometimes make mistakes, even as\nhe broadly defended his migrant crackdown that has sparked tensions in cities\nnationwide. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "S&amp;P 500 Profit Beats Draw Worst Stock Price Reaction on Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fs-p-500-profit-beats-draw-worst-stock-price-reaction-on-record",
-    "published": "Wed, 21 Jan 2026 09:05:35 CST",
-    "summary": "S&P 500 companies are handily beating earnings estimates, yet unimpressed\ninvestors are delivering the worst share-price reactions on record as the\noutlook for 2026 turns murky.\n\n"
-  },
-  {
-    "title": "Bad Week Set to Get Worse Before Better: 3-Minutes MLIV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbad-week-set-to-get-worse-before-better-3-minutes-mliv-video",
-    "published": "Wed, 21 Jan 2026 09:00:27 CST",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Eskom Looking for Partners to Realize Cheap Industrial Power",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Feskom-looking-for-partners-to-realize-cheap-industrial-power",
-    "published": "Wed, 21 Jan 2026 08:57:42 CST",
-    "summary": "South Africa’s state power utility is looking for partners to lower energy\ncosts and increase industrialization, according to its chairman.\n\n"
+    "title": "US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
+    "published": "Wed, 21 Jan 2026 09:00:56 CST",
+    "summary": "Case will test the limit of Trump’s powers as he continues extraordinary\ncampaign for control over central bank\n\nThe US supreme court will hear oral arguments over Donald Trump’s bid to fire\na Federal Reserve governor on Wednesday morning, as his administration\ncontinues its extraordinary campaign for control over the central bank.\n\nThe US president tried to fire Lisa Cook in August over apparent discrepancies\non mortgage applications Trump’s officials claim are evidence of fraud.\n\nContinue reading...\n\n"
   },
   {
     "title": "US Natural Gas Jumps Over 50% This Week as Freeze Takes Hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-natural-gas-jumps-over-50-this-week-as-freeze-takes-hold",
     "published": "Wed, 21 Jan 2026 08:55:53 CST",
     "summary": "US natural gas futures gained more than 50% in two days, with freezing\ntemperatures taking hold of swathes of the country and lifting demand for\nheating.\n\n"
-  },
-  {
-    "title": "SNB's Schlegel on Geopolitics’ Impacts on Inflation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fecb-s-schlegel-on-geopolitics-impacts-on-inflation-video",
-    "published": "Wed, 21 Jan 2026 08:54:18 CST",
-    "summary": "The president of the Swiss National Bank said geopolitical uncertainties could\npotentially impact inflation and the Swiss franc. Last month the SNB kept\ninterest rates steady at zero, judging that a weakened inflation outlook\ndoesn’t yet justify a return to negative borrowing costs. Martin Schlegel\nspoke with Bloomberg’s Francine Lacqua on the sidelines of the World Economic\nForum in Davos. (Source: Bloomberg)\n\n"
   },
   {
     "title": "IAEA's Grossi: Iran Nuclear Situation Remains Fragile",
@@ -180,10 +180,22 @@
     "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
   },
   {
+    "title": "Indian Rupee Declines to Set Fresh Record Low as Capital Outflows Persist",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Finr-usd-india-rupee-falls-to-set-fresh-record-low-as-capital-outflows-persist",
+    "published": "Wed, 21 Jan 2026 03:53:45 CST",
+    "summary": "The Indian rupee weakened to a new low as foreign outflows from local shares\nand a delay in a US trade deal weighed on sentiment.\n\n"
+  },
+  {
     "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html",
     "published": "Tue, 20 Jan 2026 23:33:36 CST",
     "summary": "Netflix will pay all cash for the $83 billion deal to acquire major parts of\nWarner Bros. Discovery, instead of a mix of cash and stock.\n\n"
+  },
+  {
+    "title": "Oil Steadies Ahead of Trump’s Davos Address as IEA Sees Surplus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Flatest-oil-market-news-and-analysis-for-jan-21",
+    "published": "Tue, 20 Jan 2026 23:30:53 CST",
+    "summary": "Oil steadied as traders await US President Donald Trump’s Davos address amid\nrising transatlantic tensions, while the International Energy Agency trimmed\nits expectations for a supply glut.\n\n"
   },
   {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
@@ -237,7 +249,7 @@
     "title": "Stocks Find Floor as Focus Turns to Trump at Davos: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "US stock futures staged a tentative recovery as traders awaited President\nDonald Trump’s address at Davos to see whether he would ratchet down days of\ntensions with Europe over Greenland.\n\n"
+    "summary": "A tentative recovery in US stock futures faded as traders awaited President\nDonald Trump’s address at Davos to see whether he would ratchet down days of\ntensions with Europe over Greenland.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -327,7 +339,7 @@
     "title": "UBS CEO Says It’s Dangerous to Dump US Assets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-20%2Fubs-ceo-says-it-s-dangerous-to-dump-us-assets-video",
     "published": "Tue, 20 Jan 2026 17:33:08 CST",
-    "summary": "“Diversifying away from America is impossible,” UBS Group AG Chief Executive\nOfficer Sergio Ermotti tells Bloomberg’s Jonathan Ferro at the World Economic\nForum in Davos, Switzerland.\n\n"
+    "summary": "“Diversifying away from America is impossible,” UBS Group AG Chief Executive\nOfficer Sergio Ermotti tells Bloomberg’s Jonathan Ferro at the World Economic\nForum in Davos, Switzerland. They spoke on Jan. 20.\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
@@ -676,12 +688,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F16%2Fus%2Fpolitics%2Fpowell-trump-investigation.html",
     "published": "Fri, 16 Jan 2026 19:32:38 CST",
     "summary": "Jerome H. Powell, the chair of the Federal Reserve, this week tapped a\ngroundswell of support that has been years in the making.\n\n"
-  },
-  {
-    "title": "ChatGPT to start showing ads in the US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F16%2Fchatgpt-ads-in-revenue-boost",
-    "published": "Fri, 16 Jan 2026 18:24:58 CST",
-    "summary": "Ads to be placed alongside answers as OpenAI looks to beef up revenue for\nflagship AI product\n\nChatGPT will start including advertisements beside answers for US users as\nOpenAI seeks a new revenue stream.\n\nThe ads will be tested first in ChatGPT for US users only, the company\nannounced on Friday, after increasing speculation that the San Francisco firm\nwould turn to a potential cashflow model on top of its current subscriptions.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
