@@ -6,7 +6,7 @@ Generated from **211** unique articles (deduplicated from 211 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic uncertainties dominate global headlines this week. President Donald Trump's aggressive trade policies and threats of a new trade war raise concerns about long-term economic consequences for the U.S., while his claim to Greenland escalates U.S.-European tensions, prompting warnings from Commerzbank about potential sanctions on EU holders of U.S. Treasuries. Meanwhile, Reliance Industries resumes purchases of non-sanctioned Russian crude, signaling shifting energy dynamics amid ongoing sanctions. In Latin America, Chile's President-elect José Antonio Kast reshuffles his cabinet, merging mining and economy portfolios, while Venezuela's economic instability drives locals toward cryptocurrency like USDT for financial security. Diplomatic friction surfaces at Davos, where ECB President Christine Lagarde exits a dinner after a heated exchange with U.S. Commerce Secretary Howard Lutnick, underscoring transatlantic strains. Additionally, Ukraine marks a symbolic economic step with its first bond sale since Russia's 2022 invasion, while the FAA issues warnings about military activity in Latin American airspace, highlighting regional security risks.
+Geopolitical and economic tensions dominate global headlines as President Donald Trump's aggressive trade policies and territorial claims strain transatlantic relations. A Commerzbank analyst warns that escalating US-EU disputes over Greenland could trigger sanctions affecting European holders of US Treasuries, while Trump's tariff threats persist despite potential legal challenges. Meanwhile, Reliance Industries resumes purchases of non-sanctioned Russian crude, signaling India's balancing act amid Western sanctions. In Latin America, Chile's President-elect José Antonio Kast reshuffles his cabinet, merging mining and economy ministries, while Venezuela's economic instability drives locals toward USDT stablecoins as a hedge against inflation. On the diplomatic front, ECB President Christine Lagarde's abrupt exit from a Davos dinner underscores rising US-EU frictions, while Ukraine's first post-invasion bond sale by MHP SE marks a cautious step toward economic recovery. Domestically, the US Congress averts a government shutdown with a bipartisan funding deal, though economic protests in Minnesota highlight growing unrest over immigration enforcement.
 
 **Top Articles:**
 - [Reliance Resumes Russian Crude Buying After Sanctions Pause](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Freliance-resumes-russian-crude-buying-after-sanctions-pause)
@@ -15,54 +15,53 @@ Geopolitical tensions and economic uncertainties dominate global headlines this 
 - [ECB’s Lagarde Left Davos Dinner After Lutnick Slammed Europe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fecb-s-lagarde-left-davos-vip-dinner-after-lutnick-slammed-europe)
 - [MHP Offers Ukraine’s First Bond Sale Since Russian Invasion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmhp-kicks-off-ukraine-s-first-bond-sale-since-russian-invasion)
 
-**Sources**: archive.ph (12 articles)
+**Sources**: archive.ph (11 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-{
-    "summary": "Global markets experienced volatility this week as geopolitical tensions over Greenland and President Trump's tariff threats rattled investors. The S&P 500 saw its biggest decline since October before rebounding slightly after Trump clarified his stance on Greenland, easing fears of
+Global markets experienced volatility this week as geopolitical tensions and policy shifts dominated headlines. President Trump's remarks at the World Economic Forum in Davos, particularly his stance on Greenland and proposed tariffs, triggered sharp market movements, with U.S. stocks rebounding after initial losses. Meanwhile, the Federal Reserve faces uncertainty as Trump's administration pushes for changes in leadership, with Treasury Secretary Scott Bessent hinting at a potential new Fed chair announcement. In corporate news, Netflix sweetened its $82.7 billion all-cash offer for Warner Bros. Discovery, while Novo Nordisk saw an 8% stock surge after strong early sales of its Wegovy obesity drug. The AI boom continues to draw investor attention, though Moody’s warns of systemic risks if the sector’s bubble bursts. Elsewhere, central banks are increasingly turning to gold as a hedge against dollar instability, and China’s real estate crisis persists despite export-driven growth.
 
 **Top Articles:**
 - [Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html)
-- [Ineos Bonds Rise on Report Firm Nears New Financing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fineos-bonds-rise-on-report-firm-nears-new-financing)
+- [Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Ftrump-congress-10percent-credit-card-interest-rate-cap.html)
 - [Davos live: Trump rules out taking Greenland by force but calls for ‘immediate negotiations’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F21%2Fdavos-trump-speech-wef-greenland-bessent-trade-milei-globalisation-business-live-updates)
-- [Stocks Rebound as Trump Expounds on Greenland, Equity Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstocks-rebound-as-trump-expounds-on-greenland-equity-market)
-- [Citi Sees Romanian Bonds Extending Gains With Focus on Deficit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fciti-sees-romanian-bonds-extending-gains-with-focus-on-deficit)
+- [NYSE CEO on US Capital Markets, Trading Models](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fnyse-ceo-on-us-capital-markets-trading-models-video)
+- [Dr Reddy’s to Start Selling Generic Ozempic in India From March](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fdr-reddy-s-to-start-selling-generic-ozempic-in-india-from-march)
 
-**Sources**: archive.ph (93 articles)
+**Sources**: archive.ph (88 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, from high-stakes acquisitions to regulatory battles and AI-driven market shifts. Netflix makes a bold $83 billion all-cash bid for Warner Bros. Discovery, aiming to outmaneuver Paramount in a deal that could reshape the entertainment industry. Meanwhile, AI continues to dominate discussions at Davos, where global leaders grapple with its economic and ethical implications, even as a market rout sparked by China's DeepSeek sends AI infrastructure stocks tumbling. Regulatory tensions escalate as the U.S. Supreme Court weighs Trump’s attempt to remove Federal Reserve Governor Lisa Cook, while his administration imposes new tariffs on European countries and semiconductors, further complicating global trade dynamics. In corporate news, Boeing outsells Airbus for the first time since 2018, and BYD’s rise as a top EV maker underscores China’s growing dominance in the sector. Against this backdrop, the IMF upgrades its global growth forecast to 3.3%, citing AI investment as a key driver, though concerns linger over energy costs and geopolitical instability.
+The tech and business landscape is buzzing with major developments, from high-stakes acquisitions to AI-driven market shifts. Netflix revamps its $83 billion bid for Warner Bros. Discovery, opting for an all-cash deal to outmaneuver Paramount, signaling a potential shakeup in the streaming and entertainment industry. Meanwhile, AI continues to dominate discussions at the World Economic Forum in Davos, where global leaders grapple with its economic and regulatory implications. The IMF highlights AI investment as a key driver of global growth, while smaller tech firms challenge Big Tech by leveraging AI in retail and other sectors. In corporate news, United Airlines reports a strong start to 2026, with record earnings on the horizon, and GSK announces a $2.2 billion acquisition of RAPT Therapeutics to bolster its food allergy drug pipeline. Regulatory and political tensions also take center stage, as the U.S. Supreme Court weighs Trump’s bid to remove a Federal Reserve governor, and the administration imposes new tariffs on European countries amid the Greenland standoff. Additionally, nearly 400 millionaires and billionaires call for higher taxes on the super-rich at Davos, reflecting growing concerns over wealth inequality.
 
 **Top Articles:**
-- [Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html)
-- [Quants in Worst Drawdown Since October as Crowded Bets Buckle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fquants-in-worst-drawdown-since-october-as-crowded-bets-buckle)
-- [McLaren Stake Hints at Broad Remit for Abu Dhabi’s Newest Fund L’imad](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmclaren-stake-hints-at-broad-remit-for-abu-dhabi-s-newest-fund-l-imad)
-- [Katie Pavlich was a rising star at Fox News. Now she’s in prime time for NewsNation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime)
-- [An Anxious Japan Restarts the World’s Biggest Nuclear Plant](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fjapan-nuclear-restart.html)
+- [South Africa’s Rand Surges to Strongest Level in Three Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsouth-africa-s-rand-surges-to-strongest-level-in-three-years)
+- [What Do Young Travelers Want? Exclusive Experiences.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fexperiences-millennials-gen-z.html)
+- [At Check-In, Your Face Is Increasingly Your ID](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Ffacial-recognition-airports.html)
+- [Pending home sales drop sharply in December, dampening 2026 outlook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fpending-home-sales-december-drop-sharply.html)
+- [United Seeing Strength 'Across the Board,' CEO Kirby Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Funited-seeing-strength-across-the-board-ceo-kirby-says-video)
 
-**Sources**: archive.ph (68 articles)
+**Sources**: archive.ph (71 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, political maneuvering, and cultural trends. In business, Netflix reports a narrow earnings beat with 325 million global subscribers, while also adjusting its offer for Warner Bros. Discovery assets amid a hostile takeover bid. Meanwhile, airlines stand to benefit from a surprising windfall as weight-loss drugs reduce passenger weights, cutting fuel costs. On the political front, President Trump's administration faces scrutiny over attempts to remove Federal Reserve Governor Lisa Cook, while his IRS chief reorganizes the agency ahead of tax season. At the World Economic Forum in Davos, Trump criticizes Europe's direction, signaling a shift away from traditional global cooperation themes. Culturally, an immersive adaptation of *Phantom of the Opera* draws repeat audiences, while Disney's box office dominance continues into 2026. Notable obituaries include David Rosen, co-founder of Sega, and Joe Montgomery, pioneer of lightweight bicycles. Economic pressures persist, with rising food prices and housing affordability challenges shaping policy debates.
+This week’s news highlights a mix of economic shifts, cultural trends, and political developments. In travel, 'microvacations' are gaining traction as time-strapped travelers opt for short, strategic trips, while airlines stand to benefit from fuel savings as weight-loss drugs reduce passenger weights. The financial world buzzes with anticipation as the NYSE predicts a surge in IPO activity, and Netflix reports a record 325 million subscribers amid its bid for Warner Bros. Discovery assets. Meanwhile, President Trump’s policies dominate headlines, from his critique of Europe’s direction at Davos to his controversial efforts to remove Federal Reserve Governor Lisa Cook. Housing affordability remains a pressing issue, with rising costs and creative solutions emerging in the medical and real estate sectors. On the cultural front, immersive theater like the reimagined 'Phantom of the Opera' draws repeat audiences, while Disney’s box office dominance continues into 2026. Notable obituaries include gaming pioneer David Rosen, co-founder of Sega, and Cannondale’s Joe Montgomery, who revolutionized bicycle design.
 
 **Top Articles:**
+- [Travel’s Latest Buzzword: ‘Microvacations’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fshort-microvacations.html)
+- [Getting Travel Rewards Is Getting Easier](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Floyalty-programs.html)
+- [For Travelers in 2026, Prices Are All Over the Map](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fprices-are-all-over-the-map.html)
+- [NYSE’s Martin Sees ‘Tremendous’ IPO Activity in Coming Weeks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fnyse-s-martin-sees-tremendous-ipo-activity-in-coming-weeks)
 - [The surprising windfall that airlines could reap from weight-loss drugs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F21%2Fweight-loss-drugs-airlines-fuel-savings%2F)
-- [Trump Says Europe Is Not Heading in the Right Direction](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-says-europe-is-not-heading-in-the-right-direction-video)
-- [Sweden’s Alecta Sold Most of Its US Treasuries Since Early 2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsweden-s-alecta-sold-most-of-its-us-treasuries-since-early-2025)
-- [Supreme Court Considers Trump’s Attempt to Fire Fed Governor Lisa Cook](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html)
-- [Netflix posts narrow earnings beat, reports 325 million global subscribers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 21, 2026 at 02:59 PM *
+*Digest generated on January 21, 2026 at 03:58 PM *
