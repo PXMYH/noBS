@@ -6,14 +6,14 @@ Generated from **212** unique articles (deduplicated from 212 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines as China's access to cheap Venezuelan oil nears its end, marking a significant change in energy dynamics. Meanwhile, President Trump's aggressive trade policies and potential legal constraints on his tariff authority raise concerns about long-term economic stability in the U.S. Domestically, Congress avoids a government shutdown with a bipartisan funding deal, while Minnesota braces for an economic blackout protesting ICE operations. Internationally, the FAA warns of heightened military activity in Latin American airspace, reflecting broader regional instability. These developments underscore a volatile global landscape shaped by economic pressures, political maneuvering, and diplomatic friction.
+Geopolitical tensions and economic shifts dominate global headlines as the U.S. navigates domestic and international challenges. President Trump's aggressive trade policies and potential tariff restrictions face legal scrutiny, while his administration's push to secure Venezuela's oil resources raises questions about feasibility and corporate interest. Meanwhile, concerns over China's potential military action against Taiwan intensify amid broader instability in international norms, highlighted by recent U.S. military activity in Venezuela and Greenland. Domestically, Congress averts a government shutdown with a bipartisan funding deal, but economic protests in Minnesota underscore growing unrest over immigration enforcement. In Latin America, the FAA warns of heightened military activity near key ocean routes, while Venezuela's economic collapse drives locals toward cryptocurrency as a hedge against instability.
 
 **Top Articles:**
+- [Lynas Seeks Deal For Rare Earth Price Floors in Talks With US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Flynas-seeks-backstop-for-rare-earth-prices-in-talks-with-us)
 - [What Happens if China Attacks Taiwan?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwhat-happens-if-china-attacks-taiwan-video)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 - [Congress moves toward funding government, dodging shutdown](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F)
-- [Economic blackout day planned in Minnesota to protest ICE surge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F20%2Fice-immigrarion-minnesota-economic-protest)
 
 **Sources**: archive.ph (9 articles)
 
@@ -21,47 +21,47 @@ Geopolitical tensions and economic shifts dominate global headlines as China's a
 
 ## 💰 Finance, Economics & Business
 
-Global markets are reeling from heightened volatility as geopolitical tensions over Greenland and a meltdown in Japanese government bonds rattle investors. The S&P 500 suffered its worst drop since October, while oil and equities slid amid fears of escalating trade conflicts under President Trump’s tariff threats. Japan’s bond turmoil, which saw yields surge to record highs, has prompted warnings of potential spillover into U.S. Treasuries, with Citigroup estimating up to $130 billion in Treasury selling. Meanwhile, safe-haven assets like gold and platinum hit record highs, and silver demand surged as retail investors scrambled for precious metals. In corporate news, Netflix sweetened its $82.7 billion all-cash bid for Warner Bros Discovery, aiming to block Paramount’s rival offer, while Novo Nordisk shares jumped 8% on strong early sales of its Wegovy obesity drug. China, defending its growth model at Davos, faces economic headwinds from a slumping real estate sector, though exports helped lift 2025 growth to 5%. The Federal Reserve remains in the spotlight as Trump weighs replacements for Chair Jerome Powell, whose future is clouded by a Justice Department inquiry and Supreme Court battles over Fed independence.
+Global markets are reeling from heightened volatility as geopolitical tensions and bond market turbulence dominate headlines. A selloff in Japanese government bonds (JGBs) and U.S. Treasuries has sent shockwaves through debt markets, prompting warnings from BlackRock and Brandywine Global about lingering risks. The crisis deepened after Japan’s Finance Minister called for calm, though yields remain elevated, pressuring bank stocks and forcing some borrowers, like a Chinese oil firm, to delay bond issuances. Meanwhile, U.S. stocks suffered their worst day since October after President Trump threatened new tariffs over Greenland, escalating trade conflicts with Europe and sparking fears of a broader economic fallout. Gold and silver have surged as safe-haven demand rises, with silver supplies tightening amid a retail buying frenzy. Corporate moves are also making waves, with Netflix sweetening its $82.7 billion all-cash bid for Warner Bros. Discovery to fend off Paramount, while Novo Nordisk shares jumped 8% on strong early sales of its Wegovy obesity drug. Central banks, including Serbia’s, are increasingly turning to gold as a hedge against dollar instability, reflecting broader concerns about currency credibility.
 
 **Top Articles:**
+- [Why Investors Are Worried About Japan’s Bond Market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fwhy-investors-are-worried-about-japan-s-bond-market)
+- [Wary Investors Spy Risks After 'Extreme' Bond Selloff](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwary-investors-spy-risks-after-extreme-bond-selloff-video)
+- [South Africa’s Booming $4 Billion Beauty Market a Key Battleground for Retailers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fretailers-race-to-tap-south-africa-s-4-billion-beauty-market)
+- [Sharma: US Structural Policy Shift Driving Volatility](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fsharma-us-structural-policy-shift-driving-volatility-video)
 - [Platinum Is Said to Mull Sale of Hong Kong Lingerie, Swimwear Firm Hop Lun](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fplatinum-is-said-to-mull-sale-of-hong-kong-lingerie-swimwear-firm-hop-lun)
-- [China Defends Growth Model at Davos | The China Show 1/21/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-china-show-1-21-2026-video)
-- [Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fstocks-trump-greenland-tariffs.html)
-- [Bank Giant Plans to Ramp Up $67 Billion Japan Bond Holdings After Market Calms](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjapan-s-second-largest-bank-plans-big-jgb-purchases-after-rout)
-- [The Asia Trade 1/21/26](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-asia-trade-1-21-26-video)
 
-**Sources**: archive.ph (94 articles)
+**Sources**: archive.ph (91 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, from high-stakes acquisitions to AI-driven market shifts. Netflix revamps its $83 billion bid for Warner Bros. Discovery, opting for an all-cash deal to outmaneuver Paramount, while OpenAI introduces ads in ChatGPT to bolster revenue. Meanwhile, AI's rapid expansion is reshaping industries, with tech firms pushing retailers to adopt AI solutions and data center demand driving up energy costs—prompting regulatory scrutiny. At Davos, global leaders grapple with AI's economic impact, as the IMF upgrades growth forecasts amid booming AI investment. Elsewhere, China's lithium market volatility triggers exchange interventions, and BYD's dominance in EVs highlights shifting automotive trends. Political and economic tensions also simmer, with Trump imposing new tariffs on European nations and semiconductors, while corporate earnings—like United Airlines' strong start—signal resilience in key sectors.
+The tech and business landscape is buzzing with major developments this week. Netflix revamps its $83 billion bid for Warner Bros. Discovery, opting for an all-cash deal to outmaneuver Paramount, signaling a potential shakeup in the entertainment industry. Meanwhile, AI continues to dominate headlines, with OpenAI introducing ads in ChatGPT for U.S. users as it seeks new revenue streams, while smaller AI-focused firms challenge Big Tech by capitalizing on infrastructure demands like data centers and grid capacity. Regulatory and economic shifts are also in focus, as China’s tech sector rallies amid Beijing’s push for self-reliance, despite global market pullbacks, and the IMF upgrades its 2026 global growth forecast to 3.3%, citing AI investment as a key driver. Elsewhere, geopolitical tensions and trade policies take center stage, with Trump imposing new tariffs on European countries and semiconductors, while Davos debates the future of AI, global economics, and leadership transitions at the World Economic Forum.
 
 **Top Articles:**
+- [Larry Fink Ponders Moving WEF Meetings From Davos to Dublin or Detroit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffink-ponders-moving-wef-meetings-from-davos-to-dublin-or-detroit)
+- [Blackstone Said to Weigh $500 Million India IPO for PGP Glass](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fblackstone-said-to-weigh-500-million-india-ipo-for-pgp-glass)
+- [Chinese Stocks Rally on Growing Tech Bets, Defying Global Selloff](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchinese-stocks-stand-out-in-global-selloff-on-growing-tech-bets)
 - [China’s Lithium Tumult Spurs Futures Exchange to Step In Again](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-s-lithium-tumult-spurs-futures-exchange-to-step-in-again)
 - [Korea’s Lee Says Won May Strengthen, Stabilize in Two Months](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fkorea-s-president-lee-says-won-is-holding-up-could-hit-1-400)
-- [Vanke Wins Approval for Revised Plan to Extend Yuan Bond](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-vanke-wins-approval-for-revised-plan-to-extend-yuan-bond)
-- [Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html)
-- [United Airlines could hit record earnings after strong start to 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Funited-airlines-ual-4q-2025-earnings.html)
 
-**Sources**: archive.ph (71 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
 ## 📰 Other News
 
-Global tensions and economic shifts dominate headlines as Donald Trump's aggressive stance on Greenland sparks a sovereignty dispute with the European Union, testing the bloc's unity. Meanwhile, the U.S. energy sector sees strategic moves, with Glenfarne Group LLC expanding its Texas LNG export project and Diversified Energy acquiring Permian Basin assets. In entertainment, Netflix reports a narrow earnings beat with 325 million subscribers and adjusts its offer for Warner Bros. Discovery amid a hostile takeover bid. Cultural trends highlight the success of immersive theater, like the reimagined 'Phantom of the Opera' adaptation, while economic pressures persist, with rising food prices and housing affordability challenges shaping domestic policy debates. Notable obituaries include David Rosen, co-founder of Sega, and Joe Montgomery, pioneer of lightweight bicycles, marking the end of influential eras in gaming and sports.
+Global economic and political tensions dominate headlines as the EU nears a landmark trade deal with India, potentially creating one of the world's largest free-trade zones. Meanwhile, Donald Trump's aggressive policies—from Greenland sovereignty disputes to IRS restructuring—reshape international relations and domestic governance. In business, Netflix reports a narrow earnings beat with 325 million subscribers, while Disney maintains its box office dominance. Cultural shifts include a surge in immersive theater adaptations and a rise in prediction markets among younger audiences. Notable obituaries highlight the legacies of gaming pioneer David Rosen and cycling innovator Joe Montgomery.
 
 **Top Articles:**
+- [Pound Steady Ahead of Inflation Data](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-21%2Fftse-100-live-uk-inflation-trump-davos-cpi-pound-burberry-jd-sports-what-s-moving-uk-markets-right-now-markets-today)
+- [EU Teases 'Mother of All Trade Deals' with India](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Feu-teases-mother-of-all-trade-deals-with-india-video)
 - [Return of the Three-Headed Bond Monster Over Tokyo](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-21%2Fjapan-bonds-return-of-the-three-headed-monster-over-tokyo)
 - [Trump Brings Greenland Fight to Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftrump-brings-greenland-fight-to-davos-video)
-- [Glenfarne Mulls Expanding Capacity at Texas LNG Export Project](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglenfarne-mulls-expanding-capacity-at-texas-lng-export-project)
 - [Indonesian Bond Demand at 10-Month Low as Rupiah Weakens](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findonesian-bond-demand-sinks-to-10-month-low-as-rupiah-weakens)
-- [Netflix posts narrow earnings beat, reports 325 million global subscribers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
 
-**Sources**: archive.ph (38 articles)
+**Sources**: archive.ph (39 articles)
 
 ---
 
-*Digest generated on January 21, 2026 at 05:55 AM *
+*Digest generated on January 21, 2026 at 07:02 AM *

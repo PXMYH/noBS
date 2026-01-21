@@ -1,5 +1,65 @@
 [
   {
+    "title": "Pound Steady Ahead of Inflation Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-21%2Fftse-100-live-uk-inflation-trump-davos-cpi-pound-burberry-jd-sports-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Wed, 21 Jan 2026 06:46:23 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Larry Fink Ponders Moving WEF Meetings From Davos to Dublin or Detroit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffink-ponders-moving-wef-meetings-from-davos-to-dublin-or-detroit",
+    "published": "Wed, 21 Jan 2026 06:40:44 CST",
+    "summary": "Larry Fink, the interim co-chief of the World Economic Forum, is openly musing\nabout a venue change for the flagship event that would take the annual January\nmeeting outside of Switzerland.\n\n"
+  },
+  {
+    "title": "Why Investors Are Worried About Japan’s Bond Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fwhy-investors-are-worried-about-japan-s-bond-market",
+    "published": "Wed, 21 Jan 2026 06:21:30 CST",
+    "summary": "Japanese bonds used to have such low yields that they acted as a kind of\nanchor for the global debt market, adding downward pressure on government\nborrowing costs the world over. No longer.\n\n"
+  },
+  {
+    "title": "Wary Investors Spy Risks After 'Extreme' Bond Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fwary-investors-spy-risks-after-extreme-bond-selloff-video",
+    "published": "Wed, 21 Jan 2026 06:19:02 CST",
+    "summary": "Calm returns to bond markets after a selloff in Japanese bonds and Treasuries,\nbut experts from BlackRock and Brandywine Global say risks remain. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "EU Teases 'Mother of All Trade Deals' with India",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Feu-teases-mother-of-all-trade-deals-with-india-video",
+    "published": "Wed, 21 Jan 2026 06:16:30 CST",
+    "summary": "European Commission President, Ursula von der Leyen, says they're on the cusp\nof clinching a trade agreement with India. Bloomberg's Shruti Srivastava\ndiscussed the significance of the potential deal on Insight with Haslinda\nAmin. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "South Africa’s Booming $4 Billion Beauty Market a Key Battleground for Retailers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fretailers-race-to-tap-south-africa-s-4-billion-beauty-market",
+    "published": "Wed, 21 Jan 2026 06:07:38 CST",
+    "summary": "South Africa’s $4 billion beauty market is fast becoming a key battleground\nfor retailers grappling with a sluggish economy, weak consumer confidence and\nintensifying competition.\n\n"
+  },
+  {
+    "title": "Blackstone Said to Weigh $500 Million India IPO for PGP Glass",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fblackstone-said-to-weigh-500-million-india-ipo-for-pgp-glass",
+    "published": "Wed, 21 Jan 2026 06:07:06 CST",
+    "summary": "Blackstone Inc. is considering an initial public offering for Indian glass\npackaging maker PGP Glass Pvt. in Mumbai that could raise as much as $500\nmillion, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Sharma: US Structural Policy Shift Driving Volatility",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fsharma-us-structural-policy-shift-driving-volatility-video",
+    "published": "Wed, 21 Jan 2026 06:04:08 CST",
+    "summary": "Asian stocks slid following Wall Street's selloff amongst fears of a deepening\nUS trade conflict with Europe and turbulence in the bond market unnerved\nglobal investors. Ketaki Sharma, Founder & CEO of Algorithm Research spoke to\nBloomberg’s Jennifer Zabasajja on Horizons Middle East and Africa. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Chinese Stocks Rally on Growing Tech Bets, Defying Global Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchinese-stocks-stand-out-in-global-selloff-on-growing-tech-bets",
+    "published": "Wed, 21 Jan 2026 05:48:23 CST",
+    "summary": "Chinese stocks defied a pullback in global markets Wednesday, as optimism\nabout Beijing’s stronger push to achieve technology self-reliance eclipsed\nconcerns over rising geopolitical uncertainties.\n\n"
+  },
+  {
+    "title": "Lynas Seeks Deal For Rare Earth Price Floors in Talks With US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Flynas-seeks-backstop-for-rare-earth-prices-in-talks-with-us",
+    "published": "Wed, 21 Jan 2026 05:33:22 CST",
+    "summary": "Lynas Rare Earths Ltd. is trying to secure a deal with the US Department of\nDefense to get government-backed price floors for its supplies, similar to\nthose granted to a major US producer last year.\n\n"
+  },
+  {
     "title": "Return of the Three-Headed Bond Monster Over Tokyo",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-21%2Fjapan-bonds-return-of-the-three-headed-monster-over-tokyo",
     "published": "Wed, 21 Jan 2026 05:15:31 CST",
@@ -84,24 +144,6 @@
     "summary": "Recent US military action in Venezuela and the escalating push to acquire\nGreenland have raised urgent questions about the stability of international\nnorms. As global order shifts, concerns are mounting over a potential Chinese\nmove on Taiwan. The German Marshall Fund of the United States has gamed out\nscenarios for a potential cross-strait conflict, outlining the strategic and\neconomic costs Beijing might face. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Glenfarne Mulls Expanding Capacity at Texas LNG Export Project",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fglenfarne-mulls-expanding-capacity-at-texas-lng-export-project",
-    "published": "Wed, 21 Jan 2026 03:00:19 CST",
-    "summary": "Glenfarne Group LLC is looking to expand the capacity to export liquefied\nnatural gas from its planned Texas LNG project.\n\n"
-  },
-  {
-    "title": "Investors Seek Safety of India State-Owned Firms as Selloff Deepens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Findia-realty-stocks-start-2026-on-a-bearish-note-psu-stocks-back-in-favor",
-    "published": "Wed, 21 Jan 2026 02:45:02 CST",
-    "summary": "A BSE gauge of state-owned firms is set to outperform the benchmark Sensex.\n\n"
-  },
-  {
-    "title": "Brazil’s BRB Replaces Finance and Risk Chiefs Amid Master Probes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbrazil-s-brb-replaces-finance-and-risk-chiefs-amid-master-probes",
-    "published": "Wed, 21 Jan 2026 02:37:39 CST",
-    "summary": "Banco de Brasilia SA appointed a new chief financial officer and chief risk\nofficer, as the bank owned by Brazil’s capital city deals with the fallout of\nBanco Master SA’s failure.\n\n"
-  },
-  {
     "title": "Indonesian Bond Demand at 10-Month Low as Rupiah Weakens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Findonesian-bond-demand-sinks-to-10-month-low-as-rupiah-weakens",
     "published": "Wed, 21 Jan 2026 02:19:22 CST",
@@ -120,28 +162,10 @@
     "summary": "Japan’s financial stocks declined as Tuesday’s government bond meltdown raised\nalarms about potential losses for lenders and brokerages.\n\n"
   },
   {
-    "title": "China Keeps Fix Weaker Than 7 in Attempt to Slow Yuan’s Gains",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-keeps-fix-weaker-than-7-despite-dollar-decline-yuan-rally",
-    "published": "Wed, 21 Jan 2026 01:45:35 CST",
-    "summary": "China set its daily reference rate for the yuan weaker than 7 per dollar in a\nsign the central bank is keen to slow the currency’s gains in the face of\nrecent weakness in the greenback.\n\n"
-  },
-  {
-    "title": "Japan Bond Turmoil Risks Up to $130 Billion Treasury Selling, Citi Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fjgb-turmoil-risks-up-to-130-billion-treasury-selling-citi-says",
-    "published": "Wed, 21 Jan 2026 01:40:26 CST",
-    "summary": "A sharp rise in volatility in Japan’s government bond market could spill over\ninto other markets -- especially US Treasuries -- forcing some investors to\ncut back risk across portfolios, Citigroup Inc. said.\n\n"
-  },
-  {
-    "title": "Vanke Wins Approval for Revised Plan to Extend Yuan Bond",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchina-vanke-wins-approval-for-revised-plan-to-extend-yuan-bond",
-    "published": "Wed, 21 Jan 2026 00:36:55 CST",
-    "summary": "China Vanke Co. won enough creditor backing to extend payments on a yuan bond\nfor a year, after it sweetened an earlier proposal with an upfront cash\npayment, easing the embattled developer’s risk of an imminent default.\n\n"
-  },
-  {
     "title": "Japan’s Long Bonds Rebound After Finance Chief Calls for Market Calm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fjapanese-bonds-may-rebound-after-katayama-calls-for-market-calm",
     "published": "Tue, 20 Jan 2026 23:33:49 CST",
-    "summary": "Japan’s longer maturity bonds rebounded after Finance Minister Satsuki\nKatayama called for calm among market participants following a rout that\npushed yields to all-time highs.\n\n"
+    "summary": "Japan’s longer maturity bonds rebounded in a volatile market after Finance\nMinister Satsuki Katayama called for calm among market participants following\na rout that pushed yields to all-time highs.\n\n"
   },
   {
     "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
@@ -150,10 +174,10 @@
     "summary": "Netflix will pay all cash for the $83 billion deal to acquire major parts of\nWarner Bros. Discovery, instead of a mix of cash and stock.\n\n"
   },
   {
-    "title": "Oil Declines as Trump’s Push to Take Greenland Rattles Markets",
+    "title": "Oil Drops as Traders Gear Up for Trump at Davos and IEA Snapshot",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Flatest-oil-market-news-and-analysis-for-jan-21",
     "published": "Tue, 20 Jan 2026 23:30:53 CST",
-    "summary": "Oil fell as US President Donald Trump’s attempts to annex Greenland sent\njitters through wider markets, and traders waited for fresh insights into the\nglobal crude balance from the International Energy Agency.\n\n"
+    "summary": "Oil fell as wider markets were jolted by US President Donald Trump’s attempts\nto annex Greenland, and traders waited for fresh insight into the outlook for\na huge surplus from the International Energy Agency.\n\n"
   },
   {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
@@ -162,10 +186,10 @@
     "summary": "The president has whittled down the field to four candidates, Bessent told\nCNBC during an interview at the World Economic Forum in Switzerland.\n\n"
   },
   {
-    "title": "Gold and Platinum Hit Records as Crisis Over Greenland Worsens",
+    "title": "Gold Extends Powerful Rally as Crisis Over Greenland Worsens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fgold-and-silver-near-record-highs-on-worsening-greenland-crisis",
     "published": "Tue, 20 Jan 2026 23:17:37 CST",
-    "summary": "Gold and platinum rose to fresh records -- while silver was near an all-time\npeak -- as the worsening crisis over Greenland and a meltdown in Japanese\ngovernment debt supported haven demand.\n\n"
+    "summary": "Gold extended its record rally as the crisis over Greenland and a meltdown in\nJapanese government debt supported haven demand.\n\n"
   },
   {
     "title": "United Airlines could hit record earnings after strong start to 2026",
@@ -204,10 +228,10 @@
     "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
   },
   {
-    "title": "S&amp;P 500 Futures Advance, Japanese Bonds Rebound: Markets Wrap",
+    "title": "US Stock Futures Advance, Japanese Bonds Rebound: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
     "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "Japanese bonds rebounded after a selloff that rippled through global debt\nmarkets, and US equity-index futures rose as volatility showed tentative signs\nof easing.\n\n"
+    "summary": "Japanese bonds rebounded after a selloff that rippled through global debt\nmarkets, and US equity-index futures rose as volatility showed signs of\neasing.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -330,12 +354,6 @@
     "summary": "Physicians with independent practices are having to cobble together\nunconventional office arrangements at a time of rising costs and consolidation\nin the medical field.\n\n"
   },
   {
-    "title": "China Defends Growth Model at Davos, Aims to Be ‘World’s Market’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-defends-economic-model-at-davos-aims-to-be-world-s-market",
-    "published": "Tue, 20 Jan 2026 13:23:18 CST",
-    "summary": "Chinese Vice Premier He Lifeng stepped up a defense of his country’s economic\ntrack record, dangling the prospect of greater access to its domestic market\nto reduce imbalances in trade.\n\n"
-  },
-  {
     "title": "The Trump Drama Hits Davos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fdealbook%2Ftrump-davos-tariffs-greenland.html",
     "published": "Tue, 20 Jan 2026 13:18:10 CST",
@@ -358,24 +376,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fai-tips-for-work%2F",
     "published": "Tue, 20 Jan 2026 10:00:00 CST",
     "summary": "New to AI? Here are five tips to make you more productive at work.\n\n"
-  },
-  {
-    "title": "Venezuelan Oil Moves Into the Caribbean as US Shapes Trade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fvenezuelan-oil-moves-into-the-caribbean-as-us-trade-links-forged",
-    "published": "Tue, 20 Jan 2026 09:26:13 CST",
-    "summary": "Tankers have begun discharging Venezuelan crude at Caribbean islands, publicly\nsignaling their activity in a move that marks a new trade order after US\nexerted control over Caracas’ oil industry.\n\n"
-  },
-  {
-    "title": "China’s Economic Anchors Show Growth Divide Is Getting Wider",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-s-big-economic-anchors-show-growth-divide-is-getting-wider",
-    "published": "Tue, 20 Jan 2026 08:25:34 CST",
-    "summary": "China’s consumer-sensitive sectors are lagging further behind growth in\nindustries linked to manufacturing and tech, illustrating a sharp divide in an\neconomy increasingly exposed to foreign demand.\n\n"
-  },
-  {
-    "title": "China Nears End of Cheap Venezuela Oil as Last Tankers Go East",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fchina-nears-end-of-cheap-venezuela-oil-as-last-tankers-head-east",
-    "published": "Tue, 20 Jan 2026 06:43:36 CST",
-    "summary": "The last tankers carrying sanctioned Venezuelan crude to Asia are set to\narrive in the coming days, effectively drawing to a close China’s easy access\nto a source of cheap oil that has helped sustain its refining sector.\n\n"
   },
   {
     "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
