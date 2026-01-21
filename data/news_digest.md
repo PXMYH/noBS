@@ -1,67 +1,67 @@
 # NoBS News Digest - January 21, 2026
 
-Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
+Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions remain high as Ukraine launches its first bond sale since Russia's 2022 invasion, signaling cautious economic recovery, while Kyiv's drone strikes on Russia's Afipsky oil refinery underscore the ongoing conflict's energy warfare dimension. Meanwhile, NATO Secretary General Mark Rutte warns of growing Russian and Chinese activity in the Arctic, a concern echoed at the World Economic Forum in Davos, where Qatar's finance minister also emphasized energy resilience amid global instability. Domestically, the U.S. faces economic and political challenges: President Trump's tariff threats and potential trade wars loom as courts debate his authority, while Congress narrowly avoids a government shutdown with a bipartisan funding deal. In Latin America, the FAA issues warnings about military activity near key ocean routes, and Venezuela's economic crisis drives citizens toward stablecoins like USDT, reflecting broader regional instability.
+Global tensions and economic shifts dominate this week’s headlines. In the U.S., President Trump’s aggressive trade policies and threats of a new tariff war raise concerns about long-term economic consequences, even as Congress moves to avert a government shutdown with a bipartisan funding deal. Meanwhile, diplomatic friction surfaces at Davos, where ECB President Christine Lagarde exits a dinner after U.S. Commerce Secretary Howard Lutnick criticizes Europe, underscoring transatlantic strains. In Latin America, Chile’s President-elect José Antonio Kast reverses course on mining policy, folding the sector into the economy ministry, while Venezuela’s economic instability drives locals toward cryptocurrency like USDT for stability. The FAA also issues warnings about military activity over Latin American waters, heightening regional security concerns. Elsewhere, Ukraine’s first post-invasion bond sale signals cautious economic recovery, though geopolitical risks persist.
 
 **Top Articles:**
-- [MHP Kicks Off Ukraine’s First Bond Sale Since Russian Invasion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmhp-kicks-off-ukraine-s-first-bond-sale-since-russian-invasion)
-- [Russia Says Ukraine Attacked Afipsky Oil Refinery Overnight](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Frussia-says-ukraine-attacked-afipsky-oil-refinery-overnight)
-- [Qatari Finance Minister on Energy, Global Resilience](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fqatari-finance-minister-on-energy-global-resilience-video)
-- [NATO’s Rutte Warns China, Russia Increasingly Active in Arctic](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fnato-s-rutte-warns-of-china-russia-activity-in-arctic-video)
+- [Chile’s Kast Backtracks on Mining Post, Creates Dual Ministry](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fchile-s-kast-backtracks-on-mining-post-creates-dual-ministry)
+- [ECB’s Lagarde Left Davos Dinner After Lutnick Slammed Europe](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fecb-s-lagarde-left-davos-vip-dinner-after-lutnick-slammed-europe)
+- [MHP Offers Ukraine’s First Bond Sale Since Russian Invasion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmhp-kicks-off-ukraine-s-first-bond-sale-since-russian-invasion)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
+- [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 
-**Sources**: archive.ph (11 articles)
+**Sources**: archive.ph (10 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are reeling from escalating geopolitical tensions, particularly over Greenland, as U.S. stocks suffer their worst decline since October. The S&P 500's sharp drop spills into Asian and European markets, while gold extends its rally amid haven demand. Meanwhile, the Federal Reserve faces renewed pressure from the Trump administration, with Treasury Secretary Scott Bessent hinting at a potential new Fed chair appointment and ongoing legal battles over central bank independence. Corporate developments include Netflix's sweetened all-cash bid for Warner Bros. Discovery, aiming to block Paramount's rival offer, and Novo Nordisk's 8% stock surge following strong early sales of its Wegovy obesity drug. In emerging markets, Morgan Stanley upgrades Nigeria's sovereign bonds, citing resilience to low oil prices, while India's rupee hits a record low amid persistent capital outflows. The EU and India also edge closer to a historic trade deal as both seek to counter U.S. tariff threats.
+Global markets are on edge as geopolitical tensions and economic uncertainty dominate headlines. The S&P 500 suffered its worst drop since October after President Trump threatened new tariffs over Greenland, rattling U.S. and European markets. The fallout from Trump’s trade policies is also sparking concerns about a potential 'capital war,' with investors like Ray Dalio warning of countries dumping U.S. assets. Meanwhile, the Federal Reserve faces turmoil as Trump narrows his search for a new chair, with Jerome Powell’s future in question amid a Justice Department inquiry. In corporate news, Netflix sweetened its $82.7 billion all-cash bid for Warner Bros. Discovery, aiming to accelerate the deal’s completion, while Novo Nordisk saw shares surge 8% on strong early sales of its obesity drug Wegovy. The World Economic Forum in Davos is buzzing with discussions on economic resilience, with UBS CEO Sergio Ermotti emphasizing diversification amid market volatility and TCW’s Katie Koch noting a marginal shift away from U.S. Treasuries. Australia’s debt woes and China’s real estate crash add to global economic concerns, while Stellantis and FedEx highlight corporate turnaround efforts amid evolving trade and tech landscapes.
 
 **Top Articles:**
-- [Morgan Stanley Lifts Frontier-Market Appeal, Sees Nigeria Upgrade Cycle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmorgan-stanley-lifts-frontier-market-appeal-sees-nigeria-upgrade-cycle)
-- [Lack of Market Panic on Greenland Undermines TACO Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Flack-of-market-panic-on-greenland-undermines-taco-trade)
-- [Trump at Davos: What Next For Greenland, Europe & NATO? | The Pulse 1/21](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fthe-pulse-1-21-video)
-- [PGIM Plans $1 Billion Foray Into Private Credit Secondaries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fpgim-plans-1-billion-foray-into-private-credit-secondaries)
-- [Why sticking to your savings plan beats panic buying gold or crypto](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Ftrump-greenland-tariffs-panic-investing%2F)
+- [Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html)
+- [BHP CEO Says Copper Demand Is 'Ubiquitous'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbhp-ceo-says-copper-demand-is-ubiquitous-video)
+- [Australia Faces ‘Steep’ Debt Rise Without Budget Cuts, OECD Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Faustralia-faces-steep-debt-rise-without-budget-cuts-oecd-says)
+- [‘Adaptive Normalcy’ as the Trump Show Arrives at Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html)
+- [TCW CEO on Asset Owners 'Quiet Quitting' the US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Ftcw-ceo-on-asset-owners-quiet-quitting-the-us-video)
 
-**Sources**: archive.ph (95 articles)
+**Sources**: archive.ph (90 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is dominated by high-stakes acquisitions, AI-driven economic shifts, and geopolitical tensions. Netflix's revised $83 billion all-cash bid for Warner Bros. Discovery signals a major consolidation in streaming, while the IMF highlights AI investment as a key driver of global growth, projecting a 3.3% expansion in 2026. Meanwhile, regulatory and legal battles intensify, with the U.S. Supreme Court reviewing Trump’s attempt to remove Federal Reserve Governor Lisa Cook, and the White House threatening legal action against CBS over an unedited Trump interview. AI’s economic impact remains a double-edged sword, with surging demand for data centers inflating energy costs and prompting state-level pushback. Elsewhere, China’s demographic crisis deepens as birthrates hit historic lows, and BYD’s dominance in EVs underscores shifting global supply chains, particularly as the U.S. nears a trade deal with Taiwan to bolster domestic semiconductor production.
+The tech and business world is buzzing with major developments this week, led by Netflix's revised $83 billion all-cash bid for Warner Bros. Discovery, intensifying its rivalry with Paramount. Meanwhile, AI continues to dominate discussions at Davos, where global leaders and tech giants like Nvidia and Meta are shaping the future of artificial intelligence, with smaller firms emerging as strong contenders in the AI-driven market. Regulatory and trade tensions are also in focus, as the Trump administration imposes new tariffs on European countries and semiconductors, while advancing a trade deal with Taiwan to boost domestic chip production. In corporate news, Boeing outperforms Airbus in deliveries for the first time since 2018, and GSK acquires RAPT Therapeutics for $2.2 billion to expand its food allergy treatment portfolio. Economic trends show a rebound in US home purchases and unexpected UK GDP growth, though quant hedge funds face their worst drawdown since October amid market volatility.
 
 **Top Articles:**
-- [An Anxious Japan Restarts the World’s Biggest Nuclear Plant](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fjapan-nuclear-restart.html)
-- [AI Bubble Issue Is ‘Critical’ to Inflation View, Hildebrand Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fai-bubble-issue-is-critical-to-inflation-view-hildebrand-says)
-- [US supreme court to consider Trump’s bid to fire Lisa Cook from Fed board](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case)
-- [IAEA's Grossi: Iran Nuclear Situation Remains Fragile](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fiaea-s-grossi-iran-nuclear-situation-remains-fragile-video)
-- [Burberry’s Sales Jump in China as Turnaround Gains Momentum](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fburberry-s-sales-rise-over-holidays-as-china-market-picks-up)
+- [Quants in Worst Drawdown Since October as Crowded Bets Buckle](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fquants-in-worst-drawdown-since-october-as-crowded-bets-buckle)
+- [McLaren Stake Hints at Broad Remit for Abu Dhabi’s Newest Fund L’imad](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmclaren-stake-hints-at-broad-remit-for-abu-dhabi-s-newest-fund-l-imad)
+- [Lead Edge Capital Founder Mitchell Green on Investing in China](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Flead-edge-capital-founder-green-on-investing-in-china-video)
+- [Norway Defense Chief Flags Increased Tension in Svalbard Gap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fnorway-defense-chief-flags-increased-tension-in-svalbard-gap)
+- [US Home-Purchase Applications Climb to Highest Since 2023](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-home-purchase-applications-climb-to-highest-since-early-2023)
 
-**Sources**: archive.ph (69 articles)
+**Sources**: archive.ph (72 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, corporate maneuvering, and cultural trends. Energy markets dominate headlines as European and U.S. natural gas prices surge—up 30% and 50% respectively—due to extreme cold, while funds bet on sustained demand. In corporate developments, Netflix adjusts its bid for Warner Bros. Discovery assets amid a hostile takeover attempt by Paramount Skydance, signaling intensifying competition in the streaming wars. Meanwhile, Disney's box office dominance in 2025 positions it for another strong year, underscoring its entertainment industry leadership. On the political front, the Trump administration's IRS reorganization and housing affordability push reflect broader economic pressures, with rising food prices and mortgage challenges drawing scrutiny. Culturally, immersive theater like the reimagined 'Phantom of the Opera' adaptation 'Masquerade' captivates audiences, while the World Economic Forum in Davos shifts focus from global cooperation to deference to U.S. policy priorities. Notable obituaries include Sega co-founder David Rosen and Cannondale pioneer Joe Montgomery, marking the passing of two industry innovators.
+Global economic and geopolitical tensions dominate this week's news, with Sweden's Alecta pension fund divesting most of its U.S. Treasury holdings amid macroeconomic risks, while the Red Sea's reopening stalls due to lingering Middle East instability. At the World Economic Forum in Davos, former Polish President Andrzej Duda warns of Europe's security challenges, as the event shifts focus from climate cooperation to deference toward Trump's policies. Meanwhile, corporate maneuvering takes center stage: Berkshire Hathaway plans to sell its Kraft Heinz stake post-split, and Netflix adjusts its Warner Bros. Discovery offer amid a hostile Paramount-Skydance takeover bid. Cultural and social stories also stand out, including the deaths of industry pioneers like Cannondale co-founder Joe Montgomery and Sega's David Rosen, as well as a surge in Pokémon card thefts and the rise of immersive theater adaptations like *Masquerade*. Housing affordability remains a pressing issue, with Trump's administration grappling with rising costs while Black women professionals face steep employment declines, turning to peer networks for support.
 
 **Top Articles:**
-- [Former JPMorgan Banker Launches European Sports Fund Athvance](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fformer-jpmorgan-banker-launches-european-sports-fund-athvance)
-- [Funds Turn Long on European Gas as Prices Soar 30% in a Week](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Ffunds-turn-long-on-european-gas-as-prices-soar-30-in-a-week)
-- [US Natural Gas Jumps Over 50% This Week as Freeze Takes Hold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-natural-gas-jumps-over-50-this-week-as-freeze-takes-hold)
+- [Sweden’s Alecta Sold Most of Its US Treasuries Since Early 2025](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fsweden-s-alecta-sold-most-of-its-us-treasuries-since-early-2025)
+- [Red Sea Reopening Falters Amid Simmering Risks in Middle East](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-21%2Fred-sea-reopening-falters-amid-simmering-risks-in-middle-east)
+- [Andrzej Duda on Europe’s Security at a Turning Point](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fandrzej-duda-on-europe-s-security-at-a-turning-point-video)
+- [Berkshire Hathaway to Sell Kraft Heinz Shares After Split Plan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fberkshire-hathaway-to-sell-kraft-heinz-shares-after-split-plan)
 - [Netflix posts narrow earnings beat, reports 325 million global subscribers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fnetflix-nflx-earnings-q4-2025.html)
-- [Joe Montgomery, Who Made Bicycles Lighter, Dies at 86](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fobituaries%2Fjoe-montgomery-dead.html)
 
-**Sources**: archive.ph (37 articles)
+**Sources**: archive.ph (38 articles)
 
 ---
 
-*Digest generated on January 21, 2026 at 11:47 AM *
+*Digest generated on January 21, 2026 at 01:28 PM *
