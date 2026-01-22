@@ -1,17 +1,17 @@
 # NoBS News Digest - January 22, 2026
 
-Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
+Generated from **208** unique articles (deduplicated from 208 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global economic and political tensions dominate headlines as President Trump's policies continue to reshape international relations. At the World Economic Forum, Trump's keynote speech signals a further retreat from the liberal democratic order, ceding ground to China, which is increasingly seen as a leader in the global economy. Meanwhile, Trump's threats of a new trade war loom, even as U.S. courts consider curbing his tariff authority. Economists warn his first-year policies, though initially inconsequential, may weaken the U.S. economy long-term. Domestically, Congress averts a government shutdown with a bipartisan funding deal, but protests erupt in Minnesota over federal immigration enforcement, highlighting deep divisions. In Asia, Japan's bond market stabilizes after a selloff triggered by Prime Minister Sanae Takaichi's tax-cut proposals, while Venezuela's economic instability drives locals toward cryptocurrency like USDT for financial security. These developments underscore shifting power dynamics and growing instability in both economic and political spheres.
+Global tensions escalate as President Trump's aggressive trade policies draw sharp rebuke from France, with Trade Minister Nicolas Forissier vowing retaliation if the U.S. imposes tariffs on champagne. The move underscores broader concerns about Trump's economic isolationism, which analysts warn could weaken America's global standing while bolstering China's influence. Meanwhile, Congress averts a government shutdown with a bipartisan funding deal, though domestic unrest simmers as Minnesota prepares for an economic blackout protesting ICE operations. In Venezuela, citizens increasingly turn to cryptocurrency like USDT to shield themselves from economic instability, highlighting the broader impact of political volatility on financial systems.
 
 **Top Articles:**
+- [France Says Trump Must Stop Threatening Champagne Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffrance-says-trump-must-stop-threatening-champagne-tariffs)
 - [China Tech Optimism Outweighs Geopolitical Worries | The China Show 1/22/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fthe-china-show-1-22-2026-video)
 - [China Wins as Trump Cedes Leadership of the Global Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html)
-- [Japan’s Super-Long Bonds Extend Gains to Second Day After Rout](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fjapan-s-super-long-bonds-extend-recovery-as-dip-buyers-emerge)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 
@@ -21,14 +21,14 @@ Global economic and political tensions dominate headlines as President Trump's p
 
 ## 💰 Finance, Economics & Business
 
-Global markets are shifting focus from trade tensions to central bank policies, with the Federal Reserve's independence under scrutiny as the Supreme Court weighs President Trump's attempt to remove a Fed governor. Meanwhile, Norway's central bank holds rates steady amid persistent inflation, while Vanguard reduces its UK asset allocations, reflecting broader diversification trends away from the U.S. as noted by Ray Dalio. Corporate developments include Netflix's all-cash bid for Warner Bros. Discovery, Stellantis' turnaround efforts, and Novo Nordisk's strong performance on obesity drug sales. Geopolitical risks, such as Trump's tariff threats and Greenland tensions, continue to rattle markets, though a recent pivot eased European stock declines. Gold prices rebound on central bank demand, while prediction markets gain traction amid regulatory debates.
+Global markets are navigating a mix of geopolitical tensions, central bank policies, and corporate maneuvering. Stocks rebounded after President Trump softened his stance on European tariffs, easing earlier sell-offs triggered by his threats over Greenland. Meanwhile, central banks remain cautious—Norway held its key rate at 4% amid persistent inflation, while the Federal Reserve faces uncertainty as the Supreme Court weighs Trump’s attempt to remove a Fed governor, raising concerns about central bank independence. In corporate news, Netflix sweetened its bid for Warner Bros. Discovery with an all-cash offer, intensifying the media M&A battle, while Novo Nordisk surged 8% on strong demand for its obesity drug Wegovy. Investors are also diversifying away from the U.S., with Ray Dalio warning of potential 'capital wars' and central banks stockpiling gold as a hedge against currency volatility. The World Economic Forum in Davos is buzzing with discussions on trade, AI risks, and the shifting global financial landscape.
 
 **Top Articles:**
+- [BlackRock’s HPS Makes Its First Asia Investment After Merger](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-s-hps-makes-its-first-asia-investment-after-merger)
+- [Marsh CEO on Insurance Demands Amid Global Uncertainty](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fmarsh-ceo-on-insurance-demands-amid-global-uncertainty-video)
+- [French Trade Minister: Europe Can't Be Weak](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ffrench-trade-minister-europe-can-t-be-weak-video)
 - [Markets Shifts From Tariffs to Fed & BoJ: 3-Minute MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fmarkets-shifts-from-tariffs-to-fed-boj-3-minute-mliv-video)
-- [Vanguard Cuts Allocation to UK Assets for £52 Billion Fund Range](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvanguard-cuts-allocation-to-uk-assets-for-52-billion-fund-range)
-- [Norway Holds Key Rate at 4% With No ‘Hurry’ to Cut It Further](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnorway-holds-key-rate-at-4-with-no-hurry-to-cut-it-further)
-- [<strong>Pimco CEO Manny Roman on Japanese Bonds and the Sell America Trade</strong>](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fpimco-ceo-manny-roman-on-japanese-bonds-and-the-sell-america-trade)
-- [Dalio Sees General Diversification Away From the US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fdalio-sees-general-diversification-away-from-the-us-video)
+- [Vanguard Cuts Allocation to UK for £52 Billion Fund Range](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvanguard-cuts-allocation-to-uk-assets-for-52-billion-fund-range)
 
 **Sources**: archive.ph (83 articles)
 
@@ -36,32 +36,32 @@ Global markets are shifting focus from trade tensions to central bank policies, 
 
 ## 💻 Technology
 
-Global markets and tech trends dominate headlines as AI-driven growth propels South Korea’s stock index to a historic 5,000 milestone, reflecting surging demand for AI-related investments. Meanwhile, Netflix’s aggressive push into advertising yields $1.5 billion in 2025 ad revenue, with projections to double in 2026, as the streaming giant also revamps its $83 billion all-cash bid for Warner Bros. Discovery to outmaneuver Paramount. Regulatory and legal tensions escalate as the FCC revisits decades-old 'equal time' rules for political candidates on talk shows, targeting late-night hosts like Colbert and Kimmel, while a federal judge blocks prosecutors from reviewing materials seized from a *Washington Post* reporter, raising press freedom concerns. In corporate shifts, Berkshire Hathaway prepares to exit its 28% stake in Kraft Heinz, marking a rare retreat for Warren Buffett’s empire, and China’s BYD solidifies its lead over Tesla in EV sales, with analysts highlighting its underappreciated non-automotive ventures. Geopolitical and economic anxieties persist as Japan restarts its largest nuclear plant amid lingering Fukushima trauma, and the IMF upgrades global growth forecasts to 3.3% for 2026, buoyed by AI investment despite trade uncertainties.
+This week's tech and business landscape is dominated by major AI advancements and corporate maneuvering, with Netflix making headlines by revamping its $83 billion all-cash bid for Warner Bros. Discovery, aiming to outmaneuver Paramount. The streaming giant also reports surging ad revenue, projecting a doubling to $3 billion in 2026. Meanwhile, AI continues to reshape industries, as smaller firms challenge Big Tech by focusing on infrastructure like power and data-center efficiency, while job applicants sue an AI recruitment tool company over alleged discriminatory algorithms. Regulatory tensions escalate as the FCC targets late-night talk shows under revived 'equal time' rules, raising free speech concerns, and a judge blocks the government from reviewing materials seized from a Washington Post reporter. In global markets, the IMF upgrades growth forecasts to 3.3% for 2026, citing AI investment as a key driver, while China's birthrate plummets to historic lows, exacerbating its demographic crisis. Trump's administration remains a focal point, with the president walking back Greenland tariff threats and signaling a preferred Fed chair candidate, though the Supreme Court appears skeptical of his attempt to remove Fed Governor Lisa Cook.
 
 **Top Articles:**
+- [How the Internet Got Worse: Masters in Business with Cory Doctorow](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fhow-the-internet-got-worse-masters-in-business-video)
+- [Help! Our Rental Car Got in an Accident, and We Can’t Get Our Security Deposit Back.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Frental-car-accident-insurance-thrifty.html)
+- [Venezuela’s Questionable Oil Figures Are Now Trump’s to Tout](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftrump-lays-claim-to-venezuela-s-questionable-oil-reserves)
 - [China’s Weichai Rejects KKCG Offer for Yacht Maker Ferretti](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fchina-s-weichai-rejects-kkcg-offer-for-yacht-maker-ferretti)
 - [Malfunction Forces Japan to Take Restarted Nuclear Plant Offline](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjapan-nuclear-offline.html)
-- [Vanke Leaves Creditors Guessing on Plans as Restructuring Looms](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvanke-leaves-creditors-guessing-on-plans-as-restructuring-looms)
-- [Greenland Pension Fund Mulls Divesting US Stocks on Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgreenland-pension-fund-mulls-divesting-us-stocks-on-trump-threat)
-- [The Bulls Are Back as Trump Lowers Transatlantic Tensions | Insight with Haslinda Amin 01/22/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Finsight-with-haslinda-amin-1-22-2026-video)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic shifts, corporate maneuvering, and cultural trends. In finance, the UK reports a sharper-than-expected drop in government borrowing, easing fiscal pressures, while the European Central Bank eyes Dutch central banker Klaas Knot as the likely successor to Christine Lagarde. Corporate activity remains brisk, with Deutsche Boerse's $6.2 billion acquisition of Allfunds and Elliott Management increasing its stake in Toyota Industries to push for a better buyout deal. Meanwhile, Netflix surpasses 325 million global subscribers and adjusts its offer for Warner Bros. Discovery assets amid a competitive media landscape. Travel trends reflect evolving consumer habits, with 'microvacations' gaining popularity and luxury travel prices rising while budget options become more accessible. On the political front, Trump's policies face rare criticism from JPMorgan CEO Jamie Dimon, and the Supreme Court hears arguments on the president's firing of Federal Reserve Governor Lisa Cook, underscoring tensions between executive power and institutional independence. Cultural moments include the death of Sega co-founder David Rosen, a pioneer in video gaming, and the immersive reimagining of 'Phantom of the Opera' drawing repeat audiences. The housing market remains a flashpoint, with Trump's administration grappling with affordability challenges as rising food prices and inflation continue to strain household budgets.
+The week’s headlines highlight a mix of economic shifts, cultural milestones, and political maneuvering. On the economic front, the UK sees a surprising drop in its deficit due to strong tax revenues, while Japan’s Tepco halts a nuclear plant restart amid safety concerns. Gold prices stabilize as geopolitical tensions ease, and natural gas markets fluctuate with shifting weather forecasts. Meanwhile, corporate moves dominate, with Deutsche Boerse’s $6.2 billion acquisition of Allfunds and Netflix’s amended offer for Warner Bros. Discovery assets, signaling ongoing consolidation in media and finance. Culturally, America gears up for its 250th anniversary with nationwide celebrations, while Broadway’s immersive *Masquerade* adaptation draws repeat audiences. Travel trends lean toward ‘microvacations’ as consumers navigate fluctuating prices and reward programs. Politically, Trump’s policies face scrutiny—from Jamie Dimon’s rare critique of immigration reforms to Supreme Court deliberations on the firing of Federal Reserve Governor Lisa Cook. The Davos forum underscores a global shift, with German Chancellor Merz emphasizing Europe’s role in a transforming world order, contrasting with the U.S.’s more coercive trade stance, as seen in the EU-South America free-trade deal.
 
 **Top Articles:**
+- [2026 Oscar Nominations to Be Unveiled by Danielle Brooks and Lewis Pullman](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Foscar-nominations-announcement.html)
+- [Two Ohio Nursing Programs Show What Could Happen as US Limits Student Borrowing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fstudent-loan-cap-graduate-nursing.html)
+- [America Turns 250: A Guide to the Coming Festivities](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fstyle%2Famerica-turns-250-a-guide-to-the-coming-festivities.html)
+- [German Chancellor Merz on New World Order](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fgerman-chancellor-merz-on-new-world-order-video)
 - [He Wants New Yorkers to Have a Stake in the Knicks and the Rangers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fnyregion%2Fmsg-pension-ownership-bunkeddeko.html)
-- [Elliott, Seeking Higher Toyota Industries Buyout, Adds to Stake](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Felliott-seeking-higher-toyota-industries-buyout-adds-to-stake)
-- [Carlyle in Talks With L Catterton for Iconic Sintra Resort Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcarlyle-in-talks-with-l-catterton-for-iconic-sintra-resort-sale)
-- [UK Deficit Falls More Than Expected as Tax Revenues Jump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fuk-budget-deficit-narrowed-more-than-forecast-in-december)
-- [Knot Is Most Likely Heir to Lagarde at ECB, Survey Shows](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fknot-is-most-likely-heir-to-lagarde-at-ecb-survey-shows)
 
-**Sources**: archive.ph (42 articles)
+**Sources**: archive.ph (43 articles)
 
 ---
 
-*Digest generated on January 22, 2026 at 09:56 AM *
+*Digest generated on January 22, 2026 at 10:56 AM *
