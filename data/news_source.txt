@@ -1,5 +1,59 @@
 [
   {
+    "title": "China’s Surprise Jump in Russian LNG Imports Signals More Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fchina-s-surprise-jump-in-russian-lng-imports-signals-more-demand",
+    "published": "Thu, 22 Jan 2026 05:15:37 CST",
+    "summary": "China reported a larger-than-expected surge in Russian liquefied natural gas\npurchases at the end of last year, suggesting better demand from Asia’s top\nimporter than traders had priced in.\n\n"
+  },
+  {
+    "title": "Knot Is Most Likely Heir to Lagarde at ECB, Survey Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fknot-is-most-likely-heir-to-lagarde-at-ecb-survey-shows",
+    "published": "Thu, 22 Jan 2026 05:15:00 CST",
+    "summary": "Dutchman Klaas Knot is most likely to succeed Christine Lagarde at the helm of\nthe European Central Bank, despite other candidates being better qualified, a\nBloomberg survey of economists suggests.\n\n"
+  },
+  {
+    "title": "London Set to Test if its IPO Market Reforms Can Deliver Results",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Flondon-set-to-test-if-its-ipo-market-reforms-can-deliver-results",
+    "published": "Thu, 22 Jan 2026 05:15:00 CST",
+    "summary": "Five years in the making, the City of London is set to find out if its equity\nmarket reforms can deliver results.\n\n"
+  },
+  {
+    "title": "Japan Toilet Maker Toto’s Shares Get Unlikely Boost From AI Rush",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fjapan-toilet-maker-toto-s-shares-get-unlikely-boost-from-ai-rush",
+    "published": "Thu, 22 Jan 2026 05:07:52 CST",
+    "summary": "Shares of Japanese toilet maker Toto Ltd. gained the most in five years after\nbooming memory demand excited expectations of growth in its little-known\nchipmaking materials operations.\n\n"
+  },
+  {
+    "title": "China Wins as Trump Cedes Leadership of the Global Economy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html",
+    "published": "Thu, 22 Jan 2026 05:00:08 CST",
+    "summary": "The president used a keynote speech at the World Economic Forum in Switzerland\nto renounce the last vestiges of the liberal democratic order.\n\n"
+  },
+  {
+    "title": "Japan’s Super-Long Bonds Extend Gains to Second Day After Rout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fjapan-s-super-long-bonds-extend-recovery-as-dip-buyers-emerge",
+    "published": "Thu, 22 Jan 2026 04:43:57 CST",
+    "summary": "Japanese government bonds rebounded for a second straight session, led by\nsuper-long maturities as market sentiment steadied after a steep selloff\nearlier this week triggered by Prime Minister Sanae Takaichi’s election pledge\nto cut taxes.\n\n"
+  },
+  {
+    "title": "More Japanese Companies See Downside to Rising Rates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmore-japanese-companies-see-downside-to-rising-rates",
+    "published": "Thu, 22 Jan 2026 04:40:09 CST",
+    "summary": "An increasing percentage of companies in Japan see rising interest rates\nhaving a negative impact on their business, underscoring the challenges for\nthe Bank of Japan as it normalizes policy after years of ultra-low borrowing\ncosts.\n\n"
+  },
+  {
+    "title": "Flagship Russian Oil Sinks in China After India Buyers Pull Back",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fflagship-russian-oil-sinks-in-china-after-india-buyers-pull-back",
+    "published": "Thu, 22 Jan 2026 04:37:35 CST",
+    "summary": "Prices of Russia’s flagship Urals crude for delivery to China have dropped to\nan unprecedented low as demand for the grade from Indian processors eases off,\nlessening competition for the cargoes.\n\n"
+  },
+  {
+    "title": "Copper Advances as Trump Softens Stance on Greenland Dispute",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcopper-advances-as-trump-softens-stance-on-greenland-dispute",
+    "published": "Thu, 22 Jan 2026 04:25:48 CST",
+    "summary": "Copper rose as risk appetite improved on US President Donald Trump’s dialing\ndown on threats against European partners over Greenland.\n\n"
+  },
+  {
     "title": "India’s RBI to Focus on Pace of Rupee’s Drop, Strategists Say",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findia-s-rbi-to-focus-on-pace-of-rupee-s-drop-strategists-say",
     "published": "Thu, 22 Jan 2026 04:14:24 CST",
@@ -18,6 +72,12 @@
     "summary": "Tokyo Electric Power Co., Japan’s largest utility, suspended the restart\nprocess of its nuclear power plant in Niigata prefecture, less than a day\nafter resuming its first reactor since the 2011 Fukushima disaster.\n\n"
   },
   {
+    "title": "Two Top Hong Kong Ministers to Step Down, Ming Pao Reports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftwo-top-hong-kong-ministers-to-step-down-ming-pao-reports",
+    "published": "Thu, 22 Jan 2026 04:01:12 CST",
+    "summary": "Hong Kong ministers overseeing housing and constitutional affairs will step\ndown soon as part of a high-level reshuffle, Ming Pao reported.\n\n"
+  },
+  {
     "title": "New Tankers Join Russian Oil Trade in Rare Move as Rates Jump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnew-tankers-enter-russian-oil-trade-after-freight-rates-soar",
     "published": "Thu, 22 Jan 2026 03:45:11 CST",
@@ -30,10 +90,10 @@
     "summary": "Chi Forest, a maker of low-calorie sparkling drinks and flavored teas, is\nconsidering a Hong Kong initial public offering, people familiar with the\nmatter said, following in the footsteps of other Chinese beverage companies.\n\n"
   },
   {
-    "title": "Goldman Sachs Raises Year-End Gold Forecast to $5,400 an Ounce",
+    "title": "Goldman Raises Year-End Gold Forecast to $5,400 an Ounce",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgoldman-sachs-raises-year-end-gold-forecast-to-5-400-an-ounce",
     "published": "Thu, 22 Jan 2026 03:12:18 CST",
-    "summary": "Goldman Sachs Group Inc. raised its year-end gold forecast to $5,400 an ounce,\nciting intensifying demand from private investors and central banks.\n\n"
+    "summary": "Goldman Sachs Group Inc. raised its year-end gold price forecast by more than\n10%, reflecting growing private-sector diversification into bullion on top of\nalready-strong demand from central banks and exchange-traded funds.\n\n"
   },
   {
     "title": "Trump walks back Greenland tariffs threat, citing vague ‘deal’ over territory",
@@ -108,58 +168,16 @@
     "summary": "The Malaysian ringgit is riding its most active trading period in years as\nglobal investors pour capital into the country, wagering that its market-\nbeating rally has room to run.\n\n"
   },
   {
-    "title": "Soho China Founder: Invested in US to Diversify from China",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fzhang-invested-in-us-to-diversify-from-china-video",
-    "published": "Wed, 21 Jan 2026 23:53:54 CST",
-    "summary": "Zhang Xin, founder and CEO of Closer Properties and former CEO of SOHO China,\nwhere she remains an executive director, discusses opportunities in U.S. real\nestate and building luxury Manhattan condos with Romaine Bostick and Katie\nGreifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Gold Falls After Trump Backs Away From Tariffs Over Greenland",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fgold-falls-after-trump-backs-away-from-tariffs-over-greenland",
     "published": "Wed, 21 Jan 2026 23:46:43 CST",
     "summary": "Gold fell after US President Donald Trump withdrew a threat to impose tariffs\non European nations and said a “framework of a future deal” over Greenland had\nbeen agreed.\n\n"
   },
   {
-    "title": "2025 Was a Record Year for Activism: Barclays",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2F2025-was-a-record-year-for-activism-barclays-video",
-    "published": "Wed, 21 Jan 2026 23:46:08 CST",
-    "summary": "Jim Rossman, global head of shareholder advisory at Barclays Capital, says\n2025 set a record with 255 activist campaigns. He tells Romaine Bostick and\nKatie Greifeld on “The Close” that M&A demands were the top focus of these\nactivists. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Wall Street Chiefs Lay Low to Avoid Trump’s Trolling",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-21%2Fwall-street-cautious-as-trump-shakes-global-markets-in-davos",
-    "published": "Wed, 21 Jan 2026 23:45:31 CST",
-    "summary": "Financiers are doing a careful dance to help clients navigate the president’s\nsecond term without provoking his ire\n\n"
-  },
-  {
-    "title": "'26 to Exceed '25 for Exits: Apollo's David Sambur",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2F-26-to-exceed-25-for-exits-apollo-s-david-sambur-video",
-    "published": "Wed, 21 Jan 2026 23:40:02 CST",
-    "summary": "David Sambur, partner and co-head of equity at Apollo, discusses the 2026 deal\noutlook with Romaine Bostick and Katie Greifeld on “The Close.” He expects\n2026 to be an even bigger year for exits than last year. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "FCC Targets Colbert and Kimmel in New Crackdown on Late-Night TV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Ffcc-late-night-stephen-colbert-jimmy-kimmel.html",
     "published": "Wed, 21 Jan 2026 23:38:05 CST",
     "summary": "The F.C.C. said it planned to enforce long-dormant rules on appearances by\npolitical candidates on network talk shows.\n\n"
-  },
-  {
-    "title": "Venezuela to Discuss Oil Revamp That Will Allow Foreign Drillers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fvenezuela-to-discuss-oil-revamp-that-will-allow-foreign-drillers",
-    "published": "Wed, 21 Jan 2026 23:34:15 CST",
-    "summary": "Venezuela’s legislature on Thursday is set to discuss oil reforms that, if\nimplemented, will unwind the state monopoly of the industry and let private\ncompanies produce and sell crude from the country’s vast reserves.\n\n"
-  },
-  {
-    "title": "M&A Set for ‘Record-Breaking' '26: Hogan Lovells' Curtin",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fm-a-set-for-record-breaking-26-hogan-lovells-curtin-video",
-    "published": "Wed, 21 Jan 2026 23:31:39 CST",
-    "summary": "Bill Curtin, Hogan Lovells’ global head of M&A, says 2026 could be a record\nyear for dealmaking, with a multi-year M&A run that has a higher ceiling than\nin past cycles. He speaks with Katie Greifeld and Romaine Bostick on “The\nClose.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Deutsche Bank's Chadha: S&P ‘Very Top-Heavy' Right Now",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fdeutsche-bank-s-chadha-s-p-very-top-heavy-right-now-video",
-    "published": "Wed, 21 Jan 2026 23:31:38 CST",
-    "summary": "Bankim “Binky” Chadha, Deutsche Bank’s chief U.S. equity and global\nstrategist, says the S&P 500 is heavily concentrated in a small group of\nstocks. He tells Romaine Bostick and Katie Greifeld on “The Close” that shifts\nin bonds and rates make a neutral approach across sectors more appealing.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Oil Steadies With US Push for Greenland and Supplies in Focus",
@@ -172,24 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-independence.html",
     "published": "Wed, 21 Jan 2026 23:14:25 CST",
     "summary": "As the justices weighed the consequences of allowing President Trump to fire a\nFederal Reserve official, the president reprised his pressure campaign on the\ncentral bank.\n\n"
-  },
-  {
-    "title": "US Stocks Rally After Trump Announces Greenland Framework | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fus-stocks-rally-closing-bell-video",
-    "published": "Wed, 21 Jan 2026 23:12:42 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Malaysia Set to Hold Rate as Growth Stays Strong, Inflation Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmalaysia-set-to-hold-rate-as-growth-stays-strong-inflation-low",
-    "published": "Wed, 21 Jan 2026 23:00:00 CST",
-    "summary": "Malaysia is set to keep its benchmark interest rate unchanged on Thursday, as\nbetter-than-expected economic growth coupled with low inflation provide a\nbuffer for policymakers to stand pat.\n\n"
-  },
-  {
-    "title": "Netflix Spending Mounts Amid Warner Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fnetflix-spending-mounts-amid-warner-deal-video",
-    "published": "Wed, 21 Jan 2026 22:55:12 CST",
-    "summary": "Netflix shares tumbled Wednesday after the company issued a disappointing\nforecast for earnings in the months ahead as it spends more on programming and\nworks to close its $82.7 billion deal with Warner Bros. Discovery Inc. The\nstreaming leader said Tuesday it plans to increase spending on films and TV\nshows by 10% this year while forging ahead with plans to buy the studio and\nstreaming business of Warner Bros., a deal that would unite two of the world’s\nlargest entertainment companies. Netflix spent about $18 billion on\nprogramming last year, with subscribers growing almost 8% to top 325 million.\nWedbush Securities Media & Entertainment Equity Research SVP Alicia Reese\njoins Bloomberg Businessweek Daily to discuss. She speaks with Carol Massar\nand Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
@@ -370,6 +370,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
     "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Bond Market Open to Ukraine for First Time Since Russia Invasion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fmhp-kicks-off-ukraine-s-first-bond-sale-since-russian-invasion",
+    "published": "Wed, 21 Jan 2026 11:12:29 CST",
+    "summary": "It would have been an entirely unremarkable event several years ago: MHP SE, a\nUkrainian chicken exporter, borrowing $450 million from international bond\ninvestors.\n\n"
   },
   {
     "title": "Why sticking to your savings plan beats panic buying gold or crypto",
@@ -652,12 +658,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F18%2Fbusiness%2Fdavos-world-economic-forum-trump.html",
     "published": "Mon, 19 Jan 2026 04:20:17 CST",
     "summary": "At its 56th annual meeting in Davos, the World Economic Forum will wrestle\nwith war, economics, artificial intelligence and other pressing issues.\n\n"
-  },
-  {
-    "title": "National Anger Spills Into Target Stores, Again",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F17%2Fbusiness%2Ftarget-immigration-minneapolis.html",
-    "published": "Mon, 19 Jan 2026 03:59:59 CST",
-    "summary": "Videos of immigration officers dragging an employee out of a store near\nMinneapolis, the retailer’s hometown, set off renewed political debate after\nyears of boycotts.\n\n"
   },
   {
     "title": "Real Estate Crash Weighs on China’s Economic Growth",
