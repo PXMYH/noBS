@@ -1,5 +1,41 @@
 [
   {
+    "title": "UK and European Stocks Set for Rally on Trump’s Greenland Shift",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-22%2Fftse-100-live-trump-tariffs-greenland-davos-pound-cpi-bonds-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Thu, 22 Jan 2026 06:48:00 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Air India Braces for Record $1.6 Billion Loss After Deadly Crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fair-india-braces-for-record-1-6-billion-loss-after-deadly-crash",
+    "published": "Thu, 22 Jan 2026 06:19:52 CST",
+    "summary": "Air India Ltd. is set to report a record annual loss after last year’s deadly\ncrash and airspace shutdowns wiped out progress toward a turnaround, according\nto people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Hong Kong’s Sogo Mall Operator Seeks $1 Billion Loan Refinancing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fhong-kong-s-sogo-mall-operator-seeks-1-billion-loan-refinancing",
+    "published": "Thu, 22 Jan 2026 06:13:27 CST",
+    "summary": "Hong Kong mall operator Lifestyle International Holdings Ltd. is in talks with\nbanks to refinance a HK$8 billion ($1.03 billion) loan, months after lenders\nrelaxed terms on the borrowing as earnings remain under pressure, said people\nfamiliar with the matter.\n\n"
+  },
+  {
+    "title": "Greenland Risk Recedes, KOSPI Tops 5000 | The Asia Trade 1/22/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fthe-asia-trade-1-22-2025-video",
+    "published": "Thu, 22 Jan 2026 05:56:47 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Singapore\nand Sydney with Avril Hong and Paul Allen, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fire at Russian Black Sea Port Damages Fuel Tanks, Kills Two",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffire-at-russian-black-sea-port-damages-fuel-tanks-kills-two",
+    "published": "Thu, 22 Jan 2026 05:43:41 CST",
+    "summary": "Russia said Ukrainian drones hit a Black Sea port late Wednesday, setting four\nfuel terminals on fire and killing two people.\n\n"
+  },
+  {
+    "title": "Hedge Fund Seeks $137 Million in Dispute With Samsung Securities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fhedge-fund-seeks-137-million-in-dispute-with-samsung-securities",
+    "published": "Thu, 22 Jan 2026 05:33:28 CST",
+    "summary": "Gen2 Partners Ltd., a Hong Kong-based hedge fund, is seeking more than $137\nmillion in damages from three Samsung financial companies.\n\n"
+  },
+  {
     "title": "China’s Surprise Jump in Russian LNG Imports Signals More Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fchina-s-surprise-jump-in-russian-lng-imports-signals-more-demand",
     "published": "Thu, 22 Jan 2026 05:15:37 CST",
@@ -18,7 +54,7 @@
     "summary": "Five years in the making, the City of London is set to find out if its equity\nmarket reforms can deliver results.\n\n"
   },
   {
-    "title": "Japan Toilet Maker Toto’s Shares Get Unlikely Boost From AI Rush",
+    "title": "Toilet Maker Toto’s Shares Get Unlikely Boost From AI Rush",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fjapan-toilet-maker-toto-s-shares-get-unlikely-boost-from-ai-rush",
     "published": "Thu, 22 Jan 2026 05:07:52 CST",
     "summary": "Shares of Japanese toilet maker Toto Ltd. gained the most in five years after\nbooming memory demand excited expectations of growth in its little-known\nchipmaking materials operations.\n\n"
@@ -114,12 +150,6 @@
     "summary": "The report deeming an ICE detainee’s death in Texas a homicide comes the same\nday that a federal judge temporarily barred the deportation of two witnesses.\n\n"
   },
   {
-    "title": "Greenland Deal Eases Risk: Pepperstone’s Chris Weston",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fgrenland-deal-eases-risk-pepperstone-s-chris-weston-video",
-    "published": "Thu, 22 Jan 2026 02:28:48 CST",
-    "summary": "Pepperstone Head of Research Chris Weston tells Bloomberg that while US\nequities may lag, the prospect of a Greenland deal has eased risk sentiment.\n\n"
-  },
-  {
     "title": "Global Chip Stocks Soar as Huang Helps Fuel AI Euphoria at Davos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fglobal-chip-stocks-climb-as-huang-helps-fuel-ai-frenzy-at-davos",
     "published": "Thu, 22 Jan 2026 02:23:05 CST",
@@ -132,40 +162,10 @@
     "summary": "BitGo Holdings Inc. and some of its backers raised $212.8 million in a US\ninitial public offering, pricing its shares above the marketed range.\n\n"
   },
   {
-    "title": "China’s Bumper Silver Exports Belie Market Fears of Curbs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fchina-s-bumper-silver-exports-bely-market-fear-of-restrictions",
-    "published": "Thu, 22 Jan 2026 01:24:44 CST",
-    "summary": "China shipped around 5,100 tons of silver overseas last year, according to\ncustoms data, the highest volume of exports in at least 16 years and a level\nthat suggests market fears of tightening controls may be overblown for now.\n\n"
-  },
-  {
-    "title": "Dollar Global Transaction Usage Jumps to New High, Swift Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fdollar-global-transaction-usage-jumps-to-new-high-swift-says",
-    "published": "Thu, 22 Jan 2026 01:00:00 CST",
-    "summary": "The dollar retains its supremacy in global trade despite the persistent\nuncertainty associated with US President Donald Trump’s policies.\n\n"
-  },
-  {
-    "title": "Disco Shares Soar Most Since April on Booming AI Chip Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fdisco-shares-soar-most-since-april-on-booming-ai-chip-demand",
-    "published": "Thu, 22 Jan 2026 00:31:11 CST",
-    "summary": "Disco Corp. shares jumped as much as 15% after the supplier of chipmaking\ntools reported better-than-expected quarterly earnings on surging demand for\nAI-related hardware.\n\n"
-  },
-  {
-    "title": "Small Caps Lead Market Gains as Russell 2000 Climbs | The Close 1/21/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fthe-close-1-21-2026-video",
-    "published": "Thu, 22 Jan 2026 00:17:53 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Deutsche Bank Securities’ Binky Chadha, H/L Ventures’\nOliver Libby, Hogan Lovells’ Bill Curtin, Churchill Asset Management’s Ken\nKencel, UBS Alignment Partners’ Alliance McCartney, Apollo’s David Sambur,\nBarclays’ Jim Rossman, Closer Properties’ Zhang Xin, Clarion Partners’ Josh\nPristaw. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "South Korea’s Kospi Tops 5,000 as AI Demand Fuels Market Surge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsouth-korea-s-kospi-tops-5-000-as-ai-demand-fuels-market-surge",
     "published": "Thu, 22 Jan 2026 00:08:19 CST",
     "summary": "South Korea’s stock benchmark advanced to cross the 5,000 target set by\nPresident Lee Jae Myung, fueled by AI‑driven demand in the tech‑heavy market.\n\n"
-  },
-  {
-    "title": "Ringgit Trading Signals Growing Global Confidence in Malaysia",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fhow-high-ringgit-trading-volume-signals-global-investor-conviction-in-malaysia",
-    "published": "Thu, 22 Jan 2026 00:01:57 CST",
-    "summary": "The Malaysian ringgit is riding its most active trading period in years as\nglobal investors pour capital into the country, wagering that its market-\nbeating rally has room to run.\n\n"
   },
   {
     "title": "Gold Falls After Trump Backs Away From Tariffs Over Greenland",
@@ -180,7 +180,7 @@
     "summary": "The F.C.C. said it planned to enforce long-dormant rules on appearances by\npolitical candidates on network talk shows.\n\n"
   },
   {
-    "title": "Oil Steadies With US Push for Greenland and Supplies in Focus",
+    "title": "Oil Steadies as Greenland Ruckus Fades and Supplies Tick Higher",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Flatest-oil-market-news-and-analysis-for-jan-22",
     "published": "Wed, 21 Jan 2026 23:27:52 CST",
     "summary": "Oil steadied as geopolitical tensions over Greenland cooled, aiding wider\nmarkets and offsetting an array of issues over supply.\n\n"
@@ -198,7 +198,7 @@
     "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
   },
   {
-    "title": "Stock Rally Builds, Gold Dips as Tariff Fears Ease: Markets Wrap",
+    "title": "Europe Stocks to Gain After Trump Pivot, AI Rally: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 21 Jan 2026 22:34:02 CST",
     "summary": "Global stocks were set to extend a rally after US President Donald Trump\nabandoned his tariff threat against Europe, easing concerns about a renewed\ntrade war.\n\n"
