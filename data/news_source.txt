@@ -1,15 +1,63 @@
 [
   {
-    "title": "Grenland Deal Eases Risk: Pepperstone’s Chris Weston",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fgrenland-deal-eases-risk-pepperstone-s-chris-weston-video",
-    "published": "Thu, 22 Jan 2026 02:28:48 CST",
-    "summary": "Pepperstone Head of Research Chris Weston tells Bloomberg that while US\nequities may lag, the prospect of a Greenland deal has eased risk sentiment.\n(Source: Bloomberg)\n\n"
+    "title": "India’s RBI to Focus on Pace of Rupee’s Drop, Strategists Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findia-s-rbi-to-focus-on-pace-of-rupee-s-drop-strategists-say",
+    "published": "Thu, 22 Jan 2026 04:14:24 CST",
+    "summary": "The Reserve Bank of India will likely try to manage the pace of moves in the\nrupee rather than defend specific levels as the currency plumbs record lows,\naccording to strategists.\n\n"
   },
   {
-    "title": "Trump walks back Greenland tariffs threat, citing territory ‘deal’ – which Danish official calls ‘not real’",
+    "title": "As They Say in Greenland, ‘Trump Tamatigut Qunutittarpoq’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-22%2Ftaco-trade-as-they-say-in-greenland-trump-tamatigut-qunutittarpoq",
+    "published": "Thu, 22 Jan 2026 04:09:24 CST",
+    "summary": "The TACO trade is back as markets shake off the invasion-tariff drama.\n\n"
+  },
+  {
+    "title": "Tepco Pauses Nuclear Reactor Reboot Day After Milestone Restart",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftepco-pauses-nuclear-reactor-reboot-day-after-milestone-restart",
+    "published": "Thu, 22 Jan 2026 04:02:23 CST",
+    "summary": "Tokyo Electric Power Co., Japan’s largest utility, suspended the restart\nprocess of its nuclear power plant in Niigata prefecture, less than a day\nafter resuming its first reactor since the 2011 Fukushima disaster.\n\n"
+  },
+  {
+    "title": "New Tankers Join Russian Oil Trade in Rare Move as Rates Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnew-tankers-enter-russian-oil-trade-after-freight-rates-soar",
+    "published": "Thu, 22 Jan 2026 03:45:11 CST",
+    "summary": "Soaring freight rates have enticed some shipowners to use new tankers to\ntransport Russian oil, a trade usually carried out by older vessels that are\nclose to -- and occasionally over -- their usual lifespan.\n\n"
+  },
+  {
+    "title": "Fizzy Drinks Maker Chi Forest Is Said to Consider Hong Kong IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffizzy-drinks-maker-chi-forest-is-said-to-consider-hong-kong-ipo",
+    "published": "Thu, 22 Jan 2026 03:15:00 CST",
+    "summary": "Chi Forest, a maker of low-calorie sparkling drinks and flavored teas, is\nconsidering a Hong Kong initial public offering, people familiar with the\nmatter said, following in the footsteps of other Chinese beverage companies.\n\n"
+  },
+  {
+    "title": "Goldman Sachs Raises Year-End Gold Forecast to $5,400 an Ounce",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgoldman-sachs-raises-year-end-gold-forecast-to-5-400-an-ounce",
+    "published": "Thu, 22 Jan 2026 03:12:18 CST",
+    "summary": "Goldman Sachs Group Inc. raised its year-end gold forecast to $5,400 an ounce,\nciting intensifying demand from private investors and central banks.\n\n"
+  },
+  {
+    "title": "Trump walks back Greenland tariffs threat, citing vague ‘deal’ over territory",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F21%2Ftrump-framework-greenland-tariffs-threats",
-    "published": "Thu, 22 Jan 2026 02:25:57 CST",
-    "summary": "US president claims ‘framework’ of agreement in the works after ‘very\nproductive’ meeting with Nato secretary general\n\nDonald Trump has walked back his threat to impose sweeping US tariffs on eight\nEuropean countries, claiming he had agreed “the framework of a future deal” on\nGreenland at the same time a Danish lawmaker called the deal “not real”.\n\nFour days after vowing to introduce steep import duties on a string of US\nallies over their support for Greenland’s continued status as an autonomous\nDanish territory, the president backed down.\n\nContinue reading...\n\n"
+    "published": "Thu, 22 Jan 2026 03:01:22 CST",
+    "summary": "US president claims ‘framework’ of agreement in the works after ‘very\nproductive’ meeting with Nato secretary general\n\n  * Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland\n\nDonald Trump has walked back his threat to impose sweeping US tariffs on eight\nEuropean countries, claiming he had agreed “the framework of a future deal” on\nGreenland.\n\nFour days after vowing to introduce steep import duties on a string of US\nallies over their support for Greenland’s continued status as an autonomous\nDanish territory, the president backed down.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Traders Seek Break from ‘Sell India’ Theme",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-22%2Fgold-and-silver-etfs-lure-investors-as-indian-stocks-struggle",
+    "published": "Thu, 22 Jan 2026 02:45:22 CST",
+    "summary": "Gold, silver ETFs are bright spots amid the stock gloom.\n\n"
+  },
+  {
+    "title": "Autopsy report classifies ICE detainee’s death as a homicide",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Fice-homicide-detainee-death-autopsy%2F",
+    "published": "Thu, 22 Jan 2026 02:45:08 CST",
+    "summary": "The report deeming an ICE detainee’s death in Texas a homicide comes the same\nday that a federal judge temporarily barred the deportation of two witnesses.\n\n"
+  },
+  {
+    "title": "Greenland Deal Eases Risk: Pepperstone’s Chris Weston",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fgrenland-deal-eases-risk-pepperstone-s-chris-weston-video",
+    "published": "Thu, 22 Jan 2026 02:28:48 CST",
+    "summary": "Pepperstone Head of Research Chris Weston tells Bloomberg that while US\nequities may lag, the prospect of a Greenland deal has eased risk sentiment.\n\n"
   },
   {
     "title": "Global Chip Stocks Soar as Huang Helps Fuel AI Euphoria at Davos",
@@ -18,10 +66,10 @@
     "summary": "Global semiconductor stocks advanced, as comments by Nvidia Corp. Chief\nExecutive Officer Jensen Huang at Davos helped reinforce investor enthusiasm\nfor the artificial intelligence trade.\n\n"
   },
   {
-    "title": "BitGo Is Said to Price US IPO at $18 Per Share, Above Range",
+    "title": "Crypto Firm BitGo, Backers Raise $212.8 Million in US IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fbitgo-is-said-to-price-us-ipo-at-18-per-share-above-range",
     "published": "Thu, 22 Jan 2026 01:43:03 CST",
-    "summary": "BitGo Holdings Inc. priced its initial public offering at $18 per share, above\nthe marketed range, according to people familiar with the matter.\n\n"
+    "summary": "BitGo Holdings Inc. and some of its backers raised $212.8 million in a US\ninitial public offering, pricing its shares above the marketed range.\n\n"
   },
   {
     "title": "China’s Bumper Silver Exports Belie Market Fears of Curbs",
@@ -34,12 +82,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fdollar-global-transaction-usage-jumps-to-new-high-swift-says",
     "published": "Thu, 22 Jan 2026 01:00:00 CST",
     "summary": "The dollar retains its supremacy in global trade despite the persistent\nuncertainty associated with US President Donald Trump’s policies.\n\n"
-  },
-  {
-    "title": "Autopsy report classifies ICE detainee’s death as a homicide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Fice-homicide-detainee-death-autopsy%2F",
-    "published": "Thu, 22 Jan 2026 00:48:08 CST",
-    "summary": "The report deeming an ICE detainee’s death in Texas a homicide comes the same\nday that a federal judge temporarily barred the deportation of two witnesses.\n\n"
   },
   {
     "title": "Disco Shares Soar Most Since April on Booming AI Chip Demand",
@@ -156,10 +198,10 @@
     "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
   },
   {
-    "title": "Stocks Gain, Gold Falls as Greenland Tensions Ease: Markets Wrap",
+    "title": "Stock Rally Builds, Gold Dips as Tariff Fears Ease: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 21 Jan 2026 22:34:02 CST",
-    "summary": "Equities rallied and precious metals fell after US President Donald Trump\nabandoned his tariff threat against Europe, easing trade-war concerns.\n\n"
+    "summary": "Global stocks were set to extend a rally after US President Donald Trump\nabandoned his tariff threat against Europe, easing concerns about a renewed\ntrade war.\n\n"
   },
   {
     "title": "Theranos founder Elizabeth Holmes asks Trump to commute prison sentence",
@@ -172,12 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html",
     "published": "Wed, 21 Jan 2026 22:15:47 CST",
     "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
-  },
-  {
-    "title": "Braskem Seeks to Unveil Debt Restructuring Plan in Coming Months",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbraskem-seeks-to-unveil-debt-restructuring-plan-in-coming-months",
-    "published": "Wed, 21 Jan 2026 22:15:36 CST",
-    "summary": "Braskem SA is aiming to present an out-of-court restructuring plan to\ncreditors by March as it moves to address its mounting debt woes, according to\npeople familiar with the matter.\n\n"
   },
   {
     "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
@@ -202,18 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fwashington-post-reporter-search-first-amendment.html",
     "published": "Wed, 21 Jan 2026 21:38:03 CST",
     "summary": "The Post, in its first legal filing since the government searched the home of\na reporter last week, had demanded the return of the seized materials.\n\n"
-  },
-  {
-    "title": "Bond Dip-Buyers Rewarded on News of Greenland ‘Framework’ Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fbond-dip-buyers-rewarded-on-news-of-greenland-framework-deal",
-    "published": "Wed, 21 Jan 2026 21:30:00 CST",
-    "summary": "Investors who bought into this week’s Treasuries selloff are reaping the\nreward after President Donald Trump backed off his threat to slap new tariffs\non European nations as part of his push to acquire Greenland.\n\n"
-  },
-  {
-    "title": "Target’s Non-Response to ICE Says a Lot",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fopinion-target-s-non-response-to-ice-says-a-lot-video",
-    "published": "Wed, 21 Jan 2026 21:25:30 CST",
-    "summary": "The company’s lack of comment after ICE detained two of its employees is\nanother example of corporate America’s overcorrection, Bloomberg Opinion\ncolumnist Beth Kowitt says. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Prosecutors barred from reviewing material seized from Washington Post reporter",
@@ -276,12 +300,6 @@
     "summary": "The president’s address at the World Economic Forum in Switzerland has trading\npartners and business executives on edge.\n\n"
   },
   {
-    "title": "Energy Stocks Hit Record High on Greenland, Arctic Blast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fenergy-stocks-on-track-for-record-on-greenland-arctic-blast",
-    "published": "Wed, 21 Jan 2026 18:16:21 CST",
-    "summary": "A sizzling rally in energy stocks over the past few months has the group\nreaching a new high as rising geopolitical uncertainty pushes investors to bet\non elevated oil prices.\n\n"
-  },
-  {
     "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
     "published": "Wed, 21 Jan 2026 17:22:52 CST",
@@ -336,12 +354,6 @@
     "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
   },
   {
-    "title": "Stocks Rally, Volatility Curbed as Trump Walks Back Levy Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstocks-rebound-as-trump-expounds-on-greenland-equity-market",
-    "published": "Wed, 21 Jan 2026 14:40:23 CST",
-    "summary": "US stocks rallied Wednesday after US President Donald Trump said he’d reached\na “framework” with NATO for a future Greenland deal.\n\n"
-  },
-  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Wed, 21 Jan 2026 14:02:02 CST",
@@ -378,10 +390,10 @@
     "summary": "From the ballot box in California to the halls of Congress and Wall Street,\nseveral new initiatives would require more oversight of how the company\nprotects its passengers.\n\n"
   },
   {
-    "title": "Natural Gas Prices Soar as Dangerous Freeze Takes Hold Across Massive Swath of the US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fus-natural-gas-jumps-over-50-this-week-as-freeze-takes-hold",
-    "published": "Wed, 21 Jan 2026 08:55:53 CST",
-    "summary": "US natural gas futures jumped more than 50% in two days, putting futures on\ntrack for their biggest weekly gain in more than three decades, as dangerously\ncold temperatures are set to take hold of a massive swath of the country.\n\n"
+    "title": "New World Seeks Asset Sale by June to Turn Around Cash Flow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fnew-world-seeks-asset-sale-by-june-to-create-positive-cash-flow",
+    "published": "Wed, 21 Jan 2026 07:21:35 CST",
+    "summary": "New World Development Co. is racing to offload at least one asset by the end\nof June to meet its self‑imposed HK$27 billion ($3.5 billion) sales target and\ngenerate positive cash flow, according to people familiar with the matter.\n\n"
   },
   {
     "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
@@ -436,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F20%2Fnetflix-sweetens-warner-bros-bid-all-cash-offer-block-paramount",
     "published": "Tue, 20 Jan 2026 22:29:15 CST",
     "summary": "Streaming company says proposal speeds up completion and allows WBD investors\nto vote as soon as April\n\nNetflix has sweetened its $82.7bn (£61.5bn) offer for the studios and\nstreaming businesses of Warner Bros Discovery (WBD) by making it an all-cash\ndeal, streamlining its potential completion in the face of a hostile bid from\nParamount Skydance.\n\nThe streaming company had originally secured the unanimous backing of the WBD\nboard last month with a cash-and-shares proposal that valued the business at\n$27.75 a share.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Stocks Surge on Trump’s Claim of Deal on Greenland: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-20%2Fasian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
-    "published": "Tue, 20 Jan 2026 22:25:10 CST",
-    "summary": "Speculative spirits were restored on Wall Street, fueled by hopes for a\nsolution in Donald Trump’s ambitions for Greenland that would avoid tariffs.\nStocks and bonds climbed and gold’s rally cooled as the president claimed a\nframework of a deal with NATO.\n\n"
   },
   {
     "title": "Stocks slide after Trump threatens new tariffs over Greenland",
@@ -1018,12 +1024,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fsep%2F16%2Fthe-new-norm-sustainable-textiles-lauren-choi",
     "published": "Tue, 16 Sep 2025 13:00:06 CDT",
     "summary": "Lauren Choi wanted to give plastic a second life. Her experiment turned into\nThe New Norm, a sustainable textile startup\n\nIf you’ve been on a college campus in the last 30 years, you’ve likely come\nacross red party cups. Made by brands like Solo and Hefty, the iconic cups are\nbeloved by frats, crucial to drinking games like beer pong – and very\ndifficult to recycle because of the type of plastic they’re made from.\n\nBut Lauren Choi, an engineering student at Johns Hopkins University, saw an\nopportunity: she wanted to turn these problematic cups into fabric. In 2019,\nduring her senior year, she led a team that built an extruder machine that\ncould spin plastic waste into textile filaments. They partnered with campus\nfraternities to gather thousands of red cups that could serve as the raw\nmaterial.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Tracking Every Trump Tariff and Its Economic Effect",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fgraphics%2Ftrump-tariffs-tracker%2F",
-    "published": "Fri, 21 Mar 2025 05:00:41 CDT",
-    "summary": "For the full experience visit: Tracking Every Trump Tariff and Its Economic\nEffect\n\n"
   },
   {
     "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
