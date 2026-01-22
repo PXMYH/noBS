@@ -1,5 +1,23 @@
 [
   {
+    "title": "Pop Mart Shares Rally as Investors Look to CEO’s Interview",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fpop-mart-shares-rally-as-investors-look-to-ceo-s-interview",
+    "published": "Thu, 22 Jan 2026 07:24:12 CST",
+    "summary": "Pop Mart International Group Ltd. staged a sharp afternoon rally as investor\nsentiment received a boost from an upcoming Chinese state media interview with\nChief Executive Officer Wang Ning.\n\n"
+  },
+  {
+    "title": "Engie CEO Catherine MacGregor on Energy Security",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fengie-ceo-catherine-macgregor-on-energy-security-video",
+    "published": "Thu, 22 Jan 2026 07:09:42 CST",
+    "summary": "Engie CEO Catherine MacGregor talks to Bloomberg's Francine Lacqua in Davos on\nthe sidelines of the 2026 World Economic Forum. MacGregor says energy security\nis 'top of mind' around the world and Engie will be 'patient' when it comes to\npotential future acquisitions. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "UK Deficit Falls More Than Expected as Tax Revenues Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fuk-budget-deficit-narrowed-more-than-forecast-in-december",
+    "published": "Thu, 22 Jan 2026 07:05:31 CST",
+    "summary": "UK government borrowing fell more than expected in December as strong tax\nreceipts helped Chancellor of the Exchequer Rachel Reeves in her bid to bring\nthe public finances under control.\n\n"
+  },
+  {
     "title": "UK and European Stocks Set for Rally on Trump’s Greenland Shift",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-22%2Fftse-100-live-trump-tariffs-greenland-davos-pound-cpi-bonds-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Thu, 22 Jan 2026 06:48:00 CST",
@@ -62,7 +80,7 @@
   {
     "title": "China Wins as Trump Cedes Leadership of the Global Economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html",
-    "published": "Thu, 22 Jan 2026 05:00:08 CST",
+    "published": "Thu, 22 Jan 2026 05:00:09 CST",
     "summary": "The president used a keynote speech at the World Economic Forum in Switzerland\nto renounce the last vestiges of the liberal democratic order.\n\n"
   },
   {
@@ -138,12 +156,6 @@
     "summary": "US president claims ‘framework’ of agreement in the works after ‘very\nproductive’ meeting with Nato secretary general\n\n  * Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland\n\nDonald Trump has walked back his threat to impose sweeping US tariffs on eight\nEuropean countries, claiming he had agreed “the framework of a future deal” on\nGreenland.\n\nFour days after vowing to introduce steep import duties on a string of US\nallies over their support for Greenland’s continued status as an autonomous\nDanish territory, the president backed down.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Traders Seek Break from ‘Sell India’ Theme",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-22%2Fgold-and-silver-etfs-lure-investors-as-indian-stocks-struggle",
-    "published": "Thu, 22 Jan 2026 02:45:22 CST",
-    "summary": "Gold, silver ETFs are bright spots amid the stock gloom.\n\n"
-  },
-  {
     "title": "Autopsy report classifies ICE detainee’s death as a homicide",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Fice-homicide-detainee-death-autopsy%2F",
     "published": "Thu, 22 Jan 2026 02:45:08 CST",
@@ -156,22 +168,16 @@
     "summary": "Global semiconductor stocks advanced, as comments by Nvidia Corp. Chief\nExecutive Officer Jensen Huang at Davos helped reinforce investor enthusiasm\nfor the artificial intelligence trade.\n\n"
   },
   {
-    "title": "Crypto Firm BitGo, Backers Raise $212.8 Million in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fbitgo-is-said-to-price-us-ipo-at-18-per-share-above-range",
-    "published": "Thu, 22 Jan 2026 01:43:03 CST",
-    "summary": "BitGo Holdings Inc. and some of its backers raised $212.8 million in a US\ninitial public offering, pricing its shares above the marketed range.\n\n"
-  },
-  {
-    "title": "South Korea’s Kospi Tops 5,000 as AI Demand Fuels Market Surge",
+    "title": "AI Craze Boosts South Korean Stock Index to 5,000 Milestone",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsouth-korea-s-kospi-tops-5-000-as-ai-demand-fuels-market-surge",
     "published": "Thu, 22 Jan 2026 00:08:19 CST",
-    "summary": "South Korea’s stock benchmark advanced to cross the 5,000 target set by\nPresident Lee Jae Myung, fueled by AI‑driven demand in the tech‑heavy market.\n\n"
+    "summary": "South Korea’s stock benchmark touched the 5,000 target set by President Lee\nJae Myung for the first time, fueled by AI‑driven demand in the tech‑heavy\nmarket.\n\n"
   },
   {
-    "title": "Gold Falls After Trump Backs Away From Tariffs Over Greenland",
+    "title": "Gold Pares Losses After Goldman Raises Year-End Price Forecast",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fgold-falls-after-trump-backs-away-from-tariffs-over-greenland",
     "published": "Wed, 21 Jan 2026 23:46:43 CST",
-    "summary": "Gold fell after US President Donald Trump withdrew a threat to impose tariffs\non European nations and said a “framework of a future deal” over Greenland had\nbeen agreed.\n\n"
+    "summary": "Gold shook off an early decline as tensions over Greenland cooled, with\nGoldman Sachs Group Inc. adding $500 to its year-end price target on rising\ncompetition for bullion between central banks and investors.\n\n"
   },
   {
     "title": "FCC Targets Colbert and Kimmel in New Crackdown on Late-Night TV",
@@ -394,12 +400,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fuber-scrutiny-sexual-assault.html",
     "published": "Wed, 21 Jan 2026 10:03:36 CST",
     "summary": "From the ballot box in California to the halls of Congress and Wall Street,\nseveral new initiatives would require more oversight of how the company\nprotects its passengers.\n\n"
-  },
-  {
-    "title": "New World Seeks Asset Sale by June to Turn Around Cash Flow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fnew-world-seeks-asset-sale-by-june-to-create-positive-cash-flow",
-    "published": "Wed, 21 Jan 2026 07:21:35 CST",
-    "summary": "New World Development Co. is racing to offload at least one asset by the end\nof June to meet its self‑imposed HK$27 billion ($3.5 billion) sales target and\ngenerate positive cash flow, according to people familiar with the matter.\n\n"
   },
   {
     "title": "Stocks Post Biggest Drop in Months as Tensions Over Greenland Mount",
