@@ -6,62 +6,62 @@ Generated from **210** unique articles (deduplicated from 210 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines as leaders gather at the World Economic Forum in Davos. President Donald Trump’s administration faces scrutiny over its trade policies, with economists warning of long-term economic consequences despite minimal immediate impact. Trump’s keynote speech at Davos signals a retreat from liberal democratic norms, potentially ceding global economic leadership to China, which strengthens ties with Argentina under President Javier Milei. Meanwhile, Ukraine’s Deputy Prime Minister Taras Kachka emphasizes security and European integration amid ongoing geopolitical challenges, while Belarusian opposition leader Sviatlana Tsikhanouskaya criticizes President Alexander Lukashenko’s regime following the release of political prisoners. Domestically, the U.S. Congress avoids a government shutdown with a bipartisan funding deal, though protests erupt in Minnesota over federal immigration enforcement. In Venezuela, locals increasingly rely on USDT stablecoins as economic instability persists, highlighting broader trends in unstable regimes.
+Geopolitical and economic tensions dominate global headlines as President Trump's policies continue to reshape international relations. At the World Economic Forum, Trump's renouncement of liberal democratic principles and threats of a new trade war signal a shift in U.S. leadership, leaving a vacuum that China appears poised to fill. Meanwhile, Argentina's President Javier Milei defends his country's deepening trade ties with China while seeking a parallel deal with the U.S., highlighting the complex balancing act smaller nations face amid great power competition. In Europe, defense industry leaders like Fincantieri's CEO call for greater coordination in military spending as geopolitical risks mount, underscoring the continent's urgency to bolster its security infrastructure. Domestically, the U.S. avoids a government shutdown with a bipartisan funding deal, though economic warnings persist about the long-term consequences of Trump's policies. In Venezuela, citizens increasingly turn to cryptocurrencies like USDT as economic instability worsens, reflecting broader trends in countries grappling with political turmoil.
 
 **Top Articles:**
 - [No US Security Guarantees in Venezuela for Oil, Energy Secretary Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fno-us-security-guarantees-in-venezuela-for-oil-wright-video)
 - [Fincantieri CEO Says Europe Needs to ‘Spend Better’ on Defense](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffincantieri-ceo-says-europe-needs-to-spend-better-on-defense)
-- [Ukraine’s Kachka on Europe, Security and Integration](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fukraine-s-kachka-on-europe-security-and-integration-video)
 - [Milei at Davos Hails Argentina’s China Ties in Defense of Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmilei-calls-china-a-great-trade-partner-after-meeting-trump)
-- [Belarus Opposition Leader on Removal of US Sanctions](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbelarus-opposition-leader-on-removal-of-us-sanctions-video)
+- [China Wins as Trump Cedes Leadership of the Global Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html)
+- [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 
-**Sources**: archive.ph (11 articles)
+**Sources**: archive.ph (9 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets rebounded on Thursday after President Trump softened his stance on tariffs and Greenland, easing tensions that had triggered sharp sell-offs earlier in the week. European stocks rose, and the dollar stabilized as risk sentiment improved, though concerns linger about the Fed's independence amid Trump's pressure campaign. In corporate news, Procter & Gamble beat earnings estimates but reported weaker-than-expected revenue, while Novo Nordisk surged 8% on strong Wegovy sales. Meanwhile, Davos discussions highlighted economic uncertainty, with leaders like Argentina's President Milei advocating for free trade and JPMorgan's Jamie Dimon warning against undermining Fed autonomy. Elsewhere, China's real estate slump continues to weigh on growth, and Colombia escalated trade tensions with Ecuador by halting power exports and imposing tariffs.
+Global markets rebounded Thursday after President Trump backed away from imposing new tariffs on European countries, easing trade tensions that had rattled investors earlier in the week. The shift lifted European stocks, while oil prices declined as focus returned to supply outlooks. Meanwhile, the Federal Reserve's independence remains a flashpoint, with the Supreme Court appearing likely to reject Trump's attempt to fire Fed Governor Lisa Cook, though concerns persist about political pressure on monetary policy. In corporate news, Procter & Gamble posted mixed earnings, Spirit Airlines entered takeover talks with Castlelake, and Paramount extended its tender offer for Warner Bros. Discovery. At Davos, leaders like Indonesia's President Prabowo Subianto and Argentina's Javier Milei touted economic growth prospects, while BlackRock's emerging-market ETF saw record inflows as investors rotate away from U.S. assets. Elsewhere, China's real estate slump continues to weigh on growth, and Benin returned to the bond market amid improving sentiment.
 
 **Top Articles:**
-- [GoldenTree's Steve Tananbaum on the Outlook for 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fgoldentree-s-steve-tananbaum-on-the-outlook-for-2026-video)
-- [Procter & Gamble earnings top estimates, but shrinking demand weighs on sales](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fprocter-gamble-pg-q2-2026-earnings.html)
-- [Colombia Halts Power Exports to Ecuador, Imposes Counter Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcolombia-halts-power-exports-to-ecuador-imposes-counter-tariffs)
-- [Trump and ‘Taco!’ Roil Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdealbook%2Ftrump-taco-davos.html)
-- [David Rubenstein Show: Jamie Dimon (Full Show)](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fdavid-rubenstein-show-jamie-dimon-full-show-video)
+- [GM to move production of China-built Buick SUV to U.S. plant](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fgm-buick-compact-suv-china-fairfax.html)
+- [Indonesia Will See Faster Growth in 2026, President Tells Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findonesia-will-see-faster-growth-in-2026-president-tells-davos)
+- [Bank of America CEO Moynihan Says Credit Card Cap May Not Work as Expected](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fmoynihan-says-credit-card-cap-may-not-work-as-expected-video)
+- [The Leverage That Europe Has Over the U.S. Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Feurope-trade-trump-bonds.html)
+- [BlackRock Emerging ETF Swells by Record $6 Billion Amid US Exits](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-emerging-etf-swells-by-record-6-billion-amid-us-exits)
 
-**Sources**: archive.ph (84 articles)
+**Sources**: archive.ph (87 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments, from AI-driven market shifts to high-stakes corporate maneuvers. A relief rally in stocks gains momentum, fueled by optimism around AI investments and President Trump’s pivot on Greenland, while tech giants like Netflix and United Airlines report strong earnings. Netflix’s $1.5 billion ad revenue in 2025 and its all-cash $83 billion bid for Warner Bros. Discovery highlight the streaming wars’ escalation, while General Fusion’s $1 billion SPAC deal marks a milestone for nuclear fusion technology. Meanwhile, regulatory tensions rise as the FCC revisits the ‘equal time’ rule for political candidates on talk shows, targeting late-night hosts like Colbert and Kimmel, and a federal judge blocks prosecutors from reviewing materials seized from a Washington Post reporter. AI’s influence extends beyond markets, with job applicants suing an AI recruitment tool company over alleged discriminatory algorithms, and facial recognition becoming ubiquitous in travel, despite privacy concerns. At Davos, AI and Big Tech dominate discussions, with smaller firms emerging as key players in the AI supply chain, while China’s plunging birthrate and Japan’s nuclear restart underscore global economic and energy shifts.
+Tech and AI dominate headlines as US stocks rally on renewed investor confidence in artificial intelligence, with BlackRock CEO Larry Fink dismissing concerns of an AI bubble. Netflix's aggressive push into advertising yields $1.5 billion in 2025, while its revised all-cash bid for Warner Bros. Discovery signals a major shakeup in entertainment. Regulatory tensions escalate as the FCC revives the 'equal time' rule, targeting late-night shows hosting political candidates, and a federal judge blocks prosecutors from reviewing materials seized from a Washington Post reporter. Meanwhile, economic indicators show resilience, with US GDP growing at a revised 4.4% in Q3, though housing market struggles persist amid record-low inventory. Global trends highlight Japan's cautious restart of nuclear power and China's deepening demographic crisis, while Davos spotlights AI and Big Tech's outsized influence on the world economy.
 
 **Top Articles:**
-- [When the ultra rich hire family for their private investment firms, what to pay them can be tricky](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fultra-rich-family-offices-payroll.html)
-- [Congo Plans to Raise $750 Million With Maiden Eurobond Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcongo-plans-to-raise-750-million-with-maiden-eurobond-sale)
-- [Why London Housing Costs Are Going Down](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fopinion-why-london-housing-costs-are-going-down-video)
-- [Boston Celtics Co-Owner Steve Pagliuca speaks to BTV at Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fboston-celtics-co-owner-steve-pagliuca-on-btv-from-davos-video)
-- [General Fusion Agrees to Go Public Via $1 Billion SPAC Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgeneral-fusion-agrees-to-go-public-via-1-billion-spac-deal)
+- [Stocks Buoyed by AI Winners, Data as Geopolitical Risks Fade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstocks-buoyed-by-ai-winners-data-as-geopolitical-risks-fade)
+- [BlackRock’s Fink Not Worried About a Bubble Forming in AI](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-s-fink-not-worried-about-a-bubble-forming-in-ai)
+- [US Jobless Claims Hold Steady, 3Q GDP Expands at 4.4%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-jobless-claims-hold-steady-3q-gdp-expands-at-4-4-video)
+- [Ontario Teachers’ Reroutes Some Cash Into Public Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fontario-teachers-reroutes-some-cash-into-public-markets)
+- [Freeport Says It’s on Track to Restart Indonesia Copper Mine After Deadly Mudslide](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffreeport-says-it-s-on-track-to-restart-giant-copper-mine-after-deadly-mudslide)
 
-**Sources**: archive.ph (74 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
 ## 📰 Other News
 
-This week’s news highlights a mix of economic shifts, cultural milestones, and corporate maneuvering. The 2026 Oscar nominations, unveiled by Danielle Brooks and Lewis Pullman, set the stage for Hollywood’s biggest night, while Netflix’s amended all-cash offer for Warner Bros. Discovery assets signals a major shakeup in the streaming wars. Meanwhile, corporate leaders like Jamie Dimon break ranks to criticize Trump’s immigration policies, reflecting growing unease in the business community. Travel trends dominate consumer news, with ‘microvacations’ gaining popularity as travelers seek short, strategic getaways, though luxury costs continue to rise. On the global stage, the EU and South America’s landmark free-trade deal contrasts with the U.S.’s more coercive economic approach, while Davos attendees grapple with a forum increasingly deferential to Trump’s policies. Housing affordability remains a pressing issue, with the White House exploring solutions amid rising costs and shifting mortgage policies. Notable obituaries, including Sega co-founder David Rosen and Cannondale’s Joe Montgomery, underscore the week’s cultural reflections on innovation and legacy.
+This week's news highlights a mix of economic shifts, political tensions, and cultural milestones. Hedge funds see record inflows, surpassing $5 trillion in assets, while frontier markets emerge as a top investment bet. Meanwhile, President Trump's aggressive trade policies—including threats of retaliation against Europe over Greenland and tariff disputes—dominate global economic discussions, contrasting with the EU's push for a massive free-trade zone with South America. On the cultural front, the Oscars make headlines with 'Sinners' breaking nomination records, and Disney's box office dominance continues into 2026. Travel trends lean toward 'microvacations' as consumers navigate fluctuating prices, while housing affordability remains a pressing issue amid rising costs and policy debates. Notable obituaries include Sega co-founder David Rosen and Cannondale pioneer Joe Montgomery, marking the end of eras in gaming and cycling innovation.
 
 **Top Articles:**
-- [2026 Oscar Nominations to Be Unveiled by Danielle Brooks and Lewis Pullman](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Foscar-nominations-announcement.html)
-- [Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html)
-- [Nedbank’s East Africa Push Comes at a Premium With NCBA Purchase](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnedbank-s-east-africa-push-comes-at-a-premium-with-ncba-purchase)
-- [Rice’s DesRoches on Universities and Urban Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Frice-s-desroches-on-universities-and-urban-growth-video)
-- [Colombia Pension Overhaul May Hurt Savers, Giant Asset Manager Grupo Sura Warns](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgiant-asset-manager-grupo-sura-warns-colombia-pension-overhaul-may-hurt-savers)
+- [Hedge Funds Gather $116 Billion in Net Inflows, Most Since 2007](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fhedge-funds-gather-116-billion-in-net-inflows-most-since-2007)
+- [America Turns 250: A Guide to the Coming Festivities](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fstyle%2Famerica-turns-250-guide.html)
+- [Oscar Nominations: ‘Sinners’ Breaks Record With 16](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html)
+- [Greg Coffey’s Hedge Fund Sees Opportunity in Frontier Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgreg-coffey-s-hedge-fund-sees-opportunity-in-frontier-markets)
+- [Trump Threatens ‘Big Retaliation’ If Europe Dumps US Assets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftrump-promises-big-retaliation-if-europe-dumps-us-assets)
 
 **Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 22, 2026 at 01:28 PM *
+*Digest generated on January 22, 2026 at 02:57 PM *
