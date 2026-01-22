@@ -1,15 +1,111 @@
 [
   {
-    "title": "Venezuela to Debate Oil Bill Allowing Private Sales, Arbitration",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvenezuela-to-debate-oil-bill-allowing-private-sales-arbitration",
-    "published": "Thu, 22 Jan 2026 15:41:57 CST",
-    "summary": "Venezuela is set to debate a proposal on Thursday that would allow private oil\ncompanies to commercialize their own production, pay less in taxes and settle\ndisputes through arbitration, rather than exclusively in Venezuelan courts,\naccording to a draft bill seen by Bloomberg.\n\n"
+    "title": "Supreme Court Hearing Reveals Unease Over Threats to Fed Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-independence.html",
+    "published": "Thu, 22 Jan 2026 16:54:59 CST",
+    "summary": "As the justices weighed the consequences of allowing President Trump to fire a\nFederal Reserve official, the president reprised his pressure campaign on the\ncentral bank.\n\n"
+  },
+  {
+    "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive 'very impressive'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Frieder-odds-rising-for-fed-chair-after-trump-calls-blackrock-executive-very-impressive.html",
+    "published": "Thu, 22 Jan 2026 16:53:36 CST",
+    "summary": "Traders on the Kalshi predictions market raised the odds for Rieder getting\nthe nomination to 33%\n\n"
+  },
+  {
+    "title": "Oscar Nominations: ‘Sinners’ Breaks Record With 16",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html",
+    "published": "Thu, 22 Jan 2026 16:49:56 CST",
+    "summary": "“One Battle After Another” was close behind with 13 nods. Acting nominees\ninclude Michael B. Jordan, Kate Hudson, Timothée Chalamet and Teyana Taylor.\n\n"
+  },
+  {
+    "title": "Copper Production Halted at Strike-Hit Capstone Mine in Chile",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcopper-production-halted-at-strike-hit-capstone-mine-in-chile-mkpof3j8",
+    "published": "Thu, 22 Jan 2026 16:38:45 CST",
+    "summary": "Production at a Capstone Copper Corp. mine in northern Chile has halted amid a\nnearly three-week labor strike, further tightening the global market.\n\n"
+  },
+  {
+    "title": "Treasuries Slip as Employment, Spending Data Support Fed Pause",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftreasuries-slip-as-employment-spending-data-support-fed-pause",
+    "published": "Thu, 22 Jan 2026 16:37:32 CST",
+    "summary": "Traders’ expectations that the Federal Reserve will delay interest-rate cuts\nuntil later in 2026 were reinforced by US economic data showing resilience in\nthe job market and consumer spending.\n\n"
+  },
+  {
+    "title": "As Americans buy homes later than ever, Lowe's aims to win shoppers with family events and influencers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
+    "published": "Thu, 22 Jan 2026 16:33:18 CST",
+    "summary": "The retailer is trying to attract more store and website visits as the U.S.\nhousing market remains sluggish and customers postpone projects.\n\n"
+  },
+  {
+    "title": "Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fconsumer-prices-inflation-economy.html",
+    "published": "Thu, 22 Jan 2026 16:28:54 CST",
+    "summary": "The Federal Reserve’s preferred gauge for inflation in October and November\nwas released belatedly after the government shutdown.\n\n"
+  },
+  {
+    "title": "Musk’s SpaceX Lines Up Banks to Lead IPO, Financial Times Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmusk-s-spacex-lines-up-banks-to-lead-ipo-financial-times-says",
+    "published": "Thu, 22 Jan 2026 16:26:33 CST",
+    "summary": "SpaceX has lined up four banks to lead its initial public offering, according\nto the Financial Times, as Elon Musk’s rocket and satellite firm moves forward\nwith plans for the biggest-ever listing.\n\n"
+  },
+  {
+    "title": "Spanish train drivers call three-day strike after deadly railway crashes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Fspain-train-drivers-three-day-strike-railway-crashes",
+    "published": "Thu, 22 Jan 2026 16:15:16 CST",
+    "summary": "Union is demanding better safety standards for workers and passengers after\ntwo collisions this week killed 46\n\nSpain’s largest train drivers’ union has called a three-day nationwide strike\nto demand measures to guarantee the safety of railworkers and passengers after\ntwo deadly crashes this week killed at least 46 people, including two drivers.\n\nThe death toll from Sunday’s collision between two trains near the Andalucían\ntown of Adamuz rose from 43 to 45 on Thursday afternoon after two more bodies\nwere recovered from the crash site. On Tuesday, a driver was killed and 37\npeople were injured when a train was derailed by the collapse of a retaining\nwall near Gelida in Catalonia.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Suncor Oil Sands Fatality Is First Since Former CEO Stepped Down",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsuncor-oil-sands-fatality-is-first-since-former-ceo-stepped-down",
+    "published": "Thu, 22 Jan 2026 16:13:42 CST",
+    "summary": "The death of a worker at a Suncor Energy Inc. site in Canada marked the first\nfatality for the oil sands company since a former chief executive stepped down\nin 2022 after a spate of deadly incidents.\n\n"
   },
   {
     "title": "Help! Our Rental Car Got in an Accident, and We Can’t Get Our Security Deposit Back.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Frental-car-accident-insurance-thrifty.html",
-    "published": "Thu, 22 Jan 2026 15:31:08 CST",
+    "published": "Thu, 22 Jan 2026 16:08:18 CST",
     "summary": "Thrifty held on to a couple’s full deposit for over a year after an accident\nin Australia, refusing to provide the invoice they needed for an insurance\nclaim.\n\n"
+  },
+  {
+    "title": "Veja os Três Assuntos Que Marcaram a Semana no Brasil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fveja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video",
+    "published": "Thu, 22 Jan 2026 16:06:42 CST",
+    "summary": "O repórter Daniel Carvalho conta quais foram os três assuntos que marcaram a\nsemana no Brasil. Com produção de Raphael Almeida e edição de Bárbara\nNascimento. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html",
+    "published": "Thu, 22 Jan 2026 16:04:58 CST",
+    "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
+  },
+  {
+    "title": "US Debt Vexes Griffin, Gopinath After ‘Truss-Lite’ Japan Mess",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-debt-vexes-griffin-gopinath-after-japan-rout-video",
+    "published": "Thu, 22 Jan 2026 16:01:56 CST",
+    "summary": "Gregory Peters, Co-Chief Investment Officer of PGIM Fixed Income, joins\nBloomberg Businessweek Daily to weigh in on this week's bond market moves,\nincluding a global selloff sparked by a rout in Japan. Leaders gathering at\nDavos were left wondering how long it would take before so-called \"bond\nvigilantes\" target what US Treasury Secretary Scott Bessent calls the\n“mountain” of US debt. Citadel CEO Ken Griffin told the forum Wednesday that\nthe episode appears to be “a Liz Truss-lite moment,” and Former International\nMonetary Fund First Deputy Managing Director Gita Gopinath said that it’s\nclear that investors no longer consider the US the secure borrower that it\nonce was. Peters calls the sentiment \"a little melodramatic,\" and goes on to\nsay that \"having a heightened debt-to-GDP with administrative political\ninstability has a tendency of wreaking havoc on the bond market.\" Peters\nspeaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "CVC Seeks to Raise €2.75 Billion Against Its GSG Sport Franchise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcvc-seeks-to-raise-2-75-billion-against-its-gsg-sport-franchise",
+    "published": "Thu, 22 Jan 2026 16:00:03 CST",
+    "summary": "CVC Capital Partners is looking to raise €2.75 billion ($3.2 billion) of debt\nagainst its sports franchise, whose investments range from Spanish football’s\ntop division and English professional rugby to volleyball and women’s tennis.\n\n"
+  },
+  {
+    "title": "Canada Draws Investor Ire With Inflation Release Set for Holiday",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcanada-inflation-to-be-released-to-closed-markets-drawing-ire",
+    "published": "Thu, 22 Jan 2026 15:59:05 CST",
+    "summary": "Canada’s central statistics agency plans to publish a major inflation print\nwhile the country’s financial markets are closed next month -- a move\neconomists warn will distort trading and give foreign investors an edge.\n\n"
+  },
+  {
+    "title": "South Africa to Revisit Sugar-Price Trigger After Import Surge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsouth-africa-to-revisit-sugar-price-trigger-after-import-surge",
+    "published": "Thu, 22 Jan 2026 15:46:56 CST",
+    "summary": "South Africa’s International Trade Administration Commission plans to review\nthe reference price for sugar amid a flood of imports crippling local\nproducers.\n\n"
+  },
+  {
+    "title": "Venezuela to Debate Oil Bill Allowing Private Sales, Arbitration",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvenezuela-to-debate-oil-bill-allowing-private-sales-arbitration",
+    "published": "Thu, 22 Jan 2026 15:41:57 CST",
+    "summary": "Venezuela is set to debate a proposal on Thursday that would allow private oil\ncompanies to commercialize their own production, pay less in taxes and settle\ndisputes through arbitration, rather than exclusively in Venezuelan courts,\naccording to a draft bill seen by Bloomberg.\n\n"
   },
   {
     "title": "Lundin Shares Tumble After Miner Cuts 2026 Gold, Copper Guidance",
@@ -18,22 +114,10 @@
     "summary": "Lundin Mining Corp. shares fell the most in more than a year after the\nCanadian company cut its output guidance for gold and copper, citing lower\nunderground minning rates at its Candelaria site.\n\n"
   },
   {
-    "title": "As Americans buy homes later than ever, Lowe's aims to win shoppers with family events and influencers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
-    "published": "Thu, 22 Jan 2026 15:30:01 CST",
-    "summary": "The retailer is trying to attract more store and website visits as the U.S.\nhousing market remains sluggish and customers postpone projects.\n\n"
-  },
-  {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fparamount-wbd-netflix-european-regulators.html",
     "published": "Thu, 22 Jan 2026 15:29:51 CST",
     "summary": "Paramount is counting on European regulatory backlash to push the WBD deal\naway from Netflix.\n\n"
-  },
-  {
-    "title": "Richemont Sells Watchmaker Baume &amp; Mercier to Italy’s Damiani",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Frichemont-sells-watchmaker-baume-mercier-to-italy-s-damiani",
-    "published": "Thu, 22 Jan 2026 15:29:01 CST",
-    "summary": "Richemont agreed to sell Swiss watchmaker Baume & Mercier to Italy’s Damiani\nGroup following a slowdown in the market for pricey timepieces.\n\n"
   },
   {
     "title": "US Consumer Spending Rises at Solid Pace in November",
@@ -48,22 +132,10 @@
     "summary": "Divya Nettimi’s hedge fund soared a net 21.2% last year, marking a third-\nstraight year of double-digit gains since the stock-picking firm was founded\nin late 2022.\n\n"
   },
   {
-    "title": "Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fconsumer-prices-inflation-economy.html",
-    "published": "Thu, 22 Jan 2026 15:22:48 CST",
-    "summary": "The Federal Reserve’s preferred gauge for inflation in October and November\nwas released belatedly after the government shutdown.\n\n"
-  },
-  {
     "title": "Trump Returns to a Familiar Role: Sowing Trade Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
     "published": "Thu, 22 Jan 2026 15:22:18 CST",
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
-  },
-  {
-    "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html",
-    "published": "Thu, 22 Jan 2026 15:20:41 CST",
-    "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
   },
   {
     "title": "FirstRand CEO on South Africa's Growth",
@@ -96,12 +168,6 @@
     "summary": "Indonesian sovereign wealth fund Danantara is ramping up deployment of about\n$12 billion and preparing to tap global debt markets as it shifts from start-\nup mode to large-scale investing, its chief investment officer said.\n\n"
   },
   {
-    "title": "Oscar Nominations: ‘Sinners’ Breaks Record With 16",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html",
-    "published": "Thu, 22 Jan 2026 15:08:08 CST",
-    "summary": "“One Battle After Another” was close behind with 13 nods. Acting nominees\ninclude Michael B. Jordan, Kate Hudson, Timothée Chalamet and Teyana Taylor.\n\n"
-  },
-  {
     "title": "Investors Hunt for Yield in Argentina, Ecuador as Distress Ebbs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Finvestors-hunt-for-yield-in-argentina-ecuador-as-distress-ebbs",
     "published": "Thu, 22 Jan 2026 15:01:03 CST",
@@ -132,70 +198,16 @@
     "summary": "US stocks extended gains on President Donald Trump’s retreat from tariff\nthreats while traders’ appetite for artificial intelligence bets returned.\n\n"
   },
   {
-    "title": "Indonesia Will See Faster Growth in 2026, President Tells Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findonesia-will-see-faster-growth-in-2026-president-tells-davos",
-    "published": "Thu, 22 Jan 2026 14:35:30 CST",
-    "summary": "Indonesian President Prabowo Subianto predicted that growth will accelerate\nthis year as he touted his policy program for Southeast Asia’s biggest economy\nto the business elite in Davos.\n\n"
-  },
-  {
-    "title": "Spanish train drivers call three-day strike after deadly railway crashes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Fspain-train-drivers-three-day-strike-railway-crashes",
-    "published": "Thu, 22 Jan 2026 14:31:55 CST",
-    "summary": "Union is demanding better safety standards for workers and passengers after\ntwo collisions this week killed 44\n\nSpain’s largest train drivers’ union has called a three-day nationwide strike\nto demand measures to guarantee the safety of rail workers and passengers\nafter two deadly crashes this week killed at least 44 people, including two\ndrivers.\n\nAt least 43 people died and dozens more were injured after two trains collided\non Sunday near the town of Adamuz, in the Córdoba province in Andalucía. Two\ndays later, a driver was killed and 37 people were injured when a train was\nderailed by the collapse of a retaining wall near Gelida in Catalonia.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Bank of America CEO Moynihan Says Credit Card Cap May Not Work as Expected",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fmoynihan-says-credit-card-cap-may-not-work-as-expected-video",
-    "published": "Thu, 22 Jan 2026 14:23:27 CST",
-    "summary": "Bank of America CEO Brian Moynihan discusses the company's work with the White\nHouse to solve affordability issues for Americans. He says President Donald\nTrump's proposed 10% cap on credit card interest rates may have \"an equal but\nopposite reaction.\" He speaks on \"Bloomberg Surveillance\" from the World\nEconomic Forum in Davos. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Greg Coffey’s Hedge Fund Sees Opportunity in Frontier Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgreg-coffey-s-hedge-fund-sees-opportunity-in-frontier-markets",
-    "published": "Thu, 22 Jan 2026 14:22:11 CST",
-    "summary": "Some of the world’s more exotic investment destinations are a top emerging-\nmarket bet for this year, according to an executive at Greg Coffey’s hedge\nfund Kirkoswald Asset Management.\n\n"
-  },
-  {
     "title": "The Leverage That Europe Has Over the U.S. Economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Feurope-trade-trump-bonds.html",
     "published": "Thu, 22 Jan 2026 14:16:01 CST",
     "summary": "After the latest bout of trade turmoil with the United States, European\nleaders are looking for ways to project strength to the Trump administration,\nwhich considers them weak.\n\n"
   },
   {
-    "title": "BCI’s $182 Billion Pension Fund Names Jon Salon Head of Private Equity Unit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fbci-s-182-billion-pension-fund-names-jon-salon-head-of-pe-unit",
-    "published": "Thu, 22 Jan 2026 14:12:20 CST",
-    "summary": "British Columbia Investment Management Corp. named Jon Salon as the new global\nhead of private equity, succeeding industry veteran Jim Pittman, who is\nleaving the pension plan at the end of the month.\n\n"
-  },
-  {
-    "title": "BlackRock Emerging ETF Swells by Record $6 Billion Amid US Exits",
+    "title": "BlackRock Emerging ETF Gets Record $6 Billion Amid US Exits",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-emerging-etf-swells-by-record-6-billion-amid-us-exits",
     "published": "Thu, 22 Jan 2026 14:08:55 CST",
     "summary": "Investors are pouring cash into emerging-market funds at a record pace as\nmomentum builds for a rotation out of US assets.\n\n"
-  },
-  {
-    "title": "BlackRock’s Fink Not Worried About a Bubble Forming in AI",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-s-fink-not-worried-about-a-bubble-forming-in-ai",
-    "published": "Thu, 22 Jan 2026 14:08:22 CST",
-    "summary": "BlackRock Inc. Chief Executive Officer Larry Fink said there is no bubble in\nartificial intelligence, emphasizing the volume of investment needed to\ndevelop the technology.\n\n"
-  },
-  {
-    "title": "Ex-Balyasny Stocks Trader to Run $900 Million at North Rock",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fex-balyasny-stocks-trader-to-run-900-million-at-north-rock",
-    "published": "Thu, 22 Jan 2026 14:07:43 CST",
-    "summary": "A former Balyasny Asset Management portfolio manager, Shane Steinberg, has\nmoved to North Rock Capital Management to run his own trading book with\nhundreds of millions of dollars from the multi-manager investment firm.\n\n"
-  },
-  {
-    "title": "US Jobless Claims Hold Steady, 3Q GDP Expands at 4.4%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-jobless-claims-hold-steady-3q-gdp-expands-at-4-4-video",
-    "published": "Thu, 22 Jan 2026 14:02:36 CST",
-    "summary": "Applications for US unemployment benefits steadied at low levels as initial\nclaims increased by 1,000 to 200,000 in the week ended Jan. 17. The US economy\nexpanded by slightly more than initially reported in the third quarter, as\ninflation-adjusted gross domestic product, increased at a revised 4.4%\nannualized rate, the fastest in two years. Michael McKee reports on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump Threatens ‘Big Retaliation’ If Europe Dumps US Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftrump-promises-big-retaliation-if-europe-dumps-us-assets",
-    "published": "Thu, 22 Jan 2026 13:33:03 CST",
-    "summary": "President Donald Trump vowed “big retaliation” if European countries sell US\nassets in response to his tariff threats related to Greenland, adding pressure\non them to stick with an emerging deal over the future of the island.\n\n"
   },
   {
     "title": "‘Not a typical day’: makers of Macron’s sunglasses deluged with demand",
@@ -240,6 +252,12 @@
     "summary": "Even among the wealthiest families, the issue of salary is a loaded topic,\naccording to advisors to family offices.\n\n"
   },
   {
+    "title": "Dollar Weakens as Easing Greenland Tensions Ripple Through FX",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fdollar-steadies-as-easing-greenland-tensions-ripple-through-fx",
+    "published": "Thu, 22 Jan 2026 12:07:47 CST",
+    "summary": "The dollar traded weaker Thursday while higher-risk currencies outperformed\nafter a dial-back in US threats about acquiring Greenland calmed global\nmarkets.\n\n"
+  },
+  {
     "title": "EQT Partners CEO on Partnerships, Deals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Feqt-partners-ceo-per-franzen-speaks-to-btv-in-davos-video",
     "published": "Thu, 22 Jan 2026 11:50:52 CST",
@@ -264,13 +282,7 @@
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
   },
   {
-    "title": "IndiGo Profit Plunges 78% as December Meltdown Takes a Toll",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findigo-profit-misses-forecast-as-december-meltdown-takes-a-toll",
-    "published": "Thu, 22 Jan 2026 10:46:01 CST",
-    "summary": "IndiGo, India’s biggest airline, reported a quarterly profit that missed\nexpectations on one-time charges due to December’s unprecedented disruptions\nthat led to nearly 3,000 flight cancellations and tighter regulatory\noversight.\n\n"
-  },
-  {
-    "title": "Taco Thursday: European stocks rise after Trump ‘chickens out’ on tariff threat",
+    "title": "Taco Thursday: European and US stocks rise after Trump ‘chickens out’ over tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F22%2Ftaco-thursday-european-stocks-rise-trump-chickens-out-on-tariff-threat",
     "published": "Thu, 22 Jan 2026 10:24:06 CST",
     "summary": "Gains come after US president says he will not use military force to acquire\nterritory and cites ‘framework deal’\n\nEuropean markets rose on Thursday after Donald Trump cancelled plans to impose\nfresh tariffs on eight European countries, in what analysts said was a return\nof the “Trump Always Chickens Out” (Taco) trade.\n\nGermany’s Dax and France’s Cac were up 1.3%. The pan-European Stoxx 600 was up\n1.2% and the UK’s FTSE 100 rose 0.2%.\n\nContinue reading...\n\n"
@@ -312,12 +324,6 @@
     "summary": "The de-escalation fuelled a rally in global share markets as buyers ride the\n‘Trump Always Chickens Out’ trade strategy\n\n  * Follow our Australia news live blog for latest updates\n\n  * Get our breaking news email, free app or daily news podcast\n\nAustralian shares shot higher on Thursday to recoup part of their recent\nlosses, after Donald Trump dropped a tariff threat used against European\nallies amid his pressure campaign to gain control of Greenland.\n\nThe de-escalation fuelled a rally in global share markets that flowed into\nAustralia, sending the benchmark S&P/ASX 200 briefly above the 8,860 point\nmark, before a slight easing.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Autopsy report classifies ICE detainee’s death as a homicide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F21%2Fice-homicide-detainee-death-autopsy%2F",
-    "published": "Thu, 22 Jan 2026 02:45:08 CST",
-    "summary": "The report deeming an ICE detainee’s death in Texas a homicide comes the same\nday that a federal judge temporarily barred the deportation of two witnesses.\n\n"
-  },
-  {
     "title": "Gold Steadies as Cooling Greenland Crisis Eases Haven Appeal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fgold-falls-after-trump-backs-away-from-tariffs-over-greenland",
     "published": "Wed, 21 Jan 2026 23:46:43 CST",
@@ -336,19 +342,13 @@
     "summary": "Oil fell as Ukrainian President Volodymyr Zelenskiy said that the US, Russia\nand Ukraine will meet in coming days for trilateral team meetings.\n\n"
   },
   {
-    "title": "Supreme Court Hearing Reveals Unease Over Threats to Fed Independence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-independence.html",
-    "published": "Wed, 21 Jan 2026 23:14:25 CST",
-    "summary": "As the justices weighed the consequences of allowing President Trump to fire a\nFederal Reserve official, the president reprised his pressure campaign on the\ncentral bank.\n\n"
-  },
-  {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
     "published": "Wed, 21 Jan 2026 22:42:56 CST",
     "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
   },
   {
-    "title": "Stocks Rise as Solid Economic Data Spur Bond Drop: Markets Wrap",
+    "title": "Stocks Rise as Strong Economic Data Spur Bond Drop: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 21 Jan 2026 22:34:02 CST",
     "summary": "The cooling of geopolitical tensions, a rally in big tech and solid economic\ndata fueled gains in stocks, with the market remaining higher after an in-line\ninflation report. Bonds retreated.\n\n"
@@ -510,7 +510,7 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "NewsNation’s Katie Pavlich on covering Trump’s America: ‘I don’t agree with everything the administration is doing’’",
+    "title": "NewsNation’s Katie Pavlich on covering Trump’s America: ‘I don’t agree with everything the administration is doing’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
     "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
@@ -946,12 +946,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F14%2Fbusiness%2Feconomy%2Fhousing-pulte-fannie-freddie.html",
     "published": "Wed, 14 Jan 2026 19:01:19 CST",
     "summary": "Under Bill Pulte, Fannie Mae and Freddie Mac have pulled away from efforts to\nhelp low-income people buy homes.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves midday: Biogen, Rivian, Bank of America, Airbnb & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F14%2Fstocks-making-the-biggest-moves-midday-biib-rivn-bac-abnb.html",
-    "published": "Wed, 14 Jan 2026 17:44:43 CST",
-    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
     "title": "In a Risky Gambit, Trump Tries Brute Force to Lower Prices",
