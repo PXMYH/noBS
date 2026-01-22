@@ -1,9 +1,75 @@
 [
   {
+    "title": "Lowe's bets on kids, creators and Gen Z as Americans delay homebuying",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
+    "published": "Thu, 22 Jan 2026 20:36:51 CST",
+    "summary": "The retailer is trying to attract more store and website visits as the U.S.\nhousing market remains sluggish and customers postpone projects.\n\n"
+  },
+  {
+    "title": "Oaktree, Anchorage Join First Brands DIP Loan Amid Cash Burn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Foaktree-anchorage-join-first-brands-dip-loan-amid-cash-burn",
+    "published": "Thu, 22 Jan 2026 20:13:47 CST",
+    "summary": "Distressed-debt giants Oaktree Capital Management and Anchorage Capital have\namassed positions in the bankruptcy financing for First Brands Group, stepping\nin as negotiations over a fresh capital injection for the auto parts supplier\ncome down to the wire.\n\n"
+  },
+  {
+    "title": "Retail traders keep their hot streak going, buying Tuesday’s dip while Wall Street drove ‘Sell America’ trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fretail-traders-dip-buy-trump-greenland.html",
+    "published": "Thu, 22 Jan 2026 20:13:34 CST",
+    "summary": "Individual traders boosted the stock market by continuing to buy the latest\nselloff — the same strategy that helped power relentless gains in 2025, data\nshows.\n\n"
+  },
+  {
+    "title": "EU's Kallas Says Greenlanders Want to Stay With Denmark",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Feu-s-kallas-says-bloc-seeks-stability-with-us-video",
+    "published": "Thu, 22 Jan 2026 20:05:33 CST",
+    "summary": "EU High Representative for Foreign Affairs and Security Policy Kaja Kallas\nsays Greenlanders want to stay with Denmark, and not the US. She says Europe's\nadversaries enjoy seeing \"spats\" between allies. She says Europe is seeking\nstability with the US. She speaks to Bloomberg's Scarlet Fu. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Political Stability and Fiscal Sustainability Go Hand in Hand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-22%2Fpolitical-stability-and-fiscal-sustainability-go-hand-in-hand",
+    "published": "Thu, 22 Jan 2026 20:04:33 CST",
+    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
+  },
+  {
+    "title": "US-China AI Race in Focus at Davos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-china-ai-race-in-focus-at-davos-video",
+    "published": "Thu, 22 Jan 2026 19:50:27 CST",
+    "summary": "Tech leaders at the World Economic Forum in Davos have been giving their views\non the US-China AI race. Liza Tobin, managing director at Garnaut Global, says\nthe US advantage lies in the scale of its compute capacity. Tobin joins\nCaroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Fvideo%2Fbusiness%2Feconomy%2F100000010656157%2Fwhy-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
-    "published": "Thu, 22 Jan 2026 19:39:45 CST",
+    "published": "Thu, 22 Jan 2026 19:49:10 CST",
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
+  },
+  {
+    "title": "Trump Sues JPMorgan for Closing His Bank Accounts for Political Reasons",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjpmorgan-trump-lawsuit.html",
+    "published": "Thu, 22 Jan 2026 19:49:08 CST",
+    "summary": "The lawsuit, citing “political discrimination,” said the banking giant told\nPresident Trump shortly after the Jan. 6 attack on the Capitol that it would\nclose his accounts.\n\n"
+  },
+  {
+    "title": "America Turns 250: A Guide to the Coming Festivities",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fstyle%2Famerica-turns-250-guide.html",
+    "published": "Thu, 22 Jan 2026 19:47:52 CST",
+    "summary": "Girl Scouts singing folk songs, a flag-waving party and a Times Square ball\ndrop are among the planned Semiquincentennial celebrations.\n\n"
+  },
+  {
+    "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-sues-jpmorgan-jamie-dimon-debanking",
+    "published": "Thu, 22 Jan 2026 19:44:49 CST",
+    "summary": "US president alleges JPMorgan stopped offering him banking services in wake of\nJanuary 6 Capitol riot\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that JPMorgan stopped offering him banking services\nin the wake of the Capitol riot on January 6, 2021. Earlier this month, he\nclaimed it had “incorrectly and inappropriately” discriminated against him.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Men’s Wearhouse Ups Debt Sale to $1.1 Billion to Boost Payout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmen-s-wearhouse-ups-debt-sale-to-1-1-billion-to-boost-payout",
+    "published": "Thu, 22 Jan 2026 19:42:45 CST",
+    "summary": "Tailored Brands Inc., the parent company of Men’s Wearhouse, boosted its loan\nand bond offerings by a combined $200 million to fund an even larger dividend\npayout to its owners.\n\n"
+  },
+  {
+    "title": "Trump sues JPMorgan, Jamie Dimon over cutting off banking access",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F",
+    "published": "Thu, 22 Jan 2026 19:41:20 CST",
+    "summary": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie\nDimon, saying the bank abruptly closed his accounts.\n\n"
   },
   {
     "title": "Flex office firm Industrious is seeing major growth. Here's what's driving it",
@@ -36,9 +102,15 @@
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
   },
   {
+    "title": "Bloomberg Markets 1/22/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbloomberg-markets-1-22-2026-video",
+    "published": "Thu, 22 Jan 2026 19:23:27 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Bank of\nAmerica Chairman & CEO Brian Moynihan, BlackRock CEO Larry Fink, NATO\nSecretary General Mark Rutte, EU High Representative for Foreign Affairs and\nSecurity Policy, HSBC Head of US Financials Research, PensionBee CEO (Source:\nBloomberg)\n\n"
+  },
+  {
     "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Thu, 22 Jan 2026 19:23:02 CST",
+    "published": "Thu, 22 Jan 2026 19:23:03 CST",
     "summary": "Ice, sleet and possibly significant snowfall are threatening to snarl air\ntravel in much of the eastern U.S. starting on Friday. Here’s what to know.\n\n"
   },
   {
@@ -84,22 +156,16 @@
     "summary": "The setback occurred hours after one of the world’s largest nuclear complexes\nrestarted, ending more than a decade of dormancy following the 2011 Fukushima\nDaiichi meltdown.\n\n"
   },
   {
-    "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-sues-jpmorgan-jamie-dimon-debanking",
-    "published": "Thu, 22 Jan 2026 19:07:49 CST",
-    "summary": "US president alleges JPMorgan stopped offering him banking services in wake of\nJanuary 6 Capitol riot\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that JPMorgan stopped offering him banking services\nin the wake of the Capitol riot on January 6, 2021. Earlier this month, he\nclaimed it had “incorrectly and inappropriately” discriminated against him.\n\nContinue reading...\n\n"
+    "title": "Activist Plantro Pushes for Board Overhaul at Ag Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Factivist-plantro-pushes-for-board-overhaul-at-ag-growth-international",
+    "published": "Thu, 22 Jan 2026 19:00:34 CST",
+    "summary": "An activist investor is pressing for a board shakeup at Ag Growth\nInternational, citing what it calls a severe governance breakdown following a\nregulatory cease-trade order and the departure of the company’s chief\nexecutive officer last week.\n\n"
   },
   {
-    "title": "New York Cuts ConEd’s Rate Request by 85%, Citing Affordability",
+    "title": "NY Caps Con Ed Revenue Increases, Citing Affordability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnew-york-cuts-coned-s-rate-request-by-85-citing-affordability",
     "published": "Thu, 22 Jan 2026 18:57:20 CST",
-    "summary": "New York regulators adopted an agreement between Consolidated Edison Inc. and\nother parties that would limit the utility’s revenues -- and cap increases to\ncustomer bills -- for the next three years, according to a news release\nThursday.\n\n"
-  },
-  {
-    "title": "Trump sues JPMorgan, Jamie Dimon over cutting off banking access",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F",
-    "published": "Thu, 22 Jan 2026 18:39:51 CST",
-    "summary": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie\nDimon, over allegedly closing his accounts.\n\n"
+    "summary": "Consolidated Edison Inc. can raise revenues by just 2.8% per year for three\nyears, under an agreement adopted by New York regulators Thursday.\n\n"
   },
   {
     "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive 'very impressive'",
@@ -124,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fgm-buick-compact-suv-china-fairfax.html",
     "published": "Thu, 22 Jan 2026 18:28:46 CST",
     "summary": "General Motors plans to move production of a Buick compact SUV from China to\nthe U.S. for domestic sales, the company confirmed Thursday.\n\n"
-  },
-  {
-    "title": "Retail traders keep their hot streak going, buying Tuesday’s dip while Wall Street drove ‘Sell America’ trade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fretail-traders-dip-buy-trump-greenland.html",
-    "published": "Thu, 22 Jan 2026 18:28:41 CST",
-    "summary": "Individual traders boosted the stock market by continuing to buy the latest\nselloff — the same strategy that helped power relentless gains in 2025, data\nshows.\n\n"
   },
   {
     "title": "He Wants New Yorkers to Have a Stake in the Knicks and the Rangers",
@@ -168,52 +228,16 @@
     "summary": "After failing to serve Gautam Adani with a legal summons for more than a year,\nthe US Securities and Exchange Commission wants a judge to clear a way for the\nagency to advance with its fraud case against the Indian billionaire.\n\n"
   },
   {
-    "title": "Egan-Jones Cut as a Recognized Ratings Firm by Bermuda Regulator",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fegan-jones-cut-as-a-recognized-ratings-firm-by-bermuda-regulator",
-    "published": "Thu, 22 Jan 2026 17:51:16 CST",
-    "summary": "Egan-Jones Ratings Co. has been removed from the Bermuda Monetary Authority’s\nlist of recognized credit ratings providers, according to recent guidance from\nthe watchdog.\n\n"
-  },
-  {
-    "title": "BNP Paribas Seeks to Cut About 1,200 Roles on Axa IM Integration",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fbnp-paribas-seeks-to-cut-about-1-200-roles-on-axa-im-integration",
-    "published": "Thu, 22 Jan 2026 17:50:33 CST",
-    "summary": "BNP Paribas SA is seeking to eliminate about 1,200 positions as it completes\nthe integration of the asset management unit Axa Investment Managers.\n\n"
-  },
-  {
-    "title": "Ben &amp; Jerry’s Independent Directors Edged Out in Magnum Feud",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fben-jerry-s-independent-directors-edged-out-in-magnum-feud",
-    "published": "Thu, 22 Jan 2026 17:49:18 CST",
-    "summary": "Ben & Jerry’s was effectively stripped of independent directors from its\nboard, in the latest escalation of a dispute between the ice-cream brand known\nfor its social mission and parent Magnum Ice Cream Co.\n\n"
-  },
-  {
-    "title": "Cold Blast Threatens to Cut US Gas Output by Most Since 2021, Energy Aspects Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fwinter-storm-threatens-to-disrupt-us-natural-gas-production-as-pipelines-freeze",
-    "published": "Thu, 22 Jan 2026 17:45:06 CST",
-    "summary": "A winter storm that’s poised to sweep the eastern two-thirds of the US\nthreatens significant disruptions to natural gas production as water freezes\ninside pipelines, according to a new forecast from Energy Aspects.\n\n"
-  },
-  {
-    "title": "Crypto Firm BitGo Jumps 25% in Debut After $212.8 Million IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcrypto-firm-bitgo-jumps-25-in-debut-after-212-8-million-ipo",
-    "published": "Thu, 22 Jan 2026 17:42:38 CST",
-    "summary": "BitGo Holdings Inc. shares opened 25% above their IPO price, after the crypto\nfirm and some of its backers raised $212.8 million in a US initial public\noffering.\n\n"
-  },
-  {
-    "title": "Bank of America, Citi Weighing New Credit Cards With 10% Rate",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbank-of-america-citi-weighing-new-cards-with-10-rate-video",
-    "published": "Thu, 22 Jan 2026 17:29:22 CST",
-    "summary": "Bank of America and Citigroup are exploring options they could offer up as an\nolive branch to satisfy President Donald Trump’s demand to cap credit card\ninterest rates at 10% for one year. Katherine Doherty reports on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
+    "title": "US Regional Banks Race to High-Grade Debt Market for Funding",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fus-regional-banks-race-to-high-grade-debt-market-for-funding",
+    "published": "Thu, 22 Jan 2026 17:24:41 CST",
+    "summary": "US regional banks are racing to the investment-grade debt market for funding,\nseizing on calmer waters after tensions over President Donald Trump’s dispute\nover Greenland and a selloff in Japanese bonds unsettled investors earlier\nthis week.\n\n"
   },
   {
     "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fspirit-airlines-deal-talks-castlelake.html",
     "published": "Thu, 22 Jan 2026 17:13:33 CST",
     "summary": "Spirit Airlines is in talks with investment firm Castlelake for a potential\ntakeover of the discount airline, which is in bankruptcy, CNBC has learned.\n\n"
-  },
-  {
-    "title": "As Americans buy homes later than ever, Lowe's aims to win shoppers with family events and influencers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
-    "published": "Thu, 22 Jan 2026 17:04:10 CST",
-    "summary": "The retailer is trying to attract more store and website visits as the U.S.\nhousing market remains sluggish and customers postpone projects.\n\n"
   },
   {
     "title": "‘I ain’t goin nowhere’: Gullah Geechee people fight off developers with a historic referendum",
@@ -258,6 +282,12 @@
     "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over\nthe past year.\n\n"
   },
   {
+    "title": "Canada Draws Investor Ire Over Holiday Inflation Release",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcanada-inflation-to-be-released-to-closed-markets-drawing-ire",
+    "published": "Thu, 22 Jan 2026 15:59:05 CST",
+    "summary": "Canada’s central statistics agency plans to publish a major inflation print\nwhile the country’s financial markets are closed next month -- a move\neconomists warn will distort trading and give foreign investors an edge.\n\n"
+  },
+  {
     "title": "Venezuela’s Leader Rolls Out Red Carpet for Oil Investors",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvenezuela-to-debate-oil-bill-allowing-private-sales-arbitration",
     "published": "Thu, 22 Jan 2026 15:41:57 CST",
@@ -274,12 +304,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fprocter-gamble-pg-q2-2026-earnings.html",
     "published": "Thu, 22 Jan 2026 15:13:10 CST",
     "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings,\nbut the company's revenue was weaker than expected.\n\n"
-  },
-  {
-    "title": "America Turns 250: A Guide to the Coming Festivities",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fstyle%2Famerica-turns-250-guide.html",
-    "published": "Thu, 22 Jan 2026 14:37:34 CST",
-    "summary": "Girl Scouts singing folk songs, a flag-waving party and a Times Square ball\ndrop are among the planned Semiquincentennial celebrations.\n\n"
   },
   {
     "title": "Stocks Climb After Strong Data as AI Winners and Small-Caps Lead",
@@ -372,22 +396,10 @@
     "summary": "Gold climbed to an all-time high as the dollar pushed lower with traders\nassessing the outlook for the Federal Reserve’s interest rate path after US\ndata showed resilience in the job market and consumer spending.\n\n"
   },
   {
-    "title": "Wall Street Enters Era of Self-Censorship to Avoid Trump’s Ire",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-21%2Fwall-street-cautious-as-trump-shakes-global-markets-in-davos",
-    "published": "Wed, 21 Jan 2026 23:45:31 CST",
-    "summary": "Financiers are doing a careful dance to help clients navigate the president’s\nsecond term without provoking him\n\n"
-  },
-  {
     "title": "FCC Targets Colbert and Kimmel in New Crackdown on Late-Night TV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Ffcc-late-night-stephen-colbert-jimmy-kimmel.html",
     "published": "Wed, 21 Jan 2026 23:38:05 CST",
     "summary": "The F.C.C. said it planned to enforce long-dormant rules on appearances by\npolitical candidates on network talk shows.\n\n"
-  },
-  {
-    "title": "Oil Declines as Zelenskiy Signals Progress in Peace Talks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Flatest-oil-market-news-and-analysis-for-jan-22",
-    "published": "Wed, 21 Jan 2026 23:27:52 CST",
-    "summary": "Oil fell as Ukrainian President Volodymyr Zelenskiy discussed plans for\ntrilateral meetings with the US and Russia.\n\n"
   },
   {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
@@ -658,12 +670,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html",
     "published": "Tue, 20 Jan 2026 20:59:43 CST",
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
-    "title": "Congress moves toward funding government, dodging shutdown",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F20%2Fgovernment-funding-agreement-shutdown%2F",
-    "published": "Tue, 20 Jan 2026 20:06:10 CST",
-    "summary": "A bipartisan deal would keep the government open after the Jan. 31 deadline.\n\n"
   },
   {
     "title": "Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry",
