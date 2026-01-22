@@ -1,12 +1,12 @@
 # NoBS News Digest - January 22, 2026
 
-Generated from **208** unique articles (deduplicated from 208 total) across **1** news sources
+Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global geopolitical tensions and economic shifts dominate this week's headlines, with President Trump's policies taking center stage. At the World Economic Forum in Davos, Trump's keynote speech signals a retreat from the liberal democratic order, ceding economic leadership to China, while his first year in office raises concerns among economists about long-term U.S. economic weakening. Meanwhile, his threats of a new trade war persist, even as courts consider curbing his tariff authority. In Europe, Russia-Ukraine peace talks show tentative progress, easing oil prices amid swelling U.S. crude inventories. Elsewhere, Venezuela's economic instability drives locals toward cryptocurrency, particularly the USDT stablecoin, as a hedge against government volatility. The Davos summit also draws attention to French President Macron, whose sunglasses—worn to conceal a burst blood vessel—become an unexpected talking point amid broader geopolitical discussions.
+Geopolitical tensions and economic shifts dominate global headlines this week, with President Trump's aggressive trade policies and diplomatic retreats reshaping international relations. At the World Economic Forum in Davos, Trump's keynote speech signals a further withdrawal from the liberal democratic order, ceding economic leadership to China amid warnings that his policies could weaken the U.S. long-term. Meanwhile, his threats of a new trade war persist, even as courts consider curbing his tariff authority. Oil markets react to swelling U.S. inventories and tentative progress in Russia-Ukraine peace talks, with prices dropping 2.1% to near $59 a barrel. Elsewhere, Venezuela's economic instability drives locals toward cryptocurrency, particularly USDT, as a hedge against government volatility. The contrast between Trump's isolationist stance and China's rising influence underscores a pivotal moment in global power dynamics.
 
 **Top Articles:**
 - [‘Not a typical day’: makers of Macron’s sunglasses deluged with demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Femmanuel-macron-french-president-sunglasses-davos)
@@ -21,37 +21,37 @@ Global geopolitical tensions and economic shifts dominate this week's headlines,
 
 ## 💰 Finance, Economics & Business
 
-Global markets rebounded strongly as geopolitical tensions eased and economic data signaled resilience. U.S. stocks surged after President Trump reversed course on proposed European tariffs, sparking relief among investors and a rally in tech and AI-related stocks. The Federal Reserve's pause on rate cuts gained traction as robust job market and consumer spending data reinforced expectations of delayed monetary easing. Meanwhile, corporate activity remained brisk, with Capital One's $5.15 billion acquisition of fintech startup Brex and Spirit Airlines exploring a potential takeover by investment firm Castlelake. Commodities saw volatility, with gold hitting record highs amid a weaker dollar, while copper production faced disruptions due to labor strikes in Chile. In policy news, Trump's legal battle with JPMorgan over account closures and his push for a credit card interest rate cap added to financial sector uncertainty, while the Supreme Court signaled skepticism toward his attempt to remove a Fed governor, underscoring concerns about central bank independence.
+Global markets rebounded strongly on Thursday as geopolitical tensions eased and upbeat U.S. economic data reinforced investor confidence. Stocks climbed after President Donald Trump reversed course on proposed European tariffs, sparking relief in both U.S. and international markets. The S&P 500 posted its strongest two-day gain in months, led by AI-related stocks and small-cap rallies, while gold surged to a record high amid a weaker dollar. Meanwhile, corporate activity remained brisk, with Capital One announcing a $5.15 billion acquisition of fintech startup Brex, and Spirit Airlines engaging in takeover talks with investment firm Castlelake. In the bond market, U.S. high-grade corporate spreads hit a three-decade low, signaling reduced credit risk, while regional banks rushed to secure funding in the investment-grade debt market. The Federal Reserve remained in focus as the Supreme Court weighed the implications of Trump’s attempts to remove a Fed governor, raising concerns about central bank independence. Elsewhere, Ukraine secured a credit rating upgrade after restructuring its debt, and Benin successfully issued $850 million in bonds, reflecting improving emerging-market sentiment.
 
 **Top Articles:**
-- [Stocks making the biggest moves after hours: Intel, Clorox, Capital One and more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-after-hours-intc-clx-cof.html)
-- [Asian Stocks to Gain After US Data, BOJ in Focus: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates)
+- [Fmr. E*Trade CEO: Private Markets Must Promote Education](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ffmr-e-trade-ceo-private-markets-must-promote-education-video)
 - [Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fcapital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html)
-- [Trump sues JPMorgan, Jamie Dimon over cutting off banking access](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F)
-- [Ukraine Wins S&amp;P Upgrade After Revamp of Growth-Linked Debt](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fukraine-wins-s-p-upgrade-after-restructuring-growth-linked-debt)
+- [US High-Grade Corporate Bond Spreads Hit Fresh Three Decade Low](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fus-high-grade-corporate-bond-spreads-hit-fresh-three-decade-low)
+- [BlackRock's Laipply: Maintain Your Inflation Protection](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fblackrock-s-laipply-maintain-your-inflation-protection-video)
+- [Gold Climbs to Record as Weaker Dollar Extends Scorching Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgold-climbs-to-record-as-weaker-dollar-extends-scorching-rally)
 
-**Sources**: archive.ph (90 articles)
+**Sources**: archive.ph (89 articles)
 
 ---
 
 ## 💻 Technology
 
-The tech and business landscape is buzzing with major developments this week. In AI and innovation, Bill Gates' VC fund leads a $110 million investment in chip startup Neurophos, aiming to advance AI model accelerators, while smaller firms challenge Big Tech as AI's most promising investments. Meanwhile, Netflix's aggressive push into advertising yields $1.5 billion in 2025 ad revenue, with expectations to double in 2026, as it revamps its $83 billion all-cash bid for Warner Bros. Discovery to outmaneuver Paramount. Regulatory and legal tensions are also in focus, with the FCC cracking down on late-night TV political appearances and a lawsuit targeting AI recruitment tools over alleged bias. At Davos, the US-China AI race takes center stage, with experts highlighting America's compute capacity advantage, while global leaders debate taxing the ultra-rich amid calls from nearly 400 millionaires for higher levies. Market volatility persists as Intel's weak outlook drags stocks, and small-cap stocks outperform the S&P 500 in their longest win streak since 1996.
+A major winter storm sweeps across the eastern U.S., threatening record snowfall in New York City and icy conditions in southern states, while Texas declares a disaster ahead of the season's biggest storm. In tech and business, Netflix's advertising strategy shift is paying off, with $1.5 billion in ad revenue last year and expectations to double in 2026, while the company also revamps its bid for Warner Bros. Discovery in an all-cash deal. Meanwhile, the FCC targets late-night TV shows like Colbert and Kimmel in a new crackdown on political candidate appearances, and a lawsuit challenges AI recruitment tools over alleged bias. Globally, Japan restarts its largest nuclear plant amid lingering trauma from the 2011 Fukushima disaster, and nearly 400 millionaires call for higher taxes on the super-rich at the World Economic Forum in Davos.
 
 **Top Articles:**
-- [Texas Declares Disaster as Season’s Biggest Storm Approaches](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ftexas-declares-disaster-as-storm-approaches-video)
-- [Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fparamount-wbd-netflix-european-regulators.html)
-- [Stocks Mixed as Intel Slides on Weak Outlook | Closing Bell](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fstocks-mixed-as-intel-slides-closing-bell-video)
-- [EU's Kallas Says Greenlanders Want to Stay With Denmark](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Feu-s-kallas-says-bloc-seeks-stability-with-us-video)
-- [Political Stability and Fiscal Sustainability Go Hand in Hand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-22%2Fpolitical-stability-and-fiscal-sustainability-go-hand-in-hand)
+- [NYC Could See 16 Inches of Snow in Storm Sweeping Eastern US](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fnyc-could-see-16-inches-of-snow-in-major-storm-video)
+- [Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fhealth%2Fhealth-insurers-obamacare-congress.html)
+- [New U.S. Rule Aims to Speed Up Mining of the Seafloor](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fclimate%2Fnoaa-seabed-mining-rules.html)
+- [Trump Could Begin Flying on Jet Donated by Qatar by This Summer](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-qatar-air-force-one.html)
+- [Activist Says Japanese Founding Families Failing to Boost Shares](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Factivist-says-japanese-founding-families-failing-to-boost-shares)
 
-**Sources**: archive.ph (76 articles)
+**Sources**: archive.ph (79 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights major corporate moves and economic shifts, with Clorox acquiring GOJO Industries, the maker of Purell, for $2.25 billion to expand its hygiene portfolio. Meanwhile, Netflix reports a narrow earnings beat with 325 million global subscribers and amends its offer for Warner Bros. Discovery assets amid a hostile takeover attempt by Paramount Skydance. The entertainment industry also sees Disney dominating the 2025 box office, while the Oscar nominations reveal 'Sinners' leading with a record 16 nods. On the political front, Trump's policies face scrutiny, with Jamie Dimon criticizing his immigration stance and the Supreme Court weighing the legality of his firing of Federal Reserve Governor Lisa Cook. Travel trends emerge as 'microvacations' gain popularity, and a major winter storm threatens to disrupt plans across the eastern U.S. as America prepares for its 250th anniversary celebrations.
+This week’s news highlights major corporate moves and economic shifts, with Clorox acquiring GOJO Industries, the maker of Purell, for $2.25 billion to bolster its hygiene portfolio. Meanwhile, Netflix reports a record 325 million global subscribers and amends its all-cash offer for Warner Bros. Discovery assets, signaling intensified competition in the streaming wars. The Supreme Court hears arguments on Trump’s firing of Federal Reserve Governor Lisa Cook, raising questions about central bank independence, while rising food prices and housing affordability remain pressing economic concerns. On the cultural front, the Oscar nominations dominate headlines, with 'Sinners' leading with 16 nods, while America gears up for its 250th anniversary celebrations. Travel trends also take center stage, with 'microvacations' gaining popularity and luxury travel prices surging, even as budget options become more accessible.
 
 **Top Articles:**
 - [Clorox to Buy Hand Sanitizer Maker GOJO for $2.25 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fclorox-to-buy-purell-hand-sanitizer-maker-gojo-for-2-25-billion)
@@ -60,8 +60,8 @@ This week's news highlights major corporate moves and economic shifts, with Clor
 - [Flex office firm Industrious is seeing major growth. Here's what's driving it](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fflex-office-firm-industrious-major-growth.html)
 - [He Wants New Yorkers to Have a Stake in the Knicks and the Rangers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fnyregion%2Fmsg-pension-ownership-bunkeddeko.html)
 
-**Sources**: archive.ph (36 articles)
+**Sources**: archive.ph (35 articles)
 
 ---
 
-*Digest generated on January 22, 2026 at 10:49 PM *
+*Digest generated on January 22, 2026 at 11:44 PM *

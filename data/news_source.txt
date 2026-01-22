@@ -1,21 +1,87 @@
 [
   {
+    "title": "NYC Could See 16 Inches of Snow in Storm Sweeping Eastern US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fnyc-could-see-16-inches-of-snow-in-major-storm-video",
+    "published": "Thu, 22 Jan 2026 23:37:19 CST",
+    "summary": "Record-breaking cold across the central and eastern US is fueling the season’s\nlargest winter storm, threatening to freeze Texas, ground flights, ice power\nlines, and leave up to 16 inches of snow in the New York City metropolitan\narea. Southern states are expected to see extreme ice conditions, and\nWashington, Philadelphia and Boston are also expected to see snowfall. If the\nforecast holds, it would be the biggest snowstorm to hit Manhattan since 2021,\nbased on snowfall records at Central Park. Bloomberg Meteorologist Craig Allen\njoins Bloomberg Businessweek Daily to discuss. He speaks with Carol Massar and\nTim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fmr. E*Trade CEO: Private Markets Must Promote Education",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ffmr-e-trade-ceo-private-markets-must-promote-education-video",
+    "published": "Thu, 22 Jan 2026 23:35:53 CST",
+    "summary": "Mitchell Caplan, CEO of Willow Wealth and former E*TRADE CEO, says the firm\nfocuses on emerging high-net-worth clients who fall between mass affluent and\nultra-high-net-worth investors and tend to be more sophisticated. He speaks\nwith Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fhealth%2Fhealth-insurers-obamacare-congress.html",
+    "published": "Thu, 22 Jan 2026 23:28:33 CST",
+    "summary": "At two congressional hearings, lawmakers slammed executives of major\ncompanies, saying they were failing to rein in the cost of medical care for\nconsumers.\n\n"
+  },
+  {
+    "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fcapital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
+    "published": "Thu, 22 Jan 2026 23:26:27 CST",
+    "summary": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank, a\nrare founder-CEO of a major U.S. bank, after its Discover Financial deal last\nyear.\n\n"
+  },
+  {
+    "title": "New U.S. Rule Aims to Speed Up Mining of the Seafloor",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fclimate%2Fnoaa-seabed-mining-rules.html",
+    "published": "Thu, 22 Jan 2026 23:26:12 CST",
+    "summary": "The Metals Company, a prominent seabed-mining company, applauded the change\nand filed a new application more than doubling the area it hopes to mine.\n\n"
+  },
+  {
+    "title": "US High-Grade Corporate Bond Spreads Hit Fresh Three Decade Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fus-high-grade-corporate-bond-spreads-hit-fresh-three-decade-low",
+    "published": "Thu, 22 Jan 2026 23:25:27 CST",
+    "summary": "A key measure of credit risk reached the lowest level since the late 1990s on\nThursday, after geopolitical tensions cooled and fears of a global economic\nslowdown abated.\n\n"
+  },
+  {
+    "title": "BlackRock's Laipply: Maintain Your Inflation Protection",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fblackrock-s-laipply-maintain-your-inflation-protection-video",
+    "published": "Thu, 22 Jan 2026 23:21:12 CST",
+    "summary": "Stephen Laipply, global co-head of iShares fixed income ETFs at BlackRock,\nsays multi-sector portfolios should include some inflation protection. He\nspeaks with Romaine Bostick and Katie Greifeld on “The Close.” (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Gold Climbs to Record as Weaker Dollar Extends Scorching Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgold-climbs-to-record-as-weaker-dollar-extends-scorching-rally",
+    "published": "Thu, 22 Jan 2026 23:17:27 CST",
+    "summary": "Gold rose to an all-time high, supported by a weaker dollar following US data\nthat showed resilience in the job market and consumer spending.\n\n"
+  },
+  {
+    "title": "Trump Could Begin Flying on Jet Donated by Qatar by This Summer",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-qatar-air-force-one.html",
+    "published": "Thu, 22 Jan 2026 23:09:37 CST",
+    "summary": "It remains unclear whether the aircraft would get the full Air Force One\nsecurity upgrades, which industry experts said could take up to two years to\ncomplete.\n\n"
+  },
+  {
+    "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-sues-jpmorgan-jamie-dimon-debanking",
+    "published": "Thu, 22 Jan 2026 23:08:44 CST",
+    "summary": "US president alleges JPMorgan stopped offering him banking services in wake of\nJanuary 6 Capitol riot\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that JPMorgan stopped offering him banking services\nin the wake of the Capitol riot on January 6, 2021. Earlier this month, he\nclaimed that it had “incorrectly and inappropriately” discriminated against\nhim.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Huntington Bancshares CEO: #1 Priority is Organic Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fhuntington-bancshares-ceo-1-priority-is-organic-growth-video",
+    "published": "Thu, 22 Jan 2026 23:06:35 CST",
+    "summary": "Stephen Steinour, CEO of Huntington Bank, discusses earnings and growth with\nRomaine Bostick and Katie Greifeld on “The Close.” He says the company’s\nexpansion into North and South Carolina is a major move for the bank. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Activist Says Japanese Founding Families Failing to Boost Shares",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Factivist-says-japanese-founding-families-failing-to-boost-shares",
+    "published": "Thu, 22 Jan 2026 23:00:00 CST",
+    "summary": "A London-based activist investor has fired off a series of letters to the\ndirectors of two Japanese companies largely owned by their founding families\nsaying they are responsible for share prices at “extremely depressed” levels.\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves after hours: Intel, Clorox, Capital One and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-after-hours-intc-clx-cof.html",
     "published": "Thu, 22 Jan 2026 22:46:08 CST",
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "Asian Stocks to Gain After US Data, BOJ in Focus: Markets Wrap",
+    "title": "Asian Stocks Set to Follow US Higher, BOJ in Focus: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Asian equities looked set to follow Wall Street higher Friday, as upbeat US\neconomic data, a surge in tech stocks, and easing geopolitical tensions buoyed\ninvestor sentiment.\n\n"
-  },
-  {
-    "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fcapital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
-    "published": "Thu, 22 Jan 2026 22:32:28 CST",
-    "summary": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank, a\nrare founder-CEO of a major U.S. bank, after its Discover Financial deal last\nyear.\n\n"
+    "summary": "Asian equities looked set to follow Wall Street higher on Friday, as upbeat US\neconomic data and easing geopolitical tensions buoyed investor sentiment. Gold\nand silver rose to new all-time highs.\n\n"
   },
   {
     "title": "Texas Declares Disaster as Season’s Biggest Storm Approaches",
@@ -90,12 +156,6 @@
     "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
   },
   {
-    "title": "US-China AI Race in Focus at Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-china-ai-race-in-focus-at-davos-video",
-    "published": "Thu, 22 Jan 2026 19:50:27 CST",
-    "summary": "Tech leaders at the World Economic Forum in Davos have been giving their views\non the US-China AI race. Liza Tobin, managing director at Garnaut Global, says\nthe US advantage lies in the scale of its compute capacity. Tobin joins\nCaroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Fvideo%2Fbusiness%2Feconomy%2F100000010656157%2Fwhy-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
     "published": "Thu, 22 Jan 2026 19:49:10 CST",
@@ -114,28 +174,10 @@
     "summary": "Girl Scouts singing folk songs, a flag-waving party and a Times Square ball\ndrop are among the planned Semiquincentennial celebrations.\n\n"
   },
   {
-    "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-sues-jpmorgan-jamie-dimon-debanking",
-    "published": "Thu, 22 Jan 2026 19:44:49 CST",
-    "summary": "US president alleges JPMorgan stopped offering him banking services in wake of\nJanuary 6 Capitol riot\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that JPMorgan stopped offering him banking services\nin the wake of the Capitol riot on January 6, 2021. Earlier this month, he\nclaimed that it had “incorrectly and inappropriately” discriminated against\nhim.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Men’s Wearhouse Ups Debt Sale to $1.1 Billion to Boost Payout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmen-s-wearhouse-ups-debt-sale-to-1-1-billion-to-boost-payout",
-    "published": "Thu, 22 Jan 2026 19:42:45 CST",
-    "summary": "Tailored Brands Inc., the parent company of Men’s Wearhouse, boosted its loan\nand bond offerings by a combined $200 million to fund an even larger dividend\npayout to its owners.\n\n"
-  },
-  {
     "title": "Flex office firm Industrious is seeing major growth. Here's what's driving it",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fflex-office-firm-industrious-major-growth.html",
     "published": "Thu, 22 Jan 2026 19:39:43 CST",
     "summary": "In 2025, Industrious increased its global footprint by 58%, now with more than\n250 units open in over 100 cities.\n\n"
-  },
-  {
-    "title": "Bill Gates’ VC Fund Leads $110 Million Funding for Chip Upstart",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbill-gates-vc-fund-leads-110m-funding-for-chip-upstart-video",
-    "published": "Thu, 22 Jan 2026 19:33:52 CST",
-    "summary": "Chips startup Neurophos has closed a $110 million Series A funding round to\nhelp it develop a new technology capable of outperforming accelerators used to\nrun AI models. Neurophos CEO Patrick Bowen, and investor Michael Stewart,\nmanaging partner at M12, join Caroline Hyde and Ed Ludlow on “Bloomberg Tech.”\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump budget office orders review of funds to Democratic-controlled states",
@@ -144,28 +186,10 @@
     "summary": "President Donald Trump said his administration would cut off federal resources\nto “sanctuary cities” on Feb. 1.\n\n"
   },
   {
-    "title": "Warner Bros. Says Over 93% of Its Holders Reject Paramount’s Bid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fwarner-bros-says-its-holders-reject-paramount-s-bid-video",
-    "published": "Thu, 22 Jan 2026 19:29:17 CST",
-    "summary": "Paramount Skydance again extended its tender offer for Warner Bros. Discovery\nshares and said it would ask investors to vote against a proposed sale to\nNetflix at a special meeting of Warner Bros. shareholders. Warner Bros.\nDiscovery says more than 93% of its shareholders are rejecting Paramount’s\noffer, according to a statement. Bloomberg's Chris Palmeri discussed the story\non \"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Trump Returns to a Familiar Role: Sowing Trade Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
     "published": "Thu, 22 Jan 2026 19:26:05 CST",
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
-  },
-  {
-    "title": "Bloomberg Markets 1/22/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbloomberg-markets-1-22-2026-video",
-    "published": "Thu, 22 Jan 2026 19:23:27 CST",
-    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Bank of\nAmerica Chairman & CEO Brian Moynihan, BlackRock CEO Larry Fink, NATO\nSecretary General Mark Rutte, EU High Representative for Foreign Affairs and\nSecurity Policy, HSBC Head of US Financials Research, PensionBee CEO (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "From TACO to Widowmaker, a Guide to the Trades Driving Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffrom-taco-to-widowmaker-a-guide-to-the-trades-driving-markets",
-    "published": "Thu, 22 Jan 2026 19:21:53 CST",
-    "summary": "Financial markets were kicked into high-gear this week by President Donald\nTrump’s unorthodox approach to geopolitics and old-school electioneering in\nJapan.\n\n"
   },
   {
     "title": "Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation",
@@ -298,12 +322,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fcanada-inflation-to-be-released-to-closed-markets-drawing-ire",
     "published": "Thu, 22 Jan 2026 15:59:05 CST",
     "summary": "Canada’s central statistics agency plans to publish a major inflation print\nwhile the country’s financial markets are closed next month -- a move\neconomists warn will distort trading and give foreign investors an edge.\n\n"
-  },
-  {
-    "title": "Venezuela’s Leader Rolls Out Red Carpet for Oil Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvenezuela-to-debate-oil-bill-allowing-private-sales-arbitration",
-    "published": "Thu, 22 Jan 2026 15:41:57 CST",
-    "summary": "A proposal by Venezuela’s new leader to roll out a red carpet for oil\ninvestors passed an initial vote Thursday, allowing for the bill that would\nslash taxes, relinquish state control over operations and streamline\nregulations to move into a second round of debate.\n\n"
   },
   {
     "title": "Procter & Gamble earnings top estimates, but shrinking demand weighs on sales",
@@ -750,12 +768,6 @@
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
   },
   {
-    "title": "‘Masquerade’ Reimagined ‘Phantom,’ and the Fans Are Flocking",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftheater%2Fphantom-of-the-opera-masquerade.html",
-    "published": "Mon, 19 Jan 2026 14:23:14 CST",
-    "summary": "An immersive adaptation of Andrew Lloyd Webber’s musical has seen some people\nreturn a dozen times since it began performances last summer.\n\n"
-  },
-  {
     "title": "Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fvenezuelans-turned-to-tether-issued-usdt-stablecoin-as-its-government-wobbled.html",
     "published": "Mon, 19 Jan 2026 13:50:12 CST",
@@ -784,12 +796,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fsnohetta-nlrb-complaint.html",
     "published": "Mon, 19 Jan 2026 10:02:17 CST",
     "summary": "A federal labor regulator says the firm, Snohetta, laid off eight employees in\nretaliation for trying to unionize.\n\n"
-  },
-  {
-    "title": "The Rise of Prediction Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Ftechnology%2Fpolymarket-kalshi-prediction-markets.html",
-    "published": "Mon, 19 Jan 2026 10:01:05 CST",
-    "summary": "Billions of dollars are trading hands on sites like Polymarket and Kalshi,\nwhere people bet on everything from Taylor Swift’s wedding date to election\noutcomes.\n\n"
   },
   {
     "title": "I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades",
