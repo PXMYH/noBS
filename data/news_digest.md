@@ -1,67 +1,78 @@
 # NoBS News Digest - January 22, 2026
 
-Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
+Generated from **209** unique articles (deduplicated from 209 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical and economic tensions dominate global headlines as President Trump's policies continue to reshape international relations. At the World Economic Forum, Trump's renouncement of liberal democratic principles and threats of a new trade war signal a shift in U.S. leadership, leaving a vacuum that China appears poised to fill. Meanwhile, Argentina's President Javier Milei defends his country's deepening trade ties with China while seeking a parallel deal with the U.S., highlighting the complex balancing act smaller nations face amid great power competition. In Europe, defense industry leaders like Fincantieri's CEO call for greater coordination in military spending as geopolitical risks mount, underscoring the continent's urgency to bolster its security infrastructure. Domestically, the U.S. avoids a government shutdown with a bipartisan funding deal, though economic warnings persist about the long-term consequences of Trump's policies. In Venezuela, citizens increasingly turn to cryptocurrencies like USDT as economic instability worsens, reflecting broader trends in countries grappling with political turmoil.
+Global geopolitical tensions and economic shifts dominate this week’s headlines, with President Trump’s policies taking center stage. At the World Economic Forum in Davos, Trump’s keynote speech signals a retreat from the liberal democratic order, ceding economic leadership to China, while his threats of a new trade war raise concerns about long-term U.S. economic stability. Meanwhile, Congress averts a government shutdown with a bipartisan funding deal, though Trump’s tariff authority remains under legal scrutiny. Internationally, Ukrainian President Volodymyr Zelenskiy’s announcement of upcoming trilateral peace talks with the U.S. and Russia sparks optimism, driving a decline in oil prices. Domestic unrest in the U.S. escalates as Minnesota prepares for an economic blackout protest against ICE operations, while Venezuela’s turn to cryptocurrency like USDT highlights growing distrust in unstable governments.
 
 **Top Articles:**
-- [No US Security Guarantees in Venezuela for Oil, Energy Secretary Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fno-us-security-guarantees-in-venezuela-for-oil-wright-video)
-- [Fincantieri CEO Says Europe Needs to ‘Spend Better’ on Defense](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffincantieri-ceo-says-europe-needs-to-spend-better-on-defense)
-- [Milei at Davos Hails Argentina’s China Ties in Defense of Trade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fmilei-calls-china-a-great-trade-partner-after-meeting-trump)
+- [‘Not a typical day’: makers of Macron’s sunglasses deluged with demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Femmanuel-macron-french-president-sunglasses-davos)
 - [China Wins as Trump Cedes Leadership of the Global Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html)
+- [Oil Declines as Zelenskiy Signals Progress in Peace Talks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-21%2Flatest-oil-market-news-and-analysis-for-jan-22)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
+- [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 
-**Sources**: archive.ph (9 articles)
+**Sources**: archive.ph (8 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets rebounded Thursday after President Trump backed away from imposing new tariffs on European countries, easing trade tensions that had rattled investors earlier in the week. The shift lifted European stocks, while oil prices declined as focus returned to supply outlooks. Meanwhile, the Federal Reserve's independence remains a flashpoint, with the Supreme Court appearing likely to reject Trump's attempt to fire Fed Governor Lisa Cook, though concerns persist about political pressure on monetary policy. In corporate news, Procter & Gamble posted mixed earnings, Spirit Airlines entered takeover talks with Castlelake, and Paramount extended its tender offer for Warner Bros. Discovery. At Davos, leaders like Indonesia's President Prabowo Subianto and Argentina's Javier Milei touted economic growth prospects, while BlackRock's emerging-market ETF saw record inflows as investors rotate away from U.S. assets. Elsewhere, China's real estate slump continues to weigh on growth, and Benin returned to the bond market amid improving sentiment.
+Global markets rebounded sharply after President Donald Trump abruptly reversed course on threatened tariffs against European nations, easing fears of escalating trade tensions. The relief rally lifted stocks across regions, with European autos and luxury sectors leading gains, while U.S. equities stabilized following their worst drop in months. Meanwhile, economic data showed resilient U.S. consumer spending and sticky inflation, keeping the Federal Reserve’s policy path in focus. In corporate news, Procter & Gamble delivered mixed earnings, Nestlé advanced plans to sell a stake in its water business, and Spirit Airlines entered takeover talks with investment firm Castlelake. At Davos, business leaders expressed cautious optimism amid geopolitical uncertainty, though concerns linger over Trump’s unpredictable trade policies and their broader economic impact.
 
 **Top Articles:**
-- [GM to move production of China-built Buick SUV to U.S. plant](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fgm-buick-compact-suv-china-fairfax.html)
-- [Indonesia Will See Faster Growth in 2026, President Tells Davos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Findonesia-will-see-faster-growth-in-2026-president-tells-davos)
-- [Bank of America CEO Moynihan Says Credit Card Cap May Not Work as Expected](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fmoynihan-says-credit-card-cap-may-not-work-as-expected-video)
-- [The Leverage That Europe Has Over the U.S. Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Feurope-trade-trump-bonds.html)
-- [BlackRock Emerging ETF Swells by Record $6 Billion Amid US Exits](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-emerging-etf-swells-by-record-6-billion-amid-us-exits)
+- [Lundin Shares Tumble After Miner Cuts 2026 Gold, Copper Guidance](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Flundin-shares-tumble-after-miner-cuts-2026-gold-copper-guidance)
+- [US Consumer Spending Rises at Solid Pace in November](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-consumer-spending-rises-at-solid-pace-in-november-video)
+- [Ex-Viking Manager Nettimi Gains Over 20% for Third Straight Year](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fex-viking-manager-nettimi-gains-over-20-for-third-straight-year)
+- [Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fconsumer-prices-inflation-economy.html)
+- [Trump Returns to a Familiar Role: Sowing Trade Chaos](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html)
 
-**Sources**: archive.ph (87 articles)
+**Sources**: archive.ph (86 articles)
 
 ---
 
 ## 💻 Technology
 
-Tech and AI dominate headlines as US stocks rally on renewed investor confidence in artificial intelligence, with BlackRock CEO Larry Fink dismissing concerns of an AI bubble. Netflix's aggressive push into advertising yields $1.5 billion in 2025, while its revised all-cash bid for Warner Bros. Discovery signals a major shakeup in entertainment. Regulatory tensions escalate as the FCC revives the 'equal time' rule, targeting late-night shows hosting political candidates, and a federal judge blocks prosecutors from reviewing materials seized from a Washington Post reporter. Meanwhile, economic indicators show resilience, with US GDP growing at a revised 4.4% in Q3, though housing market struggles persist amid record-low inventory. Global trends highlight Japan's cautious restart of nuclear power and China's deepening demographic crisis, while Davos spotlights AI and Big Tech's outsized influence on the world economy.
+The tech and business landscape is buzzing with major developments, particularly in AI and corporate strategy. AI continues to dominate market trends, with BlackRock CEO Larry Fink dismissing concerns of an AI bubble, emphasizing the massive investments required for its growth. Meanwhile, Netflix is making bold moves, revamping its $83 billion bid for Warner Bros. Discovery to an all-cash offer, aiming to outmaneuver Paramount in a high-stakes media consolidation battle. The stock market remains buoyed by AI-driven gains and easing geopolitical tensions, while the IMF raises its global growth forecast to 3.3% for 2026, citing AI investment as a key driver. In regulatory news, the FCC is cracking down on late-night TV shows over political candidate appearances, and a federal judge blocks the government from reviewing materials seized from a Washington Post reporter, raising press freedom concerns. Additionally, the Supreme Court appears skeptical of Trump’s attempt to remove Federal Reserve Governor Lisa Cook, signaling potential limits on presidential authority over the Fed.
 
 **Top Articles:**
+- [Help! Our Rental Car Got in an Accident, and We Can’t Get Our Security Deposit Back.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Frental-car-accident-insurance-thrifty.html)
+- [As Americans buy homes later than ever, Lowe's aims to win shoppers with family events and influencers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html)
+- [Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fparamount-wbd-netflix-european-regulators.html)
+- [Investors Hunt for Yield in Argentina, Ecuador as Distress Ebbs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Finvestors-hunt-for-yield-in-argentina-ecuador-as-distress-ebbs)
 - [Stocks Buoyed by AI Winners, Data as Geopolitical Risks Fade](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstocks-buoyed-by-ai-winners-data-as-geopolitical-risks-fade)
-- [BlackRock’s Fink Not Worried About a Bubble Forming in AI](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fblackrock-s-fink-not-worried-about-a-bubble-forming-in-ai)
-- [US Jobless Claims Hold Steady, 3Q GDP Expands at 4.4%](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fus-jobless-claims-hold-steady-3q-gdp-expands-at-4-4-video)
-- [Ontario Teachers’ Reroutes Some Cash Into Public Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fontario-teachers-reroutes-some-cash-into-public-markets)
-- [Freeport Says It’s on Track to Restart Indonesia Copper Mine After Deadly Mudslide](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ffreeport-says-it-s-on-track-to-restart-giant-copper-mine-after-deadly-mudslide)
 
 **Sources**: archive.ph (73 articles)
 
 ---
 
-## 📰 Other News
+## ⚽ Sports
 
-This week's news highlights a mix of economic shifts, political tensions, and cultural milestones. Hedge funds see record inflows, surpassing $5 trillion in assets, while frontier markets emerge as a top investment bet. Meanwhile, President Trump's aggressive trade policies—including threats of retaliation against Europe over Greenland and tariff disputes—dominate global economic discussions, contrasting with the EU's push for a massive free-trade zone with South America. On the cultural front, the Oscars make headlines with 'Sinners' breaking nomination records, and Disney's box office dominance continues into 2026. Travel trends lean toward 'microvacations' as consumers navigate fluctuating prices, while housing affordability remains a pressing issue amid rising costs and policy debates. Notable obituaries include Sega co-founder David Rosen and Cannondale pioneer Joe Montgomery, marking the end of eras in gaming and cycling innovation.
+Venezuela is poised to debate a significant oil sector reform bill that could reshape its energy industry. The proposed legislation, set for discussion on Thursday, would permit private oil companies to market their own production, reduce tax burdens, and resolve disputes through international arbitration rather than Venezuelan courts. This move signals a potential shift toward greater private sector involvement in the country's oil industry, which has long been dominated by state control. The bill, if passed, could attract foreign investment and modernize Venezuela's oil operations, though it may also face political and regulatory hurdles. Analysts are watching closely to see how the debate unfolds and whether the reforms will gain traction amid Venezuela's ongoing economic challenges.
 
 **Top Articles:**
+- [Venezuela to Debate Oil Bill Allowing Private Sales, Arbitration](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fvenezuela-to-debate-oil-bill-allowing-private-sales-arbitration)
+
+**Sources**: archive.ph (1 article)
+
+---
+
+## 📰 Other News
+
+This week’s news highlights a mix of economic shifts, corporate maneuvering, and cultural milestones. In business, hedge funds saw record inflows of $116 billion in 2025, marking their strongest performance since 2007, while Richemont sold Swiss watchmaker Baume & Mercier to Italy’s Damiani Group amid a luxury market slowdown. Meanwhile, Netflix amended its all-cash offer for Warner Bros. Discovery’s assets, intensifying a high-stakes media battle. On the political front, President Trump’s aggressive trade policies and housing affordability measures dominate headlines, with threats of retaliation against Europe over Greenland and a push to lower consumer prices through tariffs and regulatory pressure. Culturally, the Oscar nominations made waves, with *Sinners* breaking records with 16 nods, while Disney’s box office dominance in 2025 sets the stage for another strong year. Travel trends also emerged, with 'microvacations' gaining popularity as budget-conscious travelers seek shorter, more frequent getaways. Human interest stories include the passing of Sega co-founder David Rosen at 95 and the arrival of 37 Afrikaner immigrants in Twin Falls, Idaho, underscoring evolving migration patterns under Trump’s policies.
+
+**Top Articles:**
+- [Richemont Sells Watchmaker Baume &amp; Mercier to Italy’s Damiani](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Frichemont-sells-watchmaker-baume-mercier-to-italy-s-damiani)
+- [Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-immigration-policy.html)
+- [Oscar Nominations: ‘Sinners’ Breaks Record With 16](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html)
 - [Hedge Funds Gather $116 Billion in Net Inflows, Most Since 2007](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fhedge-funds-gather-116-billion-in-net-inflows-most-since-2007)
 - [America Turns 250: A Guide to the Coming Festivities](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fstyle%2Famerica-turns-250-guide.html)
-- [Oscar Nominations: ‘Sinners’ Breaks Record With 16](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html)
-- [Greg Coffey’s Hedge Fund Sees Opportunity in Frontier Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgreg-coffey-s-hedge-fund-sees-opportunity-in-frontier-markets)
-- [Trump Threatens ‘Big Retaliation’ If Europe Dumps US Assets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftrump-promises-big-retaliation-if-europe-dumps-us-assets)
 
 **Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 22, 2026 at 02:57 PM *
+*Digest generated on January 22, 2026 at 03:56 PM *
