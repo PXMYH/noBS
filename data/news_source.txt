@@ -1,5 +1,65 @@
 [
   {
+    "title": "There's a new idea of alpha in the market that big fund managers are pursuing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Finvesting-market-stocks-bonds-gold-cash-commodities.html",
+    "published": "Fri, 23 Jan 2026 15:46:38 CST",
+    "summary": "Stock pickers can't beat the S&P 500, and market experts say it's time to stop\ntrying and seek broader portfolio alpha across cash, bonds, gold and\ncommodities.\n\n"
+  },
+  {
+    "title": "World’s Best Equity Rally Draws Foreign Investors Into Brazil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fworld-s-best-equity-rally-draws-foreign-investors-into-brazil",
+    "published": "Fri, 23 Jan 2026 15:41:14 CST",
+    "summary": "A stellar rally in Brazil sent the local equity benchmark to a record this\nweek, turning it into the world’s best-performing stock market as investors\nrotate billions away from US assets and into the developing world.\n\n"
+  },
+  {
+    "title": "US Regulator Says Eased Bank Rules to Curb Private Credit Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-regulator-says-eased-bank-rules-to-curb-private-credit-demand",
+    "published": "Fri, 23 Jan 2026 15:37:25 CST",
+    "summary": "The Office of the Comptroller of the Currency said the agency’s efforts to\nrelax post-crisis leveraged-loan rules for banks will help lenders compete\nwith the private credit industry.\n\n"
+  },
+  {
+    "title": "Blackstone, Carlyle Mull Stakes in Prized Indian Cricket Teams",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackstone-carlyle-mull-stakes-in-prized-indian-cricket-teams",
+    "published": "Fri, 23 Jan 2026 15:29:36 CST",
+    "summary": "Blackstone Inc. and Carlyle Group Inc. are jostling with billionaires in India\nto buy stakes in teams in the country’s most successful professional cricket\nleague, betting on the surging popularity of the sport in one of the fastest-\ngrowing economies.\n\n"
+  },
+  {
+    "title": "US Consumer Sentiment Climbs to a Five-Month High",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fus-consumer-sentiment-climbs-to-a-five-month-high-video",
+    "published": "Fri, 23 Jan 2026 15:26:32 CST",
+    "summary": "US consumer sentiment surpassed all estimates in January and advanced by the\nmost since June as Americans grew more optimistic about the economy and their\nfinances. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Rises as Weak Dollar Counters Glut Worries",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Foil-rises-as-weak-dollar-counters-glut-worries-video",
+    "published": "Fri, 23 Jan 2026 15:04:36 CST",
+    "summary": "Oil rose as the dollar headed for its worst week in seven months and global\nstockpiles are projected to swell by 3.7 million barrels a day this year,\naccording to the International Energy Agency’s latest assessment. Mike McGlone\nhas more on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
+    "published": "Fri, 23 Jan 2026 15:04:21 CST",
+    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
+  },
+  {
+    "title": "US Consumer Sentiment Reaches Five-Month High in Broad Gain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-consumer-sentiment-rises-to-five-month-high-in-broad-advance",
+    "published": "Fri, 23 Jan 2026 15:00:00 CST",
+    "summary": "US consumer sentiment increased to a five-month high in January as Americans\ngrew more optimistic about the economy and their finances.\n\n"
+  },
+  {
+    "title": "Dutch Pension ABP Cut US Treasury Stake by $12 Billion in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdutch-pension-abp-cut-us-treasury-stake-by-12-billion-in-2025",
+    "published": "Fri, 23 Jan 2026 14:51:25 CST",
+    "summary": "Europe’s biggest pension fund spent much of last year dramatically scaling\nback its exposure to the US government bond market.\n\n"
+  },
+  {
+    "title": "US Business Activity Ticks Up While Hiring Remains Weak",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-business-activity-ticks-up-while-hiring-remains-weak",
+    "published": "Fri, 23 Jan 2026 14:45:00 CST",
+    "summary": "US businesses kicked off the new year with only a slight improvement in\nactivity, keeping a lid on demand for workers.\n\n"
+  },
+  {
     "title": "US Stocks Slip at End of Turbulent Week; Intel Sinks on Earnings",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-stocks-slip-at-end-of-turbulent-week-intel-sinks-on-earnings",
     "published": "Fri, 23 Jan 2026 14:39:16 CST",
@@ -132,12 +192,6 @@
     "summary": "The country’s biggest buyers currently have little incentive to abandon crude\npurchases from Moscow.\n\n"
   },
   {
-    "title": "Indian Central Bank to Add $23.6 Billion Cash Via New Measures",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Findian-central-bank-to-add-23-6-billion-cash-via-new-measures",
-    "published": "Fri, 23 Jan 2026 12:34:27 CST",
-    "summary": "The Reserve Bank of India announced a fresh round of cash injections worth\n$23.6 billion through a slew of measures like bond purchases and a foreign\nexchange swap to ease tight banking liquidity conditions.\n\n"
-  },
-  {
     "title": "Nvidia’s Huang to visit China as AI chip sales stall",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fnvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
     "published": "Fri, 23 Jan 2026 12:31:43 CST",
@@ -150,40 +204,10 @@
     "summary": "When French President Emmanuel Macron walked out onto a Davos stage sporting a\npair of reflective blue aviator sunglasses, Stefano Fulchir, the CEO of\niVision Tech SpA, did a double take.\n\n"
   },
   {
-    "title": "Global Diversification Is 2026 Base Case for Principal’s Shah",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fglobal-diversification-is-2026-base-case-for-seema-shah-video",
-    "published": "Fri, 23 Jan 2026 12:18:51 CST",
-    "summary": "Seema Shah, chief global strategist at Principal Asset Management, says the\nglobal diversification of markets is driven by fundamentals and goes beyond\ngeopolitical risk. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Intel Dives After Tepid Forecast, BOJ Holds Spurring Yen Volatility | The Opening Trade 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fthe-opening-trade-1-23-2026-video",
-    "published": "Fri, 23 Jan 2026 12:14:13 CST",
-    "summary": "Intel Corp. shares plunged in premarket trading after Chief Executive Officer\nLip-Bu Tan gave a lackluster forecast and warned that the chipmaker was\nstruggling with manufacturing problems. The Bank of Japan held its overnight\ncall rate at 0.75%. The yen weakened against the dollar as the BOJ held\nsteady. Japan’s top currency official later declined to comment on whether the\ngovernment stepped into the market after the yen plunged over 150 pips in just\na few minutes. The Opening Trade has everything you need to know as markets\nopen across Europe. With analysis you won't find anywhere else, we break down\nthe biggest stories of the day and speak to top guests who have skin in the\ngame. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Russia-Ukraine Talks to Continue in UAE; Intel Drops After Earnings | Bloomberg Brief 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fbloomberg-brief-1-23-2026-video",
-    "published": "Fri, 23 Jan 2026 12:11:07 CST",
-    "summary": "US equity futures drop as Intel extends decline on a lackluster outlook and a\nwarning on manufacturing snags. Russia, Ukraine and the US are set to continue\npeace talks in the UAE after the Kremlin said the “territorial issue” remains\nunresolved. TikTok and ByteDance close a long-awaited deal to transfer parts\nof their US operations to American investors, avoiding a nationwide ban in the\nUS. Seema Shah of Principal Asset Management discusses a structural shift\nhappening in markets as investors diversify with non-US assets. Kevin Mahn of\nHennion & Walsh Asset Management sees more short-term volatility ahead in\nstocks. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Akshay Shah’s Hedge Fund Returns 48% on Distressed Debt Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fhedge-fund-kyma-capital-returns-48-on-distressed-debt-bets",
-    "published": "Fri, 23 Jan 2026 12:08:20 CST",
-    "summary": "Kyma Capital, a hedge fund run by Akshay Shah, delivered 48% net returns to\ninvestors last year, betting on distressed companies needing to address their\ndebt piles, according to people with knowledge of the matter.\n\n"
-  },
-  {
     "title": "How Trump’s relations with America’s biggest banking boss hit rock bottom",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fhow-trump-relations-jp-morgan-banking-boss-rock-bottom-jamie-dimon",
     "published": "Fri, 23 Jan 2026 12:00:09 CST",
     "summary": "US president’s $5bn lawsuit against JP Morgan and Jamie Dimon follows a steady\nrise in tensions between the two men\n\nWeeks after Donald Trump’s first shock election win, bosses from across\ncorporate America were scrambling to enter the president’s orbit.\n\nBusiness leaders ranging from the General Motors boss, Mary Barra, to Disney’s\nchief, Bob Iger, quickly signed up to a new advisory council in 2016 to help\nshape the aggressively pro-growth policies of this new populist politician.\nAmong them was the head of America’s largest bank: Jamie Dimon, the chair and\nchief executive of JP Morgan.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "CEOs Wary of a Jittery US Consumer as Global Tensions Intensify",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fceos-wary-of-a-jittery-us-consumer-as-global-tensions-intensify",
-    "published": "Fri, 23 Jan 2026 12:00:00 CST",
-    "summary": "As the US earnings season gathers momentum, early results are offering a\nwindow into the economic and political crosscurrents shaping Corporate\nAmerica’s outlook for the year ahead.\n\n"
   },
   {
     "title": "SpaceX lines up Wall Street banks as Musk eyes blockbuster IPO",
@@ -192,16 +216,10 @@
     "summary": "US aerospace tech company reportedly held talks last year over private share\nsale that values business at $800bn\n\nElon Musk’s SpaceX is reportedly lining up four Wall Street banks to help the\ncompany list on the stock market as investors prepare for an expected rush of\nUS tech listings.\n\nSpaceX is considering Bank of America, JP Morgan, Goldman Sachs and Morgan\nStanley for leading roles in an initial public offering, according to the\nFinancial Times and Reuters.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Brazilian Police Target Pension Fund as Banco Master Probe Grows",
+    "title": "Brazilian Police Target Rio Fund as Banco Master Probe Grows",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbrazilian-police-target-pension-fund-as-banco-master-probe-grows",
     "published": "Fri, 23 Jan 2026 11:47:31 CST",
     "summary": "Brazil police started probing a Rio de Janeiro civil servant pension fund and\nits investments in Banco Master SA, marking the newest phase of the\ninvestigation into what could be the country’s biggest bank fraud ever.\n\n"
-  },
-  {
-    "title": "India’s Forex Reserves Gain by Most Since March, Boosted by Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Findia-s-forex-reserves-gain-by-most-since-march-boosted-by-gold",
-    "published": "Fri, 23 Jan 2026 11:42:10 CST",
-    "summary": "A rally in gold prices and a gain in the value of non-dollar assets helped\nIndia’s foreign exchange reserves rise by the most in over 10 months, data\nfrom the central bank showed Friday.\n\n"
   },
   {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
@@ -220,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbluebay-says-yield-spike-in-japan-s-long-bonds-has-gone-too-far",
     "published": "Fri, 23 Jan 2026 10:40:23 CST",
     "summary": "The jump in yields on Japan’s long-maturity bonds has gone too far, according\nto RBC BlueBay Asset Management, which has initiated a long position in the\nbattered securities.\n\n"
-  },
-  {
-    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
-    "published": "Fri, 23 Jan 2026 10:04:53 CST",
-    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
   },
   {
     "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
@@ -312,10 +324,10 @@
     "summary": "The lawsuit, citing “political discrimination,” said the banking giant told\nPresident Trump shortly after the Jan. 6 attack on the Capitol that it would\nclose his accounts.\n\n"
   },
   {
-    "title": "Oil Rises as Weaker Dollar, Global Turmoil Counter Glut Worries",
+    "title": "Oil Rises as Traders Weigh Renewed Iran Concerns, Cold Weather",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Flatest-oil-market-news-and-analysis-for-jan-23",
     "published": "Thu, 22 Jan 2026 23:29:56 CST",
-    "summary": "Oil rose as the dollar headed for its worst week in seven months, capping a\ntumultuous few days that saw a deterioration of US-Europe relations and\nunresolved talks to end the war in Ukraine.\n\n"
+    "summary": "Oil rose as traders factored in the possibility of US military action in Iran\nthat could upend supplies from one of OPEC’s leading producers, and a massive\nwinter storm in the US pushing up the price of refined products.\n\n"
   },
   {
     "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
@@ -330,22 +342,16 @@
     "summary": "The Metals Company, a prominent seabed-mining company, applauded the change\nand filed a new application more than doubling the area it hopes to mine.\n\n"
   },
   {
-    "title": "Gold on Track for Best Week Since 2020 After Safe Haven Surge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgold-climbs-to-record-as-weaker-dollar-extends-scorching-rally",
-    "published": "Thu, 22 Jan 2026 23:17:27 CST",
-    "summary": "Gold headed for its best week in six years, with the rally driven by\ngeopolitical risks and renewed threats to the Federal Reserve’s independence.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: Intel, Clorox, Capital One and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-after-hours-intc-clx-cof.html",
     "published": "Thu, 22 Jan 2026 22:46:08 CST",
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "S&amp;P 500 Is Set for First Two-Week Loss Since June: Markets Wrap",
+    "title": "Stocks Bounce After Solid Consumer Sentiment Data: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Wall Street is ending a jittery week on the back foot, with stock traders\ndigesting the rally of the past two days and shifting their focus to the last\nfew economic reports ahead of next week’s Federal Reserve decision.\n\n"
+    "summary": "Wall Street is ending a jittery week on a quiet note, with stock traders\ndigesting the rally of the past two days and shifting their focus to the last\nfew economic reports in the run-up to the Federal Reserve decision.\n\n"
   },
   {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
@@ -438,12 +444,6 @@
     "summary": "Adem Bunkeddeko, a state comptroller candidate, wants to use some of New\nYork’s $290 billion pension fund to buy a percentage of Madison Square Garden\nSports.\n\n"
   },
   {
-    "title": "SEC Seeks Fresh Pathway to Advance Stalled Adani Fraud Case",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsec-seeks-fresh-pathway-to-advance-in-stalled-adani-fraud-case",
-    "published": "Thu, 22 Jan 2026 17:57:43 CST",
-    "summary": "After failing to serve Gautam Adani with a legal summons for more than a year,\nthe US Securities and Exchange Commission wants a judge to clear a way for the\nagency to advance with its fraud case against the Indian billionaire. Adani\nGroup stocks and bonds fell in India.\n\n"
-  },
-  {
     "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fspirit-airlines-deal-talks-castlelake.html",
     "published": "Thu, 22 Jan 2026 17:13:33 CST",
@@ -514,6 +514,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-premarke-.html",
     "published": "Thu, 22 Jan 2026 12:55:33 CST",
     "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
+  },
+  {
+    "title": "Hitachi Energy CEO and Ireland's Minister on European Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fhitachi-ceo-and-ireland-s-minister-on-european-energy-video",
+    "published": "Thu, 22 Jan 2026 12:52:42 CST",
+    "summary": "Peter Burke TD, Minister of Enterprise, Tourism & Employment, Republic of\nIreland and Andreas Schierenbeck, CEO, Hitachi Energy discuss the skills,\nlabor and partnerships needed to build Europe’s energy future with Bloomberg’s\nLeigh Gilmore at Bloomberg House in Davos on the sidelines of the 2026 World\nEconomic Forum. (Source: Bloomberg)\n\n"
   },
   {
     "title": "When the ultra rich hire family for their private investment firms, what to pay them can be tricky",
@@ -922,12 +928,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Ftrump-investors-homes-family-offices.html",
     "published": "Fri, 16 Jan 2026 12:30:01 CST",
     "summary": "Wall Street landlords are the primary target of Trump's proposed ban, but\ninvestment firms of the ultra rich could get caught in the crosshairs.\n\n"
-  },
-  {
-    "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fgoldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html",
-    "published": "Thu, 15 Jan 2026 22:05:15 CST",
-    "summary": "Goldman's interest comes as prediction markets gain visibility and debate\nswirls over market transparency and regulatory boundaries.\n\n"
   },
   {
     "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",

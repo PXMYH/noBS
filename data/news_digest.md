@@ -6,7 +6,7 @@ Generated from **211** unique articles (deduplicated from 211 total) across **1*
 
 ## 🌍 World & Politics
 
-Global tensions and economic shifts dominate this week's headlines, with geopolitical and domestic developments shaping key narratives. In the U.S., President Trump's aggressive trade stance takes center stage as he threatens a new trade war, even as courts consider limiting his tariff authority. His speech at the World Economic Forum in Davos, where he renounced liberal democratic principles, signals a further retreat from global leadership, leaving a vacuum China appears poised to fill. Meanwhile, domestic unrest flares in Minnesota, where a statewide strike protests ICE operations, with organizers demanding the agency's removal and an investigation into alleged constitutional violations. The Pentagon's attempt to exert control over the military newspaper *Stars and Stripes*—criticized as 'woke'—sparks pushback from lawmakers and the outlet's leadership, highlighting ongoing debates over press freedom within the armed forces. Economically, wheat prices surge amid fears of crop damage from freezing weather in the U.S. and Russia, compounding concerns over food security. In Venezuela, citizens increasingly turn to the USDT stablecoin as a hedge against political and economic instability, underscoring the growing reliance on cryptocurrencies in volatile regimes. Against this backdrop, lighter moments emerge, such as the sudden demand for French President Macron’s sunglasses after he wore them at Davos to conceal a burst blood vessel, offering a brief distraction from the forum’s weighty geopolitical discussions.
+Global tensions and economic shifts dominate this week's headlines, with geopolitical and domestic developments shaping international relations. In the U.S., President Trump's aggressive trade stance continues to unsettle markets, as he threatens a new trade war even as courts consider limiting his tariff authority. His speech at the World Economic Forum in Davos, where he renounced liberal democratic principles, signals a further retreat from global leadership, leaving a vacuum China is quick to fill. Meanwhile, domestic unrest grows, with Minnesota residents staging a widespread strike to protest ICE operations, demanding the agency's removal from the state amid allegations of constitutional violations. The Pentagon's attempt to exert control over the military newspaper *Stars and Stripes*—criticized as 'woke'—sparks pushback from lawmakers and the outlet's leadership, highlighting ongoing struggles over institutional independence. Economically, wheat prices surge on fears of crop damage from freezing weather in the U.S. and Russia, compounding concerns over food security amid broader geopolitical instability. In Venezuela, citizens increasingly turn to Tether's USDT stablecoin as a hedge against economic and political turmoil, underscoring the growing reliance on cryptocurrencies in unstable regimes.
 
 **Top Articles:**
 - [Wheat Extends Gain on Worries Freezing Weather Will Hurt Crops](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fwheat-extends-gain-on-worries-freezing-weather-will-hurt-crops)
@@ -21,14 +21,14 @@ Global tensions and economic shifts dominate this week's headlines, with geopoli
 
 ## 💰 Finance, Economics & Business
 
-Global markets closed a volatile week on shaky ground, with the S&P 500 heading for its second consecutive weekly decline as investors shifted focus back to earnings and monetary policy. Intel’s shares plunged after a weak forecast and manufacturing woes, while the Bank of Japan’s decision to hold rates spurred yen volatility. Meanwhile, the dollar faced its worst week since June amid concerns over unpredictable U.S. policymaking ahead of the Federal Reserve’s upcoming meeting. Geopolitical tensions and trade uncertainties added to the unease, with Trump’s tariff reversals and legal battles—including a $5 billion lawsuit against JPMorgan—further rattling markets. In commodities, copper surged past $13,000 a ton, and gold eyed its best week since 2020 as safe-haven demand rose. Corporate activity remained brisk, with Capital One’s $5.15 billion acquisition of Brex and SpaceX’s reported preparations for a blockbuster IPO. Defense stocks also saw strong demand, with CSG NV’s debut soaring amid rising global tensions. Central banks remained active, with India injecting $23.6 billion to ease liquidity, while private credit risks and a potential Fed leadership shift under Trump added layers of uncertainty to the economic outlook.
+Global markets are experiencing a shift in sentiment as investors rotate away from US assets, with Brazil's equity benchmark hitting record highs and emerging markets drawing increased foreign investment. Meanwhile, US consumer sentiment surged to a five-month high, buoying stocks despite a volatile week that saw the S&P 500 extend its decline. The dollar weakened amid policy uncertainty ahead of the Federal Reserve's upcoming meeting, while oil prices rose on a weaker dollar and geopolitical tensions. Corporate activity remains brisk, with Capital One's $5.15 billion acquisition of Brex and SpaceX's preparations for a potential $800 billion IPO. However, concerns linger over private credit risks and the Fed's independence, as Trump's lawsuit against JPMorgan and political pressures add to market unease.
 
 **Top Articles:**
-- [US Stocks Slip at End of Turbulent Week; Intel Sinks on Earnings](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-stocks-slip-at-end-of-turbulent-week-intel-sinks-on-earnings)
-- [Markets Have Already Anticipated the Good Stuff About to Happen, BofA’s Subramanian Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmarkets-have-already-anticipated-the-good-stuff-bofa-video)
-- [Low Rates Sound Great. But a Trump Fed Could Cause a Painful ‘Sugar High.’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftrump-fed-interest-rates-inflation.html)
-- [Ethanol Push Sees Big Delay After E15 Setback, Trade Group Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fethanol-push-sees-big-delay-after-e15-setback-trade-group-says)
-- [Why a niche category of CRE lending is suddenly seeing record deals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fc-pace-cre-lending-record-deals.html)
+- [There's a new idea of alpha in the market that big fund managers are pursuing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Finvesting-market-stocks-bonds-gold-cash-commodities.html)
+- [World’s Best Equity Rally Draws Foreign Investors Into Brazil](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fworld-s-best-equity-rally-draws-foreign-investors-into-brazil)
+- [US Regulator Says Eased Bank Rules to Curb Private Credit Demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-regulator-says-eased-bank-rules-to-curb-private-credit-demand)
+- [US Consumer Sentiment Climbs to a Five-Month High](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fus-consumer-sentiment-climbs-to-a-five-month-high-video)
+- [Oil Rises as Weak Dollar Counters Glut Worries](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Foil-rises-as-weak-dollar-counters-glut-worries-video)
 
 **Sources**: archive.ph (89 articles)
 
@@ -36,32 +36,43 @@ Global markets closed a volatile week on shaky ground, with the S&P 500 heading 
 
 ## 💻 Technology
 
-This week's headlines are dominated by major developments in AI, corporate strategy, and geopolitical tensions. In tech, Nvidia CEO Jensen Huang plans a visit to China amid stalling AI chip sales, while Big Tech firms issue record debt to fund AI ambitions, raising economic concerns. Meanwhile, Netflix's $1.5 billion ad revenue in 2025 signals a successful pivot, and its all-cash bid for Warner Bros. Discovery intensifies media consolidation battles. On the regulatory front, the IMF warns of AI's 'tsunami' impact on jobs, particularly for young workers, while a lawsuit challenges AI recruitment tools over bias allegations. Geopolitical tensions persist as Trump's unpredictable policies keep allies on edge, and a massive winter storm disrupts travel across the U.S.
+This week’s tech and business landscape is dominated by AI’s growing influence and its economic ripple effects. The IMF warns that AI could disrupt 60% of jobs in advanced economies, with young workers facing the brunt of the impact, while Big Tech ramps up debt issuance to fund AI ambitions, hitting a record $108.7 billion in Q4 bonds. Nvidia’s CEO Jensen Huang plans a strategic visit to China amid stalling AI chip sales, underscoring the high stakes in the global AI race. Meanwhile, TikTok’s corporate restructuring in the U.S. raises questions about app changes for its 200 million American users, as a consortium with ties to Trump finalizes the deal. Regulatory tensions also flare, with the FCC cracking down on late-night TV political appearances and European regulators potentially blocking Warner Bros. Discovery’s merger with Netflix—a move Paramount is banking on to thwart the deal. Beyond tech, a massive winter storm threatens widespread U.S. disruptions, while Japan’s restart of its largest nuclear plant signals a cautious return to atomic energy despite lingering Fukushima trauma.
 
 **Top Articles:**
+- [US Business Activity Ticks Up While Hiring Remains Weak](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-business-activity-ticks-up-while-hiring-remains-weak)
 - [PF Mira Fundo de Pensão do Rio em Nova Etapa do Caso Master](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fpf-mira-fundo-de-pensao-do-rio-no-caso-master-video)
 - [Massive Winter Storm to Bring Snow, Ice to Dozens of US States](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmassive-storm-to-bring-snow-ice-to-dozens-of-us-states-video)
 - [Five Ways People Are Using Claude Code](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html)
 - [UBS Reverses Bearish Siemens Energy Call After 165% Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-reverses-bearish-siemens-energy-call-after-165-rally)
-- [Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F23%2Fai-tsunami-labour-market-youth-employment-says-head-of-imf-davos)
 
 **Sources**: archive.ph (76 articles)
 
 ---
 
-## 📰 Other News
+## ⚽ Sports
 
-This week’s news highlights a mix of economic shifts, corporate maneuvering, and cultural milestones. A major winter storm threatens power grids and travel across the U.S., with freezing temperatures and heavy snowfall expected to disrupt millions. In business, Leica Camera’s potential €1 billion sale underscores private equity’s appetite for iconic brands, while Netflix’s amended all-cash offer for Warner Bros. Discovery assets signals intensifying media consolidation. Meanwhile, the Oscar nominations reveal a competitive race, with *Sinners* leading with 16 nods, reflecting Hollywood’s evolving creative landscape. On the policy front, Trump’s legal battle with JPMorgan and criticism of his immigration stance by CEO Jamie Dimon spotlight tensions between corporate America and the administration. Emerging trends include the rise of ‘microvacations’ as travelers adapt to time constraints, and the booming prediction markets attracting younger investors. The week also marks the buildup to America’s 250th anniversary, with nationwide celebrations planned, blending patriotism with modern cultural expressions.
+Private equity giants Blackstone Inc. and Carlyle Group Inc. are making aggressive moves into India’s booming cricket market, competing with local billionaires to acquire stakes in teams within the country’s premier professional cricket league. The surge in interest underscores the sport’s growing commercial appeal in one of the world’s fastest-growing economies, where cricket’s popularity continues to attract major financial players. This development highlights the increasing intersection of sports and high finance, as global investment firms seek to capitalize on the lucrative opportunities presented by India’s cricket ecosystem. Meanwhile, the league’s expanding valuation reflects broader trends in sports business, with franchises becoming prized assets amid rising viewership and sponsorship deals.
 
 **Top Articles:**
+- [Blackstone, Carlyle Mull Stakes in Prized Indian Cricket Teams](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackstone-carlyle-mull-stakes-in-prized-indian-cricket-teams)
+
+**Sources**: archive.ph (1 article)
+
+---
+
+## 📰 Other News
+
+A major winter storm threatens power outages across the U.S. as freezing temperatures and heavy snow disrupt travel and infrastructure. Meanwhile, corporate America faces tension as Trump's lawsuit against JPMorgan and CEO Jamie Dimon's rare criticism of immigration policy highlight growing divisions. In entertainment, Disney dominates the box office, while Netflix amends its Warner Bros. Discovery offer amid industry consolidation. Travel trends shift toward 'microvacations' as luxury prices rise, and prediction markets boom among younger investors. The Supreme Court weighs Trump's firing of a Federal Reserve governor, signaling broader implications for executive power.
+
+**Top Articles:**
+- [Storm Poses Big Threats to Power Grids Across U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html)
 - [Blackstone-Backed Leica Camera Weighs €1 Billion Sale](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackstone-backed-leica-camera-weighs-1-billion-sale)
 - [What to Know About New Rules for 401(k) ‘Catch-Up’ Contributions in 2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fyour-money%2F401k-contributions-catch-up-roth-retirement.html)
 - [The Message Behind Trump’s Lawsuit Against JPMorgan](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fdealbook%2Ftrump-lawsuit-jpmorgan-dimon.html)
 - [What obesity drugmakers see next in the market: More pills, easier access and drug combinations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fweight-loss-glp-1-drugs-next-steps-for-eli-lilly-novo-nordisk-pfizer.html)
-- [Global Diversification Is 2026 Base Case for Principal’s Shah](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fglobal-diversification-is-2026-base-case-for-seema-shah-video)
 
-**Sources**: archive.ph (39 articles)
+**Sources**: archive.ph (38 articles)
 
 ---
 
-*Digest generated on January 23, 2026 at 02:53 PM *
+*Digest generated on January 23, 2026 at 03:51 PM *
