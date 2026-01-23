@@ -1,15 +1,165 @@
 [
   {
-    "title": "China Is Lending to the Gulf at Record Pace, Tightening Ties",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchina-is-lending-to-the-gulf-at-record-pace-tightening-ties",
-    "published": "Fri, 23 Jan 2026 02:18:14 CST",
-    "summary": "The Gulf is fast emerging as part of China’s next big financial play, with\nyears of diplomatic overtures now translating into hard cash.\n\n"
+    "title": "Pound at $1.35, Stocks Steady to End Turbulent Week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-23%2Fftse-100-live-uk-retail-sales-pound-gbp-bonds-gold-prices-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Fri, 23 Jan 2026 06:50:08 CST",
+    "summary": "\n\n"
   },
   {
-    "title": "India’s Sales of Treasuries Deepen Pivot Away From Dollar Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Findia-s-sales-of-treasuries-deepen-pivot-away-from-dollar-assets",
-    "published": "Fri, 23 Jan 2026 02:14:38 CST",
-    "summary": "India’s holdings of US Treasuries have fallen to a five-year low as the nation\npushes to support its currency and diversify its reserves, joining a broader\nshift by some major economies out of the world’s biggest bond market.\n\n"
+    "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
+    "published": "Fri, 23 Jan 2026 06:31:20 CST",
+    "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
+  },
+  {
+    "title": "CSG to Debut After Largest Ever Defense IPO Raises €3.3 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcsg-to-debut-after-largest-ever-defense-ipo-raises-3-3-billion",
+    "published": "Fri, 23 Jan 2026 06:00:00 CST",
+    "summary": "Armored vehicle and munitions maker Czechoslovak Group is set to start trading\nin Amsterdam on Friday morning, after the firm and its owner raised €3.3\nbillion ($3.9 billion) in an initial public offering.\n\n"
+  },
+  {
+    "title": "Nvidia’s Huang to visit China as AI chip sales stall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fnvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
+    "published": "Fri, 23 Jan 2026 05:58:37 CST",
+    "summary": "Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar\nNew Year, two people familiar with the matter told CNBC.\n\n"
+  },
+  {
+    "title": "Topix Dividend Yield Slips Below Japan’s 10-Year Bond Yield",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Ftopix-dividend-yield-slips-below-japan-s-10-year-bond-yield",
+    "published": "Fri, 23 Jan 2026 05:58:30 CST",
+    "summary": "The dividend yield on Japanese stocks has dipped below the 10-year government\nbond yield for the first time in at least two decades, after the recent\nselloff in the nation’s sovereign debt market.\n\n"
+  },
+  {
+    "title": "India Is Turning Trump’s Trade Pressure Into Opportunity",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Findia-is-turning-trump-s-trade-pressure-into-opportunity-video",
+    "published": "Fri, 23 Jan 2026 05:54:14 CST",
+    "summary": "As U.S.-EU tensions reshape global alliances, India faces both risks and\nrewards. INSEAD Professor Pushan Dutt tells Menaka Doshi why India’s\nprotectionist past is giving way to a rush of new trade deals with Europe, the\nU.K., and beyond. From tariffs and technology transfers to manufacturing\nreforms, can India leverage this moment to strengthen its economy and\ngeopolitical standing? Insight with Haslinda Amin explores the strategies\nbehind India’s resilience in a turbulent world. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "ASX Says Aware of Connectivity Issues for Austraclear Users",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fasx-says-aware-of-connectivity-issues-for-austraclear-users",
+    "published": "Fri, 23 Jan 2026 05:46:06 CST",
+    "summary": "ASX Ltd. said it is aware of reports that some users of Austraclear, a\nplatform for wholesale debt securities settlement, are encountering problems\nwhen connecting over the internet.\n\n"
+  },
+  {
+    "title": "China Weighs Tighter Rules for Firms to List in Hong Kong",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchina-weighs-tighter-rules-for-firms-to-sell-shares-in-hong-kong",
+    "published": "Fri, 23 Jan 2026 05:37:44 CST",
+    "summary": "China’s securities regulator is considering tightening the criteria for\nmainland companies to sell shares in Hong Kong, after an offshore fundraising\nboom raised concerns over deal quality, people familiar with the matter said.\n\n"
+  },
+  {
+    "title": "Japan Yield Curve Flattens on BOJ Hike Bets After Bond Meltdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fjapan-yield-curve-flattens-on-boj-hike-bets-after-bond-meltdown",
+    "published": "Fri, 23 Jan 2026 05:35:39 CST",
+    "summary": "Japan’s shorter-maturity bond yields rose after the Bank of Japan raised its\ninflation outlook, while pressure on the long-end continued to ease following\na sharp selloff earlier this week.\n\n"
+  },
+  {
+    "title": "Pop Mart Short Bets Keep Rising in Defiance of Buyback Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fpop-mart-short-bets-keep-rising-in-defiance-of-buyback-rally",
+    "published": "Fri, 23 Jan 2026 04:58:40 CST",
+    "summary": "Pop Mart International Group Ltd.’s first share buyback in nearly two years\nhas failed to shake the conviction of short sellers, even as a sharp rally\nmakes their bearish bets increasingly risky.\n\n"
+  },
+  {
+    "title": "Rental Firm EquipmentShare.com Raises $747.3 Million in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Frental-firm-equipmentshare-com-raises-747-3-million-in-us-ipo",
+    "published": "Fri, 23 Jan 2026 04:48:17 CST",
+    "summary": "EquipmentShare.com Inc. raised $747.3 million in its US initial public\noffering, pricing its shares at the midpoint of the marketed range.\n\n"
+  },
+  {
+    "title": "India Scraps More South American Soy Oil Cargoes as Rupee Slumps",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Findia-scraps-more-south-american-soy-oil-cargoes-as-rupee-slumps",
+    "published": "Fri, 23 Jan 2026 04:42:20 CST",
+    "summary": "India, the world’s largest vegetable oil buyer, canceled more soybean oil\nshipments from South America as the rupee’s slump to a record low widened the\nprice gap between local and imported oil.\n\n"
+  },
+  {
+    "title": "China Construction Bank Plans 100 Wealth Hires in HK",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fchina-construction-bank-plans-100-wealth-hires-in-hk-video",
+    "published": "Fri, 23 Jan 2026 04:27:37 CST",
+    "summary": "China Construction Bank (Asia) plans to hire 100 people in Hong Kong over the\nnext two years to capitalize on the growth of the wealth management sector.\nThe bank’s Deputy Chief Executive, Annie Chen, discussed the outlook for the\nprivate banking business on Bloomberg’s The China Show. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Yen Likely to Remain Weak After BOJ Holds, Strategists Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-likely-to-remain-weak-after-boj-holds-rates-strategists-say",
+    "published": "Fri, 23 Jan 2026 04:17:37 CST",
+    "summary": "The yen is unlikely to stanch its recent weakness after the Bank of Japan held\nrates as expected, according to strategists, who saw the decision as tilting\nslightly hawkish.\n\n"
+  },
+  {
+    "title": "‘Quiet-Quitting’ of US Assets Fuels Boom in Bets From EM to Gold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Femerging-markets-rocket-with-gold-as-de-dollarization-picks-up",
+    "published": "Fri, 23 Jan 2026 04:13:12 CST",
+    "summary": "Emerging-market stocks, currencies and precious metals are extending a\nstorming start to 2026 as tensions between the US and Europe weigh on the\ndollar and re-energize diversification flows around the world.\n\n"
+  },
+  {
+    "title": "PBOC’s Record Fund Injection Cements Dovish Stance for Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fpboc-s-record-fund-injection-cements-dovish-stance-for-markets",
+    "published": "Fri, 23 Jan 2026 03:50:46 CST",
+    "summary": "China’s central bank injected a record amount of funds into the banking system\nthrough longer-dated liquidity tools in January, reinforcing its commitment to\nmonetary easing and supporting markets with ample liquidity.\n\n"
+  },
+  {
+    "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-sold-app-content-algorithm.html",
+    "published": "Fri, 23 Jan 2026 03:36:54 CST",
+    "summary": "The popular short form video app has a new corporate structure in the United\nStates, which could result in some changes for the 200 million Americans who\nuse TikTok.\n\n"
+  },
+  {
+    "title": "Intel Tumbles As Manufacturing Snags Hit Comeback | The Asia Trade 1/23/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fthe-asia-trade-1-23-2025-video",
+    "published": "Fri, 23 Jan 2026 03:36:19 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Copper Nears $13,000 as Rally Gathers Pace With Other Metals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcopper-nears-13-000-as-rally-gathers-pace-with-other-metals",
+    "published": "Fri, 23 Jan 2026 03:35:10 CST",
+    "summary": "Copper climbed toward $13,000 a ton, rising along with other metals on dollar\nweakness and a broad investor rotation away from currencies and sovereign\nbonds.\n\n"
+  },
+  {
+    "title": "Here’s Who Just Bought TikTok",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-investors-oracle-mgx-silver-lake-bytedance.html",
+    "published": "Fri, 23 Jan 2026 03:32:40 CST",
+    "summary": "Several big companies and investment firms are part of the new American\nTikTok. Many have ties to one another and President Trump.\n\n"
+  },
+  {
+    "title": "Yen Weakens Against Dollar After BOJ Holds Benchmark Rate",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-weakens-against-dollar-after-boj-holds-benchmark-rate",
+    "published": "Fri, 23 Jan 2026 03:13:48 CST",
+    "summary": "The yen weakened after the Bank of Japan left its benchmark interest rate\nunchanged, falling as much as 0.2% to 158.74 to a dollar.\n\n"
+  },
+  {
+    "title": "RBNZ’s Breman Defends Support for Powell Over Fed Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Frbnz-s-breman-defends-support-for-powell-over-fed-independence",
+    "published": "Fri, 23 Jan 2026 03:00:25 CST",
+    "summary": "Reserve Bank of New Zealand Governor Anna Breman defended her decision to back\nFederal Reserve Chair Jerome Powell, after the move drew a rebuke from the\nSouth Pacific nation’s foreign minister for straying into US politics.\n\n"
+  },
+  {
+    "title": "Battered Small-, Mid-Cap Stocks Are Back on Indian Money Managers’ Radar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-23%2Flittle-respite-seen-for-rupee-icici-prudential-to-reopen-small-cap-fund",
+    "published": "Fri, 23 Jan 2026 02:45:42 CST",
+    "summary": "ICICI Prudential Mutual Fund is reopening its small-cap fund from today.\n\n"
+  },
+  {
+    "title": "TikTok Seals Deal to Operate in the US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ftiktok-seals-deal-to-operate-in-the-us-video",
+    "published": "Fri, 23 Jan 2026 02:44:20 CST",
+    "summary": "TikTok and its Chinese parent ByteDance have closed a long-awaited deal to\ntransfer parts of their US operations to American investors. Bloomberg’s\nAnnabelle Droulers shares what we know.\n\n"
+  },
+  {
+    "title": "Why Indonesia’s Rupiah Hit a Record Low in January",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fidr-usd-why-is-indonesia-rupiah-so-weak-how-is-its-economy-affected",
+    "published": "Fri, 23 Jan 2026 02:40:35 CST",
+    "summary": "Indonesia’s rupiah has been under sustained pressure for months as investors\ngrow uneasy about the country’s fiscal outlook and the direction of economic\npolicy. Those concerns pushed the currency to a record low against the dollar\nin January, despite intervention by the central bank to smooth its decline.\n\n"
+  },
+  {
+    "title": "RBNZ’s Breman Declines to Push Back on Rate-Hike Expectations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Frbnz-s-breman-declines-to-push-back-on-rate-hike-expectations",
+    "published": "Fri, 23 Jan 2026 02:31:25 CST",
+    "summary": "Reserve Bank of New Zealand Governor Anna Breman declined to push back against\nmarket expectations for an interest-rate hike this year, a shift in tone from\ncomments she made just weeks ago.\n\n"
+  },
+  {
+    "title": "Modi’s Party Has Edge in State Polls With Big Cash Stockpile",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmodi-s-party-has-edge-in-state-polls-with-big-cash-stockpile",
+    "published": "Fri, 23 Jan 2026 02:30:00 CST",
+    "summary": "Prime Minister Narendra Modi’s Bharatiya Janata Party has a cash stockpile of\nnearly $1.3 billion while its main rival has just 6.6% of that amount, giving\nIndia’s ruling party a strong advantage ahead of key state elections.\n\n"
   },
   {
     "title": "Trump Could Begin Flying on Plane Donated by Qatar by Summer",
@@ -18,76 +168,22 @@
     "summary": "It remains unclear whether the aircraft would get the full Air Force One\nsecurity upgrades, which industry experts said could take up to two years to\ncomplete.\n\n"
   },
   {
-    "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
-    "published": "Fri, 23 Jan 2026 02:07:49 CST",
-    "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
-  },
-  {
     "title": "Trump Sues JPMorgan, Saying the Bank Closed His Accounts for Political Reasons",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjpmorgan-trump-lawsuit.html",
     "published": "Fri, 23 Jan 2026 02:01:53 CST",
     "summary": "The lawsuit, citing “political discrimination,” said the banking giant told\nPresident Trump shortly after the Jan. 6 attack on the Capitol that it would\nclose his accounts.\n\n"
   },
   {
-    "title": "In Trump v. Dimon, Years of Strain Culminate in $5 Billion Suit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fin-trump-v-dimon-years-of-strain-culminate-in-5-billion-suit",
-    "published": "Fri, 23 Jan 2026 01:36:11 CST",
-    "summary": "JPMorgan Chase & Co. Chief Executive Officer Jamie Dimon was heading home\nafter another whirlwind trip to Davos, when the news hit: President Donald\nTrump was suing him and his bank for $5 billion.\n\n"
-  },
-  {
-    "title": "China Sets Yuan Fixing Stronger Than 7 for First Time Since 2023",
+    "title": "China Paves Way for Yuan Gains as PBOC Boosts Fix Beyond 7",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchina-sets-yuan-fixing-stronger-than-7-for-first-time-since-2023",
     "published": "Fri, 23 Jan 2026 01:24:59 CST",
-    "summary": "China’s central bank set the yuan’s daily reference rate stronger than the\nclosely watched 7-per-dollar level for the first time in over two years, in\nthe latest sign of policymakers’ intention to allow further appreciation in\nthe currency.\n\n"
+    "summary": "China opened the door for further yuan gains, as the central bank strengthened\nthe daily reference rate by the most since August, pushing it past a closely\nwatched level.\n\n"
   },
   {
-    "title": "Indonesia’s Merdeka Gold Is Said to Hire Banks for Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Findonesia-s-merdeka-gold-is-said-to-hire-banks-for-hong-kong-listing",
-    "published": "Fri, 23 Jan 2026 01:23:54 CST",
-    "summary": "Indonesian miner PT Merdeka Gold Resources has hired investment banks to work\non its listing in Hong Kong, according to people familiar with the matter, as\ngold prices are scaling fresh heights.\n\n"
-  },
-  {
-    "title": "US Calls on Data Centers to Prepare Backup Power Ahead of Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-calls-on-data-centers-to-prepare-backup-power-ahead-of-storm",
-    "published": "Fri, 23 Jan 2026 01:15:48 CST",
-    "summary": "The US government asked the nation’s grid operators to make backup power\navailable from facilities including data centers as a record-breaking winter\nstorm threatens blackouts across the country.\n\n"
-  },
-  {
-    "title": "Former Citigroup Banker Draws $2 Billion for New India Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fformer-citigroup-banker-draws-2-billion-for-new-india-firm",
-    "published": "Fri, 23 Jan 2026 01:00:55 CST",
-    "summary": "A former private banker at Citigroup Inc. has attracted almost $2 billion in\nassets for his new investment firm in India by tapping a growing wealth market\nthat he thinks could be worth at least $10 trillion in a decade.\n\n"
-  },
-  {
-    "title": "UBS Asset Sees Yuan’s Path to 10% Share of Global Reserves",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-asset-sees-yuan-s-path-to-10-share-of-global-reserves",
-    "published": "Fri, 23 Jan 2026 00:56:58 CST",
-    "summary": "China stands to benefit if investors increase portfolio diversification amid\nescalating concerns over US policies, according to UBS Asset Management.\n\n"
-  },
-  {
-    "title": "Li Auto Shorts Climb to Record as EV Competition Intensifies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fli-auto-shorts-climb-to-record-as-ev-competition-intensifies",
-    "published": "Fri, 23 Jan 2026 00:36:20 CST",
-    "summary": "After earning a reputation as one of Asia’s most profitable short trades last\nyear, Li Auto Inc.’s bearish bets are jumping to record levels as the company\nstruggles to fend off rivals in the premium SUV market.\n\n"
-  },
-  {
-    "title": "Singapore Begins Allocating $3.9 Billion to Boost Local Stocks",
+    "title": "Singapore Begins Allocating $3.9 Billion to Boost Stocks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsingapore-begins-allocating-3-9-billion-to-boost-local-stocks",
     "published": "Fri, 23 Jan 2026 00:21:43 CST",
     "summary": "Singapore has started handing out part of the S$5 billion ($3.9 billion) it\nplans to invest in local stocks to selected fund managers, in a bid to cement\nan equity market revival.\n\n"
-  },
-  {
-    "title": "Malaysia’s Strong Ringgit Squeezes Export Reliant Glove Makers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmalaysia-s-strong-ringgit-squeezes-export-reliant-glove-makers",
-    "published": "Fri, 23 Jan 2026 00:00:00 CST",
-    "summary": "Malaysia’s world-leading producers of latex gloves are facing tightened profit\nmargins as the nation’s strong currency bites into dollar-denominated\nearnings, underscoring challenges of the nation’s exporters.\n\n"
-  },
-  {
-    "title": "Designer Jonathan Adler on Branding, Barneys & What's Next",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fdesigner-jonathan-adler-on-branding-video",
-    "published": "Thu, 22 Jan 2026 23:53:59 CST",
-    "summary": "Jonathan Adler, chief creative officer, and Mary Beth Sheridan, president of\nJonathan Adler, discuss how tariff uncertainty is weighing on luxury goods\nwith Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
   },
   {
     "title": "China’s AI Stocks With Killer Apps are Winning Investor Favor",
@@ -96,22 +192,10 @@
     "summary": "As China’s homegrown artificial intelligence boom enters its second year,\ninvestors are piling into shares of companies with killer apps in a hunt for\nearnings that justify surging valuations.\n\n"
   },
   {
-    "title": "NYC Could See 16 Inches of Snow in Storm Sweeping Eastern US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fnyc-could-see-16-inches-of-snow-in-major-storm-video",
-    "published": "Thu, 22 Jan 2026 23:37:19 CST",
-    "summary": "Record-breaking cold across the central and eastern US is fueling the season’s\nlargest winter storm, threatening to freeze Texas, ground flights, ice power\nlines, and leave up to 16 inches of snow in the New York City metropolitan\narea. Southern states are expected to see extreme ice conditions, and\nWashington, Philadelphia and Boston are also expected to see snowfall. If the\nforecast holds, it would be the biggest snowstorm to hit Manhattan since 2021,\nbased on snowfall records at Central Park. Bloomberg Meteorologist Craig Allen\njoins Bloomberg Businessweek Daily to discuss. He speaks with Carol Massar and\nTim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Fmr. E*Trade CEO: Private Markets Must Promote Education",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ffmr-e-trade-ceo-private-markets-must-promote-education-video",
-    "published": "Thu, 22 Jan 2026 23:35:53 CST",
-    "summary": "Mitchell Caplan, CEO of Willow Wealth and former E*TRADE CEO, says the firm\nfocuses on emerging high-net-worth clients who fall between mass affluent and\nultra-high-net-worth investors and tend to be more sophisticated. He speaks\nwith Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Oil Rises as Weak Dollar and Risk-On Mood Offset Glut Worries",
+    "title": "Oil Climbs as Weak Dollar and Risk-On Mood Counter Glut Worries",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Flatest-oil-market-news-and-analysis-for-jan-23",
     "published": "Thu, 22 Jan 2026 23:29:56 CST",
-    "summary": "Oil gained as a risk-on mood in wider markets and a weaker dollar offset\nconcerns about higher supplies in the US and elsewhere.\n\n"
+    "summary": "Oil gained as a weaker dollar and risk-on mood in wider markets offset\nconcerns about higher supplies in the US and elsewhere.\n\n"
   },
   {
     "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
@@ -132,22 +216,10 @@
     "summary": "The Metals Company, a prominent seabed-mining company, applauded the change\nand filed a new application more than doubling the area it hopes to mine.\n\n"
   },
   {
-    "title": "US High-Grade Corporate Bond Spreads Hit Fresh Three Decade Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fus-high-grade-corporate-bond-spreads-hit-fresh-three-decade-low",
-    "published": "Thu, 22 Jan 2026 23:25:27 CST",
-    "summary": "A key measure of credit risk reached the lowest level since the late 1990s on\nThursday, after geopolitical tensions cooled and fears of a global economic\nslowdown abated.\n\n"
-  },
-  {
-    "title": "BlackRock's Laipply: Maintain Your Inflation Protection",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fblackrock-s-laipply-maintain-your-inflation-protection-video",
-    "published": "Thu, 22 Jan 2026 23:21:12 CST",
-    "summary": "Stephen Laipply, global co-head of iShares fixed income ETFs at BlackRock,\nsays multi-sector portfolios should include some inflation protection. He\nspeaks with Romaine Bostick and Katie Greifeld on “The Close.” (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Gold Rises Toward $5,000 as Weaker Dollar Adds Impetus to Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgold-climbs-to-record-as-weaker-dollar-extends-scorching-rally",
     "published": "Thu, 22 Jan 2026 23:17:27 CST",
-    "summary": "Gold rose to a record high near $5,000 an ounce, as geopolitical risk and\nthreats to the Federal Reserve’s independence added support to a rally fueled\nby a retreat from currencies and bonds.\n\n"
+    "summary": "Gold closed in on $5,000 an ounce, with geopolitical risks and renewed threats\nto the Federal Reserve’s independence supporting a record-breaking rally.\n\n"
   },
   {
     "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
@@ -156,46 +228,16 @@
     "summary": "US president alleges JP Morgan stopped offering him banking services in wake\nof January 6 attack\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that the bank stopped offering him banking services\nin the wake of the Capitol riot on January 6. Earlier this month, he claimed\nit had “incorrectly and inappropriately” discriminated against him.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Huntington Bancshares CEO: #1 Priority is Organic Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fhuntington-bancshares-ceo-1-priority-is-organic-growth-video",
-    "published": "Thu, 22 Jan 2026 23:06:35 CST",
-    "summary": "Stephen Steinour, CEO of Huntington Bank, discusses earnings and growth with\nRomaine Bostick and Katie Greifeld on “The Close.” He says the company’s\nexpansion into North and South Carolina is a major move for the bank. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Hong Kong Builder New World Makes Progress Escaping Distress",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fsome-new-world-bonds-surge-over-200-as-builder-seeks-stability",
-    "published": "Thu, 22 Jan 2026 23:00:00 CST",
-    "summary": "New World Development Co., the Hong Kong property firm that’s become\nemblematic of the city’s efforts to shake off a property slump, has rallied on\nsteps to shore up liquidity.\n\n"
-  },
-  {
-    "title": "Activist Says Japanese Founding Families Failing to Boost Shares",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Factivist-says-japanese-founding-families-failing-to-boost-shares",
-    "published": "Thu, 22 Jan 2026 23:00:00 CST",
-    "summary": "A London-based activist investor has fired off a series of letters to the\ndirectors of two Japanese companies largely owned by their founding families\nsaying they are responsible for share prices at “extremely depressed” levels.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: Intel, Clorox, Capital One and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-after-hours-intc-clx-cof.html",
     "published": "Thu, 22 Jan 2026 22:46:08 CST",
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "Stocks Extend Gains, Gold Rises as Dollar Weakens: Markets Wrap",
+    "title": "Asian Stocks Rise, Gold Near $5,000 on Weak Dollar: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Asian stocks rose and the dollar weakened as global investors sought a\nrotation of US assets amid policy unpredictability and geopolitical risks.\n\n"
-  },
-  {
-    "title": "Alaska Air Offers Cautious 2026 Outlook After Earnings Beat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Falaska-air-offers-cautious-2026-outlook-after-earnings-beat",
-    "published": "Thu, 22 Jan 2026 22:17:49 CST",
-    "summary": "Alaska Air Group Inc. seized on strong demand for premium and business travel\nto beat Wall Street’s expectations for the final months of the year, though it\njoined larger rivals in offering a more tepid outlook for 2026.\n\n"
-  },
-  {
-    "title": "Texas Declares Disaster as Season’s Biggest Storm Approaches",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Ftexas-declares-disaster-as-storm-approaches-video",
-    "published": "Thu, 22 Jan 2026 22:08:47 CST",
-    "summary": "Texas Governor Greg Abbott issued disaster declarations for more than half the\ncounties in the state ahead of a powerful winter storm. Bloomberg's Lauren\nRosenthal explains. (Source: Bloomberg)\n\n"
+    "summary": "Asian stocks climbed to a record and the dollar held its losses as global\ninvestors favored non-US assets amid policy unpredictability and geopolitical\nrisks. Precious metals also set new all-time highs.\n\n"
   },
   {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
@@ -208,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F",
     "published": "Thu, 22 Jan 2026 21:43:30 CST",
     "summary": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie\nDimon, saying the bank abruptly closed his accounts.\n\n"
-  },
-  {
-    "title": "Ukraine Wins S&amp;P Upgrade After Revamp of Growth-Linked Debt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fukraine-wins-s-p-upgrade-after-restructuring-growth-linked-debt",
-    "published": "Thu, 22 Jan 2026 21:34:32 CST",
-    "summary": "Ukraine’s credit score was raised by S&P Global Ratings after the country\ncompleted the restructuring of its growth-linked debt into conventional bonds.\n\n"
   },
   {
     "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
@@ -260,13 +296,13 @@
   {
     "title": "Trump Returns to a Familiar Role: Sowing Trade Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
-    "published": "Thu, 22 Jan 2026 19:26:05 CST",
+    "published": "Thu, 22 Jan 2026 19:26:06 CST",
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
   },
   {
     "title": "Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fconsumer-prices-inflation-economy.html",
-    "published": "Thu, 22 Jan 2026 19:21:18 CST",
+    "published": "Thu, 22 Jan 2026 19:21:19 CST",
     "summary": "The Federal Reserve’s preferred gauge for inflation in October and November\nwas released belatedly after the government shutdown.\n\n"
   },
   {
@@ -276,15 +312,9 @@
     "summary": "After the latest bout of trade turmoil with the United States, European\nleaders are looking for ways to project strength to the Trump administration,\nwhich considers them weak.\n\n"
   },
   {
-    "title": "Ex-Goldman Banker Leissner Seeks Pardon in 1MDB Fraud Case",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fex-goldman-banker-who-pleaded-guilty-in-1mdb-fraud-seeks-pardon",
-    "published": "Thu, 22 Jan 2026 19:15:06 CST",
-    "summary": "Tim Leissner, the former Goldman Sachs Group Inc. banker who admitted his role\nin one of the largest financial frauds in history, is seeking a presidential\npardon before he surrenders to a federal prison.\n\n"
-  },
-  {
     "title": "Malfunction Forces Japan to Take Restarted Nuclear Plant Offline",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjapan-nuclear-offline.html",
-    "published": "Thu, 22 Jan 2026 19:11:27 CST",
+    "published": "Thu, 22 Jan 2026 19:11:28 CST",
     "summary": "The setback occurred hours after one of the world’s largest nuclear complexes\nrestarted, ending more than a decade of dormancy following the 2011 Fukushima\nDaiichi meltdown.\n\n"
   },
   {
@@ -360,12 +390,6 @@
     "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings,\nbut the company's revenue was weaker than expected.\n\n"
   },
   {
-    "title": "BCI’s $182 Billion Pension Fund Names Jon Salon Head of Private Equity Unit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fbci-s-182-billion-pension-fund-names-jon-salon-head-of-pe-unit",
-    "published": "Thu, 22 Jan 2026 14:12:20 CST",
-    "summary": "British Columbia Investment Management Corp. named Jon Salon as the new global\nhead of private equity, succeeding industry veteran Jim Pittman, who is\nleaving the pension plan at the end of the month.\n\n"
-  },
-  {
     "title": "‘Not a typical day’: makers of Macron’s sunglasses deluged with demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Femmanuel-macron-french-president-sunglasses-davos",
     "published": "Thu, 22 Jan 2026 13:30:54 CST",
@@ -402,12 +426,6 @@
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Phones Go Dark as Vietnam Tightens Security for Party Conclave",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fphones-go-dark-as-vietnam-tightens-security-for-communist-party-conclave",
-    "published": "Thu, 22 Jan 2026 10:40:50 CST",
-    "summary": "The western districts of Hanoi, home to wide boulevards and a national\nstadium, are far removed from the dense street life of the Old Quarter. But\nthey’ve taken on an even more austere tone this week as Vietnam’s most\npowerful officials gather to select the country’s next leaders.\n\n"
-  },
-  {
     "title": "Taco Thursday: European and US stocks rise after Trump ‘chickens out’ over tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F22%2Ftaco-thursday-european-stocks-rise-trump-chickens-out-on-tariff-threat",
     "published": "Thu, 22 Jan 2026 10:24:06 CST",
@@ -418,12 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fstudent-loan-cap-graduate-nursing.html",
     "published": "Thu, 22 Jan 2026 10:02:23 CST",
     "summary": "Two different nursing school programs in Ohio offer a glimpse into what may\nhappen when federal student borrowing has limits.\n\n"
-  },
-  {
-    "title": "Venezuela’s Questionable Oil Figures Are Now Trump’s to Tout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Ftrump-lays-claim-to-venezuela-s-questionable-oil-reserves",
-    "published": "Thu, 22 Jan 2026 10:00:00 CST",
-    "summary": "On paper, Venezuela has enough oil reserves to maintain production at current\nlevels for more than 800 years, an enticing prospect for the White House as it\npushes Big Oil to get the petrostate gushing again.\n\n"
   },
   {
     "title": "China Wins as Trump Cedes Leadership of the Global Economy",
@@ -476,7 +488,7 @@
   {
     "title": "Judge Blocks Government From Reviewing Seized Washington Post Devices",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fwashington-post-reporter-search-first-amendment.html",
-    "published": "Wed, 21 Jan 2026 21:38:03 CST",
+    "published": "Wed, 21 Jan 2026 21:38:04 CST",
     "summary": "The Post, in its first legal filing since the government searched the home of\na reporter last week, had demanded the return of the seized materials.\n\n"
   },
   {
@@ -792,12 +804,6 @@
     "summary": "Many people use their vacation time each year. These people take ownership of\ntheir jobs, and make sure they get them done\n\nA recent survey of more than 3,000 US workers for employment search site\nFlexJobs found that almost a quarter didn’t take a vacation day during the\npast year and – more concerning to the study’s authors – as many as 82% “avoid\nusing” their accrued time off. Why?\n\nKelsey Szamet, an employment lawyer, says the reason is a shift in mentality.\n“Many employees are concerned about the security of their jobs,” she told\nQuartz. “The adoption of AI and automation technologies has allowed employees\nto actually consider their own replaceability before requesting a leave or a\nholiday, or any kind of time-off benefit.”\n\nContinue reading...\n\n"
   },
   {
-    "title": "Prominent Architecture Firm Is Accused of Illegally Ousting Employees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fsnohetta-nlrb-complaint.html",
-    "published": "Mon, 19 Jan 2026 10:02:17 CST",
-    "summary": "A federal labor regulator says the firm, Snohetta, laid off eight employees in\nretaliation for trying to unionize.\n\n"
-  },
-  {
     "title": "I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:05 CST",
@@ -874,12 +880,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
     "published": "Thu, 15 Jan 2026 21:39:10 CST",
     "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
-  },
-  {
-    "title": "Morgan Stanley earnings top estimates driven by wealth management",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fmorgan-stanley-ms-q4-2025-earnings.html",
-    "published": "Thu, 15 Jan 2026 20:02:04 CST",
-    "summary": "The wealth management unit posted $8.4 billion in net revenue in the most\nrecent quarter, up from $7.5 billion a year earlier.\n\n"
   },
   {
     "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
