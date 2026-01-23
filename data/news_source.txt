@@ -1,9 +1,75 @@
 [
   {
-    "title": "There's a new idea of alpha in the market that big fund managers are pursuing",
+    "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Fri, 23 Jan 2026 16:50:56 CST",
+    "summary": "Ice, sleet and possibly significant snowfall are threatening to snarl travel\nin much of the eastern U.S. starting on Friday. Here’s what to know.\n\n"
+  },
+  {
+    "title": "No Evidence of 'Sell America' Trade: Herr",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fno-evidence-of-sell-america-trade-herr-video",
+    "published": "Fri, 23 Jan 2026 16:50:02 CST",
+    "summary": "Kay Herr, US CIO for Global Fixed Income, Currencies and Commodities at\nJPMorgan Asset Management, says while the 'Sell America' rhetoric reemerged\nthis week, strong auctions and flows into US fixed income markets suggest\notherwise. She speaks to Bloomberg's Dani Burger and David Gura on\n'Surveillance.' (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bond Volatility Fizzles as Turbulent Week Ends With Small Moves",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbond-volatility-fizzles-as-turbulent-week-ends-with-small-moves",
+    "published": "Fri, 23 Jan 2026 16:47:23 CST",
+    "summary": "The turbulence that rattled financial markets earlier this week has vanished\nfrom the $30 trillion Treasury market, quashing traders’ hopes for a rebound\nin volatility from historic lows.\n\n"
+  },
+  {
+    "title": "Chile Copper Supply Gains Seen Years Away, Mining Council Warns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchile-copper-supply-gains-seen-years-away-mining-council-warns",
+    "published": "Fri, 23 Jan 2026 16:46:43 CST",
+    "summary": "The pro-growth agenda of Chile’s incoming government could bring forward new\ncopper supply, but any meaningful production increase will still take years to\nmaterialize, Chile’s Mining Council warned.\n\n"
+  },
+  {
+    "title": "US Oil Markets Start to Feel Impact of Winter Storm Disruptions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-oil-markets-start-to-feel-impact-of-winter-storm-disruptions",
+    "published": "Fri, 23 Jan 2026 16:41:54 CST",
+    "summary": "Frigid weather sweeping across much of the US is starting to freeze oil and\nnatural gas wells, threatening to disrupt production from North Dakota to\nTexas.\n\n"
+  },
+  {
+    "title": "Greenland Mineral Project Gets Green Light",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fgreenland-mineral-project-gets-green-light-video",
+    "published": "Fri, 23 Jan 2026 16:38:31 CST",
+    "summary": "Denmark's prime minister is set to meet with the Prime Minister of Greenland\ntoday to discuss the territory's future. Tony Sage, the CEO and executive\nchairman of Critical Metals just greenlit the start of construction for a\nstorage and pilot plant facility in Greenland for its rare earth and critical\nminerals project. Sage joined Bloomberg Open Interest to talk about the\nventure in light of uncertainty over Greenland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Betting on Prediction Markets Is Their Job. They Make Millions.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fprediction-markets-polymarket-kalshi.html",
+    "published": "Fri, 23 Jan 2026 16:30:47 CST",
+    "summary": "Welcome to the era of the Polymarket sharp.\n\n"
+  },
+  {
+    "title": "There's a new idea of alpha in the market that big money managers are pursuing",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Finvesting-market-stocks-bonds-gold-cash-commodities.html",
-    "published": "Fri, 23 Jan 2026 15:46:38 CST",
+    "published": "Fri, 23 Jan 2026 16:28:47 CST",
     "summary": "Stock pickers can't beat the S&P 500, and market experts say it's time to stop\ntrying and seek broader portfolio alpha across cash, bonds, gold and\ncommodities.\n\n"
+  },
+  {
+    "title": "Thyssenkrupp Explores Selling 30% in Rothe Erde Unit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fthyssenkrupp-explores-selling-30-in-rothe-erde-unit",
+    "published": "Fri, 23 Jan 2026 15:52:41 CST",
+    "summary": "Thyssenkrupp AG is considering the sale of a roughly 30% stake in its Rothe\nErde bearings business, people familiar with the matter said, in a deal that\ncould value the asset at about €1.5 billion ($1.8 billion).\n\n"
+  },
+  {
+    "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
+    "published": "Fri, 23 Jan 2026 15:52:40 CST",
+    "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nA “no work, no school, no shopping” blackout day of protest was kicked off by\ncommunity leaders, faith leaders and labor unions on Friday in protest against\nthe Immigration and Customs Enforcement (ICE) surge in the state.\n\nThe “Day of Truth & Freedom” protest comes in the wake of the killing of Renee\nGood, the unarmed woman killed by a federal immigration officer in Minneapolis\nearlier this month.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Silver Tops $100 as Global Turmoil Fuels Run for Safe Havens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsilver-tops-100-as-global-turmoil-fuels-run-for-safe-havens",
+    "published": "Fri, 23 Jan 2026 15:52:10 CST",
+    "summary": "Silver topped $100 an ounce for the first time, extending a scorching rally\nbuilt on surging demand for haven assets and frenzied buying in retail markets\nfrom Shanghai to New York.\n\n"
+  },
+  {
+    "title": "Partners Group CEO Says It's a Great Time to Invest in Private Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fpartners-group-ceo-layton-recommends-private-markets-video",
+    "published": "Fri, 23 Jan 2026 15:48:56 CST",
+    "summary": "\"If you want to build a balanced portfolio you need to have private markets as\na part of that,\" Partners Group CEO David Layton says while discussing the\ncompany's investment strategy and the state of private wealth markets on\n\"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "World’s Best Equity Rally Draws Foreign Investors Into Brazil",
@@ -38,7 +104,7 @@
   {
     "title": "Storm Poses Big Threats to Power Grids Across U.S.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
-    "published": "Fri, 23 Jan 2026 15:04:21 CST",
+    "published": "Fri, 23 Jan 2026 15:04:22 CST",
     "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
   },
   {
@@ -60,10 +126,10 @@
     "summary": "US businesses kicked off the new year with only a slight improvement in\nactivity, keeping a lid on demand for workers.\n\n"
   },
   {
-    "title": "US Stocks Slip at End of Turbulent Week; Intel Sinks on Earnings",
+    "title": "S&amp;P 500 Steady at End of Turbulent Week; Intel Sinks on Earnings",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-stocks-slip-at-end-of-turbulent-week-intel-sinks-on-earnings",
     "published": "Fri, 23 Jan 2026 14:39:16 CST",
-    "summary": "US equities slipped at the close of a volatile stretch that’s set the S&P 500\nup for its second straight weekly decline as investors recalibrated, turning\ntheir attention back to earnings and monetary policy after a burst of\ngeopolitical noise.\n\n"
+    "summary": "US equities traded little changed at the close of a volatile stretch that’s\nset the S&P 500 up for its second straight weekly decline as investors turned\ntheir attention back to earnings and monetary policy after a burst of\ngeopolitical noise.\n\n"
   },
   {
     "title": "PF Mira Fundo de Pensão do Rio em Nova Etapa do Caso Master",
@@ -76,12 +142,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmassive-storm-to-bring-snow-ice-to-dozens-of-us-states-video",
     "published": "Fri, 23 Jan 2026 14:24:31 CST",
     "summary": "Winter-storm conditions that could last days, disrupting travel and\nthreatening blackouts, are set to impact a vast swath of the US this weekend.\nA mix of freezing rain and snow is expected to arrive in Texas by Friday\nevening with the storm expected to barrel toward the US Northeast through the\nweekend. AccuWeather Meteorologist Bill Wadell tells us what to expect from\nthe storm. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Markets Have Already Anticipated the Good Stuff About to Happen, BofA’s Subramanian Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmarkets-have-already-anticipated-the-good-stuff-bofa-video",
-    "published": "Fri, 23 Jan 2026 14:12:46 CST",
-    "summary": "Savita Subramanian, US equity and quantitative strategy global research head\nat Bank of America, shares her concerns for equity markets over the next 12\nmonths as she sees investors “talking about the good stuff and not the bad\nstuff.” (Source: Bloomberg)\n\n"
   },
   {
     "title": "Five Ways People Are Using Claude Code",
@@ -106,18 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fyour-money%2F401k-contributions-catch-up-roth-retirement.html",
     "published": "Fri, 23 Jan 2026 14:00:05 CST",
     "summary": "Older high-income workers who make contributions beyond the standard amount\nwill have to put that extra money into a Roth 401(k). That may lower their\ntake-home pay.\n\n"
-  },
-  {
-    "title": "UBS Reverses Bearish Siemens Energy Call After 165% Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-reverses-bearish-siemens-energy-call-after-165-rally",
-    "published": "Fri, 23 Jan 2026 13:50:41 CST",
-    "summary": "Almost exactly a year after slapping a sell rating on Siemens Energy AG, UBS\nGroup AG has turned positive on one of Europe’s best-performing largecaps.\n\n"
-  },
-  {
-    "title": "Ethanol Push Sees Big Delay After E15 Setback, Trade Group Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fethanol-push-sees-big-delay-after-e15-setback-trade-group-says",
-    "published": "Fri, 23 Jan 2026 13:45:18 CST",
-    "summary": "Efforts to expand the market for corn-based ethanol likely will be\nsignificantly delayed after an attempt to attach a key provision to must-pass\nlegislation failed, according to a major trade group.\n\n"
   },
   {
     "title": "Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF",
@@ -174,34 +222,16 @@
     "summary": "CNBC spoke to executives from Eli Lilly, Novo Nordisk, Pfizer and other\ndrugmakers at the annual JPMorgan Healthcare Conference in San Francisco.\n\n"
   },
   {
-    "title": "Wheat Extends Gain on Worries Freezing Weather Will Hurt Crops",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fwheat-extends-gain-on-worries-freezing-weather-will-hurt-crops",
-    "published": "Fri, 23 Jan 2026 12:49:43 CST",
-    "summary": "Wheat futures rose for a second day in Chicago amid concern freezing weather\nin the US and Russia could damage crops, while traders kept an eye on\ngeopolitical tensions.\n\n"
-  },
-  {
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwall-street-private-credit-risk-rising.html",
     "published": "Fri, 23 Jan 2026 12:48:57 CST",
     "summary": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated\n$4.9 trillion by 2029. Wall Street is starting to raise alarms about the\nrisks.\n\n"
   },
   {
-    "title": "India’s Russian Oil Trade Endures Despite Mounting US Pressure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-23%2Findia-s-russian-oil-trade-endures-despite-mounting-us-pressure",
-    "published": "Fri, 23 Jan 2026 12:40:33 CST",
-    "summary": "The country’s biggest buyers currently have little incentive to abandon crude\npurchases from Moscow.\n\n"
-  },
-  {
     "title": "Nvidia’s Huang to visit China as AI chip sales stall",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fnvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
     "published": "Fri, 23 Jan 2026 12:31:43 CST",
     "summary": "Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar\nNew Year, two people familiar with the matter told CNBC.\n\n"
-  },
-  {
-    "title": "Macron’s Blue Aviators Spur 70% Surge in Tiny Italian Firm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmacron-s-davos-shades-crash-italian-maker-s-site-boost-shares",
-    "published": "Fri, 23 Jan 2026 12:27:02 CST",
-    "summary": "When French President Emmanuel Macron walked out onto a Davos stage sporting a\npair of reflective blue aviator sunglasses, Stefano Fulchir, the CEO of\niVision Tech SpA, did a double take.\n\n"
   },
   {
     "title": "How Trump’s relations with America’s biggest banking boss hit rock bottom",
@@ -228,18 +258,6 @@
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
   },
   {
-    "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
-    "published": "Fri, 23 Jan 2026 11:00:12 CST",
-    "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nA “no work, no school, no shopping” blackout day of protest was kicked off by\ncommunity leaders, faith leaders and labor unions on Friday in protest against\nthe Immigration and Customs Enforcement (ICE) surge in the state.\n\nThe “Day of Truth & Freedom” protest comes in the wake of the killing of Renee\nGood, the unarmed woman killed by a federal immigration officer in Minneapolis\nearlier this month.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "BlueBay Says Yield Spike on Long Japan Debt Has Gone Too Far",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbluebay-says-yield-spike-in-japan-s-long-bonds-has-gone-too-far",
-    "published": "Fri, 23 Jan 2026 10:40:23 CST",
-    "summary": "The jump in yields on Japan’s long-maturity bonds has gone too far, according\nto RBC BlueBay Asset Management, which has initiated a long position in the\nbattered securities.\n\n"
-  },
-  {
     "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fpentagon-overhauls-stars-and-stripes%2F",
     "published": "Fri, 23 Jan 2026 10:00:01 CST",
@@ -250,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fai-corporate-debt-record%2F",
     "published": "Fri, 23 Jan 2026 10:00:00 CST",
     "summary": "Technology companies issued a record $108.7 billion in bonds in the fourth\nquarter, a proliferation that some analysts say puts the broader economy at\nrisk.\n\n"
-  },
-  {
-    "title": "Defense Tycoon Strnad’s Wealth Soars to $37 Billion On IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdefense-tycoon-strnad-s-wealth-soars-to-37-billion-after-ipo",
-    "published": "Fri, 23 Jan 2026 09:31:45 CST",
-    "summary": "Michal Strnad’s wealth surged to $37 billion, or roughly 10% of the Czech\neconomy, after shares in the defense tycoon’s armaments company jumped in\ntheir trading debut.\n\n"
   },
   {
     "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
@@ -288,22 +300,16 @@
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
   },
   {
-    "title": "CSG Jumps in Debut as Investors Clamor for Defense Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcsg-to-debut-after-largest-ever-defense-ipo-raises-3-3-billion",
-    "published": "Fri, 23 Jan 2026 06:00:00 CST",
-    "summary": "Shares in armored vehicle and munitions maker CSG NV surged in their Amsterdam\ndebut on Friday, reflecting strong investor appetite for defense stocks as\nglobal geopolitical tensions rise and Europe boosts military spending.\n\n"
+    "title": "‘Quiet-Quitting’ of US Assets Fuels Fuels Wave of EM, Gold Bets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Femerging-markets-rocket-with-gold-as-de-dollarization-picks-up",
+    "published": "Fri, 23 Jan 2026 04:13:12 CST",
+    "summary": "Emerging-market stocks, currencies and precious metals are extending a\nstorming start to 2026 as tensions between the US and Europe weigh on the\ndollar and re-energize diversification flows around the world.\n\n"
   },
   {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-sold-app-content-algorithm.html",
     "published": "Fri, 23 Jan 2026 03:36:54 CST",
     "summary": "The popular short form video app has a new corporate structure in the United\nStates, which could result in some changes for the 200 million Americans who\nuse TikTok.\n\n"
-  },
-  {
-    "title": "Copper Tops $13,000 as Trump’s Jabs at Fed, Allies Boost Metals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcopper-nears-13-000-as-rally-gathers-pace-with-other-metals",
-    "published": "Fri, 23 Jan 2026 03:35:10 CST",
-    "summary": "Copper rallied above $13,000 a ton, part of a broad-based surge in metal\nmarkets that’s being aided by a growing investor rotation away from currencies\nand sovereign bonds.\n\n"
   },
   {
     "title": "Here’s Who Just Bought TikTok",
@@ -348,10 +354,10 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "Stocks Bounce After Solid Consumer Sentiment Data: Markets Wrap",
+    "title": "Tech Stocks Power Gains Amid Solid Consumer Data: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Wall Street is ending a jittery week on a quiet note, with stock traders\ndigesting the rally of the past two days and shifting their focus to the last\nfew economic reports in the run-up to the Federal Reserve decision.\n\n"
+    "summary": "Wall Street is ending a jittery week on a relatively positive note amid\nrenewed enthusiasm about artificial intelligence and signs of continued\nstrength in the main engine of the world’s largest economy.\n\n"
   },
   {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
@@ -364,12 +370,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F",
     "published": "Thu, 22 Jan 2026 21:43:30 CST",
     "summary": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie\nDimon, saying the bank abruptly closed his accounts.\n\n"
-  },
-  {
-    "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Thu, 22 Jan 2026 21:02:44 CST",
-    "summary": "Ice, sleet and possibly significant snowfall are threatening to snarl travel\nin much of the eastern U.S. starting on Friday. Here’s what to know.\n\n"
   },
   {
     "title": "Lowe's bets on kids, creators and Gen Z as Americans delay homebuying",
@@ -406,6 +406,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
     "published": "Thu, 22 Jan 2026 19:26:06 CST",
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
+  },
+  {
+    "title": "Bloomberg Markets 1/22/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-22%2Fbloomberg-markets-1-22-2026-video",
+    "published": "Thu, 22 Jan 2026 19:23:27 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Bank of\nAmerica Chairman & CEO Brian Moynihan, BlackRock CEO Larry Fink, NATO\nSecretary General Mark Rutte, EU High Representative for Foreign Affairs and\nSecurity Policy, HSBC Head of US Financials Research, PensionBee CEO (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Consumer Prices Rose 2.8 Percent Through November 2025, a Sign of Sticky Inflation",
@@ -454,12 +460,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2F2026%2Fjan%2F22%2Fgullah-geechee-georgia-development-referendum",
     "published": "Thu, 22 Jan 2026 17:00:50 CST",
     "summary": "A citizen referendum, only the second of its kind in Georgia history, seeks to\nblock a zoning amendment\n\nIre Gene Grovner stood behind his house on a recent morning, between chicken\npens on one side and rows of winter collard greens on the other, holding a\nknife and skinning a raccoon splayed across a wood post.\n\n“The meat is good roasted,” Grovner said. He pointed to the collards, a burst\nof green in the winter cold, and the chickens, with their eggs. “If you ain’t\nlazy, you can live good here,” he said, referring to Sapelo Island off the\ncoast of southern Georgia.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Betting on Prediction Markets Is Their Job. They Make Millions.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fprediction-markets-polymarket-kalshi.html",
-    "published": "Thu, 22 Jan 2026 16:59:08 CST",
-    "summary": "Welcome to the era of the Polymarket sharp.\n\n"
   },
   {
     "title": "Supreme Court Hearing Reveals Unease Over Threats to Fed Independence",
