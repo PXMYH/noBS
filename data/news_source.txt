@@ -1,5 +1,53 @@
 [
   {
+    "title": "US Stocks Slip at End of Turbulent Week; Intel Sinks on Earnings",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-stocks-slip-at-end-of-turbulent-week-intel-sinks-on-earnings",
+    "published": "Fri, 23 Jan 2026 14:39:16 CST",
+    "summary": "US equities slipped at the close of a volatile stretch that’s set the S&P 500\nup for its second straight weekly decline as investors recalibrated, turning\ntheir attention back to earnings and monetary policy after a burst of\ngeopolitical noise.\n\n"
+  },
+  {
+    "title": "PF Mira Fundo de Pensão do Rio em Nova Etapa do Caso Master",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fpf-mira-fundo-de-pensao-do-rio-no-caso-master-video",
+    "published": "Fri, 23 Jan 2026 14:27:52 CST",
+    "summary": "A Polícia Federal deflagrou uma operação mirando o fundo de pensão de\nservidores públicos do Rio de Janeiro e seus investimentos no Banco Master, na\nfase mais recente da investigação do que pode ser a maior fraude bancária da\nhistória do país. Original filename: RioPrev.mp4 (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Massive Winter Storm to Bring Snow, Ice to Dozens of US States",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmassive-storm-to-bring-snow-ice-to-dozens-of-us-states-video",
+    "published": "Fri, 23 Jan 2026 14:24:31 CST",
+    "summary": "Winter-storm conditions that could last days, disrupting travel and\nthreatening blackouts, are set to impact a vast swath of the US this weekend.\nA mix of freezing rain and snow is expected to arrive in Texas by Friday\nevening with the storm expected to barrel toward the US Northeast through the\nweekend. AccuWeather Meteorologist Bill Wadell tells us what to expect from\nthe storm. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Markets Have Already Anticipated the Good Stuff About to Happen, BofA’s Subramanian Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fmarkets-have-already-anticipated-the-good-stuff-bofa-video",
+    "published": "Fri, 23 Jan 2026 14:12:46 CST",
+    "summary": "Savita Subramanian, US equity and quantitative strategy global research head\nat Bank of America, shares her concerns for equity markets over the next 12\nmonths as she sees investors “talking about the good stuff and not the bad\nstuff.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Five Ways People Are Using Claude Code",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html",
+    "published": "Fri, 23 Jan 2026 14:12:04 CST",
+    "summary": "Claude Code generates computer code when people type prompts, so those with no\ncoding experience can create their own programs and apps.\n\n"
+  },
+  {
+    "title": "Blackstone-Backed Leica Camera Weighs €1 Billion Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackstone-backed-leica-camera-weighs-1-billion-sale",
+    "published": "Fri, 23 Jan 2026 14:03:51 CST",
+    "summary": "Leica Camera AG’s owners are considering a sale of a controlling stake in the\nGerman camera maker, which could be valued at about €1 billion ($1.2 billion)\nin a deal, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Low Rates Sound Great. But a Trump Fed Could Cause a Painful ‘Sugar High.’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftrump-fed-interest-rates-inflation.html",
+    "published": "Fri, 23 Jan 2026 14:00:06 CST",
+    "summary": "Dropping rates more than conditions warrant would stimulate the economy in the\nshort term but could lead to trouble, our columnist says.\n\n"
+  },
+  {
+    "title": "What to Know About New Rules for 401(k) ‘Catch-Up’ Contributions in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fyour-money%2F401k-contributions-catch-up-roth-retirement.html",
+    "published": "Fri, 23 Jan 2026 14:00:05 CST",
+    "summary": "Older high-income workers who make contributions beyond the standard amount\nwill have to put that extra money into a Roth 401(k). That may lower their\ntake-home pay.\n\n"
+  },
+  {
     "title": "UBS Reverses Bearish Siemens Energy Call After 165% Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-reverses-bearish-siemens-energy-call-after-165-rally",
     "published": "Fri, 23 Jan 2026 13:50:41 CST",
@@ -10,6 +58,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fethanol-push-sees-big-delay-after-e15-setback-trade-group-says",
     "published": "Fri, 23 Jan 2026 13:45:18 CST",
     "summary": "Efforts to expand the market for corn-based ethanol likely will be\nsignificantly delayed after an attempt to attach a key provision to must-pass\nlegislation failed, according to a major trade group.\n\n"
+  },
+  {
+    "title": "Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F23%2Fai-tsunami-labour-market-youth-employment-says-head-of-imf-davos",
+    "published": "Fri, 23 Jan 2026 13:35:53 CST",
+    "summary": "Kristalina Georgieva says research suggests 60% of jobs in advanced economies\nwill be affected, with many entry-level roles wiped out\n\nArtificial intelligence will be a “tsunami hitting the labour market”, with\nyoung people worst affected, the head of the International Monetary Fund\nwarned the World Economic Forum on Friday.\n\nKristalina Georgieva told delegates in Davos that the IMF’s own research\nsuggested there would be a big transformation of demand for skills, as the\ntechnology becomes increasingly widespread.\n\nContinue reading...\n\n"
   },
   {
     "title": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
@@ -90,7 +144,7 @@
     "summary": "Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar\nNew Year, two people familiar with the matter told CNBC.\n\n"
   },
   {
-    "title": "Macron’s Davos Shades Crash Italian Maker’s Site, Boost Shares",
+    "title": "Macron’s Blue Aviators Spur 70% Surge in Tiny Italian Firm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmacron-s-davos-shades-crash-italian-maker-s-site-boost-shares",
     "published": "Fri, 23 Jan 2026 12:27:02 CST",
     "summary": "When French President Emmanuel Macron walked out onto a Davos stage sporting a\npair of reflective blue aviator sunglasses, Stefano Fulchir, the CEO of\niVision Tech SpA, did a double take.\n\n"
@@ -150,46 +204,16 @@
     "summary": "A rally in gold prices and a gain in the value of non-dollar assets helped\nIndia’s foreign exchange reserves rise by the most in over 10 months, data\nfrom the central bank showed Friday.\n\n"
   },
   {
-    "title": "BlackRock Fund Sells Treasuries, Gilts on Inflation Caution",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackrock-fund-sells-treasuries-gilts-on-inflation-caution",
-    "published": "Fri, 23 Jan 2026 11:37:12 CST",
-    "summary": "Markets are underestimating the risk that inflation will remain persistent in\nthe US and the UK, according to Blackrock Inc.’s Tom Becker, who has been\nselling government bonds from both countries.\n\n"
-  },
-  {
-    "title": "For New York City Families, Free Childcare Can’t Come Soon Enough",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ffor-new-york-city-families-free-childcare-can-t-come-soon-enough",
-    "published": "Fri, 23 Jan 2026 11:30:09 CST",
-    "summary": "New York City parents are cheering the announcement of free child care for all\n2-year-olds in the city. Officials say they hope it will be a reason to keep\nfamilies with young kids from moving out of the city. Paulina Cachero\nexplains. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Fvideo%2Fbusiness%2Feconomy%2F100000010656157%2Fwhy-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
     "published": "Fri, 23 Jan 2026 11:30:03 CST",
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
   },
   {
-    "title": "Emerging Markets Are on Fire as Traders Look Away from US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-23%2Femerging-markets-are-on-fire-as-traders-look-away-from-us",
-    "published": "Fri, 23 Jan 2026 11:18:55 CST",
-    "summary": "Tensions between the US and Europe are  weighing on the dollar and driving a\nsearch for alternatives.\n\n"
-  },
-  {
-    "title": "Wall Street Pushes Solo 401(k)s as More Americans Work for Themselves",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-23%2Fsolo-401-k-s-go-mainstream-as-wall-street-targets-self-employed-americans",
-    "published": "Fri, 23 Jan 2026 11:00:34 CST",
-    "summary": "A niche retirement plan favored by freelancers is quickly becoming a hot Wall\nStreet sales pitch, as more and more Americans look for ways to shelter a\nbigger chunk of their paychecks from taxes.\n\n"
-  },
-  {
-    "title": "Economic strike in Minnesota to protest against ICE: ‘No work, no school, no shopping’",
+    "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
     "published": "Fri, 23 Jan 2026 11:00:12 CST",
     "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nA “no work, no school, no shopping” blackout day of protest was kicked off by\ncommunity leaders, faith leaders and labor unions on Friday in protest against\nthe Immigration and Customs Enforcement (ICE) surge in the state.\n\nThe “Day of Truth & Freedom” protest comes in the wake of the killing of Renee\nGood, the unarmed woman killed by a federal immigration officer in Minneapolis\nearlier this month.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Lagarde Isn’t on ‘the Same Page’ as Carney Over Ruptured World",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcarney-view-gets-davos-pushback-as-lagarde-points-to-mutual-ties",
-    "published": "Fri, 23 Jan 2026 10:48:10 CST",
-    "summary": "Mark Carney’s bleak view of a disintegrating world met pushback from global\neconomic chiefs in Davos who emphasized how mutual reliance in international\naffairs can’t be ignored.\n\n"
   },
   {
     "title": "BlueBay Says Yield Spike on Long Japan Debt Has Gone Too Far",
@@ -202,12 +226,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
     "published": "Fri, 23 Jan 2026 10:04:53 CST",
     "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
-  },
-  {
-    "title": "Five Ways People Are Using Claude Code",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html",
-    "published": "Fri, 23 Jan 2026 10:02:59 CST",
-    "summary": "The artificial intelligence tool generates computer code when people type\nprompts, so those with no coding experience can create their own programs and\napps.\n\n"
   },
   {
     "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
@@ -234,22 +252,22 @@
     "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
   },
   {
-    "title": "US Natural Gas Prices Seesaw After Record-Breaking Rally on Cold",
+    "title": "Dollar Set for Worst Week Since June on US ‘Policy Nightmare’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdollar-set-for-worst-week-since-june-on-us-policy-nightmare",
+    "published": "Fri, 23 Jan 2026 08:34:46 CST",
+    "summary": "The dollar is poised for its worst week since June as unpredictable US\npolicymaking weighed on the currency ahead of next week’s Federal Reserve\nmeeting.\n\n"
+  },
+  {
+    "title": "Natural Gas Prices Across the US Surge Ahead of Arctic Blast",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-natural-gas-falls-after-record-breaking-three-day-rally",
     "published": "Fri, 23 Jan 2026 08:21:04 CST",
-    "summary": "US natural gas futures oscillated between gains and losses Friday after a\nthree-day record-breaking rally as the market braced for a historic winter\nstorm.\n\n"
+    "summary": "Natural gas prices for near-term delivery at regional trading hubs across the\nUS jumped as the market braced for a historic winter storm that’s poised to\nsend temperatures plummeting and boost demand for the heating fuel.\n\n"
   },
   {
-    "title": "Political Intrigue And Data Cap Rocky Week for the UK’s Bonds",
+    "title": "Political Intrigue and Data Cap Rocky Week for UK’s Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fgilts-head-for-worst-week-since-november-on-political-jitters",
     "published": "Fri, 23 Jan 2026 08:17:59 CST",
-    "summary": "Gilts are heading for their worst week in two months as the return of\npolitical risk and economic data surprises in the UK cap a turbulent spell for\nglobal bond markets.\n\n"
-  },
-  {
-    "title": "Babcock CEO Lockwood to Retire as Firm Issues Upbeat Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbabcock-ceo-lockwood-to-retire-as-company-issues-upbeat-outlook",
-    "published": "Fri, 23 Jan 2026 07:46:42 CST",
-    "summary": "Babcock International Group Plc Chief Executive Officer David Lockwood will\nretire by the end of 2026, the defense company said as it reported solid\ngrowth across its key divisions.\n\n"
+    "summary": "Gilts are heading for their worst week since April as the return of political\nrisk and economic data surprises in the UK cap a turbulent spell for global\nbond markets.\n\n"
   },
   {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
@@ -270,10 +288,10 @@
     "summary": "The popular short form video app has a new corporate structure in the United\nStates, which could result in some changes for the 200 million Americans who\nuse TikTok.\n\n"
   },
   {
-    "title": "Copper Nears $13,000 as Trump’s Jabs at Allies, Fed Boost Metals",
+    "title": "Copper Tops $13,000 as Trump’s Jabs at Fed, Allies Boost Metals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcopper-nears-13-000-as-rally-gathers-pace-with-other-metals",
     "published": "Fri, 23 Jan 2026 03:35:10 CST",
-    "summary": "Copper climbed toward $13,000 a ton, rising along with other metals in a rally\nfueled by a broad investor rotation away from currencies and sovereign bonds.\n\n"
+    "summary": "Copper rallied above $13,000 a ton, part of a broad-based surge in metal\nmarkets that’s being aided by a growing investor rotation away from currencies\nand sovereign bonds.\n\n"
   },
   {
     "title": "Here’s Who Just Bought TikTok",
@@ -324,10 +342,10 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "US Stocks Face Weekly Loss as Intel Sinks 13%: Markets Wrap",
+    "title": "S&amp;P 500 Is Set for First Two-Week Loss Since June: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "US markets drifted lower on Friday after a turbulent run that put the S&P 500\non pace for its first back-to-back weekly loss since June. Gold briefly rose\nabove $4,950 an ounce.\n\n"
+    "summary": "Wall Street is ending a jittery week on the back foot, with stock traders\ndigesting the rally of the past two days and shifting their focus to the last\nfew economic reports ahead of next week’s Federal Reserve decision.\n\n"
   },
   {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
@@ -690,12 +708,6 @@
     "summary": "Luxury travelers can expect to pay more than they did last year, while budget\ntravelers might get a break.\n\n"
   },
   {
-    "title": "Filoplumes Are Nature’s Super Feather",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fscience%2Fbirds-feathers-filoplumes-cornell.html",
-    "published": "Wed, 21 Jan 2026 14:56:03 CST",
-    "summary": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights\nthat span thousands of miles.\n\n"
-  },
-  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Wed, 21 Jan 2026 14:02:02 CST",
@@ -738,12 +750,6 @@
     "summary": "The S&P 500 saw its biggest decline since October, and market jitters spread\nto Asia on Wednesday.\n\n"
   },
   {
-    "title": "Nearly 400 millionaires and billionaires call for higher taxes on super-rich",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F21%2Fmillionaires-billionaires-taxes-super-rich-mark-ruffalo-wef-davos",
-    "published": "Wed, 21 Jan 2026 00:01:47 CST",
-    "summary": "Mark Ruffalo, Brian Eno and Abigail Disney sign letter timed for WEF in Davos\nsaying wealthy are buying political influence\n\nNearly 400 millionaires and billionaires from 24 countries are calling on\nglobal leaders to increase taxes on the super-rich, amid growing concern that\nthe wealthiest in society are buying political influence.\n\nAn open letter, released to coincide with the World Economic Forum in Davos,\ncalls on global leaders attending this week’s conference to close the widening\ngap between the super-rich and everyone else.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Fnetflix-warner-bros-discovery-paramount-takeover.html",
     "published": "Tue, 20 Jan 2026 23:33:36 CST",
@@ -760,12 +766,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Funited-airlines-ual-4q-2025-earnings.html",
     "published": "Tue, 20 Jan 2026 22:55:49 CST",
     "summary": "United Airlines said 2026 is off to a strong start, both for premium seats and\nno-frills tickets, as it reported fourth-quarter earnings.\n\n"
-  },
-  {
-    "title": "Trump’s First Year Could Have Lasting Economic Consequences",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html",
-    "published": "Tue, 20 Jan 2026 22:49:13 CST",
-    "summary": "President Trump’s policies have so far done little to change the overall state\nof the American economy, but economists warn they will ultimately weaken the\nUnited States.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Netflix, United Airlines, Interactive Brokers and more",
