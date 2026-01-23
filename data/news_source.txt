@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sudden Chaos in Japan’s Bond Market Puts Stock Bulls on Notice",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsudden-chaos-in-japan-s-bond-market-puts-stock-bulls-on-notice",
+    "published": "Fri, 23 Jan 2026 23:00:00 CST",
+    "summary": "From the start of the year, Japanese stocks surged on bets that Prime Minister\nSanae Takaichi would cement power through a snap election and then ramp up\nspending. Then on Tuesday, the so-called Takaichi trade unraveled.\n\n"
+  },
+  {
+    "title": "Zellerfeld CEO: Want to be 'Foot Locker of the Future'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fzellerfeld-ceo-want-to-be-foot-locker-of-the-future-video",
+    "published": "Fri, 23 Jan 2026 22:53:29 CST",
+    "summary": "Cornelius Schmitt, Zellerfeld CEO, discusses 3D-printed shoes and how AI is\ndisrupting the future of footwear with Romaine Bostick and Katie Greifeld on\n“The Close.” He says he wants the company to become the “Foot Locker of the\nfuture.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "S&P 500 Ends Week Lower After Volatile Trading | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fs-p-500-ends-week-lower-closing-bell-video",
+    "published": "Fri, 23 Jan 2026 22:48:33 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "AMC Enters Talks With Bondholders, Sparking Slump in Debt Prices",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Famc-enters-talks-with-bondholders-sparking-slump-in-debt-prices",
     "published": "Fri, 23 Jan 2026 22:30:54 CST",
@@ -24,10 +42,10 @@
     "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nTens of thousands of Minnesotans marched in Minneapolis and otherwise\nparticipated in an economic blackout on Friday to protest against the\nImmigration and Customs Enforcement (ICE) surge in the state.\n\nAbout 100 clergy members were arrested by police during the action, video\nfootage showed.\n\nContinue reading...\n\n"
   },
   {
-    "title": "BlackRock Private Debt Fund Expects 19% Net Asset Value Cut",
+    "title": "BlackRock Cuts Value of Private Debt Fund by 19%, Waives Fee",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackrock-private-debt-fund-expects-19-net-asset-value-cut",
     "published": "Fri, 23 Jan 2026 22:10:42 CST",
-    "summary": "A BlackRock Inc. private debt fund expects to mark down the value of its net\nassets 19% after a string of troubled loans weighed on results.\n\n"
+    "summary": "A BlackRock Inc. private debt fund expects to mark down the net value of its\nassets 19% after a string of troubled loans weighed on results, marking the\nlatest sign of pressure in the private credit market.\n\n"
   },
   {
     "title": "Storm Poses Big Threats to Power Grids Across U.S.",
@@ -132,34 +150,16 @@
     "summary": "Ecuador is planning to raise as much as $4 billion in its first bond sale\nsince 2019, which could come as soon as next week, according to people\nfamiliar with the matter.\n\n"
   },
   {
-    "title": "Intel Suffers Worst Decline in 17 Months | Open Interest 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fopen-interest-1-23-2026-video",
-    "published": "Fri, 23 Jan 2026 19:15:08 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest. Intel slips and Nvidia gets a boost as China signals\nnew demand for its H200 chips. And President Trump takes aim at Wall Street,\nsuing JPMorgan and CEO Jamie Dimon for at least $5 billion over alleged\ndebanking. And as a record winter storm threatens blackouts nationwide, the US\nurges grid operators to tap emergency power. Plus the CEO of Critical Metals,\na company at the center of Greenland speculation, joins the show to talk about\nthe challenge of mining rare earths in Greenland. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Capital One to Pay $5.15 Billion for Fintech Brex",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fcapital-one-to-pay-5-15-billion-for-fintech-brex-video",
     "published": "Fri, 23 Jan 2026 19:07:09 CST",
     "summary": "Capital One agreed to acquire corporate expense management company Brex for\n$5.15 billion. Brex CEO Pedro Franceschi joins Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "We Are An Infrastructure Company, Not A Treasury Company: BitGo CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fwe-are-an-infrastructure-company-bitgo-ceo-video",
-    "published": "Fri, 23 Jan 2026 19:01:56 CST",
-    "summary": "BitGo shares slipped on the crypto company’s second day of trading, falling\nbelow their IPO price. But CEO Mike Belshe says short-term market moves don’t\nchange the company’s long-term strategy, describing BitGo as a global digital-\nasset infrastructure provider rather than a crypto wallet or treasury play.\nMike Belshe joins the conversation on \"Bloomberg Markets\" with Scarlet Fu.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html",
     "published": "Fri, 23 Jan 2026 18:58:33 CST",
     "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
-  },
-  {
-    "title": "Paraguay Central Bank Surprises With Quarter-Point Rate Cut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fparaguay-central-bank-surprises-with-quarter-point-rate-cut",
-    "published": "Fri, 23 Jan 2026 18:48:14 CST",
-    "summary": "Paraguay’s central bank unexpectedly cut the benchmark interest rate a quarter\npoint to 5.75%, citing anchored inflation expectations and slowing consumer\nprices.\n\n"
   },
   {
     "title": "Bloomberg Markets 1/23/2026",
