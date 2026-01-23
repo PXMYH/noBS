@@ -1,5 +1,83 @@
 [
   {
+    "title": "AMC Enters Talks With Bondholders, Sparking Slump in Debt Prices",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Famc-enters-talks-with-bondholders-sparking-slump-in-debt-prices",
+    "published": "Fri, 23 Jan 2026 22:30:54 CST",
+    "summary": "A group of AMC Entertainment Holdings Inc. bondholders is kicking off\nconfidential talks with the theater chain, prompting some of its notes to\ntumble amid concerns a broader debt move may be afoot.\n\n"
+  },
+  {
+    "title": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsaudi-arabia-liv-golf-trump.html",
+    "published": "Fri, 23 Jan 2026 22:21:19 CST",
+    "summary": "It will be the latest in at least half a dozen events that the breakaway\nleague has held at Trump Organization resorts in the past four years.\n\n"
+  },
+  {
+    "title": "SpaceX Can Fit Inside of an ETF. Why Don’t More Funds Hold It?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-23%2Fmusk-s-spacex-can-fit-inside-of-an-etf-why-don-t-more-funds-hold-it",
+    "published": "Fri, 23 Jan 2026 22:15:49 CST",
+    "summary": "ETF’s are dabbling in private markets, but few are going as full-throttled on\nSpaceX as Rob Baron.\n\n"
+  },
+  {
+    "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
+    "published": "Fri, 23 Jan 2026 22:12:22 CST",
+    "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nTens of thousands of Minnesotans marched in Minneapolis and otherwise\nparticipated in an economic blackout on Friday to protest against the\nImmigration and Customs Enforcement (ICE) surge in the state.\n\nAbout 100 clergy members were arrested by police during the action, video\nfootage showed.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "BlackRock Private Debt Fund Expects 19% Net Asset Value Cut",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackrock-private-debt-fund-expects-19-net-asset-value-cut",
+    "published": "Fri, 23 Jan 2026 22:10:42 CST",
+    "summary": "A BlackRock Inc. private debt fund expects to mark down the value of its net\nassets 19% after a string of troubled loans weighed on results.\n\n"
+  },
+  {
+    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
+    "published": "Fri, 23 Jan 2026 22:04:36 CST",
+    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
+  },
+  {
+    "title": "Zach Buchwald on Finding a Place in Finance",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fzach-buchwald-on-finding-a-place-in-finance-video",
+    "published": "Fri, 23 Jan 2026 22:00:57 CST",
+    "summary": "Barry speaks with Zach Buchwald, Chief Executive Officer and Chairman of\nRussell Investments about his career in investing. They discuss the creation\nof the smart beta philosophy. They also discuss the transition from pensions\nto 401ks for retirees, and the way the onus for investing has moved to the\nindividual. Zach also describes his proposal for a program, that is now in\neffect, for a $1000 to every newborn who's parents open a count to show the\nimportance of compounding. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Hedge Funds Boost Bullish Oil Bets Amid Iran, Kazakh Supply Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fhedge-funds-boost-bullish-oil-bets-amid-iran-kazakh-supply-risk",
+    "published": "Fri, 23 Jan 2026 21:52:58 CST",
+    "summary": "Hedge funds upped bullish wagers on crude to the highest since August amid\nsupply disruptions in the Black Sea region and uncertainty surrounding\nWashington’s plans for Iran, one of the world’s top producers.\n\n"
+  },
+  {
+    "title": "Mala Gaonkar’s Hedge Fund Assets Hit $6 Billion in Three Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmala-gaonkar-s-hedge-fund-assets-hit-6-billion-in-three-years",
+    "published": "Fri, 23 Jan 2026 21:51:05 CST",
+    "summary": "Mala Gaonkar’s hedge fund tripled its assets to about $6 billion just three\nyears after it started trading, marking one of the fastest-growing debuts in\nhistory.\n\n"
+  },
+  {
+    "title": "How This Weekend’s Winter Storm Could Affect Your Travel Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Fri, 23 Jan 2026 21:49:44 CST",
+    "summary": "Ice, sleet and major snowfall are threatening to snarl travel across much of\nthe Eastern U.S. Here’s what to know.\n\n"
+  },
+  {
+    "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
+    "published": "Fri, 23 Jan 2026 21:45:07 CST",
+    "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and now across much of the country.\n\n"
+  },
+  {
+    "title": "S&amp;P Upgrades Congo Credit Outlook Before First Eurobond Offering",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fs-p-upgrades-congo-credit-outlook-before-first-eurobond-offering",
+    "published": "Fri, 23 Jan 2026 21:40:54 CST",
+    "summary": "S&P Global Ratings upgraded the outlook on the Democratic Republic of Congo’s\nsovereign credit rating, as the country prepares its first-ever eurobond\noffering.\n\n"
+  },
+  {
+    "title": "Fast Selloffs, Fast Rebounds: Trump Volatility Rocks Wall Street",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fin-trump-markets-sudden-volatility-is-price-of-doing-business",
+    "published": "Fri, 23 Jan 2026 21:33:15 CST",
+    "summary": "The abrupt threat of US tariffs on Europe triggered one of the most\nsynchronized market selloffs this week since the pandemic -- and had traders\nsecond-guessing once-reliable hedges.\n\n"
+  },
+  {
     "title": "Hedge Funds Boost Bullish Gold Wagers to 16-Week High",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fhedge-funds-boost-bullish-gold-wagers-to-16-week-high",
     "published": "Fri, 23 Jan 2026 21:26:36 CST",
@@ -40,24 +118,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
     "published": "Fri, 23 Jan 2026 20:32:31 CST",
     "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
-  },
-  {
-    "title": "How This Weekend’s Winter Storm Could Affect Your Travel Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Fri, 23 Jan 2026 20:27:42 CST",
-    "summary": "Ice, sleet and major snowfall are threatening to snarl travel across much of\nthe Eastern U.S. Here’s what to know.\n\n"
-  },
-  {
-    "title": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsaudi-arabia-liv-golf-trump.html",
-    "published": "Fri, 23 Jan 2026 20:23:08 CST",
-    "summary": "It will be the latest in at least half a dozen events that the breakaway\nleague has held at Trump Organization resorts in the past four years.\n\n"
-  },
-  {
-    "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
-    "published": "Fri, 23 Jan 2026 20:19:21 CST",
-    "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and now across much of the country.\n\n"
   },
   {
     "title": "Yen Jumps Most Since August as Risk of Intervention Ramps Up",
@@ -102,12 +162,6 @@
     "summary": "Paraguay’s central bank unexpectedly cut the benchmark interest rate a quarter\npoint to 5.75%, citing anchored inflation expectations and slowing consumer\nprices.\n\n"
   },
   {
-    "title": "Business Leaders Weigh In On US Economy, Outlook for US Credit Market | Real Yield 1/23/2025",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Freal-yield-1-23-2025-video",
-    "published": "Fri, 23 Jan 2026 18:45:24 CST",
-    "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: Schwab Center for Financial Research Chief Fixed Income\nStrategist Kathy Jones, BlackRock Deputy CIO of Global Fixed Income Russ\nBrownback, AllianceBernstein Head of Credit Will Smith, and PineBridge\nInvestments Co-Head of Leveraged Finance Steven Oh. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Bloomberg Markets 1/23/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fbloomberg-markets-1-23-2026-video",
     "published": "Fri, 23 Jan 2026 18:38:09 CST",
@@ -120,22 +174,10 @@
     "summary": "Tesla is removing the safety driver from its robotaxis in Austin, kicking\ncompetition in the self-driving cab market into higher gear. Regina Clewlow,\nmanaging director at mobility analytics firm Populus, discusses the news and\nconsumer readiness for self-driving cars with Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Thriving Hedge Fund Trade Gets Boost From Soaring Swap Spreads",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fthriving-hedge-fund-trade-gets-boost-from-soaring-swap-spreads",
-    "published": "Fri, 23 Jan 2026 18:33:12 CST",
-    "summary": "Traders are piling back into a popular hedge fund strategy that bets on US\nTreasuries outperforming interest rate swaps.\n\n"
-  },
-  {
     "title": "Apple Signals CEO Candidate by Expanding Hardware Boss’s Role",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fapple-s-hardware-boss-takes-lead-of-design-teams-video",
     "published": "Fri, 23 Jan 2026 18:29:26 CST",
     "summary": "Apple has expanded the job of hardware chief John Ternus to include design\nwork, a move solidifying his status as a leading contender to eventually\nsucceed current Chief Executive Officer Tim Cook. Bloomberg’s Mark Gurman\ndiscusses the move with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "AI Boom, Data Centers Could Lift 2026 Trade Says WTO | The Pulse 1/23",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fthe-pulse-1-23-video",
-    "published": "Fri, 23 Jan 2026 18:28:19 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Hélène Landemore, Yale\nUniversity Professor; Ngozi Okonjo-Iweala, WTO Director-General; Enoch\nGodongwana, South African Finance Minister; Samantha Cristoforetti, European\nSpace Agency Astronaut. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Skyrocketing Valuation Increases Appetite for Private Investments",
@@ -144,33 +186,15 @@
     "summary": "Appetite for private growth equity picks up as startups stay private longer\nwith skyrocketing valuations. Peter Singlehurst, head of private companies at\nBaillie Gifford, discusses the opportunities for investors with Caroline Hyde\nand Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Pimco’s Clarida on US Economy, Future of the Federal Reserve",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fpimco-s-clarida-on-us-economy-future-of-the-fed-video",
-    "published": "Fri, 23 Jan 2026 18:18:44 CST",
-    "summary": "Pimco Global Economic Advisor Ricard Clarida explains why he’s optimistic on\nthe US economy and discusses the candidates to be the next Chair of the\nFederal Reserve and the US Supreme Court weighing President Donald Trump’s bid\nto fire Fed Governor Lisa Cook. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
     "published": "Fri, 23 Jan 2026 18:09:31 CST",
     "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
   },
   {
-    "title": "Barclays Sees Muni Market Upside ‘Capped’ by Rich Valuations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbarclays-sees-muni-market-upside-capped-by-rich-valuations",
-    "published": "Fri, 23 Jan 2026 18:07:29 CST",
-    "summary": "The muni market’s outperformance streak likely has little room left to run,\naccording to Barclays Plc strategists.\n\n"
-  },
-  {
-    "title": "Zach Buchwald on What He Would Tell a College Grad",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fzach-buchwald-on-what-he-would-tell-a-college-grad-video",
-    "published": "Fri, 23 Jan 2026 18:05:14 CST",
-    "summary": "Barry speaks with Zach Buchwald, Chief Executive Officer and Chairman of\nRussell Investments about his career in investing. They discuss the creation\nof the smart beta philosophy. They also discuss the transition from pensions\nto 401ks for retirees, and the way the onus for investing has moved to the\nindividual. Zach also describes his proposal for a program, that is now in\neffect, for a $1000 to every newborn who's parents open a count to show the\nimportance of compounding. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "For His Next Act, Darren Walker Is Heading to Hollywood",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Farts%2Fdesign%2Fdarren-walker-anonymous-content.html",
-    "published": "Fri, 23 Jan 2026 17:40:01 CST",
+    "published": "Fri, 23 Jan 2026 17:40:02 CST",
     "summary": "Anonymous Content, a production company whose top investor is Laurene Powell\nJobs’s Emerson Collective, has named Darren Walker as president and chief\nexecutive.\n\n"
   },
   {
@@ -216,22 +240,10 @@
     "summary": "Stock pickers can't beat the S&P 500, and market experts say it's time to stop\ntrying and seek broader portfolio alpha across cash, bonds, gold and\ncommodities.\n\n"
   },
   {
-    "title": "Minnesotans strike to protest ICE surge in state: ‘No work, no school, no shopping’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
-    "published": "Fri, 23 Jan 2026 15:52:40 CST",
-    "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nA “no work, no school, no shopping” blackout day of protest was kicked off by\ncommunity leaders, faith leaders and labor unions on Friday in protest against\nthe Immigration and Customs Enforcement (ICE) surge in the state.\n\nThe “Day of Truth & Freedom” protest comes in the wake of the killing of Renee\nGood, the unarmed woman killed by a federal immigration officer in Minneapolis\nearlier this month.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Silver Tops $100 as Global Turmoil Fuels Run for Safe Havens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsilver-tops-100-as-global-turmoil-fuels-run-for-safe-havens",
     "published": "Fri, 23 Jan 2026 15:52:10 CST",
     "summary": "Silver topped $100 an ounce for the first time, extending a scorching rally\nbuilt on surging demand for haven assets and frenzied buying in retail markets\nfrom Shanghai to New York.\n\n"
-  },
-  {
-    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
-    "published": "Fri, 23 Jan 2026 15:04:22 CST",
-    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
   },
   {
     "title": "S&amp;P 500 Logs Second Week of Losses After Trump Whipsaws Markets",
@@ -318,12 +330,6 @@
     "summary": "US president’s $5bn lawsuit against JP Morgan and Jamie Dimon follows a steady\nrise in tensions between the two men\n\nWeeks after Donald Trump’s first shock election win, bosses from across\ncorporate America were scrambling to enter the president’s orbit.\n\nBusiness leaders ranging from the General Motors boss, Mary Barra, to Disney’s\nchief, Bob Iger, quickly signed up to a new advisory council in 2016 to help\nshape the aggressively pro-growth policies of this new populist politician.\nAmong them was the head of America’s largest bank: Jamie Dimon, the chair and\nchief executive of JP Morgan.\n\nContinue reading...\n\n"
   },
   {
-    "title": "CEOs Flag Jittery US Consumers as Global Tensions Intensify",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fceos-wary-of-a-jittery-us-consumer-as-global-tensions-intensify",
-    "published": "Fri, 23 Jan 2026 12:00:00 CST",
-    "summary": "Corporate executives are warning that jittery US consumers and mounting\ngeopolitical tensions are starting to weigh on demand as the earnings season\nunfolds, even as headline economic data remains resilient.\n\n"
-  },
-  {
     "title": "SpaceX lines up Wall Street banks as Musk eyes blockbuster IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2026%2Fjan%2F23%2Felon-musk-space-x-ipo-wall-street-banks-stock-market-private-share-sales",
     "published": "Fri, 23 Jan 2026 11:54:50 CST",
@@ -334,12 +340,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Fvideo%2Fbusiness%2Feconomy%2F100000010656157%2Fwhy-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
     "published": "Fri, 23 Jan 2026 11:30:03 CST",
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
-  },
-  {
-    "title": "UBS Plans to Offer Crypto Trading for Some Wealthy Clients",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-plans-crypto-trading-for-some-clients-in-digital-asset-push",
-    "published": "Fri, 23 Jan 2026 10:42:53 CST",
-    "summary": "UBS Group AG plans to make cryptocurrency investing available for some private\nbanking clients, in what could become a significant move into digital assets\nfor one of the world’s largest wealth managers.\n\n"
   },
   {
     "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
@@ -372,16 +372,16 @@
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
   },
   {
+    "title": "‘Quiet-Quitting’ of US Assets Fuels Fresh EM, Gold Bets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Femerging-markets-rocket-with-gold-as-de-dollarization-picks-up",
+    "published": "Fri, 23 Jan 2026 04:13:12 CST",
+    "summary": "Emerging-market assets and precious metals are extending a storming start to\n2026 as tensions between the US and Europe weigh on the dollar and re-energize\ndiversification flows around the world.\n\n"
+  },
+  {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-sold-app-content-algorithm.html",
     "published": "Fri, 23 Jan 2026 03:36:54 CST",
     "summary": "The popular short form video app has a new corporate structure in the United\nStates, which could result in some changes for the 200 million Americans who\nuse TikTok.\n\n"
-  },
-  {
-    "title": "Copper Tops $13,000 as Trump’s Jabs at Fed, Allies Boost Metals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcopper-nears-13-000-as-rally-gathers-pace-with-other-metals",
-    "published": "Fri, 23 Jan 2026 03:35:10 CST",
-    "summary": "Copper rallied above $13,000 a ton, part of a broad-based surge in metal\nmarkets that’s being aided by a weaker dollar as investors rotate away from\ncurrencies and sovereign bonds.\n\n"
   },
   {
     "title": "Here’s Who Just Bought TikTok",
