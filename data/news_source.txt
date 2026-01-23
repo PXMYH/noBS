@@ -1,5 +1,17 @@
 [
   {
+    "title": "UBS Reverses Bearish Siemens Energy Call After 165% Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fubs-reverses-bearish-siemens-energy-call-after-165-rally",
+    "published": "Fri, 23 Jan 2026 13:50:41 CST",
+    "summary": "Almost exactly a year after slapping a sell rating on Siemens Energy AG, UBS\nGroup AG has turned positive on one of Europe’s best-performing largecaps.\n\n"
+  },
+  {
+    "title": "Ethanol Push Sees Big Delay After E15 Setback, Trade Group Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fethanol-push-sees-big-delay-after-e15-setback-trade-group-says",
+    "published": "Fri, 23 Jan 2026 13:45:18 CST",
+    "summary": "Efforts to expand the market for corn-based ethanol likely will be\nsignificantly delayed after an attempt to attach a key provision to must-pass\nlegislation failed, according to a major trade group.\n\n"
+  },
+  {
     "title": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwealth-client-prospecting-ria-ai.html",
     "published": "Fri, 23 Jan 2026 13:21:05 CST",
@@ -22,6 +34,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fslb-predicts-worst-is-behind-global-oil-market-as-opec-output-to-recover",
     "published": "Fri, 23 Jan 2026 13:00:25 CST",
     "summary": "SLB, the world’s largest oilfield-services provider, raised its dividend and\nposted fourth-quarter earnings that beat estimates as activity in the Middle\nEast and other key regions accelerated and its data-center business rapidly\nexpanded.\n\n"
+  },
+  {
+    "title": "Disaster averted at Davos but world ever vulnerable to capricious Trump’s whims",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Ftrump-davos-diplomacy",
+    "published": "Fri, 23 Jan 2026 13:00:10 CST",
+    "summary": "President backed away from threats over Greenland but allies dare not regard\navoidance of catastrophe as anything more than a respite\n\nSo deeply embedded in the realm of reality television is Donald Trump’s\npresidency that trying to apply any orthodox diplomatic measures of win or\nloss to his rumbustious appearance in Davos this week seems superfluous.\n\nWith his compulsive addiction to high-octane political drama, Trump had\nalready achieved the improbable even before his arrival on Wednesday;\ntransforming the normally somnolent Swiss Alpine resort into a unlikely\nsetting for a high-noon confrontation with the US’s supposed European allies\nover Greenland.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: Intel, Nvidia, Life360, Capital One & more",
@@ -102,10 +120,22 @@
     "summary": "Kyma Capital, a hedge fund run by Akshay Shah, delivered 48% net returns to\ninvestors last year, betting on distressed companies needing to address their\ndebt piles, according to people with knowledge of the matter.\n\n"
   },
   {
+    "title": "How Trump’s relations with America’s biggest banking boss hit rock bottom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fhow-trump-relations-jp-morgan-banking-boss-rock-bottom-jamie-dimon",
+    "published": "Fri, 23 Jan 2026 12:00:09 CST",
+    "summary": "US president’s $5bn lawsuit against JP Morgan and Jamie Dimon follows a steady\nrise in tensions between the two men\n\nWeeks after Donald Trump’s first shock election win, bosses from across\ncorporate America were scrambling to enter the president’s orbit.\n\nBusiness leaders ranging from the General Motors boss, Mary Barra, to Disney’s\nchief, Bob Iger, quickly signed up to a new advisory council in 2016 to help\nshape the aggressively pro-growth policies of this new populist politician.\nAmong them was the head of America’s largest bank: Jamie Dimon, the chair and\nchief executive of JP Morgan.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "CEOs Wary of a Jittery US Consumer as Global Tensions Intensify",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fceos-wary-of-a-jittery-us-consumer-as-global-tensions-intensify",
     "published": "Fri, 23 Jan 2026 12:00:00 CST",
     "summary": "As the US earnings season gathers momentum, early results are offering a\nwindow into the economic and political crosscurrents shaping Corporate\nAmerica’s outlook for the year ahead.\n\n"
+  },
+  {
+    "title": "SpaceX lines up Wall Street banks as Musk eyes blockbuster IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2026%2Fjan%2F23%2Felon-musk-space-x-ipo-wall-street-banks-stock-market-private-share-sales",
+    "published": "Fri, 23 Jan 2026 11:54:50 CST",
+    "summary": "US aerospace tech company reportedly held talks last year over private share\nsale that values business at $800bn\n\nElon Musk’s SpaceX is reportedly lining up four Wall Street banks to help the\ncompany list on the stock market as investors prepare for an expected rush of\nUS tech listings.\n\nSpaceX is considering Bank of America, JP Morgan, Goldman Sachs and Morgan\nStanley for leading roles in an initial public offering, according to the\nFinancial Times and Reuters.\n\nContinue reading...\n\n"
   },
   {
     "title": "Brazilian Police Target Pension Fund as Banco Master Probe Grows",
@@ -150,28 +180,22 @@
     "summary": "A niche retirement plan favored by freelancers is quickly becoming a hot Wall\nStreet sales pitch, as more and more Americans look for ways to shelter a\nbigger chunk of their paychecks from taxes.\n\n"
   },
   {
-    "title": "Why Consumers Are Obsessed With Zero Sugar Soda",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fwhy-consumers-are-obsessed-with-zero-sugar-soda",
-    "published": "Fri, 23 Jan 2026 11:00:06 CST",
-    "summary": "Both are no-calorie, artificially sweetened beverages, but Zero Sugar sodas\nare booming with wellness-obsessed consumers. Kristina Peterson reports.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "JPMorgan Names Simon Dale to Lead Credit Portfolio Group",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fjpmorgan-names-simon-dale-to-lead-credit-portfolio-group",
-    "published": "Fri, 23 Jan 2026 10:53:30 CST",
-    "summary": "JPMorgan Chase & Co has named Simon Dale as its global head of the credit\nportfolio group lending, a team that manages regulatory capital using tools\nsuch as synthetic risk transfers.\n\n"
-  },
-  {
-    "title": "BofA Says US Stocks Saw Outflow in Week Trump Threatened Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbofa-says-us-stocks-saw-outflow-in-week-trump-threatened-tariffs",
-    "published": "Fri, 23 Jan 2026 10:52:42 CST",
-    "summary": "US stocks suffered nearly $17 billion in outflows, according to Bank of\nAmerica Corp., during a week marked by President Donald Trump’s threat to\nimpose tariffs on some European countries over Greenland.\n\n"
+    "title": "Economic strike in Minnesota to protest against ICE: ‘No work, no school, no shopping’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
+    "published": "Fri, 23 Jan 2026 11:00:12 CST",
+    "summary": "Organizers demand ICE leave state and agency be investigated for\nconstitutional violations\n\n  * ICE protests – live updates\n\nA “no work, no school, no shopping” blackout day of protest was kicked off by\ncommunity leaders, faith leaders and labor unions on Friday in protest against\nthe Immigration and Customs Enforcement (ICE) surge in the state.\n\nThe “Day of Truth & Freedom” protest comes in the wake of the killing of Renee\nGood, the unarmed woman killed by a federal immigration officer in Minneapolis\nearlier this month.\n\nContinue reading...\n\n"
   },
   {
     "title": "Lagarde Isn’t on ‘the Same Page’ as Carney Over Ruptured World",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcarney-view-gets-davos-pushback-as-lagarde-points-to-mutual-ties",
     "published": "Fri, 23 Jan 2026 10:48:10 CST",
     "summary": "Mark Carney’s bleak view of a disintegrating world met pushback from global\neconomic chiefs in Davos who emphasized how mutual reliance in international\naffairs can’t be ignored.\n\n"
+  },
+  {
+    "title": "BlueBay Says Yield Spike on Long Japan Debt Has Gone Too Far",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbluebay-says-yield-spike-in-japan-s-long-bonds-has-gone-too-far",
+    "published": "Fri, 23 Jan 2026 10:40:23 CST",
+    "summary": "The jump in yields on Japan’s long-maturity bonds has gone too far, according\nto RBC BlueBay Asset Management, which has initiated a long position in the\nbattered securities.\n\n"
   },
   {
     "title": "Storm Poses Big Threats to Power Grids Across U.S.",
@@ -210,10 +234,10 @@
     "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
   },
   {
-    "title": "US Natural Gas Prices Resume Gains After Record-Breaking Rally",
+    "title": "US Natural Gas Prices Seesaw After Record-Breaking Rally on Cold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-natural-gas-falls-after-record-breaking-three-day-rally",
     "published": "Fri, 23 Jan 2026 08:21:04 CST",
-    "summary": "US natural gas futures resumed gains, adding to a record-breaking rally as the\nmarket braced for a historic winter storm.\n\n"
+    "summary": "US natural gas futures oscillated between gains and losses Friday after a\nthree-day record-breaking rally as the market braced for a historic winter\nstorm.\n\n"
   },
   {
     "title": "Political Intrigue And Data Cap Rocky Week for the UK’s Bonds",
@@ -292,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fgold-climbs-to-record-as-weaker-dollar-extends-scorching-rally",
     "published": "Thu, 22 Jan 2026 23:17:27 CST",
     "summary": "Gold headed for its best week in six years, with the rally driven by\ngeopolitical risks and renewed threats to the Federal Reserve’s independence.\n\n"
-  },
-  {
-    "title": "Trump sues JPMorgan Chase and Jamie Dimon for at least $5bn",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-sues-jpmorgan-jamie-dimon-debanking",
-    "published": "Thu, 22 Jan 2026 23:08:44 CST",
-    "summary": "US president alleges JP Morgan stopped offering him banking services in wake\nof January 6 attack\n\nDonald Trump has sued JPMorgan Chase and its CEO, Jamie Dimon, for at least\n$5bn after accusing America’s largest bank of “debanking” him.\n\nThe US president alleged that the bank stopped offering him banking services\nin the wake of the Capitol riot on January 6. Earlier this month, he claimed\nit had “incorrectly and inappropriately” discriminated against him.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Intel, Clorox, Capital One and more",
@@ -762,12 +780,6 @@
     "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
   },
   {
-    "title": "Wall Street sees worst day since October after Trump tariff threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F20%2Fstock-markets-trump-greenland-tariff-ftse-100-gold",
-    "published": "Tue, 20 Jan 2026 21:53:57 CST",
-    "summary": "Sell-off hits US stocks in first trading day since president threatened\ntariffs against eight countries\n\nStock markets fell on both sides of the Atlantic on Tuesday, with Wall Street\nsuffering its worst day since October, as investor concerns persisted over the\nfallout from Donald Trump’s push for US control of Greenland.\n\nThe sell-off hit US stocks on the first day of trading in New York since Trump\nthreatened new tariffs on eight European countries, after the market was\nclosed for a public holiday on Monday. The S&P 500 closed down 2.1% while the\nDow Jones finished down 1.8%.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html",
     "published": "Tue, 20 Jan 2026 21:13:14 CST",
@@ -852,12 +864,6 @@
     "summary": "Stellantis shares were largely up – as high as 93% in March 2024 – until\nreporting troubling financial results that year amid cost-cutting efforts and\nEVs.\n\n"
   },
   {
-    "title": "Afraid to take vacation? The problem isn’t your boss – it’s how you work",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F19%2Fafraid-to-take-vacation-the-problem-isnt-your-boss-its-how-you-work",
-    "published": "Mon, 19 Jan 2026 12:00:25 CST",
-    "summary": "Many people use their vacation time each year. These people take ownership of\ntheir jobs, and make sure they get them done\n\nA recent survey of more than 3,000 US workers for employment search site\nFlexJobs found that almost a quarter didn’t take a vacation day during the\npast year and – more concerning to the study’s authors – as many as 82% “avoid\nusing” their accrued time off. Why?\n\nKelsey Szamet, an employment lawyer, says the reason is a shift in mentality.\n“Many employees are concerned about the security of their jobs,” she told\nQuartz. “The adoption of AI and automation technologies has allowed employees\nto actually consider their own replaceability before requesting a leave or a\nholiday, or any kind of time-off benefit.”\n\nContinue reading...\n\n"
-  },
-  {
     "title": "I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:05 CST",
@@ -910,12 +916,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fstocks-making-the-biggest-moves-midday-nvo-rf-gev-vst-and-more.html",
     "published": "Fri, 16 Jan 2026 16:49:23 CST",
     "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
-    "title": "‘The dollar is losing credibility’: why central banks are scrambling for gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F16%2Fthe-dollar-is-losing-credibility-why-central-banks-are-scrambling-for-gold",
-    "published": "Fri, 16 Jan 2026 16:00:02 CST",
-    "summary": "Experts say central banks are increasingly stuffing their vaults as an\ninsurance policy in a volatile world\n\nFifteen minutes after takeoff, the call came for Serbia’s central bank\ngovernor: millions of dollars’ worth of gold bars, destined for a high-\nsecurity Belgrade vault, had been left on the runway of a Swiss airport.\n\nIn air freight – despite the extraordinary value of bullion – fresh flowers,\nfood and other perishables still take priority. “We learned this the hard\nway,” Jorgovanka Tabaković told a conference late last year.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump's proposed ban on buying single-family homes introduces uncertainty for family offices",
