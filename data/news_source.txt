@@ -1,5 +1,47 @@
 [
   {
+    "title": "TikTok Updates Its Terms and Conditions in the U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fmedia%2Ftiktok-us-terms-conditions.html",
+    "published": "Fri, 23 Jan 2026 20:33:33 CST",
+    "summary": "The changes came after the app’s Chinese parent company spun out an American\nentity to run TikTok in the United States.\n\n"
+  },
+  {
+    "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
+    "published": "Fri, 23 Jan 2026 20:32:31 CST",
+    "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
+  },
+  {
+    "title": "How This Weekend’s Winter Storm Could Affect Your Travel Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Fri, 23 Jan 2026 20:27:42 CST",
+    "summary": "Ice, sleet and major snowfall are threatening to snarl travel across much of\nthe Eastern U.S. Here’s what to know.\n\n"
+  },
+  {
+    "title": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsaudi-arabia-liv-golf-trump.html",
+    "published": "Fri, 23 Jan 2026 20:23:08 CST",
+    "summary": "It will be the latest in at least half a dozen events that the breakaway\nleague has held at Trump Organization resorts in the past four years.\n\n"
+  },
+  {
+    "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
+    "published": "Fri, 23 Jan 2026 20:19:21 CST",
+    "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and now across much of the country.\n\n"
+  },
+  {
+    "title": "Yen Jumps Most Since August as Risk of Intervention Ramps Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-jumps-most-since-august-as-risk-of-intervention-ramps-up",
+    "published": "Fri, 23 Jan 2026 19:53:35 CST",
+    "summary": "The yen abruptly staged its biggest one-day surge in nearly six months on\nspeculation that Japanese authorities could be preparing to mount an unusual\nmarket intervention to halt the currency’s slide.\n\n"
+  },
+  {
+    "title": "Ecuador Said to Eye $4 Billion Sale in Return to Bond Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fecuador-said-to-eye-4-billion-sale-in-return-to-bond-markets",
+    "published": "Fri, 23 Jan 2026 19:50:23 CST",
+    "summary": "Ecuador is planning to raise as much as $4 billion in its first bond sale\nsince 2019, which could come as soon as next week, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
     "title": "Intel Suffers Worst Decline in 17 Months | Open Interest 1/23/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fopen-interest-1-23-2026-video",
     "published": "Fri, 23 Jan 2026 19:15:08 CST",
@@ -18,12 +60,6 @@
     "summary": "BitGo shares slipped on the crypto company’s second day of trading, falling\nbelow their IPO price. But CEO Mike Belshe says short-term market moves don’t\nchange the company’s long-term strategy, describing BitGo as a global digital-\nasset infrastructure provider rather than a crypto wallet or treasury play.\nMike Belshe joins the conversation on \"Bloomberg Markets\" with Scarlet Fu.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
-    "published": "Fri, 23 Jan 2026 19:00:03 CST",
-    "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
-  },
-  {
     "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html",
     "published": "Fri, 23 Jan 2026 18:58:33 CST",
@@ -40,12 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Freal-yield-1-23-2025-video",
     "published": "Fri, 23 Jan 2026 18:45:24 CST",
     "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know.\nToday's guests: Schwab Center for Financial Research Chief Fixed Income\nStrategist Kathy Jones, BlackRock Deputy CIO of Global Fixed Income Russ\nBrownback, AllianceBernstein Head of Credit Will Smith, and PineBridge\nInvestments Co-Head of Leveraged Finance Steven Oh. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
-    "published": "Fri, 23 Jan 2026 18:42:13 CST",
-    "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and now across much of the country.\n\n"
   },
   {
     "title": "Bloomberg Markets 1/23/2026",
@@ -132,28 +162,10 @@
     "summary": "Bloomberg Intelligence Media Litigation Analyst Matthew Schettenhelm discusses\nthe latest in the ongoing TikTok saga. TikTok and its Chinese parent ByteDance\nLtd. have closed a long-awaited deal to transfer parts of their US operations\nto American investors, securing the popular video app’s future in the US and\navoiding a nationwide ban. The social media company has officially established\na US entity with three managing investors: Oracle Corp., private equity firm\nSilver Lake Management LLC and Abu Dhabi-based investment company MGX. TikTok\nChief Executive Officer Shou Chew -- who will continue running ByteDance’s\nmost valuable asset globally -- gets a seat on the board. Adam Presser, who\nwas TikTok’s head of operations, trust and safety, will now helm the American\nventure as CEO. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Trump Sues JPMorgan for $5 Billion Over Debanking Claims",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ftrump-sues-jpmorgan-for-5-billion-over-debanking-claims-video",
-    "published": "Fri, 23 Jan 2026 17:27:17 CST",
-    "summary": "President Donald Trump sued JPMorgan Chase & Co. and its chief executive\nofficer, Jamie Dimon, for at least $5 billion over allegations that the lender\nstopped offering him and his businesses banking services for political\nreasons. The complaint, filed Thursday, accuses the bank of trade libel and\nbreach of implied covenant of good faith. It also claims Dimon violated\nFlorida’s deceptive trade practices law. In response, the bank said it doesn’t\nclose accounts for political or religious reasons. Bloomberg Intelligence\nLitigation Analyst Elliot Stein says he does not think there is merit to the\nlawsuit. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fvenezuela-sanctions.html",
     "published": "Fri, 23 Jan 2026 17:16:11 CST",
     "summary": "With tight business restrictions still in place, companies may find it\nchallenging to even assess what opportunities exist for them in the South\nAmerican nation.\n\n"
-  },
-  {
-    "title": "Private Credit Deal Gone Bad Spawns Court Fight Over Conflicts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fprivate-credit-deal-gone-bad-spawns-court-fight-over-conflicts",
-    "published": "Fri, 23 Jan 2026 17:16:04 CST",
-    "summary": "Planet Networks Inc. thought it had landed a $50 million private credit deal\nto finance the fiber internet company’s expensive push into New York’s Hudson\nValley. Instead, its founder now says a private equity firm dangled the loan\nto access his trade secrets while its own competing startup tried to swoop\ninto the region.\n\n"
-  },
-  {
-    "title": "At Least 60 Pimco Funds Bought Colombian Local Bonds in December",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fat-least-60-pimco-funds-bought-colombian-local-bonds-in-december",
-    "published": "Fri, 23 Jan 2026 17:13:47 CST",
-    "summary": "At least 60 funds managed by Pacific Investment Management Co. were involved\nin a private placement with Colombia last month, scooping up local debt and\nhelping the government finance its exploding deficit.\n\n"
   },
   {
     "title": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
@@ -168,16 +180,16 @@
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Fri, 23 Jan 2026 16:50:56 CST",
-    "summary": "Ice, sleet and possibly significant snowfall are threatening to snarl travel\nin much of the eastern U.S. starting on Friday. Here’s what to know.\n\n"
+    "title": "Bond Volatility Fizzles as Turbulent Week Leaves Scant Mark",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbond-volatility-fizzles-as-turbulent-week-ends-with-small-moves",
+    "published": "Fri, 23 Jan 2026 16:47:23 CST",
+    "summary": "The turbulence that rattled financial markets earlier this week has vanished\nfrom the $30 trillion Treasury market, quashing traders’ hopes for a rebound\nin volatility from historic lows.\n\n"
   },
   {
-    "title": "No Evidence of 'Sell America' Trade: Herr",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fno-evidence-of-sell-america-trade-herr-video",
-    "published": "Fri, 23 Jan 2026 16:50:02 CST",
-    "summary": "Kay Herr, US CIO for Global Fixed Income, Currencies and Commodities at\nJPMorgan Asset Management, says while the 'Sell America' rhetoric reemerged\nthis week, strong auctions and flows into US fixed income markets suggest\notherwise. She speaks to Bloomberg's Dani Burger and David Gura on\n'Surveillance.' (Source: Bloomberg)\n\n"
+    "title": "Oil Markets Feeling Impact of US Winter Storm Disruptions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-oil-markets-start-to-feel-impact-of-winter-storm-disruptions",
+    "published": "Fri, 23 Jan 2026 16:41:54 CST",
+    "summary": "Frigid weather sweeping across much of the US is starting to freeze oil and\nnatural gas wells, threatening to disrupt production from North Dakota to\nTexas.\n\n"
   },
   {
     "title": "Betting on Prediction Markets Is Their Job. They Make Millions.",
@@ -342,16 +354,16 @@
     "summary": "The dollar is marking its worst week since May, fueling gains in the yen and\nother global currencies after a week of unpredictable US policymaking that\nrattled financial markets.\n\n"
   },
   {
+    "title": "US Natural Gas Hits Record Weekly Gain Ahead of Arctic Blast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-natural-gas-falls-after-record-breaking-three-day-rally",
+    "published": "Fri, 23 Jan 2026 08:21:04 CST",
+    "summary": "US natural gas futures for February delivery surged by 70% this week as the\nmarket braced for a historic winter storm that’s poised to send temperatures\nplummeting and boost demand for the heating fuel.\n\n"
+  },
+  {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
     "published": "Fri, 23 Jan 2026 06:31:20 CST",
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
-  },
-  {
-    "title": "CSG Jumps in Debut as Investors Clamor for Defense Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcsg-to-debut-after-largest-ever-defense-ipo-raises-3-3-billion",
-    "published": "Fri, 23 Jan 2026 06:00:00 CST",
-    "summary": "Shares in armored vehicle and munitions maker CSG NV surged in their Amsterdam\ndebut on Friday, reflecting strong investor appetite for defense stocks as\nglobal geopolitical tensions rise and Europe boosts military spending.\n\n"
   },
   {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
@@ -402,10 +414,10 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "Big Tech Climbs Before Earnings as Small Caps Drop: Markets Wrap",
+    "title": "S&amp;P 500 Is Set for First Two-Week Loss Since June: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Wall Street is ending a jittery week on a relatively quiet note amid renewed\nenthusiasm about artificial intelligence and signs of strength in the main\nengine of the world’s largest economy.\n\n"
+    "summary": "Wall Street is ending a jittery week on a relatively quiet note, with stock\ntraders digesting the rally of the past two days in the run-up to the Federal\nReserve decision and the start of the megacap earnings season.\n\n"
   },
   {
     "title": "Alaska Air Rises on Strong Premium Demand After Profit Beat",
@@ -802,12 +814,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-after-hours-nflx-ual-ibkr.html",
     "published": "Tue, 20 Jan 2026 22:45:22 CST",
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
-  },
-  {
-    "title": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not To.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Fbessent-powell-supreme-court-fed.html",
-    "published": "Tue, 20 Jan 2026 22:44:37 CST",
-    "summary": "Treasury Secretary Scott Bessent said it was a mistake for Jerome Powell to\nattend arguments in a case on Fed independence. But Mr. Bessent attended a\ntariff case.\n\n"
   },
   {
     "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
