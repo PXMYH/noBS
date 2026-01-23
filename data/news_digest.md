@@ -1,67 +1,67 @@
 # NoBS News Digest - January 23, 2026
 
-Generated from **210** unique articles (deduplicated from 210 total) across **1** news sources
+Generated from **213** unique articles (deduplicated from 213 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global economic and political tensions dominate headlines as President Trump's first year in office sparks controversy and concern. At the World Economic Forum in Davos, Trump's keynote speech signals a retreat from the liberal democratic order, raising fears of a leadership vacuum that China is poised to fill. Economists warn that while Trump's policies have yet to drastically alter the U.S. economy, their long-term effects could weaken the nation's standing. Meanwhile, Trump escalates trade war threats, even as courts consider limiting his tariff authority. The instability extends beyond the U.S., with Venezuela's economic crisis driving locals to adopt Tether's USDT stablecoin as a hedge against government volatility. Amid these geopolitical shifts, even lighter moments—like French President Macron's sunglasses at Davos—highlight the unusual dynamics of this year's global summit.
+Geopolitical tensions and economic shifts dominate this week’s headlines, with President Trump’s aggressive trade policies and diplomatic stance taking center stage. At the World Economic Forum in Davos, Trump’s keynote speech signaled a retreat from the liberal democratic order, raising concerns about U.S. global leadership and economic stability. Economists warn that his first-year policies, including threats of a new trade war, could weaken the U.S. economy long-term, even as courts consider limiting his tariff authority. Meanwhile, China stands to benefit from the power vacuum, further solidifying its influence in the global economy. Elsewhere, Venezuela’s economic instability drives locals to adopt USDT, a Tether-issued stablecoin, as a hedge against government volatility, highlighting the broader trend of cryptocurrency adoption in unstable regimes. On the domestic front, the Pentagon faces pushback over attempts to control *Stars and Stripes*, with lawmakers and the newspaper’s leadership advocating for its independence amid accusations of political bias.
 
 **Top Articles:**
+- [Inside the effort to shield Stars and Stripes from Pentagon control](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fpentagon-overhauls-stars-and-stripes%2F)
 - [‘Not a typical day’: makers of Macron’s sunglasses deluged with demand](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Femmanuel-macron-french-president-sunglasses-davos)
 - [China Wins as Trump Cedes Leadership of the Global Economy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fdavos-trump-xi-china.html)
 - [Trump’s First Year Could Have Lasting Economic Consequences](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fbusiness%2Ftrump-first-year-economy.html)
 - [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
-- [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fvenezuelans-turned-to-tether-issued-usdt-stablecoin-as-its-government-wobbled.html)
 
-**Sources**: archive.ph (5 articles)
+**Sources**: archive.ph (6 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, policy shifts, and corporate maneuvering this week. The dollar is on track for its worst week since June amid concerns over unpredictable U.S. policymaking, while the yen surged sharply against the greenback, leaving traders speculating about the cause. Meanwhile, European markets face headwinds as political jitters in France and the UK weigh on business activity and bonds, with gilts heading for their worst week in two months. In corporate news, defense IPOs are thriving—Czech tycoon Michal Strnad’s armaments firm and CSG NV’s Amsterdam debut both saw shares soar—while Chinese firms grapple with U.S. mistrust post-TikTok. M&A activity is heating up, with Capital One’s $5.15 billion acquisition of Brex and Chery’s purchase of Nissan’s South Africa plant, as companies adapt to shifting global trade dynamics. The Fed remains in focus, with speculation mounting over Jerome Powell’s future and Trump’s potential pick for the next chair, even as the Supreme Court signals reluctance to undermine the central bank’s independence. Retail traders continue to defy broader market trends, buying dips while institutional investors diversify away from U.S. assets.
+Global markets are navigating a volatile week as geopolitical tensions and unpredictable U.S. policymaking rattle investor confidence. The dollar is on track for its worst week since June, pressured by concerns over a 'policy nightmare' ahead of the Federal Reserve's upcoming meeting, while the yen surges amid heightened market jitters. Stocks initially plunged on fears of a U.S.-Europe trade war over Greenland, but rebounded after President Trump abruptly reversed course on tariffs, sparking a 'Trump Always Chickens Out' rally. Meanwhile, the Fed's independence faces scrutiny as the Supreme Court weighs Trump's attempt to fire a Fed governor, adding to uncertainty over monetary policy. Corporate activity remains brisk, with Capital One's $5.15 billion acquisition of fintech startup Brex and defense stocks like CSG NV soaring in their trading debuts. Emerging markets and commodities like gold are benefiting from diversification flows as investors pivot away from U.S. assets, while India cancels soy oil imports due to a slumping rupee. The week also saw Trump sue JPMorgan for $5 billion over alleged political debanking, and Procter & Gamble report mixed earnings, reflecting sticky inflation and shrinking consumer demand.
 
 **Top Articles:**
+- [ESA's Cristoforetti on Future of Space Exploration](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fesa-s-cristoforetti-on-future-of-space-exploration-video)
+- [Market’s Most Reliable Dip Buyers Cash in on Latest TACO Turn](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmarket-s-most-reliable-dip-buyers-cash-in-on-latest-taco-turn)
+- [South Africa's Godongwana 'Confident' on Having US Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fsouth-africa-s-godongwana-confident-on-having-us-deal-video)
 - [Defense Tycoon Strnad’s Wealth Soars to $37 Billion After IPO](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdefense-tycoon-strnad-s-wealth-soars-to-37-billion-after-ipo)
 - [Odd Lots: Michael Zawadzki on the Private Credit Boom (Podcast)](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Faudio%2F2026-01-23%2Fodd-lots-michael-zawadzki-on-the-private-credit-boom-podcast)
-- [Fedeli Says M&amp;G Is Underweight US But Not Abandoning It](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ffedeli-says-m-g-is-underweight-us-but-not-abandoning-it-video)
-- [After TikTok Deal, Chinese Firms Search for a New Global Path](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html)
-- [Telefónica Brazil Passes Telefónica’s Market Cap for First Time](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Ftelefonica-brazil-passes-telefonica-s-market-cap-for-first-time)
 
-**Sources**: archive.ph (86 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## 💻 Technology
 
-This week's tech and business landscape is dominated by major corporate maneuvers, regulatory shifts, and AI-driven market trends. Nvidia CEO Jensen Huang's upcoming visit to China underscores the company's push to revive stalled AI chip sales amid geopolitical tensions, while Netflix's $1.5 billion ad revenue in 2025—projecting to double this year—signals a strategic pivot paying off. Meanwhile, TikTok's restructuring under new U.S. ownership raises questions about app changes for its 200 million American users, as regulatory scrutiny intensifies. The IMF's upgraded global growth forecast, fueled by AI investment, contrasts with warnings from Ericsson's CEO about the EU's tech sovereignty push, which he calls 'dangerous' for the bloc's competitiveness. In other developments, the U.S. Supreme Court appears skeptical of Trump's attempt to remove Federal Reserve Governor Lisa Cook, highlighting ongoing tensions over executive authority. Smaller AI infrastructure firms are also gaining traction as critical players in the sector's expansion, challenging Big Tech's dominance.
+This week's headlines are dominated by major shifts in tech, finance, and geopolitics. Big Tech is accelerating its AI ambitions, with companies issuing a record $108.7 billion in bonds to fund AI development, though analysts warn of economic risks. Nvidia CEO Jensen Huang's upcoming visit to China underscores the high stakes in AI chip sales amid regulatory tensions. Meanwhile, TikTok's corporate restructuring in the U.S. raises questions about potential app changes for its 200 million American users. In corporate moves, Netflix revamps its $83 billion bid for Warner Bros. Discovery, opting for an all-cash deal to outmaneuver Paramount, while Berkshire Hathaway prepares to exit its 28% stake in Kraft Heinz, marking a rare misstep for Warren Buffett. Regulatory and legal battles also take center stage, as the U.S. Supreme Court appears skeptical of Trump's attempt to remove Federal Reserve Governor Lisa Cook, and the FCC cracks down on late-night TV shows hosting political candidates. Beyond tech, geopolitical strains between the U.S. and Europe weigh on economic outlooks, while Japan's restart of its largest nuclear plant revives debates over energy security post-Fukushima.
 
 **Top Articles:**
-- [UK PMI Shows Fastest Private Sector Growth in Almost Two Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fuk-pmi-shows-fastest-private-sector-growth-in-almost-two-years)
-- [Ericsson CEO: EU’s Tech Sovereignty Push Is ‘Dangerous’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fericsson-ceo-says-eu-s-tech-sovereignty-push-is-dangerous)
-- [Danish MP: We Don't Acknowledge Greenland Agreement With Trump](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fdanish-mp-we-don-t-acknowledge-greenland-agreement-video)
-- [Li Ka-shing Mulls New Ownership Terms to Complete Ports Deal](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fli-ka-shing-mulls-new-ownership-structure-to-complete-ports-deal)
-- [Nvidia’s Huang to visit China as AI chip sales stall](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fnvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html)
+- [RWE Weighs Sweden Exit After Selling Most of its Wind Assets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Frwe-weighs-sweden-exit-after-selling-most-of-its-wind-assets)
+- [Shell, Partners Study Potential $20 Billion Nigeria Oil Project](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fshell-partners-study-potential-20-billion-nigeria-oil-project)
+- [US-Europe Strains Hurt Credit Outlook on Both Sides, Scope Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-europe-strains-hurt-credit-outlook-on-both-sides-scope-says)
+- [Five Ways People Are Using Claude Code](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html)
+- [Big Tech is taking on more debt than ever to fund its AI aspirations](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fai-corporate-debt-record%2F)
 
-**Sources**: archive.ph (78 articles)
+**Sources**: archive.ph (82 articles)
 
 ---
 
 ## 📰 Other News
 
-This week's news highlights a mix of economic pressures, corporate shifts, and cultural milestones. Europe is drawing down gas reserves at the fastest rate in five years due to a harsh winter, while Japan's yen remains weak after the Bank of Japan's decision to hold interest rates. In corporate developments, Spotify's CEO Daniel Ek steps down after nearly two decades, leaving successors to navigate a challenging market, and Prudential Japan pledges reforms following a $20 million misconduct scandal. Meanwhile, Netflix reports a narrow earnings beat with 325 million global subscribers and amends its offer for Warner Bros. Discovery assets amid a hostile takeover bid. On the cultural front, the Oscar nominations set a record with 'Sinners' leading at 16 nods, while America prepares for its 250th anniversary with nationwide celebrations. Travel trends also emerge, with 'microvacations' gaining popularity as travelers seek shorter, more frequent getaways. Additionally, a major winter storm threatens to disrupt travel in the eastern U.S., and housing affordability remains a pressing issue as the Trump administration explores policy solutions.
+A major winter storm is disrupting travel and threatening power grids across the U.S., with freezing temperatures and heavy snowfall expected to leave millions without electricity. Meanwhile, Europe is drawing down gas reserves at the fastest rate in five years due to unusually cold weather, highlighting energy vulnerabilities on both sides of the Atlantic. In business, Netflix reports a narrow earnings beat with 325 million global subscribers and amends its offer for Warner Bros. Discovery assets, signaling continued dominance in streaming. The entertainment industry is also buzzing with Oscar nominations, where 'Sinners' leads with a record 16 nods. On the political front, Trump's housing affordability push faces criticism as his mortgage chief undermines efforts to aid low-income buyers, while CEOs like Jamie Dimon rare publicly criticize his immigration policies. Travel trends show a rise in 'microvacations' as consumers adapt to time constraints, while prediction markets gain traction among younger investors. Cultural milestones include America's 250th anniversary celebrations and the passing of Sega co-founder David Rosen, a video game pioneer.
 
 **Top Articles:**
+- [Storm Poses Big Threats to Power Grids Across U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html)
 - [Europe Taps Gas Storage at the Fastest Pace in Five Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Feurope-taps-gas-storage-at-the-fastest-pace-in-five-years)
 - [Blackstone's Michael Zawadzki on How Private Credit Got so Big](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fblackstone-s-michael-zawadzki-on-how-private-credit-got-so-big)
 - [Spotify im Umbruch](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fspotify-im-umbruch-video)
 - [Prudential Japan Pledges Reforms After Widespread Misconduct](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fprudential-japan-pledges-reforms-after-widespread-misconduct)
-- [Yen Likely to Remain Weak After BOJ Hold, Strategists Say](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-likely-to-remain-weak-after-boj-holds-rates-strategists-say)
 
 **Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 23, 2026 at 09:55 AM *
+*Digest generated on January 23, 2026 at 10:52 AM *

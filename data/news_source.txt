@@ -1,12 +1,78 @@
 [
   {
+    "title": "ESA's Cristoforetti on Future of Space Exploration",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fesa-s-cristoforetti-on-future-of-space-exploration-video",
+    "published": "Fri, 23 Jan 2026 10:43:41 CST",
+    "summary": "Samantha Cristoforetti, a European Space Agency astronaut and the first female\ncommander of the International Space Station from Europe, shares insights on\nleadership and the space race with Bloomberg TV. She speaks to Francine Lacqua\non the sidelines of the World Economic Forum in Davos, Switzerland. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "RWE Weighs Sweden Exit After Selling Most of its Wind Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Frwe-weighs-sweden-exit-after-selling-most-of-its-wind-assets",
+    "published": "Fri, 23 Jan 2026 10:33:42 CST",
+    "summary": "German utility RWE AG is considering an exit from the Swedish energy market,\nwhere growth in renewables has stalled amid policy uncertainty and a\ngovernment push to develop new nuclear reactors.\n\n"
+  },
+  {
+    "title": "Market’s Most Reliable Dip Buyers Cash in on Latest TACO Turn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmarket-s-most-reliable-dip-buyers-cash-in-on-latest-taco-turn",
+    "published": "Fri, 23 Jan 2026 10:30:00 CST",
+    "summary": "There were doubters, all across Wall Street by some accounts, that Tuesday’s\nstock rout would be short-lived, a pullback not sharp enough to dissuade\nPresident Donald Trump from waging a trade war with Europe for control of\nGreenland.\n\n"
+  },
+  {
+    "title": "Shell, Partners Study Potential $20 Billion Nigeria Oil Project",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fshell-partners-study-potential-20-billion-nigeria-oil-project",
+    "published": "Fri, 23 Jan 2026 10:23:42 CST",
+    "summary": "Shell Plc and its partners in Nigeria are exploring how to develop a big oil\nfield in the West African nation, a step that could one day see them invest\n$20 billion in the project, the oil major’s Chief Executive Officer said.\n\n"
+  },
+  {
+    "title": "South Africa's Godongwana 'Confident' on Having US Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fsouth-africa-s-godongwana-confident-on-having-us-deal-video",
+    "published": "Fri, 23 Jan 2026 10:16:36 CST",
+    "summary": "\"I'm quite confident we will have a deal with the United States of America on\nthe trade front,\" South African Finance Minister Enoch Godongwana told\nBloomberg's Francine Lacqua at the World Economic Forum's annual gathering in\nDavos, Switzerland. He also talked about the broader economic situation in\nSouth Africa and ruled out any major tax changes in next month’s budget.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US-Europe Strains Hurt Credit Outlook on Both Sides, Scope Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-europe-strains-hurt-credit-outlook-on-both-sides-scope-says",
+    "published": "Fri, 23 Jan 2026 10:15:09 CST",
+    "summary": "President Donald Trump’s unpredictability in US foreign affairs and the\nassociated strain on relations with Europe are weighing on Scope Ratings’s\nview of sovereigns on either side of the Atlantic.\n\n"
+  },
+  {
+    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
+    "published": "Fri, 23 Jan 2026 10:04:53 CST",
+    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
+  },
+  {
+    "title": "Five Ways People Are Using Claude Code",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html",
+    "published": "Fri, 23 Jan 2026 10:02:59 CST",
+    "summary": "The artificial intelligence tool generates computer code when people type\nprompts, so those with no coding experience can create their own programs and\napps.\n\n"
+  },
+  {
+    "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fpentagon-overhauls-stars-and-stripes%2F",
+    "published": "Fri, 23 Jan 2026 10:00:01 CST",
+    "summary": "The Pentagon criticized the military newspaper as “woke.” Now its leaders —\nand some members of Congress — are trying to assert Stars and Stripes’\nindependence from the Defense Department.\n\n"
+  },
+  {
+    "title": "Big Tech is taking on more debt than ever to fund its AI aspirations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fai-corporate-debt-record%2F",
+    "published": "Fri, 23 Jan 2026 10:00:00 CST",
+    "summary": "Technology companies issued a record $108.7 billion in bonds in the fourth\nquarter, a proliferation that some analysts say puts the broader economy at\nrisk.\n\n"
+  },
+  {
+    "title": "Horizons Middle East and Africa 1/23/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fhorizons-middle-east-and-africa-1-23-2026-video",
+    "published": "Fri, 23 Jan 2026 09:42:11 CST",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's\nfastest-growing regions. Live from Dubai, we bring you the latest global\nmarkets and analysis, plus news-making interviews, with a special focus on\nMEA. All that and more, as you head to the office in the Gulf, pause for lunch\nin Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Defense Tycoon Strnad’s Wealth Soars to $37 Billion After IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdefense-tycoon-strnad-s-wealth-soars-to-37-billion-after-ipo",
     "published": "Fri, 23 Jan 2026 09:31:45 CST",
     "summary": "Michal Strnad saw his wealth soar to $37 billion after shares in the Czech\ndefense tycoon’s armaments firm jumped in their trading debut.\n\n"
   },
   {
-    "title": "UK PMI Shows Fastest Private Sector Growth in Almost Two Years",
+    "title": "UK PMI Shows Rapid Private Sector Growth at 21-Month High",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fuk-pmi-shows-fastest-private-sector-growth-in-almost-two-years",
     "published": "Fri, 23 Jan 2026 09:30:00 CST",
     "summary": "British technology and financial services firms drove the fastest private-\nsector growth in almost two years, according to a closely watched survey that\nshowed bosses approving new projects after the budget.\n\n"
@@ -78,52 +144,16 @@
     "summary": "The Taiwan dollar is exhibiting greater stability than its regional peers amid\nthis week’s geopolitical headwinds as greenback sales from local exporters\nsupport the currency.\n\n"
   },
   {
-    "title": "Chery to Buy Nissan’s South Africa Car Plant as Local Sales Soar",
+    "title": "Chery to Buy Nissan South Africa Plant, Marking Rapid Climb",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchery-to-buy-nissan-s-south-africa-car-plant-as-local-sales-soar",
     "published": "Fri, 23 Jan 2026 08:23:16 CST",
-    "summary": "Chery Automobile Co. , China’s top car exporter, agreed to buy Nissan Motor\nCo.’s vehicle-manufacturing plant in South Africa soon after it grew to become\nthe second-biggest vehicle retailer locally.\n\n"
+    "summary": "Chery Automobile Co., China’s top car exporter, agreed to buy Nissan Motor\nCo.’s vehicle-manufacturing plant in South Africa, the latest evidence of the\ngrowing global dominance of Chinese brands.\n\n"
   },
   {
-    "title": "US Natural Gas Falls After Record-Breaking Three-Day Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-natural-gas-falls-after-record-breaking-three-day-rally",
-    "published": "Fri, 23 Jan 2026 08:21:04 CST",
-    "summary": "US natural gas futures pared a record breaking three-day rally, after traders\nfinished exiting short positions and the market braced for a historic winter\nstorm.\n\n"
-  },
-  {
-    "title": "Europe Poised to Import More LNG Than Ever This year, IEA Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Feurope-poised-to-import-more-lng-than-ever-this-year-iea-says",
-    "published": "Fri, 23 Jan 2026 08:20:51 CST",
-    "summary": "Europe will import record volumes of liquefied natural gas this year,\ndeepening its reliance on the volatile global market, according to the\nInternational Energy Agency.\n\n"
-  },
-  {
-    "title": "Danish MP: We Don't Acknowledge Greenland Agreement With Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fdanish-mp-we-don-t-acknowledge-greenland-agreement-video",
-    "published": "Fri, 23 Jan 2026 08:18:09 CST",
-    "summary": "Danish opposition MP Sascha Faxe has pushed back on President Trump's claim\nthat the US has struck a deal for 'total access' to Greenland. Faxe, MP for\nthe The Alternative Party, says there have been no negotiations with\nGreenland. However, she adds both Denmark and Greenland are open to\ncollaboration with the United States. Faxe spoke to Lizzy Burden on\nBloomberg's Daybreak Europe. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Gilts Head for Worst Week Since November on Political Jitters",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fgilts-head-for-worst-week-since-november-on-political-jitters",
-    "published": "Fri, 23 Jan 2026 08:17:59 CST",
-    "summary": "Gilts are heading for their worst week in two months as the return of\npolitical risk in the country caps a turbulent spell for global bond markets.\n\n"
-  },
-  {
-    "title": "French Business Activity Falls as Budget Drama Curbs Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Ffrench-business-activity-falls-as-budget-drama-curbs-demand",
-    "published": "Fri, 23 Jan 2026 08:15:00 CST",
-    "summary": "Business activity in France shrank for the first time since October as\npolitical turmoil over the country’s budget weighed on demand.\n\n"
-  },
-  {
-    "title": "Yen Gains Sharply Versus Dollar, Sparking Guessing Game on Cause",
+    "title": "Yen Gains Sharply Versus Dollar, Highlighting a Market on Edge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-gains-sharply-against-dollar-after-earlier-drop-on-boj",
     "published": "Fri, 23 Jan 2026 08:06:39 CST",
-    "summary": "The yen advanced sharply versus the dollar on Friday, leaving traders guessing\nand on edge over what caused the move.\n\n"
-  },
-  {
-    "title": "Li Ka-shing Mulls New Ownership Terms to Complete Ports Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fli-ka-shing-mulls-new-ownership-structure-to-complete-ports-deal",
-    "published": "Fri, 23 Jan 2026 07:52:02 CST",
-    "summary": "Billionaire Li Ka-shing’s CK Hutchison Holdings Ltd. is renewing efforts to\nsell dozens of ports to a global consortium by splitting the deal into\nseparate parcels with different ownership structures, people familiar with the\nmatter said.\n\n"
+    "summary": "The yen advanced sharply versus the dollar on Friday, capping a week of high\nvolatility in Japan’s financial markets.\n\n"
   },
   {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
@@ -132,10 +162,10 @@
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
   },
   {
-    "title": "CSG Shares Jump 32% in Amsterdam Debut After Largest Defense IPO",
+    "title": "CSG Jumps in Trading Debut as Investors Clamor for Defense Stock",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fcsg-to-debut-after-largest-ever-defense-ipo-raises-3-3-billion",
     "published": "Fri, 23 Jan 2026 06:00:00 CST",
-    "summary": "Armored vehicle and munitions maker CSG NV’s shares soared in its Amsterdam\ntrading debut on Friday morning, after the firm and its owner raised €3.3\nbillion ($3.9 billion) in an initial public offering.\n\n"
+    "summary": "Armored vehicle and munitions maker CSG NV’s shares rallied in its Amsterdam\ntrading debut on Friday morning, reflecting the surge in investor appetite for\ndefense stocks from mounting geopolitical tensions this year.\n\n"
   },
   {
     "title": "Nvidia’s Huang to visit China as AI chip sales stall",
@@ -168,6 +198,12 @@
     "summary": "The yen is unlikely to stanch its recent weakness after the Bank of Japan held\nrates as expected, according to strategists, who saw the decision as tilting\nslightly hawkish.\n\n"
   },
   {
+    "title": "‘Quiet-Quitting’ of US Assets Fuels Boom in Bets From EM to Gold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Femerging-markets-rocket-with-gold-as-de-dollarization-picks-up",
+    "published": "Fri, 23 Jan 2026 04:13:12 CST",
+    "summary": "Emerging-market stocks, currencies and precious metals are extending a\nstorming start to 2026 as tensions between the US and Europe weigh on the\ndollar and re-energize diversification flows around the world.\n\n"
+  },
+  {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-sold-app-content-algorithm.html",
     "published": "Fri, 23 Jan 2026 03:36:54 CST",
@@ -190,12 +226,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjpmorgan-trump-lawsuit.html",
     "published": "Fri, 23 Jan 2026 02:01:53 CST",
     "summary": "The lawsuit, citing “political discrimination,” said the banking giant told\nPresident Trump shortly after the Jan. 6 attack on the Capitol that it would\nclose his accounts.\n\n"
-  },
-  {
-    "title": "China Paves Way for Yuan Gains as PBOC Boosts Fix Beyond 7",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fchina-sets-yuan-fixing-stronger-than-7-for-first-time-since-2023",
-    "published": "Fri, 23 Jan 2026 01:24:59 CST",
-    "summary": "China opened the door for further yuan gains, as the central bank strengthened\nthe daily reference rate by the most since August, pushing it past a closely\nwatched level.\n\n"
   },
   {
     "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
@@ -228,7 +258,7 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "US Stocks Face Weekly Loss as Rotation Gains Speed: Markets Wrap",
+    "title": "US Stocks to Extend Weekly Loss as Intel Sinks 13%: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
     "summary": "US futures pointed to back-to-back weekly losses for the S&P 500 for the first\ntime since June after a turbulent stretch that added fresh fuel to a global\ndiversification drive across assets and regions.\n\n"
@@ -738,12 +768,6 @@
     "summary": "The World Economic Forum is now dominated by global technology companies whose\ninterests shunt aside most others.\n\n"
   },
   {
-    "title": "Nome, Alaska Is Now Key to Trump’s Global Ambitions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fnome-alaska-arctic-port-trump-ambitions.html",
-    "published": "Tue, 20 Jan 2026 18:16:33 CST",
-    "summary": "Nome, population 3,700, is accessible only by plane outside a few months when\nboats can pass through. But it will be the home of the nation’s only deepwater\nArctic port.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-premarket-nvda-jbht-mmm-mu.html",
     "published": "Tue, 20 Jan 2026 16:31:34 CST",
@@ -778,12 +802,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fseattle-dock-workers-tariffs-trump.html",
     "published": "Tue, 20 Jan 2026 01:42:25 CST",
     "summary": "Dock workers are used to uncertainty, but nothing since the Great Recession of\n2008 compares to what they have experienced this year.\n\n"
-  },
-  {
-    "title": "Federal Reserve Inquiry Clouds Trump’s Supreme Court Bid to Oust Lisa Cook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Fsupreme-court-federal-reserve-cook-powell.html",
-    "published": "Mon, 19 Jan 2026 20:52:37 CST",
-    "summary": "The court is set to hear Ms. Cook’s case challenging her firing as the Justice\nDepartment investigates Jerome H. Powell, the central bank chair.\n\n"
   },
   {
     "title": "Trump’s Trade Negotiator Says Response to Court Loss Would Be Immediate",
