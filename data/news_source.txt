@@ -1,5 +1,35 @@
 [
   {
+    "title": "Intel Suffers Worst Decline in 17 Months | Open Interest 1/23/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fopen-interest-1-23-2026-video",
+    "published": "Fri, 23 Jan 2026 19:15:08 CST",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest. Intel slips and Nvidia gets a boost as China signals\nnew demand for its H200 chips. And President Trump takes aim at Wall Street,\nsuing JPMorgan and CEO Jamie Dimon for at least $5 billion over alleged\ndebanking. And as a record winter storm threatens blackouts nationwide, the US\nurges grid operators to tap emergency power. Plus the CEO of Critical Metals,\na company at the center of Greenland speculation, joins the show to talk about\nthe challenge of mining rare earths in Greenland. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Capital One to Pay $5.15 Billion for Fintech Brex",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fcapital-one-to-pay-5-15-billion-for-fintech-brex-video",
+    "published": "Fri, 23 Jan 2026 19:07:09 CST",
+    "summary": "Capital One agreed to acquire corporate expense management company Brex for\n$5.15 billion. Brex CEO Pedro Franceschi joins Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "We Are An Infrastructure Company, Not A Treasury Company: BitGo CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fwe-are-an-infrastructure-company-bitgo-ceo-video",
+    "published": "Fri, 23 Jan 2026 19:01:56 CST",
+    "summary": "BitGo shares slipped on the crypto company’s second day of trading, falling\nbelow their IPO price. But CEO Mike Belshe says short-term market moves don’t\nchange the company’s long-term strategy, describing BitGo as a global digital-\nasset infrastructure provider rather than a crypto wallet or treasury play.\nMike Belshe joins the conversation on \"Bloomberg Markets\" with Scarlet Fu.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
+    "published": "Fri, 23 Jan 2026 19:00:03 CST",
+    "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
+  },
+  {
+    "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html",
+    "published": "Fri, 23 Jan 2026 18:58:33 CST",
+    "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
+  },
+  {
     "title": "Paraguay Central Bank Surprises With Quarter-Point Rate Cut",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fparaguay-central-bank-surprises-with-quarter-point-rate-cut",
     "published": "Fri, 23 Jan 2026 18:48:14 CST",
@@ -21,7 +51,7 @@
     "title": "Bloomberg Markets 1/23/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fbloomberg-markets-1-23-2026-video",
     "published": "Fri, 23 Jan 2026 18:38:09 CST",
-    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: PIMCO Global\nEconomic Advisor Rich Clarida, BitGo Co-Founder & CEO Mike Belshe (Source:\nBloomberg)\n\n"
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: PIMCO Global\nEconomic Advisor Rich Clarida and BitGo Co-Founder & CEO Mike Belshe. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Tesla Begins Robotaxi Rides in Austin Without Safety Drivers",
@@ -148,18 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fno-evidence-of-sell-america-trade-herr-video",
     "published": "Fri, 23 Jan 2026 16:50:02 CST",
     "summary": "Kay Herr, US CIO for Global Fixed Income, Currencies and Commodities at\nJPMorgan Asset Management, says while the 'Sell America' rhetoric reemerged\nthis week, strong auctions and flows into US fixed income markets suggest\notherwise. She speaks to Bloomberg's Dani Burger and David Gura on\n'Surveillance.' (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fbloomberg-surveillance-1-23-2026-video",
-    "published": "Fri, 23 Jan 2026 16:50:01 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Bond Volatility Fizzles as Turbulent Week Ends With Small Moves",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbond-volatility-fizzles-as-turbulent-week-ends-with-small-moves",
-    "published": "Fri, 23 Jan 2026 16:47:23 CST",
-    "summary": "The turbulence that rattled financial markets earlier this week has vanished\nfrom the $30 trillion Treasury market, quashing traders’ hopes for a rebound\nin volatility from historic lows.\n\n"
   },
   {
     "title": "Betting on Prediction Markets Is Their Job. They Make Millions.",
@@ -318,22 +336,10 @@
     "summary": "Technology companies issued a record $108.7 billion in bonds in the fourth\nquarter, a proliferation that some analysts say puts the broader economy at\nrisk.\n\n"
   },
   {
-    "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html",
-    "published": "Fri, 23 Jan 2026 08:42:38 CST",
-    "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
-  },
-  {
     "title": "Dollar’s Worst Week Since May Comes With US ‘Policy Nightmare’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fdollar-set-for-worst-week-since-june-on-us-policy-nightmare",
     "published": "Fri, 23 Jan 2026 08:34:46 CST",
     "summary": "The dollar is marking its worst week since May, fueling gains in the yen and\nother global currencies after a week of unpredictable US policymaking that\nrattled financial markets.\n\n"
-  },
-  {
-    "title": "European Stocks Snap Five-Week Winning Streak as Airlines Drop",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Feuropean-stocks-muted-with-earnings-in-focus-ericsson-rallies",
-    "published": "Fri, 23 Jan 2026 08:20:51 CST",
-    "summary": "European stocks suffered their biggest weekly loss in two months amid\nlingering geopolitical risks and as a jump in oil prices dragged airline\nshares lower.\n\n"
   },
   {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
@@ -396,10 +402,10 @@
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "S&amp;P 500 Is Set for First Two-Week Loss Since June: Markets Wrap",
+    "title": "Big Tech Climbs Before Earnings as Small Caps Drop: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Wall Street is ending a jittery week on a relatively quiet note, with stock\ntraders digesting the rally of the past two days in the run-up to the Federal\nReserve decision and the start of the megacap earnings season.\n\n"
+    "summary": "Wall Street is ending a jittery week on a relatively quiet note amid renewed\nenthusiasm about artificial intelligence and signs of strength in the main\nengine of the world’s largest economy.\n\n"
   },
   {
     "title": "Alaska Air Rises on Strong Premium Demand After Profit Beat",
@@ -918,12 +924,6 @@
     "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that\nhas been roundly rejected by industry executives and their lobbyists this\nweek.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: Novo Nordisk, Vistra, GE Vernova, Regions Financial and more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fstocks-making-the-biggest-moves-midday-nvo-rf-gev-vst-and-more.html",
-    "published": "Fri, 16 Jan 2026 16:49:23 CST",
-    "summary": "These are some of the stocks posting the largest moves in midday trading.\n\n"
-  },
-  {
     "title": "Trump's proposed ban on buying single-family homes introduces uncertainty for family offices",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Ftrump-investors-homes-family-offices.html",
     "published": "Fri, 16 Jan 2026 12:30:01 CST",
@@ -946,12 +946,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Ftrump-congress-aca-subsidies-health-care.html",
     "published": "Thu, 15 Jan 2026 18:37:03 CST",
     "summary": "Trump urged Congress, which is grappling over an extension of key ACA tax\ncredits, to pass \"The Great Healthcare Plan\" without delay.\n\n"
-  },
-  {
-    "title": "NBCUniversal strategically leans into sports as it prepares for 'Legendary February'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Fnbcuniversal-leans-into-sports.html",
-    "published": "Thu, 15 Jan 2026 16:26:28 CST",
-    "summary": "NBCUniversal's calling card used to be \"Must See TV,\" but the modern media\nworld has pushed the company in a new direction, led by live sports.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
