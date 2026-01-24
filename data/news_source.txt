@@ -2,8 +2,20 @@
   {
     "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 20:22:55 CST",
-    "summary": "Airlines have canceled more than 12,000 flights as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
+    "published": "Sat, 24 Jan 2026 22:31:04 CST",
+    "summary": "Airlines have canceled around 13,000 flights as a powerful storm brings ice,\nsleet and major snowfall to the Midwest, South and Northeast.\n\n"
+  },
+  {
+    "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fgeneral-motors-ford-canada-china.html",
+    "published": "Sat, 24 Jan 2026 22:27:59 CST",
+    "summary": "U.S. trade policy has devastated the Canadian auto industry and pushed the\ncountry to reach an agreement that will make it easier for Chinese companies\nto sell cars there.\n\n"
+  },
+  {
+    "title": "Tense Fed Is Set to Lead Global Peers With Interest-Rate Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Ftense-fed-is-set-to-lead-global-peers-with-interest-rate-hold",
+    "published": "Sat, 24 Jan 2026 21:00:00 CST",
+    "summary": "The Federal Reserve and three of the central banks that just backed its\nembattled chair are poised to keep interest rates unchanged at an edgy moment\nfor global policymakers.\n\n"
   },
   {
     "title": "The Junkiest Junk Bonds Are Finding Big Demand This Year: Credit Weekly",
@@ -94,12 +106,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fwill-leaving-my-terrible-job-make-me-look-flaky.html",
     "published": "Sat, 24 Jan 2026 10:01:57 CST",
     "summary": "And, picking up the slack for a colleague with long Covid.\n\n"
-  },
-  {
-    "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fgeneral-motors-ford-canada-china.html",
-    "published": "Sat, 24 Jan 2026 10:01:01 CST",
-    "summary": "U.S. trade policy has devastated the Canadian auto industry and pushed the\ncountry to reach an agreement that will make it easier for Chinese companies\nto sell cars there.\n\n"
   },
   {
     "title": "After months of restraint, treasury secretary joins attacks on Fed chief",
@@ -268,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwall-street-private-credit-risk-rising.html",
     "published": "Fri, 23 Jan 2026 21:26:18 CST",
     "summary": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated\n$4.9 trillion by 2029. Wall Street is starting to raise alarms about the\nrisks.\n\n"
-  },
-  {
-    "title": "See A K-shaped Credit Market: Steven Oh",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fsee-a-k-shaped-credit-market-steven-oh-video",
-    "published": "Fri, 23 Jan 2026 21:26:16 CST",
-    "summary": "Kathy Jones, Chief Fixed Income Strategist at the Schwab Center for Financial\nResearch and Russ Brownback, Deputy CIO of Global Fixed Income at BlackRock\ntell Bloomberg that while concerns about US fiscal deficits and inflation\ncould weigh on Treasury demand over the long run, they don’t see an imminent\nrisk of a mass selloff. Jones says Treasuries remain difficult to replace at\nscale, even as geopolitical tensions and policy uncertainty may push investors\nto demand higher yields over time. Brownback adds the US is not near a\nsolvency or systemic tipping point. They joined the conversation on \"Bloomberg\nReal Yield\" with Scarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
     "title": "China Wins as Trump Cedes Leadership of the Global Economy",
@@ -514,12 +514,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fparamount-wbd-netflix-european-regulators.html",
     "published": "Thu, 22 Jan 2026 21:58:36 CST",
     "summary": "Paramount is counting on European regulatory backlash to push the WBD deal\naway from Netflix.\n\n"
-  },
-  {
-    "title": "Trump sues JPMorgan, Jamie Dimon over cutting off banking access",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Ftrump-lawsuit-jpmorganchase-dimon%2F",
-    "published": "Thu, 22 Jan 2026 21:43:30 CST",
-    "summary": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie\nDimon, saying the bank abruptly closed his accounts.\n\n"
   },
   {
     "title": "Lowe's bets on kids, creators and Gen Z as Americans delay homebuying",
