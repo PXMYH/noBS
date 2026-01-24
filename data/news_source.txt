@@ -1,5 +1,11 @@
 [
   {
+    "title": "Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fmining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals",
+    "published": "Sat, 24 Jan 2026 09:00:00 CST",
+    "summary": "Global mining stocks have shot to the top of fund managers’ must-have list, as\nsoaring metals demand and tight supplies of key minerals hint at a new\nsupercycle in the sector.\n\n"
+  },
+  {
     "title": "Ukraine Under Massive Russian Attack as UAE Talks Continue",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fkyiv-under-massive-drone-missile-attack-as-uae-talks-continue",
     "published": "Sat, 24 Jan 2026 05:01:17 CST",
@@ -196,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-jumps-most-since-august-as-risk-of-intervention-ramps-up",
     "published": "Fri, 23 Jan 2026 19:53:35 CST",
     "summary": "Speculation mounted into the weekend that Japanese authorities could be\npreparing to enter currency markets in a bid to halt the yen’s slide, possibly\nwith the rare assistance of the US.\n\n"
-  },
-  {
-    "title": "Capital One to Pay $5.15 Billion for Fintech Brex",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fcapital-one-to-pay-5-15-billion-for-fintech-brex-video",
-    "published": "Fri, 23 Jan 2026 19:07:09 CST",
-    "summary": "Capital One agreed to acquire corporate expense management company Brex for\n$5.15 billion. Brex CEO Pedro Franceschi joins Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
