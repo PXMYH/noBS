@@ -1,5 +1,17 @@
 [
   {
+    "title": "Chrystia Freeland: ‘Ball Is In Putin’s Court’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fchrystia-freeland-ball-is-in-putin-s-court-video",
+    "published": "Sat, 24 Jan 2026 13:03:57 CST",
+    "summary": "Chrystia Freeland, former Canadian Deputy Prime Minister and current economic\nadviser to Ukrainian President Zelenskiy, speaks with David Westin from Davos\nabout negotiations over the war in Ukraine. She discusses potential investment\nopportunities in Ukraine, and explains why the latest scuffle over Greenland\nwas a “wake up call for Europe.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "How Trump Dominated the World Economic Forum",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-24%2Ftrump-s-walks-back-greenland-tariffs-ramps-up-french-wine-duties",
+    "published": "Sat, 24 Jan 2026 13:00:00 CST",
+    "summary": "Trump made an about-face on tariffs this week.\n\n"
+  },
+  {
     "title": "Pets are family. But can you claim them as dependents on your tax return?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F24%2Ftax-return-filing-dogs-cats-dependents%2F",
     "published": "Sat, 24 Jan 2026 11:00:00 CST",
@@ -42,18 +54,6 @@
     "summary": "Global mining stocks have shot to the top of fund managers’ must-have list, as\nsoaring metals demand and tight supplies of key minerals hint at a new\nsupercycle in the sector.\n\n"
   },
   {
-    "title": "Ukraine Under Massive Russian Attack as UAE Talks Continue",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fkyiv-under-massive-drone-missile-attack-as-uae-talks-continue",
-    "published": "Sat, 24 Jan 2026 05:01:17 CST",
-    "summary": "Kyiv and other Ukrainian regions came under a massive Russian drone and\nmissile attack overnight as talks continue between US, Russian and Ukrainian\nofficials in the United Arab Emirates aimed at finding a path to end to the\nwar.\n\n"
-  },
-  {
-    "title": "Swedish Tourist Among Those Missing After New Zealand Landslide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fnew-zealand-police-find-human-remains-after-landslide-tragedy",
-    "published": "Sat, 24 Jan 2026 00:43:04 CST",
-    "summary": "A Swedish tourist and two teenagers are among six people missing more than\nthree days after a devastating landslide struck a campsite in the popular New\nZealand holiday spot of Mount Maunganui.\n\n"
-  },
-  {
     "title": "Five Ways People Are Using Claude Code",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html",
     "published": "Sat, 24 Jan 2026 00:40:42 CST",
@@ -76,12 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwall-street-week-ecuador-s-cocoa-boom-israel-defense-video",
     "published": "Sat, 24 Jan 2026 00:15:31 CST",
     "summary": "This week, economic adviser to Ukraine Chrystia Freeland discusses President\nTrump’s threats to seize Greenland and his meeting with Ukrainian President\nZelenskiy in Davos, Switzerland. And, renewed threats of tariffs on European\nwine could raise prices and ripple through the entire US wine industry. Plus,\nclimate change is disrupting cocoa in West Africa and turning Ecuador into a\nmajor global supplier. Later, why global criticism of the war in Gaza hasn’t\nstopped countries from turning to Israel for defense technology. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "ICE detention staff reported death of restrained man as a suicide",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fice-detainee-death-911-calls%2F",
-    "published": "Fri, 23 Jan 2026 23:56:32 CST",
-    "summary": "The statements to 911 operators the night Geraldo Lunas Campos died appear to\nconflict with autopsy’s later finding of ‘homicide.’\n\n"
   },
   {
     "title": "Braskem Makes Interest Payment on Pandemic-Era Hybrid Bonds",
@@ -118,6 +112,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fs-p-500-ends-week-lower-closing-bell-video",
     "published": "Fri, 23 Jan 2026 22:48:33 CST",
     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Fitch Boosts Turkey’s Rating Outlook, Moody’s Stays Put",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Ffitch-upgrades-turkey-s-rating-outlook-moody-s-stays-put",
+    "published": "Fri, 23 Jan 2026 22:34:48 CST",
+    "summary": "Fitch Ratings raised Turkey’s outlook to positive from stable on Friday,\nciting an increase in foreign exchange reserves and reduced risk of policy\nloosening, days after the central bank delivered a less-than-expected\nreduction in the benchmark rate.\n\n"
   },
   {
     "title": "AMC Enters Talks With Bondholders, Sparking Slump in Debt Prices",
@@ -250,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ftesla-begins-austin-robotaxi-rides-minus-safety-drivers-video",
     "published": "Fri, 23 Jan 2026 18:37:36 CST",
     "summary": "Tesla is removing the safety driver from its robotaxis in Austin, kicking\ncompetition in the self-driving cab market into higher gear. Regina Clewlow,\nmanaging director at mobility analytics firm Populus, discusses the news and\nconsumer readiness for self-driving cars with Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Apple Signals CEO Candidate by Expanding Hardware Boss’s Role",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fapple-s-hardware-boss-takes-lead-of-design-teams-video",
-    "published": "Fri, 23 Jan 2026 18:29:26 CST",
-    "summary": "Apple has expanded the job of hardware chief John Ternus to include design\nwork, a move solidifying his status as a leading contender to eventually\nsucceed current Chief Executive Officer Tim Cook. Bloomberg’s Mark Gurman\ndiscusses the move with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\"\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
