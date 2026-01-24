@@ -1,5 +1,11 @@
 [
   {
+    "title": "Kyiv Under Massive Drone, Missile Attack as UAE Talks Continue",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fkyiv-under-massive-drone-missile-attack-as-uae-talks-continue",
+    "published": "Sat, 24 Jan 2026 05:01:17 CST",
+    "summary": "Ukraine’s capital Kyiv suffered a massive drone and missile attack overnight\nas talks continued between US, Russian and Ukrainian representatives in the\nUnited Arab Emirates aimed at finding a path toward peace.\n\n"
+  },
+  {
     "title": "Swedish Tourist Among Those Missing After New Zealand Landslide",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fnew-zealand-police-find-human-remains-after-landslide-tragedy",
     "published": "Sat, 24 Jan 2026 00:43:04 CST",
@@ -214,12 +220,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fapple-s-hardware-boss-takes-lead-of-design-teams-video",
     "published": "Fri, 23 Jan 2026 18:29:26 CST",
     "summary": "Apple has expanded the job of hardware chief John Ternus to include design\nwork, a move solidifying his status as a leading contender to eventually\nsucceed current Chief Executive Officer Tim Cook. Bloomberg’s Mark Gurman\ndiscusses the move with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Skyrocketing Valuation Increases Appetite for Private Investments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fsoaring-valuation-increases-private-investments-appetite-video",
-    "published": "Fri, 23 Jan 2026 18:18:56 CST",
-    "summary": "Appetite for private growth equity picks up as startups stay private longer\nwith skyrocketing valuations. Peter Singlehurst, head of private companies at\nBaillie Gifford, discusses the opportunities for investors with Caroline Hyde\nand Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
