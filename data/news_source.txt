@@ -2,8 +2,8 @@
   {
     "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 19:04:36 CST",
-    "summary": "Airlines have canceled more than 11,000 flights as a powerful storm brings\nice, sleet and potentially major snowfall to the Midwest, South and Northeast.\n\n"
+    "published": "Sat, 24 Jan 2026 20:22:55 CST",
+    "summary": "Airlines have canceled more than 12,000 flights as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
     "title": "Bank of France Chief Laments Minimal Effort to Cut Deficit",
@@ -28,6 +28,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
     "published": "Sat, 24 Jan 2026 16:40:37 CST",
     "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
+  },
+  {
+    "title": "Trump threatens Canada with 100% tariff over possible deal with China",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F24%2Ftrump-canada-tariff-threat-venezuela-oil",
+    "published": "Sat, 24 Jan 2026 15:04:15 CST",
+    "summary": "President also claimed US refineries will process seized Venezuelan oil,\nsaying ‘we take the oil’\n\nDonald Trump on Saturday said he would impose a 100% tariff on all Canadian\nimports if the North American country makes a trade deal with China.\n\nBeside that tariff threat, another Trump foreign policy maneuver to make news\non Saturday involved the president announcing the US had taken the oil that\nwas on recently seized Venezuelan tankers.\n\nContinue reading...\n\n"
   },
   {
     "title": "Why European Wine Could Get Pricier Under New US Tariffs",
@@ -540,12 +546,6 @@
     "summary": "In 2025, Industrious increased its global footprint by 58%, now with more than\n250 units open in over 100 cities.\n\n"
   },
   {
-    "title": "Trump budget office orders review of funds to Democratic-controlled states",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F22%2Fdemocratic-states-federal-funding-review%2F",
-    "published": "Thu, 22 Jan 2026 19:33:50 CST",
-    "summary": "President Donald Trump said his administration would cut off federal resources\nto “sanctuary cities” on Feb. 1.\n\n"
-  },
-  {
     "title": "Trump Returns to a Familiar Role: Sowing Trade Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
     "published": "Thu, 22 Jan 2026 19:26:06 CST",
@@ -748,12 +748,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html",
     "published": "Wed, 21 Jan 2026 18:57:30 CST",
     "summary": "A new daily email from Mediaite intends to cut through the cacophony of online\nmedia news.\n\n"
-  },
-  {
-    "title": "US supreme court appears skeptical of Trump’s bid to oust Lisa Cook from Fed board",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
-    "published": "Wed, 21 Jan 2026 18:52:19 CST",
-    "summary": "Conservative and liberal judges questioned administration over president’s\nauthority to fire without due process\n\n  * US politics – live updates\n\nUS supreme court justices appeared skeptical of Donald Trump’s case for firing\na Federal Reserve governor on Wednesday, in a key test of the president’s\npower – and his administration’s battle to exert greater control over the US\ncentral bank.\n\nFive months after Trump tried to fire Lisa Cook over apparent discrepancies on\nmortgage applications his officials claim are evidence of fraud, both\nconservative and liberal justices grilled the administration over whether the\nUS president has the power to fire a Fed governor with seemingly no process.\n\nContinue reading...\n\n"
   },
   {
     "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
