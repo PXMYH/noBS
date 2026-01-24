@@ -1,8 +1,20 @@
 [
   {
+    "title": "Bank of France Chief Laments Minimal Effort to Cut Deficit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Ffrench-budget-central-bank-chief-laments-minimal-effort-to-cut-deficit",
+    "published": "Sat, 24 Jan 2026 18:00:00 CST",
+    "summary": "Bank of France Governor Francois Villeroy de Galhau said the government and\nparliament could have done more to pare the deficit in a budget compromise\nadopted on Friday.\n\n"
+  },
+  {
+    "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Sat, 24 Jan 2026 17:37:59 CST",
+    "summary": "Airlines have canceled more than 11,000 flights as a powerful storm brings\nice, sleet and potentially major snowfall to the Midwest, South and Northeast.\n\n"
+  },
+  {
     "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fenergy-environment%2Fstorm-power-outages.html",
-    "published": "Sat, 24 Jan 2026 17:31:02 CST",
+    "published": "Sat, 24 Jan 2026 17:31:03 CST",
     "summary": "The steady accumulation of snow and freezing rain and a rise in demand for\nelectricity can cause problems long after the sky clears, energy experts said.\n\n"
   },
   {
@@ -10,12 +22,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Ffederal-agents-spraying-tear-gas-at-protesters-video",
     "published": "Sat, 24 Jan 2026 17:24:31 CST",
     "summary": "Federal agents spraying tear gas at protesters in Minneapolis, MN. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Traveling This Weekend? Here’s What to Know About the Winter Storm.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 17:20:04 CST",
-    "summary": "Airlines have canceled more than 11,000 flights as a powerful storm brings\nice, sleet and potentially major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
     "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
@@ -472,12 +478,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fjpmorgan-trump-lawsuit.html",
     "published": "Fri, 23 Jan 2026 02:01:53 CST",
     "summary": "The lawsuit, citing “political discrimination,” said the banking giant told\nPresident Trump shortly after the Jan. 6 attack on the Capitol that it would\nclose his accounts.\n\n"
-  },
-  {
-    "title": "Oil Climbs as Traders Weigh Renewed Iran Concerns, Cold Weather",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Flatest-oil-market-news-and-analysis-for-jan-23",
-    "published": "Thu, 22 Jan 2026 23:29:56 CST",
-    "summary": "Oil rose as traders factored in the possibility of US military action in Iran\nthat could upend supplies from one of OPEC’s leading producers, and a massive\nwinter storm in the US pushing up the price of refined products.\n\n"
   },
   {
     "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
