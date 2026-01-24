@@ -1,5 +1,29 @@
 [
   {
+    "title": "Will Leaving My Terrible Job Make Me Look Flaky?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fwill-leaving-my-terrible-job-make-me-look-flaky.html",
+    "published": "Sat, 24 Jan 2026 10:01:57 CST",
+    "summary": "And, picking up the slack for a colleague with long Covid.\n\n"
+  },
+  {
+    "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fgeneral-motors-ford-canada-china.html",
+    "published": "Sat, 24 Jan 2026 10:01:01 CST",
+    "summary": "U.S. trade policy has devastated the Canadian auto industry and pushed the\ncountry to reach an agreement that will make it easier for Chinese companies\nto sell cars there.\n\n"
+  },
+  {
+    "title": "After months of restraint, treasury secretary joins attacks on Fed chief",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F24%2Fbessent-criticizes-powell%2F",
+    "published": "Sat, 24 Jan 2026 10:00:39 CST",
+    "summary": "Treasury Secretary Scott Bessent spent much of the past year quietly urging\nrestraint as President Trump trained his fire on Fed Chair Powell. This week,\nBessent joined the attack.\n\n"
+  },
+  {
+    "title": "Travel Math: When Flying Costs as Much as the Train, Who Wins?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fus%2Fpolitics%2Famtrak-dynamic-pricing-flying.html",
+    "published": "Sat, 24 Jan 2026 10:00:07 CST",
+    "summary": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers\noften grumble at the cost, especially for last-minute travel. Still, the train\nhas a secret weapon: avoiding the airport.\n\n"
+  },
+  {
     "title": "Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fmining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals",
     "published": "Sat, 24 Jan 2026 09:00:00 CST",
@@ -672,12 +696,6 @@
     "summary": "Judge issues temporary order after paper had sought return of Hannah\nNatanson’s devices taken in ‘outrageous seizure’\n\nA US judge temporarily blocked federal prosecutors on Wednesday from reviewing\nmaterial seized when the FBI raided a Washington Post reporter’s home.\n\nHours earlier, the Post asked a federal court in Virginia to force the US\ngovernment to return electronics belonging to Hannah Natanson.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Supreme Court Seems Poised to Reject Trump’s Attempt to Immediately Fire a Fed Governor",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fus%2Fpolitics%2Fsupreme-court-trump-fed-cook.html",
-    "published": "Wed, 21 Jan 2026 21:13:52 CST",
-    "summary": "During arguments, key justices appeared concerned that the president’s efforts\nto oust Lisa Cook could imperil the central bank’s independence.\n\n"
-  },
-  {
     "title": "Stocks Rebound After Trump Backs Off European Tariffs",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fgreenland-stocks-bonds-dollar-gold.html",
     "published": "Wed, 21 Jan 2026 21:04:56 CST",
@@ -784,18 +802,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
     "published": "Wed, 21 Jan 2026 13:00:38 CST",
     "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "An Anxious Japan Restarts the World’s Biggest Nuclear Plant",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fjapan-nuclear-restart.html",
-    "published": "Wed, 21 Jan 2026 10:29:26 CST",
-    "summary": "Japan is reviving nuclear power, balancing the need for more clean energy\nagainst the lingering trauma of the 2011 Fukushima Daiichi disaster.\n\n"
-  },
-  {
-    "title": "Uber Faces Growing Pressure Over Sexual Assault Record",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fuber-scrutiny-sexual-assault.html",
-    "published": "Wed, 21 Jan 2026 10:03:36 CST",
-    "summary": "From the ballot box in California to the halls of Congress and Wall Street,\nseveral new initiatives would require more oversight of how the company\nprotects its passengers.\n\n"
   },
   {
     "title": "Thousands of workers flee Cambodia scam centres, officials say",
