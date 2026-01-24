@@ -1,5 +1,11 @@
 [
   {
+    "title": "Wall Street Grapples With New Risk: A European Buyers’ Strike",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fwall-street-grapples-with-new-risk-a-european-buyers-strike",
+    "published": "Sat, 24 Jan 2026 14:00:00 CST",
+    "summary": "US Commerce Secretary Howard Lutnick told the elites gathered in Davos that\nthe Trump administration believes globalization is “a failed policy” that left\nAmerica behind. A day later, his boss, President Donald Trump, predicted the\nUS stock market would double from records he openly took credit for.\n\n"
+  },
+  {
     "title": "Chrystia Freeland: ‘Ball Is In Putin’s Court’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fchrystia-freeland-ball-is-in-putin-s-court-video",
     "published": "Sat, 24 Jan 2026 13:03:57 CST",
@@ -246,12 +252,6 @@
     "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
   },
   {
-    "title": "Tesla Begins Robotaxi Rides in Austin Without Safety Drivers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ftesla-begins-austin-robotaxi-rides-minus-safety-drivers-video",
-    "published": "Fri, 23 Jan 2026 18:37:36 CST",
-    "summary": "Tesla is removing the safety driver from its robotaxis in Austin, kicking\ncompetition in the self-driving cab market into higher gear. Regina Clewlow,\nmanaging director at mobility analytics firm Populus, discusses the news and\nconsumer readiness for self-driving cars with Caroline Hyde and Ed Ludlow on\n\"Bloomberg Tech.\" (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
     "published": "Fri, 23 Jan 2026 18:09:31 CST",
@@ -338,7 +338,7 @@
   {
     "title": "The Message Behind Trump’s Lawsuit Against JPMorgan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fdealbook%2Ftrump-lawsuit-jpmorgan-dimon.html",
-    "published": "Fri, 23 Jan 2026 13:16:29 CST",
+    "published": "Fri, 23 Jan 2026 13:16:30 CST",
     "summary": "The president’s legal efforts against the Wall Street giant and Jamie Dimon,\nits chief executive, have put Corporate America on edge.\n\n"
   },
   {
