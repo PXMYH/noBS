@@ -1,5 +1,11 @@
 [
   {
+    "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
+    "published": "Sat, 24 Jan 2026 16:40:37 CST",
+    "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
+  },
+  {
     "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fenergy-environment%2Fstorm-power-outages.html",
     "published": "Sat, 24 Jan 2026 15:28:00 CST",
@@ -40,6 +46,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-24%2Ftrump-s-walks-back-greenland-tariffs-ramps-up-french-wine-duties",
     "published": "Sat, 24 Jan 2026 13:00:00 CST",
     "summary": "Trump made an about-face on tariffs this week.\n\n"
+  },
+  {
+    "title": "Is the supreme court ready to stand up to Trump over Federal Reserve attack?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Ftrump-supreme-court-federal-reserve",
+    "published": "Sat, 24 Jan 2026 12:00:39 CST",
+    "summary": "Conservative majority appears eager to hand president greater power – with one\nexception: the US central bank\n\nDonald Trump has tried his usual tactics when it comes to getting the US\nFederal Reserve to lower interest rates: bully when persuasion doesn’t work,\nand then fire when bullying doesn’t work.\n\nIn an unprecedented assault on the central bank, the president has called the\nFed chair, Jerome Powell, “stupid” and threatened to fire him for not cutting\ninterest rates as quickly as Trump would like. Most recently, the justice\ndepartment instigated a criminal investigation against Powell for testimony he\ngave about renovations at the Fed’s headquarters. Even so, the Fed has not\nbudged.\n\nContinue reading...\n\n"
   },
   {
     "title": "Pets are family. But can you claim them as dependents on your tax return?",
@@ -84,6 +96,12 @@
     "summary": "Global mining stocks have shot to the top of fund managers’ must-have list, as\nsoaring metals demand and tight supplies of key minerals hint at a new\nsupercycle in the sector.\n\n"
   },
   {
+    "title": "‘Repatriate the gold’: German economists advise withdrawal from US vaults",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F24%2Frepatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults",
+    "published": "Sat, 24 Jan 2026 08:00:34 CST",
+    "summary": "Shift in relations and unpredictability of Donald Trump make it ‘risky to\nstore so much gold in the US’, say experts\n\nGermany is facing calls to withdraw its billions of euros’ worth of gold from\nUS vaults, spurred on by the shift in transatlantic relations and the\nunpredictability of Donald Trump.\n\nGermany holds the world’s second biggest national gold reserves after the US,\nof which approximately €164bn (£122bn) worth – 1,236 tonnes – is stored in New\nYork.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Five Ways People Are Using Claude Code",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Ftechnology%2Fclaude-code.html",
     "published": "Sat, 24 Jan 2026 00:40:42 CST",
@@ -92,7 +110,7 @@
   {
     "title": "Tremors in Japan Prompt Treasury to Weigh Currency Intervention",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fyen-dollar-treasury-bessent.html",
-    "published": "Sat, 24 Jan 2026 00:36:18 CST",
+    "published": "Sat, 24 Jan 2026 00:36:19 CST",
     "summary": "New York Fed inquiries about the cost of exchanging yen for dollars signaled\nto traders on Friday that the U.S. government might make a large purchase of\nthe Japanese currency.\n\n"
   },
   {
@@ -678,12 +696,6 @@
     "summary": "The F.C.C. said it planned to enforce long-dormant rules on appearances by\npolitical candidates on network talk shows.\n\n"
   },
   {
-    "title": "Theranos founder Elizabeth Holmes asks Trump to commute prison sentence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Felizabeth-holmes-trump-fraud-sentence",
-    "published": "Wed, 21 Jan 2026 22:28:39 CST",
-    "summary": "US justice department’s website shows the disgraced former CEO petitioned\nDonald Trump over fraud conviction\n\nTheranos founder Elizabeth Holmes has asked Donald Trump to commute her\nsentence after she was convicted of defrauding investors in her now-defunct\nblood-testing startup that was once valued at $9bn, a notice on the US\nDepartment of Justice website showed.\n\nThe justice department’s office of the pardon attorney lists the status of her\ncommutation request, which was made last year, as pending.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fjamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
     "published": "Wed, 21 Jan 2026 21:59:10 CST",
@@ -706,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fwashington-post-reporter-search-first-amendment.html",
     "published": "Wed, 21 Jan 2026 21:38:04 CST",
     "summary": "The Post, in its first legal filing since the government searched the home of\na reporter last week, had demanded the return of the seized materials.\n\n"
-  },
-  {
-    "title": "Prosecutors barred from reviewing material seized from Washington Post reporter",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fwashington-post-reporter-fbi-search",
-    "published": "Wed, 21 Jan 2026 21:22:54 CST",
-    "summary": "Judge issues temporary order after paper had sought return of Hannah\nNatanson’s devices taken in ‘outrageous seizure’\n\nA US judge temporarily blocked federal prosecutors on Wednesday from reviewing\nmaterial seized when the FBI raided a Washington Post reporter’s home.\n\nHours earlier, the Post asked a federal court in Virginia to force the US\ngovernment to return electronics belonging to Hannah Natanson.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
@@ -784,12 +790,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Floyalty-programs.html",
     "published": "Wed, 21 Jan 2026 15:46:59 CST",
     "summary": "Program updates and new navigation tools help travelers negotiate the\nincreasingly complicated universe of points.\n\n"
-  },
-  {
-    "title": "For Travelers in 2026, Prices Are All Over the Map",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fprices-are-all-over-the-map.html",
-    "published": "Wed, 21 Jan 2026 15:44:06 CST",
-    "summary": "Luxury travelers can expect to pay more than they did last year, while budget\ntravelers might get a break.\n\n"
   },
   {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
