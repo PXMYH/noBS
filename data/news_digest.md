@@ -6,18 +6,7 @@ Generated from **214** unique articles (deduplicated from 214 total) across **1*
 
 ## 🌍 World & Politics
 
-{
-    "summary": "Geopolitical tensions and economic shifts dominate global headlines this week. At the World Economic Forum in Davos, former Canadian Deputy Prime Minister Chrystia Freeland, now an economic adviser to Ukrainian President Zelenskiy, emphasizes that the 'ball is in Putin’s court' regarding Ukraine negotiations, while also addressing President Trump’s controversial threats to seize Greenland and his meeting with Zelenskiy. Meanwhile, Trump’s aggressive trade policies—including renewed tariffs on European wine and broader threats of a new trade war—spark concerns about U.S. economic leadership, with analysts warning that China stands to benefit from America’s retreat from global trade frameworks. Domestically, Trump’s push for U.S. investment in Venezuela clashes with lingering sanctions, complicating business opportunities in the crisis-stricken nation.
-
-On the home front, tens of thousands of Minnesotans stage a mass strike and economic blackout to protest ICE’s expanded operations in the state, demanding the agency’s removal and an investigation into alleged constitutional violations. Elsewhere, Venezuela’s economic instability drives locals to adopt Tether’s USDT stablecoin as a hedge against hyperinflation and government instability, highlighting the growing role of cryptocurrencies in fragile economies. In France, President Macron’s unexpected fashion statement—sporting sunglasses to conceal a burst blood vessel—overshadows Davos discussions, while the Pentagon’s attempt to exert control over the *Stars and Stripes* military newspaper sparks a backlash from lawmakers and the outlet’s leadership, who argue for its editorial independence.",
-    "key_stories": [
-        "Freeland: Ukraine negotiations hinge on Putin as Trump stirs tensions at Davos",
-        "Trump’s trade threats and Venezuela sanctions create economic uncertainty",
-        "Mass protests in Minnesota demand ICE withdrawal amid constitutional concerns",
-        "Venezuela’s economic crisis drives adoption of USDT stablecoin",
-        "Pentagon’s ‘woke’ criticism of *Stars and Stripes* sparks independence fight"
-    ]
-}
+Geopolitical tensions and economic shifts dominate global headlines this week, with President Trump's aggressive trade policies and diplomatic maneuvers taking center stage. At the World Economic Forum in Davos, Trump's threats to impose new tariffs on European wine and his controversial meeting with Ukrainian President Zelenskiy underscore his confrontational approach to international relations. Meanwhile, Chrystia Freeland, now an economic adviser to Zelenskiy, emphasizes that the 'ball is in Putin’s court' regarding Ukraine negotiations, highlighting the stalled progress in resolving the conflict. Back in the U.S., domestic unrest flares as tens of thousands of Minnesotans stage a strike to protest ICE operations, demanding the agency's removal from the state. Economically, China stands to benefit as Trump's protectionist policies alienate traditional allies, while Venezuela's unstable economy drives locals to adopt cryptocurrencies like USDT for financial security. The Pentagon's attempt to exert control over the military newspaper *Stars and Stripes* also sparks debate over press freedom within the armed forces.
 
 **Top Articles:**
 - [Chrystia Freeland: ‘Ball Is In Putin’s Court’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fchrystia-freeland-ball-is-in-putin-s-court-video)
@@ -32,18 +21,7 @@ On the home front, tens of thousands of Minnesotans stage a mass strike and econ
 
 ## 💰 Finance, Economics & Business
 
-{
-    "summary": "Global markets faced heightened volatility this week as geopolitical tensions and unpredictable policymaking rattled investors. The S&P 500 posted its first two-week loss since June, while silver surged past $100 an ounce amid a flight to safe-haven assets. President Trump's abrupt reversal on tariffs—first threatening 200% levies on European wine before backing down—sparked synchronized selloffs and rapid rebounds, leaving traders questioning traditional hedges. Meanwhile, the dollar suffered its worst week since May, boosting the yen and other currencies as speculation grew over potential Japanese currency intervention, possibly with U.S. support. The Federal Reserve remained a focal point, with the Supreme Court signaling unease over Trump’s attempts to undermine its independence, even as inflation data showed sticky price pressures.
-
-Corporate and financial developments added to the turbulence. Capital One’s $5.15 billion acquisition of fintech startup Brex highlighted ongoing M&A activity, while BlackRock’s 19% writedown on a private debt fund underscored growing strains in the private credit market. SpaceX’s reported preparations for a blockbuster IPO, potentially valuing the company at $800 billion, drew attention as tech listings loom. Elsewhere, AMC’s debt talks sent bond prices tumbling, and Procter & Gamble’s mixed earnings reflected consumer demand challenges. Against this backdrop, emerging markets and gold saw inflows as investors diversified away from U.S. assets, while oil prices climbed on geopolitical risks and cold-weather disruptions.",
-    "key_stories": [
-        "S&P 500 posts first two-week loss since June as Trump tariff threats spark volatility",
-        "Silver tops $100 amid safe-haven rush; dollar suffers worst week since May",
-        "Capital One acquires Brex for $5.15B; SpaceX eyes $800B IPO",
-        "BlackRock slashes private debt fund value by 19% as credit risks rise",
-        "Supreme Court weighs Fed independence as Trump escalates pressure"
-    ]
-}
+Global markets experienced significant volatility this week as President Trump's unpredictable trade policies and geopolitical tensions rattled investors. The S&P 500 posted its first two-week loss since June, while silver surged past $100 an ounce amid a flight to safe-haven assets. The dollar suffered its worst week since May, boosting the yen and other currencies as speculation grew about potential Japanese currency intervention. Meanwhile, corporate activity remained brisk, with Capital One acquiring fintech startup Brex for $5.15 billion and SpaceX lining up Wall Street banks for a potential blockbuster IPO. The Federal Reserve faced renewed pressure from the Trump administration, with the Supreme Court showing unease over threats to the central bank's independence. In commodities, oil prices climbed on Iran supply concerns and cold weather, while gold saw increased bullish bets from hedge funds.
 
 **Top Articles:**
 - [Why European Wine Could Get Pricier Under New US Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwhy-european-wine-could-get-pricier-under-new-us-tariffs-video)
@@ -52,13 +30,13 @@ Corporate and financial developments added to the turbulence. Capital One’s $5
 - [Tremors in Japan Prompt Treasury to Weigh Currency Intervention](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fyen-dollar-treasury-bessent.html)
 - [SEC to Dismiss Winklevoss’ Gemini Crypto Lending Lawsuit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsec-to-dismiss-winklevoss-gemini-crypto-lending-lawsuit)
 
-**Sources**: archive.ph (81 articles)
+**Sources**: archive.ph (80 articles)
 
 ---
 
 ## 💻 Technology
 
-This week's tech and business landscape is dominated by AI's growing influence and its economic ripple effects. The IMF warns that AI could disrupt 60% of jobs in advanced economies, particularly impacting young workers, while law school applications surge despite AI's uncertain impact on legal careers. Meanwhile, Nvidia CEO Jensen Huang plans a strategic visit to China as the company faces stalling AI chip sales, and Big Tech ramps up debt issuance to fund AI ambitions, raising concerns about economic risks. TikTok's corporate restructuring in the U.S. also makes headlines, with new ownership ties to major firms and potential app changes for American users. Beyond tech, regulatory tensions persist as the FCC cracks down on late-night TV political appearances and the Supreme Court questions Trump's authority to remove Federal Reserve officials. The travel sector sees innovation with facial recognition expanding at airports, catering to younger travelers' demand for exclusive experiences.
+This week's tech and business landscape is dominated by AI's growing influence and its economic ripple effects. The IMF warns that AI could disrupt 60% of jobs in advanced economies, particularly impacting young workers, while Big Tech ramps up debt issuance to fund AI ambitions, raising concerns about broader economic risks. Nvidia CEO Jensen Huang's upcoming visit to China underscores the high stakes in AI chip markets, as U.S. restrictions and global demand reshape the sector. Meanwhile, TikTok's corporate restructuring in the U.S. raises questions about data privacy and platform changes for its 200 million American users. Beyond AI, regulatory tensions flare as the FCC cracks down on late-night TV political appearances and the Supreme Court questions Trump's authority to remove Federal Reserve governors. In corporate moves, Netflix's ad revenue surges, and United Airlines reports strong earnings, signaling resilience in consumer spending despite economic uncertainty.
 
 **Top Articles:**
 - [Why the Power May Not Go Out Until After the Storm Has Passed](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fenergy-environment%2Fstorm-power-outages.html)
@@ -73,7 +51,7 @@ This week's tech and business landscape is dominated by AI's growing influence a
 
 ## ⚽ Sports
 
-The sports world sees major developments as the 2026 Winter Olympics approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games begin in Italy, signaling potential logistical or editorial challenges. Meanwhile, in golf, the Saudi Arabia-backed LIV Golf league continues its controversial partnership with former President Donald Trump’s properties, announcing a tournament at the Trump Organization’s New Jersey resort—marking at least the sixth event hosted at a Trump venue in four years. The move underscores LIV Golf’s strategy of aligning with high-profile, politically connected venues amid ongoing scrutiny over its Saudi funding and impact on traditional golf tours. Elsewhere, the sports media landscape faces disruption as outlets grapple with last-minute Olympic preparations, while LIV Golf’s latest event highlights the league’s persistent ties to Trump’s business empire, keeping the intersection of sports, politics, and commerce in the spotlight.
+The sports world sees major developments as the 2026 Winter Olympics approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games begin in Italy, signaling potential logistical or editorial challenges. Meanwhile, in golf, the Saudi Arabia-backed LIV Golf league continues its controversial partnership with former President Donald Trump’s properties, announcing a tournament at the Trump Organization’s New Jersey resort—marking at least the sixth event hosted at a Trump venue in four years. The move underscores LIV Golf’s strategic alignment with high-profile venues amid ongoing debates about the league’s global influence and political ties. Elsewhere, the sports media landscape faces uncertainty as major outlets adjust their Olympic coverage strategies, while golf’s breakaway league solidifies its presence in the U.S. market with another Trump-branded event.
 
 **Top Articles:**
 - [Washington Post Tears Up Plans to Cover Winter Olympics](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html)
@@ -85,17 +63,17 @@ The sports world sees major developments as the 2026 Winter Olympics approach, w
 
 ## 📰 Other News
 
-A major winter storm disrupts travel across the U.S., with thousands of flight cancellations and power grid threats as freezing temperatures and heavy snow sweep from the South to the Northeast. Meanwhile, economic and political tensions rise as German economists urge repatriating gold reserves from U.S. vaults amid concerns over Trump's unpredictability, while hedge funds boost oil bets due to supply risks in Iran and Kazakhstan. In entertainment, Netflix reports a record 325 million subscribers and amends its Warner Bros. Discovery offer, while Disney maintains its box office dominance. The Oscars see 'Sinners' break records with 16 nominations, and cultural milestones like America's 250th anniversary celebrations take shape. Emerging trends include the rise of 'microvacations' and prediction markets, alongside debates over housing affordability and Trump's economic policies.
+A major winter storm disrupts travel across the U.S., with over 11,000 flights canceled as ice and snow threaten power grids, leaving millions at risk of outages. Meanwhile, tensions escalate in Minneapolis as federal agents deploy tear gas against protesters, underscoring ongoing social unrest. In financial news, hedge funds ramp up bullish bets on oil amid supply risks in the Black Sea and Iran, while Mala Gaonkar’s fund surges to $6 billion in just three years. The entertainment industry buzzes with Oscar nominations, led by 'Sinners' with a record 16 nods, and Netflix’s aggressive $27.75-per-share cash offer for Warner Bros. Discovery assets. Cultural shifts emerge as 'microvacations' gain popularity, and Germany debates repatriating its gold from U.S. vaults amid geopolitical uncertainties. The housing market remains a flashpoint, with Trump’s policies facing criticism from CEOs like Jamie Dimon, while rising food prices and disaster risks reshape homebuyer priorities.
 
 **Top Articles:**
+- [Federal Agents Spraying Tear Gas at Protesters](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Ffederal-agents-spraying-tear-gas-at-protesters-video)
 - [Traveling This Weekend? Here’s What to Know About the Winter Storm.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html)
 - [Will Leaving My Terrible Job Make Me Look Flaky?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fwill-leaving-my-terrible-job-make-me-look-flaky.html)
 - [Travel Math: When Flying Costs as Much as the Train, Who Wins?](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fus%2Fpolitics%2Famtrak-dynamic-pricing-flying.html)
 - [‘Repatriate the gold’: German economists advise withdrawal from US vaults](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F24%2Frepatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)
-- [Storm Poses Big Threats to Power Grids Across U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html)
 
-**Sources**: archive.ph (40 articles)
+**Sources**: archive.ph (41 articles)
 
 ---
 
-*Digest generated on January 24, 2026 at 04:50 PM *
+*Digest generated on January 24, 2026 at 05:43 PM *

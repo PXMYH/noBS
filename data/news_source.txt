@@ -1,21 +1,27 @@
 [
   {
-    "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
-    "published": "Sat, 24 Jan 2026 16:40:37 CST",
-    "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
-  },
-  {
     "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fenergy-environment%2Fstorm-power-outages.html",
-    "published": "Sat, 24 Jan 2026 15:28:00 CST",
+    "published": "Sat, 24 Jan 2026 17:31:02 CST",
     "summary": "The steady accumulation of snow and freezing rain and a rise in demand for\nelectricity can cause problems long after the sky clears, energy experts said.\n\n"
+  },
+  {
+    "title": "Federal Agents Spraying Tear Gas at Protesters",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Ffederal-agents-spraying-tear-gas-at-protesters-video",
+    "published": "Sat, 24 Jan 2026 17:24:31 CST",
+    "summary": "Federal agents spraying tear gas at protesters in Minneapolis, MN. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Traveling This Weekend? Here’s What to Know About the Winter Storm.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 15:09:45 CST",
-    "summary": "Airlines have canceled thousands of flights as ice, sleet and major snowfall\nthreaten to disrupt travel from the South through the Northeast.\n\n"
+    "published": "Sat, 24 Jan 2026 17:20:04 CST",
+    "summary": "Airlines have canceled more than 11,000 flights as a powerful storm brings\nice, sleet and potentially major snowfall to the Midwest, South and Northeast.\n\n"
+  },
+  {
+    "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
+    "published": "Sat, 24 Jan 2026 16:40:37 CST",
+    "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
   },
   {
     "title": "Why European Wine Could Get Pricier Under New US Tariffs",
@@ -249,12 +255,6 @@
     "title": "See A K-shaped Credit Market: Steven Oh",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fsee-a-k-shaped-credit-market-steven-oh-video",
     "published": "Fri, 23 Jan 2026 21:26:16 CST",
-    "summary": "Kathy Jones, Chief Fixed Income Strategist at the Schwab Center for Financial\nResearch and Russ Brownback, Deputy CIO of Global Fixed Income at BlackRock\ntell Bloomberg that while concerns about US fiscal deficits and inflation\ncould weigh on Treasury demand over the long run, they don’t see an imminent\nrisk of a mass selloff. Jones says Treasuries remain difficult to replace at\nscale, even as geopolitical tensions and policy uncertainty may push investors\nto demand higher yields over time. Brownback adds the US is not near a\nsolvency or systemic tipping point. They joined the conversation on \"Bloomberg\nReal Yield\" with Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Treasuries Not Near Solvency Tipping Point: Brownback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Ftreasuries-not-near-solvency-tipping-point-brownback-video",
-    "published": "Fri, 23 Jan 2026 21:13:44 CST",
     "summary": "Kathy Jones, Chief Fixed Income Strategist at the Schwab Center for Financial\nResearch and Russ Brownback, Deputy CIO of Global Fixed Income at BlackRock\ntell Bloomberg that while concerns about US fiscal deficits and inflation\ncould weigh on Treasury demand over the long run, they don’t see an imminent\nrisk of a mass selloff. Jones says Treasuries remain difficult to replace at\nscale, even as geopolitical tensions and policy uncertainty may push investors\nto demand higher yields over time. Brownback adds the US is not near a\nsolvency or systemic tipping point. They joined the conversation on \"Bloomberg\nReal Yield\" with Scarlet Fu. (Source: Bloomberg)\n\n"
   },
   {
