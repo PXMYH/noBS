@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fenergy-environment%2Fstorm-power-outages.html",
+    "published": "Sat, 24 Jan 2026 15:28:00 CST",
+    "summary": "The steady accumulation of snow and freezing rain and a rise in demand for\nelectricity can cause problems long after the sky clears, energy experts said.\n\n"
+  },
+  {
+    "title": "Traveling This Weekend? Here’s What to Know About the Winter Storm.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Sat, 24 Jan 2026 15:09:45 CST",
+    "summary": "Airlines have canceled thousands of flights as ice, sleet and major snowfall\nthreaten to disrupt travel from the South through the Northeast.\n\n"
+  },
+  {
+    "title": "Why European Wine Could Get Pricier Under New US Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwhy-european-wine-could-get-pricier-under-new-us-tariffs-video",
+    "published": "Sat, 24 Jan 2026 15:04:06 CST",
+    "summary": "President Trump has once again threatened tariffs of up to 200 percent on\nFrench wine, putting pressure on an industry that relies heavily on imports.\nWine importer Victor Schwartz, US Wine Trade Alliance president Ben Aneff, and\nCalifornia grape grower Stuart Spencer explain how tariffs could raise prices,\nreduce choice, hurt restaurants and distributors, and reshape both foreign and\ndomestic wine markets. The story reveals why wine has become a pawn in a\nbroader trade battle and what it could mean for American businesses and\nconsumers. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fdealbook%2Flaw-school-ai.html",
+    "published": "Sat, 24 Jan 2026 14:56:42 CST",
+    "summary": "The number of applicants has risen more than 40 percent over the last two\nyears, despite new limits on student loans and uncertainty over how artificial\nintelligence will affect legal work.\n\n"
+  },
+  {
     "title": "Wall Street Grapples With New Risk: A European Buyers’ Strike",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fwall-street-grapples-with-new-risk-a-european-buyers-strike",
     "published": "Sat, 24 Jan 2026 14:00:00 CST",
@@ -70,12 +94,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fyen-dollar-treasury-bessent.html",
     "published": "Sat, 24 Jan 2026 00:36:18 CST",
     "summary": "New York Fed inquiries about the cost of exchanging yen for dollars signaled\nto traders on Friday that the U.S. government might make a large purchase of\nthe Japanese currency.\n\n"
-  },
-  {
-    "title": "How This Weekend’s Winter Storm Could Affect Your Travel Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 00:33:10 CST",
-    "summary": "Ice, sleet and major snowfall are threatening to snarl travel across much of\nthe Eastern U.S. Here’s what to know.\n\n"
   },
   {
     "title": "Wall Street Week | Chrystia Freeland, Wine Tariffs, Ecuador’s Cocoa Boom, Israel Defense Technology",
@@ -298,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsilver-tops-100-as-global-turmoil-fuels-run-for-safe-havens",
     "published": "Fri, 23 Jan 2026 15:52:10 CST",
     "summary": "Silver topped $100 an ounce for the first time, extending a scorching rally\nbuilt on surging demand for haven assets and frenzied buying in retail markets\nfrom Shanghai to New York.\n\n"
-  },
-  {
-    "title": "S&amp;P 500 Logs Second Week of Losses After Trump Whipsaws Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fus-stocks-slip-at-end-of-turbulent-week-intel-sinks-on-earnings",
-    "published": "Fri, 23 Jan 2026 14:39:16 CST",
-    "summary": "US equities were little changed at the close of a volatile stretch that drove\nthe S&P 500 into its second straight weekly decline as investors turned their\nattention back to earnings and monetary policy after a burst of geopolitical\nsaber-rattling from the US president.\n\n"
   },
   {
     "title": "Low Rates Sound Great. But a Trump Fed Could Cause a Painful ‘Sugar High.’",
@@ -702,12 +714,6 @@
     "summary": "Judge issues temporary order after paper had sought return of Hannah\nNatanson’s devices taken in ‘outrageous seizure’\n\nA US judge temporarily blocked federal prosecutors on Wednesday from reviewing\nmaterial seized when the FBI raided a Washington Post reporter’s home.\n\nHours earlier, the Post asked a federal court in Virginia to force the US\ngovernment to return electronics belonging to Hannah Natanson.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Stocks Rebound After Trump Backs Off European Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fgreenland-stocks-bonds-dollar-gold.html",
-    "published": "Wed, 21 Jan 2026 21:04:56 CST",
-    "summary": "Stocks in the U.S. stabilized on Wednesday after an earlier slump had spilled\ninto markets in Asia and Europe, ending a period of relative calm.\n\n"
-  },
-  {
     "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Ftrump-congress-10percent-credit-card-interest-rate-cap.html",
     "published": "Wed, 21 Jan 2026 20:54:13 CST",
@@ -742,12 +748,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F21%2Fsupreme-court-trump-fed-governor-case",
     "published": "Wed, 21 Jan 2026 18:52:19 CST",
     "summary": "Conservative and liberal judges questioned administration over president’s\nauthority to fire without due process\n\n  * US politics – live updates\n\nUS supreme court justices appeared skeptical of Donald Trump’s case for firing\na Federal Reserve governor on Wednesday, in a key test of the president’s\npower – and his administration’s battle to exert greater control over the US\ncentral bank.\n\nFive months after Trump tried to fire Lisa Cook over apparent discrepancies on\nmortgage applications his officials claim are evidence of fraud, both\nconservative and liberal justices grilled the administration over whether the\nUS president has the power to fire a Fed governor with seemingly no process.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "‘Adaptive Normalcy’ as the Trump Show Arrives at Davos",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fdealbook%2Fdavos-trump-speech.html",
-    "published": "Wed, 21 Jan 2026 18:42:33 CST",
-    "summary": "The president’s address at the World Economic Forum in Switzerland has trading\npartners and business executives on edge.\n\n"
   },
   {
     "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
