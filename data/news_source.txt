@@ -1,5 +1,11 @@
 [
   {
+    "title": "Power Outages Cascade as Big Winter Storm Reaches US East Coast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-as-big-winter-storm-reaches-us-east-coast-video",
+    "published": "Sun, 25 Jan 2026 19:22:16 CST",
+    "summary": "A massive winter storm reached the US Atlantic Coast on Sunday, bringing heavy\nsnow and ice, straining power grids and grounding thousands of flights at\nlevels not seen since the pandemic. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Minnesota’s Biggest Companies Call for ‘De-escalation’ of Tensions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Sun, 25 Jan 2026 18:31:33 CST",
@@ -102,10 +108,10 @@
     "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Market on High Alert for Yen Intervention After Takaichi Warning",
+    "title": "Market on Alert for Yen Intervention After Takaichi Warning",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
     "published": "Sun, 25 Jan 2026 11:00:00 CST",
-    "summary": "Traders will start the week on heightened alert of Japan government\nintervention to halt the yen’s recent slide -- possibly with rare US\nassistance -- as Prime Minister Sanae Takaichi warned of action on abnormal\nmoves.\n\n"
+    "summary": "The yen extended its gain as traders started the week on heightened alert of\nJapan government intervention to halt the currency’s recent slide -- possibly\nwith rare US assistance -- as Prime Minister Sanae Takaichi warned of action\non abnormal moves.\n\n"
   },
   {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
@@ -388,12 +394,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
     "published": "Fri, 23 Jan 2026 20:32:31 CST",
     "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
-  },
-  {
-    "title": "Speculation Mounts Japan to Buy Yen, Perhaps With US Help",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fyen-jumps-most-since-august-as-risk-of-intervention-ramps-up",
-    "published": "Fri, 23 Jan 2026 19:53:35 CST",
-    "summary": "Speculation mounted into the weekend that Japanese authorities could be\npreparing to enter currency markets in a bid to halt the yen’s slide, possibly\nwith the rare assistance of the US.\n\n"
   },
   {
     "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
