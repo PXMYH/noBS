@@ -1,5 +1,11 @@
 [
   {
+    "title": "Poland’s Economy Is Strong Without the Euro, Minister Tells FT",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fpoland-s-economy-is-strong-without-the-euro-minister-tells-ft",
+    "published": "Sun, 25 Jan 2026 15:51:54 CST",
+    "summary": "Poland’s economy is expanding faster than its peers in the euro region,\nreinforcing arguments that the country should remain outside the single\ncurrency zone, Finance Minister Andrzej Domanski told the Financial Times.\n\n"
+  },
+  {
     "title": "Why Israeli Weapons Are in Demand Despite Global Criticism",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fdouble-standard-israel-s-defense-exports-explained-video",
     "published": "Sun, 25 Jan 2026 15:04:15 CST",
@@ -86,7 +92,7 @@
   {
     "title": "High January Is the New Dry January. Sales of THC Drinks Are Booming.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fcannabis-thc-alcoholic-beverages.html",
-    "published": "Sun, 25 Jan 2026 10:02:14 CST",
+    "published": "Sun, 25 Jan 2026 10:02:15 CST",
     "summary": "Sales of beverages containing hemp-derived THC are rising as consumers look\nfor the buzz without the booze. But a new federal law could push them off\nshelves.\n\n"
   },
   {
@@ -279,7 +285,7 @@
     "title": "‘Repatriate the gold’: German economists advise withdrawal from US vaults",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F24%2Frepatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults",
     "published": "Sat, 24 Jan 2026 08:00:34 CST",
-    "summary": "Shift in relations and unpredictability of Donald Trump make it ‘risky to\nstore so much gold in the US’, say experts\n\nGermany is facing calls to withdraw its billions of euros’ worth of gold from\nUS vaults, spurred on by the shift in transatlantic relations and the\nunpredictability of Donald Trump.\n\nGermany holds the world’s second biggest national gold reserves after the US,\nof which approximately €164bn (£122bn) worth – 1,236 tonnes – is stored in New\nYork.\n\nContinue reading...\n\n"
+    "summary": "Shift in relations and unpredictability of Donald Trump make it ‘risky to\nstore so much gold in the US’, say experts\n\nGermany is facing calls to withdraw its billions of euros’ worth of gold from\nUS vaults, spurred on by the shift in transatlantic relations and the\nunpredictability of Donald Trump.\n\nGermany holds the world’s second biggest national gold reserves after the US,\nof which approximately €164bn (£142bn) worth – 1,236 tonnes – is stored in New\nYork.\n\nContinue reading...\n\n"
   },
   {
     "title": "Five Ways People Are Using Claude Code",
@@ -298,12 +304,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwall-street-week-ecuador-s-cocoa-boom-israel-defense-video",
     "published": "Sat, 24 Jan 2026 00:15:31 CST",
     "summary": "This week, economic adviser to Ukraine Chrystia Freeland discusses President\nTrump’s threats to seize Greenland and his meeting with Ukrainian President\nZelenskiy in Davos, Switzerland. And, renewed threats of tariffs on European\nwine could raise prices and ripple through the entire US wine industry. Plus,\nclimate change is disrupting cocoa in West Africa and turning Ecuador into a\nmajor global supplier. Later, why global criticism of the war in Gaza hasn’t\nstopped countries from turning to Israel for defense technology. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Braskem Makes Interest Payment on Pandemic-Era Hybrid Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fbraskem-makes-interest-payment-on-pandemic-era-hybrid-bonds",
-    "published": "Fri, 23 Jan 2026 23:52:23 CST",
-    "summary": "Brazilian petrochemical giant Braskem SA paid interest due Friday on its so-\ncalled hybrid bonds, according to people familiar with the matter.\n\n"
   },
   {
     "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
