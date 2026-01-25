@@ -1,5 +1,17 @@
 [
   {
+    "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
+    "published": "Sun, 25 Jan 2026 21:35:44 CST",
+    "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
+  },
+  {
+    "title": "China National Team’s $68 Billion Exit Alters Stock Strategies",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fchina-national-team-s-68-billion-exit-alters-stock-strategies",
+    "published": "Sun, 25 Jan 2026 21:00:00 CST",
+    "summary": "For years, investors in China’s stock market took comfort in an unseen\nbackstop: the so-called national team, quietly deploying vast firepower to\ncushion selloffs and stabilize prices.\n\n"
+  },
+  {
     "title": "Power Outages Cascade as Big Winter Storm Reaches US East Coast",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-cascade-as-winter-storm-reaches-east-coast-video",
     "published": "Sun, 25 Jan 2026 20:27:46 CST",
@@ -28,12 +40,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fjapan-s-dementia-money-crisis-puts-trillions-of-dollars-at-risk",
     "published": "Sun, 25 Jan 2026 19:46:32 CST",
     "summary": "Trillions of dollars in Japanese assets are held by elderly citizens at risk\nof cognitive decline. On today’s Big Take Asia podcast, K. Oanh Ha and\nBloomberg’s Alice French discuss what this \"dementia money cliff\" means for\nthe nation and the broader global economy. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
-    "published": "Sun, 25 Jan 2026 18:31:33 CST",
-    "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
     "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
@@ -256,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F24%2Ftrump-canada-tariff-threat-venezuela-oil",
     "published": "Sat, 24 Jan 2026 15:04:15 CST",
     "summary": "President also claims US refineries will process seized Venezuelan oil, saying\n‘we take the oil’\n\nDonald Trump on Saturday said he would impose a 100% tariff on all Canadian\nimports if the North American country makes a trade deal with China.\n\nBeside that tariff threat, another Trump foreign policy maneuver to make news\non Saturday involved the president announcing the US had taken the oil that\nwas on recently seized Venezuelan tankers.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Why European Wine Could Get Pricier Under New US Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwhy-european-wine-could-get-pricier-under-new-us-tariffs-video",
-    "published": "Sat, 24 Jan 2026 15:04:06 CST",
-    "summary": "President Trump has once again threatened tariffs of up to 200 percent on\nFrench wine, putting pressure on an industry that relies heavily on imports.\nWine importer Victor Schwartz, US Wine Trade Alliance president Ben Aneff, and\nCalifornia grape grower Stuart Spencer explain how tariffs could raise prices,\nreduce choice, hurt restaurants and distributors, and reshape both foreign and\ndomestic wine markets. The story reveals why wine has become a pawn in a\nbroader trade battle and what it could mean for American businesses and\nconsumers. (Source: Bloomberg)\n\n"
   },
   {
     "title": "UK expected to reduce amount of steel it allows in tariff-free",
