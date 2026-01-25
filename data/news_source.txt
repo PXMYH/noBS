@@ -1,5 +1,17 @@
 [
   {
+    "title": "Minnesota’s Biggest Companies Call for ‘De-escalation’ of Tensions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
+    "published": "Sun, 25 Jan 2026 18:31:33 CST",
+    "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
+  },
+  {
+    "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
+    "published": "Sun, 25 Jan 2026 18:22:04 CST",
+    "summary": "Airlines have canceled more than 12,000 flights, as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
+  },
+  {
     "title": "Poland’s Economy Is Strong Without the Euro, Minister Tells FT",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fpoland-s-economy-is-strong-without-the-euro-minister-tells-ft",
     "published": "Sun, 25 Jan 2026 15:51:54 CST",
@@ -10,6 +22,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fdouble-standard-israel-s-defense-exports-explained-video",
     "published": "Sun, 25 Jan 2026 15:04:15 CST",
     "summary": "Even as governments around the world criticize Israel’s conduct in Gaza, many\nare still purchasing Israeli defense technology at record levels. Defense\nexports reached historic highs as demand surged from Europe, the United\nStates, and India for missile defense, drones, and battlefield-tested systems.\nBloomberg speaks with author Dan Senor, Israel Aerospace Industries CEO Boaz\nLevy, Elbit Systems CFO Kobi Kagan, Defense Ministry official Colonel Yishai\nCohen, and startup founders Udi Oster and Moshiel Biton to explain the global\ndemand for defense technology that Israel is feeding. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US small businesses are doing fine. Don’t believe me? Look at the numbers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Fus-small-business-2026-outlook",
+    "published": "Sun, 25 Jan 2026 15:00:11 CST",
+    "summary": "Multiple small-business indexes show an uptick in optimism as well as an\neasing of cost pressures and uncertainty\n\nRegardless of all the challenges they face, small businesses have been doing\npretty well in this country across the board. Don’t believe me? Take a look at\nsome of the latest numbers.\n\nFor more than 50 years, the National Federation of Independent Businesses\n(NFIB) has published a monthly report of small-business economic trends, based\non a random sample of the organization’s approximately 300,000 member firms.\nThis survey is one of the longest and most consistent of any I follow, using\nthe same questionnaire since 1973. So where do things stand?\n\nContinue reading...\n\n"
   },
   {
     "title": "Investors Hedge China, Tech Risks Amid Trump TACO Trade Drama",
@@ -76,6 +94,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fkazakh-oil-flows-set-to-normalize-as-black-sea-mooring-restored",
     "published": "Sun, 25 Jan 2026 11:35:53 CST",
     "summary": "The Caspian Pipeline Consortium said an offshore mooring is back online,\nenabling crude to flow through a route that accounts for about 90% of Kazakh\noil exports.\n\n"
+  },
+  {
+    "title": "Minnesota workers pressure employers to take action against ICE operations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Ftarget-delta-hilton-minnesota-ice-trump",
+    "published": "Sun, 25 Jan 2026 11:00:06 CST",
+    "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
   },
   {
     "title": "Market on High Alert for Yen Intervention After Takaichi Warning",
@@ -156,12 +180,6 @@
     "summary": "Japanese Prime Minister Sanae Takaichi sent a fresh warning to financial\nmarkets amid a weakening yen and surging bond yields, saying the government\nwill be ready to take action.\n\n"
   },
   {
-    "title": "Here’s What to Know if You Plan to Travel During the Winter Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html",
-    "published": "Sat, 24 Jan 2026 22:31:04 CST",
-    "summary": "Airlines have canceled around 13,000 flights as a powerful storm brings ice,\nsleet and major snowfall to the Midwest, South and Northeast.\n\n"
-  },
-  {
     "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fgeneral-motors-ford-canada-china.html",
     "published": "Sat, 24 Jan 2026 22:27:59 CST",
@@ -200,7 +218,7 @@
   {
     "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
-    "published": "Sat, 24 Jan 2026 16:40:37 CST",
+    "published": "Sat, 24 Jan 2026 16:40:38 CST",
     "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
   },
   {
@@ -214,6 +232,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fwhy-european-wine-could-get-pricier-under-new-us-tariffs-video",
     "published": "Sat, 24 Jan 2026 15:04:06 CST",
     "summary": "President Trump has once again threatened tariffs of up to 200 percent on\nFrench wine, putting pressure on an industry that relies heavily on imports.\nWine importer Victor Schwartz, US Wine Trade Alliance president Ben Aneff, and\nCalifornia grape grower Stuart Spencer explain how tariffs could raise prices,\nreduce choice, hurt restaurants and distributors, and reshape both foreign and\ndomestic wine markets. The story reveals why wine has become a pawn in a\nbroader trade battle and what it could mean for American businesses and\nconsumers. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "UK expected to reduce amount of steel it allows in tariff-free",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Fuk-expected-reduce-steel-allows-tariff-free-glut-china",
+    "published": "Sat, 24 Jan 2026 15:00:41 CST",
+    "summary": "Change being considered amid global glut driven by supplies from China along\nwith a rise in protectionism\n\nThe UK is expected to reduce the amount of foreign steel it allows in tariff-\nfree, as the government looks to protect its domestic industry amid a global\nglut and a rise in protectionism.\n\nMinisters are considering changing the quota system that allows a quantity of\nthe metal to be imported before imposing a 25% levy on anything above that\nlevel.\n\nContinue reading...\n\n"
   },
   {
     "title": "Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.",
@@ -648,12 +672,6 @@
     "summary": "“One Battle After Another” was close behind with 13 nods. Acting nominees\ninclude Michael B. Jordan, Kate Hudson, Timothée Chalamet and Teyana Taylor.\n\n"
   },
   {
-    "title": "Spanish train drivers call three-day strike after deadly railway crashes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Fspain-train-drivers-three-day-strike-railway-crashes",
-    "published": "Thu, 22 Jan 2026 16:15:16 CST",
-    "summary": "Union is demanding better safety standards for workers and passengers after\ntwo collisions this week killed 46\n\nSpain’s largest train drivers’ union has called a three-day nationwide strike\nto demand measures to guarantee the safety of railworkers and passengers after\ntwo deadly crashes this week killed at least 46 people, including two drivers.\n\nThe death toll from Sunday’s collision between two trains near the Andalucían\ntown of Adamuz rose from 43 to 45 on Thursday afternoon after two more bodies\nwere recovered from the crash site. On Tuesday, a driver was killed and 37\npeople injured when a train was derailed by the collapse of a retaining wall\nnear Gelida in Catalonia.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Help! Our Rental Car Got in an Accident, and We Can’t Get Our Security Deposit Back.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Frental-car-accident-insurance-thrifty.html",
     "published": "Thu, 22 Jan 2026 16:08:18 CST",
@@ -670,12 +688,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fprocter-gamble-pg-q2-2026-earnings.html",
     "published": "Thu, 22 Jan 2026 15:13:10 CST",
     "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings,\nbut the company's revenue was weaker than expected.\n\n"
-  },
-  {
-    "title": "‘Not a typical day’: makers of Macron’s sunglasses deluged with demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F22%2Femmanuel-macron-french-president-sunglasses-davos",
-    "published": "Thu, 22 Jan 2026 13:30:54 CST",
-    "summary": "At Davos the French president wore a pair of shades made by Maison Henry\nJullien to cover up a burst blood vessel in one eye\n\nThe world leaders and company executives meeting in Davos this week were meant\nto be discussing the most complex and alarming geopolitical crisis most could\nremember.\n\nInstead, all eyes were on Emmanuel Macron.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump and ‘Taco!’ Roil Davos",
@@ -706,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-campaign-economic-policy",
     "published": "Thu, 22 Jan 2026 11:00:52 CST",
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Taco Thursday: European and US stocks rise after Trump ‘chickens out’ over tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F22%2Ftaco-thursday-european-stocks-rise-trump-chickens-out-on-tariff-threat",
-    "published": "Thu, 22 Jan 2026 10:24:06 CST",
-    "summary": "Gains come after US president says he will not use military force to acquire\nterritory and cites ‘framework deal’\n\nEuropean and US markets rose on Thursday after Donald Trump cancelled plans to\nimpose fresh tariffs on eight European countries, in what analysts said was a\nreturn of the “Trump Always Chickens Out” (Taco) trade.\n\nGermany’s Dax closed 1.28% higher, while France’s Cac 40 rose by just under\n1%. The pan-European Stoxx 600 was up 1.1%, although the UK’s FTSE 100 edged\nup only 0.12%.\n\nContinue reading...\n\n"
   },
   {
     "title": "Two Ohio Nursing Programs Show What Could Happen as US Limits Student Borrowing",
@@ -780,12 +786,6 @@
     "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a\nParamount Skydance hostile takeover attempt.\n\n"
   },
   {
-    "title": "Mediaite Starts a Newsletter to Summarize Media Newsletters",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fmedia%2Fmediaite-media-newsletter.html",
-    "published": "Wed, 21 Jan 2026 18:57:30 CST",
-    "summary": "A new daily email from Mediaite intends to cut through the cacophony of online\nmedia news.\n\n"
-  },
-  {
     "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
     "published": "Wed, 21 Jan 2026 17:22:52 CST",
@@ -808,12 +808,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
     "published": "Wed, 21 Jan 2026 13:04:03 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "NewsNation’s Katie Pavlich on covering Trump’s America: ‘I don’t agree with everything the administration is doing’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F21%2Fkatie-pavlich-fox-news-newsnation-primetime",
-    "published": "Wed, 21 Jan 2026 13:00:38 CST",
-    "summary": "The Fox News alum launched her own show for the upstart cable channel this\nweek and has already booked Trump\n\nThe conservative commentator Katie Pavlich didn’t want to give anything away\nbefore her debut as a primetime host for NewsNation, a cable news channel that\nlaunched in 2020 with the goal of attracting politically independent viewers.\n\nSure, she told the Guardian, she would leverage her relationship with the\nTrump administration to try to book key decision-makers on her new 10pm show,\nKatie Pavlich Tonight, which launched on Monday.\n\nContinue reading...\n\n"
   },
   {
     "title": "Thousands of workers flee Cambodia scam centres, officials say",
@@ -886,6 +880,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-fed-chief-attending-supreme-court-arguments-on-lisa-cook-is-a-mistake.html",
     "published": "Tue, 20 Jan 2026 14:35:07 CST",
     "summary": "CNBC reported that Powell plans to be present for oral arguments in a case\nthat challenges Trump's power to remove governor Lisa Cook.\n\n"
+  },
+  {
+    "title": "Chinese tourists shun Japan in wake of Taiwan invasion row",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F20%2Fchinese-japan-tourist-numbers-halve-wake-taiwan-invasion-row",
+    "published": "Tue, 20 Jan 2026 04:58:22 CST",
+    "summary": "Number of high-spending Chinese tourists visiting Japan halved last month\nafter PM said an invasion of Taiwan could spark Japanese military involvement\n\nChinese tourism to Japan almost halved in December amid a bitter diplomatic\nrow between Beijing and Tokyo over the security of Taiwan.\n\nThe number of tourists from mainland China dropped by about 45% from the same\nmonth a year earlier to about 330,000, Japan’s transport ministry said on\nTuesday.\n\nContinue reading...\n\n"
   },
   {
     "title": "At a Seattle Port Rocked by Tariffs, There Were 70 Jobs for 600 Workers",
