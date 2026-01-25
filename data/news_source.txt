@@ -1,5 +1,11 @@
 [
   {
+    "title": "Market on High Alert for Yen Intervention After Takaichi Warning",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
+    "published": "Sun, 25 Jan 2026 11:00:00 CST",
+    "summary": "Traders will start the week on heightened alert of Japan government\nintervention to halt the yen’s recent slide -- possibly with rare US\nassistance -- as Prime Minister Sanae Takaichi warned of action on abnormal\nmoves.\n\n"
+  },
+  {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fus%2Fpolitics%2Ftrump-ai.html",
     "published": "Sun, 25 Jan 2026 10:02:20 CST",
@@ -484,12 +490,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
     "published": "Fri, 23 Jan 2026 06:31:20 CST",
     "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
-  },
-  {
-    "title": "‘Quiet-Quitting’ of US Assets Fuels Fresh EM, Gold Bets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Femerging-markets-rocket-with-gold-as-de-dollarization-picks-up",
-    "published": "Fri, 23 Jan 2026 04:13:12 CST",
-    "summary": "Emerging-market assets and precious metals are extending a storming start to\n2026 as tensions between the US and Europe weigh on the dollar and re-energize\ndiversification flows around the world.\n\n"
   },
   {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
