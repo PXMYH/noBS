@@ -6,10 +6,10 @@
     "summary": "Canadian Prime Minister Mark Carney will visit Australia in March as the South\nPacific nation continues to engage with so-called middle powers amid pressure\nfrom the US and other powerful blocs.\n\n"
   },
   {
-    "title": "US Winter Storm Sets Off Power Grid Emergencies, Travel Chaos",
+    "title": "US Winter Storm Prompts Power Grid Emergencies, Travel Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fwinter-storm-shakes-energy-transportation-across-the-us",
     "published": "Sun, 25 Jan 2026 00:02:59 CST",
-    "summary": "A sprawling winter storm has grounded more than 14,500 flights around the US,\nhalted trains and triggered a grid emergency and knocked out power to\nthousands, all while threatening to drop a foot of snow on New York City and\nthe rest of the Northeast corridor on Sunday.\n\n"
+    "summary": "A sprawling winter storm has grounded more than 14,500 flights around the US,\ntriggered a grid emergency and knocked out power to thousands, all while\nthreatening to drop a foot of snow on New York City and the rest of the\nNortheast corridor on Sunday.\n\n"
   },
   {
     "title": "Takaichi Warns Japan Is Ready to Act on Speculative Moves",
@@ -178,6 +178,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsec-to-dismiss-winklevoss-gemini-crypto-lending-lawsuit",
     "published": "Fri, 23 Jan 2026 23:35:59 CST",
     "summary": "The US Securities and Exchange Commission will drop the agency’s 2023 lawsuit\nagainst Gemini Trust Co. that accused the firm of illegally raising billions\nof dollars through an unregistered crypto lending program.\n\n"
+  },
+  {
+    "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsec-crypto-winklevoss.html",
+    "published": "Fri, 23 Jan 2026 23:35:26 CST",
+    "summary": "The agency says that victims of an investment offering involving Gemini Trust\ngot their money back, though after a regulatory action brought by the New York\nattorney general.\n\n"
   },
   {
     "title": "S&P 500 Poised for First Two‑Week Loss Since June as Silver Tops $100 | The Close 1/23/2026",
@@ -772,12 +778,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Ffacial-recognition-airports.html",
     "published": "Wed, 21 Jan 2026 15:47:45 CST",
     "summary": "Facial recognition at security and immigration checkpoints and gates could\nease airport hassles, even as the technology raises privacy concerns.\n\n"
-  },
-  {
-    "title": "Getting Travel Rewards Is Getting Easier",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Floyalty-programs.html",
-    "published": "Wed, 21 Jan 2026 15:46:59 CST",
-    "summary": "Program updates and new navigation tools help travelers negotiate the\nincreasingly complicated universe of points.\n\n"
   },
   {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
