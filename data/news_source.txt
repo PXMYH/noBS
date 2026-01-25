@@ -1,12 +1,36 @@
 [
   {
     "title": "Power Outages Cascade as Big Winter Storm Reaches US East Coast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-as-big-winter-storm-reaches-us-east-coast-video",
-    "published": "Sun, 25 Jan 2026 19:22:16 CST",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-cascade-as-winter-storm-reaches-east-coast-video",
+    "published": "Sun, 25 Jan 2026 20:27:46 CST",
     "summary": "A massive winter storm reached the US Atlantic Coast on Sunday, bringing heavy\nsnow and ice, straining power grids and grounding thousands of flights at\nlevels not seen since the pandemic. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Minnesota’s Biggest Companies Call for ‘De-escalation’ of Tensions",
+    "title": "Spotify’s New Playbook for Staying on Top",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fspotify-s-new-playbook-for-staying-on-top",
+    "published": "Sun, 25 Jan 2026 19:52:46 CST",
+    "summary": "Changes are happening at Spotify and it goes beyond its C-suite. On this\nepisode of the Everybody's Business podcast, Bloomberg reporter Ashley Carman\njoins Stacey Vanek Smith and Max Chafkin to discuss the music streaming\nplatform's bold new business plan of getting into… everything. We also talk\nabout AI's role in the future of music. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "An Expert’s Guide to Building a Perfect Investment Portfolio",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fan-expert-s-guide-to-building-a-perfect-investment-portfolio",
+    "published": "Sun, 25 Jan 2026 19:51:37 CST",
+    "summary": "Is the conventional 60/40 portfolio still a reliable way to grow your money?\nOn this episode of the Odd Lots podcast, we speak with Cullen Roche, the\nfounder and CIO of Discipline Funds and the author of the new book, Your\nPerfect Portfolio: The ultimate guide to using the world's most powerful\ninvesting strategies. He tells Tracy Alloway and Joe Weisenthal how investors\nshould evaluate their circumstances to optimally design an investment\nportfolio. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "How to Make Money From the Booming Demand for Energy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-to-make-money-from-the-booming-demand-for-energy",
+    "published": "Sun, 25 Jan 2026 19:50:14 CST",
+    "summary": "The demand for energy is booming, so who is best positioned to make money from\nthis trend? On this episode of the Odd Lots podcast, we speak with Tyler\nRosenlicht, a senior vice president at Cohen & Steers. He joins Joe Weisenthal\nand Tracy Alloway to talk about the principles behind infrastructure investing\nand whether there is potential for data centers to actually lower our electric\nbills. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan’s “Dementia Money” Crisis Puts Trillions of Dollars at Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fjapan-s-dementia-money-crisis-puts-trillions-of-dollars-at-risk",
+    "published": "Sun, 25 Jan 2026 19:46:32 CST",
+    "summary": "Trillions of dollars in Japanese assets are held by elderly citizens at risk\nof cognitive decline. On today’s Big Take Asia podcast, K. Oanh Ha and\nBloomberg’s Alice French discuss what this \"dementia money cliff\" means for\nthe nation and the broader global economy. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Sun, 25 Jan 2026 18:31:33 CST",
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
@@ -252,24 +276,6 @@
     "summary": "The number of applicants has risen more than 40 percent over the last two\nyears, despite new limits on student loans and uncertainty over how artificial\nintelligence will affect legal work.\n\n"
   },
   {
-    "title": "Wall Street Grapples With New Risk: A European Buyers’ Strike",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fwall-street-grapples-with-new-risk-a-european-buyers-strike",
-    "published": "Sat, 24 Jan 2026 14:00:00 CST",
-    "summary": "US Commerce Secretary Howard Lutnick told the elites gathered in Davos that\nthe Trump administration believes globalization is “a failed policy” that left\nAmerica behind. A day later, his boss, President Donald Trump, predicted the\nUS stock market would double from records he openly took credit for.\n\n"
-  },
-  {
-    "title": "Chrystia Freeland: ‘Ball Is In Putin’s Court’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-24%2Fchrystia-freeland-ball-is-in-putin-s-court-video",
-    "published": "Sat, 24 Jan 2026 13:03:57 CST",
-    "summary": "Chrystia Freeland, former Canadian Deputy Prime Minister and current economic\nadviser to Ukrainian President Zelenskiy, speaks with David Westin from Davos\nabout negotiations over the war in Ukraine. She discusses potential investment\nopportunities in Ukraine, and explains why the latest scuffle over Greenland\nwas a “wake up call for Europe.” (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "How Trump Dominated the World Economic Forum",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-24%2Ftrump-s-walks-back-greenland-tariffs-ramps-up-french-wine-duties",
-    "published": "Sat, 24 Jan 2026 13:00:00 CST",
-    "summary": "Trump made an about-face on tariffs this week.\n\n"
-  },
-  {
     "title": "Is the supreme court ready to stand up to Trump over Federal Reserve attack?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Ftrump-supreme-court-federal-reserve",
     "published": "Sat, 24 Jan 2026 12:00:39 CST",
@@ -306,12 +312,6 @@
     "summary": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers\noften grumble at the cost, especially for last-minute travel. Still, the train\nhas a secret weapon: avoiding the airport.\n\n"
   },
   {
-    "title": "Mining Stocks on Cusp of Supercycle as AI Boom Stokes Metals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fmining-stocks-on-cusp-of-supercycle-as-ai-boom-stokes-metals",
-    "published": "Sat, 24 Jan 2026 09:00:00 CST",
-    "summary": "Global mining stocks have shot to the top of fund managers’ must-have list, as\nsoaring metals demand and tight supplies of key minerals hint at a new\nsupercycle in the sector.\n\n"
-  },
-  {
     "title": "‘Repatriate the gold’: German economists advise withdrawal from US vaults",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F24%2Frepatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults",
     "published": "Sat, 24 Jan 2026 08:00:34 CST",
@@ -340,12 +340,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsec-crypto-winklevoss.html",
     "published": "Fri, 23 Jan 2026 23:35:26 CST",
     "summary": "The agency says that victims of an investment offering involving Gemini Trust\ngot their money back, though after a regulatory action brought by the New York\nattorney general.\n\n"
-  },
-  {
-    "title": "Fitch Boosts Turkey’s Rating Outlook, Moody’s Stays Put",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Ffitch-upgrades-turkey-s-rating-outlook-moody-s-stays-put",
-    "published": "Fri, 23 Jan 2026 22:34:48 CST",
-    "summary": "Fitch Ratings raised Turkey’s outlook to positive from stable on Friday,\nciting an increase in foreign exchange reserves and reduced risk of policy\nloosening, days after the central bank delivered a less-than-expected\nreduction in the benchmark rate.\n\n"
   },
   {
     "title": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
