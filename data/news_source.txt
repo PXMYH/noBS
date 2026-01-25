@@ -12,6 +12,24 @@
     "summary": "A sprawling winter storm has grounded thousands of flights around the US,\ntriggered grid crises and knocked out power to thousands, while threatening to\ndrop a foot of snow on New York City and the Northeast corridor Sunday.\n\n"
   },
   {
+    "title": "Democrats Threaten Shutdown After Latest Minneapolis Killing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fschumer-says-democrats-will-block-dhs-funding-after-shooting",
+    "published": "Sun, 25 Jan 2026 00:00:57 CST",
+    "summary": "Senate Democratic leader Chuck Schumer vowed to block a massive spending\npackage next week unless Republicans strip funding for the Department of\nHomeland Security, dramatically increasing the risk for a partial US\ngovernment shutdown.\n\n"
+  },
+  {
+    "title": "A Tale of Two Economies Is Reshaping China’s Stock Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fa-tale-of-two-economies-is-reshaping-china-s-stock-market",
+    "published": "Sun, 25 Jan 2026 00:00:00 CST",
+    "summary": "A tale of two economies is driving China’s stock market, prompting investors\nto raise bets on the beneficiaries of an industrial export boom at the expense\nof firms mired in a consumption slump.\n\n"
+  },
+  {
+    "title": "US to Invest $1.6 Billion In USA Rare Earth: Financial Times",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fus-to-invest-1-6-billion-in-usa-rare-earth-financial-times",
+    "published": "Sat, 24 Jan 2026 23:57:05 CST",
+    "summary": "The Trump administration is planning to invest $1.6 billion into USA Rare\nEarth, the Financial Times reported, citing unidentified people familiar with\nthe matter.\n\n"
+  },
+  {
     "title": "Takaichi Warns Japan Is Ready to Act on Speculative Moves",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fjapan-s-takaichi-warns-ready-to-act-on-speculative-market-moves",
     "published": "Sat, 24 Jan 2026 23:30:21 CST",
@@ -258,28 +276,10 @@
     "summary": "Barry speaks with Zach Buchwald, Chief Executive Officer and Chairman of\nRussell Investments about his career in investing. They discuss the creation\nof the smart beta philosophy. They also discuss the transition from pensions\nto 401ks for retirees, and the way the onus for investing has moved to the\nindividual. Zach also describes his proposal for a program, that is now in\neffect, for a $1000 to every newborn who's parents open a count to show the\nimportance of compounding. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Hedge Funds Boost Bullish Oil Bets Amid Iran, Kazakh Supply Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fhedge-funds-boost-bullish-oil-bets-amid-iran-kazakh-supply-risk",
-    "published": "Fri, 23 Jan 2026 21:52:58 CST",
-    "summary": "Hedge funds upped bullish wagers on crude to the highest since August amid\nsupply disruptions in the Black Sea region and uncertainty surrounding\nWashington’s plans for Iran, one of the world’s top producers.\n\n"
-  },
-  {
-    "title": "Mala Gaonkar’s Hedge Fund Assets Hit $6 Billion in Three Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fmala-gaonkar-s-hedge-fund-assets-hit-6-billion-in-three-years",
-    "published": "Fri, 23 Jan 2026 21:51:05 CST",
-    "summary": "Mala Gaonkar’s hedge fund tripled its assets to about $6 billion just three\nyears after it started trading, marking one of the fastest-growing debuts in\nhistory.\n\n"
-  },
-  {
     "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
     "published": "Fri, 23 Jan 2026 21:45:08 CST",
     "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and now across much of the country.\n\n"
-  },
-  {
-    "title": "S&amp;P Upgrades Congo Credit Outlook Before First Eurobond Offering",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fs-p-upgrades-congo-credit-outlook-before-first-eurobond-offering",
-    "published": "Fri, 23 Jan 2026 21:40:54 CST",
-    "summary": "S&P Global Ratings upgraded the outlook on the Democratic Republic of Congo’s\nsovereign credit rating, as the country prepares its first-ever eurobond\noffering.\n\n"
   },
   {
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
