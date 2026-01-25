@@ -1,5 +1,41 @@
 [
   {
+    "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fus%2Fpolitics%2Ftrump-ai.html",
+    "published": "Sun, 25 Jan 2026 10:02:20 CST",
+    "summary": "Residents also oppose a data center the size of 18 Walmarts that is set to be\nbuilt in pristine woodland outside Bessemer, Ala. “All this will be gone,” one\nsaid.\n\n"
+  },
+  {
+    "title": "High January Is the New Dry January. Sales of THC Drinks Are Booming.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fcannabis-thc-alcoholic-beverages.html",
+    "published": "Sun, 25 Jan 2026 10:02:14 CST",
+    "summary": "Sales of beverages containing hemp-derived THC are rising as consumers look\nfor the buzz without the booze. But a new federal law could push them off\nshelves.\n\n"
+  },
+  {
+    "title": "Trump has ramped up lawsuits against the media. Here’s where they stand.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F25%2Ftrump-media-lawsuits%2F",
+    "published": "Sun, 25 Jan 2026 10:00:41 CST",
+    "summary": "While the president has settled some suits, and judges have dismissed others,\nhis court fights continue with the New York Times, the Wall Street Journal and\nother news outlets.\n\n"
+  },
+  {
+    "title": "Trump is breaking the old global order; allies brace for economic risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F25%2Ftrump-global-economy-shift%2F",
+    "published": "Sun, 25 Jan 2026 10:00:22 CST",
+    "summary": "The U.S. is abandoning its role in the global economy, pursuing an “America\nFirst” approach that is causing a shift in the global economy.\n\n"
+  },
+  {
+    "title": "Hard Times in the Mississippi Delta as Farmers Consider Letting Crops Rot",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fmississippi-delta-farmers-rice-prices.html",
+    "published": "Sun, 25 Jan 2026 10:00:20 CST",
+    "summary": "Prices for nearly every major U.S. crop are below what it costs to grow them.\nBut a drop in rice prices means another blow to farmers in Mississippi’s\nagricultural belt.\n\n"
+  },
+  {
+    "title": "How to claim tax breaks on overtime, tips and more this filing season",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F25%2Fno-tax-overtime-tips-deductions%2F",
+    "published": "Sun, 25 Jan 2026 10:00:00 CST",
+    "summary": "Many taxpayers stand to collect larger refunds this year from the IRS, whether\nthey itemize or not.\n\n"
+  },
+  {
     "title": "Carney to Visit Australia in March as ‘Middle Powers’ Engage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fcarney-to-visit-australia-in-march-as-middle-powers-engage",
     "published": "Sun, 25 Jan 2026 00:15:53 CST",
@@ -444,18 +480,6 @@
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
   },
   {
-    "title": "Inside the effort to shield Stars and Stripes from Pentagon control",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fpentagon-overhauls-stars-and-stripes%2F",
-    "published": "Fri, 23 Jan 2026 10:00:01 CST",
-    "summary": "The Pentagon criticized the military newspaper as “woke.” Now the outlet’s\nleaders — and some members of Congress — are trying to assert its\nindependence.\n\n"
-  },
-  {
-    "title": "Big Tech is taking on more debt than ever to fund its AI aspirations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F23%2Fai-corporate-debt-record%2F",
-    "published": "Fri, 23 Jan 2026 10:00:00 CST",
-    "summary": "Technology companies issued a record $108.7 billion in bonds in the fourth\nquarter, a proliferation that some analysts say puts the broader economy at\nrisk.\n\n"
-  },
-  {
     "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
     "published": "Fri, 23 Jan 2026 06:31:20 CST",
@@ -760,24 +784,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fpending-home-sales-december-drop-sharply.html",
     "published": "Wed, 21 Jan 2026 16:57:26 CST",
     "summary": "There were just 1.18 million homes on the market in December, down 9% from\nNovember, and matching the lowest inventory level of 2025.\n\n"
-  },
-  {
-    "title": "Travel’s Latest Buzzword: ‘Microvacations’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fshort-microvacations.html",
-    "published": "Wed, 21 Jan 2026 15:52:06 CST",
-    "summary": "Travelers short on vacation time are embarking on one- to three-day trips that\ntake advantage of time zones and credit card points.\n\n"
-  },
-  {
-    "title": "What Do Young Travelers Want? Exclusive Experiences.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Fexperiences-millennials-gen-z.html",
-    "published": "Wed, 21 Jan 2026 15:47:57 CST",
-    "summary": "More millennials and Gen Z-ers are planning trips around experiences, and the\nindustry is responding with concerts, dinners and V.I.P. events.\n\n"
-  },
-  {
-    "title": "At Check-In, Your Face Is Increasingly Your ID",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Ftravel%2Ffacial-recognition-airports.html",
-    "published": "Wed, 21 Jan 2026 15:47:45 CST",
-    "summary": "Facial recognition at security and immigration checkpoints and gates could\nease airport hassles, even as the technology raises privacy concerns.\n\n"
   },
   {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
