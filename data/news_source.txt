@@ -1,5 +1,23 @@
 [
   {
+    "title": "Why Israeli Weapons Are in Demand Despite Global Criticism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fdouble-standard-israel-s-defense-exports-explained-video",
+    "published": "Sun, 25 Jan 2026 15:04:15 CST",
+    "summary": "Even as governments around the world criticize Israel’s conduct in Gaza, many\nare still purchasing Israeli defense technology at record levels. Defense\nexports reached historic highs as demand surged from Europe, the United\nStates, and India for missile defense, drones, and battlefield-tested systems.\nBloomberg speaks with author Dan Senor, Israel Aerospace Industries CEO Boaz\nLevy, Elbit Systems CFO Kobi Kagan, Defense Ministry official Colonel Yishai\nCohen, and startup founders Udi Oster and Moshiel Biton to explain the global\ndemand for defense technology that Israel is feeding. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Investors Hedge China, Tech Risks Amid Trump TACO Trade Drama",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Finvestors-hedge-china-tech-risks-amid-trump-taco-trade-drama",
+    "published": "Sun, 25 Jan 2026 15:00:00 CST",
+    "summary": "While US President Donald Trump’s tariff threats over Greenland dominated the\nnarrative for broader equity markets last week, investors were hedging risks\nelsewhere.\n\n"
+  },
+  {
+    "title": "Power Trading Startup Enechain Raises $32 Million for Expansion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fpower-trading-startup-enechain-raises-32-million-for-expansion",
+    "published": "Sun, 25 Jan 2026 15:00:00 CST",
+    "summary": "Enechain, a startup in Japan’s growing power market, raised 5.05 billion yen\n($31.9 million) to expand its business, according to a person familiar with\nthe matter.\n\n"
+  },
+  {
     "title": "Big Tech Earnings Land With 2026’s AI Winners Still In Question",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fbig-tech-earnings-land-with-2026-s-ai-winners-still-in-question",
     "published": "Sun, 25 Jan 2026 14:00:07 CST",
@@ -40,6 +58,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fchinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html",
     "published": "Sun, 25 Jan 2026 12:46:00 CST",
     "summary": "Capital flows from eager mainland China-based investors are flowing into these\nartificial intelligence plays.\n\n"
+  },
+  {
+    "title": "Emerging Asia Lures Capital as Geopolitics Rattle Risk Appetite",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Femerging-asia-lures-capital-as-geopolitics-rattle-risk-appetite",
+    "published": "Sun, 25 Jan 2026 12:00:00 CST",
+    "summary": "Emerging Asia is drawing fresh demand as a relative refuge from geopolitical\nuncertainty elsewhere, even as some immediate risks ease.\n\n"
   },
   {
     "title": "Kazakh Oil Flows Set to Normalize as Black Sea Mooring Restored",
@@ -282,28 +306,10 @@
     "summary": "Brazilian petrochemical giant Braskem SA paid interest due Friday on its so-\ncalled hybrid bonds, according to people familiar with the matter.\n\n"
   },
   {
-    "title": "SEC to Dismiss Winklevoss’ Gemini Crypto Lending Lawsuit",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsec-to-dismiss-winklevoss-gemini-crypto-lending-lawsuit",
-    "published": "Fri, 23 Jan 2026 23:35:59 CST",
-    "summary": "The US Securities and Exchange Commission will drop the agency’s 2023 lawsuit\nagainst Gemini Trust Co. that accused the firm of illegally raising billions\nof dollars through an unregistered crypto lending program.\n\n"
-  },
-  {
     "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsec-crypto-winklevoss.html",
     "published": "Fri, 23 Jan 2026 23:35:26 CST",
     "summary": "The agency says that victims of an investment offering involving Gemini Trust\ngot their money back, though after a regulatory action brought by the New York\nattorney general.\n\n"
-  },
-  {
-    "title": "S&P 500 Poised for First Two‑Week Loss Since June as Silver Tops $100 | The Close 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fthe-close-1-23-2026-video",
-    "published": "Fri, 23 Jan 2026 23:25:52 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Wealth Enhancement’s Ayako Yoshioka, Mizuho Securities’\nNick Setyan, Apple Former Executive Tony Fadell, Bessemer Trust’s Jeff Mills,\nRichard Bernstein Advisors’s Richard Bernstein, Zellerfeld’s Cornelius\nSchmitt, Candle Media’s Kevin Mayer, The Record Academy’s Harvey Mason Jr.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Sudden Chaos in Japan’s Bond Market Puts Stock Bulls on Notice",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-23%2Fsudden-chaos-in-japan-s-bond-market-puts-stock-bulls-on-notice",
-    "published": "Fri, 23 Jan 2026 23:00:00 CST",
-    "summary": "From the start of the year, Japanese stocks surged on bets that Prime Minister\nSanae Takaichi would cement power through a snap election and then ramp up\nspending. Then on Tuesday, the so-called Takaichi trade unraveled.\n\n"
   },
   {
     "title": "Fitch Boosts Turkey’s Rating Outlook, Moody’s Stays Put",
@@ -544,12 +550,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fstocks-making-the-biggest-moves-after-hours-intc-clx-cof.html",
     "published": "Thu, 22 Jan 2026 22:46:08 CST",
     "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
-  },
-  {
-    "title": "S&amp;P 500 Posts Its First Two-Week Losses Since June: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 22 Jan 2026 22:36:41 CST",
-    "summary": "Wall Street ended a jittery week on a relatively quiet note, with stock\ntraders digesting the rally of the past two days in the run-up to the Federal\nReserve decision and the start of the big-tech earnings season.\n\n"
   },
   {
     "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
