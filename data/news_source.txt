@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ecuador’s Cocoa Boom Shows How Climate Change Is Redrawing Agriculture",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-climate-change-affects-the-world-s-chocolates-video",
+    "published": "Sun, 25 Jan 2026 13:04:56 CST",
+    "summary": "Extreme heat, erratic rainfall, and disease are disrupting cocoa production in\nWest Africa, which supplies most of the world’s chocolate. As climate change\npushes growing conditions past their limits, Ecuador is rapidly expanding\noutput and positioning itself as a key alternative supplier. Bloomberg’s\nScarlet Fu reports from cacao farms near Guayaquil, with insights from Climate\nCentral’s Kristina Dahl, cocoa exporter Ivan Ontaneda, farmer Johann Zeller,\nand chocolatier Oded Brenner on why climate stress, genetics, and farming\npractices are reshaping the global chocolate industry. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Auto executives are hoping for the best and planning for the worst in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fauto-industry-2026.html",
+    "published": "Sun, 25 Jan 2026 13:00:02 CST",
+    "summary": "Automakers are entering a new phase of uncertainty as they deal with\naffordability issues and slowing consumer demand.\n\n"
+  },
+  {
+    "title": "China's AI trade is quickly moving from infrastructure to applications. Watch these stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fchinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html",
+    "published": "Sun, 25 Jan 2026 12:46:00 CST",
+    "summary": "Capital flows from eager mainland China-based investors are flowing into these\nartificial intelligence plays.\n\n"
+  },
+  {
+    "title": "Kazakh Oil Flows Set to Normalize as Black Sea Mooring Restored",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fkazakh-oil-flows-set-to-normalize-as-black-sea-mooring-restored",
+    "published": "Sun, 25 Jan 2026 11:35:53 CST",
+    "summary": "The Caspian Pipeline Consortium said an offshore mooring is back online,\nenabling crude to flow through a route that accounts for about 90% of Kazakh\noil exports.\n\n"
+  },
+  {
     "title": "Market on High Alert for Yen Intervention After Takaichi Warning",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
     "published": "Sun, 25 Jan 2026 11:00:00 CST",
@@ -288,12 +312,6 @@
     "summary": "It will be the latest in at least half a dozen events that the breakaway\nleague has held at Trump Organization resorts in the past four years.\n\n"
   },
   {
-    "title": "SpaceX Can Fit Inside of an ETF. Why Don’t More Funds Hold It?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-23%2Fmusk-s-spacex-can-fit-inside-of-an-etf-why-don-t-more-funds-hold-it",
-    "published": "Fri, 23 Jan 2026 22:15:49 CST",
-    "summary": "ETF’s are dabbling in private markets, but few are going as full-throttled on\nSpaceX as Rob Baron.\n\n"
-  },
-  {
     "title": "Minnesotans strike in protest against ICE surge: ‘No work, no school, no shopping’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests",
     "published": "Fri, 23 Jan 2026 22:12:22 CST",
@@ -310,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
     "published": "Fri, 23 Jan 2026 22:04:36 CST",
     "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
-  },
-  {
-    "title": "Zach Buchwald on Finding a Place in Finance",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fzach-buchwald-on-finding-a-place-in-finance-video",
-    "published": "Fri, 23 Jan 2026 22:00:57 CST",
-    "summary": "Barry speaks with Zach Buchwald, Chief Executive Officer and Chairman of\nRussell Investments about his career in investing. They discuss the creation\nof the smart beta philosophy. They also discuss the transition from pensions\nto 401ks for retirees, and the way the onus for investing has moved to the\nindividual. Zach also describes his proposal for a program, that is now in\neffect, for a $1000 to every newborn who's parents open a count to show the\nimportance of compounding. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
@@ -946,12 +958,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Ftrump-investors-homes-family-offices.html",
     "published": "Fri, 16 Jan 2026 12:30:01 CST",
     "summary": "Wall Street landlords are the primary target of Trump's proposed ban, but\ninvestment firms of the ultra rich could get caught in the crosshairs.\n\n"
-  },
-  {
-    "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F15%2Famazon-says-saks-investment-is-worthless-after-bankruptcy.html",
-    "published": "Thu, 15 Jan 2026 21:39:10 CST",
-    "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants\na federal judge to reject Saks' bankruptcy plan because it harms creditors.\n\n"
   },
   {
     "title": "College students and teens could be fueling the prediction markets boom",
