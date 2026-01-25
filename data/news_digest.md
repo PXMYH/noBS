@@ -6,7 +6,7 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-Global financial and political tensions dominate headlines as Japan faces economic instability ahead of a snap election, with Prime Minister Sanae Takaichi warning of intervention amid a weakening yen and surging bond yields. In the U.S., Democrats threaten a government shutdown over funding for the Department of Homeland Security, while President Trump escalates trade threats, vowing a 100% tariff on Canadian imports if Ottawa strikes a deal with China. Meanwhile, China gains ground as Trump renounces U.S. leadership in global economic governance, further straining relations with allies like Japan, where Chinese tourism plummets amid disputes over Taiwan. The UK also tightens trade policies, reducing tariff-free steel imports to counter a global glut driven by Chinese production. Domestic unrest in the U.S. intensifies as Minnesotans stage mass protests against ICE operations, adding pressure to an already volatile political landscape.
+Global financial and political tensions dominate headlines as Japan faces economic instability ahead of a snap election, with Prime Minister Sanae Takaichi warning of intervention amid a weakening yen and surging bond yields. In the U.S., Democrats threaten a government shutdown over funding for the Department of Homeland Security, while President Trump escalates trade threats, vowing a 100% tariff on Canadian imports if Ottawa strikes a deal with China. Meanwhile, China gains ground as Trump renounces U.S. leadership in the global economy, further straining relations. The UK also tightens trade policies, reducing tariff-free steel imports to counter a global glut driven by Chinese production. Protests erupt in Minnesota over ICE operations, reflecting growing domestic unrest, while Venezuela's economic crisis pushes locals toward cryptocurrency as a hedge against instability.
 
 **Top Articles:**
 - [Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-25%2Fjapan-bond-market-crash-raises-alarm-for-global-interest-rates)
@@ -21,14 +21,14 @@ Global financial and political tensions dominate headlines as Japan faces econom
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions and economic shifts, with Japan's yen extending gains amid intervention threats and the Federal Reserve poised to hold interest rates steady. The U.S. economy shows resilience in small business optimism and consumer spending, though inflation remains sticky at 2.8%. Meanwhile, corporate activity is brisk: Capital One's $5.15 billion acquisition of Brex and SpaceX's potential $800 billion IPO highlight dealmaking momentum, while Trump's trade policies and legal battles with JPMorgan add volatility. In Asia, China's stock market splits between industrial exporters and struggling consumer sectors, and Saudi Arabia's property market opens further to foreign investors, signaling regional economic diversification efforts.
+Global markets are experiencing significant volatility as geopolitical tensions and economic policy shifts reshape investor sentiment. Gold surges past $5,000 an ounce, driven by safe-haven demand amid U.S. President Donald Trump’s disruptive trade policies and currency interventions. The dollar weakens as Japan signals potential yen-buying intervention, while the Federal Reserve holds interest rates steady despite political pressure from Trump, who continues to push for lower rates. Meanwhile, corporate activity remains robust, with Capital One’s $5.15 billion acquisition of Brex and SpaceX’s preparations for a blockbuster IPO. However, risks loom in private credit markets and China’s stock market, where the withdrawal of state-backed support raises concerns. Small businesses show resilience, but trade uncertainties and inflation pressures persist, keeping policymakers and investors on edge.
 
 **Top Articles:**
+- [Gold Tops $5,000 as Global Upheaval Fuels Precious Metals Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally)
 - [CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html)
 - [Morgan Stanley Prepares to Enter Japan Spot Power Trading Market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmorgan-stanley-prepares-to-enter-japan-spot-power-trading-market)
-- [Yen Extends Gains Amid Threat of Intervention: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap)
+- [Dollar Weakness Spurs Yen Gains, Gold Hits $5,000: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap)
 - [China National Team’s $68 Billion Exit Alters Stock Strategies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fchina-national-team-s-68-billion-exit-alters-stock-strategies)
-- [Japan’s “Dementia Money” Crisis Puts Trillions of Dollars at Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fjapan-s-dementia-money-crisis-puts-trillions-of-dollars-at-risk)
 
 **Sources**: archive.ph (77 articles)
 
@@ -36,22 +36,22 @@ Global markets are navigating a mix of geopolitical tensions and economic shifts
 
 ## 💻 Technology
 
-A massive winter storm disrupts the U.S. East Coast, causing widespread power outages and flight cancellations, while automakers face uncertainty amid slowing consumer demand and affordability challenges. In tech, Nvidia CEO Jensen Huang plans a visit to China as AI chip sales stall, while Netflix's advertising strategy shift yields $1.5 billion in revenue, with expectations to double in 2026. Regulatory developments include a new U.S. rule accelerating seabed mining and a lawsuit against an AI recruitment tool company for alleged discriminatory practices. Meanwhile, TikTok updates its U.S. terms following a corporate restructuring, and the IMF warns of AI's 'tsunami' impact on jobs, particularly for young workers.
+This week's major developments span tech, AI, and global economic shifts. In tech, Nvidia CEO Jensen Huang plans a visit to China amid stalled AI chip sales, while TikTok restructures its U.S. operations under new American ownership, raising questions about app changes. AI's labor market impact dominates discussions, with IMF chief Kristalina Georgieva warning of a 'tsunami' hitting jobs, particularly for young workers, as automation threatens 60% of roles in advanced economies. Meanwhile, regulatory tensions flare as the FCC cracks down on late-night TV political appearances, and a lawsuit challenges AI recruitment tools for bias. Beyond tech, a massive winter storm disrupts U.S. travel and power grids, while geopolitical uncertainties drive capital toward emerging Asian markets. Spotify's aggressive expansion into new business areas and Netflix's surging ad revenue highlight shifting media strategies.
 
 **Top Articles:**
+- [Most Fox News Reporting on Minneapolis Shooting Supports Official Version](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fmedia%2Ffox-news-minneapolis-shooting.html)
 - [Power Outages Cascade as Big Winter Storm Reaches US East Coast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-cascade-as-winter-storm-reaches-east-coast-video)
 - [Spotify’s New Playbook for Staying on Top](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fspotify-s-new-playbook-for-staying-on-top)
 - [Why Israeli Weapons Are in Demand Despite Global Criticism](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fdouble-standard-israel-s-defense-exports-explained-video)
 - [Ecuador’s Cocoa Boom Shows How Climate Change Is Redrawing Agriculture](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-climate-change-affects-the-world-s-chocolates-video)
-- [Serbia Mulls Nuclear Power Offers to Avert Blackouts, Vucic Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fserbia-mulls-nuclear-power-offers-to-avert-blackouts-vucic-says)
 
-**Sources**: archive.ph (80 articles)
+**Sources**: archive.ph (79 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports world sees major developments as the 2026 Winter Olympics approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games begin in Italy, signaling potential logistical or editorial challenges. Meanwhile, in golf, the Saudi Arabia-backed LIV Golf league continues its controversial partnership with the Trump Organization, announcing another tournament at the former president’s New Jersey resort—marking at least the sixth event held at Trump properties in four years. The move underscores the league’s strategic alignment with high-profile venues amid ongoing debates about its impact on traditional golf tours. Elsewhere, the sports media landscape faces uncertainty as outlets grapple with last-minute adjustments ahead of one of the year’s biggest global events.
+The sports world sees major developments as the 2026 Winter Olympics in Italy approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games. Meanwhile, LIV Golf continues to strengthen its ties with the Trump Organization, announcing another tournament at a Trump-owned resort in New Jersey—marking at least the sixth event hosted at a Trump property in four years. The move underscores the deepening partnership between the Saudi-backed league and the former president’s business empire, raising further questions about the intersection of sports, politics, and commerce. Elsewhere, the lead-up to the Olympics remains turbulent, with media organizations reassessing their commitments amid logistical and editorial challenges.
 
 **Top Articles:**
 - [Washington Post Tears Up Plans to Cover Winter Olympics](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html)
@@ -63,17 +63,17 @@ The sports world sees major developments as the 2026 Winter Olympics approach, w
 
 ## 📰 Other News
 
-A massive winter storm continues to disrupt travel and strain power grids across the U.S., with over 13,000 flights canceled and widespread outages threatening millions. The storm's impact underscores broader concerns about infrastructure resilience as natural gas prices fluctuate amid shifting weather forecasts. Meanwhile, political and economic tensions simmer, with German economists urging the repatriation of gold reserves from U.S. vaults due to geopolitical uncertainties under Trump's administration. The president faces criticism over housing affordability policies, as his mortgage chief undermines efforts to aid low-income buyers while inflation pressures persist, particularly in food prices. In entertainment, Disney dominates the 2025 box office, and Netflix makes a bold $27.75 billion all-cash offer for Warner Bros. Discovery assets, signaling a major shift in the streaming wars. Cultural milestones include the Oscar nominations, where 'Sinners' leads with a record 16 nods, and preparations for America's 250th anniversary celebrations, blending patriotism with commercial spectacle.
+A powerful winter storm continues to disrupt the U.S., driving natural gas prices above $6 for the first time since 2022 as freezing temperatures spike heating demand and strain power grids. The storm has grounded over 13,000 flights, leaving travelers stranded and prompting warnings of potential widespread outages. Meanwhile, energy stocks surge as investors capitalize on the cold snap, while analysts debate the long-term impact of volatile weather on commodity markets. Beyond the storm, political and economic tensions simmer: German economists urge repatriating gold reserves from U.S. vaults amid distrust of Trump’s unpredictability, while the president faces criticism from CEOs like Jamie Dimon over immigration policies and legal battles with media outlets. In entertainment, Disney dominates the 2025 box office, and Netflix amends its all-cash offer for Warner Bros. Discovery assets, signaling a shakeup in the streaming wars. Cultural milestones loom as America prepares for its 250th anniversary celebrations, blending patriotism with commercial spectacle.
 
 **Top Articles:**
+- [US Natural Gas Hits $6 for First Time Since 2022 on Arctic Blast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022)
+- [Energy stocks to watch as major winter storm rips through the U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fenergy-stocks-to-watch-as-major-winter-storm-rips-through-the-us.html)
 - [Here’s What to Know if You Plan to Travel During the Winter Storm](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html)
 - [An Expert’s Guide to Building a Perfect Investment Portfolio](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fan-expert-s-guide-to-building-a-perfect-investment-portfolio)
 - [How to Make Money From the Booming Demand for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-to-make-money-from-the-booming-demand-for-energy)
-- [Trump has ramped up lawsuits against the media. Here’s where they stand.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F25%2Ftrump-media-lawsuits%2F)
-- [Carney to Visit Australia in March as ‘Middle Powers’ Engage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fcarney-to-visit-australia-in-march-as-middle-powers-engage)
 
-**Sources**: archive.ph (42 articles)
+**Sources**: archive.ph (43 articles)
 
 ---
 
-*Digest generated on January 25, 2026 at 10:47 PM *
+*Digest generated on January 25, 2026 at 11:43 PM *

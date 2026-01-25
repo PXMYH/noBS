@@ -1,5 +1,29 @@
 [
   {
+    "title": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fmedia%2Ffox-news-minneapolis-shooting.html",
+    "published": "Sun, 25 Jan 2026 23:31:24 CST",
+    "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
+  },
+  {
+    "title": "US Natural Gas Hits $6 for First Time Since 2022 on Arctic Blast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
+    "published": "Sun, 25 Jan 2026 23:10:37 CST",
+    "summary": "US natural gas soared above $6 for the first time since 2022 as freezing\nweather swept across much of the country, boosting heating demand and\ndisrupting supplies.\n\n"
+  },
+  {
+    "title": "Gold Tops $5,000 as Global Upheaval Fuels Precious Metals Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
+    "published": "Sun, 25 Jan 2026 23:06:42 CST",
+    "summary": "Gold rose beyond $5,000 an ounce for the first time, extending a breakneck\nrally fueled by US President Donald Trump’s reshaping of international\nrelations and investor flight from sovereign bonds and currencies.\n\n"
+  },
+  {
+    "title": "Energy stocks to watch as major winter storm rips through the U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fenergy-stocks-to-watch-as-major-winter-storm-rips-through-the-us.html",
+    "published": "Sun, 25 Jan 2026 22:45:03 CST",
+    "summary": "Here are a few stocks and energy related industry groups to watch around this\nand future storms.\n\n"
+  },
+  {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Sun, 25 Jan 2026 22:18:29 CST",
@@ -24,10 +48,10 @@
     "summary": "Airlines have canceled more than 13,000 flights, as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
-    "title": "Yen Extends Gains Amid Threat of Intervention: Markets Wrap",
+    "title": "Dollar Weakness Spurs Yen Gains, Gold Hits $5,000: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "The yen extended its advance against the dollar amid heightened alert of\nJapanese intervention to halt the currency’s recent slide.\n\n"
+    "summary": "The dollar weakened in early Monday trading on concern the US may assist Japan\nin currency intervention. Gold climbed above $5,000 for the first time.\n\n"
   },
   {
     "title": "China National Team’s $68 Billion Exit Alters Stock Strategies",
@@ -216,18 +240,6 @@
     "summary": "Senate Democratic leader Chuck Schumer vowed to block a massive spending\npackage next week unless Republicans strip funding for the Department of\nHomeland Security, dramatically increasing the risk for a partial US\ngovernment shutdown.\n\n"
   },
   {
-    "title": "A Tale of Two Economies Is Reshaping China’s Stock Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fa-tale-of-two-economies-is-reshaping-china-s-stock-market",
-    "published": "Sun, 25 Jan 2026 00:00:00 CST",
-    "summary": "A tale of two economies is driving China’s stock market, prompting investors\nto raise bets on the beneficiaries of an industrial export boom at the expense\nof firms mired in a consumption slump.\n\n"
-  },
-  {
-    "title": "US to Invest $1.6 Billion In USA Rare Earth: Financial Times",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fus-to-invest-1-6-billion-in-usa-rare-earth-financial-times",
-    "published": "Sat, 24 Jan 2026 23:57:05 CST",
-    "summary": "The Trump administration is planning to invest $1.6 billion into USA Rare\nEarth, the Financial Times reported, citing unidentified people familiar with\nthe matter.\n\n"
-  },
-  {
     "title": "Takaichi Warns Japan Is Ready to Act on Speculative Moves",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fjapan-s-takaichi-warns-ready-to-act-on-speculative-market-moves",
     "published": "Sat, 24 Jan 2026 23:30:21 CST",
@@ -394,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Ftiktok-china-technology.html",
     "published": "Fri, 23 Jan 2026 18:58:33 CST",
     "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do\nbusiness in the United States. Some are choosing to avoid the U.S. altogether.\n\n"
-  },
-  {
-    "title": "Sports-Betting Scandals Are Ubiquitous. Whether Fans Will Care Is an Open Question.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F21%2Fbusiness%2Fsports-betting-scandals-fans.html",
-    "published": "Fri, 23 Jan 2026 18:09:31 CST",
-    "summary": "Breaches of ethics in sports are almost as old as professional competitions.\nHere’s when they have affected the business — and when they haven’t.\n\n"
   },
   {
     "title": "For His Next Act, Darren Walker Is Heading to Hollywood",
@@ -922,12 +928,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F18%2Fchinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html",
     "published": "Sun, 18 Jan 2026 12:29:41 CST",
     "summary": "After beating Tesla in the number of electric vehicles sold, BYD has another\nbig business that investors have yet to fully appreciate, according to\nBernstein.\n\n"
-  },
-  {
-    "title": "Smaller companies are rising quickly to challenge Big Tech as AI's best trade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fai-power-demand-markets-investor-risk.html",
-    "published": "Sat, 17 Jan 2026 21:43:09 CST",
-    "summary": "Reliable power, nuclear investment, data-center efficiency, and grid capacity\nare now core drivers of stock returns from the AI theme as demand ramps.\n\n"
   },
   {
     "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
