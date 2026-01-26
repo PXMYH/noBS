@@ -1,5 +1,113 @@
 [
   {
+    "title": "Kenya Shifts Tea Production Toward Higher-Value Orthodox Variety",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkenya-expands-orthodox-tea-production-to-cut-reliance-on-ctc-black-tea",
+    "published": "Mon, 26 Jan 2026 13:18:23 CST",
+    "summary": "Kenya, the world’s largest exporter of black tea, is ramping up production of\northodox teas, which fetch higher prices and are seeing rising demand.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: USA Rare Earth, Allied Gold, CoreWeave, Enphase & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fstocks-making-the-biggest-moves-premarket-usar-aauc-nem-enph.html",
+    "published": "Mon, 26 Jan 2026 13:09:31 CST",
+    "summary": "These are the stocks posting the largest moves before the bell.\n\n"
+  },
+  {
+    "title": "Goldman’s Top Precious Metals Trader Binet-Laisne Leaves Bank",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgoldman-s-top-precious-metals-trader-binet-laisne-leaves-bank",
+    "published": "Mon, 26 Jan 2026 13:08:08 CST",
+    "summary": "Goldman Sachs Group Inc.’s head of precious metals trading Benjamin Binet-\nLaisne is leaving the bank, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Wizz Air Seeks US Flight Permit After Scrapping Middle East Plan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fwizz-air-seeks-us-flight-permit-after-scrapping-middle-east-plan",
+    "published": "Mon, 26 Jan 2026 13:08:04 CST",
+    "summary": "Wizz Air Holdings Plc’s UK subsidiary applied for permission to fly to the US,\nmonths after the budget carrier’s plans to expand in the Middle East fell\nthrough.\n\n"
+  },
+  {
+    "title": "Gold Soars to Record High as Global Tensions Grow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fgold-prices.html",
+    "published": "Mon, 26 Jan 2026 13:06:14 CST",
+    "summary": "The price of gold surged above $5,000 an ounce as investors sought shelter\nfrom geopolitical uncertainty.\n\n"
+  },
+  {
+    "title": "Oil Tanker Rates Are Surging on Geopolitical Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-26%2Foil-tanker-rates-are-surging-on-geopolitical-risks",
+    "published": "Mon, 26 Jan 2026 13:00:57 CST",
+    "summary": "From Venezuela to Iran, an increasingly turbulent world is pushing up the\ncosts of hauling crude.\n\n"
+  },
+  {
+    "title": "Mizuho Adds HSBC’s Connor, JPMorgan’s de Maria to Hiring Wave",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmizuho-adds-hsbc-s-connor-jpmorgan-s-de-maria-to-hiring-wave",
+    "published": "Mon, 26 Jan 2026 12:57:10 CST",
+    "summary": "Mizuho Financial Group Inc. has brought in Jon Connor and Thibaud de Maria as\npart of a hiring wave of senior investment bankers, said people familiar with\nthe matter who asked not to be identified because it wasn’t public yet.\n\n"
+  },
+  {
+    "title": "Junk Debt Sales Soar in Europe After Trump Tariff Threat Recedes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjunk-debt-sales-soar-in-europe-after-trump-tariff-threat-recedes",
+    "published": "Mon, 26 Jan 2026 12:54:36 CST",
+    "summary": "Europe’s junk-debt sales for bonds and loans surged as firms took advantage of\neasing geopolitical tensions after US President Donald Trump abandoned his\nGreenland-linked tariff threats.\n\n"
+  },
+  {
+    "title": "UniCredit Plans SRT Transactions Linked to €5 Billion of Loans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Funicredit-plans-srt-transactions-linked-to-5-billion-of-loans",
+    "published": "Mon, 26 Jan 2026 12:47:28 CST",
+    "summary": "UniCredit SpA is planning to issue two significant risk transfers tied to\naround €5 billion ($6 billion) of loans, according to people familiar with the\nmatter.\n\n"
+  },
+  {
+    "title": "Kazakhstan’s Giant Tengiz Oil Field Prepares to Restore Output",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkazakhstan-s-giant-tengiz-oil-field-prepares-to-restore-output",
+    "published": "Mon, 26 Jan 2026 12:46:00 CST",
+    "summary": "Kazakhstan’s largest oil producer is preparing to resume output at the giant\nTengiz field, a further step to normalize the nation’s supply to global\nmarkets after a series of disruptions in recent months.\n\n"
+  },
+  {
+    "title": "BlackRock Says Europe Draws a ‘Decade in a Year’ of Stock Flows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fblackrock-says-europe-draws-a-decade-in-a-year-of-stock-flows",
+    "published": "Mon, 26 Jan 2026 12:45:23 CST",
+    "summary": "Demand for exchange-traded products focused on European equities was so strong\nin 2025 that they attracted a “decade in a year” of inflows, according to\nBlackRock Inc.’s Ursula Marchioni.\n\n"
+  },
+  {
+    "title": "USA Rare Earth Lines Up $1.6 Billion in US Government Funding",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fusa-rare-earth-lines-up-1-6-billion-in-us-government-funding",
+    "published": "Mon, 26 Jan 2026 12:43:21 CST",
+    "summary": "USA Rare Earth Inc. signed a non-binding agreement with the Commerce\nDepartment to receive $1.6 billion in funding to accelerate US production of\nkey rare-earth elements.\n\n"
+  },
+  {
+    "title": "Electrical Equipment Maker Forgent Seeks $1.62 Billion in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Felectrical-equipment-maker-forgent-seeks-1-62-billion-in-us-ipo",
+    "published": "Mon, 26 Jan 2026 12:37:09 CST",
+    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
+  },
+  {
+    "title": "Yen-tervention Watch, Dollar Declines, and Cold Weather Drives NatGas | The Opening Trade 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-opening-trade-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 12:28:10 CST",
+    "summary": "The dollar extends its selloff on Monday as speculation swirled that the US\ncould coordinate intervention with Japanese authorities to support the yen.\nTraders are on heightened alert for authorities intervening in Japan as Prime\nMinister Sanae Takaichi says the government is ready to take action. Continued\nglobal uncertainty drives gold beyond $5,000-an-ounce. Natural Gas prices soar\non both sides of the Atlantic with freezing weather sweeping across much of\nthe US, boosting heating demand and disrupting supplies. The Opening Trade has\neverything you need to know as markets open across Europe. With analysis you\nwon't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Market’s Watchmen Are at Loggerheads Over 2026 Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Foil-market-s-watchmen-are-at-loggerheads-over-2026-outlook",
+    "published": "Mon, 26 Jan 2026 12:26:53 CST",
+    "summary": "Oil traders seeking to plot the path for prices this year are juggling sharply\ndifferent assessments of the supply-demand outlook, from a huge surplus to a\nbroadly balanced market.\n\n"
+  },
+  {
+    "title": "Shutdown Risk Rises Amid Second Killing in Minneapolis; NYC Winter Storm | Bloomberg Brief 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbloomberg-brief-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 12:05:04 CST",
+    "summary": "The dollar extends its selloff as the yen strengthens amid speculation of a\ncoordinated US-Japan intervention. Precious metals miners gain as gold tops\n$5,000. A US government shutdown risk rises as Republican lawmakers dismiss\nDemocrats' demands to split off funding for the Department of Homeland\nSecurity following a second killing of a US citizen during an immigration\ncrackdown in Minneapolis. Travel disruptions linger and power grids brace for\nunprecedented seasonal demand after the heaviest winter storm in the east\ncoast in years. Sonja Marten of DZ Bank discusses the debasement trade.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Crypto Traders Flee to Prediction Bets After $150 Billion Crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcrypto-traders-flee-to-prediction-bets-after-150-billion-crash",
+    "published": "Mon, 26 Jan 2026 12:00:00 CST",
+    "summary": "Not long ago, Nikshep Saravanan was deep in the crypto trenches -- trading\nmemecoins, reaching out to venture capitalists, and trying to launch a startup\nfor digital creators. By January, he’d dropped it all. These days, he spends\nhours on prediction markets, tracking odds on everything from sports to\npolitics.\n\n"
+  },
+  {
+    "title": "Trump Threatens 100% Tariffs on Canada for China Trade Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftrump-threatens-100-tariffs-on-canada-for-china-trade-video",
+    "published": "Mon, 26 Jan 2026 11:59:58 CST",
+    "summary": "President Donald Trump said he would place a 100% tariff on all Canadian goods\nif Canada becomes a “drop off port” for Chinese exports to the US as the\nnation attempts to diversify trade away from the US. Tyler Kendall reports on\nBloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feuropean-union-x-grok-ai-images-musk.html",
     "published": "Mon, 26 Jan 2026 11:26:57 CST",
@@ -24,64 +132,10 @@
     "summary": "Saudi Arabia and the Olympic Council of Asia have agreed to postpone the 2029\nAsian Winter Games, which were set to take place at a desert ski resort in the\nplanned Saudi mega city of Neom. Bloomberg's Stuart Livingstone-Wallace\nreports. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Saudi Arabia, Asian Council Delay 2029 Winter Games",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fsaudi-arabia-asian-council-delay-2029-winter-games-video",
-    "published": "Mon, 26 Jan 2026 11:14:30 CST",
-    "summary": "Saudi Arabia and the Olympic Council of Asia have agreed to postpone the 2029\nAsian Winter Games. They were set to take place at a desert ski resort in the\nplanned Saudi mega city of Neom. Bloomberg's Executive Editor for Middle East,\nNorth Africa and Russia spoke to Joumanna Bercetche on Horizons Middle East\nand Africa. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "South African Stocks Hit Fresh Record High, Gains Seen Extending",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsouth-african-stocks-hit-fresh-record-high-gains-seen-extending",
-    "published": "Mon, 26 Jan 2026 11:14:22 CST",
-    "summary": "Surging metal prices and a strengthening rand helped propel South Africa’s\nbenchmark stock index to a record high on Monday, with investors expecting the\nrally to run further.\n\n"
-  },
-  {
-    "title": "Hong Kong Plans to Trial Gold Clearing This Year as Metal Surges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fhong-kong-plans-to-trial-gold-clearing-this-year-as-metal-surges",
-    "published": "Mon, 26 Jan 2026 11:12:37 CST",
-    "summary": "Hong Kong’s government plans to launch a state-owned clearing system and\nfutures contracts for gold as part of its efforts to advance the city’s\nambition to become a hub for the precious metal.\n\n"
-  },
-  {
-    "title": "JPMorgan and Goldman See US Earnings Broadening Beyond Big Tech",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjpmorgan-goldman-see-us-earnings-broadening-beyond-big-tech",
-    "published": "Mon, 26 Jan 2026 11:04:07 CST",
-    "summary": "Some of Wall Street’s top strategists see tentative signs that US earnings are\nexpanding beyond the mega-cap technology stocks at the heart of the artificial\nintelligence boom.\n\n"
-  },
-  {
-    "title": "Fed to Hold Rates as Political Storm Intensifies Around Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ffed-to-hold-rates-as-political-storm-intensifies-around-powell",
-    "published": "Mon, 26 Jan 2026 11:00:00 CST",
-    "summary": "The Federal Reserve is widely expected to halt its interest-rate-cutting cycle\nthis week, as a steadier jobs market restores a degree of consensus at the\ncentral bank after months of growing division.\n\n"
-  },
-  {
-    "title": "Chilean Corporates Are Looking Local Amid Global Bond Binge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Famid-global-bond-binge-chilean-corporates-are-looking-local",
-    "published": "Mon, 26 Jan 2026 11:00:00 CST",
-    "summary": "Chilean non-financial companies sold peso debt last year at the fastest pace\nsince at least 2019, at the same time that they reduced sales into the booming\nglobal market, as local institutional investors recover from the ravages of\nthe pandemic.\n\n"
-  },
-  {
-    "title": "Aramco Starts First Bond Sale of This Year as Oil Prices Lag",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Faramco-starts-first-bond-sale-of-this-year-as-oil-prices-lag",
-    "published": "Mon, 26 Jan 2026 10:42:26 CST",
-    "summary": "Aramco is launching its first bond sale of the year, just as oil prices remain\nwell below levels needed to balance Saudi Arabia’s budget.\n\n"
-  },
-  {
-    "title": "The Debasement Trade Is Driving Gold Prices to Dizzying Heights",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-26%2Fthe-debasement-trade-is-driving-gold-prices-to-dizzying-heights",
-    "published": "Mon, 26 Jan 2026 10:40:14 CST",
-    "summary": "Gold surpasses $5,000 an ounce as traders pull back from sovereign bonds,\ncurrencies.\n\n"
-  },
-  {
-    "title": "Furious Rally in US Defense Stocks Faces Earnings Reality Check",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ffurious-rally-in-us-defense-stocks-faces-earnings-reality-check",
-    "published": "Mon, 26 Jan 2026 10:30:00 CST",
-    "summary": "An increasingly unstable global geopolitical order has turbocharged stocks of\nmilitary contractors in recent months. Now, with some of the biggest names in\nthe industry set to report earnings this week, investors are eager for\nevidence that the rally is rooted in reality.\n\n"
-  },
-  {
-    "title": "Nigeria Credit Guarantor Targets $703 Million for Infrastructure",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fnigeria-credit-guarantor-targets-703-million-for-infrastructure",
-    "published": "Mon, 26 Jan 2026 10:21:40 CST",
-    "summary": "Nigeria’s InfraCredit plans to more than triple its naira guarantees over the\nnext four years, betting that looser leverage rules and easing borrowing costs\nwill help unlock long-term funding for infrastructure projects in the West\nAfrican nation.\n\n"
+    "title": "China’s Zijin to Buy Allied Gold for C$5.5 Billion in Growth Push",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fzijin-has-agreed-to-buy-allied-gold-for-c-5-5-billion",
+    "published": "Mon, 26 Jan 2026 11:13:30 CST",
+    "summary": "A Zijin Mining Group Co. subsidiary agreed to buy Allied Gold Corp., which\nowns gold mines in Africa, for C$5.5 billion ($4 billion) in the latest step\nin the Chinese company’s rapid growth.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -114,58 +168,16 @@
     "summary": "Despite the demise of Direct File, taxpayers still have plenty of no-cost\noptions for filing their returns this tax season.\n\n"
   },
   {
-    "title": "Ryanair to Get Its First Boeing Max 10 Jets in 2027",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fryanair-to-get-its-first-boeing-max-10-jets-in-2027-video",
-    "published": "Mon, 26 Jan 2026 09:57:57 CST",
-    "summary": "Ryanair Chief Financial Officer Neil Sorahan discusses growing passenger\nnumbers, Boeing Max 10 deliveries and an online spat between CEO Michael\nO’Leary and Elon Musk. He says the first Max 10 jets are set to come into\nRyanair’s fleet in spring of 2027. Sorahan speaks to Lizzy Burden on Bloomberg\nTelevision. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Gulf Countries Go on Borrowing Binge in January With Asia Help",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgulf-countries-go-on-borrowing-binge-in-january-with-asia-help",
-    "published": "Mon, 26 Jan 2026 09:56:41 CST",
-    "summary": "Gulf countries accelerated bond issuance in January as investors shifted\ntoward emerging markets. The increase was partly driven by Asian demand, with\nChinese banks making it to the roster of deal managers amid waning influence\nfrom US lenders.\n\n"
-  },
-  {
-    "title": "Korea Pension Fund Cuts Foreign Stock Plan by $20 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkorea-s-990-billion-pension-fund-to-cut-foreign-stock-exposure",
-    "published": "Mon, 26 Jan 2026 09:55:39 CST",
-    "summary": "South Korea’s National Pension Service will trim its exposure to overseas\nstocks this year to an estimated $20 billion less than it originally planned,\nrecalibrating its portfolio in response to the Kospi’s blistering rally and\nthe won’s decline.\n\n"
-  },
-  {
-    "title": "Europe’s Bank Rules Overhaul Should Look Beyond AT1, Campa Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Feurope-s-bank-rules-overhaul-should-look-beyond-at1-campa-says",
-    "published": "Mon, 26 Jan 2026 09:34:20 CST",
-    "summary": "European Union plans to simplify bank rules must make future capital needs\nclear and avoid fixation on subordinated debt, a top watchdog said.\n\n"
-  },
-  {
-    "title": "PwC Said to Resume Work on Pitches to Saudi PIF After Ban Ends",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fpwc-said-to-resume-work-on-pitches-to-saudi-arabia-s-pif-after-ban-ends",
-    "published": "Mon, 26 Jan 2026 09:27:56 CST",
-    "summary": "PwC executives have asked teams to resume pitching for work with Saudi\nArabia’s wealth fund, according to people familiar with matter, as the one-\nyear ban on the consulting firm in an important market comes to an end.\n\n"
-  },
-  {
-    "title": "Snowstorm Triggers Warnings in Germany and Northern Europe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsnowstorm-triggers-warnings-in-germany-and-northern-europe",
-    "published": "Mon, 26 Jan 2026 09:16:47 CST",
-    "summary": "Heavy snow and ice hit northern and eastern Europe, disrupting transport and\npower systems as freezing conditions are forecast for the next two weeks.\n\n"
-  },
-  {
     "title": "German Business Outlook Unexpectedly Drops on Subdued Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgerman-business-outlook-unexpectedly-drops-with-growth-subdued",
     "published": "Mon, 26 Jan 2026 09:08:37 CST",
     "summary": "Germany’s business outlook slipped at the start of the year with the economy\nstill lackluster despite the promise of big government investments to come.\n\n"
   },
   {
-    "title": "Catalonia Halts Train Services as Spanish Rail Concerns Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcatalonia-halts-train-services-as-spanish-rail-concerns-grow",
-    "published": "Mon, 26 Jan 2026 07:59:41 CST",
-    "summary": "Train services in Catalonia were suspended Monday, extending days of\ndisruption after two deadly accidents earlier this month raised concerns about\nthe safety of Spain’s rail system.\n\n"
-  },
-  {
-    "title": "Ryanair’s Cautious Guidance Echoes That of Major US Carriers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fryanair-lifts-passenger-fare-outlook-on-early-boeing-deliveries",
-    "published": "Mon, 26 Jan 2026 06:01:08 CST",
-    "summary": "Ryanair Holdings Plc slightly increased some key targets for the full fiscal\nyear, disappointing those investors hoping for a more robust outlook and\njoining some major US carriers in projecting caution because of geopolitical\ntensions.\n\n"
+    "title": "Rand Strengthens Past 16 Per Dollar for First Time Since 2022",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frand-zar-strengthens-past-16-per-dollar-for-first-time-since-2022-mkux6xue",
+    "published": "Mon, 26 Jan 2026 08:43:11 CST",
+    "summary": "South Africa’s rand strengthened past 16 per dollar for the first time in\nalmost four years as the “dollar debasement trade” pushed emerging-market\ncurrencies and stocks as well as gold to record highs.\n\n"
   },
   {
     "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
@@ -174,16 +186,16 @@
     "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
   },
   {
+    "title": "Mining Stocks Gain Globally as Hard-Asset Trade Gathers Pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmining-stocks-in-asia-gain-as-hard-asset-trade-gathers-pace",
+    "published": "Mon, 26 Jan 2026 02:59:34 CST",
+    "summary": "Mining stocks in Asia and Europe climbed with metals prices as investors\nrotated into hard assets, driven by a weakening dollar and growing unease over\ncurrencies, geopolitics and global fiscal risks.\n\n"
+  },
+  {
     "title": "Tin’s Rapid Rally Crashes to a Halt After SHFE Probes Traders",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcopper-extends-rally-as-dollar-weakness-carries-metals-higher",
     "published": "Mon, 26 Jan 2026 02:08:05 CST",
     "summary": "Tin retreated from a record after the Shanghai Futures Exchange announced\nrestrictions on positions for some clients suspected of not properly\ndisclosing their ultimate ownership.\n\n"
-  },
-  {
-    "title": "Emerging Market FX Index Hits Record on Asia Intervention Watch",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsouth-korean-won-rises-em-fx-at-record-high-as-dollar-falls",
-    "published": "Mon, 26 Jan 2026 01:54:38 CST",
-    "summary": "A gauge of emerging-market currencies touched a record high as the dollar fell\non speculation of possible joint intervention by the US and Japan, with the\nSouth Korean won leading the gains.\n\n"
   },
   {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
@@ -210,10 +222,10 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
-    "title": "US Natural Gas at Highest Since 2022 as Arctic Blast Takes Hold",
+    "title": "US Natural Gas Jumps Almost 20% as Arctic Blast Takes Hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
     "published": "Sun, 25 Jan 2026 23:10:37 CST",
-    "summary": "US natural gas soared almost 20% as freezing weather swept across much of the\ncountry, boosting heating demand and disrupting supplies.\n\n"
+    "summary": "US natural gas jumped by almost 20% as freezing weather swept across much of\nthe country, boosting heating demand and disrupting supplies.\n\n"
   },
   {
     "title": "Gold Smashes Beyond $5,000 as Global Upheaval Fans Demand Frenzy",
@@ -234,10 +246,10 @@
     "summary": "Airlines have canceled more than 13,000 flights, as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
-    "title": "Dollar Hits Four-Month Low as Gold Tops $5,000: Markets Wrap",
+    "title": "Dollar Hits Four-Month Low as Gold Tops $5,000:  Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "The dollar extended its selloff on Monday as speculation swirled that the US\ncould coordinate intervention with Japanese authorities to support the yen.\nStocks pulled back, while gold topped $5,000 an ounce.\n\n"
+    "summary": "The dollar extended its selloff on Monday as speculation swirled that the US\ncould coordinate intervention with Japanese authorities to support the yen.\nStocks wavered, while gold topped $5,000 an ounce.\n\n"
   },
   {
     "title": "US small businesses are doing fine. Don’t believe me? Look at the numbers",
@@ -264,10 +276,10 @@
     "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Yen Extends Gain as Takaichi Warning Points to Intervention Risk",
+    "title": "Yen Extends Gain as PM Warning Points to Intervention Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
     "published": "Sun, 25 Jan 2026 11:00:00 CST",
-    "summary": "The yen extended gains to as much as 1.5% against the dollar as traders are on\nheightened alert for authorities intervening in the market following its\nrecent slide.\n\n"
+    "summary": "The yen extended gains to as much as 1.5% against the dollar as comments from\nofficials fueled expectations of a market intervention after the Japanese\ncurrency’s recent slide.\n\n"
   },
   {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
@@ -666,12 +678,6 @@
     "summary": "General Motors plans to move production of a Buick compact SUV from China to\nthe U.S. for domestic sales, the company confirmed Thursday.\n\n"
   },
   {
-    "title": "He Wants New Yorkers to Have a Stake in the Knicks and the Rangers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fnyregion%2Fmsg-pension-ownership-bunkeddeko.html",
-    "published": "Thu, 22 Jan 2026 18:21:51 CST",
-    "summary": "Adem Bunkeddeko, a state comptroller candidate, wants to use some of New\nYork’s $290 billion pension fund to buy a percentage of Madison Square Garden\nSports.\n\n"
-  },
-  {
     "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fspirit-airlines-deal-talks-castlelake.html",
     "published": "Thu, 22 Jan 2026 17:13:33 CST",
@@ -910,12 +916,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:05 CST",
     "summary": "The 3.3 percent rate for 2026 would match last year’s pace. Booming investment\nin artificial intelligence is buttressing global output.\n\n"
-  },
-  {
-    "title": "Chinese EV giant BYD is a buy — and not just for its cars, Bernstein says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F18%2Fchinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html",
-    "published": "Sun, 18 Jan 2026 12:29:41 CST",
-    "summary": "After beating Tesla in the number of electric vehicles sold, BYD has another\nbig business that investors have yet to fully appreciate, according to\nBernstein.\n\n"
   },
   {
     "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
