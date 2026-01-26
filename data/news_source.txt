@@ -1,9 +1,51 @@
 [
   {
+    "title": "US Travel Chaos Set to Linger as Airlines Try to Restore Flights",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-travel-chaos-set-to-linger-as-airlines-try-to-restore-flights",
+    "published": "Mon, 26 Jan 2026 07:39:07 CST",
+    "summary": "Travelers are bracing for extended disruptions to start the working week in\nthe US as airlines try to get their schedules back on track following an\nintense winter storm that saw the most flight cancellations since Covid.\n\n"
+  },
+  {
+    "title": "Foreigners Sell Indonesian Stocks on Caution Before MSCI Review",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fforeigners-sell-indonesian-stocks-on-caution-before-msci-review",
+    "published": "Mon, 26 Jan 2026 07:30:24 CST",
+    "summary": "Indonesian stocks recorded their first outflow since October last week, driven\nby cooling risk appetite ahead of a change by MSCI Inc. in its indexing\nmethodology.\n\n"
+  },
+  {
+    "title": "MediaTek Shares Surge 19% in Two Days on Google AI Chip Tie-Up",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmediatek-shares-surge-19-in-two-days-on-google-ai-chip-tie-up",
+    "published": "Mon, 26 Jan 2026 07:24:46 CST",
+    "summary": "MediaTek Inc. shares notched their best two-day rally on record, as investors\nflock to the Taiwanese chip designer on excitement over its tie-up with\nGoogle.\n\n"
+  },
+  {
+    "title": "What Sparked Speculation of U.S.-Japan Coordination on Yen | Insight with Haslinda Amin 01/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Finsight-with-haslinda-amin-1-28-2026-video",
+    "published": "Mon, 26 Jan 2026 07:12:00 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Dollar Under Pressure Amid Yen Intervention Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fdollar-under-pressure-amid-yen-intervention-risk-video",
+    "published": "Mon, 26 Jan 2026 07:01:18 CST",
+    "summary": "The dollar weakened against most major peers, the yen jumped and gold hit a\nrecord Monday. The discussion on a potential currency pact reignited Friday\nwhen traders reported that the Federal Reserve Bank of New York had contacted\nfinancial institutions to ask about the yen’s exchange rate. Bloomberg’s Mark\nCranfield breaks down the situation.\n\n"
+  },
+  {
+    "title": "Russia’s First Domestically Built Ice-Class Tanker Nears Sanctioned Arctic Plant",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frussian-ice-class-lng-tanker-nears-sanctioned-arctic-plant",
+    "published": "Mon, 26 Jan 2026 06:46:16 CST",
+    "summary": "Russia’s first domestically-built ice-class tanker is closing in on the US-\nsanctioned Arctic LNG 2 plant, expanding the facility’s fleet of vessels able\nto transport the fuel in winter.\n\n"
+  },
+  {
     "title": "Pound Rallies to Highest Since September Against Weak Dollar",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-26%2Fftse-100-live-pound-dollar-bonds-gold-prices-starmer-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Mon, 26 Jan 2026 06:45:13 CST",
     "summary": "\n\n"
+  },
+  {
+    "title": "Hong Kong Boosts Yuan Supply to Banks in Push for China Currency",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fhong-kong-boosts-yuan-supply-to-banks-in-push-for-china-currency",
+    "published": "Mon, 26 Jan 2026 06:37:48 CST",
+    "summary": "Hong Kong will double the supply of yuan available for banks to borrow, in the\nlatest step to meet growing demand and help China boost the global use of its\ncurrency.\n\n"
   },
   {
     "title": "Kenya Plans $969 Million of Short-Term Borrowing for Roads",
@@ -90,52 +132,16 @@
     "summary": "China will allow foreigners to invest in domestic nickel and lithium futures,\npart of Beijing’s efforts to boost its influence in global commodities\nmarkets.\n\n"
   },
   {
-    "title": "Federated Hermes to Open Hong Kong Office",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ffederated-hermes-to-open-hong-kong-office-video",
-    "published": "Mon, 26 Jan 2026 03:08:52 CST",
-    "summary": "Federated Hermes has announced plans to open an office in Hong Kong to\ncapitalize on the region's growing wealth market. Deborah Cunningham, the\nfirm's Global Liquidity Markets CIO, spoke with Bloomberg’s David Ingles and\nYvonne Man at the Asian Financial Forum in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman’s Meena Flynn on Intergenerational Wealth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fgoldman-s-meena-flynn-on-intergenerational-wealth-video",
-    "published": "Mon, 26 Jan 2026 03:08:24 CST",
-    "summary": "Goldman Sachs Global Private Wealth Management Co-head Meena Flynn outlines\nhow her team serves high-net-worth individuals. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Mining Stocks Gain in Asia as Hard-Asset Trade Gathers Pace",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmining-stocks-in-asia-gain-as-hard-asset-trade-gathers-pace",
     "published": "Mon, 26 Jan 2026 02:59:34 CST",
     "summary": "Asian mining stocks climbed with metals prices as investors rotated into hard\nassets, driven by a weakening dollar and growing unease over currencies,\ngeopolitics and global fiscal risks.\n\n"
   },
   {
-    "title": "Traders Game Out US Plans for Japanese Yen | The Asia Trade 1/26/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-asia-trade-1-26-26-video",
-    "published": "Mon, 26 Jan 2026 02:57:45 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Morgan Stanley Asia CEO on IPO, Fundraising Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fmorgan-stanley-asia-ceo-on-ipo-fundraising-video",
-    "published": "Mon, 26 Jan 2026 02:33:33 CST",
-    "summary": "Gokul Laroia, Morgan Stanley’s CEO for Asia, says the environment for capital\nmarkets has been robust. He spoke exclusively with Bloomberg’s David Ingles\nand Yvonne Man at the Asian Financial Forum in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Modern Dental Surges to More Than Four-Year High on Hillhouse Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmodern-dental-surges-to-more-than-four-year-high-on-hillhouse-deal",
-    "published": "Mon, 26 Jan 2026 02:31:38 CST",
-    "summary": "Shares of Hong Kong-listed Modern Dental Group Ltd. jumped almost 18% Monday\nmorning to the highest since December 2021 after Hillhouse Investment bought a\nsignificant minority stake in the firm.\n\n"
-  },
-  {
-    "title": "Singapore Dollar Hits Highest in Over 11 Years Versus Greenback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsingapore-dollar-hits-highest-in-over-11-years-versus-greenback",
-    "published": "Mon, 26 Jan 2026 02:14:29 CST",
-    "summary": "The Singapore dollar climbed to its strongest level since October 2014 versus\nthe greenback amid safe-haven flows, and with the nation’s central bank\nexpected to leave its policy settings unchanged this week.\n\n"
-  },
-  {
-    "title": "Copper Extends Rally as Dollar Weakness Carries Metals Higher",
+    "title": "Tin’s Rapid Rally Crashes to a Halt After SHFE Probes Traders",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcopper-extends-rally-as-dollar-weakness-carries-metals-higher",
     "published": "Mon, 26 Jan 2026 02:08:05 CST",
-    "summary": "Copper extended gains -- after jumping almost 3% on Friday -- as continued\nweakness in the dollar buoyed base metals.\n\n"
+    "summary": "Tin retreated from a record after the Shanghai Futures Exchange announced\nrestrictions on positions for some clients suspected of not properly\ndisclosing their ultimate ownership.\n\n"
   },
   {
     "title": "South Korean Won Rises, EM FX at Record High as Dollar Falls",
@@ -174,12 +180,6 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
-    "title": "US Natural Gas Hits $6 for First Time Since 2022 on Arctic Blast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
-    "published": "Sun, 25 Jan 2026 23:10:37 CST",
-    "summary": "US natural gas soared above $6 for the first time since 2022 as freezing\nweather swept across much of the country, boosting heating demand and\ndisrupting supplies.\n\n"
-  },
-  {
     "title": "Gold Storms Beyond $5,000 as Global Upheaval Fans Demand Frenzy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
     "published": "Sun, 25 Jan 2026 23:06:42 CST",
@@ -204,12 +204,6 @@
     "summary": "The dollar fell against most of its major peers as potential US involvement in\nforeign-exchange intervention in Japan hurt sentiment toward the world’s\nreserve currency. Gold rose above $5,000 for the first time on haven demand.\n\n"
   },
   {
-    "title": "China National Team’s $68 Billion Exit Alters Stock Playbook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fchina-national-team-s-68-billion-exit-alters-stock-strategies",
-    "published": "Sun, 25 Jan 2026 21:00:00 CST",
-    "summary": "For years, investors in China’s stock market took comfort in an unseen\nbackstop: the so-called national team, quietly deploying vast firepower to\ncushion selloffs and stabilize prices.\n\n"
-  },
-  {
     "title": "US small businesses are doing fine. Don’t believe me? Look at the numbers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Fus-small-business-2026-outlook",
     "published": "Sun, 25 Jan 2026 15:00:11 CST",
@@ -228,6 +222,12 @@
     "summary": "Capital flows from eager mainland China-based investors are flowing into these\nartificial intelligence plays.\n\n"
   },
   {
+    "title": "Emerging Asia Lures Capital as Geopolitics Rattle Risk Mood",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Femerging-asia-lures-capital-as-geopolitics-rattle-risk-appetite",
+    "published": "Sun, 25 Jan 2026 12:00:00 CST",
+    "summary": "Emerging Asia is drawing fresh demand as a relative refuge from geopolitical\nuncertainty elsewhere, even as some immediate risks ease.\n\n"
+  },
+  {
     "title": "Minnesota workers pressure employers to take action against ICE operations",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Ftarget-delta-hilton-minnesota-ice-trump",
     "published": "Sun, 25 Jan 2026 11:00:06 CST",
@@ -237,7 +237,7 @@
     "title": "Yen Extends Gain as Takaichi Warning Points to Intervention Risk",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
     "published": "Sun, 25 Jan 2026 11:00:00 CST",
-    "summary": "The yen extended gains to as much as 1.2% against the dollar as traders\nstarted the week on heightened alert for authorities intervening in the market\nfollowing its recent slide.\n\n"
+    "summary": "The yen extended gains to as much as 1.2% against the dollar as traders are on\nheightened alert for authorities intervening in the market following its\nrecent slide.\n\n"
   },
   {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
