@@ -1,5 +1,41 @@
 [
   {
+    "title": "Why gold and silver prices are surging at breakneck speeds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Fgold-silver-record-rally%2F",
+    "published": "Mon, 26 Jan 2026 19:41:04 CST",
+    "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomena known as the “debasement trade.”\n\n"
+  },
+  {
+    "title": "Top Colombia Cement Maker Grupo Argos Weighs Return to Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftop-colombia-cement-maker-grupo-argos-weighs-return-to-venezuela",
+    "published": "Mon, 26 Jan 2026 19:36:17 CST",
+    "summary": "Colombia’s largest cement maker Grupo Argos is eying a return to Venezuela\nafter US forces removed President Nicolas Maduro, and is optimistic it may\nregain assets that were expropriated decades ago by the socialist regime.\n\n"
+  },
+  {
+    "title": "Options Traders Bet on Further Gold Rally After Breaking $5,000",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Foptions-traders-bet-on-further-gold-rally-after-breaking-5-000",
+    "published": "Mon, 26 Jan 2026 19:34:34 CST",
+    "summary": "Options traders are betting on a further rally in gold prices after the\nprecious metal smashed through $5,000 an ounce for the first time ever.\n\n"
+  },
+  {
+    "title": "DoubleLine’s Cohen Dials Back Corporate-Debt Buying Fearing Stocks Correction",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fdoubleline-s-cohen-dials-back-corporate-debt-buying-fearing-stocks-correction",
+    "published": "Mon, 26 Jan 2026 19:10:10 CST",
+    "summary": "DoubleLine Capital LP is reining in its corporate-debt buying, fearing that an\nalready frothy market is growing more perilous as richly valued companies\nprepare for record borrowing to fund the artificial intelligence boom and\nacquisitions.\n\n"
+  },
+  {
+    "title": "Apollo Took 100% Loss on Asset-Backed Loan Deemed Protected",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fapollo-took-100-loss-on-asset-backed-loan-deemed-protected",
+    "published": "Mon, 26 Jan 2026 19:00:41 CST",
+    "summary": "Apollo Global Management Inc. took a roughly $170 million hit after an asset-\nbacked financing for Amazon brand aggregator Perch was wiped out, a rare\nstumble for a strategy touted as one of private credit’s safest and most\npromising.\n\n"
+  },
+  {
+    "title": "Jennifer Garner Snack Firm Seeks to Escape Hollywood IPO Curse",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fhollywood-star-s-once-upon-a-farm-looks-to-shake-celeb-ipo-curse",
+    "published": "Mon, 26 Jan 2026 18:51:40 CST",
+    "summary": "If Once Upon a Farm PBC performs well in its debut as a public company, the\nfirst curtain call should feature Chief Executive Officer John Foraker at\ncenter stage, not only actress Jennifer Garner.\n\n"
+  },
+  {
     "title": "Markets Are Taking Cues from Japan: Kumra",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fmarkets-are-taking-cues-from-japan-kumra-video",
     "published": "Mon, 26 Jan 2026 18:49:45 CST",
@@ -12,9 +48,15 @@
     "summary": "PSP Growth Managing Director Momei Qu looks ahead to a big week for tech\nearnings with Bloomberg's Jonathan Ferro and Annmarie Hordern on\n'Surveillance.' (Source: Bloomberg)\n\n"
   },
   {
+    "title": "FTSE 100 Owner Proposes Easing Entry Rules for Foreign Firms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fftse-100-owner-proposes-easing-entry-rules-for-foreign-firms",
+    "published": "Mon, 26 Jan 2026 18:48:06 CST",
+    "summary": "FTSE Russell is proposing a change to the rules governing its UK stock indexes\nto make it easier for overseas firms to join the benchmarks.\n\n"
+  },
+  {
     "title": "Thousands of Flights Canceled Monday After Snowstorm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fstorm-flight-cancellations-delays.html",
-    "published": "Mon, 26 Jan 2026 18:46:17 CST",
+    "published": "Mon, 26 Jan 2026 18:46:18 CST",
     "summary": "Delays and cancellations persisted a day after more than 11,000 flights were\ncanceled. Airports in the Northeastern U.S. were hit the hardest.\n\n"
   },
   {
@@ -48,10 +90,10 @@
     "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Nvidia doubles down on AI, investing another $2\nbillion in CoreWeave as investors brace for earnings from Meta, Apple,\nMicrosoft and Tesla this week. Shutdown risks rise in Washington as Senate\nDemocrats threaten to block a spending package amid growing fallout over a\nsecond death in Minnesota. Plus, exclusive conversations with the CEOs of\nTrueCar and Baker Hughes. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Pirelli’s Chinese Investor Proposes Plan to Address US Concerns",
+    "title": "Pirelli Split Widens With China Plan to Ringfence US Refused",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fpirelli-s-chinese-investor-proposes-plan-to-address-us-concerns",
     "published": "Mon, 26 Jan 2026 17:46:58 CST",
-    "summary": "Pirelli & C. SpA’s biggest investor, China’s Sinochem Group, submitted a\nproposal aimed at addressing the Italian tiremaker’s governance and potential\nUS regulatory concerns.\n\n"
+    "summary": "The split between Pirelli & C. SpA’s two biggest investors widened when a\nproposal by China’s Sinochem Group aimed at addressing the tiremaker’s US\nregulatory risks was rejected by its top Italian owner.\n\n"
   },
   {
     "title": "Public Media Holds Its Apocalypse at Bay, for Now",
@@ -102,12 +144,6 @@
     "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
   },
   {
-    "title": "US Winter Storm Triggers Most Flight Cancellations Since Covid",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fwinter-storm-triggers-flight-cancellations-video",
-    "published": "Mon, 26 Jan 2026 17:23:40 CST",
-    "summary": "A massive winter storm sweeping across the US triggered what is shaping up to\nbe one of the worst air travel meltdowns since the Covid-19 pandemic, forcing\nsome major airlines to cancel more than half of their scheduled flights. More\nthan 16,000 US flights have been canceled from Saturday through Monday,\naccording to data from flight-tracking website FlightAware, as the storm\npushed into major population centers and snarled airline networks nationwide.\nAirlines scrapped more than 10,300 US flights on Sunday alone, according to\nFlightAware. Bloomberg's Julie Fine joins Bloomberg Intelligence to report.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Record CSG IPO Sets Europe For Defense-Led Listings Rebound",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcsg-s-record-ipo-sets-europe-up-for-defense-led-listings-rebound",
     "published": "Mon, 26 Jan 2026 17:08:23 CST",
@@ -126,34 +162,10 @@
     "summary": "Members of foreign staff send letter to billionaire owner Jeff Bezos urging\nhim to change course\n\nThe Washington Post has consistently produced high-quality, news cycle-leading\nreporting over the first year of Donald Trump’s chaotic and unpredictable\nsecond administration. But that work has been produced under a cloud of\nuncertainty and rumors of widespread job cuts.\n\nThose long-rumored cuts now appear to be close, with staffers expecting the ax\nto drop in early February – though nothing is certain. Inside the Post,\nstaffers have tossed around estimates of potential cuts, with most exceeding\n100, which would represent more than 10% of the newsroom**–** but no one\nreally knows how widespread the cuts will be – or in fact if they will happen\nat all. The sections most likely to be affected by the cuts include sports,\nmetro and foreign, according to staffers who spoke with the Guardian.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Crypto Misses the Macro Trade as Retail Dives Into Gold, Stocks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcrypto-misses-the-macro-trade-as-retail-dives-into-gold-stocks",
-    "published": "Mon, 26 Jan 2026 16:50:00 CST",
-    "summary": "Gold is topping $5,000. Stocks keep booming. The dollar is falling again. Yet\nBitcoin -- hailed as both a momentum and “debasement” trade -- is sitting out\nthe action. Its price is stalling, volumes are limp, and longtime believers\nare drifting toward more dependable markets like equities and precious metals.\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/26/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbloomberg-surveillance-1-26-2026-video",
-    "published": "Mon, 26 Jan 2026 16:44:20 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Merger Arbs See Wide-Open Deal Window With Biotech Top of List",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frevolution-medicines-abivax-rvmd-abvx-seen-as-top-m-a-targets",
-    "published": "Mon, 26 Jan 2026 16:35:24 CST",
-    "summary": "Merger arbitrage investors -- fresh off a boom year for dealmaking -- expect\nno let-up in the trend, with biotechnology firms seen as leading the pack\namong potential takeover candidates in the first quarter.\n\n"
-  },
-  {
-    "title": "Italy Declares Emergency as Storm Damage Tops €1.5 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fitaly-to-aid-storm-hit-south-as-sicily-sees-1-5-billion-damages",
-    "published": "Mon, 26 Jan 2026 16:34:17 CST",
-    "summary": "Italy’s government declared a state of emergency, unlocking €100 million in\nfunds to help repair damage after a sea storm battered parts of the country’s\nsouth.\n\n"
-  },
-  {
-    "title": "Next Brazil Leader Needs Clear Debt Plan, Ex-Treasury Chief Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fnext-brazil-leader-needs-clear-debt-plan-ex-treasury-chief-says",
-    "published": "Mon, 26 Jan 2026 16:33:15 CST",
-    "summary": "Brazil’s next government will need to move quickly to present a credible\nfiscal plan to stabilize public debt, or risk unsettling financial markets,\naccording to former Treasury Secretary Mansueto Almeida.\n\n"
+    "title": "Treasuries Extend Gains After Strong Two-Year Note Auction",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftreasuries-rise-led-by-european-bond-markets-with-auctions-ahead",
+    "published": "Mon, 26 Jan 2026 16:15:50 CST",
+    "summary": "Treasuries rose after robust demand for an auction of two-year notes showed\nthat expectations for Federal Reserve interest-rate cuts later this year\nremain a powerful inducement for buyers of US government debt.\n\n"
   },
   {
     "title": "Gold price jumps above $5,000 an ounce for first time amid Trump turmoil",
@@ -216,16 +228,16 @@
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
   },
   {
-    "title": "Bob’s Discount Furniture Seeks $370 Million in Initial Public Offering",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fbob-s-discount-furniture-bobs-seeks-370-million-in-initial-public-offering",
-    "published": "Mon, 26 Jan 2026 13:46:53 CST",
-    "summary": "Bob’s Discount Furniture Inc., a home furnishings retailer backed by Bain\nCapital, is seeking to raise as much as $370 million in a US initial public\noffering.\n\n"
-  },
-  {
     "title": "Business Leaders Face a Test in Minneapolis",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
+  },
+  {
+    "title": "Goldman Set to Sell a $2.5 Billion Bond After Record Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgoldman-returns-to-us-dollar-bond-market-after-record-deal",
+    "published": "Mon, 26 Jan 2026 13:25:24 CST",
+    "summary": "Goldman Sachs Group Inc. has launched a $2.5 billion bond less than two weeks\nafter the firm’s $16 billion sale set a record for a Wall Street bank.\n\n"
   },
   {
     "title": "Junk Debt Sales Soar After Trump Tariff Threat Recedes",
@@ -238,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Felectrical-equipment-maker-forgent-seeks-1-62-billion-in-us-ipo",
     "published": "Mon, 26 Jan 2026 12:37:09 CST",
     "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
-  },
-  {
-    "title": "China’s Zijin to Buy Allied Gold for C$5.5 Billion in Growth Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fzijin-has-agreed-to-buy-allied-gold-for-c-5-5-billion",
-    "published": "Mon, 26 Jan 2026 11:13:30 CST",
-    "summary": "A Zijin Mining Group Co. subsidiary agreed to buy Allied Gold Corp., which\nowns gold mines in Africa, for C$5.5 billion ($4 billion) in the latest step\nin the Chinese company’s rapid growth.\n\n"
   },
   {
     "title": "Aramco Kicks Off Year With $4 Billion Bond Sale as Oil Lags",
@@ -327,7 +333,7 @@
     "title": "Dollar Drops While Gold Tops $5,000, Stocks Rise: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "Big moves away from stocks and bonds were the story of markets at the start of\na busy week, with the dollar falling to a four-month low and gold topping\n$5,000 for the first time. US equities rose on gains in power suppliers as\nnatural gas jumped above $6.\n\n"
+    "summary": "Big moves away from stocks and bonds were the story of markets at the start of\na busy week, with the dollar falling toward the lowest since 2022 and gold\ntopping $5,000. US equities rose on gains in power suppliers as natural gas\njumped above $6.\n\n"
   },
   {
     "title": "Canada has no intention of pursuing free trade with China, says Carney",
