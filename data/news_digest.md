@@ -6,52 +6,52 @@ Generated from **213** unique articles (deduplicated from 213 total) across **1*
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines this week. In the Americas, Colombia's Grupo Argos considers re-entering Venezuela following the US-backed removal of President Nicolás Maduro, signaling potential economic recovery and asset reclamation. Meanwhile, President Donald Trump escalates trade threats, warning Canada of 100% tariffs if it pursues a deal with China, while the UK moves to tighten steel import restrictions amid a global glut and rising protectionism. Domestic unrest in the US sees mass protests in Minnesota against ICE operations, reflecting growing public opposition to immigration enforcement policies. Internationally, China-Japan relations deteriorate as Chinese tourism to Japan plummets after Tokyo's remarks on Taiwan, underscoring regional military tensions. Venezuela's economic instability also drives locals toward cryptocurrency like USDT as a hedge against volatility.
+Geopolitical and economic tensions dominate global headlines this week, with significant developments in trade, diplomacy, and domestic policy. The U.S. government is making strategic moves to bolster domestic industries, taking a $1.6 billion stake in USA Rare Earth to secure critical mineral supplies, while the UK plans to tighten steel import restrictions amid a global glut and rising protectionism. Meanwhile, Japan’s yen strengthens as officials hint at potential market intervention, reflecting ongoing economic volatility. In Latin America, Colombia’s Grupo Argos eyes a return to Venezuela following the removal of Nicolás Maduro, signaling potential economic shifts in the region. However, U.S. sanctions and political instability continue to complicate investment opportunities, with Venezuelans increasingly turning to cryptocurrencies like USDT to hedge against economic uncertainty. Domestically, President Trump’s threats of a new trade war and a federal court’s review of his tariff authority underscore growing tensions over U.S. trade policy, while mass protests in Minnesota highlight escalating opposition to federal immigration enforcement.
 
 **Top Articles:**
+- [USA Rare Earth Surges as US Government Takes Stake](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fusa-rare-earth-surges-as-us-government-takes-stake-video)
 - [Top Colombia Cement Maker Grupo Argos Weighs Return to Venezuela](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftop-colombia-cement-maker-grupo-argos-weighs-return-to-venezuela)
-- [Trump Threatens Canada With 100% Tariffs](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftrump-threatens-canada-with-100-tariffs-video)
+- [Yen Extends Gain as PM Warning Points to Intervention Risk](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning)
 - [UK expected to reduce amount of steel it allows in tariff-free](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Fuk-expected-reduce-steel-allows-tariff-free-glut-china)
 - [Minnesotans strike in protest against ICE surge: ‘No work, no school, no shopping’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests)
-- [Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fvenezuela-sanctions.html)
 
-**Sources**: archive.ph (8 articles)
+**Sources**: archive.ph (9 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Markets are experiencing significant volatility as investors flock to safe-haven assets amid geopolitical uncertainty and shifting monetary policies. Gold surged past $5,000 per ounce for the first time, while silver posted its largest gain since 2008, driven by global tensions and a weakening U.S. dollar. Treasury yields fell as strong demand for two-year notes reinforced expectations of Federal Reserve rate cuts later this year. Meanwhile, corporate activity remains robust, with Capital One acquiring fintech startup Brex for $5.15 billion and Spirit Airlines in takeover talks with Castlelake. Earnings season is underway, with Procter & Gamble beating profit estimates but reporting weaker-than-expected revenue, reflecting mixed consumer demand. The Fed's policy path remains a focal point, with traders speculating on potential leadership changes, including BlackRock's Rick Rieder as a contender for Fed chair. In global markets, Japan's fiscal policies are influencing bond markets, while Ecuador returns to international debt markets for the first time since its 2020 restructuring.
+U.S. stocks advanced on Monday as investors looked past geopolitical risks and focused on strong corporate earnings and upcoming tech results, though insurers faced pressure after reports of flat Medicare payment rates. Gold and silver prices surged to record highs, with gold topping $5,000 per ounce for the first time, driven by global uncertainty and a weakening U.S. dollar. Meanwhile, Treasury yields dipped following robust demand at a two-year note auction, reinforcing expectations of Federal Reserve rate cuts later this year. In corporate news, Capital One announced a $5.15 billion acquisition of fintech startup Brex, while New Fortress Energy worked on a restructuring deal with creditors. The market also saw heightened volatility in commodities, with natural gas jumping nearly 30% amid cold weather, and Ecuador returning to global debt markets with a $4 billion bond sale.
 
 **Top Articles:**
-- [Michael Burry, an Early GameStop Buyer, Is Back Hyping the Stock](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmichael-burry-an-early-gamestop-buyer-is-back-hyping-the-stock)
-- [Why gold and silver prices are surging at breakneck speeds](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Fgold-silver-record-rally%2F)
-- [Earnings Season Picking Up Steam, Snow Storm Hits US East Coast | Bloomberg Markets 1/26/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbloomberg-markets-1-26-2026-video)
-- [DoubleLine’s Cohen Dials Back Corporate-Debt Buying Fearing Stocks Correction](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fdoubleline-s-cohen-dials-back-corporate-debt-buying-fearing-stocks-correction)
-- [Apollo Took 100% Loss on Asset-Backed Loan Deemed Protected](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fapollo-took-100-loss-on-asset-backed-loan-deemed-protected)
+- [Transparency Matters In The ETF World: Sohn](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftransparency-matters-in-the-etf-world-sohn-video)
+- [US Stocks Climb as Markets Eye Tech Earnings, Fed Meeting | Closing Bell](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fus-stocks-climb-closing-bell-video)
+- [Insurers Drop on US Plan to Keep Medicare Payment Rates Flat](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat)
+- [Toews Launching A Hedged Nasdaq 100 ETF](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftoews-launching-a-hedged-nasdaq-100-etf-video)
+- [Wes Edens’ NFE in Talks With Creditors to Take Preferred Equity](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fwes-edens-nfe-in-talks-with-creditors-to-take-preferred-equity-mkvnk28s)
 
-**Sources**: archive.ph (81 articles)
+**Sources**: archive.ph (82 articles)
 
 ---
 
 ## 💻 Technology
 
-This week, tech and AI dominate headlines as Nvidia doubles down on AI with a $2 billion investment in CoreWeave, while Baker Hughes raises its data center equipment order target to $3 billion amid surging AI power demand. Meanwhile, the EU probes Elon Musk’s X over Grok’s alleged spread of sexual deepfakes, raising regulatory concerns. In corporate news, TikTok updates its U.S. terms following a restructuring, and Netflix’s ad strategy shift yields $1.5 billion in revenue. Beyond tech, a winter storm disrupts air travel, and gold prices surge past $5,000 as traders bet on further gains. The Washington Post faces potential cuts, and Trump’s economic policies remain unpredictable, including a possible Fed chair pick.
+This week's tech and business landscape is dominated by AI's growing influence and its unintended consequences. Mental health professionals report a surge in patients experiencing psychosis and isolation linked to AI chatbot interactions, raising concerns about the technology's societal impact. Meanwhile, AI adoption accelerates in China, where investors are shifting focus from infrastructure to applications, signaling a maturing market. Nvidia CEO Jensen Huang's upcoming visit to China underscores the high stakes in AI chip sales amid geopolitical tensions, as the U.S. imposes limited tariffs on foreign semiconductors, including Nvidia's exports to China. In corporate news, TikTok restructures its U.S. operations, spinning off an American entity to comply with regulatory pressures, while Netflix's ad revenue strategy shows promise, doubling projections for 2026. The week also highlights broader economic trends, with the IMF upgrading global growth forecasts to 3.3% for 2026, buoyed by AI-driven investment, though trade disruptions and tariff policies continue to create volatility in sectors like automotive and shipping.
 
 **Top Articles:**
-- [Air travel will return to normal by Wednesday, Transportation Secretary Duffy says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html)
-- [Stocks making the biggest moves midday: GameStop, Booz Allen, CVR Energy, CoreWeave & more](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fstocks-making-the-biggest-moves-midday-gme-bah-cvi-crwv-.html)
-- [Options Traders Bet on Further Gold Rally After Breaking $5,000](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Foptions-traders-bet-on-further-gold-rally-after-breaking-5-000)
-- [Companies Focused on AI Execution Well-Positioned: Qu](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fcompanies-focused-on-ai-execution-well-positioned-qu-video)
+- [How Bad Are A.I. Delusions? We Asked People Treating Them.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fchatgpt-delusions-psychosis.html)
 - [Thousands of Flights Canceled Monday After Snowstorm](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fstorm-flight-cancellations-delays.html)
+- [Power Outages Could Rise as Freezing Temperatures Persist After Winter Storm](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html)
+- [ASX Says Austraclear User Issues Didn’t Impact Internal Systems](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasx-says-austraclear-user-issues-didn-t-impact-internal-systems)
+- [Treasury ETF Becomes Test For Tokenized Finance](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftreasury-etf-becomes-test-for-tokenized-finance-video)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (74 articles)
 
 ---
 
 ## ⚽ Sports
 
-The Washington Post reverses its earlier decision to skip in-person coverage of the 2026 Winter Olympics, now committing to send a small team of reporters to Italy just weeks before the Games begin. The abrupt shift follows initial plans to forgo on-site reporting, underscoring the event's global significance despite logistical challenges. Meanwhile, in golf, Saudi Arabia-backed LIV Golf continues its partnership with the Trump Organization, announcing another tournament at the former president's New Jersey resort. This marks at least the sixth LIV event hosted at a Trump property in four years, reinforcing the league's controversial ties to both Saudi funding and U.S. political figures. The move comes as LIV Golf solidifies its presence in the sports landscape, despite ongoing debates about its impact on traditional golf tours.
+The Washington Post reverses its initial decision to skip in-person coverage of the upcoming Winter Olympics in Italy, announcing it will now send a small team of reporters just weeks before the Games begin. The abrupt change follows widespread criticism of the paper's earlier plan to rely solely on remote reporting, underscoring the significance of on-the-ground journalism for major global events. Meanwhile, in golf, Saudi Arabia-backed LIV Golf continues its controversial partnership with former President Donald Trump, confirming another tournament at a Trump Organization resort in New Jersey. This marks at least the sixth event hosted at Trump properties since the breakaway league's inception, further cementing the alliance between the two entities. The move reignites debates over sportswashing and the intersection of politics and sports.
 
 **Top Articles:**
 - [Washington Post Reverses Decision on Olympics Coverage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html)
@@ -64,17 +64,17 @@ The Washington Post reverses its earlier decision to skip in-person coverage of 
 
 ## 📰 Other News
 
-This week's news highlights economic and corporate shifts amid ongoing political and environmental challenges. Nike's decision to cut 775 jobs at U.S. distribution centers underscores the accelerating trend of automation in logistics, while Pirelli's internal dispute over U.S. regulatory risks reflects growing tensions between global investors. Meanwhile, a severe winter storm disrupts travel and energy markets, with over 13,000 flights canceled and oil prices fluctuating due to supply concerns. On the political front, Trump's housing affordability push clashes with internal contradictions, as his administration faces criticism for undermining low-income homebuyer programs. Cultural and social themes emerge in stories like Twin Falls, Idaho, welcoming Afrikaner immigrants, and Netflix's amended all-cash offer for Warner Bros. Discovery, signaling major shifts in media consolidation. Economic anxieties persist, with polls showing voters increasingly pessimistic about achieving a middle-class lifestyle due to rising costs in housing, healthcare, and education.
+A severe winter storm disrupts travel and energy markets, driving natural gas futures above $6 for the first time in decades as 12% of U.S. production falters. The storm also triggers widespread flight cancellations and strains power grids, highlighting vulnerabilities in infrastructure. Meanwhile, economic anxieties dominate headlines, with a New York Times/Siena poll revealing growing concerns about the affordability of housing, education, and healthcare, while the IRS kicks off tax season under new leadership amid ongoing budget constraints. Corporate America faces scrutiny as Nike announces 775 layoffs due to automation, and Elon Musk’s X confronts an EU inquiry over AI-generated deepfakes. In entertainment, Netflix reports 325 million global subscribers and amends its bid for Warner Bros. Discovery assets, while Disney maintains its box office dominance. Geopolitical tensions simmer as Germany considers repatriating gold reserves amid Trump-era unpredictability, and Europe’s reliance on U.S. natural gas raises strategic concerns.
 
 **Top Articles:**
 - [Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fnike-to-lay-off-775-employees-at-us-distribution-centers.html)
+- [Winter Storm Sends Natural Gas Futures Past $6 Benchmark](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fwinter-storm-sends-nat-gas-futures-past-6-benchmark-video)
 - [Pirelli Split Widens With China Plan to Ringfence US Refused](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fpirelli-s-chinese-investor-proposes-plan-to-address-us-concerns)
 - [Public Media Holds Its Apocalypse at Bay, for Now](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fnpr-pbs-stations-funding.html)
-- [Oil Majors Lose Kazakh Field Dispute Worth as Much as $4 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Foil-majors-lose-kazakh-field-dispute-worth-as-much-as-4-billion)
 - [Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feuropean-union-x-grok-ai-images-musk.html)
 
-**Sources**: archive.ph (44 articles)
+**Sources**: archive.ph (45 articles)
 
 ---
 
-*Digest generated on January 26, 2026 at 08:51 PM *
+*Digest generated on January 26, 2026 at 09:48 PM *
