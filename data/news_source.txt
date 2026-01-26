@@ -1,9 +1,45 @@
 [
   {
+    "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fnike-to-lay-off-775-employees-at-us-distribution-centers.html",
+    "published": "Mon, 26 Jan 2026 20:49:19 CST",
+    "summary": "Nike is cutting 775 employees that primarily work in Tennessee and\nMississippi-based distribution centers.\n\n"
+  },
+  {
+    "title": "Michael Burry, an Early GameStop Buyer, Is Back Hyping the Stock",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmichael-burry-an-early-gamestop-buyer-is-back-hyping-the-stock",
+    "published": "Mon, 26 Jan 2026 20:36:34 CST",
+    "summary": "Shares of GameStop Corp. rallied on Monday after Michael Burry, the money\nmanager made famous by The Big Short, wrote that he has been buying the stock.\n\n"
+  },
+  {
+    "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
+    "published": "Mon, 26 Jan 2026 20:13:07 CST",
+    "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: GameStop, Booz Allen, CVR Energy, CoreWeave & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fstocks-making-the-biggest-moves-midday-gme-bah-cvi-crwv-.html",
+    "published": "Mon, 26 Jan 2026 19:58:46 CST",
+    "summary": "These are some of the stocks posting the largest moves midday.\n\n"
+  },
+  {
+    "title": "Washington Post Reverses Decision on Olympics Coverage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html",
+    "published": "Mon, 26 Jan 2026 19:57:22 CST",
+    "summary": "The newspaper will send a small team of reporters to cover the Olympics after\nit informed sports journalists on Friday that the paper would not send a\ngroup.\n\n"
+  },
+  {
     "title": "Why gold and silver prices are surging at breakneck speeds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Fgold-silver-record-rally%2F",
     "published": "Mon, 26 Jan 2026 19:41:04 CST",
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomena known as the “debasement trade.”\n\n"
+  },
+  {
+    "title": "Earnings Season Picking Up Steam, Snow Storm Hits US East Coast | Bloomberg Markets 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbloomberg-markets-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 19:41:01 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Toews Asset\nManagement CEO Portfolio Manager Phillip Toews, Bloomberg's Jacob Lorinc and\nMyles Lorinc. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Top Colombia Cement Maker Grupo Argos Weighs Return to Venezuela",
@@ -60,12 +96,6 @@
     "summary": "Delays and cancellations persisted a day after more than 11,000 flights were\ncanceled. Airports in the Northeastern U.S. were hit the hardest.\n\n"
   },
   {
-    "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
-    "published": "Mon, 26 Jan 2026 18:45:55 CST",
-    "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
-  },
-  {
     "title": "Musk’s X Probed by EU Over Grok’s Spread of Sexual Deepfakes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Feu-probes-grok-s-spread-of-sexual-deepfakes-video",
     "published": "Mon, 26 Jan 2026 18:26:10 CST",
@@ -102,12 +132,6 @@
     "summary": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few\nhave closed their doors. Angst about their long-term future remains.\n\n"
   },
   {
-    "title": "Stocks making the biggest moves midday: GameStop, Booz Allen, CVR Energy, CoreWeave & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fstocks-making-the-biggest-moves-midday-gme-bah-cvi-crwv-.html",
-    "published": "Mon, 26 Jan 2026 17:45:06 CST",
-    "summary": "These are some of the stocks posting the largest moves midday.\n\n"
-  },
-  {
     "title": "Vir Biotechnology CEO Sees Progress in the Fight Against Cancer",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fvir-biotechnology-ceo-sees-progress-in-fight-cancer-video",
     "published": "Mon, 26 Jan 2026 17:40:24 CST",
@@ -138,12 +162,6 @@
     "summary": "More than 60 Minnesota business leaders, including Fiddelke, signed a letter\non Sunday calling for an \"immediate deescalation of tensions.\"\n\n"
   },
   {
-    "title": "The Unraveling of the Global and Domestic Order",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-26%2Fthe-unraveling-of-the-global-and-domestic-order",
-    "published": "Mon, 26 Jan 2026 17:23:43 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "Record CSG IPO Sets Europe For Defense-Led Listings Rebound",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcsg-s-record-ipo-sets-europe-up-for-defense-led-listings-rebound",
     "published": "Mon, 26 Jan 2026 17:08:23 CST",
@@ -170,7 +188,7 @@
   {
     "title": "Gold price jumps above $5,000 an ounce for first time amid Trump turmoil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fgold-prices-record-5000-ounce-trump-turmoil",
-    "published": "Mon, 26 Jan 2026 16:05:29 CST",
+    "published": "Mon, 26 Jan 2026 16:05:28 CST",
     "summary": "Investors seek safe haven in precious metal, while Japan’s government spooks\nmoney markets with tax-cuts pledge\n\nThe price of gold has jumped above $5,000 an ounce for the first time as\nDonald Trump’s chaotic policies and proclamations drive more investors to seek\nsafe harbour in the precious metal.\n\nGold reached a record high of $5,100 (£3,723) on Monday morning, before easing\nback to settle up 2.2% at $5,091.\n\nContinue reading...\n\n"
   },
   {
@@ -234,22 +252,16 @@
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
   },
   {
-    "title": "Goldman Set to Sell a $2.5 Billion Bond After Record Deal",
+    "title": "Goldman Prices $2.5b Bond Offering Following Record Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgoldman-returns-to-us-dollar-bond-market-after-record-deal",
     "published": "Mon, 26 Jan 2026 13:25:24 CST",
-    "summary": "Goldman Sachs Group Inc. has launched a $2.5 billion bond less than two weeks\nafter the firm’s $16 billion sale set a record for a Wall Street bank.\n\n"
+    "summary": "Goldman Sachs Group Inc. sold a $2.5 billion US investment-grade bond on\nMonday, less than two weeks after the firm’s $16 billion sale set a record for\na Wall Street bank.\n\n"
   },
   {
     "title": "Junk Debt Sales Soar After Trump Tariff Threat Recedes",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjunk-debt-sales-soar-in-europe-after-trump-tariff-threat-recedes",
     "published": "Mon, 26 Jan 2026 12:54:36 CST",
     "summary": "Junk-debt sales on both sides of the Atlantic surged on Monday as firms took\nadvantage of easing geopolitical tensions after US President Donald Trump\nabandoned his Greenland-linked tariff threats.\n\n"
-  },
-  {
-    "title": "Electrical Equipment Maker Forgent Seeks $1.6 Billion in IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Felectrical-equipment-maker-forgent-seeks-1-62-billion-in-us-ipo",
-    "published": "Mon, 26 Jan 2026 12:37:09 CST",
-    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
   },
   {
     "title": "Aramco Kicks Off Year With $4 Billion Bond Sale as Oil Lags",
@@ -288,16 +300,16 @@
     "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
   },
   {
-    "title": "EM Currency Index Hits Record as Yen Jump Lifts Asian Assets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsouth-korean-won-rises-em-fx-at-record-high-as-dollar-falls",
-    "published": "Mon, 26 Jan 2026 01:54:38 CST",
-    "summary": "A gauge of emerging-market currencies touched a record high as the dollar\ncontinued to slide, hitting a four-month low on speculation of possible joint\nintervention by the US and Japan to support the yen.\n\n"
-  },
-  {
     "title": "China didn’t grab many headlines at Davos, but it's the elephant in the room",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fchina-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html",
     "published": "Mon, 26 Jan 2026 00:05:33 CST",
     "summary": "The world's second-largest economy is sticking to its calls for global\ncooperation, which didn't stand out as much as other high-profile speeches at\nDavos.\n\n"
+  },
+  {
+    "title": "Oil Declines as Kazakh Supply Resumption Outweighs US Freeze",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Flatest-oil-market-news-and-analysis-for-january-26",
+    "published": "Sun, 25 Jan 2026 23:43:42 CST",
+    "summary": "Oil edged down as an improving supply outlook out of OPEC+ member Kazakhstan\novershadowed fears that a winter storm which pounded swaths of the US with\nsnow, ice and freezing temperatures, will crimp production.\n\n"
   },
   {
     "title": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
@@ -306,10 +318,10 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
-    "title": "Natural Gas Surges Above $7 as Arctic Blast Grips Much of US",
+    "title": "Natural Gas Surges Almost 30% as Arctic Blast Grips Much of US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
     "published": "Sun, 25 Jan 2026 23:10:37 CST",
-    "summary": "US natural gas continued to extend eye-popping gains, surging by 40% midday,\nas freezing weather swept across much of the country, boosting heating demand\nand disrupting supplies.\n\n"
+    "summary": "US natural gas continued to extend eye-popping gains, ending the day nearly\n30% higher than Friday’s closing price as freezing weather sweeps across much\nof the country, boosting heating demand and disrupting supplies.\n\n"
   },
   {
     "title": "Silver Soars Most Since 2008 as Gold Tops $5,000 on Global Angst",
@@ -333,7 +345,7 @@
     "title": "Dollar Drops While Gold Tops $5,000, Stocks Rise: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "Big moves away from stocks and bonds were the story of markets at the start of\na busy week, with the dollar falling toward the lowest since 2022 and gold\ntopping $5,000. US equities rose on gains in power suppliers as natural gas\njumped above $6.\n\n"
+    "summary": "Big moves away from stocks and bonds were the story of markets at the start of\na busy week, with the dollar falling toward the lowest since 2022 and gold\ntopping $5,000. US equities rose on gains in power suppliers as natural gas\njumped above $7.\n\n"
   },
   {
     "title": "Canada has no intention of pursuing free trade with China, says Carney",
@@ -702,12 +714,6 @@
     "summary": "The Federal Reserve’s preferred gauge for inflation in October and November\nwas released belatedly after the government shutdown.\n\n"
   },
   {
-    "title": "The Leverage That Europe Has Over the U.S. Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Feurope-trade-trump-bonds.html",
-    "published": "Thu, 22 Jan 2026 19:16:09 CST",
-    "summary": "After the latest bout of trade turmoil with the United States, European\nleaders are looking for ways to project strength to the Trump administration,\nwhich considers them weak.\n\n"
-  },
-  {
     "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive 'very impressive'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Frieder-odds-rising-for-fed-chair-after-trump-calls-blackrock-executive-very-impressive.html",
     "published": "Thu, 22 Jan 2026 18:39:36 CST",
@@ -958,12 +964,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
     "published": "Fri, 16 Jan 2026 19:33:45 CST",
     "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that\nhas been roundly rejected by industry executives and their lobbyists this\nweek.\n\n"
-  },
-  {
-    "title": "Trump's proposed ban on buying single-family homes introduces uncertainty for family offices",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Ftrump-investors-homes-family-offices.html",
-    "published": "Fri, 16 Jan 2026 12:30:01 CST",
-    "summary": "Wall Street landlords are the primary target of Trump's proposed ban, but\ninvestment firms of the ultra rich could get caught in the crosshairs.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
