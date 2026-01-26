@@ -1,57 +1,57 @@
-# NoBS News Digest - January 25, 2026
+# NoBS News Digest - January 26, 2026
 
-Generated from **213** unique articles (deduplicated from 213 total) across **1** news sources
+Generated from **214** unique articles (deduplicated from 214 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Global financial and political tensions dominate headlines as Japan faces economic instability ahead of a snap election, with Prime Minister Sanae Takaichi warning of intervention amid a weakening yen and surging bond yields. In the U.S., Democrats threaten a government shutdown over funding for the Department of Homeland Security, while President Trump escalates trade threats, vowing a 100% tariff on Canadian imports if Ottawa strikes a deal with China. Meanwhile, China gains ground as Trump renounces U.S. leadership in the global economy, further straining relations. The UK also tightens trade policies, reducing tariff-free steel imports to counter a global glut driven by Chinese production. Protests erupt in Minnesota over ICE operations, reflecting growing domestic unrest, while Venezuela's economic crisis pushes locals toward cryptocurrency as a hedge against instability.
+Geopolitical tensions dominate global headlines as the Arctic emerges as a new battleground, with the U.S. eyeing Greenland for strategic control while Greenlanders resist foreign influence. Meanwhile, China's internal military purge, marked by the ousting of top general Zhang Youxia, signals a major shift in Beijing's leadership dynamics, raising questions about President Xi Jinping's consolidation of power. On the trade front, President Trump escalates economic threats, vowing a 100% tariff on Canadian imports if Ottawa strikes a deal with China, while the UK moves to tighten steel import restrictions amid rising protectionism. Diplomatic strains between China and Japan deepen as Chinese tourism to Japan plummets following Tokyo's stance on Taiwan, underscoring the fragility of regional relations. Domestically, mass protests in Minnesota against ICE operations highlight growing civil unrest over immigration policies, while Venezuela's economic instability drives locals toward cryptocurrency as a hedge against government volatility.
 
 **Top Articles:**
-- [Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-25%2Fjapan-bond-market-crash-raises-alarm-for-global-interest-rates)
-- [Democrats Threaten Shutdown After Latest Minneapolis Killing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fschumer-says-democrats-will-block-dhs-funding-after-shooting)
-- [Takaichi Warns Japan Is Ready to Act on Speculative Moves](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Fjapan-s-takaichi-warns-ready-to-act-on-speculative-market-moves)
-- [Bank of France Chief Laments Minimal Effort to Cut Deficit](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-24%2Ffrench-budget-central-bank-chief-laments-minimal-effort-to-cut-deficit)
+- [In Greenland with Pippa Malmgren: Why the Arctic Is the New Geopolitical Battleground](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Faudio%2F2026-01-26%2Fpodcast-pippa-malmgren-on-greenland-ukraine-europe-space-race)
+- [Ex-CIA Official on What Xi Jinping's PLA Purge Reveals](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fex-cia-official-on-what-xi-jinping-s-pla-purge-reveals-video)
 - [Trump threatens Canada with 100% tariff over possible deal with China](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F24%2Ftrump-canada-tariff-threat-venezuela-oil)
+- [UK expected to reduce amount of steel it allows in tariff-free](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Fuk-expected-reduce-steel-allows-tariff-free-glut-china)
+- [Minnesotans strike in protest against ICE surge: ‘No work, no school, no shopping’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests)
 
-**Sources**: archive.ph (12 articles)
+**Sources**: archive.ph (10 articles)
 
 ---
 
 ## 💰 Finance, Economics & Business
 
-Global markets are experiencing significant volatility as geopolitical tensions and economic policy shifts reshape investor sentiment. Gold surges past $5,000 an ounce, driven by safe-haven demand amid U.S. President Donald Trump’s disruptive trade policies and currency interventions. The dollar weakens as Japan signals potential yen-buying intervention, while the Federal Reserve holds interest rates steady despite political pressure from Trump, who continues to push for lower rates. Meanwhile, corporate activity remains robust, with Capital One’s $5.15 billion acquisition of Brex and SpaceX’s preparations for a blockbuster IPO. However, risks loom in private credit markets and China’s stock market, where the withdrawal of state-backed support raises concerns. Small businesses show resilience, but trade uncertainties and inflation pressures persist, keeping policymakers and investors on edge.
+Global markets are experiencing significant shifts as geopolitical tensions and central bank policies drive volatility. Gold surged past $5,000 an ounce for the first time, fueled by safe-haven demand amid US President Donald Trump’s disruptive trade policies and currency interventions. The dollar weakened as traders speculated on potential US-Japan coordination to stabilize the yen, while emerging-market currencies, including the South Korean won, hit record highs. Meanwhile, China is opening its nickel and lithium futures markets to foreign investors, signaling its ambition to expand influence in global commodities. Corporate activity remains robust, with Capital One acquiring fintech startup Brex for $5.15 billion and SpaceX preparing for a blockbuster IPO. However, concerns over private credit risks and Fed independence loom as Trump’s legal battles with JPMorgan and pressure on the Federal Reserve escalate.
 
 **Top Articles:**
-- [Gold Tops $5,000 as Global Upheaval Fuels Precious Metals Rally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally)
-- [CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html)
-- [Morgan Stanley Prepares to Enter Japan Spot Power Trading Market](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmorgan-stanley-prepares-to-enter-japan-spot-power-trading-market)
-- [Dollar Weakness Spurs Yen Gains, Gold Hits $5,000: Markets Wrap](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap)
-- [China National Team’s $68 Billion Exit Alters Stock Strategies](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fchina-national-team-s-68-billion-exit-alters-stock-strategies)
+- [Blackstone's Huang On Private Market Opportunities](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fblackstone-s-huang-on-private-market-opportunities-video)
+- [WGC's Tait On Gold Price Momentum](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fwgc-s-tait-on-gold-price-momentum-video)
+- [Korea’s Small-Caps Have Their Best Day Versus Kospi Since 2000](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkorea-s-small-caps-have-their-best-day-versus-kospi-since-2000)
+- [China to Open Up Nickel and Lithium Futures to Foreign Investors](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fchina-to-open-up-nickel-and-lithium-futures-to-foreign-investors)
+- [Federated Hermes to Open Hong Kong Office](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ffederated-hermes-to-open-hong-kong-office-video)
 
-**Sources**: archive.ph (77 articles)
+**Sources**: archive.ph (81 articles)
 
 ---
 
 ## 💻 Technology
 
-This week's major developments span tech, AI, and global economic shifts. In tech, Nvidia CEO Jensen Huang plans a visit to China amid stalled AI chip sales, while TikTok restructures its U.S. operations under new American ownership, raising questions about app changes. AI's labor market impact dominates discussions, with IMF chief Kristalina Georgieva warning of a 'tsunami' hitting jobs, particularly for young workers, as automation threatens 60% of roles in advanced economies. Meanwhile, regulatory tensions flare as the FCC cracks down on late-night TV political appearances, and a lawsuit challenges AI recruitment tools for bias. Beyond tech, a massive winter storm disrupts U.S. travel and power grids, while geopolitical uncertainties drive capital toward emerging Asian markets. Spotify's aggressive expansion into new business areas and Netflix's surging ad revenue highlight shifting media strategies.
+This week, tech and AI developments dominate headlines, with Nvidia CEO Jensen Huang planning a visit to China amid stalled AI chip sales, signaling the company's push to navigate geopolitical tensions. Meanwhile, TikTok updates its U.S. terms following a corporate restructuring that separates its American operations from its Chinese parent company, raising questions about future app changes. In AI labor concerns, IMF Chief Kristalina Georgieva warns of a 'tsunami' hitting the job market, with 60% of advanced economy roles potentially affected, particularly entry-level positions. Malaysia's stock market and currency surge to seven-year highs, fueled by its growing role in the AI supply chain, while China's AI sector shifts focus from infrastructure to applications, attracting significant investor interest. Regulatory moves include the FCC cracking down on late-night TV political appearances, and a U.S. rule accelerating deep-sea mining applications, drawing praise from industry players like The Metals Company.
 
 **Top Articles:**
+- [Copper Extends Rally as Dollar Weakness Carries Metals Higher](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcopper-extends-rally-as-dollar-weakness-carries-metals-higher)
+- [India’s LNG Buyers Stall Deals as They Await Record Supply Wave](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Findia-s-lng-buyers-stall-deals-as-they-await-record-supply-wave)
+- [China’s Eastroc Beverage Seeks Up to $1.3 Billion From Hong Kong Listing](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fchina-s-eastroc-beverage-seeks-up-to-1-3-billion-from-hong-kong-listing)
+- [Malaysian Ringgit, Stocks Hit Highest Since 2018 on AI, Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmyr-usd-malaysia-ringgit-poised-for-highest-level-since-2018-on-ai-optimism)
 - [Most Fox News Reporting on Minneapolis Shooting Supports Official Version](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fmedia%2Ffox-news-minneapolis-shooting.html)
-- [Power Outages Cascade as Big Winter Storm Reaches US East Coast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fpower-outages-cascade-as-winter-storm-reaches-east-coast-video)
-- [Spotify’s New Playbook for Staying on Top](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fspotify-s-new-playbook-for-staying-on-top)
-- [Why Israeli Weapons Are in Demand Despite Global Criticism](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fdouble-standard-israel-s-defense-exports-explained-video)
-- [Ecuador’s Cocoa Boom Shows How Climate Change Is Redrawing Agriculture](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-climate-change-affects-the-world-s-chocolates-video)
 
-**Sources**: archive.ph (79 articles)
+**Sources**: archive.ph (76 articles)
 
 ---
 
 ## ⚽ Sports
 
-The sports world sees major developments as the 2026 Winter Olympics in Italy approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games. Meanwhile, LIV Golf continues to strengthen its ties with the Trump Organization, announcing another tournament at a Trump-owned resort in New Jersey—marking at least the sixth event hosted at a Trump property in four years. The move underscores the deepening partnership between the Saudi-backed league and the former president’s business empire, raising further questions about the intersection of sports, politics, and commerce. Elsewhere, the lead-up to the Olympics remains turbulent, with media organizations reassessing their commitments amid logistical and editorial challenges.
+The sports world sees major developments as the 2026 Winter Olympics in Italy approach, with the Washington Post abruptly scrapping its coverage plans just weeks before the Games. Meanwhile, LIV Golf continues to strengthen its ties with the Trump Organization, announcing another tournament at a Trump-owned resort in New Jersey—marking at least the sixth event hosted at a Trump property in four years. The move underscores the deepening partnership between the Saudi-backed league and the former president’s business empire, raising further questions about the intersection of sports, politics, and commerce. Elsewhere, the sudden shift in Olympic media coverage highlights broader uncertainties surrounding the Games, though organizers have yet to comment on the Post’s decision.
 
 **Top Articles:**
 - [Washington Post Tears Up Plans to Cover Winter Olympics](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html)
@@ -63,17 +63,17 @@ The sports world sees major developments as the 2026 Winter Olympics in Italy ap
 
 ## 📰 Other News
 
-A powerful winter storm continues to disrupt the U.S., driving natural gas prices above $6 for the first time since 2022 as freezing temperatures spike heating demand and strain power grids. The storm has grounded over 13,000 flights, leaving travelers stranded and prompting warnings of potential widespread outages. Meanwhile, energy stocks surge as investors capitalize on the cold snap, while analysts debate the long-term impact of volatile weather on commodity markets. Beyond the storm, political and economic tensions simmer: German economists urge repatriating gold reserves from U.S. vaults amid distrust of Trump’s unpredictability, while the president faces criticism from CEOs like Jamie Dimon over immigration policies and legal battles with media outlets. In entertainment, Disney dominates the 2025 box office, and Netflix amends its all-cash offer for Warner Bros. Discovery assets, signaling a shakeup in the streaming wars. Cultural milestones loom as America prepares for its 250th anniversary celebrations, blending patriotism with commercial spectacle.
+A major winter storm continues to disrupt the U.S., driving natural gas prices above $6 for the first time since 2022 as freezing temperatures strain power grids and prompt widespread flight cancellations. The storm’s economic ripple effects are evident, with energy stocks surging and grid operators urging power plants to secure fuel supplies. Meanwhile, geopolitical tensions rise as Europe’s growing reliance on U.S. natural gas amplifies Trump’s leverage, while Germany faces calls to repatriate its gold reserves from U.S. vaults amid shifting transatlantic relations. In corporate news, Netflix amends its all-cash offer for Warner Bros. Discovery assets, signaling a potential shakeup in the streaming wars, while Disney maintains its box office dominance. On the policy front, Trump’s aggressive tactics to lower housing costs and his legal battles against media outlets and JPMorgan highlight his confrontational approach to governance. Cultural milestones include record-breaking Oscar nominations for films like 'Sinners,' while prediction markets see a boom driven by younger traders. The Supreme Court’s hearing on Trump’s firing of Federal Reserve Governor Lisa Cook underscores ongoing institutional clashes.
 
 **Top Articles:**
-- [US Natural Gas Hits $6 for First Time Since 2022 on Arctic Blast](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022)
-- [Energy stocks to watch as major winter storm rips through the U.S.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fenergy-stocks-to-watch-as-major-winter-storm-rips-through-the-us.html)
-- [Here’s What to Know if You Plan to Travel During the Winter Storm](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Fwinter-storm-travel-airlines.html)
-- [An Expert’s Guide to Building a Perfect Investment Portfolio](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fan-expert-s-guide-to-building-a-perfect-investment-portfolio)
-- [How to Make Money From the Booming Demand for Energy](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-25%2Fhow-to-make-money-from-the-booming-demand-for-energy)
+- [As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feurope-natural-gas-united-states-russia.html)
+- [Why Markets Aren’t Caught in the US Blizzard](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-26%2Fwhy-markets-aren-t-caught-in-the-us-blizzard)
+- [Goldman’s Meena Flynn on Intergenerational Wealth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fgoldman-s-meena-flynn-on-intergenerational-wealth-video)
+- [Largest US Grid Pushes Power Plants to Secure Gas Through Week](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Flargest-us-grid-pushes-power-plants-to-secure-gas-through-week)
+- [China didn’t grab many headlines at Davos, but it's the elephant in the room](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fchina-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html)
 
-**Sources**: archive.ph (43 articles)
+**Sources**: archive.ph (45 articles)
 
 ---
 
-*Digest generated on January 25, 2026 at 11:43 PM *
+*Digest generated on January 26, 2026 at 05:57 AM *
