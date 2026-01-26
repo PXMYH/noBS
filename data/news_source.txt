@@ -1,5 +1,47 @@
 [
   {
+    "title": "Pound Rallies to Highest Since September Against Weak Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-26%2Fftse-100-live-pound-dollar-bonds-gold-prices-starmer-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Mon, 26 Jan 2026 06:45:13 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Kenya Plans $969 Million of Short-Term Borrowing for Roads",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkenya-plans-969-million-of-short-term-borrowing-for-roads",
+    "published": "Mon, 26 Jan 2026 06:22:56 CST",
+    "summary": "Kenya plans to borrow 125 billion shillings ($969 million) in short-term\nsyndicated loans this year to help build roads, and will refinance the debt\nlater with longer-term bonds pegged to a fuel levy.\n\n"
+  },
+  {
+    "title": "Sixth Street CEO: Priority is Building Out GCC Region",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fsixth-street-ceo-priority-is-building-out-gcc-region-video",
+    "published": "Mon, 26 Jan 2026 06:07:52 CST",
+    "summary": "Global investment company Sixth Street is opening an office in Abu Dhabi later\nthis year, as the firm sees improving capital markets and a pro-business\nenvironment in the region. Alan Waxman, Co-Founder & CEO of Sixth Street spoke\nto Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche on\nthe opportunities they see in the region. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Ryanair Lifts Passenger, Fare Outlook on Early Boeing Jets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fryanair-lifts-passenger-fare-outlook-on-early-boeing-deliveries",
+    "published": "Mon, 26 Jan 2026 06:01:08 CST",
+    "summary": "Ryanair Holdings Plc raised its full-year guidance for passenger growth and\nfares as the Irish budget carrier benefits from improved Boeing Co. aircraft\ndeliveries and stronger travel demand.\n\n"
+  },
+  {
+    "title": "CEO of Digital Healthcare Startup Docplanner Sees AI Fueling Growth Before IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fdocplanner-ceo-sees-medical-data-ai-fueling-growth-before-ipo",
+    "published": "Mon, 26 Jan 2026 06:00:00 CST",
+    "summary": "A startup that runs one of the world’s largest health-care digital platforms\nis seeking to leverage artificial intelligence to capitalize on its trove of\nmedical data, potentially ushering in a new era for diagnostics and\npositioning the firm for a public listing.\n\n"
+  },
+  {
+    "title": "Blackstone Eyes More Hiring in Asia to Tap Private Market Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fblackstone-eyes-more-hiring-in-asia-to-tap-private-market-demand",
+    "published": "Mon, 26 Jan 2026 05:43:52 CST",
+    "summary": "Blackstone Inc. is planning to hire more people across Asia to tap growing\nopportunities in private markets, said Ed Huang, the firm’s head of Asia\nPacific private wealth.\n\n"
+  },
+  {
+    "title": "Xi Purges Top General on Corruption Charges | The China Show 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-china-show-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 05:32:49 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
     "title": "Blackstone's Huang On Private Market Opportunities",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fblackstone-s-huang-on-private-market-opportunities-video",
     "published": "Mon, 26 Jan 2026 05:06:27 CST",
@@ -24,10 +66,10 @@
     "summary": "World Gold Council Chief Executive Officer David Tait discusses gold price\nmomentum, plus Hong Kong’s role, potential and opportunity in the future as a\ngold trading center. He speaks with Yvonne Man and David Ingles from the\nsidelines of the Asian Financial Forum 2026. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Korea’s Small-Caps Have Their Best Day Versus Kospi Since 2000",
+    "title": "Korea’s Small-Cap Index Jumps to 25-Year High as Fervor Spreads",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkorea-s-small-caps-have-their-best-day-versus-kospi-since-2000",
     "published": "Mon, 26 Jan 2026 04:45:18 CST",
-    "summary": "South Korea’s small-cap stock index soared to the highest in more than four\nyears and outperformed the benchmark Kospi Index by the most since 2000, in a\nsign that enthusiasm toward the country’s shares is broadening.\n\n"
+    "summary": "South Korea’s small-cap stock index soared to the highest since September 2000\nin a sign that investors are betting the nation’s world-beating rally to\nspread into other corners of the $3.1 trillion market.\n\n"
   },
   {
     "title": "Ex-CIA Official on What Xi Jinping's PLA Purge Reveals",
@@ -102,30 +144,6 @@
     "summary": "The South Korean won outperformed Asian peers while emerging-market currencies\ntouched a record high as the dollar fell on concerns of possible joint\nintervention by the US and Japan.\n\n"
   },
   {
-    "title": "Tepco to Sell Real Estate, Seek Partners in New Business Plan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftepco-to-sell-real-estate-seek-partners-in-new-business-plan",
-    "published": "Mon, 26 Jan 2026 01:18:34 CST",
-    "summary": "Tokyo Electric Power Co. is aiming to sell around 200 billion yen ($1.3\nbillion) of assets within three years, as it looks to fund its Fukushima\nclean-up efforts and meet rising power demand.\n\n"
-  },
-  {
-    "title": "HK's Hui: Launching Gold Futures Contract",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fhk-s-hui-launching-gold-futures-contract-video",
-    "published": "Mon, 26 Jan 2026 01:12:50 CST",
-    "summary": "Christopher Hui, Hong Kong Financial Services and the Treasury Secretary, says\nthe city is launching a gold futures contract as part of an effort to advance\nits gold hub ambitions. He speaks with David Ingles and Yvonne Man from the\nsidelines of the Asian Financial Forum in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "India’s LNG Buyers Stall Deals as They Await Record Supply Wave",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Findia-s-lng-buyers-stall-deals-as-they-await-record-supply-wave",
-    "published": "Mon, 26 Jan 2026 01:00:00 CST",
-    "summary": "India’s liquefied natural gas importers are holding up some deals spanning\ndecades as they push to lock in cheaper prices, hoping that a surge in supply\nwill tilt negotiations in their favor.\n\n"
-  },
-  {
-    "title": "Largest US Grid Pushes Power Plants to Secure Gas Through Week",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Flargest-us-grid-pushes-power-plants-to-secure-gas-through-week",
-    "published": "Mon, 26 Jan 2026 00:48:50 CST",
-    "summary": "The largest US grid operator is pushing power plants to secure natural gas\nsupplies through the week amid expectations that frigid temperatures will\ndrive electricity usage to a winter record.\n\n"
-  },
-  {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Mon, 26 Jan 2026 00:37:00 CST",
@@ -138,12 +156,6 @@
     "summary": "The prospect of the US actually joining Japan in foreign-exchange intervention\nis just the latest in a series of blows to a currency that’s already under\npressure on multiple fronts.\n\n"
   },
   {
-    "title": "China’s Eastroc Beverage Seeks Up to $1.3 Billion From Hong Kong Listing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fchina-s-eastroc-beverage-seeks-up-to-1-3-billion-from-hong-kong-listing",
-    "published": "Mon, 26 Jan 2026 00:12:16 CST",
-    "summary": "Chinese energy-drink maker Eastroc Beverage Group Co. has started taking\ninvestor orders for its second listing in Hong Kong that may fetch as much as\nHK$10.1 billion ($1.3 billion), fueling what has been among the busiest starts\nto the year for the city’s share sales.\n\n"
-  },
-  {
     "title": "Malaysian Ringgit, Stocks Hit Highest Since 2018 on AI, Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmyr-usd-malaysia-ringgit-poised-for-highest-level-since-2018-on-ai-optimism",
     "published": "Mon, 26 Jan 2026 00:10:14 CST",
@@ -154,12 +166,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fchina-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html",
     "published": "Mon, 26 Jan 2026 00:05:33 CST",
     "summary": "The world's second-largest economy is sticking to its calls for global\ncooperation, which didn't stand out as much as other high-profile speeches at\nDavos.\n\n"
-  },
-  {
-    "title": "China’s Low Birthrate Isn’t Doomsday for Formula Milk Suppliers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fchina-s-low-birthrate-isn-t-doomsday-for-formula-milk-suppliers",
-    "published": "Sun, 25 Jan 2026 23:58:36 CST",
-    "summary": "China’s shockingly low birthrate isn’t quite the calamity for overseas milk\nsuppliers that some recent stock moves might suggest.\n\n"
   },
   {
     "title": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
@@ -192,10 +198,10 @@
     "summary": "Airlines have canceled more than 13,000 flights, as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
-    "title": "Dollar Falls on Yen Intervention Risk, Gold Rises: Markets Wrap",
+    "title": "Dollar Drops on Yen Intervention Risk, Gold Rises: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "The dollar dropped against most of its major peers as potential US involvement\nin foreign-exchange intervention in Japan hurt sentiment toward the world’s\nreserve currency. Gold rose above $5,000 for the first time on haven demand\nand US stock futures fell.\n\n"
+    "summary": "The dollar fell against most of its major peers as potential US involvement in\nforeign-exchange intervention in Japan hurt sentiment toward the world’s\nreserve currency. Gold rose above $5,000 for the first time on haven demand.\n\n"
   },
   {
     "title": "China National Team’s $68 Billion Exit Alters Stock Playbook",
@@ -208,12 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Fus-small-business-2026-outlook",
     "published": "Sun, 25 Jan 2026 15:00:11 CST",
     "summary": "Multiple small-business indexes show an uptick in optimism as well as an\neasing of cost pressures and uncertainty\n\nRegardless of all the challenges they face, small businesses have been doing\npretty well in this country across the board. Don’t believe me? Take a look at\nsome of the latest numbers.\n\nFor more than 50 years, the National Federation of Independent Businesses\n(NFIB) has published a monthly report of small-business economic trends, based\non a random sample of the organization’s approximately 300,000 member firms.\nThis survey is one of the longest and most consistent of any I follow, using\nthe same questionnaire since 1973. So where do things stand?\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Power Trading Firm Enechain Raises $32 Million for Expansion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fpower-trading-startup-enechain-raises-32-million-for-expansion",
-    "published": "Sun, 25 Jan 2026 15:00:00 CST",
-    "summary": "Enechain, a startup in Japan’s growing power market, raised 5.05 billion yen\n($31.9 million) to expand its business and improve the company’s online\ntrading platform.\n\n"
   },
   {
     "title": "Auto executives are hoping for the best and planning for the worst in 2026",
