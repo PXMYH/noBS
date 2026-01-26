@@ -1,9 +1,51 @@
 [
   {
-    "title": "Transportation Sec. Duffy says air travel will return to normal by Wednesday",
+    "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
-    "published": "Mon, 26 Jan 2026 14:48:06 CST",
+    "published": "Mon, 26 Jan 2026 15:36:14 CST",
     "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
+  },
+  {
+    "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fbrooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+    "published": "Mon, 26 Jan 2026 15:32:52 CST",
+    "summary": "A.I.-generated content of Victoria Beckham has spread as wedding drama has\nengulfed the celebrity clan and the public has clamored for receipts (even\nfabricated ones).\n\n"
+  },
+  {
+    "title": "Trinidad and Tobago Finance Chief Trumpets $1 Billion Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftrinidad-and-tobago-finance-chief-trumpets-1-billion-bond-sale",
+    "published": "Mon, 26 Jan 2026 15:32:22 CST",
+    "summary": "Trinidad and Tobago completed a $1 billion bond sale in the US market, with\nthe Caribbean nation’s finance chief signaling he’ll use revenue from energy\nprojects and tax reform to repay the debt.\n\n"
+  },
+  {
+    "title": "US Treasury Says It’s Canceled Booz Allen Hamilton Contracts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-treasury-says-it-s-canceled-all-booz-allen-hamilton-contracts",
+    "published": "Mon, 26 Jan 2026 15:21:06 CST",
+    "summary": "The US Treasury Department said it canceled $21 million of contracts with Booz\nAllen Hamilton after the consulting firm failed to protect taxpayer data to\nwhich it had access, including President Donald Trump’s tax returns.\n\n"
+  },
+  {
+    "title": "Scotland Kicks Off Search for Banks to Steer Debut Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fscotland-kicks-off-search-for-banks-to-steer-debut-bond-sale",
+    "published": "Mon, 26 Jan 2026 15:19:57 CST",
+    "summary": "The Scottish government started a search for banks and lawyers to run its\ndebut bond sales, which the ruling party plans to pursue if it remains in\npower following elections in May.\n\n"
+  },
+  {
+    "title": "Gold Soars Beyond $5,000 as Global Tensions Grow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fgold-prices.html",
+    "published": "Mon, 26 Jan 2026 15:19:46 CST",
+    "summary": "The price of gold surged as investors sought shelter from geopolitical\nuncertainty.\n\n"
+  },
+  {
+    "title": "Gold soars past $5,100 an ounce, silver hits new record on tariff and US shutdown fears – as it happened",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F26%2Fgold-silver-record-tariff-us-shutdown-ryanair-fares-fears-business-live--",
+    "published": "Mon, 26 Jan 2026 15:09:16 CST",
+    "summary": "Both precious metals hit all-time highs as investors pile into safe-haven\nassets amid Donald Trump’s threat of 100% tariffs on Canada and shutdown fears\n\nBank of Scotland has been fined £160,000 by a UK Treasury body for processing\npayments that breached Russia financial sanctions rules.\n\nThe bank, which is part of Lloyds Banking Group, processed 24 payments to or\nfrom a personal current account held by a British citizen on the government’s\nlist of sanctioned individuals, the Office of Financial Sanctions\nImplementation (OFSI) found.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "NYC Workers Face Messy Commute as Crews Work to Clear Snow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fnyc-workers-face-messy-commute-crews-work-to-clear-snow-video",
+    "published": "Mon, 26 Jan 2026 14:57:00 CST",
+    "summary": "The heaviest winter storm in years dropped mounds of snow on New York City,\nmaking Monday’s morning commute messy for those willing to brave it. Myles\nMiller reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
@@ -18,22 +60,28 @@
     "summary": "US stocks opened higher Monday morning as traders weighed a combination of\nfresh trade and policy risks against a strong start to fourth-quarter\nearnings.\n\n"
   },
   {
+    "title": "Two African Debtors Exit Distressed Club, Leaving Only Senegal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftwo-african-debtors-exit-distressed-club-leaving-only-senegal",
+    "published": "Mon, 26 Jan 2026 14:42:47 CST",
+    "summary": "Senegal has been left as the only African nation with a sovereign risk premium\nin distressed territory after yields on the debt of Mozambique and Gabon\nnarrowed relative to US Treasuries.\n\n"
+  },
+  {
+    "title": "Senegal, Morocco Sign Deals to Boost Ties After Football Fallout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsenegal-morocco-sign-deals-to-boost-ties-after-football-fallout",
+    "published": "Mon, 26 Jan 2026 14:38:02 CST",
+    "summary": "Senegal is striving to bolster ties with key trading partner Morocco, after a\ncontentious match at Africa’s top football event cast a shadow over their\nhistorically close relationship.\n\n"
+  },
+  {
     "title": "Winter Storm Could Cause $115 Billion in Damages, AccuWeather Estimates",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fstorm-could-cause-115-billion-in-damages-accuweather-video",
     "published": "Mon, 26 Jan 2026 14:37:30 CST",
     "summary": "AccuWeather estimates this weekend's winter storm could cause up to $115\nbillion in economic losses and damages. More than 800,000 homes and businesses\nlost power. AccuWeather's Bill Wadell reports from Greenville, South Carolina.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Gold Soars to Record High as Global Tensions Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fgold-prices.html",
-    "published": "Mon, 26 Jan 2026 14:36:13 CST",
-    "summary": "The price of gold surged above $5,000 an ounce as investors sought shelter\nfrom geopolitical uncertainty.\n\n"
-  },
-  {
-    "title": "Gold soars past $5,100 an ounce, silver hits new record on tariff and US shutdown fears – business live",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F26%2Fgold-silver-record-tariff-us-shutdown-ryanair-fares-fears-business-live--",
-    "published": "Mon, 26 Jan 2026 14:29:28 CST",
-    "summary": "Both precious metals hit all-time highs as investors pile into safe-haven\nassets amid Donald Trump’s threat of 100% tariffs on Canada and shutdown fears\n\nBank of Scotland has been fined £160,000 by a UK Treasury body for processing\npayments that breached Russia financial sanctions rules.\n\nThe bank, which is part of Lloyds Banking Group, processed 24 payments to or\nfrom a personal current account held by a British citizen on the government’s\nlist of sanctioned individuals, the Office of Financial Sanctions\nImplementation (OFSI) found.\n\nContinue reading...\n\n"
+    "title": "Ecuador Tapping Debt Markets for First Time Since Restructuring",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fecuador-tapping-debt-markets-for-first-time-since-restructuring",
+    "published": "Mon, 26 Jan 2026 14:26:58 CST",
+    "summary": "Ecuador is looking to return to global debt markets on Monday with its first\nissuance since completing a restructuring in 2020.\n\n"
   },
   {
     "title": "Morgan Stanley, BofA See More in Best Carry Rally Since 2009",
@@ -102,13 +150,7 @@
     "summary": "Kenya, the world’s largest exporter of black tea, is ramping up production of\northodox teas, which fetch higher prices and are seeing rising demand.\n\n"
   },
   {
-    "title": "US Snow Storm Disrupts Flights, Travel & Power | The Pulse 1/26",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-pulse-1-26-video",
-    "published": "Mon, 26 Jan 2026 13:11:30 CST",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Ursula Marchioni, EMEA\nHead of Investment and Portfolio Solutions, BlackRock; Mujtaba Rahman, Europe\nManaging Director, Eurasia Group; Huw van Steenis, Partner and Vice Chair,\nOliver Wyman. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman’s Top Precious Metals Trader Binet-Laisne Leaves Bank",
+    "title": "Goldman’s Top Precious Metals Trader Binet-Laisne Exits Bank",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgoldman-s-top-precious-metals-trader-binet-laisne-leaves-bank",
     "published": "Mon, 26 Jan 2026 13:08:08 CST",
     "summary": "Goldman Sachs Group Inc.’s head of precious metals trading Benjamin Binet-\nLaisne is leaving the bank, according to people familiar with the matter.\n\n"
@@ -120,58 +162,16 @@
     "summary": "Wizz Air Holdings Plc’s UK subsidiary applied for permission to fly to the US,\nmonths after the budget carrier’s plans to expand in the Middle East fell\nthrough.\n\n"
   },
   {
-    "title": "Oil Tanker Rates Are Surging on Geopolitical Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-26%2Foil-tanker-rates-are-surging-on-geopolitical-risks",
-    "published": "Mon, 26 Jan 2026 13:00:57 CST",
-    "summary": "From Venezuela to Iran, an increasingly turbulent world is pushing up the\ncosts of hauling crude.\n\n"
-  },
-  {
-    "title": "Mizuho Adds HSBC’s Connor, JPMorgan’s de Maria to Hiring Wave",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmizuho-adds-hsbc-s-connor-jpmorgan-s-de-maria-to-hiring-wave",
-    "published": "Mon, 26 Jan 2026 12:57:10 CST",
-    "summary": "Mizuho Financial Group Inc. has brought in Jon Connor and Thibaud de Maria as\npart of a hiring wave of senior investment bankers, said people familiar with\nthe matter who asked not to be identified because it wasn’t public yet.\n\n"
-  },
-  {
-    "title": "Junk Debt Sales Soar in Europe After Trump Tariff Threat Recedes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjunk-debt-sales-soar-in-europe-after-trump-tariff-threat-recedes",
-    "published": "Mon, 26 Jan 2026 12:54:36 CST",
-    "summary": "Europe’s junk-debt sales for bonds and loans surged as firms took advantage of\neasing geopolitical tensions after US President Donald Trump abandoned his\nGreenland-linked tariff threats.\n\n"
-  },
-  {
-    "title": "UniCredit Plans SRT Transactions Linked to €5 Billion of Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Funicredit-plans-srt-transactions-linked-to-5-billion-of-loans",
-    "published": "Mon, 26 Jan 2026 12:47:28 CST",
-    "summary": "UniCredit SpA is planning to issue significant risk transfers tied to around\n€5 billion ($6 billion) of loans, according to people familiar with the\nmatter.\n\n"
-  },
-  {
-    "title": "Kazakhstan’s Giant Tengiz Oil Field Prepares to Restore Output",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fkazakhstan-s-giant-tengiz-oil-field-prepares-to-restore-output",
-    "published": "Mon, 26 Jan 2026 12:46:00 CST",
-    "summary": "Kazakhstan’s largest oil producer is preparing to resume output at the giant\nTengiz field, a further step to normalize the nation’s supply to global\nmarkets after a series of disruptions in recent months.\n\n"
-  },
-  {
-    "title": "BlackRock Says Europe Draws a ‘Decade in a Year’ of Stock Flows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fblackrock-says-europe-draws-a-decade-in-a-year-of-stock-flows",
-    "published": "Mon, 26 Jan 2026 12:45:23 CST",
-    "summary": "Demand for exchange-traded products focused on European equities was so strong\nin 2025 that they attracted a “decade in a year” of inflows, according to\nBlackRock Inc.’s Ursula Marchioni.\n\n"
-  },
-  {
     "title": "USA Rare Earth Lines Up $1.6 Billion in US Government Funds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fusa-rare-earth-lines-up-1-6-billion-in-us-government-funding",
     "published": "Mon, 26 Jan 2026 12:43:21 CST",
     "summary": "USA Rare Earth Inc. signed a non-binding agreement with the Commerce\nDepartment to receive $1.6 billion in funding to accelerate US production of\nkey rare-earth elements.\n\n"
   },
   {
-    "title": "Electrical Equipment Maker Forgent Seeks $1.62 Billion in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Felectrical-equipment-maker-forgent-seeks-1-62-billion-in-us-ipo",
-    "published": "Mon, 26 Jan 2026 12:37:09 CST",
-    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
-  },
-  {
-    "title": "Yen-tervention Watch, Dollar Declines, and Cold Weather Drives NatGas | The Opening Trade 1/26/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-opening-trade-1-26-2026-video",
-    "published": "Mon, 26 Jan 2026 12:28:10 CST",
-    "summary": "The dollar extends its selloff on Monday as speculation swirled that the US\ncould coordinate intervention with Japanese authorities to support the yen.\nTraders are on heightened alert for authorities intervening in Japan as Prime\nMinister Sanae Takaichi says the government is ready to take action. Continued\nglobal uncertainty drives gold beyond $5,000-an-ounce. Natural Gas prices soar\non both sides of the Atlantic with freezing weather sweeping across much of\nthe US, boosting heating demand and disrupting supplies. The Opening Trade has\neverything you need to know as markets open across Europe. With analysis you\nwon't find anywhere else, we break down the biggest stories of the day and\nspeak to top guests who have skin in the game. Hosted by Anna Edwards, Guy\nJohnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
+    "title": "Norway Indicts PetroNor Unit Over Alleged Congo Oil Bribes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fnorway-indicts-petronor-unit-over-alleged-congo-oil-bribes",
+    "published": "Mon, 26 Jan 2026 11:15:13 CST",
+    "summary": "Norway has indicted two people and a wholly-owned subsidiary of PetroNor E&P\nASA for allegedly paying bribes in the Republic of Congo.\n\n"
   },
   {
     "title": "China’s Zijin to Buy Allied Gold for C$5.5 Billion in Growth Push",
@@ -183,7 +183,7 @@
     "title": "Aramco Starts First Bond Sale of The Year as Oil Prices Lag",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Faramco-starts-first-bond-sale-of-this-year-as-oil-prices-lag",
     "published": "Mon, 26 Jan 2026 10:42:26 CST",
-    "summary": "Aramco is launching its first bond sale of the year, just as oil prices remain\nwell below levels needed to balance Saudi Arabia’s budget.\n\n"
+    "summary": "Aramco is launching its first bond sale of the year, following two debt\nissuances last year as the world’s largest oil company aims to increase\nborrowing levels and support investment and dividend payments.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -246,12 +246,6 @@
     "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
   },
   {
-    "title": "Mining Stocks Gain Globally as Hard-Asset Trade Gathers Pace",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmining-stocks-in-asia-gain-as-hard-asset-trade-gathers-pace",
-    "published": "Mon, 26 Jan 2026 02:59:34 CST",
-    "summary": "Mining stocks in Asia and Europe climbed with metals prices as investors\nrotated into hard assets, driven by a weakening dollar and growing unease over\ncurrencies, geopolitics and global fiscal risks.\n\n"
-  },
-  {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Mon, 26 Jan 2026 00:37:00 CST",
@@ -270,6 +264,12 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
+    "title": "US Natural Gas Futures Soar Over 20% as Arctic Blast Takes Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
+    "published": "Sun, 25 Jan 2026 23:10:37 CST",
+    "summary": "US natural gas surged by more than 20% as freezing weather swept across much\nof the country, boosting heating demand and disrupting supplies.\n\n"
+  },
+  {
     "title": "Energy stocks to watch as major winter storm rips through the U.S.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fenergy-stocks-to-watch-as-major-winter-storm-rips-through-the-us.html",
     "published": "Sun, 25 Jan 2026 22:45:03 CST",
@@ -282,10 +282,10 @@
     "summary": "Airlines have canceled more than 13,000 flights, as a powerful storm brings\nice, sleet and major snowfall to the Midwest, South and Northeast.\n\n"
   },
   {
-    "title": "Stocks Advance as Earnings Kick Into High Gear: Markets Wrap",
+    "title": "Dollar Drops While Gold Tops $5,000, Stocks Rise: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fyen-extends-gains-amid-threat-of-intervention-markets-wrap",
     "published": "Sun, 25 Jan 2026 21:46:33 CST",
-    "summary": "Wall Street kicked off a busy week with gains in stocks on speculation that\nsolid corporate earnings will keep powering market gains. The dollar slid on\nspeculation the US could coordinate intervention with Japan to support the\nyen. Gold topped $5,000.\n\n"
+    "summary": "Big moves away from stocks and bonds were the story of markets at the start of\na busy week, with the dollar falling to four-month low and gold topping $5,000\nfor the first time. US equities rose on gains in power suppliers as natural\ngas climbed about $6.\n\n"
   },
   {
     "title": "Canada has no intention of pursuing free trade with China, says Carney",
@@ -316,6 +316,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Ftarget-delta-hilton-minnesota-ice-trump",
     "published": "Sun, 25 Jan 2026 11:00:06 CST",
     "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Yen Extends Gain as PM Warning Points to Intervention Risk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
+    "published": "Sun, 25 Jan 2026 11:00:00 CST",
+    "summary": "The yen extended its gains, climbing as much as 1.5% against the dollar, after\ncomments from Japanese officials fueled speculation that the government may\nintervene in the market to prevent the currency from resuming its slide.\n\n"
   },
   {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
@@ -706,12 +712,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html",
     "published": "Thu, 22 Jan 2026 16:49:57 CST",
     "summary": "“One Battle After Another” was close behind with 13 nods. Acting nominees\ninclude Michael B. Jordan, Kate Hudson, Timothée Chalamet and Teyana Taylor.\n\n"
-  },
-  {
-    "title": "Help! Our Rental Car Got in an Accident, and We Can’t Get Our Security Deposit Back.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Ftravel%2Frental-car-accident-insurance-thrifty.html",
-    "published": "Thu, 22 Jan 2026 16:08:18 CST",
-    "summary": "Thrifty held on to a couple’s full deposit for over a year after an accident\nin Australia, refusing to provide the invoice they needed for an insurance\nclaim.\n\n"
   },
   {
     "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
