@@ -1,5 +1,89 @@
 [
   {
+    "title": "Public Media Holds Its Apocalypse at Bay, for Now",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fnpr-pbs-stations-funding.html",
+    "published": "Mon, 26 Jan 2026 17:45:08 CST",
+    "summary": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few\nhave closed their doors. Angst about their long-term future remains.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: GameStop, Booz Allen, CVR Energy, CoreWeave & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fstocks-making-the-biggest-moves-midday-gme-bah-cvi-crwv-.html",
+    "published": "Mon, 26 Jan 2026 17:45:06 CST",
+    "summary": "These are some of the stocks posting the largest moves midday.\n\n"
+  },
+  {
+    "title": "Vir Biotechnology CEO Sees Progress in the Fight Against Cancer",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fvir-biotechnology-ceo-sees-progress-in-fight-cancer-video",
+    "published": "Mon, 26 Jan 2026 17:40:24 CST",
+    "summary": "Founded in 2016, Vir Biotechnology is a clinical-stage biopharmaceutical\ncompany focused on powering the immune system to transform lives by\ndiscovering and developing medicines for serious infectious diseases and\ncancer. Dr. Marianne De Backer, the company's CEO, discusses the strides being\nmade in improving these critical treatments and why she's optimistic about her\nindustry's next big breakthrough. Dr. De Backer speaks with Tim Stenovec and\nChristina Ruffini on Bloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Oil Majors Lose Kazakh Field Dispute Worth as Much as $4 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Foil-majors-lose-kazakh-field-dispute-worth-as-much-as-4-billion",
+    "published": "Mon, 26 Jan 2026 17:34:48 CST",
+    "summary": "The oil majors that operate the Karachaganak field in Kazakhstan lost an\ninternational arbitration case, leaving them liable to pay as much as $4\nbillion in compensation to the country’s government, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
+    "title": "Baker Hughes Doubles Data Center Order Target to $3 Billion on AI Power Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fbaker-hughes-doubles-data-center-order-target-to-3-billion-on-ai-power-demand",
+    "published": "Mon, 26 Jan 2026 17:31:57 CST",
+    "summary": "Baker Hughes Co., one of the world’s biggest oilfield contractors, said it\nplans to double its data center equipment order target to $3 billion over a\nthree-year period, driven by surging demand for power to run artificial\nintelligence.\n\n"
+  },
+  {
+    "title": "Trump Threatens Canada With 100% Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Ftrump-threatens-canada-with-100-tariffs-video",
+    "published": "Mon, 26 Jan 2026 17:29:55 CST",
+    "summary": "President Donald Trump says Canada could be hit with 100% tariffs if it signs\na trade deal with China. Bloomberg’s Tyler Kendall reports.\n\n"
+  },
+  {
+    "title": "Target's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Falex-pretti-shooting-target-incoming-ceo-fiddelke.html",
+    "published": "Mon, 26 Jan 2026 17:26:02 CST",
+    "summary": "More than 60 Minnesota business leaders, including Fiddelke, signed a letter\non Sunday calling for an \"immediate deescalation of tensions.\"\n\n"
+  },
+  {
+    "title": "The Unraveling of the Global and Domestic Order",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-26%2Fthe-unraveling-of-the-global-and-domestic-order",
+    "published": "Mon, 26 Jan 2026 17:23:43 CST",
+    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
+  },
+  {
+    "title": "US Winter Storm Triggers Most Flight Cancellations Since Covid",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fwinter-storm-triggers-flight-cancellations-video",
+    "published": "Mon, 26 Jan 2026 17:23:40 CST",
+    "summary": "A massive winter storm sweeping across the US triggered what is shaping up to\nbe one of the worst air travel meltdowns since the Covid-19 pandemic, forcing\nsome major airlines to cancel more than half of their scheduled flights. More\nthan 16,000 US flights have been canceled from Saturday through Monday,\naccording to data from flight-tracking website FlightAware, as the storm\npushed into major population centers and snarled airline networks nationwide.\nAirlines scrapped more than 10,300 US flights on Sunday alone, according to\nFlightAware. Bloomberg's Julie Fine joins Bloomberg Intelligence to report.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "CSG’s Record IPO Sets Europe up For Defense-Led Listings Rebound",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcsg-s-record-ipo-sets-europe-up-for-defense-led-listings-rebound",
+    "published": "Mon, 26 Jan 2026 17:08:23 CST",
+    "summary": "With CSG NV shares trading higher than its Amsterdam initial public offering\nprice, the next listings in Europe may help turn that momentum into a revival\nfor the continent’s equity capital markets.\n\n"
+  },
+  {
+    "title": "Goodwill Thrives as Americans Stretch Their Dollars",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fgoodwill-sales-economy.html",
+    "published": "Mon, 26 Jan 2026 17:02:25 CST",
+    "summary": "Consumers are still spending, but they’re looking for ways to stretch their\ndollars as far as possible.\n\n"
+  },
+  {
+    "title": "‘No one knows anything’: Washington Post staffers fear major cuts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F26%2Fwashington-post-february-job-cuts-layoffs",
+    "published": "Mon, 26 Jan 2026 16:55:14 CST",
+    "summary": "Members of foreign staff send letter to billionaire owner Jeff Bezos urging\nhim to change course\n\nThe Washington Post has consistently produced high-quality, news cycle-leading\nreporting over the first year of Donald Trump’s chaotic and unpredictable\nsecond administration. But that work has been produced under a cloud of\nuncertainty and rumors of widespread job cuts.\n\nThose long-rumored cuts now appear to be close, with staffers expecting the ax\nto drop in early February – though nothing is certain. Inside the Post,\nstaffers have tossed around estimates of potential cuts, with most exceeding\n100, which would represent more than 10% of the newsroom**–** but no one\nreally knows how widespread the cuts will be – or in fact if they will happen\nat all. The sections most likely to be affected by the cuts include sports,\nmetro and foreign, according to staffers who spoke with the Guardian.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Crypto Misses the Macro Trade as Retail Dives Into Gold, Stocks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcrypto-misses-the-macro-trade-as-retail-dives-into-gold-stocks",
+    "published": "Mon, 26 Jan 2026 16:50:00 CST",
+    "summary": "Gold is topping $5,000. Stocks keep booming. The dollar is falling again. Yet\nBitcoin -- hailed as both a momentum and “debasement” trade -- is sitting out\nthe action. Its price is stalling, volumes are limp, and longtime believers\nare drifting toward more dependable markets like equities and precious metals.\n\n"
+  },
+  {
+    "title": "Bloomberg Surveillance 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbloomberg-surveillance-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 16:44:20 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Merger Arbs See Wide-Open Deal Window With Biotech Top of List",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frevolution-medicines-abivax-rvmd-abvx-seen-as-top-m-a-targets",
     "published": "Mon, 26 Jan 2026 16:35:24 CST",
@@ -46,12 +130,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftreasuries-rise-led-by-european-bond-markets-with-auctions-ahead",
     "published": "Mon, 26 Jan 2026 16:15:50 CST",
     "summary": "Treasuries rose as gains in most European government bond markets offset\nstrong US economic data and supply pressure from this week’s early-starting\nauctions.\n\n"
-  },
-  {
-    "title": "Target's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Falex-pretti-shooting-target-incoming-ceo-fiddelke.html",
-    "published": "Mon, 26 Jan 2026 16:11:47 CST",
-    "summary": "More than 60 Minnesota business leaders, including Fiddelke, signed a letter\non Sunday calling for an \"immediate deescalation of tensions.\"\n\n"
   },
   {
     "title": "BlackRock Private Debt Fund Tumbles After Writing Down Loans",
@@ -102,22 +180,10 @@
     "summary": "A.I.-generated content of Victoria Beckham has spread as wedding drama has\nengulfed the celebrity clan and the public has clamored for receipts (even\nfabricated ones).\n\n"
   },
   {
-    "title": "Trinidad and Tobago Finance Chief Trumpets $1 Billion Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftrinidad-and-tobago-finance-chief-trumpets-1-billion-bond-sale",
-    "published": "Mon, 26 Jan 2026 15:32:22 CST",
-    "summary": "Trinidad and Tobago completed a $1 billion bond sale in the US market, with\nthe Caribbean nation’s finance chief signaling he’ll use revenue from energy\nprojects and tax reform to repay the debt.\n\n"
-  },
-  {
     "title": "US Treasury Says It’s Canceled Booz Allen Hamilton Contracts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-treasury-says-it-s-canceled-all-booz-allen-hamilton-contracts",
     "published": "Mon, 26 Jan 2026 15:21:06 CST",
     "summary": "The US Treasury Department said it canceled $21 million of contracts with Booz\nAllen Hamilton after the consulting firm failed to protect taxpayer data to\nwhich it had access, including President Donald Trump’s tax returns.\n\n"
-  },
-  {
-    "title": "Scotland Kicks Off Search for Banks to Steer Debut Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fscotland-kicks-off-search-for-banks-to-steer-debut-bond-sale",
-    "published": "Mon, 26 Jan 2026 15:19:57 CST",
-    "summary": "The Scottish government started a search for banks and lawyers to run its\ndebut bond sales, which the ruling party plans to pursue if it remains in\npower following elections in May.\n\n"
   },
   {
     "title": "Gold Soars Beyond $5,000 as Global Tensions Grow",
@@ -126,40 +192,10 @@
     "summary": "The price of gold surged as investors sought shelter from geopolitical\nuncertainty.\n\n"
   },
   {
-    "title": "NYC Workers Face Messy Commute as Crews Work to Clear Snow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fnyc-workers-face-messy-commute-crews-work-to-clear-snow-video",
-    "published": "Mon, 26 Jan 2026 14:57:00 CST",
-    "summary": "The heaviest winter storm in years dropped mounds of snow on New York City,\nmaking Monday’s morning commute messy for those willing to brave it. Myles\nMiller reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
     "published": "Mon, 26 Jan 2026 14:47:54 CST",
     "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and snow across much of the country.\n\n"
-  },
-  {
-    "title": "US Stocks Rise as Traders Look Beyond New Washington Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-stocks-rise-as-traders-look-beyond-new-washington-risks",
-    "published": "Mon, 26 Jan 2026 14:43:35 CST",
-    "summary": "US stocks opened higher Monday morning as traders weighed a combination of\nfresh trade and policy risks against a strong start to fourth-quarter\nearnings.\n\n"
-  },
-  {
-    "title": "Two African Debtors Exit Distressed Club, Leaving Only Senegal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftwo-african-debtors-exit-distressed-club-leaving-only-senegal",
-    "published": "Mon, 26 Jan 2026 14:42:47 CST",
-    "summary": "Senegal has been left as the only African nation with a sovereign risk premium\nin distressed territory after yields on the debt of Mozambique and Gabon\nnarrowed relative to US Treasuries.\n\n"
-  },
-  {
-    "title": "Senegal, Morocco Sign Deals to Boost Ties After Football Fallout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsenegal-morocco-sign-deals-to-boost-ties-after-football-fallout",
-    "published": "Mon, 26 Jan 2026 14:38:02 CST",
-    "summary": "Senegal is striving to bolster ties with key trading partner Morocco, after a\ncontentious match at Africa’s top football event cast a shadow over their\nhistorically close relationship.\n\n"
-  },
-  {
-    "title": "Winter Storm Could Cause $115 Billion in Damages, AccuWeather Estimates",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fstorm-could-cause-115-billion-in-damages-accuweather-video",
-    "published": "Mon, 26 Jan 2026 14:37:30 CST",
-    "summary": "AccuWeather estimates this weekend's winter storm could cause up to $115\nbillion in economic losses and damages. More than 800,000 homes and businesses\nlost power. AccuWeather's Bill Wadell reports from Greenville, South Carolina.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
@@ -174,28 +210,28 @@
     "summary": "These are the stocks posting the largest moves before the bell.\n\n"
   },
   {
+    "title": "Bob’s Discount Furniture Seeks $370 Million in Initial Public Offering",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fbob-s-discount-furniture-bobs-seeks-370-million-in-initial-public-offering",
+    "published": "Mon, 26 Jan 2026 13:46:53 CST",
+    "summary": "Bob’s Discount Furniture Inc., a home furnishings retailer backed by Bain\nCapital, is seeking to raise as much as $370 million in a US initial public\noffering.\n\n"
+  },
+  {
     "title": "Business Leaders Face a Test in Minneapolis",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
   },
   {
-    "title": "Goldman’s Top Precious Metals Trader Binet-Laisne Exits Bank",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgoldman-s-top-precious-metals-trader-binet-laisne-leaves-bank",
-    "published": "Mon, 26 Jan 2026 13:08:08 CST",
-    "summary": "Goldman Sachs Group Inc.’s head of precious metals trading Benjamin Binet-\nLaisne is leaving the bank, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Wizz Air Seeks US Flight Permit After Middle East Retreat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fwizz-air-seeks-us-flight-permit-after-scrapping-middle-east-plan",
-    "published": "Mon, 26 Jan 2026 13:08:04 CST",
-    "summary": "Wizz Air Holdings Plc’s UK subsidiary applied for permission to fly to the US,\nmonths after the budget carrier’s plans to expand in the Middle East fell\nthrough.\n\n"
-  },
-  {
     "title": "USA Rare Earth Lines Up $1.6 Billion in US Government Funds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fusa-rare-earth-lines-up-1-6-billion-in-us-government-funding",
     "published": "Mon, 26 Jan 2026 12:43:21 CST",
     "summary": "USA Rare Earth Inc. signed a non-binding agreement with the Commerce\nDepartment for $1.6 billion in funding, the latest White House deal to boost\nproduction of rare-earth elements on domestic soil.\n\n"
+  },
+  {
+    "title": "Electrical Equipment Maker Forgent Seeks $1.6 Billion in IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Felectrical-equipment-maker-forgent-seeks-1-62-billion-in-us-ipo",
+    "published": "Mon, 26 Jan 2026 12:37:09 CST",
+    "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
   },
   {
     "title": "Norway Indicts PetroNor Unit Over Alleged Congo Oil Bribes",
@@ -222,12 +258,6 @@
     "summary": "Concerns about the affordability of education, housing, health care, having a\nfamily and retirement are driving economic anxieties, a New York Times/Siena\npoll found.\n\n"
   },
   {
-    "title": "Brisk Sales at Goodwill Suggest Wary Shoppers in an Uncertain Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fgoodwill-sales-economy.html",
-    "published": "Mon, 26 Jan 2026 10:01:51 CST",
-    "summary": "Consumers are still spending, but they’re looking for ways to stretch their\ndollars as far as possible.\n\n"
-  },
-  {
     "title": "Trump Hobbled the I.R.S. This C.E.O. Now Has to Make It Work.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-irs-taxes-bisignano.html",
     "published": "Mon, 26 Jan 2026 10:00:51 CST",
@@ -246,22 +276,16 @@
     "summary": "Despite the demise of Direct File, taxpayers still have plenty of no-cost\noptions for filing their returns this tax season.\n\n"
   },
   {
-    "title": "Rand Strengthens Past 16 Per Dollar for First Time Since 2022",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frand-zar-strengthens-past-16-per-dollar-for-first-time-since-2022-mkux6xue",
-    "published": "Mon, 26 Jan 2026 08:43:11 CST",
-    "summary": "South Africa’s rand strengthened past 16 per dollar for the first time in\nalmost four years as the “dollar debasement trade” pushed emerging-market\ncurrencies and stocks as well as gold to record highs.\n\n"
-  },
-  {
-    "title": "US Travel Chaos Continues as Airlines Try to Restore Flights",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-travel-chaos-set-to-linger-as-airlines-try-to-restore-flights",
-    "published": "Mon, 26 Jan 2026 07:39:07 CST",
-    "summary": "Travelers are bracing for extended disruptions to start the working week in\nthe US as airlines try to get their schedules back on track following an\nintense winter storm that saw the most flight cancellations since the Covid-19\npandemic.\n\n"
-  },
-  {
     "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feurope-natural-gas-united-states-russia.html",
     "published": "Mon, 26 Jan 2026 05:01:05 CST",
     "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
+  },
+  {
+    "title": "EM Currency Index Hits Record as Yen Jump Lifts Asian Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fsouth-korean-won-rises-em-fx-at-record-high-as-dollar-falls",
+    "published": "Mon, 26 Jan 2026 01:54:38 CST",
+    "summary": "A gauge of emerging-market currencies touched a record high as the dollar\ncontinued to slide, hitting a four-month low on speculation of possible joint\nintervention by the US and Japan to support the yen.\n\n"
   },
   {
     "title": "China didn’t grab many headlines at Davos, but it's the elephant in the room",
@@ -276,10 +300,10 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
-    "title": "US Natural Gas Futures Soar Over 20% as Arctic Blast Takes Hold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
-    "published": "Sun, 25 Jan 2026 23:10:37 CST",
-    "summary": "US natural gas surged by more than 20% as freezing weather swept across much\nof the country, boosting heating demand and disrupting supplies.\n\n"
+    "title": "Gold Smashes Beyond $5,000 as Global Upheaval Fans Demand Frenzy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
+    "published": "Sun, 25 Jan 2026 23:06:42 CST",
+    "summary": "Gold smashed roared through the $5,000-an-ounce threshold for the first time,\nextending a breakneck rally fueled by US President Donald Trump’s reshaping of\ninternational relations and investor flight from sovereign bonds and\ncurrencies.\n\n"
   },
   {
     "title": "Energy stocks to watch as major winter storm rips through the U.S.",
@@ -328,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Ftarget-delta-hilton-minnesota-ice-trump",
     "published": "Sun, 25 Jan 2026 11:00:06 CST",
     "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Yen Extends Gain as PM Warning Points to Intervention Risk",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fmarket-on-high-alert-for-yen-intervention-after-takaichi-warning",
-    "published": "Sun, 25 Jan 2026 11:00:00 CST",
-    "summary": "The yen extended its gains, climbing as much as 1.5% against the dollar, after\ncomments from Japanese officials fueled speculation that the government may\nintervene in the market to prevent the currency from resuming its slide.\n\n"
   },
   {
     "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
@@ -534,12 +552,6 @@
     "summary": "Older high-income workers who make contributions beyond the standard amount\nwill have to put that extra money into a Roth 401(k). That may lower their\ntake-home pay.\n\n"
   },
   {
-    "title": "Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F23%2Fai-tsunami-labour-market-youth-employment-says-head-of-imf-davos",
-    "published": "Fri, 23 Jan 2026 13:35:53 CST",
-    "summary": "Kristalina Georgieva says research suggests 60% of jobs in advanced economies\nwill be affected, with many entry-level roles wiped out\n\nArtificial intelligence will be a “tsunami hitting the labour market”, with\nyoung people worst affected, the head of the International Monetary Fund\nwarned the World Economic Forum on Friday.\n\nKristalina Georgieva told delegates in Davos that the IMF’s own research\nsuggested there would be a big transformation of demand for skills, as the\ntechnology becomes increasingly widespread.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwealth-client-prospecting-ria-ai.html",
     "published": "Fri, 23 Jan 2026 13:21:05 CST",
@@ -598,12 +610,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Fvideo%2Fbusiness%2Feconomy%2F100000010656157%2Fwhy-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
     "published": "Fri, 23 Jan 2026 11:30:03 CST",
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
-  },
-  {
-    "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Falibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
-    "published": "Fri, 23 Jan 2026 06:31:20 CST",
-    "summary": "Investors are valuing the startup at $4.8 billion as it is about to close\nanother funding round, according to two people familiar with the matter.\n\n"
   },
   {
     "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
@@ -760,12 +766,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-campaign-economic-policy",
     "published": "Thu, 22 Jan 2026 11:00:52 CST",
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Two Ohio Nursing Programs Show What Could Happen as US Limits Student Borrowing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fstudent-loan-cap-graduate-nursing.html",
-    "published": "Thu, 22 Jan 2026 10:02:23 CST",
-    "summary": "Two different nursing school programs in Ohio offer a glimpse into what may\nhappen when federal student borrowing has limits.\n\n"
   },
   {
     "title": "Australian shares shoot up after Trump walks back tariff threat",
