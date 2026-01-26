@@ -1,5 +1,59 @@
 [
   {
+    "title": "Markets Are Taking Cues from Japan: Kumra",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fmarkets-are-taking-cues-from-japan-kumra-video",
+    "published": "Mon, 26 Jan 2026 18:49:45 CST",
+    "summary": "Pooja Kumra, Senior European and UK Rates Strategist at TD Securities, says\nbond markets are currently taking their cues from Japan due to monetary and\nfiscal policy movements there. She speaks to Bloomberg's Anna Edwards, Tom\nMackenzie and Guy Johnson on 'The Opening Trade.' (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Companies Focused on AI Execution Well-Positioned: Qu",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fcompanies-focused-on-ai-execution-well-positioned-qu-video",
+    "published": "Mon, 26 Jan 2026 18:49:45 CST",
+    "summary": "PSP Growth Managing Director Momei Qu looks ahead to a big week for tech\nearnings with Bloomberg's Jonathan Ferro and Annmarie Hordern on\n'Surveillance.' (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Thousands of Flights Canceled Monday After Snowstorm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fstorm-flight-cancellations-delays.html",
+    "published": "Mon, 26 Jan 2026 18:46:17 CST",
+    "summary": "Delays and cancellations persisted a day after more than 11,000 flights were\ncanceled. Airports in the Northeastern U.S. were hit the hardest.\n\n"
+  },
+  {
+    "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
+    "published": "Mon, 26 Jan 2026 18:45:55 CST",
+    "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
+  },
+  {
+    "title": "Musk’s X Probed by EU Over Grok’s Spread of Sexual Deepfakes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Feu-probes-grok-s-spread-of-sexual-deepfakes-video",
+    "published": "Mon, 26 Jan 2026 18:26:10 CST",
+    "summary": "The European Union is probing Elon Musk's X over concerns that the social\nmedia platform failed to prevent its AI chatbot, Grok, from generating\ndeepfake images that it says \"may amount to child sexual abuse material.\"\nBloomberg’s Olivia Solon discusses the investigation and potential impact with\nCaroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Gold Smashes Beyond $5000, Treasury ETF Becomes Test For Tokenized Finance | ETF IQ 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fetf-iq-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 18:10:50 CST",
+    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied\nto the trillions of dollars in the global exchange traded funds industry.\nToday's guests: Strategas ETF Strategist Todd Sohn and Cyber Hornet ETFs CEO &\nCo-Founder Michael Willis. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Power Outages Could Rise as Freezing Temperatures Persist After Winter Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
+    "published": "Mon, 26 Jan 2026 17:56:50 CST",
+    "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
+  },
+  {
+    "title": "Nvidia Doubles Down on AI | Open Interest 1/26/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fopen-interest-1-26-2026-video",
+    "published": "Mon, 26 Jan 2026 17:50:19 CST",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Nvidia doubles down on AI, investing another $2\nbillion in CoreWeave as investors brace for earnings from Meta, Apple,\nMicrosoft and Tesla this week. Shutdown risks rise in Washington as Senate\nDemocrats threaten to block a spending package amid growing fallout over a\nsecond death in Minnesota. Plus, exclusive conversations with the CEOs of\nTrueCar and Baker Hughes. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Pirelli’s Chinese Investor Proposes Plan to Address US Concerns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fpirelli-s-chinese-investor-proposes-plan-to-address-us-concerns",
+    "published": "Mon, 26 Jan 2026 17:46:58 CST",
+    "summary": "Pirelli & C. SpA’s biggest investor, China’s Sinochem Group, submitted a\nproposal aimed at addressing the Italian tiremaker’s governance and potential\nUS regulatory concerns.\n\n"
+  },
+  {
     "title": "Public Media Holds Its Apocalypse at Bay, for Now",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fnpr-pbs-stations-funding.html",
     "published": "Mon, 26 Jan 2026 17:45:08 CST",
@@ -54,7 +108,7 @@
     "summary": "A massive winter storm sweeping across the US triggered what is shaping up to\nbe one of the worst air travel meltdowns since the Covid-19 pandemic, forcing\nsome major airlines to cancel more than half of their scheduled flights. More\nthan 16,000 US flights have been canceled from Saturday through Monday,\naccording to data from flight-tracking website FlightAware, as the storm\npushed into major population centers and snarled airline networks nationwide.\nAirlines scrapped more than 10,300 US flights on Sunday alone, according to\nFlightAware. Bloomberg's Julie Fine joins Bloomberg Intelligence to report.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "CSG’s Record IPO Sets Europe up For Defense-Led Listings Rebound",
+    "title": "Record CSG IPO Sets Europe For Defense-Led Listings Rebound",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcsg-s-record-ipo-sets-europe-up-for-defense-led-listings-rebound",
     "published": "Mon, 26 Jan 2026 17:08:23 CST",
     "summary": "With CSG NV shares trading higher than its Amsterdam initial public offering\nprice, the next listings in Europe may help turn that momentum into a revival\nfor the continent’s equity capital markets.\n\n"
@@ -102,42 +156,6 @@
     "summary": "Brazil’s next government will need to move quickly to present a credible\nfiscal plan to stabilize public debt, or risk unsettling financial markets,\naccording to former Treasury Secretary Mansueto Almeida.\n\n"
   },
   {
-    "title": "Gold, Precious Metals Seeing Multiple Drivers, Says Morgan Stanley’s Gower",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fmultiple-drivers-for-precious-metals-morgan-stanley-video",
-    "published": "Mon, 26 Jan 2026 16:31:49 CST",
-    "summary": "Amy Gower, lead metals and mining commodities strategist at Morgan Stanley,\noutlines the factors driving the rally in gold and precious metals . (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Baker Hughes CEO on Earnings Beat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fbaker-hughes-ceo-on-earnings-beat-video",
-    "published": "Mon, 26 Jan 2026 16:31:40 CST",
-    "summary": "Baker Hughes shares are in focus after the company beat earnings expectations\n--doing it in a sluggish energy environment. The energy services giant is\nnavigating shifting markets and rising geopolitical pressures, and remains a\nkey player in the sector’s next phase. CEO Lorenzo Simonelli joined Bloomberg\nOpen Interest to talk about the results and what’s ahead. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Scott Painter on his Return to TrueCar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fscott-painter-on-his-return-to-truecar-video",
-    "published": "Mon, 26 Jan 2026 16:30:59 CST",
-    "summary": "Buying a car has become more expensive and complicated for millions of\nAmericans. Now TrueCar founder Scott Painter is back after taking the company\nprivate, with a plan to make car-buying simpler, more transparent, and more\naffordable again. Scott, one of the pioneers of online car buying, joined\nBloomberg Open Interest to talk about the new venture. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Bridgewater Wary of Bonds as Inflation Risks From Government Spending, AI Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fbridgewater-s-cios-are-wary-of-bonds-on-fiscal-inflation-risks",
-    "published": "Mon, 26 Jan 2026 16:20:19 CST",
-    "summary": "Hedge fund Bridgewater Associates favors stocks over bonds given the risks\nposed by governments ramping up public spending and the inflationary impact of\nartificial intelligence.\n\n"
-  },
-  {
-    "title": "Treasuries Rise Led by European Bond Markets With Auctions Ahead",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ftreasuries-rise-led-by-european-bond-markets-with-auctions-ahead",
-    "published": "Mon, 26 Jan 2026 16:15:50 CST",
-    "summary": "Treasuries rose as gains in most European government bond markets offset\nstrong US economic data and supply pressure from this week’s early-starting\nauctions.\n\n"
-  },
-  {
-    "title": "BlackRock Private Debt Fund Tumbles After Writing Down Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fblackrock-private-debt-fund-tumbles-after-writing-down-loans",
-    "published": "Mon, 26 Jan 2026 16:06:17 CST",
-    "summary": "A BlackRock Inc. private debt fund plunged the most in almost six years after\nit disclosed writedowns across a series of troubled investments and waived\nsome of its fee.\n\n"
-  },
-  {
     "title": "Gold price jumps above $5,000 an ounce for first time amid Trump turmoil",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fgold-prices-record-5000-ounce-trump-turmoil",
     "published": "Mon, 26 Jan 2026 16:05:29 CST",
@@ -150,30 +168,6 @@
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
-    "title": "John Aylward’s Hedge Fund Sona Plans a Bigger London Office",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjohn-aylward-s-hedge-fund-sona-plans-a-bigger-london-office",
-    "published": "Mon, 26 Jan 2026 16:02:03 CST",
-    "summary": "Credit trading specialist John Aylward’s investment firm Sona Asset Management\nis planning to move to a bigger office in London’s Piccadilly neighborhood,\naccording to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
-    "published": "Mon, 26 Jan 2026 15:59:34 CST",
-    "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
-  },
-  {
-    "title": "Chemicals Firm Archroma Gears Up for Debt Extension Talks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fchemicals-firm-archroma-gears-up-for-debt-extension-talks",
-    "published": "Mon, 26 Jan 2026 15:56:38 CST",
-    "summary": "Specialty chemicals producer Archroma is readying for talks over an extension\nto its debt stack, as its results are improving following a period of weakness\nin its industry.\n\n"
-  },
-  {
-    "title": "Thousands of Flights Canceled Monday After Snowstorm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fstorm-flight-cancellations-delays.html",
-    "published": "Mon, 26 Jan 2026 15:52:06 CST",
-    "summary": "Delays and cancellations persisted, a day after more than 11,000 flights were\ncanceled. Airports in the Northeast U.S. were hit the hardest.\n\n"
-  },
-  {
     "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fbrooklyn-beckham-victoria-feud-ai-videos-dancing.html",
     "published": "Mon, 26 Jan 2026 15:32:53 CST",
@@ -183,7 +177,7 @@
     "title": "US Treasury Says It’s Canceled Booz Allen Hamilton Contracts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fus-treasury-says-it-s-canceled-all-booz-allen-hamilton-contracts",
     "published": "Mon, 26 Jan 2026 15:21:06 CST",
-    "summary": "The US Treasury Department said it canceled $21 million of contracts with Booz\nAllen Hamilton after the consulting firm failed to protect taxpayer data to\nwhich it had access, including President Donald Trump’s tax returns.\n\n"
+    "summary": "The US Treasury Department said it canceled $21 million of contracts with Booz\nAllen Hamilton, alleging the consulting firm failed to protect taxpayer data\nto which it had access, including President Donald Trump’s tax returns.\n\n"
   },
   {
     "title": "Gold Soars Beyond $5,000 as Global Tensions Grow",
@@ -196,6 +190,18 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fairlines-travel-storm.html",
     "published": "Mon, 26 Jan 2026 14:47:54 CST",
     "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and snow across much of the country.\n\n"
+  },
+  {
+    "title": "Ecuador Taps Bond Markets for First Time Since Restructuring",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fecuador-tapping-debt-markets-for-first-time-since-restructuring",
+    "published": "Mon, 26 Jan 2026 14:26:58 CST",
+    "summary": "Ecuador is returning to global bond markets on Monday for the first time since\nit restructured its debt in 2020.\n\n"
+  },
+  {
+    "title": "Morgan Stanley, BofA See More in Best Carry Rally Since 2009",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmorgan-stanley-bofa-see-more-in-best-carry-rally-since-2009",
+    "published": "Mon, 26 Jan 2026 14:21:47 CST",
+    "summary": "Investors selling the dollar to buy emerging-market currencies are off to a\nlucrative start in 2026, with strategists at top banks expecting such\nstrategies to build further on last year’s 18% rally.\n\n"
   },
   {
     "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
@@ -222,10 +228,10 @@
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
   },
   {
-    "title": "USA Rare Earth Lines Up $1.6 Billion in US Government Funds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fusa-rare-earth-lines-up-1-6-billion-in-us-government-funding",
-    "published": "Mon, 26 Jan 2026 12:43:21 CST",
-    "summary": "USA Rare Earth Inc. signed a non-binding agreement with the Commerce\nDepartment for $1.6 billion in funding, the latest White House deal to boost\nproduction of rare-earth elements on domestic soil.\n\n"
+    "title": "Junk Debt Sales Soar After Trump Tariff Threat Recedes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fjunk-debt-sales-soar-in-europe-after-trump-tariff-threat-recedes",
+    "published": "Mon, 26 Jan 2026 12:54:36 CST",
+    "summary": "Junk-debt sales on both sides of the Atlantic surged on Monday as firms took\nadvantage of easing geopolitical tensions after US President Donald Trump\nabandoned his Greenland-linked tariff threats.\n\n"
   },
   {
     "title": "Electrical Equipment Maker Forgent Seeks $1.6 Billion in IPO",
@@ -234,22 +240,16 @@
     "summary": "Forgent Power Solutions Inc., a designer and manufacturer of electrical\nequipment used in data centers, is seeking to raise as much as $1.62 billion\nin its initial public offering.\n\n"
   },
   {
-    "title": "Norway Indicts PetroNor Unit Over Alleged Congo Oil Bribes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fnorway-indicts-petronor-unit-over-alleged-congo-oil-bribes",
-    "published": "Mon, 26 Jan 2026 11:15:13 CST",
-    "summary": "Norway has indicted two people and a wholly-owned subsidiary of PetroNor E&P\nASA for allegedly paying bribes in the Republic of Congo.\n\n"
-  },
-  {
     "title": "China’s Zijin to Buy Allied Gold for C$5.5 Billion in Growth Push",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fzijin-has-agreed-to-buy-allied-gold-for-c-5-5-billion",
     "published": "Mon, 26 Jan 2026 11:13:30 CST",
     "summary": "A Zijin Mining Group Co. subsidiary agreed to buy Allied Gold Corp., which\nowns gold mines in Africa, for C$5.5 billion ($4 billion) in the latest step\nin the Chinese company’s rapid growth.\n\n"
   },
   {
-    "title": "Aramco Starts First Bond Sale of The Year as Oil Prices Lag",
+    "title": "Aramco Kicks Off Year With $4 Billion Bond Sale as Oil Lags",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Faramco-starts-first-bond-sale-of-this-year-as-oil-prices-lag",
     "published": "Mon, 26 Jan 2026 10:42:26 CST",
-    "summary": "Aramco is launching its first bond sale of the year, following two debt\nissuances last year as the world’s largest oil company aims to increase\nborrowing levels and support investment and dividend payments.\n\n"
+    "summary": "Saudi Aramco launched a $4 billion bond sale, its first note sale this year,\nas the world’s largest oil producer steps up borrowing to fund investment and\ndividends.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -300,10 +300,16 @@
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
   },
   {
-    "title": "Gold Smashes Beyond $5,000 as Global Upheaval Fans Demand Frenzy",
+    "title": "Natural Gas Surges Above $7 as Arctic Blast Grips Much of US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fus-natural-gas-futures-soar-above-6-for-first-time-since-2022",
+    "published": "Sun, 25 Jan 2026 23:10:37 CST",
+    "summary": "US natural gas continued to extend eye-popping gains, surging by 40% midday,\nas freezing weather swept across much of the country, boosting heating demand\nand disrupting supplies.\n\n"
+  },
+  {
+    "title": "Silver Soars Most Since 2008 as Gold Tops $5,000 on Global Angst",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
     "published": "Sun, 25 Jan 2026 23:06:42 CST",
-    "summary": "Gold smashed roared through the $5,000-an-ounce threshold for the first time,\nextending a breakneck rally fueled by US President Donald Trump’s reshaping of\ninternational relations and investor flight from sovereign bonds and\ncurrencies.\n\n"
+    "summary": "Silver surged the most since 2008 and gold roared past $5,000-an-ounce for the\nfirst time, extending a precious metals rally fueled by US President Donald\nTrump’s reshaping of international relations and investor flight from\nsovereign bonds and currencies.\n\n"
   },
   {
     "title": "Energy stocks to watch as major winter storm rips through the U.S.",
@@ -718,12 +724,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2F2026%2Fjan%2F22%2Fgullah-geechee-georgia-development-referendum",
     "published": "Thu, 22 Jan 2026 17:00:50 CST",
     "summary": "A citizen referendum, only the second of its kind in Georgia history, seeks to\nblock a zoning amendment\n\nIre Gene Grovner stood behind his house on a recent morning, between chicken\npens on one side and rows of winter collard greens on the other, holding a\nknife and skinning a raccoon splayed across a wood post.\n\n“The meat is good roasted,” Grovner said. He pointed to the collards, a burst\nof green in the winter cold, and the chickens, with their eggs. “If you ain’t\nlazy, you can live good here,” he said, referring to Sapelo Island off the\ncoast of southern Georgia.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Oscar Nominations: ‘Sinners’ Breaks Record With 16",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fmovies%2Foscar-nominations-announcement.html",
-    "published": "Thu, 22 Jan 2026 16:49:57 CST",
-    "summary": "“One Battle After Another” was close behind with 13 nods. Acting nominees\ninclude Michael B. Jordan, Kate Hudson, Timothée Chalamet and Teyana Taylor.\n\n"
   },
   {
     "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
