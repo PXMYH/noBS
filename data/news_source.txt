@@ -1,21 +1,45 @@
 [
   {
-    "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fhomebuyers-backing-out-of-deals.html",
-    "published": "Tue, 27 Jan 2026 19:02:23 CST",
-    "summary": "More than 16% of signed contracts on homes in December were cancelled, as\nconsumers face continued uncertainty in the economy and rising inventory.\n\n"
+    "title": "Bari Weiss to CBS News staff: Without a shift in strategy, ‘we are toast’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fbari-weiss-cbs-news-allhands%2F",
+    "published": "Tue, 27 Jan 2026 19:46:01 CST",
+    "summary": "The CBS News editor in chief said the network needs to produce journalism\npeople want as she named a raft of new contributors from her website, the Free\nPress.\n\n"
   },
   {
     "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Ffed-preview-january-2026.html",
-    "published": "Tue, 27 Jan 2026 19:01:51 CST",
+    "published": "Tue, 27 Jan 2026 19:43:34 CST",
     "summary": "This week's meeting offers little suspense and probably not much action, even\nas massive changes loom over the Fed's longer-term direction.\n\n"
   },
   {
-    "title": "Federal investigators say missed warnings, dangerous congestion behind DCA crash",
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 19:31:23 CST",
+    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "FAA ignored warnings from controllers before DCA crash, federal investigators say",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F",
-    "published": "Tue, 27 Jan 2026 18:53:41 CST",
+    "published": "Tue, 27 Jan 2026 19:24:10 CST",
     "summary": "Families hope the nearly year-long probe by the National Transportation Safety\nBoard will promote aviation safety changes.\n\n"
+  },
+  {
+    "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fhealth-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
+    "published": "Tue, 27 Jan 2026 19:13:15 CST",
+    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth\nGroup plunged in extended trading.\n\n"
+  },
+  {
+    "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fhomebuyers-backing-out-of-deals.html",
+    "published": "Tue, 27 Jan 2026 19:04:22 CST",
+    "summary": "More than 16% of signed contracts on homes in December were cancelled, as\nconsumers face continued uncertainty in the economy and rising inventory.\n\n"
+  },
+  {
+    "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fups-jobs-layoffs-2026.html",
+    "published": "Tue, 27 Jan 2026 19:01:32 CST",
+    "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
   },
   {
     "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
@@ -25,9 +49,15 @@
   },
   {
     "title": "Safety Board Heaps Blame on F.A.A. Over Potomac Plane-Helicopter Crash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftransportation-safety-board-set-to-declare-cause-of-midair-collision.html",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
     "published": "Tue, 27 Jan 2026 18:23:43 CST",
     "summary": "The National Transportation Safety Board is set to vote on the probable cause\nof last year’s crash near Washington and make recommendations.\n\n"
+  },
+  {
+    "title": "Bloomberg Surveillance 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fbloomberg-surveillance-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 18:16:16 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Stocks Push to Record Highs | Open Interest 1/27/2026",
@@ -58,12 +88,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Famerican-air-s-outlook-undercut-by-storm-cancellations-video",
     "published": "Tue, 27 Jan 2026 17:51:06 CST",
     "summary": "American Airlines Group Inc. said it’s poised for a strong year as the carrier\nramps up premium offerings, but first it’s trying to survive winter weather\nthat’s prompting thousands of cancellations at major US hubs. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fups-jobs-layoffs-2026.html",
-    "published": "Tue, 27 Jan 2026 17:50:14 CST",
-    "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
   },
   {
     "title": "Transatlantic Diesel Spread Surges as Winter Storm Disrupts US",
@@ -102,18 +126,6 @@
     "summary": "The tech C.E.O. is the latest business leader to speak out about the\nimmigration crackdown and the fatal shooting of two U.S. citizens.\n\n"
   },
   {
-    "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fhealth-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
-    "published": "Tue, 27 Jan 2026 17:14:37 CST",
-    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth\nGroup plunged in extended trading.\n\n"
-  },
-  {
-    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
-    "published": "Tue, 27 Jan 2026 17:06:09 CST",
-    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
-  },
-  {
     "title": "UPS to cut additional 30,000 jobs in Amazon unwind, turnaround plan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fups-job-cuts-amazon-unwind-turnaround-plan.html",
     "published": "Tue, 27 Jan 2026 16:59:23 CST",
@@ -150,7 +162,7 @@
     "summary": "The tech giant has spent more than $6 million on TV ads in state capitals and\nWashington, with the message that data centers create jobs.\n\n"
   },
   {
-    "title": "NextEra Offers Nuclear Power Amid Red-Hot Demand From Tech Firms",
+    "title": "NextEra Offers Nuclear Power Amid Hot Demand From Tech Firms",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fnextera-offers-nuclear-power-amid-red-hot-demand-from-tech-firms",
     "published": "Tue, 27 Jan 2026 16:28:13 CST",
     "summary": "NextEra Energy Inc. is offering large amounts of power for sale from its\nnuclear plants in Wisconsin and New Hampshire, as major technology companies\nrace to secure nuclear energy for artificial-intelligence data centers.\n\n"
@@ -216,46 +228,16 @@
     "summary": "Apollo Global Management took a loss on a portion of a $170 million asset-\nbacked financing for Amazon brand aggregator Perch that was written off to\nzero. Silas Brown has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Here's What's Inside the Massive EU-India Trade Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhere-s-what-s-inside-the-massive-eu-india-trade-deal-video",
-    "published": "Tue, 27 Jan 2026 15:43:31 CST",
-    "summary": "The EU and India have agreed to a landmark trade deal, cutting tariffs on\nnearly all goods as both move to hedge against Trump’s tariffs. Alisha Sachdev\nexplains (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "JPMorgan Tells Its M&amp;A Bankers to Do More to Close the Gap With Goldman",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjpmorgan-tells-its-m-a-bankers-do-more-to-close-the-goldman-gap",
-    "published": "Tue, 27 Jan 2026 15:41:58 CST",
-    "summary": "JPMorgan Chase & Co.’s leadership has told the firm’s investment bankers that\nthey need to work harder to close the gap with rivals including Goldman Sachs\nGroup Inc. on mergers and acquisitions, according to people with knowledge of\nthe matter.\n\n"
-  },
-  {
     "title": "American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 15:39:41 CST",
     "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
   },
   {
-    "title": "Miller Tabak's Maley Warns on Credit, Admits 'Hard to Fight the Tape'",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fmiller-tabak-s-maley-on-credit-hard-to-fight-the-tape-video",
-    "published": "Tue, 27 Jan 2026 15:32:21 CST",
-    "summary": "Miller Tabak Chief Market Strategist Matt Maley says he is a bit concerned\nabout the credit market but admits it is \"sure hard to fight the tape\" during\nan interview with Matt Miller on \"Bloomberg Open Interest.\" (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Citi Sees Silver Surging to $150 as China Buying Still Has Legs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fciti-sees-silver-surging-to-150-as-china-buying-still-has-legs",
-    "published": "Tue, 27 Jan 2026 15:28:05 CST",
-    "summary": "Citigroup Inc. expects spot silver prices to hit a record $150 an ounce within\nthree months, extending a historic rally that has seen the metal surge nearly\n50% in January.\n\n"
-  },
-  {
     "title": "G.M. Shares Rise as Investors Are Encouraged by 2026 Prospects",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fgeneral-motors-earnings.html",
     "published": "Tue, 27 Jan 2026 15:22:38 CST",
     "summary": "The automaker said that it would buy back stock worth up to $6 billion and\nthat it expected profit to rise this year after it pulled back from electric\nvehicle production.\n\n"
-  },
-  {
-    "title": "Angola Plans $1.4 Billion Debt-for-Health Swap in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fangola-plans-1-4billion-debt-for-health-swap-in-2026",
-    "published": "Tue, 27 Jan 2026 15:20:00 CST",
-    "summary": "Angola plans a $1.4 billion debt-for-health swap this year, the finance\nministry said in a borrowing plan.\n\n"
   },
   {
     "title": "Ex-Nigerian Oil Minister Given £2 Million in Harrods Gifts, Bribery Jury Told",
@@ -312,10 +294,10 @@
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
   },
   {
-    "title": "Dollar Sinks to Lowest Level in Four Years as US Risks Grow",
+    "title": "Dollar’s ‘Relentless’ Slide Has Traders Bracing for More Pain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-sinks-to-lowest-level-in-four-years-as-headwinds-multiply",
     "published": "Tue, 27 Jan 2026 12:58:54 CST",
-    "summary": "The dollar slid to its weakest level in nearly four years as US policy risks\nand a resurgent yen weigh against the world’s reserve currency.\n\n"
+    "summary": "Traders in the $9.5 trillion-per-day currency markets are wagering on further\nlosses in the dollar as US policy risks and a resurgent yen drag the world’s\nprimary reserve currency to its weakest level in nearly four years.\n\n"
   },
   {
     "title": "At Davos, tech CEOs laid out their vision for AI’s world domination",
@@ -366,6 +348,12 @@
     "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
   },
   {
+    "title": "Natural Gas Returns to Rally, Erases Losses in Volatile Trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-natural-gas-dips-after-surging-almost-30-on-arctic-blast",
+    "published": "Tue, 27 Jan 2026 02:46:07 CST",
+    "summary": "US natural gas rose in thin trading after plunging earlier, extending the past\nweek’s historic rally driven by freezing temperatures that pushed up heating\ndemand across the country and disrupted supplies.\n\n"
+  },
+  {
     "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Freagan-national-airport-crash.html",
     "published": "Tue, 27 Jan 2026 01:33:55 CST",
@@ -390,7 +378,7 @@
     "summary": "Oil rose as US President Donald Trump touted a growing US military presence\nnear Iran, while traders monitored the fallout from a sweeping winter storm\nand a weaker dollar boosted the appeal of commodities.\n\n"
   },
   {
-    "title": "Gold Powers Above $5,000 as Debasement Trade Booms",
+    "title": "Gold Powers Above $5,000 as Debasement Trade Gathers Pace",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgold-extends-gains-above-5-000-as-debasement-trade-gathers-pace",
     "published": "Mon, 26 Jan 2026 23:33:34 CST",
     "summary": "Gold rose, holding above $5,000 an ounce for a second day, as geopolitical\nrisks and a flight from sovereign bonds and currencies extended the metal’s\nrally.\n\n"
@@ -526,6 +514,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
+  },
+  {
+    "title": "Crypto Traders Flee to Prediction Bets After Crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcrypto-traders-flee-to-prediction-bets-after-150-billion-crash",
+    "published": "Mon, 26 Jan 2026 12:00:00 CST",
+    "summary": "Not long ago, Nikshep Saravanan was deep in the crypto trenches -- trading\nmemecoins, reaching out to venture capitalists, and trying to launch a startup\nfor digital creators. By January, he’d dropped it all. These days, he spends\nhours on prediction markets, tracking odds on everything from sports to\npolitics.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -918,6 +912,12 @@
     "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish on Buffett's otherwise storied record.\n\n"
   },
   {
+    "title": "BNY CEO on US Economy, Fed Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbny-mellon-ceo-on-us-economy-fed-independence",
+    "published": "Wed, 21 Jan 2026 16:42:24 CST",
+    "summary": "BNY CEO Robin Vince discusses the resilience of the US economy and Fed\nindependence during an interview with Bloomberg Surveillance at the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
     "published": "Wed, 21 Jan 2026 14:02:02 CST",
@@ -1036,6 +1036,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fsep%2F16%2Fthe-new-norm-sustainable-textiles-lauren-choi",
     "published": "Tue, 16 Sep 2025 13:00:06 CDT",
     "summary": "Lauren Choi wanted to give plastic a second life. Her experiment turned into\nThe New Norm, a sustainable textile startup\n\nIf you’ve been on a college campus in the last 30 years, you’ve likely come\nacross red party cups. Made by brands like Solo and Hefty, the iconic cups are\nbeloved by frats, crucial to drinking games like beer pong – and very\ndifficult to recycle because of the type of plastic they’re made from.\n\nBut Lauren Choi, an engineering student at Johns Hopkins University, saw an\nopportunity: she wanted to turn these problematic cups into fabric. In 2019,\nduring her senior year, she led a team that built an extruder machine that\ncould spin plastic waste into textile filaments. They partnered with campus\nfraternities to gather thousands of red cups that could serve as the raw\nmaterial.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Tracking Every Trump Tariff and Its Economic Effect",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fgraphics%2Ftrump-tariffs-tracker%2F",
+    "published": "Fri, 21 Mar 2025 05:00:41 CDT",
+    "summary": "For the full experience visit: Tracking Every Trump Tariff and Its Economic\nEffect\n\n"
   },
   {
     "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
