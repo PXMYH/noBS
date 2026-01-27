@@ -1,5 +1,53 @@
 [
   {
+    "title": "Spain’s Jobless Rate Drops Below 10% for First Time Since 2008",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fspain-s-jobless-rate-drops-below-10-for-first-time-since-2008",
+    "published": "Tue, 27 Jan 2026 09:39:22 CST",
+    "summary": "Spain’s unemployment rate dipped below 10% at the end of 2025, the lowest\nlevel in almost 18 years.\n\n"
+  },
+  {
+    "title": "Jardine Matheson CEO Discusses Business Strategy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fjardine-matheson-ceo-discusses-business-strategy-video",
+    "published": "Tue, 27 Jan 2026 09:19:46 CST",
+    "summary": "Hong Kong-based investment company Jardine Matheson aims to transition from an\nowner-operator to an active capital manager. The company's new CEO Lincoln Pan\nspoke exclusively with Bloomberg’s David Ingles at the Asian Financial Forum\nin Hong Kong. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Malaysia to Study US Trade Deal But Warns Against Quitting Pact",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysia-to-study-us-trade-deal-but-warns-against-quitting-pact",
+    "published": "Tue, 27 Jan 2026 09:18:18 CST",
+    "summary": "Malaysia’s government plans to do a cost-benefit analysis of its controversial\ntrade agreement with the US, while warning lawmakers they should keep the\naccord despite concerns it may hurt the country.\n\n"
+  },
+  {
+    "title": "Glencore Tops Survey of European Targets as M&amp;A Catches Fire",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fglencore-tops-survey-of-european-targets-as-m-a-catches-fire",
+    "published": "Tue, 27 Jan 2026 09:13:21 CST",
+    "summary": "Glencore Plc tops the list of European companies identified by M&A experts as\npotential takeover targets for 2026 as dealmaking activity roars out of the\ngate this year.\n\n"
+  },
+  {
+    "title": "Breitling CEO Expects Trump to Cut Tariffs for Swiss Watchmakers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbreitling-ceo-expects-trump-to-cut-tariffs-for-swiss-watchmakers",
+    "published": "Tue, 27 Jan 2026 09:10:09 CST",
+    "summary": "Breitling AG’s chief executive officer expects the US to cut tariffs on Swiss\nwatches, underscoring his bullishness on the private equity-backed firm’s\nbiggest market even as Washington keeps the industry guessing.\n\n"
+  },
+  {
+    "title": "Dollar Traders Are Paying a Record to Bet on a Deeper Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-traders-are-paying-a-record-to-bet-on-a-deeper-selloff",
+    "published": "Tue, 27 Jan 2026 09:10:00 CST",
+    "summary": "Dollar traders are paying the most on record to bet on a deeper selloff in the\ngreenback as a volatile US political landscape triggers a rush into bearish\nhedges.\n\n"
+  },
+  {
+    "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
+    "published": "Tue, 27 Jan 2026 09:05:03 CST",
+    "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
+  },
+  {
+    "title": "MUFG Weighs Insurer-Friendly SRT Tied to $2.5 Billion of Loans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmufg-weighs-insurer-friendly-srt-tied-to-2-5-billion-of-loans",
+    "published": "Tue, 27 Jan 2026 08:47:53 CST",
+    "summary": "Mitsubishi UFJ Financial Group Inc. is considering issuing a significant risk\ntransfer that’s designed to appeal to insurance companies, according to people\nfamiliar with the matter.\n\n"
+  },
+  {
     "title": "More Bullish for Investors Than Traders: 3-Minutes MLIV",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fmore-bullish-for-investors-than-traders-3-minutes-mliv-video",
     "published": "Tue, 27 Jan 2026 08:44:31 CST",
@@ -28,12 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgermany-tests-demand-for-new-20-year-bond-in-sale-via-banks",
     "published": "Tue, 27 Jan 2026 08:29:25 CST",
     "summary": "Germany is selling 20-year bonds through banks for the first time ever, a test\nof investor appetite for a sector that has suffered a mixed reception in the\nUS.\n\n"
-  },
-  {
-    "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
-    "published": "Tue, 27 Jan 2026 08:28:58 CST",
-    "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
   },
   {
     "title": "Saudi Arabia-UAE Tensions Put Middle East Businesses on Edge",
@@ -72,48 +114,6 @@
     "summary": "\n\n"
   },
   {
-    "title": "Heyl: Still See Increasing Appetite for Gold as Safe Haven",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fheyl-increasing-appetite-for-gold-as-safe-haven-video",
-    "published": "Tue, 27 Jan 2026 07:15:01 CST",
-    "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak US dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies. Dawid Heyl, Natural Resources\nPortfolio Manager, Ninety One spoke to Bloomberg’s Horizons Middle East and\nAfrica anchor Joumanna Bercetche on the yellow metal rally. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Insight with Haslinda Amin 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsight-with-haslinda-amin-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 07:08:53 CST",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japan’s 40-Year Bond Sale to Test Fragile Debt Market, Weak Yen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-40-year-bond-sale-to-test-fragile-debt-market-weak-yen",
-    "published": "Tue, 27 Jan 2026 07:05:58 CST",
-    "summary": "Investors are on guard for the risk of another meltdown in Japan’s bond market\non Wednesday when the government sells 40-year notes, a tenor that has proved\nvulnerable to sharp swings.\n\n"
-  },
-  {
-    "title": "Ambienta Raises Over €500 Million for European Sustainable Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fambienta-raises-over-500-million-for-european-sustainable-loans",
-    "published": "Tue, 27 Jan 2026 07:00:00 CST",
-    "summary": "Investment firm Ambienta SGR has raised over €500 million ($594 million) for\nits inaugural private credit fund to lend to environmentally sustainable mid-\nmarket companies in Europe, a sign of investor demand even as green finance\nhas fallen lower on the political agenda.\n\n"
-  },
-  {
-    "title": "SoftBank-Backed Analytics Firm Patsnap Weighs Dual Listing in Hong Kong and Singapore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanalytics-firm-patsnap-said-to-weigh-dual-listing-in-hong-kong-and-singapore",
-    "published": "Tue, 27 Jan 2026 06:57:49 CST",
-    "summary": "Patsnap, an intellectual-property data provider, is mulling a dual listing in\nHong Kong and Singapore, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Australia’s Invictus Plunges After Qatari Deal Falls Through",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Faustralia-s-invictus-plunges-after-qatari-deal-falls-through",
-    "published": "Tue, 27 Jan 2026 06:52:56 CST",
-    "summary": "Australian oil and gas explorer Invictus Energy Ltd.’s shares plunged more\nthan half after it failed to reach an agreement on the terms of a deal\nannounced last year with a Qatari investment firm.\n\n"
-  },
-  {
-    "title": "Asian Stocks Shrug Off Trump's Fresh Tariff Threat | The China Show 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-china-show-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 06:47:13 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "Goldman, Morgan Stanley’s South Africa Inflation Call Undercuts Central Bank",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-morgan-stanley-s-south-africa-inflation-call-undercuts-central-bank",
     "published": "Tue, 27 Jan 2026 06:06:29 CST",
@@ -136,6 +136,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrouble-for-cognac-makers-as-sales-go-down-the-drain",
     "published": "Tue, 27 Jan 2026 05:00:06 CST",
     "summary": "Cognac makers are nursing a hangover. After years of strong demand, tariff\ntensions and the sober-curious movement have taken a toll on the industry.\nAngelina Rascouet explains how that could affect the world's largest cognac\nbrand, Hennessy and its parent company LVMH. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Gold Rally Has Room to Run on Dollar Exodus, Amundi Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-policy-threats-fuel-shift-to-gold-from-dollars-amundi-says",
+    "published": "Tue, 27 Jan 2026 04:12:09 CST",
+    "summary": "Gold can keep rallying as increasing US isolation from other nations convinces\nmany investors to cut holdings of dollar assets and switch to bullion,\naccording to Amundi SA.\n\n"
   },
   {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
@@ -198,12 +204,6 @@
     "summary": "Large UK businesses are seeing their profits eroded by policy changes and\nrising geopolitical instability, according to research carried out by\nconsultancy firm EY.\n\n"
   },
   {
-    "title": "Oil Holds Loss on Supply Outlook as Traders Monitor US Freeze",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Flatest-oil-market-news-and-analysis-for-jan-27",
-    "published": "Mon, 26 Jan 2026 23:35:03 CST",
-    "summary": "Oil held a loss as traders focused on the outlook for plentiful supply, while\nmonitoring the fallout from a sweeping US winter storm.\n\n"
-  },
-  {
     "title": "Gold Extends Gains Above $5,000 as Debasement Trade Gathers Pace",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgold-extends-gains-above-5-000-as-debasement-trade-gathers-pace",
     "published": "Mon, 26 Jan 2026 23:33:34 CST",
@@ -219,7 +219,7 @@
     "title": "Stocks Close In on New Highs as Tech Leads Charge: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Global stocks are pressing toward fresh record highs, with technology shares\nleading the advance as the earnings season moves into its busiest phase. Gold\npushed higher while the dollar steadied.\n\n"
+    "summary": "Global stocks are pressing toward fresh highs, with technology shares leading\nthe advance as the earnings season moves into its busiest phase. Gold pushed\nhigher while the dollar steadied.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -238,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
     "published": "Mon, 26 Jan 2026 21:16:38 CST",
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
-  },
-  {
-    "title": "ASX Austraclear Resumes Normal Settlement After Central Bank Fix",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasx-says-austraclear-user-issues-didn-t-impact-internal-systems",
-    "published": "Mon, 26 Jan 2026 21:12:59 CST",
-    "summary": "ASX Ltd. said transactions processed through Austraclear -- a platform for\nwholesale debt securities settlement -- returned to normal after the Reserve\nBank of Australia fixed its payment system.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -346,6 +340,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
+  },
+  {
+    "title": "Fed to Hold Rates as Political Storm Intensifies Around Powell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ffed-to-hold-rates-as-political-storm-intensifies-around-powell",
+    "published": "Mon, 26 Jan 2026 11:00:00 CST",
+    "summary": "The Federal Reserve is widely expected to halt its interest-rate-cutting cycle\nthis week, as a steadier jobs market restores a degree of consensus at the\ncentral bank after months of growing division.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
