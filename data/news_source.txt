@@ -1,15 +1,87 @@
 [
   {
+    "title": "More Bullish for Investors Than Traders: 3-Minutes MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fmore-bullish-for-investors-than-traders-3-minutes-mliv-video",
+    "published": "Tue, 27 Jan 2026 08:44:31 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "ECB Study Finds ‘Pricing Cascades’ Can Cause Inflationary Wave",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecb-study-finds-pricing-cascades-can-cause-inflationary-wave",
+    "published": "Tue, 27 Jan 2026 08:43:26 CST",
+    "summary": "A relatively contained price shock can trigger a massive inflationary episode\nif it hits a closely connected network of firms, according to research by the\nEuropean Central Bank.\n\n"
+  },
+  {
+    "title": "Adani Group, Embraer Enter a Pact to Build Aircraft in India",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadani-group-embraer-enter-a-pact-to-build-aircraft-in-india",
+    "published": "Tue, 27 Jan 2026 08:42:35 CST",
+    "summary": "Billionaire Gautam Adani’s conglomerate and Brazil’s Embraer SA announced a\npartnership to build aircraft in India in what would be the country’s first\nmanufacturing facility in civil aviation.\n\n"
+  },
+  {
+    "title": "Indian Oil to Buy More Brazil Barrels Over Next Two Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Findian-oil-to-buy-more-brazil-barrels-over-next-two-years",
+    "published": "Tue, 27 Jan 2026 08:31:06 CST",
+    "summary": "Indian Oil Corp., the country’s largest refiner, will buy at least 24 million\nbarrels of Brazilian crude this year and next as it continues to diversify\nsupplies, according to an executive at the state-owned firm who asked not to\nbe identified.\n\n"
+  },
+  {
+    "title": "Germany Tests Demand for New 20-Year Bond in Sale Via Banks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgermany-tests-demand-for-new-20-year-bond-in-sale-via-banks",
+    "published": "Tue, 27 Jan 2026 08:29:25 CST",
+    "summary": "Germany is selling 20-year bonds through banks for the first time ever, a test\nof investor appetite for a sector that has suffered a mixed reception in the\nUS.\n\n"
+  },
+  {
     "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
-    "published": "Tue, 27 Jan 2026 07:26:10 CST",
+    "published": "Tue, 27 Jan 2026 08:28:58 CST",
     "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
+  },
+  {
+    "title": "Saudi Arabia-UAE Tensions Put Middle East Businesses on Edge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsaudi-arabia-uae-tensions-put-middle-east-businesses-on-edge",
+    "published": "Tue, 27 Jan 2026 08:23:29 CST",
+    "summary": "Middle East businesses are watching tensions between Saudi Arabia and the\nUnited Arab Emirates with increasing nervousness, concerned it could impact\ncommerce at a time when both nations are emerging as powerhouses of regional\ntrade and finance.\n\n"
+  },
+  {
+    "title": "Horizons Middle East and Africa 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhorizons-middle-east-and-africa-1-27-2025-video",
+    "published": "Tue, 27 Jan 2026 08:16:13 CST",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's\nfastest-growing regions. Live from Dubai, we bring you the latest global\nmarkets and analysis, plus news-making interviews, with a special focus on\nMEA. All that and more, as you head to the office in the Gulf, pause for lunch\nin Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Luxury Investors Eye Tough Earnings Season After Stock Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fluxury-investors-eye-tough-earnings-season-after-stock-selloff",
+    "published": "Tue, 27 Jan 2026 08:15:00 CST",
+    "summary": "If stock prices are any indication, investors are bracing for a rough earnings\nseason for luxury-goods makers.\n\n"
+  },
+  {
+    "title": "Dollar Trade Has Further to Run, Nomura's Bunning Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fdollar-trade-has-further-to-run-nomura-s-bunning-says-video",
+    "published": "Tue, 27 Jan 2026 08:11:13 CST",
+    "summary": "Dominic Bunning, head of G-10 FX strategy at Nomura, discusses the US dollar\nas the theme of possible debasement gains traction among investors. \"What I do\nthink is notable is that, you know, the dollar from a valuation picture is\nstill relatively expensive,\" Bunning tells Bloomberg Television. \"I think this\ntrade does have further to run,\" he adds. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "PwC Said to Resume Work on Pitches to Saudi PIF After Ban Ends",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fpwc-said-to-resume-work-on-pitches-to-saudi-pif-video",
+    "published": "Tue, 27 Jan 2026 07:47:45 CST",
+    "summary": "PwC executives have asked teams to resume pitching for work with Saudi\nArabia’s wealth fund, according to people familiar with matter, as the one-\nyear ban on the consulting firm in an important market comes to an end.\nBloomberg’s Omar el Chmouri speaks with Horizons Middle East and Africa anchor\nJoumanna Bercetche. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "How the Winter Storm Is Affecting Natural Gas Supply (Video)",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhow-the-winter-storm-is-affecting-natural-gas-supply-video",
+    "published": "Tue, 27 Jan 2026 07:40:26 CST",
+    "summary": "\n\n"
   },
   {
     "title": "Heyl: Still See Increasing Appetite for Gold as Safe Haven",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fheyl-increasing-appetite-for-gold-as-safe-haven-video",
     "published": "Tue, 27 Jan 2026 07:15:01 CST",
     "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak US dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies. Dawid Heyl, Natural Resources\nPortfolio Manager, Ninety One spoke to Bloomberg’s Horizons Middle East and\nAfrica anchor Joumanna Bercetche on the yellow metal rally. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Insight with Haslinda Amin 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsight-with-haslinda-amin-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 07:08:53 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Japan’s 40-Year Bond Sale to Test Fragile Debt Market, Weak Yen",
@@ -42,87 +114,15 @@
     "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "FTSE 100 Set to Rise, Pound Holds Near $1.37",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-27%2Fftse-100-live-pound-trump-trade-dollar-gold-yen-what-s-moving-uk-markets-right-now-markets-today",
-    "published": "Tue, 27 Jan 2026 06:41:27 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "Chinese Miners Accelerate Fundraising as Global Deals Loom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchinese-miners-accelerate-fundraising-as-global-deals-loom",
-    "published": "Tue, 27 Jan 2026 06:39:28 CST",
-    "summary": "Barely a month into the new year, Chinese miners have already unveiled plans\nthat would allow them to raise almost a third of the funds they secured during\nthe whole of 2025, as soaring metals prices underline the urgency of boosting\nproduction capacity.\n\n"
-  },
-  {
-    "title": "Subaru to Buy Back Up to $194 Million of Bonds Above Market Price",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsubaru-to-buy-back-up-to-30-billion-of-bonds-above-market-price",
-    "published": "Tue, 27 Jan 2026 06:24:34 CST",
-    "summary": "Subaru Corp. plans to buy back as much as roughly ¥30 billion ($194 million)\nof outstanding corporate bonds to reduce its debt, the company said.\n\n"
-  },
-  {
-    "title": "Evergrande Property Said to Expect Binding Offers by This Month",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fevergrande-property-said-to-expect-binding-offers-by-this-month",
-    "published": "Tue, 27 Jan 2026 06:23:16 CST",
-    "summary": "Liquidators of China Evergrande Group are expected to receive binding offers\nfrom buyers for the firm’s Hong Kong-listed property management unit as soon\nas the end of this month, according to people familiar with the matter.\n\n"
-  },
-  {
     "title": "Goldman, Morgan Stanley’s South Africa Inflation Call Undercuts Central Bank",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-morgan-stanley-s-south-africa-inflation-call-undercuts-central-bank",
     "published": "Tue, 27 Jan 2026 06:06:29 CST",
     "summary": "Goldman Sachs Group Inc. and Morgan Stanley see room for the South African\nReserve Bank to lower its inflation forecast for 2026, as policymakers prepare\nfor their first interest-rate decision of the year later this week.\n\n"
   },
   {
-    "title": "Eataly Chairman Farinetti on Expansion Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Feataly-chairman-farinetti-on-expansion-plans-video",
-    "published": "Tue, 27 Jan 2026 05:54:28 CST",
-    "summary": "Nicola Farinetti, Chairman of Eataly, discusses global expansion plan and\ngrowth strategy. He speaks exclusively with Bloomberg’s David Ingles at the\nAsian Financial Forum in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Honeywell's Maheshwari On India's Trade Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhoneywell-s-maheshwari-on-india-s-trade-deals-video",
-    "published": "Tue, 27 Jan 2026 05:51:16 CST",
-    "summary": "Honeywell President & CEO, Global Regions, Anant Maheshwari discusses the\npotential impact of India's trade deals on Honeywell's businesses. He speaks\nwith Menaka Doshi from the sidelines of India Energy Week 2026. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Silver Caught Between Demand Squeeze and Speculative Turbulence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-rally-fueled-by-broad-demand-and-speculation-refiner",
-    "published": "Tue, 27 Jan 2026 05:36:26 CST",
-    "summary": "Silver’s record-breaking rally is being driven by a collision of unprecedented\nphysical demand and speculative interest in a relatively illiquid market,\naccording to a leading refiner and trader.\n\n"
-  },
-  {
-    "title": "Goldman's CEO Says Washington Is \"Open for Business\"",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-ceo-says-washington-is-open-for-business-video",
-    "published": "Tue, 27 Jan 2026 05:35:44 CST",
-    "summary": "Goldman Sachs' CEO, David Solomon, says the Trump administration is \"open for\nbusiness\" and that the company has a “very, very good” relationship with\nWashington. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Elliott Repeats Call to Resist Toyota Bid to Buy Out Key Unit, Touts Standalone Plan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Felliott-repeats-call-to-resist-toyota-bid-touts-standalone-plan",
-    "published": "Tue, 27 Jan 2026 05:24:27 CST",
-    "summary": "Elliott Investment Management repeated its call for investors to reject the\nToyota group’s bid to buy out a key unit, arguing this month’s sweetened offer\nstill “substantially undervalues” the company and that it can achieve greater\nvalue on its own.\n\n"
-  },
-  {
-    "title": "SK Hynix Shares Hit Record High on Microsoft Supply Deal Report",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsk-hynix-shares-eye-record-high-on-microsoft-supply-deal-report",
-    "published": "Tue, 27 Jan 2026 05:12:46 CST",
-    "summary": "SK Hynix Inc. shares jumped to an all-time high after local media said the\ncompany is the sole supplier of advanced memory for Microsoft Corp.’s new\nartificial intelligence chip.\n\n"
-  },
-  {
-    "title": "Primavera Capital's Zhu on China's Economy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fprimavera-capital-s-zhu-on-china-s-economy-video",
-    "published": "Tue, 27 Jan 2026 05:11:03 CST",
-    "summary": "Ning Zhu, Senior Macro Strategist at Primavera Capital Group and Professor at\nthe Shanghai Advanced Institute of Finance, discusses his outlook for China's\neconomic growth. He speaks with Stephen Engle from the sidelines of the\nGoldman Sachs Global Macro Conference Asia Pacific in Hong Kong. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Japan Needn’t Drive an International Crisis",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-27%2Fjapan-needn-t-drive-an-international-crisis",
-    "published": "Tue, 27 Jan 2026 05:08:10 CST",
-    "summary": "The currency isn’t the sole cause of risks.\n\n"
-  },
-  {
     "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html",
-    "published": "Tue, 27 Jan 2026 05:01:10 CST",
+    "published": "Tue, 27 Jan 2026 05:01:11 CST",
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
   },
   {
@@ -132,28 +132,28 @@
     "summary": "GM plans to record $7.1 billion in special charges for the fourth quarter of\n2025 related to its pullback in electric vehicles and restructuring in China.\n\n"
   },
   {
-    "title": "Thai Finance Ministry Cuts 2025 Growth Estimate to 2.2%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fthailand-s-finance-ministry-cuts-2025-growth-forecast-to-2-2",
-    "published": "Tue, 27 Jan 2026 05:00:19 CST",
-    "summary": "Thailand’s Ministry of Finance revised down its estimate for last year’s\ngrowth and signaled the economy will expand at its slowest pace in three years\nin 2026 as exports and domestic demand moderate.\n\n"
-  },
-  {
-    "title": "Gold Rally Has Room to Run on Exodus From Dollars, Amundi Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-policy-threats-fuel-shift-to-gold-from-dollars-amundi-says",
-    "published": "Tue, 27 Jan 2026 04:12:09 CST",
-    "summary": "Gold can keep rallying as increasing US isolation from other nations convinces\nmany investors to cut holdings of dollar assets and switch to bullion,\naccording to Amundi SA.\n\n"
-  },
-  {
-    "title": "Korean Stocks Charge Ahead as Trump Tariff Threat Fuels Dip Buys",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fkorean-stocks-charge-ahead-as-trump-tariff-threat-fuels-dip-buys",
-    "published": "Tue, 27 Jan 2026 03:33:50 CST",
-    "summary": "South Korean stocks swung to gains, as investors took an early drop on\nPresident Donald Trump’s latest tariff threat as an opportunity to buy in one\nof the world’s hottest markets.\n\n"
+    "title": "Trouble for Cognac Makers as Sales Go Down the Drain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrouble-for-cognac-makers-as-sales-go-down-the-drain",
+    "published": "Tue, 27 Jan 2026 05:00:06 CST",
+    "summary": "Cognac makers are nursing a hangover. After years of strong demand, tariff\ntensions and the sober-curious movement have taken a toll on the industry.\nAngelina Rascouet explains how that could affect the world's largest cognac\nbrand, Hennessy and its parent company LVMH. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-rare-earth-howard-lutnick.html",
     "published": "Tue, 27 Jan 2026 03:26:49 CST",
     "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
+  },
+  {
+    "title": "US Natural Gas Dips After Surging Almost 30% on Arctic Blast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-natural-gas-dips-after-surging-almost-30-on-arctic-blast",
+    "published": "Tue, 27 Jan 2026 02:46:07 CST",
+    "summary": "US natural gas fell as traders took profits after prices shot up nearly 30% on\nMonday amid freezing temperatures that covered vast swathes of the country and\npushed up heating demand.\n\n"
+  },
+  {
+    "title": "Lone Pop Mart Bear Analyst Defies Rally by Cutting Price Target",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flone-pop-mart-bear-analyst-defies-rally-by-cutting-price-target",
+    "published": "Tue, 27 Jan 2026 02:36:06 CST",
+    "summary": "The only analyst with a sell-equivalent rating on Pop Mart International Group\nLtd. has lowered her price target, defying a rally in the stock as a tug-of-\nwar between bulls and bears on the hotly debated Chinese toymaker intensifies.\n\n"
   },
   {
     "title": "China’s Zijin Gold Surges After $4 Billion Africa Mines Deal",
@@ -180,10 +180,22 @@
     "summary": "Dozens of doctors and therapists said chatbots had led their patients to\npsychosis, isolation and unhealthy habits.\n\n"
   },
   {
-    "title": "Pinault Family Sells Puma Stake to China’s Anta for $1.8 Billion",
+    "title": "Canada, India Pledge to Grow Oil, Petroleum Trade in Energy Reset",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcanada-india-pledge-to-grow-oil-petroleum-trade-in-energy-reset",
+    "published": "Tue, 27 Jan 2026 00:34:37 CST",
+    "summary": "Canada and India will pledge to expand trade in oil and gas as the countries\nreboot their relationship after a diplomatic chill.\n\n"
+  },
+  {
+    "title": "Pinaults Sell Puma Stake to China’s Anta for $1.8 Billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanta-sports-to-buy-29-stake-in-puma-for-1-8-billion",
     "published": "Tue, 27 Jan 2026 00:13:29 CST",
-    "summary": "China’s Anta Sports Products Ltd. has agreed to buy a stake of about 29% in\nPuma SE for €1.5 billion ($1.8 billion), becoming the biggest shareholder in\nthe German company and expanding its portfolio of Western athletic brands.\n\n"
+    "summary": "France’s billionaire Pinault family agreed to sell its 29% stake in Puma SE to\nChina’s Anta Sports Products Ltd., paring back its holdings beyond the luxury-\ngoods industry as it focuses on a turnaround at the key Gucci brand.\n\n"
+  },
+  {
+    "title": "UK Firms’ Profits Hit by Policy Changes and Geopolitics",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fuk-firms-profits-hit-by-policy-changes-and-geopolitics-ey-says",
+    "published": "Tue, 27 Jan 2026 00:00:01 CST",
+    "summary": "Large UK businesses are seeing their profits eroded by policy changes and\nrising geopolitical instability, according to research carried out by\nconsultancy firm EY.\n\n"
   },
   {
     "title": "Oil Holds Loss on Supply Outlook as Traders Monitor US Freeze",
@@ -204,16 +216,10 @@
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "Stocks Primed to Extend Rally, Yen Edges Lower: Markets Wrap",
+    "title": "Stocks Close In on New Highs as Tech Leads Charge: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Stocks extended their rally into a fifth session while currencies steadied\nafter a volatile Monday, as markets regained some stability following\nspeculation over possible yen intervention.\n\n"
-  },
-  {
-    "title": "African Nations Sell Eurobonds as Demand for Riskier Assets Jump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcameroon-sells-750-million-dollar-bond-after-benin-deal",
-    "published": "Mon, 26 Jan 2026 22:15:36 CST",
-    "summary": "Cameroon became the second African nation in less than a week to sell dollar\nbonds, as frontier markets take advantage of risk-on sentiment to raise funds.\n\n"
+    "summary": "Global stocks are pressing toward fresh record highs, with technology shares\nleading the advance as the earnings season moves into its busiest phase. Gold\npushed higher while the dollar steadied.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",

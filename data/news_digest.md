@@ -1,12 +1,12 @@
 # NoBS News Digest - January 27, 2026
 
-Generated from **211** unique articles (deduplicated from 211 total) across **1** news sources
+Generated from **212** unique articles (deduplicated from 212 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic pressures dominate global headlines this week. The UK fines Bank of Scotland £160,000 for facilitating banking services for a sanctioned Putin ally, highlighting ongoing enforcement of Western sanctions against Russia. Meanwhile, diplomatic strains between China and Japan escalate as Chinese tourism to Japan plummets following Tokyo’s warning that a Taiwan invasion could trigger Japanese military action. In the U.S., President Trump faces legal challenges to his tariff authority while simultaneously pushing for American investment in Venezuela, despite lingering sanctions that complicate business operations. Domestically, mass protests in Minnesota demand an end to ICE operations, reflecting growing public opposition to immigration enforcement policies. Amid economic instability, Venezuelans increasingly turn to cryptocurrency like USDT as a hedge against political and financial volatility, underscoring the broader trend of digital assets in unstable economies.
+Geopolitical tensions and economic pressures dominate global headlines this week. The UK fines Bank of Scotland £160,000 for facilitating banking services for a sanctioned Putin ally, highlighting ongoing enforcement of Western sanctions against Russia. Meanwhile, diplomatic strains between China and Japan escalate as Chinese tourism to Japan plummets following Tokyo’s warnings about potential military involvement in a Taiwan conflict. In the U.S., President Trump’s aggressive trade policies face legal scrutiny, with courts weighing limits on his tariff authority even as he threatens a new trade war. Domestically, mass protests erupt in Minnesota as tens of thousands demand an end to ICE operations, accusing the agency of constitutional violations. Economically, Venezuela’s instability drives locals to adopt USDT stablecoins as a hedge against inflation and political turmoil, while Trump’s push for U.S. investment in the country clashes with lingering sanctions.
 
 **Top Articles:**
 - [Bank of Scotland fined £160,000 over account for sanctioned Putin ally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fbank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov)
@@ -19,24 +19,39 @@ Geopolitical tensions and economic pressures dominate global headlines this week
 
 ---
 
-## 💻 Technology
+## 💰 Finance, Economics & Business
 
-Tech and AI developments dominate this week’s headlines, with SK Hynix shares surging to a record high after reports it secured a sole-supply deal for Microsoft’s new AI chip. Meanwhile, Nvidia CEO Jensen Huang plans a visit to China as the company faces stalling AI chip sales, while the EU launches an investigation into X over AI-generated explicit content. In corporate news, TikTok updates its U.S. terms following a restructuring, and Paramount strategizes against a potential Warner Bros. Discovery-Netflix merger. Beyond tech, economic concerns loom as record debt in wealthy nations threatens global growth, and Thailand’s finance ministry cuts its 2025 growth estimate to 2.2%. A severe winter storm disrupts U.S. air travel, canceling thousands of flights, while power outages and freezing temperatures persist. Political and regulatory shifts also make waves, with Trump’s economic promises drawing scrutiny and Greenland tourism facing uncertainty amid geopolitical tensions.
+Global markets are navigating a mix of geopolitical tensions, monetary policy shifts, and corporate maneuvering. Gold surges past $5,000 an ounce as investors flee to safe havens amid U.S. dollar weakness and rising geopolitical risks, while oil prices fluctuate on supply concerns and extreme weather. Central banks remain in focus, with the ECB warning of inflationary 'pricing cascades' and Japan testing fragile debt markets with a 40-year bond sale. Corporate activity is brisk, highlighted by Capital One's $5.15 billion acquisition of Brex and Zijin Gold's $4 billion African mines deal, though luxury brands and cognac makers face earnings headwinds. Meanwhile, Trump's tariff threats and policy shifts continue to disrupt trade dynamics, particularly with South Korea and Canada, while businesses in the Middle East grow uneasy over Saudi-UAE tensions.
 
 **Top Articles:**
-- [Chinese Miners Accelerate Fundraising as Global Deals Loom](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchinese-miners-accelerate-fundraising-as-global-deals-loom)
-- [Evergrande Property Said to Expect Binding Offers by This Month](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fevergrande-property-said-to-expect-binding-offers-by-this-month)
-- [Eataly Chairman Farinetti on Expansion Plans](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Feataly-chairman-farinetti-on-expansion-plans-video)
-- [SK Hynix Shares Hit Record High on Microsoft Supply Deal Report](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsk-hynix-shares-eye-record-high-on-microsoft-supply-deal-report)
-- [Record Debt in the World’s Richest Nations Threatens Global Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html)
+- [More Bullish for Investors Than Traders: 3-Minutes MLIV](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fmore-bullish-for-investors-than-traders-3-minutes-mliv-video)
+- [ECB Study Finds ‘Pricing Cascades’ Can Cause Inflationary Wave](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecb-study-finds-pricing-cascades-can-cause-inflationary-wave)
+- [Indian Oil to Buy More Brazil Barrels Over Next Two Years](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Findian-oil-to-buy-more-brazil-barrels-over-next-two-years)
+- [Germany Tests Demand for New 20-Year Bond in Sale Via Banks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgermany-tests-demand-for-new-20-year-bond-in-sale-via-banks)
+- [Saudi Arabia-UAE Tensions Put Middle East Businesses on Edge](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsaudi-arabia-uae-tensions-put-middle-east-businesses-on-edge)
 
-**Sources**: archive.ph (73 articles)
+**Sources**: archive.ph (88 articles)
+
+---
+
+## 💻 Technology
+
+This week's headlines are dominated by a mix of economic uncertainty, tech industry shifts, and geopolitical tensions. A major winter storm disrupts U.S. air travel, canceling thousands of flights and straining infrastructure, while global economic concerns persist as record debt in wealthy nations threatens growth. In tech, the EU launches an investigation into X over AI-generated explicit content, and Nvidia's CEO plans a China visit amid stalled AI chip sales. Meanwhile, TikTok restructures its U.S. operations, and Netflix reports surging ad revenue. Political developments include Trump's evolving economic policies, from limited semiconductor tariffs to potential Fed chair picks, while his Greenland ambitions keep Europe on edge. Corporate moves see Adani Group partnering with Embraer for aircraft manufacturing in India, and the Pinault family selling its Puma stake to China's Anta Sports.
+
+**Top Articles:**
+- [Adani Group, Embraer Enter a Pact to Build Aircraft in India](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadani-group-embraer-enter-a-pact-to-build-aircraft-in-india)
+- [Horizons Middle East and Africa 1/27/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhorizons-middle-east-and-africa-1-27-2025-video)
+- [Record Debt in the World’s Richest Nations Threatens Global Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html)
+- [A Year After DC Plane Crash, Concerns About Airport’s Safety Continue](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Freagan-national-airport-crash.html)
+- [How Bad Are A.I. Delusions? We Asked People Treating Them.](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fchatgpt-delusions-psychosis.html)
+
+**Sources**: archive.ph (71 articles)
 
 ---
 
 ## ⚽ Sports
 
-The Washington Post reverses its initial decision to forgo sending reporters to the Winter Olympics, announcing a small team will cover the games in Italy after all. The abrupt change follows widespread criticism of the paper's earlier plan to skip on-site coverage, highlighting the event's global significance. Meanwhile, in golf, Saudi Arabia-backed LIV Golf continues its partnership with the Trump Organization, scheduling another tournament at a Trump resort in New Jersey. This marks at least the sixth event held at Trump properties since the breakaway league's inception, underscoring the ongoing business ties between the two entities. The move comes as LIV Golf solidifies its presence in the sports landscape, despite lingering controversies surrounding its Saudi funding and alliances.
+The Washington Post reverses its earlier decision to skip in-person coverage of the 2026 Winter Olympics in Italy, announcing it will now send a small team of reporters just weeks before the Games begin. The abrupt shift follows initial plans to forgo on-site reporting, highlighting the evolving priorities in sports journalism. Meanwhile, in golf, Saudi Arabia-backed LIV Golf continues its partnership with the Trump Organization, scheduling another tournament at a Trump-owned resort in New Jersey. This marks at least the sixth event the breakaway league has held at Trump properties in four years, underscoring the ongoing intersection of sports, business, and politics. The move comes as LIV Golf solidifies its presence in the golfing world, despite lingering controversies over its Saudi funding and alliances.
 
 **Top Articles:**
 - [Washington Post Reverses Decision on Olympics Coverage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html)
@@ -49,17 +64,17 @@ The Washington Post reverses its initial decision to forgo sending reporters to 
 
 ## 📰 Other News
 
-Global trade and economic shifts dominate headlines as India and the European Union finalize a landmark trade deal after two decades of negotiations, signaling a major step in strengthening economic ties. Meanwhile, corporate maneuvering takes center stage with China’s Anta Sports acquiring a 29% stake in Puma for $1.8 billion, expanding its footprint in Western athletic brands, while Nike announces 775 layoffs as it accelerates automation in U.S. distribution centers. Economic anxieties persist, with a New York Times/Siena poll revealing growing concerns among voters about the affordability of housing, education, and healthcare, underscoring a broader unease about the middle-class lifestyle slipping out of reach. On the political front, Trump’s administration faces scrutiny over housing policies and IRS reforms, while Elon Musk’s X platform draws EU regulatory attention for its handling of AI-generated deepfakes. A severe winter storm disrupts travel and energy markets, with over 13,000 flights canceled and power grids under strain, highlighting vulnerabilities in infrastructure. Cultural and social trends also emerge, from Netflix’s amended all-cash offer for Warner Bros. Discovery assets to calls for Germany to repatriate its gold reserves from U.S. vaults amid geopolitical tensions.
+A major winter storm continues to disrupt travel and energy markets across the U.S., with over 13,000 flights canceled and natural gas supplies under strain as freezing temperatures threaten power grids. Meanwhile, global trade dynamics shift as India and the European Union finalize a landmark deal after two decades of negotiations, signaling a push for economic cooperation amid geopolitical tensions. On the domestic front, economic anxieties persist, with a New York Times/Siena poll revealing growing concerns about the affordability of housing, education, and healthcare, while the IRS kicks off tax season under new leadership amid ongoing challenges. Corporate America faces scrutiny as Nike announces layoffs tied to automation, and Elon Musk’s X confronts an EU inquiry over AI-generated deepfakes. Cultural and social tensions also emerge, with calls for Germany to repatriate its gold reserves from U.S. vaults amid distrust of Trump’s policies, and a rare public critique of the administration’s immigration stance from JPMorgan CEO Jamie Dimon.
 
 **Top Articles:**
 - [In Trump’s Shadow, India and the European Union Expand Trade Ties](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html)
-- [FTSE 100 Set to Rise, Pound Holds Near $1.37](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-27%2Fftse-100-live-pound-trump-trade-dollar-gold-yen-what-s-moving-uk-markets-right-now-markets-today)
-- [Japan Needn’t Drive an International Crisis](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-27%2Fjapan-needn-t-drive-an-international-crisis)
-- [Pinault Family Sells Puma Stake to China’s Anta for $1.8 Billion](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanta-sports-to-buy-29-stake-in-puma-for-1-8-billion)
+- [How the Winter Storm Is Affecting Natural Gas Supply (Video)](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhow-the-winter-storm-is-affecting-natural-gas-supply-video)
+- [Insight with Haslinda Amin 1/27/2026](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsight-with-haslinda-amin-1-27-2026-video)
+- [Lone Pop Mart Bear Analyst Defies Rally by Cutting Price Target](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flone-pop-mart-bear-analyst-defies-rally-by-cutting-price-target)
 - [Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fnike-to-lay-off-775-employees-at-us-distribution-centers.html)
 
 **Sources**: archive.ph (44 articles)
 
 ---
 
-*Digest generated on January 27, 2026 at 07:50 AM *
+*Digest generated on January 27, 2026 at 08:58 AM *
