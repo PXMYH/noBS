@@ -1,15 +1,69 @@
 [
   {
-    "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
-    "published": "Tue, 27 Jan 2026 22:33:19 CST",
-    "summary": "The dollar dropped about 1.3% on Tuesday.\n\n"
+    "title": "UPS will slash 30,000 jobs as company shifts away from Amazon",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fups-layoffs-amazon%2F",
+    "published": "Tue, 27 Jan 2026 23:33:05 CST",
+    "summary": "The reductions come after the shipping giant eliminated 48,000 positions in\n2025.\n\n"
+  },
+  {
+    "title": "Southwest Begins Assigned Seating, Scrapping a Signature Quirk",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftravel%2Fsouthwest-airlines-assigned-seating.html",
+    "published": "Tue, 27 Jan 2026 23:32:45 CST",
+    "summary": "The airline said its new policy, rolled out on Tuesday, responded to\npassengers’ preferences, but some customers said the scramble was part of the\ncharm.\n\n"
+  },
+  {
+    "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
+    "published": "Tue, 27 Jan 2026 23:30:19 CST",
+    "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally\nprojecting that water use at its data centers will more than double by 2030\nfrom 2020, including in places that face shortages.\n\n"
+  },
+  {
+    "title": "Gold Holds Gains as Trump Comments Add Fuel to Debasement Trade",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgold-holds-gains-as-trump-comments-add-fuel-to-debasement-trade",
+    "published": "Tue, 27 Jan 2026 23:18:31 CST",
+    "summary": "Gold steadied, after seven days of gains fueled by a weaker US dollar and a\nflight from sovereign bonds and currencies.\n\n"
+  },
+  {
+    "title": "Former LVMH Exec Weighs in on Earnings, Luxury Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fformer-lvmh-exec-weighs-in-on-earnings-luxury-outlook-video",
+    "published": "Tue, 27 Jan 2026 23:18:16 CST",
+    "summary": "Pauline Brown, former chair of LVMH North America, discusses LVMH’s outlook\nand the global luxury market with Romaine Bostick and Katie Greifeld on “The\nClose.” She says interest has picked up to levels she hasn’t seen in years,\nbut the key question is whether it converts into sales. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "S&P 500 Hits Record as Dollar Weakens | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fs-p-500-hits-record-as-dollar-weakens-closing-bell-video",
+    "published": "Tue, 27 Jan 2026 23:08:11 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
-    "published": "Tue, 27 Jan 2026 22:29:43 CST",
+    "published": "Tue, 27 Jan 2026 23:01:05 CST",
     "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fmedia%2Fbari-weiss-cbs-news-town-hall.html",
+    "published": "Tue, 27 Jan 2026 22:59:24 CST",
+    "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
+  },
+  {
+    "title": "Asian FX to Benefit Most From Trump on Dollar, Strategists Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fasian-fx-to-benefit-most-from-trump-on-dollar-strategists-say",
+    "published": "Tue, 27 Jan 2026 22:40:17 CST",
+    "summary": "President Donald Trump’s comments that he didn’t think the dollar had weakened\nexcessively have accelerated a debate about a possible concerted move to\ndepreciate the world’s reserve currency.\n\n"
+  },
+  {
+    "title": "Dollar Slumps Ahead of Fed as Stocks, Gold Rally: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 27 Jan 2026 22:36:07 CST",
+    "summary": "The dollar sank to the lowest level in almost four years, reflecting investor\ncaution toward the world’s reserve currency amid unpredictable policymaking\nfrom Washington. The weakness spurred a rally in the yen, gold and US stocks.\n\n"
+  },
+  {
+    "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
+    "published": "Tue, 27 Jan 2026 22:33:19 CST",
+    "summary": "The dollar dropped about 1.3% on Tuesday.\n\n"
   },
   {
     "title": "Safety Board Heaps Blame on F.A.A. Over Potomac Plane-Helicopter Crash",
@@ -90,18 +144,6 @@
     "summary": "The tech giant has spent more than $6 million on TV ads in state capitals and\nWashington, with the message that data centers create jobs.\n\n"
   },
   {
-    "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fmedia%2Fbari-weiss-cbs-news-town-hall.html",
-    "published": "Tue, 27 Jan 2026 21:10:34 CST",
-    "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
-  },
-  {
-    "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
-    "published": "Tue, 27 Jan 2026 21:08:05 CST",
-    "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally\nprojecting that water use at its data centers will more than double by 2030\nfrom 2020, including in places that face shortages.\n\n"
-  },
-  {
     "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
     "published": "Tue, 27 Jan 2026 21:07:50 CST",
@@ -168,16 +210,10 @@
     "summary": "Citadel, the most successful hedge fund in commodity markets, is finally\ntaking a step into industrial metals -- shifting its stance after years of\navoiding the sector as prices from copper to tin hit record highs.\n\n"
   },
   {
-    "title": "Why Modi Signed the ‘Mother of All Deals’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fopinion-why-modi-signed-the-mother-of-all-deals-video",
-    "published": "Tue, 27 Jan 2026 20:02:16 CST",
-    "summary": "Modi may not see eye-to-eye with Europe on everything. But he won’t try to\nhumiliate the continent either, Bloomberg Opinion columnist Mihir Sharma says.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "New York Power Prices Soar With Deeper Chill On the Way",
+    "title": "New York, Baltimore Power Prices Soar on Threat of Deeper Chill",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fnew-york-power-prices-are-soaring-with-deeper-cold-on-the-way",
     "published": "Tue, 27 Jan 2026 19:50:23 CST",
-    "summary": "The record-setting cold gripping major US cities is expected to intensify this\nweekend and push already-soaring power prices to new heights as electricity\ngrids struggle to cope with unprecedented demand.\n\n"
+    "summary": "Power prices in New York City and other major population centers are surging\nto unprecedented heights as a record-setting cold spell threatens to intensify\nin coming days.\n\n"
   },
   {
     "title": "Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about'",
@@ -198,13 +234,7 @@
     "summary": "This week's meeting offers little suspense and probably not much action, even\nas massive changes loom over the Fed's longer-term direction.\n\n"
   },
   {
-    "title": "Citi Sees Bigger Yen Rally Depending on Shift Back to Japan Bonds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fciti-sees-bigger-yen-rally-hanging-on-shift-back-to-japan-bonds",
-    "published": "Tue, 27 Jan 2026 19:24:46 CST",
-    "summary": "The yen’s strongest three-day rally since August 2024 isn’t enough to turn\nCitigroup Inc. strategist Daniel Tobon into a yen bull just yet. To keep the\ngains going, he said, Japanese buyers will need to start shifting cash back to\nthe nation’s bond market again.\n\n"
-  },
-  {
-    "title": "BlackRock Cuts Private Credit Executives Hired Before HPS Deal",
+    "title": "BlackRock Cuts Private Credit Executives Hired Pre-HPS Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fblackrock-cuts-private-credit-executives-hired-before-hps-deal",
     "published": "Tue, 27 Jan 2026 19:24:08 CST",
     "summary": "BlackRock Inc. is cutting about 10 people from its private financing solutions\ngroup as it continues to integrate its $12 billion acquisition of HPS\nInvestment Partners.\n\n"
@@ -220,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
     "published": "Tue, 27 Jan 2026 18:44:42 CST",
     "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in\ntariff costs last year, despite the levies not being in effect for all of\n2025.\n\n"
-  },
-  {
-    "title": "UPS will slash 30,000 jobs amid ongoing split with Amazon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fups-layoffs-amazon%2F",
-    "published": "Tue, 27 Jan 2026 18:06:50 CST",
-    "summary": "The move comes after after the shipping giant eliminated 48,000 positions in\n2025.\n\n"
   },
   {
     "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
@@ -262,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Funitedhealth-group-unh-earnings-q4-2025.html",
     "published": "Tue, 27 Jan 2026 16:51:55 CST",
     "summary": "UnitedHealth expects 2026 revenue to come in greater than $439 billion, which\nis a 2% year-over-year decline that reflects \"right-sizing across the\nenterprise.\"\n\n"
-  },
-  {
-    "title": "NextEra Offers Nuclear Power Amid Hot Demand From Tech Firms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fnextera-offers-nuclear-power-amid-red-hot-demand-from-tech-firms",
-    "published": "Tue, 27 Jan 2026 16:28:13 CST",
-    "summary": "NextEra Energy Inc. is offering large amounts of power for sale from its\nnuclear plants in Wisconsin and New Hampshire, as major technology companies\nrace to secure nuclear energy for artificial-intelligence data centers.\n\n"
   },
   {
     "title": "Medicare Rates Shock Sparks $100 Billion Selloff in Insurers",
@@ -336,12 +354,6 @@
     "summary": "“The Outsiders” is the first new musical to open since 2022 to become\nprofitable.\n\n"
   },
   {
-    "title": "Dollar’s ‘Relentless’ Slide Has Traders Bracing for More Pain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-sinks-to-lowest-level-in-four-years-as-headwinds-multiply",
-    "published": "Tue, 27 Jan 2026 12:58:54 CST",
-    "summary": "Traders in the $9.5 trillion-per-day currency markets are wagering on further\nlosses in the dollar as US policy risks and a resurgent yen drag the world’s\nprimary reserve currency to its weakest level in nearly four years.\n\n"
-  },
-  {
     "title": "At Davos, tech CEOs laid out their vision for AI’s world domination",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F27%2Ftech-ceos-ai-world-domination-davos",
     "published": "Tue, 27 Jan 2026 12:57:48 CST",
@@ -376,6 +388,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
     "published": "Tue, 27 Jan 2026 09:05:04 CST",
     "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
+  },
+  {
+    "title": "Japan’s 40-Year Bond Sale to Test Fragile Debt Market, Weak Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-40-year-bond-sale-to-test-fragile-debt-market-weak-yen",
+    "published": "Tue, 27 Jan 2026 07:05:58 CST",
+    "summary": "Investors are on guard for the risk of another meltdown in Japan’s bond market\non Wednesday when the government sells 40-year notes, a tenor that has proved\nvulnerable to sharp swings.\n\n"
   },
   {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
@@ -750,12 +768,6 @@
     "summary": "Dropping rates more than conditions warrant would stimulate the economy in the\nshort term but could lead to trouble, our columnist says.\n\n"
   },
   {
-    "title": "What to Know About New Rules for 401(k) ‘Catch-Up’ Contributions in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fyour-money%2F401k-contributions-catch-up-roth-retirement.html",
-    "published": "Fri, 23 Jan 2026 14:00:06 CST",
-    "summary": "Older high-income workers who make contributions beyond the standard amount\nwill have to put that extra money into a Roth 401(k). That may lower their\ntake-home pay.\n\n"
-  },
-  {
     "title": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwealth-client-prospecting-ria-ai.html",
     "published": "Fri, 23 Jan 2026 13:21:05 CST",
@@ -930,12 +942,6 @@
     "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish on Buffett's otherwise storied record.\n\n"
   },
   {
-    "title": "BNY CEO on US Economy, Fed Independence",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-21%2Fbny-mellon-ceo-on-us-economy-fed-independence",
-    "published": "Wed, 21 Jan 2026 16:42:24 CST",
-    "summary": "BNY CEO Robin Vince discusses the resilience of the US economy and Fed\nindependence during an interview with Bloomberg Surveillance at the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
     "published": "Wed, 21 Jan 2026 13:04:03 CST",
@@ -1036,12 +1042,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2025%2Fsep%2F16%2Fthe-new-norm-sustainable-textiles-lauren-choi",
     "published": "Tue, 16 Sep 2025 13:00:06 CDT",
     "summary": "Lauren Choi wanted to give plastic a second life. Her experiment turned into\nThe New Norm, a sustainable textile startup\n\nIf you’ve been on a college campus in the last 30 years, you’ve likely come\nacross red party cups. Made by brands like Solo and Hefty, the iconic cups are\nbeloved by frats, crucial to drinking games like beer pong – and very\ndifficult to recycle because of the type of plastic they’re made from.\n\nBut Lauren Choi, an engineering student at Johns Hopkins University, saw an\nopportunity: she wanted to turn these problematic cups into fabric. In 2019,\nduring her senior year, she led a team that built an extruder machine that\ncould spin plastic waste into textile filaments. They partnered with campus\nfraternities to gather thousands of red cups that could serve as the raw\nmaterial.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Tracking Every Trump Tariff and Its Economic Effect",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fgraphics%2Ftrump-tariffs-tracker%2F",
-    "published": "Fri, 21 Mar 2025 05:00:41 CDT",
-    "summary": "For the full experience visit: Tracking Every Trump Tariff and Its Economic\nEffect\n\n"
   },
   {
     "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
