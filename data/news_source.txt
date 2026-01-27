@@ -1,5 +1,71 @@
 [
   {
+    "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fups-jobs-layoffs-2026.html",
+    "published": "Tue, 27 Jan 2026 21:36:12 CST",
+    "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
+  },
+  {
+    "title": "Meta Campaigns to Change Opinions on Data Centers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmeta-data-center-ads.html",
+    "published": "Tue, 27 Jan 2026 21:23:06 CST",
+    "summary": "The tech giant has spent more than $6 million on TV ads in state capitals and\nWashington, with the message that data centers create jobs.\n\n"
+  },
+  {
+    "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fmedia%2Fbari-weiss-cbs-news-town-hall.html",
+    "published": "Tue, 27 Jan 2026 21:10:34 CST",
+    "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
+  },
+  {
+    "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
+    "published": "Tue, 27 Jan 2026 21:08:05 CST",
+    "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally\nprojecting that water use at its data centers will more than double by 2030\nfrom 2020, including in places that face shortages.\n\n"
+  },
+  {
+    "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
+    "published": "Tue, 27 Jan 2026 21:07:50 CST",
+    "summary": "GM recorded $7.2 billion in special charges for the fourth quarter of 2025,\nlargely related to its pullback in electric vehicles and restructuring in\nChina.\n\n"
+  },
+  {
+    "title": "American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
+    "published": "Tue, 27 Jan 2026 21:06:04 CST",
+    "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
+  },
+  {
+    "title": "Stablecoins Are $500 Billion Risk to Bank Deposits, Report Finds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstablecoins-are-500-billion-risk-to-bank-deposits-report-finds",
+    "published": "Tue, 27 Jan 2026 21:01:54 CST",
+    "summary": "As stablecoins gain traction, US banks are at risk of their deposits being\nsiphoned over to the digital asset realm, according to Standard Chartered\nBank.\n\n"
+  },
+  {
+    "title": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
+    "published": "Tue, 27 Jan 2026 21:00:26 CST",
+    "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
+  },
+  {
+    "title": "Trump Says He’s Not Concerned With Decline of US Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftrump-says-he-s-not-concerned-with-decline-of-us-dollar",
+    "published": "Tue, 27 Jan 2026 20:58:31 CST",
+    "summary": "The dollar extended its slide, staging the biggest one-day drop since April,\nafter President Donald Trump said he didn’t think the currency had weakened\nexcessively.\n\n"
+  },
+  {
+    "title": "What investors piling into gold and silver can learn from King Henry VIII",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fwhat-investors-piling-into-gold-can-learn-from-king-henry-viii.html",
+    "published": "Tue, 27 Jan 2026 20:57:10 CST",
+    "summary": "A Deutsche Bank analyst argues those betting on the “debasement trade” may be\noperating from a faulty premise.\n\n"
+  },
+  {
+    "title": "Bloomberg Markets 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fbloomberg-markets-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 20:44:51 CST",
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today on the show Citi\nResearch Global Chief Economist Nathan Sheets. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fhomebuyers-backing-out-of-deals.html",
     "published": "Tue, 27 Jan 2026 20:28:11 CST",
@@ -18,12 +84,6 @@
     "summary": "On today’s Big Take Asia podcast, how a crash in Japan’s bond market sent\nshockwaves through global markets and what to expect next.\n\n"
   },
   {
-    "title": "What investors piling into gold and silver can learn from King Henry VIII",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fwhat-investors-piling-into-gold-can-learn-from-king-henry-viii.html",
-    "published": "Tue, 27 Jan 2026 20:04:17 CST",
-    "summary": "A Deutsche Bank analyst argues those betting on the “debasement trade” may be\noperating from a faulty premise.\n\n"
-  },
-  {
     "title": "Citadel Joins Trading Rush Into Metals as Prices Soar to Records",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcitadel-joins-trading-rush-into-metals-as-prices-soar-to-records",
     "published": "Tue, 27 Jan 2026 20:03:09 CST",
@@ -36,13 +96,7 @@
     "summary": "Modi may not see eye-to-eye with Europe on everything. But he won’t try to\nhumiliate the continent either, Bloomberg Opinion columnist Mihir Sharma says.\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
-    "published": "Tue, 27 Jan 2026 19:53:03 CST",
-    "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
-  },
-  {
-    "title": "New York Power Prices Are Soaring With Deeper Cold On the Way",
+    "title": "New York Power Prices Soar With Deeper Chill On the Way",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fnew-york-power-prices-are-soaring-with-deeper-cold-on-the-way",
     "published": "Tue, 27 Jan 2026 19:50:23 CST",
     "summary": "The record-setting cold gripping major US cities is expected to intensify this\nweekend and push already-soaring power prices to new heights as electricity\ngrids struggle to cope with unprecedented demand.\n\n"
@@ -88,12 +142,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fhealth-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
     "published": "Tue, 27 Jan 2026 19:13:15 CST",
     "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth\nGroup plunged in extended trading.\n\n"
-  },
-  {
-    "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fups-jobs-layoffs-2026.html",
-    "published": "Tue, 27 Jan 2026 19:01:32 CST",
-    "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
   },
   {
     "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
@@ -180,34 +228,10 @@
     "summary": "UPS announced it will eliminate an additional 30,000 jobs as it winds down its\npartnership with Amazon.\n\n"
   },
   {
-    "title": "Colombia Government Adds to Dollar Holdings, Pressuring the Peso",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcolombia-government-adds-to-dollar-holdings-pressuring-the-peso",
-    "published": "Tue, 27 Jan 2026 16:52:27 CST",
-    "summary": "Colombia’s finance ministry has stepped up dollar purchases in the spot market\nsince Friday, after the peso hit is strongest level in almost five years.\n\n"
-  },
-  {
     "title": "UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Funitedhealth-group-unh-earnings-q4-2025.html",
     "published": "Tue, 27 Jan 2026 16:51:55 CST",
     "summary": "UnitedHealth expects 2026 revenue to come in greater than $439 billion, which\nis a 2% year-over-year decline that reflects \"right-sizing across the\nenterprise.\"\n\n"
-  },
-  {
-    "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
-    "published": "Tue, 27 Jan 2026 16:50:48 CST",
-    "summary": "GM recorded $7.2 billion in special charges for the fourth quarter of 2025,\nlargely related to its pullback in electric vehicles and restructuring in\nChina.\n\n"
-  },
-  {
-    "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
-    "published": "Tue, 27 Jan 2026 16:29:55 CST",
-    "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally\nprojecting that water use at its data centers will more than double by 2030\nfrom 2020, including in places that face shortages.\n\n"
-  },
-  {
-    "title": "Meta Campaigns to Change Opinions on Data Centers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmeta-data-center-ads.html",
-    "published": "Tue, 27 Jan 2026 16:29:25 CST",
-    "summary": "The tech giant has spent more than $6 million on TV ads in state capitals and\nWashington, with the message that data centers create jobs.\n\n"
   },
   {
     "title": "NextEra Offers Nuclear Power Amid Hot Demand From Tech Firms",
@@ -228,12 +252,6 @@
     "summary": "Kit Juckes, Chief FX Strategist at Societe Generale, discusses the balance\nbetween US political pressure and Japan’s fiscal constraints. He expects a\nweaker dollar through the first half of this year. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "UnitedHealth Shares Fall on Weak Revenue Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsurers-slide-on-medicare-proposal-video",
-    "published": "Tue, 27 Jan 2026 16:11:43 CST",
-    "summary": "UnitedHealth is forecasting its first revenue decline in more than 30 years.\nNow its peers are sliding too, after the Trump administration proposed to keep\nprivate Medicare payments flat. Bloomberg’s Ike Swetlitz joined Bloomberg Open\nInterest to talk about what it means for insurers--and patients. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "UPS says it would cut up to 30,000 jobs this year as it aims to boost turnaround",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F27%2Fups-job-cuts-layoffs",
     "published": "Tue, 27 Jan 2026 16:11:15 CST",
@@ -250,12 +268,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fgeneral-motors-earnings.html",
     "published": "Tue, 27 Jan 2026 15:22:38 CST",
     "summary": "The automaker said that it would buy back stock worth up to $6 billion and\nthat it expected profit to rise this year after it pulled back from electric\nvehicle production.\n\n"
-  },
-  {
-    "title": "Ex-Nigerian Oil Minister Given £2 Million in Harrods Gifts, Bribery Jury Told",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fex-opec-president-accused-of-bribery-stands-trial-in-london",
-    "published": "Tue, 27 Jan 2026 15:14:45 CST",
-    "summary": "Diezani Alison-Madueke accepted cash bribes and “vast quantities” of luxury\nperks in exchange for handing over lucrative government contracts when she\nserved as Nigerian oil minister, prosecutors said on the first day of a London\ntrial.\n\n"
   },
   {
     "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts",
@@ -276,10 +288,10 @@
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
   },
   {
-    "title": "S&amp;P 500 Nears Record on Technology Gains Ahead of Fed Meeting",
+    "title": "S&amp;P 500 Hits Record on Technology Gains Ahead of Fed Meeting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fs-p-500-nears-record-on-technology-gains-ahead-of-fed-meeting",
     "published": "Tue, 27 Jan 2026 14:32:56 CST",
-    "summary": "US equities advanced Tuesday, pushing back toward record levels as technology\nstocks climbed ahead of key earnings reports and the Federal Reserve’s\ninterest-rate decision later this week.\n\n"
+    "summary": "Gains in technology stocks helped push the S&P 500 Index to its first record\nin more than two weeks ahead of the Federal Reserve’s interest-rate decision\non Wednesday.\n\n"
   },
   {
     "title": "FedEx Freight Sells $3.7 Billion of Bonds Ahead of Spinoff",
@@ -300,12 +312,6 @@
     "summary": "“The Outsiders” is the first new musical to open since 2022 to become\nprofitable.\n\n"
   },
   {
-    "title": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
-    "published": "Tue, 27 Jan 2026 13:01:45 CST",
-    "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
-  },
-  {
     "title": "Dollar’s ‘Relentless’ Slide Has Traders Bracing for More Pain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-sinks-to-lowest-level-in-four-years-as-headwinds-multiply",
     "published": "Tue, 27 Jan 2026 12:58:54 CST",
@@ -324,16 +330,16 @@
     "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
   },
   {
+    "title": "Tesla’s Price Targets Rise Even as Its Profit Outlook Tanks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftesla-s-price-target-is-rising-even-as-its-profit-outlook-tanks",
+    "published": "Tue, 27 Jan 2026 11:27:16 CST",
+    "summary": "Wall Street is giving off mixed signals about Tesla Inc. Analysts are\nincreasingly skeptical of the electric-vehicle maker’s earnings potential this\nyear, but their expectations for the company’s stock price keep climbing.\n\n"
+  },
+  {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
     "published": "Tue, 27 Jan 2026 10:53:45 CST",
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
-  },
-  {
-    "title": "China Turns to Cheaper Brazil Soybeans After Meeting US Pledge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-turns-to-cheaper-brazil-soybeans-after-meeting-us-pledge",
-    "published": "Tue, 27 Jan 2026 10:02:10 CST",
-    "summary": "China, the world’s largest soybean importer, has ramped up orders for\nBrazilian cargoes of the oilseed after meeting an initial shipment volume from\nthe US as part of a trade truce with Washington.\n\n"
   },
   {
     "title": "The ‘one-legged stools’ holding up a fragile economy",
@@ -384,10 +390,10 @@
     "summary": "Oil rose to the highest since October as US President Donald Trump touted a\ngrowing US military presence near Iran, while traders monitored the fallout\nfrom a sweeping winter storm and a weaker dollar boosted the appeal of\ncommodities.\n\n"
   },
   {
-    "title": "Gold Powers Above $5,000 as Debasement Trade Gathers Pace",
+    "title": "Gold Climbs to Record Over $5,100 as Debasement Trade Picks Up",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgold-extends-gains-above-5-000-as-debasement-trade-gathers-pace",
     "published": "Mon, 26 Jan 2026 23:33:34 CST",
-    "summary": "Gold rose, holding above $5,000 an ounce for a second day, as geopolitical\nrisks and a flight from sovereign bonds and currencies extended the metal’s\nrally.\n\n"
+    "summary": "Gold climbed to a fresh record above $5,100 an ounce as geopolitical risks and\na flight from sovereign bonds and currencies extended the metal’s rally.\n\n"
   },
   {
     "title": "Why gold and silver prices are surging at breakneck speeds",
@@ -396,10 +402,10 @@
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "S&amp;P 500 Closes In on Record as Dollar Rout Deepens: Markets Wrap",
+    "title": "S&amp;P 500 Hits Record High as Dollar Selloff Deepens: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Wall Street traders sent stocks toward all-time highs on speculation that\nsolid corporate earnings will keep powering market gains. The dollar slid to\nan almost four-year low. Gold held above $5,000.\n\n"
+    "summary": "Wall Street traders sent stocks to all-time highs on speculation that solid\ncorporate earnings will keep powering market gains. The dollar slid to an\nalmost four-year low. Gold held above $5,000.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -420,7 +426,7 @@
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
   },
   {
-    "title": "Insurers Fall as Era of Government-Backed Growth Grinds to Halt",
+    "title": "Health Insurers Fall as Government-Backed Growth Grinds to Halt",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat",
     "published": "Mon, 26 Jan 2026 21:15:23 CST",
     "summary": "US health insurers that provide government insurance to the elderly rallied\nwhen Donald Trump was elected, with Wall Street cheering an administration it\nbelieved would boost business. It hasn’t.\n\n"
@@ -748,12 +754,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fc-pace-cre-lending-record-deals.html",
     "published": "Fri, 23 Jan 2026 13:18:29 CST",
     "summary": "C-PACE stands for commercial property assessed clean energy and is a type of\nfinancing that differs from a traditional bank loan. It's seeing explosive\ngrowth.\n\n"
-  },
-  {
-    "title": "The Message Behind Trump’s Lawsuit Against JPMorgan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fdealbook%2Ftrump-lawsuit-jpmorgan-dimon.html",
-    "published": "Fri, 23 Jan 2026 13:16:30 CST",
-    "summary": "The president’s legal efforts against the Wall Street giant and Jamie Dimon,\nits chief executive, have put Corporate America on edge.\n\n"
   },
   {
     "title": "Disaster averted at Davos but world ever vulnerable to capricious Trump’s whims",
