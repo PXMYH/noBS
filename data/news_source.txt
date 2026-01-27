@@ -1,5 +1,71 @@
 [
   {
+    "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2F27biz-ups-layoffs.html",
+    "published": "Tue, 27 Jan 2026 17:50:14 CST",
+    "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
+  },
+  {
+    "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
+    "published": "Tue, 27 Jan 2026 17:36:54 CST",
+    "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in\ntariff costs last year, despite the levies not being in effect for all of\n2025.\n\n"
+  },
+  {
+    "title": "US Natural Gas Falls After Record as Silver Rallies on China Buying, Supply Tightness",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-natural-gas-falls-after-record-as-silver-rallies-video",
+    "published": "Tue, 27 Jan 2026 17:31:55 CST",
+    "summary": "Silver’s record-breaking rally is being supported by swelling physical demand\ncombined with speculative interest in a relatively illiquid market, with signs\nthat buyers in China are leading the drive. US natural gas declined in thin\ntrading as forecasts shifted warmer, partly retreating from the past week’s\nhistoric rally as freezing temperatures pushed up heating demand across the\ncountry and disrupted supplies. Bloomberg's Mike McGlone joins to discuss on\nBloomberg Intelligence. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fchicago-united-center-thc-beverages-concessions.html",
+    "published": "Tue, 27 Jan 2026 17:30:32 CST",
+    "summary": "United Center will sell THC drinks at concerts, marking a first for U.S.\narenas amid rising demand and ongoing federal uncertainty over hemp THC rules.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Humana, Corning, General Motors, Boeing & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-premarket-hum-unh-gm.html",
+    "published": "Tue, 27 Jan 2026 17:28:28 CST",
+    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves midday: Amazon, Reddit, Pinterest, Sysco & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-midday-amzn-rddt-pins-syy.html",
+    "published": "Tue, 27 Jan 2026 17:21:32 CST",
+    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
+  },
+  {
+    "title": "OpenAI’s Altman and More C.E.O.s Weigh In on Minnesota",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fdealbook%2Faltman-openai-minnesota.html",
+    "published": "Tue, 27 Jan 2026 17:16:44 CST",
+    "summary": "The tech C.E.O. is the latest business leader to speak out about the\nimmigration crackdown and the fatal shooting of two U.S. citizens.\n\n"
+  },
+  {
+    "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fhealth-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
+    "published": "Tue, 27 Jan 2026 17:14:37 CST",
+    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth\nGroup plunged in extended trading.\n\n"
+  },
+  {
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 17:06:09 CST",
+    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "UPS to cut additional 30,000 jobs in Amazon unwind, turnaround plan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fups-job-cuts-amazon-unwind-turnaround-plan.html",
+    "published": "Tue, 27 Jan 2026 16:59:23 CST",
+    "summary": "UPS announced it will eliminate an additional 30,000 jobs as it winds down its\npartnership with Amazon.\n\n"
+  },
+  {
+    "title": "Colombia Government Adds to Dollar Holdings, Pressuring the Peso",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcolombia-government-adds-to-dollar-holdings-pressuring-the-peso",
+    "published": "Tue, 27 Jan 2026 16:52:27 CST",
+    "summary": "Colombia’s finance ministry has stepped up dollar purchases in the spot market\nsince Friday, after the peso hit is strongest level in almost five years.\n\n"
+  },
+  {
     "title": "UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Funitedhealth-group-unh-earnings-q4-2025.html",
     "published": "Tue, 27 Jan 2026 16:51:55 CST",
@@ -18,15 +84,9 @@
     "summary": "GM recorded $7.2 billion in special charges for the fourth quarter of 2025,\nlargely related to its pullback in electric vehicles and restructuring in\nChina.\n\n"
   },
   {
-    "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
-    "published": "Tue, 27 Jan 2026 16:49:53 CST",
-    "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in\ntariff costs last year, despite the levies not being in effect for all of\n2025.\n\n"
-  },
-  {
     "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
-    "published": "Tue, 27 Jan 2026 16:29:54 CST",
+    "published": "Tue, 27 Jan 2026 16:29:55 CST",
     "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally\nprojecting that water use at its data centers will more than double by 2030\nfrom 2020, including in places that face shortages.\n\n"
   },
   {
@@ -60,10 +120,10 @@
     "summary": "American Airlines is sounding bullish, forecasting strong earnings, record\nrevenue, and big premium upgrades. But storms, shutdowns, and missed estimates\ntell a more complicated story. TD Cowen Airlines Analyst Tom Fitzgerald joined\n\"Bloomberg Open Interest\" to talk about the results. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "UPS to cut additional 30,000 jobs in Amazon unwind, turnaround plan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fups-job-cuts-amazon-unwind-turnaround-plan.html",
-    "published": "Tue, 27 Jan 2026 16:13:20 CST",
-    "summary": "UPS announced it will eliminate an additional 30,000 jobs as it winds down its\npartnership with Amazon.\n\n"
+    "title": "Dollar Breaks From Rates as Yen Shock Triggers Capitulation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fyen-shock-triggers-capitulation-video",
+    "published": "Tue, 27 Jan 2026 16:14:08 CST",
+    "summary": "Kit Juckes, Chief FX Strategist at Societe Generale, discusses the balance\nbetween US political pressure and Japan’s fiscal constraints. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "Medicare Rates Shock Spurs $90 Billion Rout in Insurance Stocks",
@@ -72,16 +132,10 @@
     "summary": "The selloff in health insurers that provide Medicare Advantage plans wiped out\nmore than $90 billion in stock-market value as investors fled from the once-\ndefensive sector.\n\n"
   },
   {
-    "title": "Insurers Slide on Medicare Proposal",
+    "title": "UnitedHealth Shares Fall on Weak Revenue Outlook",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsurers-slide-on-medicare-proposal-video",
     "published": "Tue, 27 Jan 2026 16:11:43 CST",
-    "summary": "UnitedHealth is forecasting its first revenue decline in more than 30 years.\nNow its peers are sliding too, after Washington moves to keep private Medicare\npayments flat. Bloomberg’s Ike Swetlitz joined Bloomberg Open Interest to talk\nabout what it means for insurers--and patients. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
-    "published": "Tue, 27 Jan 2026 16:10:53 CST",
-    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+    "summary": "UnitedHealth is forecasting its first revenue decline in more than 30 years.\nNow its peers are sliding too, after the Trump administration proposed to keep\nprivate Medicare payments flat. Bloomberg’s Ike Swetlitz joined Bloomberg Open\nInterest to talk about what it means for insurers--and patients. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "EU-India deal ‘accelerated’ over past six months amid Trump’s tariff threats – Europe live",
@@ -138,13 +192,7 @@
     "summary": "Angola plans a $1.4 billion debt-for-health swap this year, the finance\nministry said in a borrowing plan.\n\n"
   },
   {
-    "title": "OpenAI’s Altman and More C.E.O.s Weigh In on Minnesota",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fdealbook%2Faltman-openai-minnesota.html",
-    "published": "Tue, 27 Jan 2026 15:16:40 CST",
-    "summary": "The tech C.E.O. is the latest business leader to speak out about the\nimmigration crackdown and the fatal shooting of two U.S. citizens.\n\n"
-  },
-  {
-    "title": "Ex-OPEC President Accused of Bribery Stands Trial in London",
+    "title": "Ex-Nigerian Oil Minister Given £2 Million in Harrods Gifts, Bribery Jury Told",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fex-opec-president-accused-of-bribery-stands-trial-in-london",
     "published": "Tue, 27 Jan 2026 15:14:45 CST",
     "summary": "Diezani Alison-Madueke accepted cash bribes and “vast quantities” of luxury\nperks in exchange for handing over lucrative government contracts when she\nserved as Nigerian oil minister, prosecutors said on the first day of a London\ntrial.\n\n"
@@ -168,12 +216,6 @@
     "summary": "Boeing's aircraft deliveries have surged over the past year as the\nmanufacturer expects to continue to increase production.\n\n"
   },
   {
-    "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fhealth-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
-    "published": "Tue, 27 Jan 2026 15:01:16 CST",
-    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth\nGroup plunged in extended trading.\n\n"
-  },
-  {
     "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Ffed-rate-decision-outlook.html",
     "published": "Tue, 27 Jan 2026 14:55:58 CST",
@@ -192,34 +234,10 @@
     "summary": "Boeing continued its recovery during the final three months of 2025,\ngenerating cash for a second straight quarter and reporting a 57% bump in\nsales. Brooke Sutherland reports on Bloomberg Television. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Codelco Returns to Global Debt Market as Copper Prices Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcodelco-returns-to-global-debt-market-as-copper-prices-rally",
-    "published": "Tue, 27 Jan 2026 14:41:38 CST",
-    "summary": "Codelco is tapping global bond markets for the first time this year as copper\nprices reach record highs.\n\n"
-  },
-  {
-    "title": "Fidelity Contrafund Legend Danoff to Retire After 10,500% Run",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffidelity-contrafund-legend-danoff-to-retire-after-10-500-run",
-    "published": "Tue, 27 Jan 2026 14:37:16 CST",
-    "summary": "Will Danoff, the world’s most prolific solo stock-picker who generated world-\nbeating returns during a run of more than three decades atop the Fidelity\nContrafund, is set to retire at year-end.\n\n"
-  },
-  {
     "title": "She’s the Face of Trump’s Aviation Safety Board, and She’s a Democrat",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fjennifer-homendy-trump-transportation-safety-board.html",
     "published": "Tue, 27 Jan 2026 14:35:53 CST",
     "summary": "Jennifer Homendy, the outspoken chairwoman of the National Transportation\nSafety Board, is reclaiming the spotlight at a meeting on Tuesday about the\nWashington, D.C., crash that killed 67.\n\n"
-  },
-  {
-    "title": "Investors Bet Sheinbaum Can Shield Mexican Peso From Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Finvestors-bet-sheinbaum-can-shield-mexican-peso-from-trump",
-    "published": "Tue, 27 Jan 2026 14:35:21 CST",
-    "summary": "Investors are betting President Claudia Sheinbaum’s ability to defuse disputes\nwith Donald Trump will help extend one of the best currency rallies in\nemerging markets this year.\n\n"
-  },
-  {
-    "title": "Russian Oil Backed Up at Sea After India’s Refiners Step Away",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Frussia-oil-exports-get-stuck-at-sea-amid-pullback-by-indian-refiners",
-    "published": "Tue, 27 Jan 2026 14:34:59 CST",
-    "summary": "About 60 million barrels has been added to Russian crude at sea since August\n\n"
   },
   {
     "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
@@ -228,28 +246,22 @@
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
   },
   {
-    "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fchicago-united-center-thc-beverages-concessions.html",
-    "published": "Tue, 27 Jan 2026 14:33:14 CST",
-    "summary": "United Center will sell THC drinks at concerts, marking a U.S. arena first\namid rising demand and ongoing federal uncertainty over hemp THC rules.\n\n"
-  },
-  {
     "title": "S&amp;P 500 Nears Record on Technology Gains Ahead of Fed Meeting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fs-p-500-nears-record-on-technology-gains-ahead-of-fed-meeting",
     "published": "Tue, 27 Jan 2026 14:32:56 CST",
     "summary": "US equities advanced Tuesday, pushing back toward record levels as technology\nstocks climbed ahead of key earnings reports and the Federal Reserve’s\ninterest-rate decision later this week.\n\n"
   },
   {
+    "title": "FedEx Freight Offers $3.7 Billion of Bonds Ahead of Spinoff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffedex-freight-offers-its-first-bonds-ahead-of-planned-spinoff",
+    "published": "Tue, 27 Jan 2026 14:26:02 CST",
+    "summary": "FedEx Freight Holding Co. is raising $3.7 billion in its debut investment-\ngrade dollar bond sale, ahead of its planned June 1 spinoff from FedEx Corp.\n\n"
+  },
+  {
     "title": "New AI tool from Fundrise brings high-level CRE analysis to the public",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fnew-ai-tool-from-fundrise-brings-high-level-cre-analysis-to-the-public.html",
     "published": "Tue, 27 Jan 2026 14:20:40 CST",
     "summary": "Fundrise's co-founder and CEO, Ben Miller, says the new tool goes far beyond\nwhat more generalized AI, like ChatGPT, can offer.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Humana, Corning, General Motors, Boeing & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-premarket-hum-unh-gm.html",
-    "published": "Tue, 27 Jan 2026 14:16:51 CST",
-    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
     "title": "Transportation Safety Board Set to Declare Cause of Midair Collision",
@@ -300,10 +312,10 @@
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
-    "title": "Bond-Market Contrarians Look to Buy US 30-Year Near 5% Yield",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-market-contrarians-look-to-buy-us-30-year-near-5-yield",
-    "published": "Tue, 27 Jan 2026 10:15:00 CST",
-    "summary": "In the $30 trillion US Treasury market, some investors see a budding buying\nopportunity with longer-maturity yields approaching levels rarely seen in the\npast two decades.\n\n"
+    "title": "China Turns to Cheaper Brazil Soybeans After Meeting US Pledge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-turns-to-cheaper-brazil-soybeans-after-meeting-us-pledge",
+    "published": "Tue, 27 Jan 2026 10:02:10 CST",
+    "summary": "China, the world’s largest soybean importer, has ramped up orders for\nBrazilian cargoes of the oilseed after meeting an initial shipment volume from\nthe US as part of a trade truce with Washington.\n\n"
   },
   {
     "title": "The ‘one-legged stools’ holding up a fragile economy",
@@ -369,7 +381,7 @@
     "title": "S&amp;P 500 Closes In on Record as Dollar Rout Deepens: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Wall Street traders sent stocks closer to their all-time highs on speculation\nthat solid corporate earnings will keep powering market gains. The dollar slid\nto an almost four-year low. Gold held above $5,000.\n\n"
+    "summary": "Wall Street traders sent stocks toward all-time highs on speculation that\nsolid corporate earnings will keep powering market gains. The dollar slid to\nan almost four-year low. Gold held above $5,000.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -390,10 +402,10 @@
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
   },
   {
-    "title": "Insurers Sink on US Plan to Keep Medicare Payment Rates Flat",
+    "title": "Insurers Fall as Era of Government-Backed Growth Grinds to Halt",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat",
     "published": "Mon, 26 Jan 2026 21:15:23 CST",
-    "summary": "Shares of major US insurers tumbled after the US proposed holding payments to\nprivate Medicare plans flat next year, a huge disappointment for investors.\n\n"
+    "summary": "US health insurers that provide government insurance to the elderly rallied\nwhen Donald Trump was elected, with Wall Street cheering an administration it\nbelieved would boost business. It hasn’t.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -640,12 +652,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsaudi-arabia-liv-golf-trump.html",
     "published": "Fri, 23 Jan 2026 22:21:19 CST",
     "summary": "It will be the latest in at least half a dozen events that the breakaway\nleague has held at Trump Organization resorts in the past four years.\n\n"
-  },
-  {
-    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fenergy-environment%2Fstorm-power-outage.html",
-    "published": "Fri, 23 Jan 2026 22:04:36 CST",
-    "summary": "Managers of electric grids say freezing temperatures and ice and snow could\nlead to power outages in many places, potentially leaving millions in the\ndark.\n\n"
   },
   {
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
@@ -934,12 +940,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftwin-falls-idaho-afrikaners-trump.html",
     "published": "Tue, 20 Jan 2026 18:59:34 CST",
     "summary": "Twin Falls needs immigrants, but the Trump administration has limited the\nrefugee program to white South Africans.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Nvidia, J.B. Hunt, 3M, Micron & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-premarket-nvda-jbht-mmm-mu.html",
-    "published": "Tue, 20 Jan 2026 16:31:34 CST",
-    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
   },
   {
     "title": "Ray Dalio warns that 'capital wars' could follow Trump's actions, with countries dumping U.S. assets",
