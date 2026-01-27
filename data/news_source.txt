@@ -1,9 +1,105 @@
 [
   {
+    "title": "Goldman's CEO Says Washington Is \"Open for Business\"",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-ceo-says-washington-is-open-for-business-video",
+    "published": "Tue, 27 Jan 2026 05:35:44 CST",
+    "summary": "Goldman Sachs' CEO, David Solomon, says the Trump administration is \"open for\nbusiness\" and that the company has a “very, very good” relationship with\nWashington. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Elliott Repeats Call to Resist Toyota Bid to Buy Out Key Unit, Touts Standalone Plan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Felliott-repeats-call-to-resist-toyota-bid-touts-standalone-plan",
+    "published": "Tue, 27 Jan 2026 05:24:27 CST",
+    "summary": "Elliott Investment Management repeated its call for investors to reject the\nToyota group’s bid to buy out a key unit, arguing this month’s sweetened offer\nstill “substantially undervalues” the company and that it can achieve greater\nvalue on its own.\n\n"
+  },
+  {
+    "title": "SK Hynix Shares Eye Record High on Microsoft Supply Deal Report",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsk-hynix-shares-eye-record-high-on-microsoft-supply-deal-report",
+    "published": "Tue, 27 Jan 2026 05:12:46 CST",
+    "summary": "SK Hynix Inc. shares jumped, headed for an all-time high closing level, after\nlocal media said the company is the sole supplier of advanced memory for\nMicrosoft Corp.’s new artificial intelligence chip.\n\n"
+  },
+  {
+    "title": "Primavera Capital's Zhu on China's Economy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fprimavera-capital-s-zhu-on-china-s-economy-video",
+    "published": "Tue, 27 Jan 2026 05:11:03 CST",
+    "summary": "Ning Zhu, Senior Macro Strategist at Primavera Capital Group and Professor at\nthe Shanghai Advanced Institute of Finance, discusses his outlook for China's\neconomic growth. He speaks with Stephen Engle from the sidelines of the\nGoldman Sachs Global Macro Conference Asia Pacific in Hong Kong. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Japan Needn’t Drive an International Crisis",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-27%2Fjapan-needn-t-drive-an-international-crisis",
+    "published": "Tue, 27 Jan 2026 05:08:10 CST",
+    "summary": "The currency isn’t the sole cause of risks.\n\n"
+  },
+  {
+    "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html",
+    "published": "Tue, 27 Jan 2026 05:01:10 CST",
+    "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
+  },
+  {
+    "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects amid major electric vehicle write-downs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
+    "published": "Tue, 27 Jan 2026 05:01:01 CST",
+    "summary": "GM plans to record $7.1 billion in special charges for the fourth quarter of\n2025 related to its pullback in electric vehicles and restructuring in China.\n\n"
+  },
+  {
+    "title": "Thailand’s Finance Ministry Cuts 2025 Growth Forecast to 2.2%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fthailand-s-finance-ministry-cuts-2025-growth-forecast-to-2-2",
+    "published": "Tue, 27 Jan 2026 05:00:19 CST",
+    "summary": "Thailand’s economy is poised to expand at its slowest pace in three years in\n2026 as exports and domestic demand moderate, according to the Finance\nMinistry.\n\n"
+  },
+  {
+    "title": "Trouble for Cognac Makers as Sales Go Down the Drain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrouble-for-cognac-makers-as-sales-go-down-the-drain",
+    "published": "Tue, 27 Jan 2026 05:00:06 CST",
+    "summary": "Cognac makers are nursing a hangover. After years of strong demand, tariff\ntensions and the sober-curious movement have taken a toll on the industry.\nAngelina Rascouet explains how that could affect the world's largest cognac\nbrand, Hennessy and its parent company LVMH. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Ambassador to China on the State of Sino-US Relations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-ambassador-to-china-on-the-state-of-sino-us-relations-video",
+    "published": "Tue, 27 Jan 2026 04:53:23 CST",
+    "summary": "David Perdue, US ambassador to China, speaks to Bloomberg's Stephen Engle\nabout what steps China is taking to comply with a trade deal reached in Busan\nin 2025, and shares his views on how to manage the bilateral relationship\nbetween the two countries ahead of Trump's visit to China in April this year.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Malaysia, Mexico Most at Risk From Japan Carry Unwind, HSBC Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysia-mexico-most-at-risk-from-japan-carry-unwind-hsbc-says",
+    "published": "Tue, 27 Jan 2026 04:50:05 CST",
+    "summary": "Bond markets in Malaysia and Mexico are among the most at risk should a\nfurther increase in Japanese yields prompt the nation’s investors to\nrepatriate capital, according to HSBC Holdings Plc.\n\n"
+  },
+  {
+    "title": "Gold Rally Has Room to Run on Exodus From Dollars, Amundi Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-policy-threats-fuel-shift-to-gold-from-dollars-amundi-says",
+    "published": "Tue, 27 Jan 2026 04:12:09 CST",
+    "summary": "Gold can keep rallying as increasing US isolation from other nations convinces\nmany investors to cut holdings of dollar assets and switch to bullion,\naccording to Amundi SA.\n\n"
+  },
+  {
+    "title": "Philippines Suspends Ferry Operator’s Fleet After Deadly Sinking",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fphilippines-suspends-ferry-operator-s-fleet-after-deadly-sinking",
+    "published": "Tue, 27 Jan 2026 04:11:22 CST",
+    "summary": "The Philippines indefinitely suspended the entire passenger fleet of Aleson\nShipping Lines, operator of a ferry that sank this week off the country’s\nsouthern coast which killed more than a dozen.\n\n"
+  },
+  {
+    "title": "Australia Drops Annual Move in Quarterly CPI, Shifts to Monthly",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Faustralia-drops-annual-move-in-quarterly-cpi-shifts-to-monthly",
+    "published": "Tue, 27 Jan 2026 04:06:42 CST",
+    "summary": "The Australian Bureau of Statistics will no longer publish a year-on-year\nConsumer Price Index in its quarterly report as it shifts to a monthly\ninflation framework that aligns its reporting more closely with international\npractice.\n\n"
+  },
+  {
+    "title": "Malaysian Retailer MR DIY Outperforms Southeast Asia Peers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysian-retailer-mr-diy-outperforms-southeast-asia-peers",
+    "published": "Tue, 27 Jan 2026 04:05:34 CST",
+    "summary": "Malaysian retailer MR DIY Group M. Bhd., Southeast Asia’s top-performing stock\nthis month, is drawing further bullish bets as analysts anticipate upside from\nthe country’s improving consumption outlook.\n\n"
+  },
+  {
     "title": "Japan’s Bond Meltdown Spurs Speculation of GPIF Portfolio Shift",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-bond-meltdown-spurs-speculation-of-gpif-portfolio-shift",
     "published": "Tue, 27 Jan 2026 04:00:25 CST",
     "summary": "Investors gaming out how Japan can calm its volatile bond market and prop up\nthe yen see a possible answer in the $1.8 trillion Government Pension\nInvestment Fund.\n\n"
+  },
+  {
+    "title": "Trump Threatens to Hike Tariffs on South Korea | The Asia Trade 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-asia-trade-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 03:52:23 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Goldman’s Solomon on the State of Global Markets",
@@ -60,42 +156,6 @@
     "summary": "Earnings, India-EU trade talks and budget make for a busy week ahead.\n\n"
   },
   {
-    "title": "Lone Pop Mart Bear Analyst Defies Rally by Cutting Price Target",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flone-pop-mart-bear-analyst-defies-rally-by-cutting-price-target",
-    "published": "Tue, 27 Jan 2026 02:36:06 CST",
-    "summary": "The only analyst with a sell-equivalent rating on Pop Mart International Group\nLtd. has lowered her price target, defying a rally in the stock as a tug-of-\nwar between bulls and bears on the hotly debated Chinese toymaker intensifies.\n\n"
-  },
-  {
-    "title": "Ecuador Credit Upgraded by Moody’s After $4 Billion Bond Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecuador-credit-upgraded-by-moody-s-after-4-billion-bond-sale",
-    "published": "Tue, 27 Jan 2026 02:33:22 CST",
-    "summary": "Ecuador’s credit rating was raised by Moody’s Ratings as President Daniel\nNoboa continues improving the country’s fiscal standing.\n\n"
-  },
-  {
-    "title": "China’s Zijin Gold Jumps 19% After $4 Billion Africa Mine Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-s-zijin-gold-jumps-19-after-4-billion-africa-mine-deal",
-    "published": "Tue, 27 Jan 2026 02:17:56 CST",
-    "summary": "Zijin Gold International Co., a unit of China’s largest precious metals miner,\nsurged after the company agreed to buy Allied Gold Corp. for $4 billion to\nboost its access to reserves of the metal as prices climbed to record highs.\n\n"
-  },
-  {
-    "title": "Bond Wipeout Threatens Japan Property Fundraising as REITs Slump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-wipeout-threatens-japan-property-fundraising-as-reits-slump",
-    "published": "Tue, 27 Jan 2026 02:07:41 CST",
-    "summary": "Japan’s bond meltdown last week is threatening to further curb fundraising by\nreal estate investment trusts that has already slowed to a crawl because of\nrising financing costs.\n\n"
-  },
-  {
-    "title": "Goldman's Hatzius on Global Economic Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-hatzius-on-global-economic-outlook-video",
-    "published": "Tue, 27 Jan 2026 01:35:29 CST",
-    "summary": "Jan Hatzius, Chief Economist and Head of Global Investment Research at Goldman\nSachs, discusses his outlook for the global economy. He speaks with Stephen\nEngle from the sidelines of the Goldman Sachs Global Macro Conference Asia\nPacific in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Pictet AM's Paolini on Market Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fpictet-am-s-paolini-on-market-outlook-video",
-    "published": "Tue, 27 Jan 2026 01:35:25 CST",
-    "summary": "Luca Paolini, Chief Strategist at Pictet Asset Management, discusses his\ninvestment strategies and outlook for global markets. He speaks with Shery Ahn\nand Avril Hong on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "China’s Industrial Profits Post First Yearly Increase Since 2021",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-s-industrial-profits-reverse-slump-after-deflation-eases",
     "published": "Tue, 27 Jan 2026 01:35:00 CST",
@@ -108,12 +168,6 @@
     "summary": "The Federal Aviation Administration says it has reduced traffic in and out of\nthe airport and designed safer routes. Crash victims’ families want more.\n\n"
   },
   {
-    "title": "BHP Dethrones CBA as Australia’s Biggest Firm Amid Metals Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbhp-dethrones-cba-as-australia-s-biggest-firm-amid-metals-rally",
-    "published": "Tue, 27 Jan 2026 01:15:40 CST",
-    "summary": "A broad surge in metals markets has boosted BHP Group Ltd. shares, helping the\nminer unseat Commonwealth Bank of Australia as the nation’s most valuable\ncompany.\n\n"
-  },
-  {
     "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feconomy%2Ftrump-tariffs-south-korea.html",
     "published": "Tue, 27 Jan 2026 01:12:24 CST",
@@ -124,36 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fchatgpt-delusions-psychosis.html",
     "published": "Tue, 27 Jan 2026 00:54:45 CST",
     "summary": "Dozens of doctors and therapists said chatbots had led their patients to\npsychosis, isolation and unhealthy habits.\n\n"
-  },
-  {
-    "title": "Trump Vows to Raise Tariffs to 25% on South Korea",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrump-vows-to-raise-tariffs-to-25-on-south-korea-video",
-    "published": "Tue, 27 Jan 2026 00:36:06 CST",
-    "summary": "President Donald Trump has threatened to hike tariffs on goods from South\nKorea to 25%, citing what he said was the failure of the country’s legislature\nto codify the trade deal the two nations reached last year. Carnegie Mellon\nInstitute for Strategy & Technology Non-Resident Fellow Troy Stangarone breaks\ndown what this could mean for the relationship between the two countries.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Canada, India Pledge to Grow Oil, Petroleum Trade in Energy Reset",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcanada-india-pledge-to-grow-oil-petroleum-trade-in-energy-reset",
-    "published": "Tue, 27 Jan 2026 00:34:37 CST",
-    "summary": "Canada and India will pledge to expand trade in oil and gas as the countries\nreboot their relationship after a diplomatic chill.\n\n"
-  },
-  {
-    "title": "Russia Oil’s Unexpected Staying Power in India Extends Into 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Frussia-oil-s-unexpected-staying-power-in-india-extends-into-2026",
-    "published": "Tue, 27 Jan 2026 00:32:25 CST",
-    "summary": "For much of last year, discounted Russian oil made up the lion’s share of\nIndian purchases, a financial lifeline for Moscow that also shaved billions\noff New Delhi’s import bill. Then came US threats, tariffs, sanctions -- and\nmonths of disruption.\n\n"
-  },
-  {
-    "title": "Elliott-Backed Cubic to Defer Debt Payment in Bid to Manage Cash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Felliott-backed-cubic-to-defer-debt-payment-in-bid-to-manage-cash",
-    "published": "Tue, 27 Jan 2026 00:32:00 CST",
-    "summary": "Cubic Corp. has notified lenders that it plans to defer an interest payment on\na chunk of its debt, some seven months after cutting its borrowings and\nreceiving a fresh equity injection from owners Elliott Investment Management\nand Veritas Capital Fund Management.\n\n"
-  },
-  {
-    "title": "Pimco Stands by Japan Longer Bonds View After $41 Billion Rout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fpimco-stands-by-japan-longer-bonds-view-after-41-billion-rout",
-    "published": "Tue, 27 Jan 2026 00:15:04 CST",
-    "summary": "Pacific Investment Management Co. is holding fast to its conviction in Japan’s\n30-year government bonds after last week’s rout, joining a growing pool of\ninvestors who see value in the nation’s debt market.\n\n"
   },
   {
     "title": "Anta Becomes Top Puma Shareholder With $1.8 Billion Stake",
@@ -171,7 +195,7 @@
     "title": "Gold Extends Gains Above $5,000 as Debasement Trade Gathers Pace",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgold-extends-gains-above-5-000-as-debasement-trade-gathers-pace",
     "published": "Mon, 26 Jan 2026 23:33:34 CST",
-    "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies.\n\n"
+    "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak US dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies.\n\n"
   },
   {
     "title": "Why gold and silver prices are surging at breakneck speeds",
@@ -180,10 +204,10 @@
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "Asian Stocks Advance to Record, Yen Edges Down: Markets Wrap",
+    "title": "Stocks Primed to Extend Rally, Yen Edges Lower: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Asian stocks climbed to an all-time high and currencies steadied after a\nvolatile day on Monday, as markets regained some stability following\nspeculation over possible yen intervention.\n\n"
+    "summary": "Stocks extended their rally into a fifth session while currencies steadied\nafter a volatile Monday, as markets regained some stability following\nspeculation over possible yen intervention.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -204,6 +228,12 @@
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
   },
   {
+    "title": "ASX Austraclear Faces Delays From Central Bank Settlement Outage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasx-says-austraclear-user-issues-didn-t-impact-internal-systems",
+    "published": "Mon, 26 Jan 2026 21:12:59 CST",
+    "summary": "ASX Ltd. said transactions processed through Austraclear -- a platform for\nwholesale debt securities settlement -- will face short delays due to a\nrequired outage linked to an issue with the Reserve Bank of Australia’s\npayment system.\n\n"
+  },
+  {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fnike-to-lay-off-775-employees-at-us-distribution-centers.html",
     "published": "Mon, 26 Jan 2026 21:08:52 CST",
@@ -220,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html",
     "published": "Mon, 26 Jan 2026 19:57:22 CST",
     "summary": "The newspaper will send a small team of reporters to cover the Olympics after\nit informed sports journalists on Friday that the paper would not send a\ngroup.\n\n"
-  },
-  {
-    "title": "Apollo Took Loss on Zeroed Out Asset-Backed Loan Deemed Safe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fapollo-took-loss-on-asset-backed-loan-deemed-protected",
-    "published": "Mon, 26 Jan 2026 19:00:41 CST",
-    "summary": "Apollo Global Management Inc. took a loss on a portion of a $170 million\nasset-backed financing for Amazon brand aggregator Perch that was written off\nto zero, a rare stumble for a strategy touted as one of private credit’s\nsafest and most promising.\n\n"
   },
   {
     "title": "Public Media Holds Its Apocalypse at Bay, for Now",
@@ -266,7 +290,7 @@
   {
     "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
-    "published": "Mon, 26 Jan 2026 16:03:23 CST",
+    "published": "Mon, 26 Jan 2026 16:03:24 CST",
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
@@ -328,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Ffree-tax-filing-irs%2F",
     "published": "Mon, 26 Jan 2026 10:00:00 CST",
     "summary": "Despite the demise of Direct File, taxpayers still have plenty of no-cost\noptions for filing their returns this tax season.\n\n"
-  },
-  {
-    "title": "Russia’s First Domestically Built Ice-Class Tanker Nears Sanctioned Arctic Plant",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Frussian-ice-class-lng-tanker-nears-sanctioned-arctic-plant",
-    "published": "Mon, 26 Jan 2026 06:46:16 CST",
-    "summary": "Russia’s first domestically built ice-class tanker docked at the US-sanctioned\nArctic LNG 2 plant, expanding the facility’s fleet of vessels able to\ntransport the fuel in winter.\n\n"
   },
   {
     "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
@@ -564,12 +582,6 @@
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Betting on Prediction Markets Is Their Job. They Make Millions.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fprediction-markets-polymarket-kalshi.html",
-    "published": "Fri, 23 Jan 2026 16:30:47 CST",
-    "summary": "Welcome to the era of the Polymarket sharp.\n\n"
-  },
-  {
     "title": "There's a new idea of alpha in the market that big money managers are pursuing",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Finvesting-market-stocks-bonds-gold-cash-commodities.html",
     "published": "Fri, 23 Jan 2026 16:28:47 CST",
@@ -652,12 +664,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fbusiness%2Fmedia%2Ftiktok-sold-app-content-algorithm.html",
     "published": "Fri, 23 Jan 2026 03:36:54 CST",
     "summary": "The popular short form video app has a new corporate structure in the United\nStates, which could result in some changes for the 200 million Americans who\nuse TikTok.\n\n"
-  },
-  {
-    "title": "Intel Tumbles As Manufacturing Snags Hit Comeback | The Asia Trade 1/23/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-23%2Fthe-asia-trade-1-23-2025-video",
-    "published": "Fri, 23 Jan 2026 03:36:19 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
   },
   {
     "title": "Here’s Who Just Bought TikTok",
@@ -960,12 +966,6 @@
     "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul.\nIt looks to be a dominant force in 2026, too.\n\n"
   },
   {
-    "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has 'solid' launch",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fnovo-nordisk-shares-wegovy-obesity-pill-launch.html",
-    "published": "Fri, 16 Jan 2026 21:02:05 CST",
-    "summary": "The early data is a boost to the Danish drugmaker's hopes of winning back more\nmarket share from Eli Lilly in the obesity drug space.\n\n"
-  },
-  {
     "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
     "published": "Fri, 16 Jan 2026 19:33:45 CST",
@@ -1030,12 +1030,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F13%2Fus%2Fpolitics%2Ftrump-housing-costs.html",
     "published": "Tue, 13 Jan 2026 10:02:34 CST",
     "summary": "White House officials have explored a vast array of ideas as the president\nlooks to unfurl a housing affordability plan at an economic conference this\nmonth.\n\n"
-  },
-  {
-    "title": "Trump’s Feel-My-Pain Economic Message",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F12%2Fus%2Fpolitics%2Ftrump-economy.html",
-    "published": "Mon, 12 Jan 2026 23:07:18 CST",
-    "summary": "The president appears skeptical about Americans’ concerns. How will voters\nrespond?\n\n"
   },
   {
     "title": "China has brought millions out of poverty. The US has not – by choice",
