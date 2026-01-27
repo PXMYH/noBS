@@ -1,57 +1,189 @@
 [
   {
+    "title": "American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
+    "published": "Tue, 27 Jan 2026 13:13:45 CST",
+    "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
+  },
+  {
     "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
-    "published": "Tue, 27 Jan 2026 11:30:20 CST",
+    "published": "Tue, 27 Jan 2026 13:08:46 CST",
     "summary": "GM recorded $7.2 billion in special charges for the fourth quarter of 2025,\nlargely related to its pullback in electric vehicles and restructuring in\nChina.\n\n"
+  },
+  {
+    "title": "GM Profits Fueled by Full-Sized SUV, Truck Demand, CEO Barra Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgm-profits-fueled-by-full-sized-suv-truck-demand-ceo-video",
+    "published": "Tue, 27 Jan 2026 13:05:58 CST",
+    "summary": "Mary Barra, chair and CEO at General Motors, discusses fourth-quarter results,\nthe vehicle offerings that are driving profits, commitment to EVs and hybrid\nvehicles, and how the automaker is managing the impact of tariffs. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Humana, Corning, General Motors, Boeing & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-premarket-hum-unh-gm.html",
+    "published": "Tue, 27 Jan 2026 13:04:51 CST",
+    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
+  },
+  {
+    "title": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
+    "published": "Tue, 27 Jan 2026 13:01:45 CST",
+    "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
+  },
+  {
+    "title": "Emerging-Market Bonds Are Moving Less in Lockstep With the US",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Femerging-markets-bonds-are-moving-less-in-lockstep-with-the-us",
+    "published": "Tue, 27 Jan 2026 13:01:14 CST",
+    "summary": "As a result of the sweeping rally across emerging markets, bonds prices are\nincreasingly moving on their own accord, instead of in-line with the US.\n\n"
+  },
+  {
+    "title": "Dollar Sinks to Lowest Level in Four Years as US Risks Grow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-sinks-to-lowest-level-in-four-years-as-headwinds-multiply",
+    "published": "Tue, 27 Jan 2026 12:58:54 CST",
+    "summary": "A gauge of the dollar slid to its weakest level in nearly four years as a\nresurgent yen adds to headwinds for the US currency.\n\n"
+  },
+  {
+    "title": "Winter Is a Growing Threat to US Power Grids",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fwinter-is-a-growing-threat-to-us-power-grids",
+    "published": "Tue, 27 Jan 2026 12:56:19 CST",
+    "summary": "This week’s storm has highlighted the increasing risk of blackouts.\n\n"
+  },
+  {
+    "title": "Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fboeing-ba-4q-2025-earnings.html",
+    "published": "Tue, 27 Jan 2026 12:50:35 CST",
+    "summary": "Boeing's aircraft deliveries have surged over the past year as the\nmanufacturer expects to continue to increase production.\n\n"
+  },
+  {
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 12:49:07 CST",
+    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "HSBC Becomes First European Bank to Hit $300 Billion Market Cap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fhsbc-becomes-first-european-bank-to-hit-300-billion-market-cap",
+    "published": "Tue, 27 Jan 2026 12:47:16 CST",
+    "summary": "HSBC Holdings Plc’s market capitalization surpassed $300 billion, a first for\na European-listed lender.\n\n"
+  },
+  {
+    "title": "Silver’s Parabolic Rally Pushes ETF Volume Near S&amp;P 500 Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-parabolic-rally-pushes-etf-volume-near-s-p-500-fund",
+    "published": "Tue, 27 Jan 2026 12:44:38 CST",
+    "summary": "Extreme gains in silver prices are driving massive volumes in the iShares\nSilver Trust exchange-traded fund, with almost $40 billion in turnover\nrecorded on Monday.\n\n"
+  },
+  {
+    "title": "From Wine to Carmakers: Winners, Losers in India’s Giant EU Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffrom-wine-to-carmakers-winners-losers-in-india-s-giant-eu-deal",
+    "published": "Tue, 27 Jan 2026 12:39:28 CST",
+    "summary": "India and the European Union concluded a long-awaited trade agreement,\nboosting prospects for Indian exporters while reshaping the competitive\nlandscape for local manufacturers.\n\n"
+  },
+  {
+    "title": "EU, India Sign 'The Mother of All Deals', Gold Keeps Shining | The Opening Trade 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-opening-trade-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 12:35:13 CST",
+    "summary": "Trade tops the agenda as the European Union and India concluded a free-trade\nagreement after almost two decades of negotiations. President of the European\nCommission Ursula von der Leyen called it 'the mother of all deals.' The pact\nis expected to eliminate tariffs on over 90 percent of EU goods. Elsewhere,\nGold continued its record rally above $5000. Amundi CIO Vincent Mortier said\nthe yellow metal can keep rallying as increasing US isolation from other\nnations convinces many investors to cut holdings of dollar assets and switch\nto bullion. The Opening Trade has everything you need to know as markets open\nacross Europe. With analysis you won't find anywhere else, we break down the\nbiggest stories of the day and speak to top guests who have skin in the game.\nHosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Blackstone Makes Over $400 Million Gain on Marathon Sale to CVC",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fblackstone-makes-over-400-million-gain-on-marathon-sale-to-cvc",
+    "published": "Tue, 27 Jan 2026 12:34:10 CST",
+    "summary": "CVC Capital Partners Plc’s $1.2 billion acquisition of credit investor\nMarathon Asset Management has resulted in a windfall for Blackstone Inc.\n\n"
+  },
+  {
+    "title": "Senegal, Morocco Sign Deals to Boost Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fsenegal-morocco-sign-deals-to-boost-ties-video",
+    "published": "Tue, 27 Jan 2026 12:33:18 CST",
+    "summary": "Senegal and Morocco have signed new agreements to deepen economic ties,\nseeking to move past recent tensions sparked by a contentious Africa Cup\nfootball match. Bloomberg's Katarina Höije explains on Horizons Middle East\nand Africa. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Crypto’s ‘Safe’ Yield Trade Hits $6 Billion After 2022 Blowups",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fcrypto-s-safe-yield-trade-hits-6-billion-after-2022-blowups",
+    "published": "Tue, 27 Jan 2026 12:30:00 CST",
+    "summary": "When crypto platform Stream Finance collapsed late last year, after roughly\n$93 million in user funds were lost, it exposed a familiar fault line in\ndigital assets: promises of “safe yield” tend to unravel when markets turn.\n\n"
+  },
+  {
+    "title": "India, EU Agree 'Mother' Of Trade Deals Amid Trump Tariffs | The Pulse 1/27",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-pulse-1-27-video",
+    "published": "Tue, 27 Jan 2026 12:29:25 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Janet Henry, HSBC, Global\nChief Economist; Marie-Pierre de Bailliencourt, Institut Montaigne Managing\nDirector; James Lord, Morgan Stanley, Head of FX and Emerging Markets\nStrategy; Jan Goetz, IQM Computers CEO. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Russian Oil Imports May Continue to Drop, Indian Minister Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Frussian-oil-imports-may-continue-to-drop-indian-minister-says",
+    "published": "Tue, 27 Jan 2026 12:25:53 CST",
+    "summary": "India’s imports of Russian crude are expected to continue declining as the\nworld’s third-largest buyer of the fuel diversifies suppliers, Oil Minister\nHardeep Puri said.\n\n"
+  },
+  {
+    "title": "Turkey Hits Banks With New Curbs to Target Offshore Lira Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fturkey-hits-banks-with-new-curbs-to-target-offshore-lira-market",
+    "published": "Tue, 27 Jan 2026 12:24:43 CST",
+    "summary": "Turkish authorities are stepping up efforts to curb local banks’ access to\ncheaper funding abroad, part of their campaign to deter hot-money flows from\nthe lira market in London.\n\n"
+  },
+  {
+    "title": "South Africa Plans M&amp;A Rule Changes That Could Ease Red Tape",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsouth-africa-plans-m-a-rule-changes-that-could-ease-red-tape",
+    "published": "Tue, 27 Jan 2026 12:24:27 CST",
+    "summary": "South Africa plans changes to antitrust rules on reporting mergers that could\nease the cost of doing business for some firms.\n\n"
+  },
+  {
+    "title": "Russia Hits Odesa as Attacks on Ukrainian Energy System Widen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Frussia-hits-odesa-as-attacks-on-ukrainian-energy-system-widen",
+    "published": "Tue, 27 Jan 2026 12:20:28 CST",
+    "summary": "Russian forces hit the southern Ukrainian port city of Odesa as part of a wave\nof strikes on energy infrastructure that President Volodymyr Zelenskiy called\na threat to diplomatic efforts to end the war.\n\n"
+  },
+  {
+    "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feurope-natural-gas-united-states-russia.html",
+    "published": "Tue, 27 Jan 2026 12:12:26 CST",
+    "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
+  },
+  {
+    "title": "Vanke Buys Time in Debt Crisis as Bondholders Accept Delays",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fvanke-default-risks-pile-up-after-failing-to",
+    "published": "Tue, 27 Jan 2026 12:12:10 CST",
+    "summary": "China Vanke Co. won more breathing room as it prepares what would be one of\nthe country’s biggest-ever restructurings, after holders of two yuan bonds\naccepted the developer’s plan to delay the bulk of those payments by a year.\n\n"
+  },
+  {
+    "title": "No-Leverage, One-Man Hedge Fund Beats Bay Street With 65% Return",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Ffeatures%2F2026-01-27%2Fhedge-fund-lucida-capital-beats-bay-street-with-65-return",
+    "published": "Tue, 27 Jan 2026 12:10:31 CST",
+    "summary": "Francis Lau runs his hedge fund from an office next to a gas station and a\nCostco, far from Bay Street, where most of Canada’s money managers cluster. It\nhas emerged as one of the best-performing hedge funds in the country.\n\n"
+  },
+  {
+    "title": "After Rebel Invasion, Congo Gold Trader Eyes $3 Billion Rebound",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fafter-rebel-invasion-congo-gold-trader-eyes-3-billion-rebound",
+    "published": "Tue, 27 Jan 2026 12:06:50 CST",
+    "summary": "As gold’s price surge intensified in early 2025, the year was shaping up to be\na momentous one for the Democratic Republic of Congo’s state-owned trader of\nhand-dug precious metal.\n\n"
+  },
+  {
+    "title": "How Gold’s Safe-Haven Appeal Is Fueling Record Prices",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgold-price-record-how-debasement-trade-safe-haven-demand-is-fueling-rally",
+    "published": "Tue, 27 Jan 2026 12:03:01 CST",
+    "summary": "For centuries, gold has been the go-to haven asset in times of political and\neconomic uncertainty. Its status as a reliably high-value commodity that can\nbe transported easily and sold anywhere offers a sense of safety when\neverything else is in turmoil.\n\n"
+  },
+  {
+    "title": "Retail Wealth Becomes Goldmine for $240 Billion Secondaries Boom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fretail-wealth-becomes-goldmine-for-240-billion-secondaries-boom",
+    "published": "Tue, 27 Jan 2026 12:00:00 CST",
+    "summary": "Private investment funds for individuals have become the fastest-growing\nsource of capital in the $240 billion market for private secondhand stakes,\naccording to a report from Jefferies Financial Group Inc.\n\n"
+  },
+  {
+    "title": "GM Expects Profit Growth, Plans $6 Billion in Buybacks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgm-expects-profit-growth-plans-6-billion-in-buybacks-video",
+    "published": "Tue, 27 Jan 2026 11:55:31 CST",
+    "summary": "General Motors expects profits to grow as much as $2 billion this year and the\nautomaker said it authorized $6 billion in share buybacks and an increase in\nits quarterly dividend by 3 cents to 18 cents a share, fueled by demand for\nits highest margin vehicles. Craig Trudell reports on Bloomberg Television.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Global Stocks Climb; Trump’s Border Enforcer to Leave Minnesota | Bloomberg Brief 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fbloomberg-brief-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 11:50:31 CST",
+    "summary": "US stock futures rise ahead of a slew of earnings including Boeing and General\nMotors. US Border Patrol commander Greg Bovino is said to be leaving\nMinneapolis amid mounting backlash following two killings of US citizens by\nfederal agents in recent weeks. President Trump vows to raise tariffs on South\nKorean goods to 25%. US airlines continue to cut back flights as another\nwinter storm looms. ECB Governing Council Member and Austrian National Bank\nGovernor Martin Kocher says the ECB must keep all options open on rates.\nKatrina Dudley of Franklin Templeton discusses this earnings season. (This\nvideo has been edited to correct a reporter's name.) (Source: Bloomberg)\n\n"
   },
   {
     "title": "Tesla’s Price Target Is Rising Even as Its Profit Outlook Tanks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftesla-s-price-target-is-rising-even-as-its-profit-outlook-tanks",
     "published": "Tue, 27 Jan 2026 11:27:16 CST",
     "summary": "Wall Street is giving off mixed signals about Tesla Inc. Analysts are\nincreasingly skeptical of the electric-vehicle maker’s earnings potential this\nyear, but their expectations for the company’s stock price keep climbing.\n\n"
-  },
-  {
-    "title": "Bitcoin Believers Are Looking to Stocks and Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fbitcoin-believers-are-looking-to-stocks-and-gold",
-    "published": "Tue, 27 Jan 2026 11:23:26 CST",
-    "summary": "The original cryptocurrency is down about 25% from its October peak as gold,\nstocks rally.\n\n"
-  },
-  {
-    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
-    "published": "Tue, 27 Jan 2026 11:21:36 CST",
-    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
-  },
-  {
-    "title": "US Airlines Cut More Flights, Brace for Another Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-airlines-cut-more-flights-brace-for-another-storm-video",
-    "published": "Tue, 27 Jan 2026 11:20:21 CST",
-    "summary": "US airlines are still paring back flights with the industry bracing for\nfurther disruptions as another arctic blast looms later this week. Benedikt\nKammel reports on Bloomberg Television. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump’s Border Enforcer Bovino Plans to Leave Minnesota",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrump-s-border-enforcer-bovino-plans-to-leave-minnesota-video",
-    "published": "Tue, 27 Jan 2026 11:14:26 CST",
-    "summary": "President Donald Trump’s US Border Patrol commander Greg Bovino and some\nBorder Patrol agents are expected to begin departing Minneapolis as soon as\nTuesday, according to local officials. The move comes following a mounting\npublic outcry over the killing of two US citizens by federal agents in recent\nweeks. Jonathan Tamari of Bloomberg Government has more. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman Says Market Most Risk-On Since 2021 on Global Growth",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-says-market-most-risk-on-since-2021-on-global-growth",
-    "published": "Tue, 27 Jan 2026 11:10:01 CST",
-    "summary": "Investor appetite for risk is the highest in five years as optimism about the\neconomy counters geopolitical uncertainty, according to Goldman Sachs Group\nInc. strategists.\n\n"
-  },
-  {
-    "title": "Modi’s $100 Billion Oil Drilling Plan Aims to Cut Indian Imports",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmodi-s-100-billion-oil-drilling-plan-aims-to-cut-indian-imports",
-    "published": "Tue, 27 Jan 2026 11:04:47 CST",
-    "summary": "India’s efforts to expand oil drilling to previously restricted areas could\nhelp attract investments worth $100 billion by the end of the decade, Prime\nMinister Narendra Modi said Tuesday.\n\n"
-  },
-  {
-    "title": "Batistas’ Fintech Prepares for Brazil’s First IPO in Five Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbatistas-fintech-prepares-for-brazil-s-first-ipo-in-five-years",
-    "published": "Tue, 27 Jan 2026 11:00:00 CST",
-    "summary": "PicPay, the Brazilian firm that transformed itself from a simple digital\nwallet into a diversified fintech over the past five years, is about to face\nan investor referendum on that strategy shift.\n\n"
   },
   {
     "title": "A year later, federal authorities will reveal what caused fatal DCA crash",
@@ -66,52 +198,10 @@
     "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
-    "title": "ECB Must Keep ‘Full Optionality’ on Rates, Kocher Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fecb-must-keep-full-optionality-on-rates-kocher-says-video",
-    "published": "Tue, 27 Jan 2026 10:52:31 CST",
-    "summary": "European Central Bank Governing Council member Martin Kocher tells Bloomberg\nTelevision the ECB needs to keep all options available due to the unstable\ngeopolitical and trade backdrop. “It’s important to have full optionality,” he\ntells Bloomberg’s Lizzy Burden.\n\n"
-  },
-  {
-    "title": "ECB Must Keep All Options Open on Rates, Kocher Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecb-must-keep-all-options-open-on-interest-rates-kocher-says",
-    "published": "Tue, 27 Jan 2026 10:32:26 CST",
-    "summary": "The European Central Bank needs to keep all options available due to the\nunstable global backdrop, particularly on trade, according to Governing\nCouncil member Martin Kocher.\n\n"
-  },
-  {
-    "title": "Stock Rotation Finally Holds as Wall Street Chases New Leaders",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-rotation-finally-holds-as-wall-street-chases-new-leaders",
-    "published": "Tue, 27 Jan 2026 10:30:00 CST",
-    "summary": "For most of last year, investors were warned that hiding out in Big Tech was\nbecoming a dangerous move. Turned out that wasn’t great advice.\n\n"
-  },
-  {
-    "title": "Liberia Sees Mine and Oil Deals Drawing $4.8 Billion in Investment",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fliberia-sees-mine-oil-deals-drawing-4-8-billion-in-investment",
-    "published": "Tue, 27 Jan 2026 10:18:29 CST",
-    "summary": "Liberia’s leader expects mining and oil deals with multinational companies to\ngenerate $4.8 billion in investment in the West African nation.\n\n"
-  },
-  {
-    "title": "Bond-Market Contrarians Look to Buy US 30-Year Near 5% Yield",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-market-contrarians-look-to-buy-us-30-year-near-5-yield",
-    "published": "Tue, 27 Jan 2026 10:15:00 CST",
-    "summary": "In the $30 trillion US Treasury market, some investors see a budding buying\nopportunity with longer-maturity yields approaching levels rarely seen in the\npast two decades.\n\n"
-  },
-  {
-    "title": "TACO Tracking: Trump Carries Out One in Four Tariff Threats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbluffing-or-not-counting-trump-s-tariff-threats-versus-actions",
-    "published": "Tue, 27 Jan 2026 10:05:21 CST",
-    "summary": "In less than three weeks, President Donald Trump has issued four sweeping\ntariff threats that, in normal times, would rattle investors, unnerve CEOs and\nsend economists rushing to revise their growth forecasts for the targeted\ncountries.\n\n"
-  },
-  {
     "title": "Transportation Safety Board Set to Declare Cause of Midair Collision",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftransportation-safety-board-set-to-declare-cause-of-midair-collision.html",
     "published": "Tue, 27 Jan 2026 10:04:13 CST",
     "summary": "The National Transportation Safety Board is set to vote on the probable cause\nof last year’s crash near Washington and make recommendations.\n\n"
-  },
-  {
-    "title": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
-    "published": "Tue, 27 Jan 2026 10:03:52 CST",
-    "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not yet experiencing the “golden age” that the\npresident promised.\n\n"
   },
   {
     "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts",
@@ -120,57 +210,15 @@
     "summary": "The Federal Reserve is expected to hold interest rates steady on Wednesday,\ndespite relentless attacks from President Trump over borrowing costs.\n\n"
   },
   {
-    "title": "China Turns to Cheaper Brazil Soybeans After Meeting US Pledge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-turns-to-cheaper-brazil-soybeans-after-meeting-us-pledge",
-    "published": "Tue, 27 Jan 2026 10:02:10 CST",
-    "summary": "China, the world’s largest soybean importer, has ramped up orders for\nBrazilian cargoes of the oilseed after meeting an initial shipment volume from\nthe US as part of a trade truce with Washington.\n\n"
-  },
-  {
     "title": "The ‘one-legged stools’ holding up a fragile economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fconsumer-spending-us-economy%2F",
     "published": "Tue, 27 Jan 2026 10:00:31 CST",
     "summary": "The US economy is growing, but its reliance on a few industries, including\nhealthcare and consumer spending, raises concerns about its fragility.\n\n"
   },
   {
-    "title": "Close Brothers Selling £250 million Tier 2 as Outlook Improves",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fclose-brothers-selling-250-million-tier-2-as-outlook-improves",
-    "published": "Tue, 27 Jan 2026 09:54:58 CST",
-    "summary": "Close Brothers Group Plc is selling £250 million ($342 million) of Tier 2\nnotes on Tuesday as possible delays to the UK motor finance complaints support\nthe lender’s outlook.\n\n"
-  },
-  {
-    "title": "Spain’s Jobless Rate Drops Below 10% for First Time Since 2008",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fspain-s-jobless-rate-drops-below-10-for-first-time-since-2008",
-    "published": "Tue, 27 Jan 2026 09:39:22 CST",
-    "summary": "Spain’s unemployment rate dipped below 10% at the end of 2025, the lowest\nlevel in almost 18 years.\n\n"
-  },
-  {
-    "title": "Jardine Matheson CEO Discusses Business Strategy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fjardine-matheson-ceo-discusses-business-strategy-video",
-    "published": "Tue, 27 Jan 2026 09:19:46 CST",
-    "summary": "Hong Kong-based investment company Jardine Matheson aims to transition from an\nowner-operator to an active capital manager. The company's new CEO Lincoln Pan\nspoke exclusively with Bloomberg’s David Ingles at the Asian Financial Forum\nin Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Malaysia to Study US Trade Deal But Warns Against Quitting Pact",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysia-to-study-us-trade-deal-but-warns-against-quitting-pact",
-    "published": "Tue, 27 Jan 2026 09:18:18 CST",
-    "summary": "Malaysia’s government plans to do a cost-benefit analysis of its controversial\ntrade agreement with the US, while warning lawmakers they should keep the\naccord despite concerns it may hurt the country.\n\n"
-  },
-  {
-    "title": "Glencore Tops Survey of European Targets as M&amp;A Catches Fire",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fglencore-tops-survey-of-european-targets-as-m-a-catches-fire",
-    "published": "Tue, 27 Jan 2026 09:13:21 CST",
-    "summary": "Glencore Plc tops the list of European companies identified by M&A experts as\npotential takeover targets for 2026 as dealmaking activity roars out of the\ngate this year.\n\n"
-  },
-  {
-    "title": "Dollar Traders Are Paying a Record to Bet on Deeper Selloff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-traders-are-paying-a-record-to-bet-on-a-deeper-selloff",
-    "published": "Tue, 27 Jan 2026 09:10:00 CST",
-    "summary": "Dollar traders are paying the most on record to bet on a deeper selloff in the\ngreenback as a volatile US political landscape triggers a rush into bearish\nhedges.\n\n"
-  },
-  {
     "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
-    "published": "Tue, 27 Jan 2026 09:05:03 CST",
+    "published": "Tue, 27 Jan 2026 09:05:04 CST",
     "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
   },
   {
@@ -180,16 +228,16 @@
     "summary": "Germany is seeking to raise €6.5 billion ($7.7 billion) from its first ever\nsale of new 20-year bonds, with investors piling in at a near record rate.\n\n"
   },
   {
+    "title": "Saudi Arabia-UAE Tensions Put Middle East Businesses on Edge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsaudi-arabia-uae-tensions-put-middle-east-businesses-on-edge",
+    "published": "Tue, 27 Jan 2026 08:23:29 CST",
+    "summary": "Middle East businesses are watching tensions between Saudi Arabia and the\nUnited Arab Emirates with increasing nervousness, concerned it could impact\ncommerce at a time when both nations are emerging as powerhouses of regional\ntrade and finance.\n\n"
+  },
+  {
     "title": "Insight with Haslinda Amin 1/27/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsight-with-haslinda-amin-1-27-2026-video",
     "published": "Tue, 27 Jan 2026 07:08:53 CST",
     "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Silver’s Rally Fueled by China Buying and Supply Tightness",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-rally-fueled-by-broad-demand-and-speculation-refiner",
-    "published": "Tue, 27 Jan 2026 05:36:26 CST",
-    "summary": "Silver’s record-breaking rally is being supported by swelling physical demand\ncombined with speculative interest in a relatively illiquid market, with signs\nthat buyers in China are leading the drive.\n\n"
   },
   {
     "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
@@ -198,22 +246,10 @@
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
   },
   {
-    "title": "Gold Rally Has Room to Run on Dollar Exodus, Amundi Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-policy-threats-fuel-shift-to-gold-from-dollars-amundi-says",
-    "published": "Tue, 27 Jan 2026 04:12:09 CST",
-    "summary": "Gold can keep rallying as increasing US isolation from other nations convinces\nmany investors to cut holdings of dollar assets and switch to bullion,\naccording to Amundi SA.\n\n"
-  },
-  {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-rare-earth-howard-lutnick.html",
     "published": "Tue, 27 Jan 2026 03:26:49 CST",
     "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
-  },
-  {
-    "title": "Fatburger Owner Is the Latest Casual-Dining Bankruptcy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffatburger-owner-files-bankruptcy-overwhelmed-by-debt",
-    "published": "Tue, 27 Jan 2026 03:06:14 CST",
-    "summary": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and\nTwin Peaks, filed for bankruptcy, adding to a string of casual-dining brands\nthat have sought court protection from creditors.\n\n"
   },
   {
     "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
@@ -224,7 +260,7 @@
   {
     "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feconomy%2Ftrump-tariffs-south-korea.html",
-    "published": "Tue, 27 Jan 2026 01:12:24 CST",
+    "published": "Tue, 27 Jan 2026 01:12:25 CST",
     "summary": "President Trump threatened to increase tariffs on South Korean exports,\nincluding cars, citing the country’s slow ratification of a trade deal.\n\n"
   },
   {
@@ -234,16 +270,10 @@
     "summary": "Dozens of doctors and therapists said chatbots had led their patients to\npsychosis, isolation and unhealthy habits.\n\n"
   },
   {
-    "title": "Pinaults Sell Puma Stake to China’s Anta for $1.8 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanta-sports-to-buy-29-stake-in-puma-for-1-8-billion",
-    "published": "Tue, 27 Jan 2026 00:13:29 CST",
-    "summary": "France’s billionaire Pinault family agreed to sell its 29% stake in Puma SE to\nChina’s Anta Sports Products Ltd., paring back its holdings beyond the luxury-\ngoods industry as it focuses on a turnaround at the key Gucci brand.\n\n"
-  },
-  {
-    "title": "Oil Steadies as Supply Outlook Tempers Fallout From US Freeze",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Flatest-oil-market-news-and-analysis-for-jan-27",
-    "published": "Mon, 26 Jan 2026 23:35:03 CST",
-    "summary": "Oil steadied as traders focused on the outlook for plentiful supply, while\nmonitoring the fallout from a sweeping US winter storm.\n\n"
+    "title": "Gold Extends Gains Above $5,000 as Debasement Trade Gathers Pace",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fgold-extends-gains-above-5-000-as-debasement-trade-gathers-pace",
+    "published": "Mon, 26 Jan 2026 23:33:34 CST",
+    "summary": "Gold rose for a second consecutive day, holding above $5,000 an ounce as\ngeopolitical risks and a flight from sovereign bonds and currencies extended\nthe metal’s rally.\n\n"
   },
   {
     "title": "Why gold and silver prices are surging at breakneck speeds",
@@ -252,10 +282,16 @@
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "Stocks Set Sights on Highs as Tech Leads Charge: Markets Wrap",
+    "title": "Tech Leads Stocks Higher as Dollar Hits 2022 Low: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "US stocks are pressing toward a record high, with technology shares leading\nthe advance as the earnings season moves into its busiest phase. Gold climbed\nfor a seventh straight day.\n\n"
+    "summary": "US stock futures are pressing toward a record high, with technology shares\nleading the advance as the earnings season moves into its busiest phase. The\ndollar hit the lowest level since 2022.\n\n"
+  },
+  {
+    "title": "Africa Taps Eurobond Market as Demand for Riskier Assets Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcameroon-sells-750-million-dollar-bond-after-benin-deal",
+    "published": "Mon, 26 Jan 2026 22:15:36 CST",
+    "summary": "Cameroon became the second African nation in less than a week to sell dollar\nbonds, as frontier markets take advantage of risk-on sentiment to raise funds.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -274,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
     "published": "Mon, 26 Jan 2026 21:16:38 CST",
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
-  },
-  {
-    "title": "Insurers Sink on US Plan to Keep Medicare Payment Rates Flat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat",
-    "published": "Mon, 26 Jan 2026 21:15:23 CST",
-    "summary": "Shares of major US insurers tumbled after the US proposed holding payments to\nprivate Medicare plans flat next year, a huge disappointment for investors.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -378,12 +408,6 @@
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
   },
   {
-    "title": "Fed to Hold Rates as Political Storm Intensifies Around Powell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Ffed-to-hold-rates-as-political-storm-intensifies-around-powell",
-    "published": "Mon, 26 Jan 2026 11:00:00 CST",
-    "summary": "The Federal Reserve is widely expected to halt its interest-rate-cutting cycle\nthis week, as a steadier jobs market restores a degree of consensus at the\ncentral bank after months of growing division.\n\n"
-  },
-  {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Faffordability-poll.html",
     "published": "Mon, 26 Jan 2026 10:02:17 CST",
@@ -400,12 +424,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Ffree-tax-filing-irs%2F",
     "published": "Mon, 26 Jan 2026 10:00:00 CST",
     "summary": "Despite the demise of Direct File, taxpayers still have plenty of no-cost\noptions for filing their returns this tax season.\n\n"
-  },
-  {
-    "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feurope-natural-gas-united-states-russia.html",
-    "published": "Mon, 26 Jan 2026 05:01:05 CST",
-    "summary": "Tension over Greenland has prompted worries that the Trump administration\ncould turn the U.S. oil and gas industry into a way to pressure Europe.\n\n"
   },
   {
     "title": "China didn’t grab many headlines at Davos, but it's the elephant in the room",
@@ -924,12 +942,6 @@
     "summary": "Netflix has agreed to pay $27.75 per WBD share to acquire the company's studio\nand streaming assets.\n\n"
   },
   {
-    "title": "Bessent says Powell attending Supreme Court arguments on Lisa Cook is a mistake",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fbessent-says-fed-chief-attending-supreme-court-arguments-on-lisa-cook-is-a-mistake.html",
-    "published": "Tue, 20 Jan 2026 14:35:07 CST",
-    "summary": "CNBC reported that Powell plans to be present for oral arguments in a case\nthat challenges Trump's power to remove governor Lisa Cook.\n\n"
-  },
-  {
     "title": "Chinese tourists shun Japan in wake of Taiwan invasion row",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F20%2Fchinese-japan-tourist-numbers-halve-wake-taiwan-invasion-row",
     "published": "Tue, 20 Jan 2026 04:58:22 CST",
@@ -958,18 +970,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fbusiness%2Fimf-world-economic-outlook-2026.html",
     "published": "Mon, 19 Jan 2026 09:30:05 CST",
     "summary": "The 3.3 percent rate for 2026 would match last year’s pace. Booming investment\nin artificial intelligence is buttressing global output.\n\n"
-  },
-  {
-    "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F17%2Fdisney-dominated-2025-box-office.html",
-    "published": "Sat, 17 Jan 2026 13:00:01 CST",
-    "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul.\nIt looks to be a dominant force in 2026, too.\n\n"
-  },
-  {
-    "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F16%2Fwhite-house-hassett-trump-cards-credit-card-battle.html",
-    "published": "Fri, 16 Jan 2026 19:33:45 CST",
-    "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that\nhas been roundly rejected by industry executives and their lobbyists this\nweek.\n\n"
   },
   {
     "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
