@@ -1,19 +1,19 @@
 # NoBS News Digest - January 27, 2026
 
-Generated from **207** unique articles (deduplicated from 207 total) across **1** news sources
+Generated from **208** unique articles (deduplicated from 208 total) across **1** news sources
 
 ---
 
 ## 🌍 World & Politics
 
-Geopolitical tensions and economic shifts dominate global headlines this week. In Asia, Malaysia weighs the future of its controversial trade deal with the U.S., signaling cautious engagement amid domestic concerns, while China-Japan relations sour as Chinese tourism to Japan plummets following Tokyo’s remarks on Taiwan’s security. Meanwhile, the U.S. faces internal and external trade challenges: President Trump threatens a new trade war even as courts consider limiting his tariff authority, and his administration explores investment in Venezuela despite lingering sanctions that complicate business opportunities. Financial and diplomatic pressures also surface in Europe, where the UK fines Bank of Scotland for facilitating transactions for a sanctioned Putin ally, underscoring ongoing enforcement of Western sanctions against Russia. Domestically, mass protests in Minnesota highlight growing opposition to ICE operations, with organizers demanding the agency’s withdrawal from the state.
+Geopolitical tensions and domestic unrest dominate this week’s headlines, with the U.S. facing both internal and external challenges. In Minnesota, public outrage escalates as President Trump’s Border Patrol commander, Greg Bovino, prepares to withdraw agents following the killing of two U.S. citizens by federal officers. The move comes amid mass protests, including a statewide strike demanding ICE’s removal and an investigation into constitutional violations. Meanwhile, Trump’s aggressive trade policies remain in focus, with threats of a new trade war looming even as courts consider limiting his tariff authority. His administration also signals interest in U.S. investment in Venezuela, though sanctions continue to hinder economic engagement. Internationally, diplomatic strains intensify between China and Japan, with Chinese tourism to Japan plummeting after Tokyo’s remarks on potential military involvement in a Taiwan conflict. In Europe, the UK fines Bank of Scotland £160,000 for facilitating transactions for a sanctioned Putin ally, underscoring ongoing efforts to enforce sanctions against Russian elites. Malaysia, too, grapples with trade dilemmas, opting to review its controversial U.S. trade deal while cautioning against withdrawal despite domestic opposition.
 
 **Top Articles:**
+- [Trump’s Border Enforcer Bovino Plans to Leave Minnesota](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrump-s-border-enforcer-bovino-plans-to-leave-minnesota-video)
 - [Malaysia to Study US Trade Deal But Warns Against Quitting Pact](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysia-to-study-us-trade-deal-but-warns-against-quitting-pact)
 - [Bank of Scotland fined £160,000 over account for sanctioned Putin ally](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fbank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov)
 - [Minnesotans strike in protest against ICE surge: ‘No work, no school, no shopping’](https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F23%2Fminnesota-economic-blackout-ice-protests)
 - [Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fbusiness%2Fvenezuela-sanctions.html)
-- [Trump Threatens New Trade War as Court Weighs Whether to Check Him](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html)
 
 **Sources**: archive.ph (7 articles)
 
@@ -21,32 +21,45 @@ Geopolitical tensions and economic shifts dominate global headlines this week. I
 
 ## 💰 Finance, Economics & Business
 
-Global markets are navigating a mix of geopolitical tensions, central bank caution, and shifting investor sentiment. The Federal Reserve signals a pause in rate cuts despite political pressure from President Trump, while the ECB emphasizes maintaining 'full optionality' amid economic uncertainty. Gold surges past $5,000 an ounce as investors flee the dollar, reflecting growing unease over U.S. isolationism and trade volatility. Meanwhile, corporate America faces headwinds: GM reports a $7.1 billion EV-related write-down, and FAT Brands files for bankruptcy, underscoring challenges in consumer sectors. Trade dynamics remain fluid, with China pivoting to Brazilian soybeans after meeting U.S. commitments, and Trump threatening new tariffs on South Korea. Against this backdrop, stocks hover near record highs, led by tech, while bond traders eye opportunities in long-duration Treasuries as yields approach 5%.
+Markets are showing resilience amid geopolitical and economic uncertainty, with US stocks pressing toward record highs led by tech shares, while gold surges past $5,000 an ounce as investors seek safe havens. The Federal Reserve is expected to pause rate cuts despite political pressure, signaling confidence in a steadier jobs market. Meanwhile, corporate America is navigating mixed earnings reports—GM beats expectations but announces restructuring, while Tesla faces profit skepticism even as its stock price targets rise. Retail investors continue to influence markets, buying dips and sustaining momentum, while M&A activity heats up with Capital One’s $5.15 billion acquisition of Brex. Commodities like silver and oil are also in focus, with silver rallying on Chinese demand and oil stabilizing despite supply concerns.
 
 **Top Articles:**
-- [ECB Must Keep ‘Full Optionality’ on Rates, Kocher Says](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fecb-must-keep-full-optionality-on-rates-kocher-says-video)
-- [Stock Rotation Finally Holds As Wall Street Chases New Leaders](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-rotation-finally-holds-as-wall-street-chases-new-leaders)
-- [Bond-Market Contrarians Look to Buy US 30-Year Near 5% Yield](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-market-contrarians-look-to-buy-us-30-year-near-5-yield)
-- [TACO Tracking: Trump Carries Out Just One in Four Tariff Threats](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbluffing-or-not-counting-trump-s-tariff-threats-versus-actions)
-- [As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html)
+- [GM tops earnings expectations, announces dividend increase and stock buyback program](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html)
+- [Tesla’s Price Target Is Rising Even as Its Profit Outlook Tanks](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftesla-s-price-target-is-rising-even-as-its-profit-outlook-tanks)
+- [Bitcoin Believers Are Looking to Stocks and Gold](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fbitcoin-believers-are-looking-to-stocks-and-gold)
+- [Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore](https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html)
+- [Goldman Says Market Most Risk-On Since 2021 on Global Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-says-market-most-risk-on-since-2021-on-global-growth)
 
-**Sources**: archive.ph (86 articles)
+**Sources**: archive.ph (84 articles)
 
 ---
 
 ## 💻 Technology
 
-This week’s headlines highlight a mix of economic shifts, tech developments, and regulatory challenges. Spain’s unemployment rate drops below 10% for the first time since 2008, signaling economic recovery, while global growth faces threats from record debt levels in wealthy nations. In tech, AI continues to dominate, with concerns over AI-generated content fueling mental health crises and the EU launching an inquiry into X over Grok AI’s explicit image generation. Meanwhile, TikTok restructures its U.S. operations amid regulatory scrutiny, and Nvidia’s CEO plans a China visit as AI chip sales stall. Corporate moves include Adani Group partnering with Embraer to build aircraft in India and Berkshire Hathaway exiting its stake in Kraft Heinz. The week also saw disruptions from a major winter storm, causing widespread flight cancellations and power outage risks across the U.S.
+This week's headlines are dominated by a mix of economic uncertainty, tech industry shifts, and geopolitical tensions. In tech, Nvidia CEO Jensen Huang's upcoming visit to China underscores the company's efforts to navigate stalled AI chip sales amid U.S.-China trade restrictions, while TikTok's corporate restructuring in the U.S. raises questions about future app changes for its 200 million American users. Meanwhile, the EU launches an investigation into Elon Musk's X over AI-generated explicit content, highlighting growing regulatory scrutiny of AI ethics. On the economic front, record debt levels in wealthy nations threaten global growth, with Germany's bond sale drawing near-record demand as investors seek stability. The U.S. housing market faces a bleak outlook as pending home sales drop sharply, while automakers grapple with slowing demand and affordability challenges. Geopolitical tensions persist as Trump's unpredictable policies keep allies on edge, particularly after his reversal on Greenland threats at Davos. The aviation sector continues to face disruptions from winter storms, though Transportation Secretary Sean Duffy predicts normalcy by midweek. Finally, AI's societal impact comes into focus, with reports of chatbots contributing to mental health crises and Claude Code enabling non-coders to build applications, signaling both the promise and peril of rapidly advancing AI tools.
 
 **Top Articles:**
+- [US Airlines Cut More Flights, Brace for Another Storm](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-airlines-cut-more-flights-brace-for-another-storm-video)
+- [Modi’s $100 Billion Oil Drilling Plan Aims to Cut Indian Imports](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmodi-s-100-billion-oil-drilling-plan-aims-to-cut-indian-imports)
+- [A year later, federal authorities will reveal what caused fatal DCA crash](https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F)
 - [Transportation Safety Board Set to Declare Cause of Midair Collision](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftransportation-safety-board-set-to-declare-cause-of-midair-collision.html)
 - [Spain’s Jobless Rate Drops Below 10% for First Time Since 2008](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fspain-s-jobless-rate-drops-below-10-for-first-time-since-2008)
-- [Adani Group, Embraer Enter a Pact to Build Aircraft in India](https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadani-group-embraer-enter-a-pact-to-build-aircraft-in-india)
-- [Record Debt in the World’s Richest Nations Threatens Global Growth](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html)
-- [A Year After DC Plane Crash, Concerns About Airport’s Safety Continue](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Freagan-national-airport-crash.html)
 
-**Sources**: archive.ph (70 articles)
+**Sources**: archive.ph (73 articles)
 
 ---
 
-*Digest generated on January 27, 2026 at 10:56 AM *
+## ⚽ Sports
+
+The Washington Post reverses its initial decision to skip in-person coverage of the upcoming Winter Olympics in Italy, announcing it will now send a small team of reporters just weeks before the Games begin. The abrupt change follows widespread criticism of the paper's earlier plan to rely solely on remote reporting, underscoring the significance of on-the-ground journalism for major global events. Meanwhile, in golf, Saudi Arabia-backed LIV Golf continues its controversial partnership with former President Donald Trump's properties, confirming another tournament at a Trump Organization resort in New Jersey. This marks at least the sixth event hosted at Trump-owned venues since the breakaway league's inception, further cementing the alliance between the two entities. The move draws attention to the ongoing intersection of sports, politics, and business as LIV Golf expands its footprint in the U.S.
+
+**Top Articles:**
+- [Washington Post Reverses Decision on Olympics Coverage](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html)
+- [Washington Post Tears Up Plans to Cover Winter Olympics](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html)
+- [Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort](https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F23%2Fus%2Fpolitics%2Fsaudi-arabia-liv-golf-trump.html)
+
+**Sources**: archive.ph (3 articles)
+
+---
+
+*Digest generated on January 27, 2026 at 11:46 AM *

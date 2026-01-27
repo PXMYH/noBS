@@ -1,5 +1,71 @@
 [
   {
+    "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
+    "published": "Tue, 27 Jan 2026 11:30:20 CST",
+    "summary": "GM recorded $7.2 billion in special charges for the fourth quarter of 2025,\nlargely related to its pullback in electric vehicles and restructuring in\nChina.\n\n"
+  },
+  {
+    "title": "Tesla’s Price Target Is Rising Even as Its Profit Outlook Tanks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftesla-s-price-target-is-rising-even-as-its-profit-outlook-tanks",
+    "published": "Tue, 27 Jan 2026 11:27:16 CST",
+    "summary": "Wall Street is giving off mixed signals about Tesla Inc. Analysts are\nincreasingly skeptical of the electric-vehicle maker’s earnings potential this\nyear, but their expectations for the company’s stock price keep climbing.\n\n"
+  },
+  {
+    "title": "Bitcoin Believers Are Looking to Stocks and Gold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fbitcoin-believers-are-looking-to-stocks-and-gold",
+    "published": "Tue, 27 Jan 2026 11:23:26 CST",
+    "summary": "The original cryptocurrency is down about 25% from its October peak as gold,\nstocks rally.\n\n"
+  },
+  {
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 11:21:36 CST",
+    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "US Airlines Cut More Flights, Brace for Another Storm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-airlines-cut-more-flights-brace-for-another-storm-video",
+    "published": "Tue, 27 Jan 2026 11:20:21 CST",
+    "summary": "US airlines are still paring back flights with the industry bracing for\nfurther disruptions as another arctic blast looms later this week. Benedikt\nKammel reports on Bloomberg Television. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump’s Border Enforcer Bovino Plans to Leave Minnesota",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrump-s-border-enforcer-bovino-plans-to-leave-minnesota-video",
+    "published": "Tue, 27 Jan 2026 11:14:26 CST",
+    "summary": "President Donald Trump’s US Border Patrol commander Greg Bovino and some\nBorder Patrol agents are expected to begin departing Minneapolis as soon as\nTuesday, according to local officials. The move comes following a mounting\npublic outcry over the killing of two US citizens by federal agents in recent\nweeks. Jonathan Tamari of Bloomberg Government has more. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Goldman Says Market Most Risk-On Since 2021 on Global Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-says-market-most-risk-on-since-2021-on-global-growth",
+    "published": "Tue, 27 Jan 2026 11:10:01 CST",
+    "summary": "Investor appetite for risk is the highest in five years as optimism about the\neconomy counters geopolitical uncertainty, according to Goldman Sachs Group\nInc. strategists.\n\n"
+  },
+  {
+    "title": "Modi’s $100 Billion Oil Drilling Plan Aims to Cut Indian Imports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmodi-s-100-billion-oil-drilling-plan-aims-to-cut-indian-imports",
+    "published": "Tue, 27 Jan 2026 11:04:47 CST",
+    "summary": "India’s efforts to expand oil drilling to previously restricted areas could\nhelp attract investments worth $100 billion by the end of the decade, Prime\nMinister Narendra Modi said Tuesday.\n\n"
+  },
+  {
+    "title": "Batistas’ Fintech Prepares for Brazil’s First IPO in Five Years",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbatistas-fintech-prepares-for-brazil-s-first-ipo-in-five-years",
+    "published": "Tue, 27 Jan 2026 11:00:00 CST",
+    "summary": "PicPay, the Brazilian firm that transformed itself from a simple digital\nwallet into a diversified fintech over the past five years, is about to face\nan investor referendum on that strategy shift.\n\n"
+  },
+  {
+    "title": "A year later, federal authorities will reveal what caused fatal DCA crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F",
+    "published": "Tue, 27 Jan 2026 11:00:00 CST",
+    "summary": "Families hope the nearly year-long probe by the National Transportation Safety\nBoard will promote aviation safety reforms.\n\n"
+  },
+  {
+    "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
+    "published": "Tue, 27 Jan 2026 10:53:45 CST",
+    "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
+  },
+  {
     "title": "ECB Must Keep ‘Full Optionality’ on Rates, Kocher Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fecb-must-keep-full-optionality-on-rates-kocher-says-video",
     "published": "Tue, 27 Jan 2026 10:52:31 CST",
@@ -12,7 +78,7 @@
     "summary": "The European Central Bank needs to keep all options available due to the\nunstable global backdrop, particularly on trade, according to Governing\nCouncil member Martin Kocher.\n\n"
   },
   {
-    "title": "Stock Rotation Finally Holds As Wall Street Chases New Leaders",
+    "title": "Stock Rotation Finally Holds as Wall Street Chases New Leaders",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-rotation-finally-holds-as-wall-street-chases-new-leaders",
     "published": "Tue, 27 Jan 2026 10:30:00 CST",
     "summary": "For most of last year, investors were warned that hiding out in Big Tech was\nbecoming a dangerous move. Turned out that wasn’t great advice.\n\n"
@@ -30,7 +96,7 @@
     "summary": "In the $30 trillion US Treasury market, some investors see a budding buying\nopportunity with longer-maturity yields approaching levels rarely seen in the\npast two decades.\n\n"
   },
   {
-    "title": "TACO Tracking: Trump Carries Out Just One in Four Tariff Threats",
+    "title": "TACO Tracking: Trump Carries Out One in Four Tariff Threats",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbluffing-or-not-counting-trump-s-tariff-threats-versus-actions",
     "published": "Tue, 27 Jan 2026 10:05:21 CST",
     "summary": "In less than three weeks, President Donald Trump has issued four sweeping\ntariff threats that, in normal times, would rattle investors, unnerve CEOs and\nsend economists rushing to revise their growth forecasts for the targeted\ncountries.\n\n"
@@ -38,13 +104,13 @@
   {
     "title": "Transportation Safety Board Set to Declare Cause of Midair Collision",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftransportation-safety-board-set-to-declare-cause-of-midair-collision.html",
-    "published": "Tue, 27 Jan 2026 10:04:12 CST",
+    "published": "Tue, 27 Jan 2026 10:04:13 CST",
     "summary": "The National Transportation Safety Board is set to vote on the probable cause\nof last year’s crash near Washington and make recommendations.\n\n"
   },
   {
     "title": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
-    "published": "Tue, 27 Jan 2026 10:03:51 CST",
+    "published": "Tue, 27 Jan 2026 10:03:52 CST",
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not yet experiencing the “golden age” that the\npresident promised.\n\n"
   },
   {
@@ -72,12 +138,6 @@
     "summary": "Close Brothers Group Plc is selling £250 million ($342 million) of Tier 2\nnotes on Tuesday as possible delays to the UK motor finance complaints support\nthe lender’s outlook.\n\n"
   },
   {
-    "title": "Chinese Consumers Are More Thrifty Than Before Trump’s Trade War",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchinese-consumers-are-more-thrifty-than-before-trump-s-trade-war",
-    "published": "Tue, 27 Jan 2026 09:49:51 CST",
-    "summary": "More Chinese households want to increase saving and reduce spending than\nbefore the latest trade war with the US, according to a survey by the central\nbank.\n\n"
-  },
-  {
     "title": "Spain’s Jobless Rate Drops Below 10% for First Time Since 2008",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fspain-s-jobless-rate-drops-below-10-for-first-time-since-2008",
     "published": "Tue, 27 Jan 2026 09:39:22 CST",
@@ -102,13 +162,7 @@
     "summary": "Glencore Plc tops the list of European companies identified by M&A experts as\npotential takeover targets for 2026 as dealmaking activity roars out of the\ngate this year.\n\n"
   },
   {
-    "title": "Breitling CEO Expects Trump to Cut Tariffs for Swiss Watchmakers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbreitling-ceo-expects-trump-to-cut-tariffs-for-swiss-watchmakers",
-    "published": "Tue, 27 Jan 2026 09:10:09 CST",
-    "summary": "Breitling AG’s chief executive officer expects the US to cut tariffs on Swiss\nwatches, underscoring his bullishness on the private equity-backed firm’s\nbiggest market even as Washington keeps the industry guessing.\n\n"
-  },
-  {
-    "title": "Dollar Traders Are Paying a Record to Bet on a Deeper Selloff",
+    "title": "Dollar Traders Are Paying a Record to Bet on Deeper Selloff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fdollar-traders-are-paying-a-record-to-bet-on-a-deeper-selloff",
     "published": "Tue, 27 Jan 2026 09:10:00 CST",
     "summary": "Dollar traders are paying the most on record to bet on a deeper selloff in the\ngreenback as a volatile US political landscape triggers a rush into bearish\nhedges.\n\n"
@@ -120,58 +174,28 @@
     "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
   },
   {
-    "title": "MUFG Weighs Insurer-Friendly SRT Tied to $2.5 Billion of Loans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmufg-weighs-insurer-friendly-srt-tied-to-2-5-billion-of-loans",
-    "published": "Tue, 27 Jan 2026 08:47:53 CST",
-    "summary": "Mitsubishi UFJ Financial Group Inc. is considering issuing a significant risk\ntransfer that’s designed to appeal to insurance companies, according to people\nfamiliar with the matter.\n\n"
-  },
-  {
-    "title": "More Bullish for Investors Than Traders: 3-Minutes MLIV",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fmore-bullish-for-investors-than-traders-3-minutes-mliv-video",
-    "published": "Tue, 27 Jan 2026 08:44:31 CST",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "ECB Study Finds ‘Pricing Cascades’ Can Cause Inflationary Wave",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecb-study-finds-pricing-cascades-can-cause-inflationary-wave",
-    "published": "Tue, 27 Jan 2026 08:43:26 CST",
-    "summary": "A relatively contained price shock can trigger a massive inflationary episode\nif it hits a closely connected network of firms, according to research by the\nEuropean Central Bank.\n\n"
-  },
-  {
-    "title": "Adani Group, Embraer Enter a Pact to Build Aircraft in India",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadani-group-embraer-enter-a-pact-to-build-aircraft-in-india",
-    "published": "Tue, 27 Jan 2026 08:42:35 CST",
-    "summary": "Billionaire Gautam Adani’s conglomerate and Brazil’s Embraer SA announced a\npartnership to build aircraft in India in what would be the country’s first\nmanufacturing facility in civil aviation.\n\n"
-  },
-  {
-    "title": "Indian Oil to Buy More Brazil Barrels Over Next Two Years",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Findian-oil-to-buy-more-brazil-barrels-over-next-two-years",
-    "published": "Tue, 27 Jan 2026 08:31:06 CST",
-    "summary": "Indian Oil Corp., the country’s largest refiner, will buy at least 24 million\nbarrels of Brazilian crude this year and next as it continues to diversify\nsupplies, according to an executive at the state-owned firm who asked not to\nbe identified.\n\n"
-  },
-  {
-    "title": "Germany Tests Demand for New 20-Year Bond in Sale Via Banks",
+    "title": "Germany’s New 20-Year Bond Sale Draws Near Record Demand",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgermany-tests-demand-for-new-20-year-bond-in-sale-via-banks",
     "published": "Tue, 27 Jan 2026 08:29:25 CST",
-    "summary": "Germany is selling 20-year bonds through banks for the first time ever, a test\nof investor appetite for a sector that has suffered a mixed reception in the\nUS.\n\n"
+    "summary": "Germany is seeking to raise €6.5 billion ($7.7 billion) from its first ever\nsale of new 20-year bonds, with investors piling in at a near record rate.\n\n"
   },
   {
-    "title": "Goldman, Morgan Stanley’s South Africa Inflation Call Undercuts Central Bank",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-morgan-stanley-s-south-africa-inflation-call-undercuts-central-bank",
-    "published": "Tue, 27 Jan 2026 06:06:29 CST",
-    "summary": "Goldman Sachs Group Inc. and Morgan Stanley see room for the South African\nReserve Bank to lower its inflation forecast for 2026, as policymakers prepare\nfor their first interest-rate decision of the year later this week.\n\n"
+    "title": "Insight with Haslinda Amin 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Finsight-with-haslinda-amin-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 07:08:53 CST",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-\nprofile interviews and analysis to give viewers the complete picture on the\nstories that matter. The show features prominent leaders spanning the worlds\nof business, finance, politics and culture. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Silver’s Rally Fueled by China Buying and Supply Tightness",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-rally-fueled-by-broad-demand-and-speculation-refiner",
+    "published": "Tue, 27 Jan 2026 05:36:26 CST",
+    "summary": "Silver’s record-breaking rally is being supported by swelling physical demand\ncombined with speculative interest in a relatively illiquid market, with signs\nthat buyers in China are leading the drive.\n\n"
   },
   {
     "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html",
     "published": "Tue, 27 Jan 2026 05:01:11 CST",
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
-  },
-  {
-    "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects amid major electric vehicle write-downs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgeneral-motors-gm-earnings-q4-2025.html",
-    "published": "Tue, 27 Jan 2026 05:01:01 CST",
-    "summary": "GM plans to record $7.1 billion in special charges for the fourth quarter of\n2025 related to its pullback in electric vehicles and restructuring in China.\n\n"
   },
   {
     "title": "Gold Rally Has Room to Run on Dollar Exodus, Amundi Says",
@@ -190,12 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffatburger-owner-files-bankruptcy-overwhelmed-by-debt",
     "published": "Tue, 27 Jan 2026 03:06:14 CST",
     "summary": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and\nTwin Peaks, filed for bankruptcy, adding to a string of casual-dining brands\nthat have sought court protection from creditors.\n\n"
-  },
-  {
-    "title": "Lone Pop Mart Bear Analyst Defies Rally by Cutting Price Target",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flone-pop-mart-bear-analyst-defies-rally-by-cutting-price-target",
-    "published": "Tue, 27 Jan 2026 02:36:06 CST",
-    "summary": "The only analyst with a sell-equivalent rating on Pop Mart International Group\nLtd. has lowered her price target, defying a rally in the stock as a tug-of-\nwar between bulls and bears on the hotly debated Chinese toymaker intensifies.\n\n"
   },
   {
     "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
@@ -234,10 +252,10 @@
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "Stocks Close In on Highs as Tech Leads Charge: Markets Wrap",
+    "title": "Stocks Set Sights on Highs as Tech Leads Charge: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Global stocks are pressing toward record highs, with technology shares leading\nthe advance as the earnings season moves into its busiest phase. Gold climbed\nfor a seventh straight day.\n\n"
+    "summary": "US stocks are pressing toward a record high, with technology shares leading\nthe advance as the earnings season moves into its busiest phase. Gold climbed\nfor a seventh straight day.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -316,12 +334,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fgold-prices-record-5000-ounce-trump-turmoil",
     "published": "Mon, 26 Jan 2026 16:05:28 CST",
     "summary": "Investors seek safe haven in precious metal, while Japan’s government spooks\nmoney markets with tax-cuts pledge\n\nThe price of gold has jumped above $5,000 an ounce for the first time as\nDonald Trump’s chaotic policies and proclamations drive more investors to seek\nsafe harbour in the precious metal.\n\nGold reached a record high of $5,100 (£3,723) on Monday morning, before easing\nback to settle up 2.2% at $5,091.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fminnesota-target-general-mills-ceo-letter.html",
-    "published": "Mon, 26 Jan 2026 16:03:24 CST",
-    "summary": "The letter from chief executives at some of the state’s most recognizable\ncompanies like Target and Cargill stops short of condemning the recent\nkillings by federal immigration agents.\n\n"
   },
   {
     "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
@@ -934,12 +946,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F19%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court-greer-trade.html",
     "published": "Mon, 19 Jan 2026 15:28:05 CST",
     "summary": "If the Supreme Court rules against its tariffs, the Trump administration would\nbegin replacing them immediately, said Jamieson Greer, the United States Trade\nRepresentative.\n\n"
-  },
-  {
-    "title": "Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F19%2Fvenezuelans-turned-to-tether-issued-usdt-stablecoin-as-its-government-wobbled.html",
-    "published": "Mon, 19 Jan 2026 13:50:12 CST",
-    "summary": "Locals in Venezuela, as well as others living under unstable regimes, are\nturning to USDT as protection from political and economic uncertainties.\n\n"
   },
   {
     "title": "Stellantis stock off 43% as Jeep maker turns five, executes turnaround",
