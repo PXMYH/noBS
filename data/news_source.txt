@@ -1,5 +1,47 @@
 [
   {
+    "title": "FTSE 100 Set to Rise, Pound Holds Near $1.37",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-27%2Fftse-100-live-pound-trump-trade-dollar-gold-yen-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Tue, 27 Jan 2026 06:41:27 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "Subaru to Buy Back Up to $194 Million of Bonds Above Market Price",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsubaru-to-buy-back-up-to-30-billion-of-bonds-above-market-price",
+    "published": "Tue, 27 Jan 2026 06:24:34 CST",
+    "summary": "Subaru Corp. plans to buy back as much as roughly ¥30 billion ($194 million)\nof outstanding corporate bonds to reduce its debt, the company said.\n\n"
+  },
+  {
+    "title": "Evergrande Property Said to Expect Binding Offers by This Month",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fevergrande-property-said-to-expect-binding-offers-by-this-month",
+    "published": "Tue, 27 Jan 2026 06:23:16 CST",
+    "summary": "Liquidators of China Evergrande Group are expected to receive binding offers\nfrom buyers for the firm’s Hong Kong-listed property management unit as soon\nas the end of this month, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Goldman, Morgan Stanley’s South Africa Inflation Call Undercuts Central Bank",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgoldman-morgan-stanley-s-south-africa-inflation-call-undercuts-central-bank",
+    "published": "Tue, 27 Jan 2026 06:06:29 CST",
+    "summary": "Goldman Sachs Group Inc. and Morgan Stanley see room for the South African\nReserve Bank to lower its inflation forecast for 2026, as policymakers prepare\nfor their first interest-rate decision of the year later this week.\n\n"
+  },
+  {
+    "title": "Eataly Chairman Farinetti on Expansion Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Feataly-chairman-farinetti-on-expansion-plans-video",
+    "published": "Tue, 27 Jan 2026 05:54:28 CST",
+    "summary": "Nicola Farinetti, Chairman of Eataly, discusses global expansion plan and\ngrowth strategy. He speaks exclusively with Bloomberg’s David Ingles at the\nAsian Financial Forum in Hong Kong. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Honeywell's Maheshwari On India's Trade Deals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhoneywell-s-maheshwari-on-india-s-trade-deals-video",
+    "published": "Tue, 27 Jan 2026 05:51:16 CST",
+    "summary": "Honeywell President & CEO, Global Regions, Anant Maheshwari discusses the\npotential impact of India's trade deals on Honeywell's businesses. He speaks\nwith Menaka Doshi from the sidelines of India Energy Week 2026. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Silver’s Rally Fueled by Broad Demand and Speculation: Refiner",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-rally-fueled-by-broad-demand-and-speculation-refiner",
+    "published": "Tue, 27 Jan 2026 05:36:26 CST",
+    "summary": "Silver’s record-breaking rally is being driven by a collision of unprecedented\nphysical demand and speculative interest in a relatively illiquid market,\naccording to a leading refiner and trader.\n\n"
+  },
+  {
     "title": "Goldman's CEO Says Washington Is \"Open for Business\"",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-ceo-says-washington-is-open-for-business-video",
     "published": "Tue, 27 Jan 2026 05:35:44 CST",
@@ -12,10 +54,10 @@
     "summary": "Elliott Investment Management repeated its call for investors to reject the\nToyota group’s bid to buy out a key unit, arguing this month’s sweetened offer\nstill “substantially undervalues” the company and that it can achieve greater\nvalue on its own.\n\n"
   },
   {
-    "title": "SK Hynix Shares Eye Record High on Microsoft Supply Deal Report",
+    "title": "SK Hynix Shares Hit Record High on Microsoft Supply Deal Report",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsk-hynix-shares-eye-record-high-on-microsoft-supply-deal-report",
     "published": "Tue, 27 Jan 2026 05:12:46 CST",
-    "summary": "SK Hynix Inc. shares jumped, headed for an all-time high closing level, after\nlocal media said the company is the sole supplier of advanced memory for\nMicrosoft Corp.’s new artificial intelligence chip.\n\n"
+    "summary": "SK Hynix Inc. shares jumped to an all-time high after local media said the\ncompany is the sole supplier of advanced memory for Microsoft Corp.’s new\nartificial intelligence chip.\n\n"
   },
   {
     "title": "Primavera Capital's Zhu on China's Economy",
@@ -42,10 +84,10 @@
     "summary": "GM plans to record $7.1 billion in special charges for the fourth quarter of\n2025 related to its pullback in electric vehicles and restructuring in China.\n\n"
   },
   {
-    "title": "Thailand’s Finance Ministry Cuts 2025 Growth Forecast to 2.2%",
+    "title": "Thai Finance Ministry Cuts 2025 Growth Estimate to 2.2%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fthailand-s-finance-ministry-cuts-2025-growth-forecast-to-2-2",
     "published": "Tue, 27 Jan 2026 05:00:19 CST",
-    "summary": "Thailand’s economy is poised to expand at its slowest pace in three years in\n2026 as exports and domestic demand moderate, according to the Finance\nMinistry.\n\n"
+    "summary": "Thailand’s Ministry of Finance revised down its estimate for last year’s\ngrowth and signaled the economy will expand at its slowest pace in three years\nin 2026 as exports and domestic demand moderate.\n\n"
   },
   {
     "title": "Trouble for Cognac Makers as Sales Go Down the Drain",
@@ -90,36 +132,6 @@
     "summary": "Malaysian retailer MR DIY Group M. Bhd., Southeast Asia’s top-performing stock\nthis month, is drawing further bullish bets as analysts anticipate upside from\nthe country’s improving consumption outlook.\n\n"
   },
   {
-    "title": "Japan’s Bond Meltdown Spurs Speculation of GPIF Portfolio Shift",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-bond-meltdown-spurs-speculation-of-gpif-portfolio-shift",
-    "published": "Tue, 27 Jan 2026 04:00:25 CST",
-    "summary": "Investors gaming out how Japan can calm its volatile bond market and prop up\nthe yen see a possible answer in the $1.8 trillion Government Pension\nInvestment Fund.\n\n"
-  },
-  {
-    "title": "Trump Threatens to Hike Tariffs on South Korea | The Asia Trade 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-asia-trade-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 03:52:23 CST",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Goldman’s Solomon on the State of Global Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-solomon-on-the-state-of-global-markets-video",
-    "published": "Tue, 27 Jan 2026 03:45:18 CST",
-    "summary": "Goldman Sachs CEO David Solomon outlines key tailwinds and risks for the US\neconomy -- and what they could mean for monetary policy -- in an exclusive\ninterview with Bloomberg’s Stephen Engle at the Goldman Sachs Global Macro\nConference Asia-Pacific 2026. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Japanese Insurers Stay Away From Bonds on View Yields to Rebound",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapanese-insurers-stay-away-from-bonds-on-view-yields-to-rebound",
-    "published": "Tue, 27 Jan 2026 03:45:00 CST",
-    "summary": "Japan’s mid-sized life insurers are joining their larger peers in avoiding the\nnation’s super-long government debt.\n\n"
-  },
-  {
-    "title": "Blue Owl’s James Clarke on Private Credit Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fblue-owl-s-james-clarke-on-private-credit-outlook-video",
-    "published": "Tue, 27 Jan 2026 03:43:03 CST",
-    "summary": "Blue Owl Capital sees rising opportunities in private credit as wealthy\nAustralians invest more in private markets. Global head of institutional\ncapital James Clarke discusses the opportunities and risks amid geopolitical\ntensions and President Trump's tariff threats on 'Bloomberg: The Asia Trade.'\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Korean Stocks Charge Ahead as Trump Tariff Threat Fuels Dip Buys",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fkorean-stocks-charge-ahead-as-trump-tariff-threat-fuels-dip-buys",
     "published": "Tue, 27 Jan 2026 03:33:50 CST",
@@ -136,30 +148,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffatburger-owner-files-bankruptcy-overwhelmed-by-debt",
     "published": "Tue, 27 Jan 2026 03:06:14 CST",
     "summary": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and\nTwin Peaks, filed for bankruptcy, adding to a string of casual-dining brands\nthat have sought court protection from creditors.\n\n"
-  },
-  {
-    "title": "Top US Grid Gets OK to Divert Data Center Power to Households",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftop-us-grid-gets-ok-to-divert-data-center-power-to-households",
-    "published": "Tue, 27 Jan 2026 02:54:28 CST",
-    "summary": "The largest US grid operator was granted authority to divert power destined\nfor data centers to households, hospitals and other customers to prevent\nrolling blackouts as an extreme cold snap strains electricity supplies.\n\n"
-  },
-  {
-    "title": "US Natural Gas Dips After Surging Almost 30% on Arctic Blast",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-natural-gas-dips-after-surging-almost-30-on-arctic-blast",
-    "published": "Tue, 27 Jan 2026 02:46:07 CST",
-    "summary": "US natural gas fell as traders took profits after prices shot up nearly 30% on\nMonday as freezing temperatures covering vast swathes of the country pushed up\nheating demand.\n\n"
-  },
-  {
-    "title": "Adani Stocks, Precious Metals, Fed in Focus as India Traders Return From Break",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fadani-group-stocks-gold-silver-are-in-focus-as-india-traders-return-from-break",
-    "published": "Tue, 27 Jan 2026 02:45:49 CST",
-    "summary": "Earnings, India-EU trade talks and budget make for a busy week ahead.\n\n"
-  },
-  {
-    "title": "China’s Industrial Profits Post First Yearly Increase Since 2021",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-s-industrial-profits-reverse-slump-after-deflation-eases",
-    "published": "Tue, 27 Jan 2026 01:35:00 CST",
-    "summary": "China’s industrial enterprises had their first annual gain in profits since\n2021, as producer deflation showed signs of easing in the wake of government\nefforts to curb excess competition and cut capacity.\n\n"
   },
   {
     "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
@@ -208,6 +196,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
     "summary": "Stocks extended their rally into a fifth session while currencies steadied\nafter a volatile Monday, as markets regained some stability following\nspeculation over possible yen intervention.\n\n"
+  },
+  {
+    "title": "African Nations Sell Eurobonds as Demand for Riskier Assets Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcameroon-sells-750-million-dollar-bond-after-benin-deal",
+    "published": "Mon, 26 Jan 2026 22:15:36 CST",
+    "summary": "Cameroon became the second African nation in less than a week to sell dollar\nbonds, as frontier markets take advantage of risk-on sentiment to raise funds.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
