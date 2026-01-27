@@ -1,5 +1,77 @@
 [
   {
+    "title": "Japan’s Bond Meltdown Spurs Speculation of GPIF Portfolio Shift",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-bond-meltdown-spurs-speculation-of-gpif-portfolio-shift",
+    "published": "Tue, 27 Jan 2026 04:00:25 CST",
+    "summary": "Investors gaming out how Japan can calm its volatile bond market and prop up\nthe yen see a possible answer in the $1.8 trillion Government Pension\nInvestment Fund.\n\n"
+  },
+  {
+    "title": "Goldman’s Solomon on the State of Global Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fgoldman-s-solomon-on-the-state-of-global-markets-video",
+    "published": "Tue, 27 Jan 2026 03:45:18 CST",
+    "summary": "Goldman Sachs CEO David Solomon outlines key tailwinds and risks for the US\neconomy -- and what they could mean for monetary policy -- in an exclusive\ninterview with Bloomberg’s Stephen Engle at the Goldman Sachs Global Macro\nConference Asia-Pacific 2026. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japanese Insurers Stay Away From Bonds on View Yields to Rebound",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapanese-insurers-stay-away-from-bonds-on-view-yields-to-rebound",
+    "published": "Tue, 27 Jan 2026 03:45:00 CST",
+    "summary": "Japan’s mid-sized life insurers are joining their larger peers in avoiding the\nnation’s super-long government debt.\n\n"
+  },
+  {
+    "title": "Blue Owl’s James Clarke on Private Credit Outlook",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fblue-owl-s-james-clarke-on-private-credit-outlook-video",
+    "published": "Tue, 27 Jan 2026 03:43:03 CST",
+    "summary": "Blue Owl Capital sees rising opportunities in private credit as wealthy\nAustralians invest more in private markets. Global head of institutional\ncapital James Clarke discusses the opportunities and risks amid geopolitical\ntensions and President Trump's tariff threats on 'Bloomberg: The Asia Trade.'\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Korean Stocks Charge Ahead as Trump Tariff Threat Fuels Dip Buys",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fkorean-stocks-charge-ahead-as-trump-tariff-threat-fuels-dip-buys",
+    "published": "Tue, 27 Jan 2026 03:33:50 CST",
+    "summary": "South Korean stocks swung to gains, as investors took an early drop on\nPresident Donald Trump’s latest tariff threat as an opportunity to buy in one\nof the world’s hottest markets.\n\n"
+  },
+  {
+    "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-rare-earth-howard-lutnick.html",
+    "published": "Tue, 27 Jan 2026 03:26:49 CST",
+    "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
+  },
+  {
+    "title": "Fatburger Owner Files Bankruptcy in Latest Casual-Dining Demise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffatburger-owner-files-bankruptcy-overwhelmed-by-debt",
+    "published": "Tue, 27 Jan 2026 03:06:14 CST",
+    "summary": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and\nTwin Peaks, filed for bankruptcy, adding to a string of casual-dining brands\nthat have sought court protection from creditors.\n\n"
+  },
+  {
+    "title": "Top US Grid Gets OK to Divert Data Center Power to Households",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftop-us-grid-gets-ok-to-divert-data-center-power-to-households",
+    "published": "Tue, 27 Jan 2026 02:54:28 CST",
+    "summary": "The largest US grid operator was granted authority to divert power destined\nfor data centers to households, hospitals and other customers to prevent\nrolling blackouts as an extreme cold snap strains electricity supplies.\n\n"
+  },
+  {
+    "title": "US Natural Gas Dips After Surging Almost 30% on Arctic Blast",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-natural-gas-dips-after-surging-almost-30-on-arctic-blast",
+    "published": "Tue, 27 Jan 2026 02:46:07 CST",
+    "summary": "US natural gas fell as traders took profits after prices shot up nearly 30% on\nMonday as freezing temperatures covering vast swathes of the country pushed up\nheating demand.\n\n"
+  },
+  {
+    "title": "Adani Stocks, Precious Metals, Fed in Focus as India Traders Return From Break",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Fadani-group-stocks-gold-silver-are-in-focus-as-india-traders-return-from-break",
+    "published": "Tue, 27 Jan 2026 02:45:49 CST",
+    "summary": "Earnings, India-EU trade talks and budget make for a busy week ahead.\n\n"
+  },
+  {
+    "title": "Lone Pop Mart Bear Analyst Defies Rally by Cutting Price Target",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flone-pop-mart-bear-analyst-defies-rally-by-cutting-price-target",
+    "published": "Tue, 27 Jan 2026 02:36:06 CST",
+    "summary": "The only analyst with a sell-equivalent rating on Pop Mart International Group\nLtd. has lowered her price target, defying a rally in the stock as a tug-of-\nwar between bulls and bears on the hotly debated Chinese toymaker intensifies.\n\n"
+  },
+  {
+    "title": "Ecuador Credit Upgraded by Moody’s After $4 Billion Bond Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fecuador-credit-upgraded-by-moody-s-after-4-billion-bond-sale",
+    "published": "Tue, 27 Jan 2026 02:33:22 CST",
+    "summary": "Ecuador’s credit rating was raised by Moody’s Ratings as President Daniel\nNoboa continues improving the country’s fiscal standing.\n\n"
+  },
+  {
     "title": "China’s Zijin Gold Jumps 19% After $4 Billion Africa Mine Deal",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-s-zijin-gold-jumps-19-after-4-billion-africa-mine-deal",
     "published": "Tue, 27 Jan 2026 02:17:56 CST",
@@ -10,12 +82,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-wipeout-threatens-japan-property-fundraising-as-reits-slump",
     "published": "Tue, 27 Jan 2026 02:07:41 CST",
     "summary": "Japan’s bond meltdown last week is threatening to further curb fundraising by\nreal estate investment trusts that has already slowed to a crawl because of\nrising financing costs.\n\n"
-  },
-  {
-    "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-rare-earth-howard-lutnick.html",
-    "published": "Tue, 27 Jan 2026 01:55:38 CST",
-    "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
   },
   {
     "title": "Goldman's Hatzius on Global Economic Outlook",
@@ -90,28 +156,10 @@
     "summary": "Pacific Investment Management Co. is holding fast to its conviction in Japan’s\n30-year government bonds after last week’s rout, joining a growing pool of\ninvestors who see value in the nation’s debt market.\n\n"
   },
   {
-    "title": "Anta Sports Becomes Top Puma Shareholder With $1.8 Billion Stake",
+    "title": "Anta Becomes Top Puma Shareholder With $1.8 Billion Stake",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanta-sports-to-buy-29-stake-in-puma-for-1-8-billion",
     "published": "Tue, 27 Jan 2026 00:13:29 CST",
     "summary": "China’s Anta Sports Products Ltd. has agreed to buy a stake of about 29% in\nPuma SE for €1.5 billion ($1.8 billion), becoming the biggest shareholder in\nthe German company and expanding its portfolio of Western athletic brands.\n\n"
-  },
-  {
-    "title": "UK Should Invest in Energy Over Rail For Growth Boost, BCG Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fuk-should-invest-in-energy-over-rail-for-growth-boost-bcg-says",
-    "published": "Tue, 27 Jan 2026 00:01:00 CST",
-    "summary": "UK ministers should focus their investment splurge on energy and digital\ninfrastructure rather than road and rail in order to get the biggest boost to\neconomic growth, according to new research.\n\n"
-  },
-  {
-    "title": "UK Firms’ Profits Hit by Policy Changes and Geopolitics, EY Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fuk-firms-profits-hit-by-policy-changes-and-geopolitics-ey-says",
-    "published": "Tue, 27 Jan 2026 00:00:01 CST",
-    "summary": "Large UK businesses are seeing their profits eroded by policy changes and\nrising geopolitical instability, according to research carried out by\nconsultancy firm EY.\n\n"
-  },
-  {
-    "title": "China Solar Giant Warns of Demand Whiplash after Rebate Rollback",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fchina-solar-giant-warns-of-demand-whiplash-after-rebate-rollback",
-    "published": "Mon, 26 Jan 2026 23:58:56 CST",
-    "summary": "China’s struggling solar sector faces fresh turbulence as the planned removal\nof a key export-tax rebate threatens to disrupt demand patterns, according to\nLongi Green Energy Technology Co.\n\n"
   },
   {
     "title": "Oil Extends Drop on Supply Outlook as Traders Monitor US Freeze",
@@ -126,52 +174,16 @@
     "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies.\n\n"
   },
   {
-    "title": "US Stocks Rise as Dollar Weakens and Precious Metals Rally | The Close 1/26/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fthe-close-1-26-2026-video",
-    "published": "Mon, 26 Jan 2026 23:14:34 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Niles Investment Management’s Dan Niles, Top CallsEverCore\nISI’s Amit Daryanani, Bank of America’s Carlos Fernandez-Aller, Glenmede’s\nJason Pride, Ned Davis Research’s Ed Clissold, EverCore ISI’s Sarah Bianchi,\nRevelio Labs’ Ben Zweig, Omaha Steaks’ Nate Rempe. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Vale Faces Renewed Safety Concerns After Mine Water Overflows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fvale-faces-renewed-safety-concerns-after-mine-water-overflows",
-    "published": "Mon, 26 Jan 2026 23:09:41 CST",
-    "summary": "Brazilian iron ore miner Vale SA confirmed a second water overflow happened\nover the weekend at its operations in Minas Gerais, a state hit by dam\ncollapses in 2015 and 2019.\n\n"
-  },
-  {
-    "title": "Omaha Steaks CEO: Beef Demand at an All-Time High",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fomaha-steaks-ceo-beef-demand-at-n-all-time-high-video",
-    "published": "Mon, 26 Jan 2026 22:44:54 CST",
-    "summary": "Nate Rempe, CEO of Omaha Steaks, discusses new dietary guidelines and beef\nsupply and demand with Romaine Bostick and Katie Greifeld on “The Close.” He\nsays beef demand is at an all-time high. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Why gold and silver prices are surging at breakneck speeds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F26%2Fgold-silver-record-rally%2F",
     "published": "Mon, 26 Jan 2026 22:34:17 CST",
     "summary": "A record-setting rally in precious metals comes as global investors diversify\naway from the U.S. dollar, a phenomenon known as the “debasement trade.”\n\n"
   },
   {
-    "title": "Asian Stocks Near Record, Yen Steadies After Gains: Markets Wrap",
+    "title": "Asian Stocks Advance to Record, Yen Edges Down: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Asian stocks hovered near record highs and currencies steadied after a\nvolatile session, as markets regained some stability following speculation\nover possible yen intervention.\n\n"
-  },
-  {
-    "title": "Dan Niles: Not All AI-Associated Stocks Will Win",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-26%2Fdan-niles-not-all-ai-associated-stocks-will-win-video",
-    "published": "Mon, 26 Jan 2026 22:30:03 CST",
-    "summary": "Dan Niles, founder of Niles Investment Management, says not all AI-related\ncompanies will secure funding this year. He tells Romaine Bostick and Katie\nGreifeld on “The Close” that Google-linked stocks have risen about 20% since\nlate October, while parts of the open-AI ecosystem have fallen roughly 20%.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "A Trader’s Guide to the Impact of Japan’s Election on Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fa-trader-s-guide-to-the-impact-of-japan-s-election-on-markets",
-    "published": "Mon, 26 Jan 2026 22:27:16 CST",
-    "summary": "Investors in Japan are braced for more volatility in bonds, the risk of\ngovernment intervention in the currency market and frequent swings in stock\nprices as campaigning kicks off on Tuesday for a snap election.\n\n"
-  },
-  {
-    "title": "Cameroon Sells $750 Million Dollar Bond After Benin Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcameroon-sells-750-million-dollar-bond-after-benin-deal",
-    "published": "Mon, 26 Jan 2026 22:15:36 CST",
-    "summary": "Cameroon sold a dollar-denominated bond for the first time since 2024, less\nthan a week after Benin tapped international markets, as frontier issuers\nseize on improving investor sentiment.\n\n"
+    "summary": "Asian stocks climbed to an all-time high and currencies steadied after a\nvolatile day on Monday, as markets regained some stability following\nspeculation over possible yen intervention.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -182,7 +194,7 @@
   {
     "title": "Thousands of Flights Canceled Monday After Snowstorm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fstorm-flight-cancellations-delays.html",
-    "published": "Mon, 26 Jan 2026 21:42:31 CST",
+    "published": "Mon, 26 Jan 2026 21:42:32 CST",
     "summary": "Delays and cancellations persisted a day after more than 11,000 flights were\ncanceled. Airports in the Northeastern U.S. were hit the hardest.\n\n"
   },
   {
@@ -190,12 +202,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
     "published": "Mon, 26 Jan 2026 21:16:38 CST",
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
-  },
-  {
-    "title": "Insurers Sink on US Plan to Keep Medicare Payment Rates Flat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat",
-    "published": "Mon, 26 Jan 2026 21:15:23 CST",
-    "summary": "Shares of major US insurers tumbled after the US proposed holding payments to\nprivate Medicare plans flat next year, a huge disappointment for investors.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -226,6 +232,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fnpr-pbs-stations-funding.html",
     "published": "Mon, 26 Jan 2026 17:45:08 CST",
     "summary": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few\nhave closed their doors. Angst about their long-term future remains.\n\n"
+  },
+  {
+    "title": "Bank of Scotland fined £160,000 over account for sanctioned Putin ally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fbank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov",
+    "published": "Mon, 26 Jan 2026 17:29:13 CST",
+    "summary": "Dmitrii Ovsiannikov, who had held senior roles in Russian government, used a\nvariant spelling of his name to access UK banking system\n\nThe UK’s sanctions watchdog has fined Bank of Scotland £160,000 for opening a\nbank account and processing payments for an ally of Vladimir Putin.\n\nDmitrii Ovsiannikov, who became the first person to be prosecuted for\ncircumventing UK sanctions last year, made 24 payments totalling £77,383 to or\nfrom a personal current account during February 2023.\n\nContinue reading...\n\n"
   },
   {
     "title": "Target's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents",
@@ -276,6 +288,12 @@
     "summary": "Airlines are canceling hundreds of flights over the weekend in anticipation of\nfrigid weather and ice and snow across much of the country.\n\n"
   },
   {
+    "title": "EU launches inquiry into X over sexually explicit images made by Grok AI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F26%2Feu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai",
+    "published": "Mon, 26 Jan 2026 14:27:44 CST",
+    "summary": "Investigation comes after Elon Musk’s firm sparked outrage by allowing users\nto ‘strip’ photos of women and children\n\nThe European Commission has launched an investigation into Elon Musk’s X over\nthe production of sexually explicit images and the spreading of possible child\nsexual abuse material by the platform’s AI chatbot, Grok.\n\nThe formal inquiry, launched on Monday, also extends an investigation into X’s\nrecommender systems, algorithms that help users discover new content.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Feuropean-union-x-grok-ai-images-musk.html",
     "published": "Mon, 26 Jan 2026 14:16:42 CST",
@@ -292,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
-  },
-  {
-    "title": "Mizuho Adds HSBC, JPMorgan, Deutsche Bank Hires in Wave",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fmizuho-adds-hsbc-s-connor-jpmorgan-s-de-maria-to-hiring-wave",
-    "published": "Mon, 26 Jan 2026 12:57:10 CST",
-    "summary": "Mizuho Financial Group Inc. has brought in Jon Connor, Thibaud de Maria and\nRichard Robinson as part of a hiring wave of senior investment bankers, said\npeople familiar with the matter who asked not to be identified because it\nwasn’t public yet.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -340,12 +352,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fmedia%2Ffox-news-minneapolis-shooting.html",
     "published": "Sun, 25 Jan 2026 23:31:25 CST",
     "summary": "Fox anchors were laser focused on promoting the Trump administration’s\nnarrative that the slain protester, Alex Pretti, had brought the violence upon\nhimself.\n\n"
-  },
-  {
-    "title": "Silver Retreats After Best Jump Since 2008 as Gold Tops $5,000",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-25%2Fgold-tops-5-000-as-global-upheaval-fuels-precious-metals-rally",
-    "published": "Sun, 25 Jan 2026 23:06:42 CST",
-    "summary": "Silver gave up most of its gains in late US trading after surging the most\nsince 2008 and gold eased after topping $5,000 an ounce, with heightened\nvolatility disrupting a rally that drove the metals to fresh record highs.\n\n"
   },
   {
     "title": "Energy stocks to watch as major winter storm rips through the U.S.",
@@ -442,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F24%2Fbusiness%2Fmedia%2Fwashington-post-winter-olympics.html",
     "published": "Sat, 24 Jan 2026 16:40:38 CST",
     "summary": "The abrupt change in direction came just weeks before the Olympic Games are\nset to begin in Italy.\n\n"
-  },
-  {
-    "title": "UK expected to reduce amount of steel it allows in tariff-free",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F24%2Fuk-expected-reduce-steel-allows-tariff-free-glut-china",
-    "published": "Sat, 24 Jan 2026 15:00:41 CST",
-    "summary": "Change being considered amid global glut driven by supplies from China along\nwith a rise in protectionism\n\nThe UK is expected to reduce the amount of foreign steel it allows in tariff-\nfree, as the government looks to protect its domestic industry amid a global\nglut and a rise in protectionism.\n\nMinisters are considering changing the quota system that allows a quantity of\nthe metal to be imported before imposing a 25% levy on anything above that\nlevel.\n\nContinue reading...\n\n"
   },
   {
     "title": "Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.",
@@ -786,6 +786,12 @@
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
   },
   {
+    "title": "New Tankers Join Russian Oil Trade as Rates Jump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnew-tankers-enter-russian-oil-trade-after-freight-rates-soar",
+    "published": "Thu, 22 Jan 2026 03:45:11 CST",
+    "summary": "Soaring freight rates -- along with lower oil prices that have reduced the\nrisk of violating curbs on Moscow’s crude sales -- are enticing more shipping\ncompanies to join the Russian trade, with some using nearly new tankers to\nferry fuel around the world.\n\n"
+  },
+  {
     "title": "Australian shares shoot up after Trump walks back tariff threat",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F22%2Faustralian-shares-shoot-up-after-trump-walks-back-tariff-threat",
     "published": "Thu, 22 Jan 2026 03:42:47 CST",
@@ -844,12 +850,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
     "published": "Wed, 21 Jan 2026 13:04:03 CST",
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "Thousands of workers flee Cambodia scam centres, officials say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F21%2Fthousands-of-workers-flee-cambodia-scam-centres-officials-say",
-    "published": "Wed, 21 Jan 2026 06:55:05 CST",
-    "summary": "Amnesty International deeply concerned for scores of people ‘walking around in\nsearch of assistance’\n\nThousands of people, including suspected victims of human trafficking, are\nestimated to have been released or escaped from scam compounds across Cambodia\nover recent days, after growing international pressure to crackdown on the\nmultibillion-dollar industry.\n\nThe Indonesian embassy in Phnom Penh said it had received reports from 1,440\nof its nationals who had been released from scam centres, while large queues\nof Chinese nationals were also seen outside the Chinese embassy.\n\nContinue reading...\n\n"
   },
   {
     "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
