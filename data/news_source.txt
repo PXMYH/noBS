@@ -1,9 +1,87 @@
 [
   {
+    "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
+    "published": "Tue, 27 Jan 2026 22:33:19 CST",
+    "summary": "The dollar dropped about 1.3% on Tuesday.\n\n"
+  },
+  {
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 22:29:43 CST",
+    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
+  },
+  {
+    "title": "Safety Board Heaps Blame on F.A.A. Over Potomac Plane-Helicopter Crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
+    "published": "Tue, 27 Jan 2026 22:26:15 CST",
+    "summary": "The National Transportation Safety Board is set to vote on the probable cause\nof last year’s crash near Washington and make recommendations.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves after hours: Texas Instruments, Seagate Technology, Qorvo and more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-after-hours-txn-stx-qrvo.html",
+    "published": "Tue, 27 Jan 2026 22:22:15 CST",
+    "summary": "These are some of the stocks posting the largest moves in extended trading.\n\n"
+  },
+  {
+    "title": "Stock Surge Boosts Pensions, but Private Markets Risks Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-surge-boosts-pensions-but-private-markets-risks-rise",
+    "published": "Tue, 27 Jan 2026 22:12:30 CST",
+    "summary": "US public pensions could pay almost 90% of promised benefits if investment\ngains made in the first half of the fiscal year persist over the next six\nmonths, but risks are also climbing, according to S&P Global Inc.\n\n"
+  },
+  {
+    "title": "StandardAero Backers Said to Seek $1.6 Billion in Share Sale",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstandardaero-backers-said-to-seek-1-6-billion-in-share-sale",
+    "published": "Tue, 27 Jan 2026 22:05:41 CST",
+    "summary": "A pair of StandardAero Inc.’s largest shareholders are seeking to raise as\nmuch as $1.6 billion in an offering of the aircraft maintenance services\nprovider’s shares, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Returning to the Moon",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Freturning-to-the-moon-video",
+    "published": "Tue, 27 Jan 2026 22:02:18 CST",
+    "summary": "NASA is sending astronauts back to the lunar neighborhood for the first time\nin over 50 years. The Artemis II crew will test a spacecraft that’s to play a\nkey role in America’s return to the moon. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Hidden Risks Build at Vietnam Banks on Mounting Debt Guarantees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fhidden-risks-build-at-vietnam-banks-on-mounting-debt-guarantees",
+    "published": "Tue, 27 Jan 2026 22:00:00 CST",
+    "summary": "Vietnamese lenders are providing more pledges to cover borrowers if they fall\nshort paying back debt, prompting some rating firms to warn of hidden risks in\none of the world’s fastest-growing economies.\n\n"
+  },
+  {
+    "title": "Pop Mart’s Early Backer Bets Price War Will Persist in China",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fpop-mart-s-early-backer-bets-price-war-will-persist-in-china",
+    "published": "Tue, 27 Jan 2026 22:00:00 CST",
+    "summary": "The price war engulfing China’s consumer sector is likely to persist, as\nsluggish demand and rising efficiency at local firms keep driving costs lower,\naccording to a venture capital investor backing some of China’s most\nsuccessful consumer brands.\n\n"
+  },
+  {
+    "title": "FAA ignored warnings before DCA crash, federal investigators say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F",
+    "published": "Tue, 27 Jan 2026 21:53:12 CST",
+    "summary": "Families hope the nearly year-long probe by the National Transportation Safety\nBoard will promote aviation safety changes.\n\n"
+  },
+  {
+    "title": "Bond Traders Target Dovish Fed Pick as Rieder’s Momentum Builds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-traders-target-dovish-fed-pick-as-rieder-s-momentum-builds",
+    "published": "Tue, 27 Jan 2026 21:38:20 CST",
+    "summary": "Bond futures traders are ramping up bets on a dovish policy shift at the\nFederal Reserve as BlackRock Inc.’s chief investment officer Rick Rieder is\ngaining momentum to succeed Jerome Powell.\n\n"
+  },
+  {
     "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fups-jobs-layoffs-2026.html",
     "published": "Tue, 27 Jan 2026 21:36:12 CST",
     "summary": "The delivery company said it was planning the cuts this year because it\nexpected to deliver fewer packages for Amazon, a large but unprofitable\ncustomer.\n\n"
+  },
+  {
+    "title": "BMO Capital Markets Hires Wells Fargo’s Malik as Operating Chief",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbmo-capital-markets-hires-wells-fargo-s-malik-as-operating-chief",
+    "published": "Tue, 27 Jan 2026 21:33:52 CST",
+    "summary": "Bank of Montreal’s capital markets arm has named Aman Malik as chief operating\nofficer, replacing Nina Knezevic in the latest leadership shuffle at the firm.\n\n"
+  },
+  {
+    "title": "Euro Rallies Above $1.20 on Broad Dollar Weakness, Trump Remarks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Feuro-rallies-above-1-20-on-broad-dollar-weakness-trump-remarks",
+    "published": "Tue, 27 Jan 2026 21:31:16 CST",
+    "summary": "The euro climbed above the 1.20 level against the dollar for the first time\nsince June 2021 after President Donald Trump said he was not concerned with\nthe US currency’s decline.\n\n"
   },
   {
     "title": "Meta Campaigns to Change Opinions on Data Centers",
@@ -48,10 +126,10 @@
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
   },
   {
-    "title": "Trump Says He’s Not Concerned With Decline of US Dollar",
+    "title": "Trump Deepens Dollar Woes, Saying He’s Not Concerned About Slump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftrump-says-he-s-not-concerned-with-decline-of-us-dollar",
     "published": "Tue, 27 Jan 2026 20:58:31 CST",
-    "summary": "The dollar extended its slide, staging the biggest one-day drop since April,\nafter President Donald Trump said he didn’t think the currency had weakened\nexcessively.\n\n"
+    "summary": "The dollar sank, deepening a four-day selloff that’s sent it to the lowest\nsince early 2022, after President Donald Trump indicated he’s comfortable with\nthose declines.\n\n"
   },
   {
     "title": "What investors piling into gold and silver can learn from King Henry VIII",
@@ -120,22 +198,16 @@
     "summary": "This week's meeting offers little suspense and probably not much action, even\nas massive changes loom over the Fed's longer-term direction.\n\n"
   },
   {
-    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
-    "published": "Tue, 27 Jan 2026 19:31:23 CST",
-    "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
-  },
-  {
     "title": "Citi Sees Bigger Yen Rally Depending on Shift Back to Japan Bonds",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fciti-sees-bigger-yen-rally-hanging-on-shift-back-to-japan-bonds",
     "published": "Tue, 27 Jan 2026 19:24:46 CST",
     "summary": "The yen’s strongest three-day rally since August 2024 isn’t enough to turn\nCitigroup Inc. strategist Daniel Tobon into a yen bull just yet. To keep the\ngains going, he said, Japanese buyers will need to start shifting cash back to\nthe nation’s bond market again.\n\n"
   },
   {
-    "title": "FAA ignored warnings from controllers before DCA crash, federal investigators say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F",
-    "published": "Tue, 27 Jan 2026 19:24:10 CST",
-    "summary": "Families hope the nearly year-long probe by the National Transportation Safety\nBoard will promote aviation safety changes.\n\n"
+    "title": "BlackRock Cuts Private Credit Executives Hired Before HPS Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fblackrock-cuts-private-credit-executives-hired-before-hps-deal",
+    "published": "Tue, 27 Jan 2026 19:24:08 CST",
+    "summary": "BlackRock Inc. is cutting about 10 people from its private financing solutions\ngroup as it continues to integrate its $12 billion acquisition of HPS\nInvestment Partners.\n\n"
   },
   {
     "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
@@ -150,52 +222,10 @@
     "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in\ntariff costs last year, despite the levies not being in effect for all of\n2025.\n\n"
   },
   {
-    "title": "Safety Board Heaps Blame on F.A.A. Over Potomac Plane-Helicopter Crash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
-    "published": "Tue, 27 Jan 2026 18:23:43 CST",
-    "summary": "The National Transportation Safety Board is set to vote on the probable cause\nof last year’s crash near Washington and make recommendations.\n\n"
-  },
-  {
-    "title": "Bloomberg Surveillance 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fbloomberg-surveillance-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 18:16:16 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Stocks Push to Record Highs | Open Interest 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fopen-interest-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 18:11:11 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Earnings season hits its busiest stretch as global\nstocks push toward record highs. Goldman’s CEO lays out tailwinds--and risks--\nin a Bloomberg exclusive. GM CEO Mary Barra on navigating tariffs after\nearnings. Plus, insurers slide on a Medicare proposal, and hedge funds face a\nfierce talent crunch. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump’s Tariffs Threats Lose Their Bite",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-27%2Ftrump-s-tariffs-threats-lose-their-bite",
-    "published": "Tue, 27 Jan 2026 18:07:26 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "UPS will slash 30,000 jobs amid ongoing split with Amazon",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fups-layoffs-amazon%2F",
     "published": "Tue, 27 Jan 2026 18:06:50 CST",
     "summary": "The move comes after after the shipping giant eliminated 48,000 positions in\n2025.\n\n"
-  },
-  {
-    "title": "American Air’s Rosy Outlook Undercut by Storm Cancellations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Famerican-air-s-outlook-undercut-by-storm-cancellations-video",
-    "published": "Tue, 27 Jan 2026 17:51:06 CST",
-    "summary": "American Airlines Group Inc. said it’s poised for a strong year as the carrier\nramps up premium offerings, but first it’s trying to survive winter weather\nthat’s prompting thousands of cancellations at major US hubs. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Transatlantic Diesel Spread Surges as Winter Storm Disrupts US",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftransatlantic-diesel-spread-surges-as-winter-storm-disrupts-us",
-    "published": "Tue, 27 Jan 2026 17:44:58 CST",
-    "summary": "US diesel futures are surging ahead of benchmark European contracts as a\nwinter storm, followed by continued frigid temperatures, piles pressure on the\ncountry’s fuel market.\n\n"
-  },
-  {
-    "title": "US Natural Gas Falls After Record as Silver Rallies on China Buying, Supply Tightness",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-natural-gas-falls-after-record-as-silver-rallies-video",
-    "published": "Tue, 27 Jan 2026 17:31:55 CST",
-    "summary": "Silver’s record-breaking rally is being supported by swelling physical demand\ncombined with speculative interest in a relatively illiquid market, with signs\nthat buyers in China are leading the drive. US natural gas declined in thin\ntrading as forecasts shifted warmer, partly retreating from the past week’s\nhistoric rally as freezing temperatures pushed up heating demand across the\ncountry and disrupted supplies. Bloomberg's Mike McGlone joins to discuss on\nBloomberg Intelligence. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
@@ -240,16 +270,10 @@
     "summary": "NextEra Energy Inc. is offering large amounts of power for sale from its\nnuclear plants in Wisconsin and New Hampshire, as major technology companies\nrace to secure nuclear energy for artificial-intelligence data centers.\n\n"
   },
   {
-    "title": "The Talent War for Hedge Funds Is Intense, Weinstein Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fhedge-funds-have-a-talent-problem-weinstein-video",
-    "published": "Tue, 27 Jan 2026 16:25:23 CST",
-    "summary": "Hedge funds are coming off their strongest performance in over a decade, with\nbillions flowing back into the industry. But even as capital pours in, hiring\nis getting harder. Funds are competing fiercely for proven managers, and\ntalent has never had more leverage. Ilana Weinstein, CEO of The IDW Group, one\nof the leading executive search firms focused on hedge funds, joined Bloomberg\nOpen Interest to break down the talent crunch reshaping the industry. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "SocGen's Juckes Expects Weaker Dollar Through First Half of Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fyen-shock-triggers-capitulation-video",
-    "published": "Tue, 27 Jan 2026 16:14:08 CST",
-    "summary": "Kit Juckes, Chief FX Strategist at Societe Generale, discusses the balance\nbetween US political pressure and Japan’s fiscal constraints. He expects a\nweaker dollar through the first half of this year. (Source: Bloomberg)\n\n"
+    "title": "Medicare Rates Shock Sparks $100 Billion Selloff in Insurers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmedicare-rates-shock-spurs-90-billion-rout-in-insurance-stocks",
+    "published": "Tue, 27 Jan 2026 16:13:05 CST",
+    "summary": "The selloff in health insurers that provide Medicare Advantage plans wiped out\nnearly $100 billion in stock-market value on Tuesday, even as US equities\nclimbed to fresh highs.\n\n"
   },
   {
     "title": "UPS says it would cut up to 30,000 jobs this year as it aims to boost turnaround",
@@ -405,7 +429,7 @@
     "title": "S&amp;P 500 Hits Record High as Dollar Selloff Deepens: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasian-stocks-to-drift-higher-yen-gains-on-dollar-markets-wrap",
     "published": "Mon, 26 Jan 2026 22:33:35 CST",
-    "summary": "Wall Street traders sent stocks to all-time highs on speculation that solid\ncorporate earnings will keep powering market gains. The dollar slid to an\nalmost four-year low. Gold held above $5,000.\n\n"
+    "summary": "Wall Street traders sent stocks to all-time highs on speculation that solid\ncorporate earnings will keep powering market gains. The dollar slid to an\nalmost four-year low. Gold topped $5,100.\n\n"
   },
   {
     "title": "Air travel will return to normal by Wednesday, Transportation Secretary Duffy says",
@@ -424,12 +448,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
     "published": "Mon, 26 Jan 2026 21:16:38 CST",
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
-  },
-  {
-    "title": "Health Insurers Fall as Government-Backed Growth Grinds to Halt",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Finsurers-drop-on-us-proposal-to-keep-medicare-payment-rates-flat",
-    "published": "Mon, 26 Jan 2026 21:15:23 CST",
-    "summary": "US health insurers that provide government insurance to the elderly rallied\nwhen Donald Trump was elected, with Wall Street cheering an administration it\nbelieved would boost business. It hasn’t.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -526,12 +544,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fdealbook%2Fbusiness-leaders-minnesota-ice.html",
     "published": "Mon, 26 Jan 2026 13:31:48 CST",
     "summary": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey\nPretti and the immigration crackdown. But others have stayed silent.\n\n"
-  },
-  {
-    "title": "Crypto Traders Flee to Prediction Bets After Crash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fcrypto-traders-flee-to-prediction-bets-after-150-billion-crash",
-    "published": "Mon, 26 Jan 2026 12:00:00 CST",
-    "summary": "Not long ago, Nikshep Saravanan was deep in the crypto trenches -- trading\nmemecoins, reaching out to venture capitalists, and trying to launch a startup\nfor digital creators. By January, he’d dropped it all. These days, he spends\nhours on prediction markets, tracking odds on everything from sports to\npolitics.\n\n"
   },
   {
     "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
@@ -924,12 +936,6 @@
     "summary": "BNY CEO Robin Vince discusses the resilience of the US economy and Fed\nindependence during an interview with Bloomberg Surveillance at the 2026 World\nEconomic Forum in Davos, Switzerland. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fpowell-could-stay-at-fed-even-after-being-removed-as-chair.html",
-    "published": "Wed, 21 Jan 2026 14:02:02 CST",
-    "summary": "The saga over President Donald Trump's efforts to reshape the Federal Reserve\nhas another twist.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
     "published": "Wed, 21 Jan 2026 13:04:03 CST",
@@ -946,12 +952,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F20%2Fus%2Fpolitics%2Ftrump-tariffs-supreme-court.html",
     "published": "Tue, 20 Jan 2026 21:13:14 CST",
     "summary": "President Trump may be on the verge of having his authority on imposing\ntariffs curtailed, but that hasn’t slowed down his threats.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves midday: NetApp, Nvidia, Expand Energy, Intel and more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-midday-ntap-nvda-exe-intc.html",
-    "published": "Tue, 20 Jan 2026 20:59:43 CST",
-    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
     "title": "Twin Falls, Idaho Has New Residents: 37 Afrikaners",
