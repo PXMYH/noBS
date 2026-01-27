@@ -1,9 +1,57 @@
 [
   {
+    "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
+    "published": "Tue, 27 Jan 2026 07:26:10 CST",
+    "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
+  },
+  {
+    "title": "Heyl: Still See Increasing Appetite for Gold as Safe Haven",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fheyl-increasing-appetite-for-gold-as-safe-haven-video",
+    "published": "Tue, 27 Jan 2026 07:15:01 CST",
+    "summary": "Gold rose, holding above $5,000 an ounce for a second day, as a weak US dollar\nhelped to extend a blistering rally fueled by geopolitical risks and investor\nflight from sovereign bonds and currencies. Dawid Heyl, Natural Resources\nPortfolio Manager, Ninety One spoke to Bloomberg’s Horizons Middle East and\nAfrica anchor Joumanna Bercetche on the yellow metal rally. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Japan’s 40-Year Bond Sale to Test Fragile Debt Market, Weak Yen",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-40-year-bond-sale-to-test-fragile-debt-market-weak-yen",
+    "published": "Tue, 27 Jan 2026 07:05:58 CST",
+    "summary": "Investors are on guard for the risk of another meltdown in Japan’s bond market\non Wednesday when the government sells 40-year notes, a tenor that has proved\nvulnerable to sharp swings.\n\n"
+  },
+  {
+    "title": "Ambienta Raises Over €500 Million for European Sustainable Loans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fambienta-raises-over-500-million-for-european-sustainable-loans",
+    "published": "Tue, 27 Jan 2026 07:00:00 CST",
+    "summary": "Investment firm Ambienta SGR has raised over €500 million ($594 million) for\nits inaugural private credit fund to lend to environmentally sustainable mid-\nmarket companies in Europe, a sign of investor demand even as green finance\nhas fallen lower on the political agenda.\n\n"
+  },
+  {
+    "title": "SoftBank-Backed Analytics Firm Patsnap Weighs Dual Listing in Hong Kong and Singapore",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanalytics-firm-patsnap-said-to-weigh-dual-listing-in-hong-kong-and-singapore",
+    "published": "Tue, 27 Jan 2026 06:57:49 CST",
+    "summary": "Patsnap, an intellectual-property data provider, is mulling a dual listing in\nHong Kong and Singapore, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Australia’s Invictus Plunges After Qatari Deal Falls Through",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Faustralia-s-invictus-plunges-after-qatari-deal-falls-through",
+    "published": "Tue, 27 Jan 2026 06:52:56 CST",
+    "summary": "Australian oil and gas explorer Invictus Energy Ltd.’s shares plunged more\nthan half after it failed to reach an agreement on the terms of a deal\nannounced last year with a Qatari investment firm.\n\n"
+  },
+  {
+    "title": "Asian Stocks Shrug Off Trump's Fresh Tariff Threat | The China Show 1/27/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-china-show-1-27-2026-video",
+    "published": "Tue, 27 Jan 2026 06:47:13 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
     "title": "FTSE 100 Set to Rise, Pound Holds Near $1.37",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-27%2Fftse-100-live-pound-trump-trade-dollar-gold-yen-what-s-moving-uk-markets-right-now-markets-today",
     "published": "Tue, 27 Jan 2026 06:41:27 CST",
     "summary": "\n\n"
+  },
+  {
+    "title": "Chinese Miners Accelerate Fundraising as Global Deals Loom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchinese-miners-accelerate-fundraising-as-global-deals-loom",
+    "published": "Tue, 27 Jan 2026 06:39:28 CST",
+    "summary": "Barely a month into the new year, Chinese miners have already unveiled plans\nthat would allow them to raise almost a third of the funds they secured during\nthe whole of 2025, as soaring metals prices underline the urgency of boosting\nproduction capacity.\n\n"
   },
   {
     "title": "Subaru to Buy Back Up to $194 Million of Bonds Above Market Price",
@@ -36,7 +84,7 @@
     "summary": "Honeywell President & CEO, Global Regions, Anant Maheshwari discusses the\npotential impact of India's trade deals on Honeywell's businesses. He speaks\nwith Menaka Doshi from the sidelines of India Energy Week 2026. (Source:\nBloomberg)\n\n"
   },
   {
-    "title": "Silver’s Rally Fueled by Broad Demand and Speculation: Refiner",
+    "title": "Silver Caught Between Demand Squeeze and Speculative Turbulence",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fsilver-s-rally-fueled-by-broad-demand-and-speculation-refiner",
     "published": "Tue, 27 Jan 2026 05:36:26 CST",
     "summary": "Silver’s record-breaking rally is being driven by a collision of unprecedented\nphysical demand and speculative interest in a relatively illiquid market,\naccording to a leading refiner and trader.\n\n"
@@ -90,46 +138,10 @@
     "summary": "Thailand’s Ministry of Finance revised down its estimate for last year’s\ngrowth and signaled the economy will expand at its slowest pace in three years\nin 2026 as exports and domestic demand moderate.\n\n"
   },
   {
-    "title": "Trouble for Cognac Makers as Sales Go Down the Drain",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Ftrouble-for-cognac-makers-as-sales-go-down-the-drain",
-    "published": "Tue, 27 Jan 2026 05:00:06 CST",
-    "summary": "Cognac makers are nursing a hangover. After years of strong demand, tariff\ntensions and the sober-curious movement have taken a toll on the industry.\nAngelina Rascouet explains how that could affect the world's largest cognac\nbrand, Hennessy and its parent company LVMH. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Ambassador to China on the State of Sino-US Relations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fus-ambassador-to-china-on-the-state-of-sino-us-relations-video",
-    "published": "Tue, 27 Jan 2026 04:53:23 CST",
-    "summary": "David Perdue, US ambassador to China, speaks to Bloomberg's Stephen Engle\nabout what steps China is taking to comply with a trade deal reached in Busan\nin 2025, and shares his views on how to manage the bilateral relationship\nbetween the two countries ahead of Trump's visit to China in April this year.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Malaysia, Mexico Most at Risk From Japan Carry Unwind, HSBC Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysia-mexico-most-at-risk-from-japan-carry-unwind-hsbc-says",
-    "published": "Tue, 27 Jan 2026 04:50:05 CST",
-    "summary": "Bond markets in Malaysia and Mexico are among the most at risk should a\nfurther increase in Japanese yields prompt the nation’s investors to\nrepatriate capital, according to HSBC Holdings Plc.\n\n"
-  },
-  {
     "title": "Gold Rally Has Room to Run on Exodus From Dollars, Amundi Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fus-policy-threats-fuel-shift-to-gold-from-dollars-amundi-says",
     "published": "Tue, 27 Jan 2026 04:12:09 CST",
     "summary": "Gold can keep rallying as increasing US isolation from other nations convinces\nmany investors to cut holdings of dollar assets and switch to bullion,\naccording to Amundi SA.\n\n"
-  },
-  {
-    "title": "Philippines Suspends Ferry Operator’s Fleet After Deadly Sinking",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fphilippines-suspends-ferry-operator-s-fleet-after-deadly-sinking",
-    "published": "Tue, 27 Jan 2026 04:11:22 CST",
-    "summary": "The Philippines indefinitely suspended the entire passenger fleet of Aleson\nShipping Lines, operator of a ferry that sank this week off the country’s\nsouthern coast which killed more than a dozen.\n\n"
-  },
-  {
-    "title": "Australia Drops Annual Move in Quarterly CPI, Shifts to Monthly",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Faustralia-drops-annual-move-in-quarterly-cpi-shifts-to-monthly",
-    "published": "Tue, 27 Jan 2026 04:06:42 CST",
-    "summary": "The Australian Bureau of Statistics will no longer publish a year-on-year\nConsumer Price Index in its quarterly report as it shifts to a monthly\ninflation framework that aligns its reporting more closely with international\npractice.\n\n"
-  },
-  {
-    "title": "Malaysian Retailer MR DIY Outperforms Southeast Asia Peers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fmalaysian-retailer-mr-diy-outperforms-southeast-asia-peers",
-    "published": "Tue, 27 Jan 2026 04:05:34 CST",
-    "summary": "Malaysian retailer MR DIY Group M. Bhd., Southeast Asia’s top-performing stock\nthis month, is drawing further bullish bets as analysts anticipate upside from\nthe country’s improving consumption outlook.\n\n"
   },
   {
     "title": "Korean Stocks Charge Ahead as Trump Tariff Threat Fuels Dip Buys",
@@ -144,10 +156,10 @@
     "summary": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm\nalso does business with Cantor Fitzgerald, which is run by the sons of\nPresident Trump’s commerce secretary.\n\n"
   },
   {
-    "title": "Fatburger Owner Files Bankruptcy in Latest Casual-Dining Demise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ffatburger-owner-files-bankruptcy-overwhelmed-by-debt",
-    "published": "Tue, 27 Jan 2026 03:06:14 CST",
-    "summary": "FAT Brands Inc., the owner of restaurant chains Fatburger, Johnny Rockets and\nTwin Peaks, filed for bankruptcy, adding to a string of casual-dining brands\nthat have sought court protection from creditors.\n\n"
+    "title": "China’s Zijin Gold Surges After $4 Billion Africa Mines Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fchina-s-zijin-gold-jumps-19-after-4-billion-africa-mine-deal",
+    "published": "Tue, 27 Jan 2026 02:17:56 CST",
+    "summary": "Zijin Gold International Co., a unit of China’s largest precious metals miner,\nsurged to an all-time high after agreeing to buy Allied Gold Corp. to boost\noutput and reserves, with prices of the commodity near a record.\n\n"
   },
   {
     "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
@@ -168,16 +180,16 @@
     "summary": "Dozens of doctors and therapists said chatbots had led their patients to\npsychosis, isolation and unhealthy habits.\n\n"
   },
   {
-    "title": "Anta Becomes Top Puma Shareholder With $1.8 Billion Stake",
+    "title": "Pinault Family Sells Puma Stake to China’s Anta for $1.8 Billion",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fanta-sports-to-buy-29-stake-in-puma-for-1-8-billion",
     "published": "Tue, 27 Jan 2026 00:13:29 CST",
     "summary": "China’s Anta Sports Products Ltd. has agreed to buy a stake of about 29% in\nPuma SE for €1.5 billion ($1.8 billion), becoming the biggest shareholder in\nthe German company and expanding its portfolio of Western athletic brands.\n\n"
   },
   {
-    "title": "Oil Extends Drop on Supply Outlook as Traders Monitor US Freeze",
+    "title": "Oil Holds Loss on Supply Outlook as Traders Monitor US Freeze",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Flatest-oil-market-news-and-analysis-for-jan-27",
     "published": "Mon, 26 Jan 2026 23:35:03 CST",
-    "summary": "Oil pushed lower as traders focused on the outlook for plentiful supply, while\nmonitoring the fallout from a sweeping US winter storm.\n\n"
+    "summary": "Oil held a loss as traders focused on the outlook for plentiful supply, while\nmonitoring the fallout from a sweeping US winter storm.\n\n"
   },
   {
     "title": "Gold Extends Gains Above $5,000 as Debasement Trade Gathers Pace",
@@ -222,10 +234,10 @@
     "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
   },
   {
-    "title": "ASX Austraclear Faces Delays From Central Bank Settlement Outage",
+    "title": "ASX Austraclear Resumes Normal Settlement After Central Bank Fix",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-26%2Fasx-says-austraclear-user-issues-didn-t-impact-internal-systems",
     "published": "Mon, 26 Jan 2026 21:12:59 CST",
-    "summary": "ASX Ltd. said transactions processed through Austraclear -- a platform for\nwholesale debt securities settlement -- will face short delays due to a\nrequired outage linked to an issue with the Reserve Bank of Australia’s\npayment system.\n\n"
+    "summary": "ASX Ltd. said transactions processed through Austraclear -- a platform for\nwholesale debt securities settlement -- returned to normal after the Reserve\nBank of Australia fixed its payment system.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
@@ -784,12 +796,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F22%2Ftrump-campaign-economic-policy",
     "published": "Thu, 22 Jan 2026 11:00:52 CST",
     "summary": "The president’s scramble to win back voter affection after negative polls has\nled him to spew incoherent proposals\n\n“A vote for Trump means your groceries will be cheaper,” Donald Trump promised\nAmericans on the eve of the presidential election. During the US president’s\nfirst year back in office, however, food prices rose faster than they did\nduring Joe Biden’s last.\n\nFacing negative poll numbers, Trump is taking a tack that few Republicans have\ndared contemplate before: spewing out a rain of often incoherent proposals to\nsignal he feels voters’ pain, in order to recapture their affection.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "New Tankers Join Russian Oil Trade as Rates Jump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-22%2Fnew-tankers-enter-russian-oil-trade-after-freight-rates-soar",
-    "published": "Thu, 22 Jan 2026 03:45:11 CST",
-    "summary": "Soaring freight rates -- along with lower oil prices that have reduced the\nrisk of violating curbs on Moscow’s crude sales -- are enticing more shipping\ncompanies to join the Russian trade, with some using nearly new tankers to\nferry fuel around the world.\n\n"
   },
   {
     "title": "Australian shares shoot up after Trump walks back tariff threat",
