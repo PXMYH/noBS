@@ -1,5 +1,107 @@
 [
   {
+    "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
+    "published": "Wed, 28 Jan 2026 04:25:31 CST",
+    "summary": "The National Transportation Safety Board found the probable causes of the\nmidair collision last year included poorly designed flight routes and ignored\nwarnings about risks.\n\n"
+  },
+  {
+    "title": "WNA's Bilbao y León On India's Nuclear Ambitions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fwna-s-bilbao-y-leon-on-india-s-nuclear-ambitions-video",
+    "published": "Wed, 28 Jan 2026 04:22:41 CST",
+    "summary": "World Nuclear Association Director General Sama Bilbao y León discusses why\nIndia is accelerating its nuclear energy ambitions, aiming to expand capacity\nto meet soaring electricity demand and decarbonization goals. She speaks with\nMenaka Doshi from the sidelines of India Energy Week 2026. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Airbus, AstraZeneca and HSBC executives join UK's Starmer on high-stakes China trip",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fkeir-starmer-china-visit-business-delegation-2026.html",
+    "published": "Wed, 28 Jan 2026 03:59:52 CST",
+    "summary": "Executives from Airbus, AstraZeneca and HSBC are joining Prime Minister Keir\nStarmer on a rare China visit, highlighting the business focus of the trip\namid strained global trade relations.\n\n"
+  },
+  {
+    "title": "Goldman's Chen on China’s Commodity Demand, Metals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fgoldman-s-chen-on-china-s-commodity-demand-metals-video",
+    "published": "Wed, 28 Jan 2026 03:57:01 CST",
+    "summary": "Trina Chen, Co-Head of Greater China Equity Research and China Basic Materials\nand Agriculture Analyst at Goldman Sachs, discusses country’s commodity demand\nand outlook on metals. She speaks with Stephen Engle from the sidelines of the\nGoldman Sachs Global Macro Conference Asia Pacific in Hong Kong. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Goldman Vice Chair Kaplan on Fed Policy, Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fgoldman-vice-chair-kaplan-on-fed-policy-dollar-video",
+    "published": "Wed, 28 Jan 2026 03:55:57 CST",
+    "summary": "Rob Kaplan, Vice Chairman at Goldman Sachs and former Dallas Fed President,\ndiscusses the outlook for Federal Reserve policy and the impact from a weaker\ndollar. He speaks with Stephen Engle from the sidelines of the Goldman Sachs\nGlobal Macro Conference Asia Pacific in Hong Kong. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Japan’s 40-Year Bond Sale Soothes Market Fears After Meltdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fjapan-40-year-bond-sale-sees-firmer-demand-than-12-month-average-mkxhaw5s",
+    "published": "Wed, 28 Jan 2026 03:41:41 CST",
+    "summary": "Japanese bonds gained after a 40-year auction drew the strongest demand since\nMarch, easing immediate worries about long-term debt even as fiscal concerns\nmount ahead of a snap election.\n\n"
+  },
+  {
+    "title": "Standard Chartered's Englander on Dollar Slump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fstandard-chartered-s-englander-on-dollar-slump-video",
+    "published": "Wed, 28 Jan 2026 03:09:59 CST",
+    "summary": "Standard Chartered's Global Head of G10 FX Research Steven Englander shares\nhis analysis on how US policy uncertainty is adding a risk premium to holding\nthe US dollar. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Why Do Japan’s Market Meltdowns Cause Global Chaos?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fwhy-do-japan-s-market-meltdowns-cause-global-chaos",
+    "published": "Wed, 28 Jan 2026 03:01:44 CST",
+    "summary": "Japan’s bond crash last week unleashed a $7 trillion risk for global markets.\nBut why do Japan’s markets have the power to send tremors worldwide? Ruth\nCarson explains. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China’s Electric Truck Boom Poses New Threat to Demand for LNG",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchina-s-electric-truck-boom-poses-new-threat-to-demand-for-lng",
+    "published": "Wed, 28 Jan 2026 02:57:32 CST",
+    "summary": "China’s rapid adoption of electric trucks -- which overtook gas-powered\nvehicle sales for the first time last year -- is threatening a key source of\ndemand for the country’s suppliers of the fossil fuel.\n\n"
+  },
+  {
+    "title": "Aluminum Hits 2022-High as Trump Comfortable With Weak Dollar",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Faluminum-hits-2022-high-as-trump-comfortable-with-weak-dollar",
+    "published": "Wed, 28 Jan 2026 02:56:44 CST",
+    "summary": "Aluminum rose to the highest level in almost four years -- and other base\nmetals rallied -- after US President Donald Trump appeared unperturbed by a\nsteep decline in the dollar.\n\n"
+  },
+  {
+    "title": "Hong Kong Home Prices Rose for First Time in Four Years in 2025",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fhong-kong-home-prices-rose-for-first-time-in-four-years-in-2025",
+    "published": "Wed, 28 Jan 2026 02:54:09 CST",
+    "summary": "Hong Kong home prices recorded their first annual increase in four years, the\nclearest sign yet that the city’s residential market is beginning to recover\nfrom a prolonged downturn.\n\n"
+  },
+  {
+    "title": "Bolivia Cancels Chinese Zinc Project, Demands Steel Plant Fixes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fbolivia-cancels-chinese-zinc-project-demands-steel-plant-fixes",
+    "published": "Wed, 28 Jan 2026 02:53:52 CST",
+    "summary": "Bolivia’s new government is canceling a planned zinc project awarded to a\nChinese consortium and will demand that another Chinese firm fix shortcomings\nin a steel-making complex.\n\n"
+  },
+  {
+    "title": "One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fchinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html",
+    "published": "Wed, 28 Jan 2026 02:49:19 CST",
+    "summary": "Chinese companies are releasing new AI models and striving to gain an edge in\nthe AI application race as the country's biggest holiday of the year nears.\n\n"
+  },
+  {
+    "title": "Investors Are Counting on India’s Budget To Deliver a Magic Bullet",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-28%2Findia-stock-traders-eagerly-await-budget-banks-grapple-with-high-funding-costs",
+    "published": "Wed, 28 Jan 2026 02:45:49 CST",
+    "summary": "EU-India trade deal brings little cheer for markets.\n\n"
+  },
+  {
+    "title": "Asian Currencies Hit Four-Month High on Dollar Debasement Fears",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fasian-currencies-hit-four-month-high-on-dollar-debasement-fears",
+    "published": "Wed, 28 Jan 2026 02:38:43 CST",
+    "summary": "Emerging Asian currencies reached the highest since September as the dollar\ndebasement trade gathers pace, with President Donald Trump criticizing some\nregional currencies.\n\n"
+  },
+  {
+    "title": "Trump’s Embrace of Weaker Dollar Fuels Bets on New Downtrend",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Ftrump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend",
+    "published": "Wed, 28 Jan 2026 02:34:37 CST",
+    "summary": "President Donald Trump’s relaxed tone about the dollar selloff is fueling\nspeculation the US currency is at the start of a longer-term decline.\n\n"
+  },
+  {
+    "title": "China Snacks Retailer Busy Ming Jumps 88% in Hong Kong Debut",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchina-snacks-retailer-busy-ming-jumps-88-in-hong-kong-debut",
+    "published": "Wed, 28 Jan 2026 02:25:46 CST",
+    "summary": "Chinese snack retailer Busy Ming Group Co. surged in its Hong Kong trading\ndebut after raising HK$3.67 billion ($470 million) in an offering.\n\n"
+  },
+  {
     "title": "Chinese Silver Fund Halts Trading as Frenzy Drives Up Premium",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchinese-silver-fund-halts-trading-as-frenzy-drives-up-premium",
     "published": "Wed, 28 Jan 2026 02:15:41 CST",
@@ -24,13 +126,7 @@
     "summary": "José Manuel Barroso, former President at the European Commission, discusses\nthe free-trade agreement between the European Union and India. He speaks with\nStephen Engle from the sidelines of the Goldman Sachs Global Macro Conference\nAsia Pacific in Hong Kong. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
-    "published": "Wed, 28 Jan 2026 01:46:31 CST",
-    "summary": "The National Transportation Safety Board found the probable causes of the\nmidair collision last year included poorly designed flight routes and ignored\nwarnings about risks.\n\n"
-  },
-  {
-    "title": "South Korea Exceeds Germany’s Market Cap on AI, Robotics Craze",
+    "title": "A $1.7 Trillion Rally Pushes Korea Market Cap Above Germany’s",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsouth-korea-exceeds-germany-s-market-cap-on-ai-robotics-craze",
     "published": "Wed, 28 Jan 2026 01:41:18 CST",
     "summary": "South Korea overtook Germany in stock market value, powered by tech giants\nriding the global boom in artificial intelligence and robotics.\n\n"
@@ -72,30 +168,6 @@
     "summary": "The dollar dropped about 1.3% on Tuesday.\n\n"
   },
   {
-    "title": "CME Raises Silver Margins as Prices Smash Records in Wild Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fcme-raises-silver-margins-as-prices-smash-records-in-wild-rally",
-    "published": "Wed, 28 Jan 2026 00:16:17 CST",
-    "summary": "CME Group is raising margins on Comex silver futures after prices surged to a\nrecord high this week.\n\n"
-  },
-  {
-    "title": "Singapore CEO Who Maxed Out 65 Credit Cards Spurs $1 Billion IPO Windfall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsingapore-ultragreen-ipo-hands-little-known-family-1-2-billion-fortune",
-    "published": "Wed, 28 Jan 2026 00:03:38 CST",
-    "summary": "In Ravinder Sajwan’s early Silicon Valley career, he blew through his $3,000\nmonthly credit card limit every two days hustling on a series of tech\nstartups.\n\n"
-  },
-  {
-    "title": "Tether Is Shaking Up the Gold Market With Massive Metal Hoard",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Ftether-is-shaking-up-the-gold-market-with-massive-metal-hoard",
-    "published": "Wed, 28 Jan 2026 00:01:30 CST",
-    "summary": "There are roughly 370,000 nuclear bunkers in Switzerland, a legacy of the Cold\nWar that are now rarely used. One of them, though, is a hive of activity.\n\n"
-  },
-  {
-    "title": "S&P 500 Rises as Dollar Slides, Market Gains on Earnings | The Close 1/27/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fthe-close-1-27-2026-video",
-    "published": "Tue, 27 Jan 2026 23:58:28 CST",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Wellington Management’s Brij Khurana, Sidley Austin LLP’s\nIan McGinley, Allspring Global Investment’s Abby Roach, LVMH North America’s\nPauline Brown, Interactive Brokers’ Steve Sosnick, Institute for Advanced\nStudy’s Alondra Nelson, PIMCO’s Libby Cantrill, Author Don Winslow. (Source:\nBloomberg)\n\n"
-  },
-  {
     "title": "As Trump Promotes Economy in Iowa, Many Residents Feel Pain",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
     "published": "Tue, 27 Jan 2026 23:49:52 CST",
@@ -106,12 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadm-to-pay-40-million-to-settle-sec-accounting-fraud-probe",
     "published": "Tue, 27 Jan 2026 23:47:16 CST",
     "summary": "Archer-Daniels-Midland Co. agreed to pay $40 million to settle US Securities\nand Exchange Commission allegations that former executives sought to boost a\nflailing business unit’s bottom line to meet company targets, the regulator\nsaid Tuesday.\n\n"
-  },
-  {
-    "title": "Russian Crude May Fall: India's Petroleum Minister",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Frussian-crude-may-fall-india-s-petroleum-minister-video",
-    "published": "Tue, 27 Jan 2026 23:39:41 CST",
-    "summary": "India’s Oil Minister of Petroleum and Natural Gas Hardeep Singh Puri says he\nbelieves Canada has the potential to become one of India’s major energy\nsuppliers. The minister also notes that India’s imports of Russian crude could\ncontinue to decline as the world’s third largest oil consumer broadens its\nsupplier base. He speaks to Bloomberg's Menaka Doshi on the sidelines of India\nEnergy Week in Goa. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Oil Steady Near Four-Month High on Iran Risks and Weak Dollar",
@@ -141,19 +207,7 @@
     "title": "Gold Hits Record Above $5,200 as Trump Dollar Comments Aid Rally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fgold-holds-gains-as-trump-comments-add-fuel-to-debasement-trade",
     "published": "Tue, 27 Jan 2026 23:18:31 CST",
-    "summary": "Gold hit a record high above $5,200 an ounce, extending a breakneck rally\nfueled by US dollar weakness and a flight from sovereign bonds and currencies.\n\n"
-  },
-  {
-    "title": "Former LVMH Exec Weighs in on Earnings, Luxury Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fformer-lvmh-exec-weighs-in-on-earnings-luxury-outlook-video",
-    "published": "Tue, 27 Jan 2026 23:18:16 CST",
-    "summary": "Pauline Brown, former chair of LVMH North America, discusses LVMH’s outlook\nand the global luxury market with Romaine Bostick and Katie Greifeld on “The\nClose.” She says interest has picked up to levels she hasn’t seen in years,\nbut the key question is whether it converts into sales. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "S&P 500 Hits Record as Dollar Weakens | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Fs-p-500-hits-record-as-dollar-weakens-closing-bell-video",
-    "published": "Tue, 27 Jan 2026 23:08:11 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+    "summary": "Gold surged to a record high above $5,200 an ounce, extending a breakneck\nrally fueled by US dollar weakness and a flight from sovereign bonds and\ncurrencies.\n\n"
   },
   {
     "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can’t ignore",
@@ -168,16 +222,10 @@
     "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
   },
   {
-    "title": "Asian FX to Benefit Most From Trump on Dollar, Strategists Say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fasian-fx-to-benefit-most-from-trump-on-dollar-strategists-say",
-    "published": "Tue, 27 Jan 2026 22:40:17 CST",
-    "summary": "President Donald Trump’s comments that he didn’t think the dollar had weakened\nexcessively have accelerated a debate about a possible concerted move to\ndepreciate the world’s reserve currency.\n\n"
-  },
-  {
-    "title": "Asian Currencies Gain as Dollar Weakens Before Fed: Markets Wrap",
+    "title": "Asian Stocks Rise With US Futures, Dollar Steadies: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 27 Jan 2026 22:36:07 CST",
-    "summary": "Asian currencies gained as the dollar sank to levels last seen four years ago\nas investors turned cautious toward the world’s reserve currency amid\nunpredictable policymaking from Washington.\n\n"
+    "summary": "Asian stocks gained on diversification bets after concerns over unpredictable\npolicymaking in Washington pushed the dollar to its lowest level in almost\nfour years. Gold climbed to a record.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Texas Instruments, Seagate Technology, Qorvo and more",
@@ -186,22 +234,10 @@
     "summary": "These are some of the stocks posting the largest moves in extended trading.\n\n"
   },
   {
-    "title": "Stock Surge Boosts Pensions, but Private Markets Risks Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-surge-boosts-pensions-but-private-markets-risks-rise",
-    "published": "Tue, 27 Jan 2026 22:12:30 CST",
-    "summary": "US public pensions could pay almost 90% of promised benefits if investment\ngains made in the first half of the fiscal year persist over the next six\nmonths, but risks are also climbing, according to S&P Global Inc.\n\n"
-  },
-  {
-    "title": "StandardAero Backers Said to Seek $1.6 Billion in Share Sale",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstandardaero-backers-said-to-seek-1-6-billion-in-share-sale",
-    "published": "Tue, 27 Jan 2026 22:05:41 CST",
-    "summary": "A pair of StandardAero Inc.’s largest shareholders are seeking to raise as\nmuch as $1.6 billion in an offering of the aircraft maintenance services\nprovider’s shares, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Returning to the Moon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-27%2Freturning-to-the-moon-video",
-    "published": "Tue, 27 Jan 2026 22:02:18 CST",
-    "summary": "NASA is sending astronauts back to the lunar neighborhood for the first time\nin over 50 years. The Artemis II crew will test a spacecraft that’s to play a\nkey role in America’s return to the moon. (Source: Bloomberg)\n\n"
+    "title": "Hidden Risks Build at Vietnamese Banks on Debt Guarantees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fhidden-risks-build-at-vietnam-banks-on-mounting-debt-guarantees",
+    "published": "Tue, 27 Jan 2026 22:00:00 CST",
+    "summary": "Vietnamese lenders are providing more pledges to cover borrowers if they fall\nshort paying back debt, prompting some rating firms to warn of hidden risks in\none of the world’s fastest-growing economies.\n\n"
   },
   {
     "title": "Bond Traders Target Dovish Fed Pick as Rieder Favored",
@@ -258,18 +294,6 @@
     "summary": "In her first town hall, Weiss expressed some regret over her decision to pull\n60 Minutes segment at the last minute\n\nDuring her first address to CBS News employees as editor in chief, Bari Weiss\nacknowledged that there had been “a lot of noise” about her tumultuous tenure\nand said that some staffers might decide they don’t support her or want to\ncontinue working at the company.\n\n“I just want to start by saying: I get it. And I get why, in the face of all\nthis tumult and noise, you might feel uncertain or skeptical about me and\nabout what I’m aiming to do here,” Weiss said on Tuesday morning, according to\nan audio recording of her comments obtained by the Guardian.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Prophecy Fraud Case Delayed to Review Classified Documents",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fprophecy-fraud-case-delayed-for-review-of-classified-documents",
-    "published": "Tue, 27 Jan 2026 19:53:31 CST",
-    "summary": "The criminal fraud trial against Prophecy Asset Management co-owner Jeffrey\nSpotts over $300 million in investor losses has been delayed until at least\nMay while a judge considers how to handle as many as 20 classified documents\nthat touch on the case in some way.\n\n"
-  },
-  {
-    "title": "New York, Baltimore Power Prices Soar on Threat of Deeper Chill",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fnew-york-power-prices-are-soaring-with-deeper-cold-on-the-way",
-    "published": "Tue, 27 Jan 2026 19:50:23 CST",
-    "summary": "Power prices in New York City and other major population centers are surging\nto unprecedented heights as a record-setting cold spell threatens to intensify\nin coming days.\n\n"
-  },
-  {
     "title": "Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fboeing-ba-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 19:48:25 CST",
@@ -286,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Ffed-preview-january-2026.html",
     "published": "Tue, 27 Jan 2026 19:43:34 CST",
     "summary": "This week's meeting offers little suspense and probably not much action, even\nas massive changes loom over the Fed's longer-term direction.\n\n"
-  },
-  {
-    "title": "BlackRock Cuts Private Credit Executives Hired Pre-HPS Deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fblackrock-cuts-private-credit-executives-hired-before-hps-deal",
-    "published": "Tue, 27 Jan 2026 19:24:08 CST",
-    "summary": "BlackRock Inc. is cutting about 10 people from its private financing solutions\ngroup as it continues to integrate its $12 billion acquisition of HPS\nInvestment Partners.\n\n"
   },
   {
     "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
@@ -418,12 +436,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Findia-europe-trade-tariffs-trump.html",
     "published": "Tue, 27 Jan 2026 09:05:04 CST",
     "summary": "After nearly 20 years of negotiations, the two sides struck a far-reaching\nagreement that officials called “the mother of all trade deals.”\n\n"
-  },
-  {
-    "title": "Japan’s 40-Year Bond Sale to Test Fragile Debt Market, Weak Yen",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fjapan-s-40-year-bond-sale-to-test-fragile-debt-market-weak-yen",
-    "published": "Tue, 27 Jan 2026 07:05:58 CST",
-    "summary": "Investors are on guard for the risk of another meltdown in Japan’s bond market\non Wednesday when the government sells 40-year notes, a tenor that has proved\nvulnerable to sharp swings.\n\n"
   },
   {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
@@ -940,18 +952,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fberkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
     "published": "Wed, 21 Jan 2026 17:22:52 CST",
     "summary": "The move underscores Greg Abel's willingness to look past a deal that has long\nstood out as a rare blemish on Buffett's otherwise storied record.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F21%2Fstocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
-    "published": "Wed, 21 Jan 2026 13:04:03 CST",
-    "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves after hours: Netflix, United Airlines, Interactive Brokers and more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F20%2Fstocks-making-the-biggest-moves-after-hours-nflx-ual-ibkr.html",
-    "published": "Tue, 20 Jan 2026 22:45:22 CST",
-    "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
   },
   {
     "title": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
