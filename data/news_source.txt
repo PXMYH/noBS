@@ -1,8 +1,62 @@
 [
   {
+    "title": "Man Attacks US Representative Ilhan Omar at Town Hall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fman-attacks-us-representative-ilhan-omar-at-town-hall",
+    "published": "Wed, 28 Jan 2026 05:49:05 CST",
+    "summary": "US Representative Ilhan Omar was charged at by a man who appeared to squirt an\nunknown liquid on her during a town hall gathering in Minneapolis. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "ECB’s Cipollone Says Uncertainty May Increase, Hitting Recovery",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fecb-s-cipollone-says-uncertainty-may-increase-hitting-recovery",
+    "published": "Wed, 28 Jan 2026 05:34:28 CST",
+    "summary": "European Central Bank Executive Board member Piero Cipollone warned that\nglobal turbulence could hit the euro area, according to an interview in El\nPais.\n\n"
+  },
+  {
+    "title": "SK Innovation Says Ford Battery Breakup Cost It $2.6 Billion",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsk-innovation-says-ford-battery-breakup-cost-it-2-6-billion",
+    "published": "Wed, 28 Jan 2026 05:33:47 CST",
+    "summary": "SK Innovation Co. said the termination of a battery joint venture with Ford\nMotor Co. in the US resulted in a 3.7 trillion won ($2.6 billion) asset loss,\nas the cost of a pullback in global electric vehicle ambitions ripples through\nthe supply chain.\n\n"
+  },
+  {
+    "title": "India's JSW Steel On EU-India Deal Trade Impact",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Findia-s-jsw-steel-on-eu-india-deal-trade-impact-video",
+    "published": "Wed, 28 Jan 2026 05:32:20 CST",
+    "summary": "JSW Steel CFO Swayam Saurabh discusses the impact of the EU-India trade deal\non India's steelmakers. He speaks with Paul Allen on \"Insight with Haslinda\nAmin.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Look at Them Yo-Yos Make Your Money Worth Nothing",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fopinion%2Fnewsletters%2F2026-01-28%2Flook-at-them-yo-yos-get-your-money-worth-nothing",
+    "published": "Wed, 28 Jan 2026 05:00:32 CST",
+    "summary": "Banging down the dollar like Trump is obviously hurts. But so does China’s\ngold binge.\n\n"
+  },
+  {
+    "title": "Korea to Allow Leveraged Single-Stock ETFs to Lure Retail Money",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fkorea-to-allow-leveraged-single-stock-etfs-to-lure-retail-money",
+    "published": "Wed, 28 Jan 2026 05:00:00 CST",
+    "summary": "South Korean regulators plan to approve high‑risk single‑stock exchange‑traded\nfunds, supporting the bourse’s push to diversify products and allowing retail\ninvestors more leveraged bets.\n\n"
+  },
+  {
+    "title": "China Is Watching Australia ‘Very Closely’ on Darwin Port Issue",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchina-is-watching-australia-very-closely-on-darwin-port-issue",
+    "published": "Wed, 28 Jan 2026 04:50:42 CST",
+    "summary": "Beijing is “watching very closely” how Canberra handles the status of a port\ncurrently leased to a Chinese firm that the Labor government has pledged to\nreturn to local control, and will step in if necessary, China’s envoy to\nAustralia said.\n\n"
+  },
+  {
+    "title": "Is Dollar on the Verge of Longer-Term Decline? | The China Show 1/28/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fthe-china-show-1-28-2026-video",
+    "published": "Wed, 28 Jan 2026 04:37:51 CST",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Yvonne Man give global investors unique insight,\ndelivering in-depth discussions with the newsmakers who matter. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Goldman Warns Metal Rally at Risk as Users ‘Respond Negatively’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fgoldman-warns-metal-rally-at-risk-as-users-respond-negatively",
+    "published": "Wed, 28 Jan 2026 04:36:15 CST",
+    "summary": "Base metals’ rally this year will face headwinds as soaring prices and bullish\nsentiment clash with the reality of softer demand from manufacturers,\nespecially in China, according to Goldman Sachs Group Inc.\n\n"
+  },
+  {
     "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Fdca-plane-collision-faa.html",
-    "published": "Wed, 28 Jan 2026 04:25:31 CST",
+    "published": "Wed, 28 Jan 2026 04:29:30 CST",
     "summary": "The National Transportation Safety Board found the probable causes of the\nmidair collision last year included poorly designed flight routes and ignored\nwarnings about risks.\n\n"
   },
   {
@@ -84,28 +138,16 @@
     "summary": "EU-India trade deal brings little cheer for markets.\n\n"
   },
   {
-    "title": "Asian Currencies Hit Four-Month High on Dollar Debasement Fears",
+    "title": "Asian Currencies Hit Six-Month High on Dollar Debasement Fears",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fasian-currencies-hit-four-month-high-on-dollar-debasement-fears",
     "published": "Wed, 28 Jan 2026 02:38:43 CST",
-    "summary": "Emerging Asian currencies reached the highest since September as the dollar\ndebasement trade gathers pace, with President Donald Trump criticizing some\nregional currencies.\n\n"
+    "summary": "Emerging Asian currencies reached the highest since July as the dollar\ndebasement trade gathers pace, with President Donald Trump criticizing some\nregional currencies.\n\n"
   },
   {
     "title": "Trump’s Embrace of Weaker Dollar Fuels Bets on New Downtrend",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Ftrump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend",
     "published": "Wed, 28 Jan 2026 02:34:37 CST",
     "summary": "President Donald Trump’s relaxed tone about the dollar selloff is fueling\nspeculation the US currency is at the start of a longer-term decline.\n\n"
-  },
-  {
-    "title": "China Snacks Retailer Busy Ming Jumps 88% in Hong Kong Debut",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchina-snacks-retailer-busy-ming-jumps-88-in-hong-kong-debut",
-    "published": "Wed, 28 Jan 2026 02:25:46 CST",
-    "summary": "Chinese snack retailer Busy Ming Group Co. surged in its Hong Kong trading\ndebut after raising HK$3.67 billion ($470 million) in an offering.\n\n"
-  },
-  {
-    "title": "Chinese Silver Fund Halts Trading as Frenzy Drives Up Premium",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchinese-silver-fund-halts-trading-as-frenzy-drives-up-premium",
-    "published": "Wed, 28 Jan 2026 02:15:41 CST",
-    "summary": "China’s only pure-play silver fund halted trading on Wednesday, after a\nfrenzied wave of investment drove its premium significantly above the value of\nits underlying assets.\n\n"
   },
   {
     "title": "Meiji Yasuda Ready to Buy More Japan Super-Long Bonds by March",
@@ -120,28 +162,10 @@
     "summary": "US natural gas fell in thin trading on Wednesday, following a record-\nshattering rally sparked by freezing temperatures that lifted heating demand\nand disrupted supplies.\n\n"
   },
   {
-    "title": "Fmr. European Commission President on Trade, Dollar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Ffmr-european-commission-president-on-trade-dollar-video",
-    "published": "Wed, 28 Jan 2026 01:51:01 CST",
-    "summary": "José Manuel Barroso, former President at the European Commission, discusses\nthe free-trade agreement between the European Union and India. He speaks with\nStephen Engle from the sidelines of the Goldman Sachs Global Macro Conference\nAsia Pacific in Hong Kong. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "A $1.7 Trillion Rally Pushes Korea Market Cap Above Germany’s",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsouth-korea-exceeds-germany-s-market-cap-on-ai-robotics-craze",
     "published": "Wed, 28 Jan 2026 01:41:18 CST",
     "summary": "South Korea overtook Germany in stock market value, powered by tech giants\nriding the global boom in artificial intelligence and robotics.\n\n"
-  },
-  {
-    "title": "Hong Kong Banks to See Wealth ‘Windfall’ as Fees Jump, BI Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fhong-kong-banks-to-see-wealth-windfall-as-fees-jump-bi-says",
-    "published": "Wed, 28 Jan 2026 01:40:28 CST",
-    "summary": "Hong Kong banks, led by HSBC Holdings Plc and Bank of China (Hong Kong), could\nsee wealth fees grow more than 20% this year, driven by fund sales, brokerage\nincome and bancassurance, according to Bloomberg Intelligence.\n\n"
-  },
-  {
-    "title": "India’s $360 Billion Stock Rout Raises Stakes for Modi’s Budget",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Findia-s-360-billion-stock-rout-raises-stakes-for-modi-s-budget",
-    "published": "Wed, 28 Jan 2026 01:30:00 CST",
-    "summary": "Indian stocks are on track for their worst start to a year in a decade, piling\npressure on Prime Minister Narendra Modi’s administration to deliver fresh\ncatalysts for economic growth in the upcoming budget.\n\n"
   },
   {
     "title": "Indonesian Stocks Plunge 7% After MSCI Warning on Investability",
@@ -156,12 +180,6 @@
     "summary": "Last January’s deadly collision of a plane and helicopter above Reagan\nNational Airport was due to systemic failures and “100 percent preventable,”\nthe NTSB chair said.\n\n"
   },
   {
-    "title": "Shin-Etsu Shares Plunge After US Economy Fears Weigh on Earnings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fshin-etsu-shares-plunge-after-us-economy-fears-weigh-on-earnings",
-    "published": "Wed, 28 Jan 2026 00:25:56 CST",
-    "summary": "Shin-Etsu Chemical Co.’s shares dropped as much as 10% after it missed\nearnings estimates amid concerns about its polyvinyl chloride business in the\nUS.\n\n"
-  },
-  {
     "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
     "published": "Wed, 28 Jan 2026 00:18:42 CST",
@@ -172,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
     "published": "Tue, 27 Jan 2026 23:49:52 CST",
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
-  },
-  {
-    "title": "ADM to Pay $40 Million to Settle SEC Accounting Fraud Probe",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fadm-to-pay-40-million-to-settle-sec-accounting-fraud-probe",
-    "published": "Tue, 27 Jan 2026 23:47:16 CST",
-    "summary": "Archer-Daniels-Midland Co. agreed to pay $40 million to settle US Securities\nand Exchange Commission allegations that former executives sought to boost a\nflailing business unit’s bottom line to meet company targets, the regulator\nsaid Tuesday.\n\n"
   },
   {
     "title": "Oil Steady Near Four-Month High on Iran Risks and Weak Dollar",
@@ -222,10 +234,10 @@
     "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
   },
   {
-    "title": "Asian Stocks Rise With US Futures, Dollar Steadies: Markets Wrap",
+    "title": "Stocks Gain Before Fed Decision, Dollar Steadies: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 27 Jan 2026 22:36:07 CST",
-    "summary": "Asian stocks gained on diversification bets after concerns over unpredictable\npolicymaking in Washington pushed the dollar to its lowest level in almost\nfour years. Gold climbed to a record.\n\n"
+    "summary": "Global stocks headed for their longest winning streak in a month, with\ntechnology shares driving Asian equities to an all-time high. The dollar\nsteadied after concerns over unpredictable US policymaking pushed a gauge of\nthe currency to its lowest level in almost four years.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Texas Instruments, Seagate Technology, Qorvo and more",
@@ -238,12 +250,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fhidden-risks-build-at-vietnam-banks-on-mounting-debt-guarantees",
     "published": "Tue, 27 Jan 2026 22:00:00 CST",
     "summary": "Vietnamese lenders are providing more pledges to cover borrowers if they fall\nshort paying back debt, prompting some rating firms to warn of hidden risks in\none of the world’s fastest-growing economies.\n\n"
-  },
-  {
-    "title": "Bond Traders Target Dovish Fed Pick as Rieder Favored",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-traders-target-dovish-fed-pick-as-rieder-s-momentum-builds",
-    "published": "Tue, 27 Jan 2026 21:38:20 CST",
-    "summary": "Bond futures traders are ramping up bets on a dovish policy shift at the\nFederal Reserve as BlackRock Inc.’s chief investment officer Rick Rieder is\ngaining momentum to succeed Jerome Powell.\n\n"
   },
   {
     "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
@@ -268,12 +274,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 21:06:04 CST",
     "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
-  },
-  {
-    "title": "Trump Deepens Dollar Woes, Saying He’s Not Concerned About Slump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftrump-says-he-s-not-concerned-with-decline-of-us-dollar",
-    "published": "Tue, 27 Jan 2026 20:58:31 CST",
-    "summary": "The dollar slumped to its lowest since early 2022 after President Donald Trump\nindicated he’s comfortable with its recent decline.\n\n"
   },
   {
     "title": "What investors piling into gold and silver can learn from King Henry VIII",
