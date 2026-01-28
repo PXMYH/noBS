@@ -1,5 +1,35 @@
 [
   {
+    "title": "Traders Bet on More Rate Cuts If Rick Rieder Leads the Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-28%2Ftraders-bet-on-more-rate-cuts-if-rick-rieder-leads-the-fed",
+    "published": "Wed, 28 Jan 2026 11:35:55 CST",
+    "summary": "BlackRock’s Rieder is leading candidate for job, betting markets show.\n\n"
+  },
+  {
+    "title": "Euro Rally to $1.20 Spurs More Buying and a Headache for the ECB",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Feuro-rally-to-1-20-spurs-more-buying-and-a-headache-for-the-ecb",
+    "published": "Wed, 28 Jan 2026 11:26:59 CST",
+    "summary": "The euro’s ascent to its strongest level since 2021 is creating a problem for\nthe European Central Bank.\n\n"
+  },
+  {
+    "title": "ICE would still operate in a partial government shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F28%2Fgovernment-shutdown-ice-funding%2F",
+    "published": "Wed, 28 Jan 2026 11:00:00 CST",
+    "summary": "Lawmakers face a Friday deadline for a partial government shutdown, 80 days\nafter they reopened federal agencies after the longest shutdown ever in\nNovember.\n\n"
+  },
+  {
+    "title": "Popular Dutch Pension Trades Are Backfiring After Months of Hype",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fpopular-dutch-pension-trades-are-backfiring-after-months-of-hype",
+    "published": "Wed, 28 Jan 2026 10:55:31 CST",
+    "summary": "A €1.6 trillion ($1.9 trillion) overhaul of the Dutch pensions system isn’t\nplaying out in the markets the way investors imagined.\n\n"
+  },
+  {
+    "title": "Trump Downplays Weak Dollar; US 'Armada' Headed To Iran | Horizons Middle East & Africa 28/1/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fhorizons-middle-east-africa-28-1-2026-video",
+    "published": "Wed, 28 Jan 2026 10:47:50 CST",
+    "summary": "he US dollar plunges to its lowest level in nearly 4 years after President\nDonald Trump says he isn't concerned about its decline. Also on the show:\ninvestors gear up for a Fed rate decision; President Trump says the US has a\nbig 'armada' headed to the Middle East because of Iran; Cameroon raises $750M\nin a dollar bond sale; Saudi Arabia looks to tap wealthy families in new quest\nfor cash; a travel association in Turkey files a lawsuit seeking to block\naccess to several major foreign booking platforms; Middle East businesses\nwatching tensions between Saudi Arabia and the UAE with increasing\nnervousness. Guests include: Bhanu Baweja, UBS Investment Bank, Chief\nStrategist; Richard Windsor, Radio Free Mobile, Founder. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Family Offices Defy ‘Sell America’ Trade With Deal Spree in US",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Ffamily-offices-defy-sell-america-trade-with-deal-spree-in-us",
     "published": "Wed, 28 Jan 2026 10:34:59 CST",
@@ -114,22 +144,10 @@
     "summary": "The European Central Bank is closely watching how an appreciating euro is\naffecting inflation and will consider the impact when setting monetary policy,\naccording to Governing Council member Francois Villeroy de Galhau.\n\n"
   },
   {
-    "title": "Europe’s Hot Bank Stocks Look to Earnings for Next Leg of Rally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Feurope-s-hot-bank-stocks-look-to-earnings-for-next-leg-of-rally",
-    "published": "Wed, 28 Jan 2026 08:51:06 CST",
-    "summary": "The best-performing sector in Europe’s stock market still has the wind at its\nback.\n\n"
-  },
-  {
     "title": "AI Health Startup Sword Buys Rival, Seeks $500 Million Funding",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsword-buys-kaia-health-plans-fresh-500-million-funding-round",
     "published": "Wed, 28 Jan 2026 08:51:04 CST",
     "summary": "Sword Health agreed to acquire rival Kaia Health for $285 million in its\nbiggest deal to date, expanding the AI health startup’s footprint in the US\nand marking its entry into Germany.\n\n"
-  },
-  {
-    "title": "Thailand Tightens Scrutiny After Cash Withdrawals of Over $6 Million Each",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fthailand-tightens-scrutiny-after-multi-million-dollar-withdrawals-in-small-notes",
-    "published": "Wed, 28 Jan 2026 08:50:50 CST",
-    "summary": "Thailand’s central bank is tightening controls on large cash withdrawals after\nflagging two unusual transactions of more than $6 million apiece, days ahead\nof national elections on Feb. 8.\n\n"
   },
   {
     "title": "Maruti Falls After Profit Misses on Higher Costs, One-Off Charge",
@@ -138,22 +156,10 @@
     "summary": "The Indian unit of Suzuki Motor Corp. reported third-quarter profit that\nmissed analysts’ estimates as margin pressure from higher costs and one-time\nexpenses outweighed strong festival-season demand. Shares slumped.\n\n"
   },
   {
-    "title": "Europe’s Sluggish Property Market Is Slowly Coming Back to Life",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Feurope-s-sluggish-property-market-is-slowly-coming-back-to-life",
-    "published": "Wed, 28 Jan 2026 08:45:00 CST",
-    "summary": "Europe’s commercial real estate market posted its best quarter for deal making\nsince the European Central Bank brought the cheap money era to a a shuddering\nhalt in 2022.\n\n"
-  },
-  {
-    "title": "France’s Lescure: Let Markets Do Their Job",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Ffrance-s-lescure-let-markets-do-their-job-video",
-    "published": "Wed, 28 Jan 2026 08:42:04 CST",
-    "summary": "French Finance Minister Roland Lescure shrugged off concerns about the yen and\nsaid it’s better to let the markets do their job when it comes to foreign\nexchange currencies. Lescure also urged counterparts to refrain from\n‘unilateral measures’ after he chaired a virtual meeting of G-7 finance\nMinisters on Tuesday. After months of domestic political uncertainty, Lescure\nexpressed relief that France managed to pass a 2026 budget. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Hong Kong’s Exchange Fund Posts Record Gain of $42 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fhong-kong-s-exchange-fund-posts-record-gain-of-42-billion",
-    "published": "Wed, 28 Jan 2026 08:39:30 CST",
-    "summary": "Hong Kong’s Exchange Fund reported a record investment gain of HK$331 billion\n($42.4 billion) in 2025, helped by rising global markets.\n\n"
+    "title": "Motability Sells Debt for First Time Since Drawing Scrutiny",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fmotability-sells-debt-for-the-first-time-since-drawing-scrutiny",
+    "published": "Wed, 28 Jan 2026 08:28:05 CST",
+    "summary": "Motability Operations Group Plc is looking to sell debt publicly for the first\ntime since scrutiny of its business model prompted government intervention.\n\n"
   },
   {
     "title": "Turkish Halkbank Shares Sink After US Case Adjourned",
@@ -198,12 +204,6 @@
     "summary": "President Donald Trump’s relaxed tone about the dollar selloff is fueling\nspeculation the US currency is at the start of a longer-term decline.\n\n"
   },
   {
-    "title": "China’s Precious Metals Frenzy Sparks Protest as Risks Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchinese-silver-fund-halts-trading-as-frenzy-drives-up-premium",
-    "published": "Wed, 28 Jan 2026 02:15:41 CST",
-    "summary": "Chinese investors piling into a record-breaking rally in precious metals are\nbecoming increasingly exposed to risk, as speculative demand pushes local\nprices well above international benchmarks.\n\n"
-  },
-  {
     "title": "Indonesian Stocks Plunge 7% After MSCI Warning on Investability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fmsci-halts-indonesia-index-changes-flags-transparency-risks",
     "published": "Wed, 28 Jan 2026 01:19:33 CST",
@@ -226,6 +226,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
     "published": "Tue, 27 Jan 2026 23:49:52 CST",
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
+  },
+  {
+    "title": "Oil Eases From Four-Month High as Traders Monitor Iran Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Flatest-oil-market-news-and-analysis-for-jan-28",
+    "published": "Tue, 27 Jan 2026 23:38:11 CST",
+    "summary": "Oil eased from a four-month high as traders monitored President Donald Trump’s\nrenewed threats against Iran, while a weaker dollar boosted the appeal of\ncommodities priced in the US currency.\n\n"
   },
   {
     "title": "UPS will slash 30,000 jobs as company shifts away from Amazon",
