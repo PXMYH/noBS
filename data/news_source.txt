@@ -1,5 +1,47 @@
 [
   {
+    "title": "Dollar Will Move On From Trump Comments: 3-Minutes MLIV",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fdollar-will-move-on-from-trump-comments-3-minutes-mliv-video",
+    "published": "Wed, 28 Jan 2026 09:19:28 CST",
+    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's\nkey themes for analysts and investors on \"Bloomberg: The Opening Trade.\"\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "China Picks Up Canadian Canola Cargoes After Reset in Trade Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fchina-picks-up-canadian-canola-cargoes-after-reset-in-trade-ties",
+    "published": "Wed, 28 Jan 2026 09:03:27 CST",
+    "summary": "China has resumed purchases of Canadian canola, an early sign of a revival in\nthe trade after the nations reached a deal this month to mend ties.\n\n"
+  },
+  {
+    "title": "Kia Says US Tariffs Cost $2.3 Billion Last Year as Profit Drops",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fkia-says-us-tariffs-cost-2-3-billion-last-year-as-profit-drops",
+    "published": "Wed, 28 Jan 2026 08:58:05 CST",
+    "summary": "Kia Corp. said US tariffs cost it 3.3 trillion won ($2.3 billion) last year\nand the South Korean automaker will roll out incentives to boost sales as\ncompetition intensifies.\n\n"
+  },
+  {
+    "title": "Europe’s Hot Bank Stocks Look to Earnings for Next Leg of Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Feurope-s-hot-bank-stocks-look-to-earnings-for-next-leg-of-rally",
+    "published": "Wed, 28 Jan 2026 08:51:06 CST",
+    "summary": "The best-performing sector in Europe’s stock market still has the wind at its\nback.\n\n"
+  },
+  {
+    "title": "Sword Buys Kaia Health, Plans Fresh $500 Million Funding Round",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsword-buys-kaia-health-plans-fresh-500-million-funding-round",
+    "published": "Wed, 28 Jan 2026 08:51:04 CST",
+    "summary": "Sword Health agreed to acquire rival Kaia Health for $285 million in its\nbiggest deal to date, expanding the AI health startup’s footprint in the US\nand marking its entry into Germany.\n\n"
+  },
+  {
+    "title": "Thailand Tightens Scrutiny After Cash Withdrawals of Over $6 Million Each",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fthailand-tightens-scrutiny-after-multi-million-dollar-withdrawals-in-small-notes",
+    "published": "Wed, 28 Jan 2026 08:50:50 CST",
+    "summary": "Thailand’s central bank is tightening controls on large cash withdrawals after\nflagging two unusual transactions of more than $6 million apiece, days ahead\nof national elections on Feb. 8.\n\n"
+  },
+  {
+    "title": "Maruti Falls After Profit Misses on Higher Costs, One-Off Charge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fmaruti-suzuki-net-misses-estimate-as-discounts-pressure-margins",
+    "published": "Wed, 28 Jan 2026 08:46:50 CST",
+    "summary": "The Indian unit of Suzuki Motor Corp. reported third-quarter profit that\nmissed analysts’ estimates as margin pressure from higher costs and one-time\nexpenses outweighed strong festival-season demand. Shares slumped.\n\n"
+  },
+  {
     "title": "Europe’s Sluggish Property Market Is Slowly Coming Back to Life",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Feurope-s-sluggish-property-market-is-slowly-coming-back-to-life",
     "published": "Wed, 28 Jan 2026 08:45:00 CST",
@@ -72,46 +114,10 @@
     "summary": "Nidec Corp. pledged to overhaul a growth-at-all-costs culture and fix\nweaknesses in internal controls as the company seeks to overcome an accounting\nscandal that’s seen its debt rating cut to junk and put it at risk of\ndelisting.\n\n"
   },
   {
-    "title": "Vietnam, EU Set to Announce Comprehensive Strategic Partnership",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fvietnam-eu-set-to-announce-comprehensive-strategic-partnership",
-    "published": "Wed, 28 Jan 2026 07:24:58 CST",
-    "summary": "Vietnam and the European Union are expected to announce a comprehensive\nstrategic partnership as European Council President Antonio Costa begins his\nofficial visit to the Southeast Asian nation on Thursday.\n\n"
-  },
-  {
     "title": "France’s Lescure Says Let Markets Do Their Job as Yen Fluctuates",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Ffrance-s-lescure-says-let-markets-do-their-job-as-yen-fluctuates",
     "published": "Wed, 28 Jan 2026 07:08:27 CST",
     "summary": "French Finance Minister Roland Lescure shrugged off gyrations in the yen after\nchairing a meeting of his Group of Seven counterparts.\n\n"
-  },
-  {
-    "title": "Japanese Retail Traders Placed Contrarian Yen Bets as It Soared",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fjapanese-retail-traders-placed-contrarian-yen-bets-as-it-soared",
-    "published": "Wed, 28 Jan 2026 07:00:05 CST",
-    "summary": "Japan’s retail investors unwound bullish bets in the yen during the height of\na recent rally, potentially capping its gains as talk of official intervention\nbuoyed the currency.\n\n"
-  },
-  {
-    "title": "Pound Falls From 2021 Peak, FTSE 100 Rises",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-28%2Fftse-100-live-dollar-pound-starmer-gold-prices-what-s-moving-uk-markets-right-now-markets-today-mkxo2m3u",
-    "published": "Wed, 28 Jan 2026 06:51:12 CST",
-    "summary": "\n\n"
-  },
-  {
-    "title": "LVMH Hit by Sluggish Luxury Sales",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Flvmh-hit-by-sluggish-luxury-sales-video",
-    "published": "Wed, 28 Jan 2026 06:48:17 CST",
-    "summary": "Sales at LVMH Moët Hennessy Louis Vuitton SE’s key fashion unit fell over the\nholiday season as it continued to suffer from sluggish demand. Organic sales\nat the fashion and leather goods division fell 3% in the fourth quarter, while\nanalysts expected a drop of 2.94%. Bloomberg’s Caroline Connan reports.\n\n"
-  },
-  {
-    "title": "Windsor: More Capital Expenditure Trend in Big Tech",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fwindsor-more-capital-expenditure-trend-in-big-tech-video",
-    "published": "Wed, 28 Jan 2026 06:43:32 CST",
-    "summary": "Big tech is back in focus ahead of their earning results which could determine\nwhether investors stay committed to the AI trade or start to question the\nscale of spending behind it. Richard Windsor, Founder of Radio Free Mobil\nspoke to Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche\non the potential outcome. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Baweja: S. Africa’s Bonds & Currencies Opposite of Japan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-28%2Fbaweja-s-africa-s-bonds-currencies-opposite-of-japan-video",
-    "published": "Wed, 28 Jan 2026 06:42:40 CST",
-    "summary": "Goldman Sachs and Morgan Stanley see room for the South African Reserve Bank\nto lower its inflation forecast for 2026 due to a strengthened Rand and lower\noil prices. Policymakers prepare for their first interest-rate decision of the\nyear later this week. Bhanu Baweja, Chief Strategist at UBS Investment Bank\nspoke to Bloomberg’s Horizons Middle East and Africa anchor Joumanna Bercetche\nabout the country’s performance compared to Japan’s volatility. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "BlackRock Fund Wades Into Turkish Stocks on Turnaround Signs",
@@ -124,18 +130,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fkeir-starmer-china-visit-business-delegation-2026.html",
     "published": "Wed, 28 Jan 2026 06:25:19 CST",
     "summary": "Executives from Airbus, AstraZeneca and HSBC are joining Prime Minister Keir\nStarmer on a rare China visit, highlighting the business focus of the trip\namid strained global trade relations.\n\n"
-  },
-  {
-    "title": "Capcom Jumps Most in 18 Months on Surprise ‘Resident Evil’ Boost",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fcapcom-jumps-most-in-18-months-on-surprise-resident-evil-boost",
-    "published": "Wed, 28 Jan 2026 06:12:51 CST",
-    "summary": "Japanese video game publisher Capcom Co. posted its biggest single-day share\ngain in 18 months on Wednesday after December-quarter earnings beat\nexpectations, helped by unexpectedly strong sales of older titles that\nbolstered optimism the company will surpass forecasts.\n\n"
-  },
-  {
-    "title": "ECB’s Cipollone Says Uncertainty May Increase, Hitting Recovery",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fecb-s-cipollone-says-uncertainty-may-increase-hitting-recovery",
-    "published": "Wed, 28 Jan 2026 05:34:28 CST",
-    "summary": "European Central Bank Executive Board member Piero Cipollone warned that\nglobal turbulence could hit the euro area, according to an interview in El\nPais.\n\n"
   },
   {
     "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
@@ -162,10 +156,10 @@
     "summary": "Chinese investors piling into a record-breaking rally in precious metals are\nbecoming increasingly exposed to risk, as speculative demand pushes local\nprices well above international benchmarks.\n\n"
   },
   {
-    "title": "Indonesian Stocks Plunge 8% After MSCI Warning on Investability",
+    "title": "Indonesian Stocks Plunge 7% After MSCI Warning on Investability",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fmsci-halts-indonesia-index-changes-flags-transparency-risks",
     "published": "Wed, 28 Jan 2026 01:19:33 CST",
-    "summary": "Indonesian stocks tumbled, putting the benchmark on track for its worst day in\nmore than 14 years, after MSCI Inc. raised concerns about their investability\nand warned of a potential downgrade to frontier-market status.\n\n"
+    "summary": "Indonesian stocks tumbled after MSCI Inc. raised concerns about their\ninvestability and warned of a potential downgrade to frontier-market status.\n\n"
   },
   {
     "title": "FAA ignored warnings before DCA crash, federal investigators say",
@@ -178,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
     "published": "Wed, 28 Jan 2026 00:18:42 CST",
     "summary": "The dollar dropped about 1.3% on Tuesday.\n\n"
-  },
-  {
-    "title": "Singapore CEO Who Maxed Out 65 Credit Cards Spurs $1 Billion IPO Windfall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsingapore-ultragreen-ipo-hands-little-known-family-1-2-billion-fortune",
-    "published": "Wed, 28 Jan 2026 00:03:38 CST",
-    "summary": "In Ravinder Sajwan’s early Silicon Valley career, he blew through his $3,000\nmonthly credit card limit every two days hustling on a series of tech\nstartups.\n\n"
   },
   {
     "title": "Tether Is Shaking Up the Gold Market With Massive Metal Hoard",
@@ -240,16 +228,22 @@
     "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
   },
   {
-    "title": "Stocks Get Boost From ASML as Dollar Steadies: Markets Wrap",
+    "title": "Stocks Rise Before Fed Decision, Led by Tech: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Tue, 27 Jan 2026 22:36:07 CST",
-    "summary": "Technology stocks drove most global indexes higher after a sharp increase in\norders at ASML Holding NV added fresh fuel to the artificial-intelligence\ntrade. The dollar steadied after its worst performance since 2022.\n\n"
+    "summary": "Technology stocks drove equities higher for a second day as investors looked\nahead to megacap earnings and the Federal Reserve’s interest-rate decision.\nThe dollar steadied while gold briefly topped $5,300 an ounce.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Texas Instruments, Seagate Technology, Qorvo and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-after-hours-txn-stx-qrvo.html",
     "published": "Tue, 27 Jan 2026 22:22:15 CST",
     "summary": "These are some of the stocks posting the largest moves in extended trading.\n\n"
+  },
+  {
+    "title": "Bond Traders Target Dovish Fed Pick as Rick Rieder Favored",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Fbond-traders-target-dovish-fed-pick-as-rieder-s-momentum-builds",
+    "published": "Tue, 27 Jan 2026 21:38:20 CST",
+    "summary": "Bond futures traders are ramping up bets on a dovish policy shift at the\nFederal Reserve as BlackRock Inc.’s chief investment officer Rick Rieder is\ngaining momentum to succeed Jerome Powell.\n\n"
   },
   {
     "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
@@ -274,6 +268,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Famerican-airlines-aal-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 21:06:04 CST",
     "summary": "American expects to earn 7% to 10% more revenue in the first three months of\n2026.\n\n"
+  },
+  {
+    "title": "Trump Deepens Dollar Woes, Brushing Off Concerns About Slump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-27%2Ftrump-says-he-s-not-concerned-with-decline-of-us-dollar",
+    "published": "Tue, 27 Jan 2026 20:58:31 CST",
+    "summary": "President Donald Trump indicated he’s comfortable with the dollar’s recent\ndecline, helping send the currency to its lowest level since early 2022.\n\n"
   },
   {
     "title": "What investors piling into gold and silver can learn from King Henry VIII",
