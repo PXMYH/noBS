@@ -1,5 +1,71 @@
 [
   {
+    "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fworld%2Fasia%2Fchina-starmer-xi-jinping.html",
+    "published": "Thu, 29 Jan 2026 05:37:34 CST",
+    "summary": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China\nas he sought to promote business ties with the world’s second-largest economy.\n\n"
+  },
+  {
+    "title": "End of US Sanctions Brings Bosnian Serbs Back to Bond Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fend-of-us-sanctions-brings-bosnian-serbs-back-to-bond-market",
+    "published": "Thu, 29 Jan 2026 05:30:00 CST",
+    "summary": "Republika Srpska, the Serb-run half of Bosnia-Herzegovina, is preparing its\nfirst eurobond since a change in leadership led to the lifting of US\nsanctions, according to the finance minister of the Balkan country’s\nautonomous entity.\n\n"
+  },
+  {
+    "title": "SEB Lending Profit Meets Estimates as Fees Offset Low Rates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fseb-s-lending-profit-meets-estimates-as-fees-offset-lower-rates",
+    "published": "Thu, 29 Jan 2026 05:22:58 CST",
+    "summary": "Swedish lender SEB AB reported profit from lending in the fourth quarter that\nwas in line with estimates as fee and commission business helped offset the\nimpact of lower interest rates.\n\n"
+  },
+  {
+    "title": "US Dollar Falls Again as Debasement Fears Outweigh Bessent’s Boost",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdollar-falls-again-as-debasement-fears-outweigh-bessent-s-boost",
+    "published": "Thu, 29 Jan 2026 05:22:10 CST",
+    "summary": "The dollar fell, halting Wednesday’s bounce, as the return of the so-called\ndebasement trade outweighed Treasury Secretary Scott Bessent’s affirmation of\nthe strong-greenback policy.\n\n"
+  },
+  {
+    "title": "Advantest’s Nikkei 225 Weight Cut Looms After 15% Rally",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fadvantest-s-nikkei-225-weight-cut-looms-after-15-rally",
+    "published": "Thu, 29 Jan 2026 05:17:04 CST",
+    "summary": "A potential cut to Advantest Corp.’s weighting in Japan’s Nikkei 225 Stock\nAverage could drive passive selling as index funds rebalance.\n\n"
+  },
+  {
+    "title": "SAP Forecasts Cloud Revenue Growth in 2026 as Clients Switch",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsap-forecasts-cloud-revenue-to-grow-in-2026-as-customers-switch",
+    "published": "Thu, 29 Jan 2026 05:07:47 CST",
+    "summary": "SAP SE forecast cloud revenue will grow in 2026 as customers shift from older\ntechnology ahead of a deadline to stop servicing legacy clients.\n\n"
+  },
+  {
+    "title": "UK's Starmer Meets Xi in Beijing to Deepen Ties",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fuk-s-starmer-meets-xi-in-beijing-to-deepen-ties-video",
+    "published": "Thu, 29 Jan 2026 05:06:53 CST",
+    "summary": "UK Prime Minister Keir Starmer met with Chinese President Xi Jinping on\nThursday, calling for a “more sophisticated” relationship in the first trip to\nChina by a British leader in eight years. Minmin Low reports. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Fed Holds Rates; Samsung Chip Profit Soars | The Asia Trade 1/29/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthe-asia-trade-1-29-2026-video",
+    "published": "Thu, 29 Jan 2026 05:02:34 CST",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get\nahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and\nSingapore with Shery Ahn and Avril Hong, getting insight and analysis from\nnewsmakers and industry leaders on the biggest stories shaping global markets.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
+    "published": "Thu, 29 Jan 2026 05:00:15 CST",
+    "summary": "The shipping traffic and factories never stop in China’s port city of Ningbo,\nbut the local housing market has crashed and nearby restaurants sit empty.\n\n"
+  },
+  {
+    "title": "BHP Risks $2 Billion Hit From Dispute With CMRG, Goldman Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbhp-risks-2-billion-hit-from-dispute-with-cmrg-goldman-says",
+    "published": "Thu, 29 Jan 2026 04:50:40 CST",
+    "summary": "BHP Group could face up to $2 billion hit from pricing pressures after China\nrestricted its Jimblebar iron ore, as discounts widen and lump premiums\ncollapse, according to Goldman Sachs Group Inc.\n\n"
+  },
+  {
+    "title": "Korean Won Heads for Longest Rally in 13 Years on Inflows, AI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fkrw-usd-korean-won-in-longest-winning-streak-since-2013-on-ai-exuberance",
+    "published": "Thu, 29 Jan 2026 04:48:36 CST",
+    "summary": "The South Korean won is set for its longest winning streak in 13 years as\nexuberance over artificial intelligence and inflows ahead of a key bond index\ninclusion buoy the currency.\n\n"
+  },
+  {
     "title": "LG Energy Targets Data Center Energy Needs as EV Outlook Dims",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flg-energy-targets-data-center-energy-needs-as-ev-outlook-dims",
     "published": "Thu, 29 Jan 2026 04:21:32 CST",
@@ -18,12 +84,6 @@
     "summary": "A record wave of AI spending has boosted hardware providers like Samsung\nElectronics SK Hynix. Counterpoint Research Principal AI Analyst Wei Sun\nbreaks down some of the forces propelling market moves. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fworld%2Fasia%2Fchina-starmer-xi-jinping.html",
-    "published": "Thu, 29 Jan 2026 03:38:09 CST",
-    "summary": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China\nas he sought to promote business ties with the world’s second-largest economy.\n\n"
-  },
-  {
     "title": "Indonesia Stock Rout Deepens After MSCI Warning",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Findonesia-stock-rout-deepens-after-msci-warning-video",
     "published": "Thu, 29 Jan 2026 03:37:58 CST",
@@ -36,10 +96,10 @@
     "summary": "Carvana shares closed Wednesday at $410.04, down 14.2% following short-seller\naccusations of the online used retailer overstating earnings.\n\n"
   },
   {
-    "title": "Copper Spikes to Record in London as Base Metals Extend Bull Run",
+    "title": "China’s Metals Mania Sends Copper Soaring to An All-Time High",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcopper-rallies-to-record-on-lme-as-base-metals-extend-bull-run",
     "published": "Thu, 29 Jan 2026 03:15:04 CST",
-    "summary": "Copper jumped to a record, as base metals extended a powerful start to 2026 on\nexpectations for stronger US growth and more global spending on data centers,\nrobotics and power infrastructure.\n\n"
+    "summary": "Copper posted its biggest one-day gain in years to hit a record above $14,000\na ton, driven by another bout of intense speculative trading by bulls in\nChina.\n\n"
   },
   {
     "title": "What UK's Starmer Hopes to Achieve With His China Visit",
@@ -60,18 +120,6 @@
     "summary": "Tether has become one of the biggest players in the global gold market.\n\n"
   },
   {
-    "title": "Sands’ Shares Plunge After Macau Profit Misses Expectation",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsands-shares-plunge-after-macau-profit-misses-expectation",
-    "published": "Thu, 29 Jan 2026 02:39:58 CST",
-    "summary": "Las Vegas Sands Corp.’s local unit Sands China Ltd. fell as much as 9.8% in\nHong Kong on Thursday, the biggest drop since last April, after weaker-than-\nexpected profit in Macau sent the parent’s US shares down 10% in extended\ntrading.\n\n"
-  },
-  {
-    "title": "Traders Highlight Risks for Japan Going Solo on Yen Intervention",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ftraders-highlight-risks-for-japan-going-solo-on-yen-intervention",
-    "published": "Thu, 29 Jan 2026 02:30:21 CST",
-    "summary": "Traders are questioning how effective Japan could be if it were to intervene\nalone to support the yen, after US Treasury Secretary Scott Bessent cast doubt\non the prospect of coordinated action.\n\n"
-  },
-  {
     "title": "Richest Man in Indonesia Loses $9 Billion After MSCI’s Warning",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Findonesia-s-richest-man-prajogo-pangestu-loses-5-billion-after-stock-rout",
     "published": "Thu, 29 Jan 2026 02:11:49 CST",
@@ -84,16 +132,10 @@
     "summary": "The Philippine economy slowed more than expected to the weakest pace in nearly\n15 years outside of the pandemic, hurt by a public works corruption scandal\nthat is weighing on investments, households and government spending.\n\n"
   },
   {
-    "title": "Clearlake-Owned Pretium Packaging Files for Bankruptcy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fclearlake-owned-pretium-packaging-files-for-bankruptcy",
-    "published": "Thu, 29 Jan 2026 02:02:05 CST",
-    "summary": "Pretium Packaging, owned by private equity firm Clearlake Capital Group, has\nfiled for bankruptcy after reaching a deal with lenders to overhaul a capital\nstructure strained by years of heavy debt.\n\n"
-  },
-  {
     "title": "South Korea to Fast-Track Housing Supply in Seoul to Cool Prices",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsouth-korea-to-fast-track-housing-supply-in-seoul-to-cool-prices",
     "published": "Thu, 29 Jan 2026 02:00:39 CST",
-    "summary": "South Korea will accelerate a boost to housing supply in the Greater Seoul\narea, broadening its response to a yearlong rally in apartment prices after a\nraft of earlier measures to curb speculative demand proved insufficient.\n\n"
+    "summary": "South Korea will accelerate efforts to boost housing supply in the Greater\nSeoul area, broadening its response to a yearlong rally in apartment prices\nafter a raft of earlier measures to curb speculative demand proved\ninsufficient.\n\n"
   },
   {
     "title": "Goldman Sachs, UBS Cut Indonesian Stocks Rating on MSCI Warning",
@@ -120,46 +162,10 @@
     "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
   },
   {
-    "title": "Hedge Fund Aspex Gains 26% in Banner Year for Asia Managers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fhedge-fund-aspex-gains-26-in-banner-year-for-asia-managers",
-    "published": "Thu, 29 Jan 2026 00:25:23 CST",
-    "summary": "Hermes Li’s $14 billion Aspex Management HK Ltd. scored another double-digit\nreturn in 2025, when artificial intelligence and corporate governance reforms\nlifted Asia hedge funds large and small.\n\n"
-  },
-  {
-    "title": "US Aluminum Premium Tops $1 a Pound for First Time",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-aluminum-premium-tops-1-a-pound-for-first-time",
-    "published": "Thu, 29 Jan 2026 00:23:06 CST",
-    "summary": "The regional premium for aluminum delivered to the US market climbed above $1\na pound for the first time as US President Donald Trump’s tariffs make the\nmetal more expensive in the domestic market.\n\n"
-  },
-  {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fjpmorgan-chase-trump-accounts.html",
     "published": "Thu, 29 Jan 2026 00:21:45 CST",
     "summary": "Financial firms dominate the list of companies that are matching contributions\nfor the\n\n"
-  },
-  {
-    "title": "Advantest Surges After Raising Forecast on Strong Earnings",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fadvantest-surges-after-raising-forecast-on-strong-earnings",
-    "published": "Thu, 29 Jan 2026 00:21:19 CST",
-    "summary": "Advantest Corp. shares jumped as much as 14% to a record high after the\ncompany beat earnings estimates and raised its forecast.\n\n"
-  },
-  {
-    "title": "Taiwan Insurers Cut Most Offshore Hedges Before Dollar Selloff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ftaiwan-insurers-cut-most-offshore-hedges-before-dollar-selloff",
-    "published": "Thu, 29 Jan 2026 00:20:30 CST",
-    "summary": "Some of Taiwan’s largest life insurers unwound almost all of their offshore\ncurrency hedge positions ahead of the US dollar’s recent selloff, as a\nregulatory overhaul eases the need to protect against swings in the Taiwan\ndollar, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Singapore Holds Policy Steady But Raises Inflation Outlook",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsingapore-holds-policy-steady-while-raising-inflation-forecast",
-    "published": "Thu, 29 Jan 2026 00:04:03 CST",
-    "summary": "Singapore left its monetary policy settings unchanged for a third straight\nreview, but raised its forecast for inflation in a sign price-pressure risks\nwill remain in focus for its next decision in April.\n\n"
-  },
-  {
-    "title": "Stonepeak’s Rinchem Seeks Distressed Exchange to Fund Buyout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstonepeak-s-rinchem-seeks-distressed-exchange-to-fund-buyout",
-    "published": "Thu, 29 Jan 2026 00:00:19 CST",
-    "summary": "Rinchem, a Stonepeak Partners-backed chemical logistics and services company,\nis asking some lenders to accept losses as part of a debt deal to help finance\nits acquisition of Dupré Logistics, according to people with knowledge of the\nmatter.\n\n"
   },
   {
     "title": "Fed holds key interest rate steady as economic view improves",
@@ -284,7 +290,7 @@
   {
     "title": "Clay, an A.I. Sales Start-Up, Lets Employees Cash Out. Again.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fdealbook%2Fclay-start-up-tender-offers.html",
-    "published": "Wed, 28 Jan 2026 20:22:03 CST",
+    "published": "Wed, 28 Jan 2026 20:22:04 CST",
     "summary": "The company is part of a newer generation of software upstarts holding\nmultiple tender offers where workers can sell stock before going public.\n\n"
   },
   {
@@ -868,12 +874,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fus%2Fpolitics%2Ftrump-ai.html",
     "published": "Sun, 25 Jan 2026 10:02:20 CST",
     "summary": "Residents also oppose a data center the size of 18 Walmarts that is set to be\nbuilt in pristine woodland outside Bessemer, Ala. “All this will be gone,” one\nsaid.\n\n"
-  },
-  {
-    "title": "High January Is the New Dry January. Sales of THC Drinks Are Booming.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F25%2Fbusiness%2Fcannabis-thc-alcoholic-beverages.html",
-    "published": "Sun, 25 Jan 2026 10:02:15 CST",
-    "summary": "Sales of beverages containing hemp-derived THC are rising as consumers look\nfor the buzz without the booze. But a new federal law could push them off\nshelves.\n\n"
   },
   {
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
