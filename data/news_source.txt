@@ -1,21 +1,159 @@
 [
   {
-    "title": "Russia’s Lukoil to Sell Its Foreign Assets to U.S. Investment Firm",
+    "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-luv-4q-2025-earnings.html",
+    "published": "Thu, 29 Jan 2026 13:33:13 CST",
+    "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid\ndemand and new policies like assigned seating.\n\n"
+  },
+  {
+    "title": "‘Climate of fear’: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ftrump-minnesota-ice-action-ceos-speaking-out.html",
+    "published": "Thu, 29 Jan 2026 13:25:01 CST",
+    "summary": "Minneapolis has become the testing ground for when and how far corporate\nleaders will wade into escalating political tensions.\n\n"
+  },
+  {
+    "title": "Long-End Treasuries Fluctuate as Traders Await US Jobs Data",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flong-end-treasuries-fluctuate-as-traders-await-us-jobs-data",
+    "published": "Thu, 29 Jan 2026 13:21:53 CST",
+    "summary": "US Treasuries fluctuated as investors looked ahead to jobs data for clues on\nthe path of interest rates and surging commodity prices kindled concerns about\nsticky inflation.\n\n"
+  },
+  {
+    "title": "The A.I. Boom’s Uncertain Payoff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fdealbook%2Fai-spending-meta-microsoft.html",
+    "published": "Thu, 29 Jan 2026 13:17:06 CST",
+    "summary": "Companies like Microsoft and Meta are still spending big on artificial\nintelligence. But investors remain antsy about seeing results.\n\n"
+  },
+  {
+    "title": "US, India Discuss Expanding Coal Trade at Goa Energy Summit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-india-discuss-expanding-coal-trade-at-goa-energy-summit",
+    "published": "Thu, 29 Jan 2026 13:14:04 CST",
+    "summary": "US and India are in talks to boost the trade of coal, a fuel both nations\nconsider key to energy security, their officials said Thursday.\n\n"
+  },
+  {
+    "title": "Starbucks to unveil long-term outlook at investor day, as Niccol says turnaround is just beginning",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstarbucks-investor-day-updates-brian-niccol-turnaround.html",
+    "published": "Thu, 29 Jan 2026 13:11:51 CST",
+    "summary": "Starbucks is expected to release a long-term forecast and share more details\nabout how it plans to hit those financial targets at an investor presentation.\n\n"
+  },
+  {
+    "title": "Comcast posts mixed quarter as broadband pressures weigh on business",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fcomcast-cmcsa-earnings-q4-2025.html",
+    "published": "Thu, 29 Jan 2026 13:11:10 CST",
+    "summary": "Comcast’s broadband business continues to be under pressure due to the rise of\ncompetitors, particularly in the 5G space.\n\n"
+  },
+  {
+    "title": "Adani Eyes $1.5 Billion Yen Debt in Bid to Diversify Credit Mix",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fadani-eyes-1-5-billion-yen-debt-in-bid-to-diversify-credit-mix",
+    "published": "Thu, 29 Jan 2026 13:10:51 CST",
+    "summary": "Adani Group is seeking to raise as much as $1.5 billion worth of yen-\ndenominated debt in the next year and a half in a bid to diversify its\nfinancing, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "David Rubenstein Show: Anish Shah",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fdavid-rubenstein-show-anish-shah-full-show-video",
+    "published": "Thu, 29 Jan 2026 13:07:50 CST",
+    "summary": "The Mahindra Group is an Indian multinational conglomerate that operates\nacross more than 20 industries and covers roughly 70% of India's GDP. It has a\npresence in aerospace, agriculture, defence, IT services and real estate. CEO\nAnish Shah is the first non-family member to serve as group CEO since the\ncompany's inception in 1945. In this wide-ranging conversation, Shah sits down\nwith David Rubenstein to discuss Mahindra's evolution, India's economic\ntrajectory, geopolitics and Shah's leadership journey. He's on this week's\nepisode of \"The David Rubenstein Show: Peer to Peer Conversations.\" This\ninterview was recorded September 2 in New York. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "BBVA Plans Risk Transfer Deals Tied to €7 Billion of Assets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbbva-plans-risk-transfer-deals-tied-to-7-billion-of-assets",
+    "published": "Thu, 29 Jan 2026 13:06:29 CST",
+    "summary": "BBVA SA plans to issue two significant risk transfer deals linked to around €7\nbillion ($8.4 billion) of assets, according to people with knowledge of the\nmatter.\n\n"
+  },
+  {
+    "title": "How investment firms of the ultra-rich partner with PE funds to find top deals and save on fees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ffamily-offices-private-equity.html",
+    "published": "Thu, 29 Jan 2026 13:00:45 CST",
+    "summary": "By co-investing with PE firms, family offices source deals at a lower cost and\nfaster pace.\n\n"
+  },
+  {
+    "title": "Stocks making the biggest moves premarket: Meta, Caterpillar, IBM, Royal Caribbean & more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-premarket-.html",
+    "published": "Thu, 29 Jan 2026 12:55:25 CST",
+    "summary": "These are the stocks posting the largest moves in the premarket.\n\n"
+  },
+  {
+    "title": "Russia’s Lukoil in Talks to Sell Some Assets to U.S. Investment Firm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Frussia-lukoil-carlyle-sale-sanctions.html",
-    "published": "Thu, 29 Jan 2026 11:47:01 CST",
+    "published": "Thu, 29 Jan 2026 12:54:35 CST",
     "summary": "The deal with Carlyle comes after the United States and the European Union\nimposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.\n\n"
   },
   {
-    "title": "There’s a World-Wide Bull Market, Says Edward Yardeni",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthere-s-a-world-wide-bull-market-says-edward-yardeni-video",
-    "published": "Thu, 29 Jan 2026 11:34:24 CST",
-    "summary": "“It’s kind of a bull market in everything,” says Edward Yardeni, chief\ninvestment strategist at Yardeni Research, as he sees strength building in\nemerging markets along with resilience in the US and global economies.\n(Source: Bloomberg)\n\n"
+    "title": "Musk, Zuckerberg Battle for AI Supremacy With $155 Billion Splurge | The Pulse 1/29",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthe-pulse-1-29-video",
+    "published": "Thu, 29 Jan 2026 12:50:23 CST",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile\nguests in the beating heart of global business, economics, finance and\npolitics. Based in London, we go wherever the story is, bringing you exclusive\ninterviews and market-moving scoops. Today's guests: Kim Crawford, JPMorgan\nAsset Management, Global Rates Portfolio Manager; Giulia Pellegrini, Allianz\nGlobal Investors, Emerging Markets Portfolio Manager; Tiina Lee, Citi, UK CEO;\nLiam Fox, Former UK International Trade Minister and Former UK Defence\nMinister. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Metals Mania Is Gripping Investors Around the World",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-29%2Fmetals-mania-is-gripping-investors-around-the-world",
-    "published": "Thu, 29 Jan 2026 11:33:50 CST",
-    "summary": "Silver is up 64% this year as investors shift away from the dollar and\nsovereign bonds.\n\n"
+    "title": "Weak dollar drives gold over $5,500 an ounce for first time, amid geopolitical and debasement fears – business live",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F29%2Fgold-price-weak-dollar-silver-debasement-trade-markets-business-live-news-updates",
+    "published": "Thu, 29 Jan 2026 12:48:24 CST",
+    "summary": "Rolling coverage of the latest economic and financial news, as metal prices\ncontinue to soar\n\n**The weak dollar has helped to drive the copper price to a record high today\ntoo.**\n\nThe benchmark three-month copper on the London Metal Exchange jumped almost 8%\nto a new all-time peak of $14,125 a tonne, before slipping back slightly.\n\nInvestors are piling into base metals on the Shanghai Futures Exchange on\nexpectations for stronger US growth and more spending on data centers,\nrobotics and power infrastructure. That’s spurring global prices higher.\n\nInflation is close to the target of 2 percent.\n\nThe Swedish economy is growing at a solid pace. The labour market is weak but\nshowing signs of improvement.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Saudi’s Manara Sounds Out Firms Over Push Into Metals Trading",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsaudi-s-manara-sounds-out-firms-over-push-into-metals-trading",
+    "published": "Thu, 29 Jan 2026 12:39:46 CST",
+    "summary": "Saudi Arabia’s state-controlled metals and mining vehicle is in talks with\nsome of the world’s biggest commodity houses over a push into trading, as the\nkingdom expands its presence in global supply chains.\n\n"
+  },
+  {
+    "title": "Powell says Cook Supreme Court case is the most important in the Fed's 113-year history",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fpowell-cook-fed-court-case.html",
+    "published": "Thu, 29 Jan 2026 12:38:49 CST",
+    "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a\n\"mistake,\" accusing Powell of politicizing the case.\n\n"
+  },
+  {
+    "title": "Rogers Beats as Blue Jays Season Boosted Revenues",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Frogers-beats-as-blue-jays-season-boosted-revenues",
+    "published": "Thu, 29 Jan 2026 12:31:47 CST",
+    "summary": "Rogers Communications Inc. beat analysts’ fourth-quarter estimates thanks to\nstrong growth in its media segment and a World Series appearance by its\nToronto Blue Jays baseball team.\n\n"
+  },
+  {
+    "title": "Crypto’s ‘Digital Gold’ Myth Exposed as Traders Pivot to Metals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcrypto-s-digital-gold-myth-exposed-as-traders-pivot-to-metals",
+    "published": "Thu, 29 Jan 2026 12:30:03 CST",
+    "summary": "Bitcoin’s “digital gold” promise is unraveling as traders forgo the token for\nsurging metals, hurting a narrative that once defined the asset’s macro\nappeal.\n\n"
+  },
+  {
+    "title": "BlackRock, Partners Group Debut Private-Asset Account for Wealth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fblackrock-partners-group-debut-private-asset-account-for-wealth",
+    "published": "Thu, 29 Jan 2026 12:30:00 CST",
+    "summary": "BlackRock Inc. and Partners Group Holding AG launched the first joint private-\nmarkets investment of their partnership aimed at grabbing a slice of the\ntrillions of dollars sitting in the hands of wealthy individuals.\n\n"
+  },
+  {
+    "title": "Royal Caribbean Jumps as Accelerating Demand Spurs Fleet Growth",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Froyal-caribbean-jumps-as-accelerating-demand-spurs-fleet-growth",
+    "published": "Thu, 29 Jan 2026 12:21:03 CST",
+    "summary": "Royal Caribbean Cruises Ltd. shares jumped as demand for cruise holidays keeps\naccelerating, which could see the liner add as many as six additional ships to\nits fleet.\n\n"
+  },
+  {
+    "title": "Tech's CAPEX Splurge as SAP Stock Falls, A Metal Markets Party | The Opening Trade 1/29/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthe-opening-trade-1-29-2026-video",
+    "published": "Thu, 29 Jan 2026 12:18:05 CST",
+    "summary": "SAP shares see their biggest intraday drop since Covid. Germany's biggest\ncompany failed to convince that it would be able to clear its growing cloud\nbackdrop. But, chip stocks rise again after the latest US tech earnings point\nto more capital expenditure spending and signal rising demand for\nsemiconductors. Gold surged to a record above $5,500 an ounce, extending a\nbreakneck rally fueled by a weaker dollar and investor flight from sovereign\nbonds and currencies to a ninth day. The Fed's latest decision comes in line\nwith expectations, and doesn't make a strong dent on markets. The Opening\nTrade has everything you need to know as markets open across Europe. With\nanalysis you won't find anywhere else, we break down the biggest stories of\nthe day and speak to top guests who have skin in the game. Hosted by Anna\nEdwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Indian LNG Buyers and Global Producers Locked in Game of Chicken",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-29%2Findian-lng-buyers-and-global-producers-locked-in-game-of-chicken-over-prices",
+    "published": "Thu, 29 Jan 2026 12:10:05 CST",
+    "summary": "There’s a wave of fuel supply coming online around the world, but buyers in\nIndia are waiting until the price is right.\n\n"
+  },
+  {
+    "title": "Tech's AI Spending Boosts Stocks; Oil Rises on Trump Iran Threats | Bloomberg Brief 1/29/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fbloomberg-brief-1-29-2026-video",
+    "published": "Thu, 29 Jan 2026 12:09:13 CST",
+    "summary": "US equity futures gain as large tech firms including Meta announce plans to\nspend more on AI. SAP and Microsoft lag as their cloud businesses disappoint.\nThe dollar weakens amid debasement fears while gold extends its record rally.\nOil prices rise as President Trump warns Iran of military strikes if a nuclear\ndeal is not reached soon. Marija Veitmane of State Street and Joel Kulina of\nWedbush discuss this earnings season. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bets on Surprise ECB Cut in 2026 Aim for 12-Fold Return",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbets-on-surprise-ecb-rate-cut-in-2026-aim-to-win-12-fold-return",
+    "published": "Thu, 29 Jan 2026 12:00:23 CST",
+    "summary": "Traders are using options to bet on European Central Bank policymakers\nsurprising markets by delivering a quarter-point interest-rate cut at some\npoint this year.\n\n"
+  },
+  {
+    "title": "Emerging-Market Assets Pause as Dollar Steadies After Fed Hold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Femerging-market-assets-pause-as-dollar-steadies-after-fed-hold",
+    "published": "Thu, 29 Jan 2026 11:47:06 CST",
+    "summary": "Benchmark indexes for emerging-market stocks and currencies paused after a\nfive-day advance as the Federal Reserve signaled caution on interest-rate cuts\nand Indonesia’s stock market endured its worst selloff in two decades.\n\n"
   },
   {
     "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
@@ -24,46 +162,22 @@
     "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for\ngrowth, offering China’s leader, Xi Jinping, a way to court one of America’s\nallies.\n\n"
   },
   {
-    "title": "OPEC+ Set to Stick With Oil Supply Pause Even as Prices Hit $70",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fopec-set-to-stick-with-oil-supply-pause-even-as-prices-hit-70",
-    "published": "Thu, 29 Jan 2026 11:32:27 CST",
-    "summary": "OPEC+ currently remains on track to ratify the last part of this quarter’s oil\nproduction pause, delegates said, even as US threats against member nation\nIran propel prices to $70 a barrel.\n\n"
-  },
-  {
-    "title": "Packaging Giant International Paper Explores Breakup",
+    "title": "International Paper to Split Into Two Listed Companies",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpackaging-giant-international-paper-explores-breakup",
     "published": "Thu, 29 Jan 2026 11:32:23 CST",
-    "summary": "International Paper Co. is exploring a breakup, according to people familiar\nwith the matter.\n\n"
+    "summary": "International Paper Co. plans to break up and spin off its European packaging\noperations.\n\n"
   },
   {
-    "title": "‘Crisis of Confidence’ Grips Indonesia Stocks After MSCI Warning",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2F-crisis-of-confidence-grips-indonesia-stocks-after-msci-warning",
-    "published": "Thu, 29 Jan 2026 11:15:16 CST",
-    "summary": "Just days ago, Indonesia’s stock market was riding high. The benchmark index\nhit a record close last week, and a $1 trillion valuation seemed within sight.\n\n"
+    "title": "VSE Agrees to Acquire Precision Aviation in $2 Billion Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fvse-nears-2-billion-plus-deal-for-precision-aviation",
+    "published": "Thu, 29 Jan 2026 11:30:16 CST",
+    "summary": "VSE Corp., a provider of aftermarket parts and services to the aviation\nindustry, agreed to buy closely held Precision Aviation Group for about $2.025\nbillion in a cash-and-stock deal.\n\n"
   },
   {
-    "title": "Banks Borrow Record £100.9 Billion From BOE Short-Term Repo Tool",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbanks-borrow-record-100-9-billion-from-boe-short-term-repo-tool",
-    "published": "Thu, 29 Jan 2026 11:04:50 CST",
-    "summary": "Banks borrowed a record amount from a Bank of England repo facility, signaling\ngrowing demand for cash at a time when the central bank continues to drain\nexcess liquidity from the financial system.\n\n"
-  },
-  {
-    "title": "Lloyds Expects £100 Million Boost from AI Spend in 2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flloyds-expects-100-million-boost-from-ai-spend-in-2026",
-    "published": "Thu, 29 Jan 2026 11:02:27 CST",
-    "summary": "Lloyds Banking Group Plc expects to see a £100 million ($138 million) benefit\nfrom using artificial intelligence this year as the bank continues investing\nheavily in technology.\n\n"
-  },
-  {
-    "title": "Honeywell Guidance Tops Estimates as Aerospace Separation Looms",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fhoneywell-guidance-tops-estimates-as-aerospace-separation-looms",
-    "published": "Thu, 29 Jan 2026 11:00:00 CST",
-    "summary": "Honeywell International Inc.’s outlook for 2026 topped Wall Street estimates,\nwhile the spinoff of its aerospace unit is set to happen earlier than\nexpected.\n\n"
-  },
-  {
-    "title": "Wells Fargo and Centerbridge Venture Has Inked $7 Billion in Deals",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwells-fargo-centerbridge-venture-has-inked-7-billion-in-deals",
-    "published": "Thu, 29 Jan 2026 11:00:00 CST",
-    "summary": "A direct-lending venture between Wells Fargo & Co. and Centerbridge Partners\nsaid it has put together more than $7 billion of deals since its launch less\nthan two years ago, offering a rare glimpse into how banks and private credit\nlenders are leveraging these partnerships.\n\n"
+    "title": "Ireland Grew 12.6% in 2025 Despite Year-End Recession",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fireland-falls-into-recession-as-multinationals-weigh-on-economy",
+    "published": "Thu, 29 Jan 2026 11:11:15 CST",
+    "summary": "Ireland’s gross domestic product soared in 2025 year, with front loading of\nexports to the US in the first half making up for a year-end recession.\n\n"
   },
   {
     "title": "Here’s what would stay open during a partial government shutdown",
@@ -72,82 +186,16 @@
     "summary": "The federal government is poised to enter a partial shutdown as soon as this\nweek. Here’s what services would close, and what would still operate.\n\n"
   },
   {
-    "title": "Weakest Profit Surprises in a Year Spur Punishing Stock Reaction",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fmixed-us-earnings-trigger-worst-stock-reaction-seen-in-decades",
-    "published": "Thu, 29 Jan 2026 10:58:42 CST",
-    "summary": "US earnings have been far from reassuring to date, with companies serving up\nthe fewest positive surprises in a year. That’s triggered the sharpest\nnegative stock reaction for decades.\n\n"
-  },
-  {
-    "title": "Santander Mulls a Property Development Fund in Real Estate Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsantander-mulls-a-property-development-fund-in-real-estate-push",
-    "published": "Thu, 29 Jan 2026 10:56:06 CST",
-    "summary": "Banco Santander SA is preparing a new fund to invest in property development\nin Iberia, according to people familiar with the matter.\n\n"
-  },
-  {
-    "title": "Bain, Blackstone Among Suitors for UK Vitamin Maker Vitabiotics",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbain-blackstone-among-suitors-for-uk-vitamin-maker-vitabiotics",
-    "published": "Thu, 29 Jan 2026 10:55:31 CST",
-    "summary": "Bain Capital and Blackstone Inc. are among private equity firms in the next\nround of bidding for Vitabiotics Ltd., the UK vitamin company led by ex-\nDragons’ Den investor Tej Lalvani, according to people familiar with the\nmatter.\n\n"
-  },
-  {
-    "title": "Saudi Stocks Jump Most Since 2020 Before Market Liberalization",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsaudi-stocks-jump-most-since-2020-before-market-liberalization",
-    "published": "Thu, 29 Jan 2026 10:38:41 CST",
-    "summary": "Saudi stocks are heading for their best month in five years, finding support\nfrom a rally in broader emerging markers, rising commodity prices and the\nkingdom’s looming loosening of foreign investment rules.\n\n"
-  },
-  {
     "title": "Carvana shares fall 14% following short-seller accusations",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fcarvana-shares-fall-14percent-following-short-seller-accusations.html",
     "published": "Thu, 29 Jan 2026 10:30:11 CST",
     "summary": "Carvana shares closed Wednesday at $410.04, down 14.2% following short-seller\naccusations of the online used retailer overstating earnings.\n\n"
   },
   {
-    "title": "Venezuela Tests Big Oil’s Wall Street-Backed Spending Discipline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fvenezuela-tests-big-oil-s-wall-street-backed-spending-discipline",
-    "published": "Thu, 29 Jan 2026 10:30:00 CST",
-    "summary": "Exxon Mobil Corp. and Chevron Corp. must walk a fine line when they kick off\nBig Oil earnings season Friday, balancing Wall Street’s push for spending\ndiscipline and President Donald Trump’s call to invest $100 billion in\nVenezuela.\n\n"
-  },
-  {
-    "title": "Small US Lenders Primed for Big Share Gains on Curve Steepening",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsmall-us-lenders-primed-for-big-share-gains-on-curve-steepening",
-    "published": "Thu, 29 Jan 2026 10:30:00 CST",
-    "summary": "Regional banks have been buoyed by a broadening out of the bull-market rally\n-- and investors see the momentum continuing even if the overall rotation\nfizzles out.\n\n"
-  },
-  {
-    "title": "Dutch Pension PME Pivots to Europe as US ‘No Longer Reliable’",
+    "title": "Dutch Pension PME Targets Europe as US ‘No Longer Reliable’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdutch-pension-pme-pivots-to-europe-as-us-no-longer-reliable",
     "published": "Thu, 29 Jan 2026 10:29:35 CST",
-    "summary": "Dutch pension fund PME is planning to plow more money into European assets and\npivot away from the US, as the investor responds to policy shifts on the other\nside of the Atlantic.\n\n"
-  },
-  {
-    "title": "Hong Kong Raids Offices in Bid-Rigging Probe After Deadly Fire",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fhong-kong-raids-offices-in-bid-rigging-probe-after-deadly-fire",
-    "published": "Thu, 29 Jan 2026 10:19:14 CST",
-    "summary": "Hong Kong authorities searched 27 premises Wednesday and Thursday as part of\nan investigation into bid-rigging on building maintenance projects, two months\nafter a fire in a residential estate killed 168 people.\n\n"
-  },
-  {
-    "title": "Asean Withholds Endorsement of Myanmar Vote Amid Internal Split",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fasean-withholds-endorsement-of-myanmar-vote-amid-internal-split",
-    "published": "Thu, 29 Jan 2026 10:15:41 CST",
-    "summary": "Southeast Asian nations stopped short of endorsing Myanmar’s post-coup\nelections at a meeting in the Philippines on Thursday, a decision likely, for\nthe time being, to keep in place restrictions on the military government’s\nparticipation in the bloc that have stood since the 2021 coup.\n\n"
-  },
-  {
-    "title": "Investors Still Interested in US, JPM's Crawford Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Finvestors-still-interested-in-us-jpm-s-crawford-says-video",
-    "published": "Thu, 29 Jan 2026 10:14:49 CST",
-    "summary": "JPMorgan Asset Management's Kim Crawford discusses investors' positioning and\nsays that there is \"some discontent\" on US policy and \"some diversification is\nbeing embraced.\" She adds, however, that ultimately investors still want to be\nin the US given the breath, depth and size of the US Treasury market. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Astra Touts $15 Billion China Investment During Starmer Trip",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fastra-pledges-15-billion-china-investment-during-starmer-visit",
-    "published": "Thu, 29 Jan 2026 10:06:55 CST",
-    "summary": "AstraZeneca Plc will invest $15 billion in China through 2030 to expand\nmedicines manufacturing as well as research and development, in a further\ncommitment to the UK drugmaker’s already sizable presence in the mainland.\n\n"
-  },
-  {
-    "title": "Indonesia Sees Worst Stock Rout Since 1998 | The China Show 1/29/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthe-china-show-1-29-2026-video",
-    "published": "Thu, 29 Jan 2026 10:04:15 CST",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on\nthe world's second-biggest economy. From politics and policy to tech and\ntrends, David Ingles and Annabelle Droulers give global investors unique\ninsight, delivering in-depth discussions with the newsmakers who matter.\n(Source: Bloomberg)\n\n"
+    "summary": "Dutch pension fund PME will focus more on European opportunities going\nforward, especially in the technology sector, as the investor criticizes the\ndirection in which American policies are moving.\n\n"
   },
   {
     "title": "Newark Museum of Art Names a New Leader",
@@ -160,12 +208,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Feconomy%2Fmanufacturing-factories-tariffs.html",
     "published": "Thu, 29 Jan 2026 10:02:13 CST",
     "summary": "Tariffs have protected some companies, but more often they’ve hit the parts\nand materials many factories need to make finished goods.\n\n"
-  },
-  {
-    "title": "Saudi-UAE Spat Finds New Front in Lucrative Sudan Gold Shipments",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsaudi-uae-spat-finds-new-front-in-lucrative-sudan-gold-shipments",
-    "published": "Thu, 29 Jan 2026 10:01:14 CST",
-    "summary": "Saudi Arabia is poised to buy gold from war-torn Sudan, potentially taking a\nshare of the lucrative market from the United Arab Emirates as a dispute\nsimmers between the two Gulf powers.\n\n"
   },
   {
     "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
@@ -186,40 +228,58 @@
     "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
   },
   {
-    "title": "UAE’s $115 Billion Lunate Taps ADQ Boss In Quest to Double Size",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fabu-dhabi-wealth-fund-adq-s-ceo-steps-down-for-role-at-lunate",
-    "published": "Thu, 29 Jan 2026 09:11:52 CST",
-    "summary": "The chief executive officer of Abu Dhabi’s $263 billion wealth fund ADQ is\nstepping down to take on a new role at Lunate, the region’s largest\nalternatives manager that’s seeking to more than double assets over the next\nfive years.\n\n"
+    "title": "Blackstone in Talks to Become New World’s Top Shareholder",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fblackstone-nears-deal-to-become-new-world-s-largest-shareholder",
+    "published": "Thu, 29 Jan 2026 09:48:13 CST",
+    "summary": "Blackstone Inc. is in advanced talks to become the single largest shareholder\nof New World Development Co., according to people familiar with the matter, a\nmove that would see one of Hong Kong’s richest families relinquish control of\na major asset.\n\n"
   },
   {
-    "title": "UK Surge in Negative Power Prices Opens Door to Battery Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fuk-s-surge-in-negative-power-prices-opens-door-to-battery-boom",
-    "published": "Thu, 29 Jan 2026 08:56:42 CST",
-    "summary": "Instances of negative power prices in Britain are set to more than double this\nyear as renewable generation expands faster than electricity demand.\n\n"
+    "title": "Brent Crude Hits $70 a Barrel as Trump Ramps Up Iran Threats",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbrent-crude-hits-70-a-barrel-as-trump-ramps-up-iran-threats",
+    "published": "Thu, 29 Jan 2026 09:30:30 CST",
+    "summary": "Brent crude futures hit $70 a barrel for the first time since September after\nUS President Donald Trump warned Iran to make a nuclear deal or face military\nstrikes.\n\n"
   },
   {
-    "title": "Bond Investors Fret That France Budget Relief Is Just a Blip",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbond-investors-fret-that-france-s-budget-relief-is-just-a-blip",
-    "published": "Thu, 29 Jan 2026 07:45:00 CST",
-    "summary": "France’s progress this year in reining in its budget deficit has failed to\nimpress some bond investors, who say the risk of fiscal deterioration has just\nbeen pushed down the road.\n\n"
+    "title": "Air India to Order 30 Boeing Max Jets as Travel Demand Surges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fair-india-to-order-30-boeing-max-jets-as-travel-demand-surges",
+    "published": "Thu, 29 Jan 2026 08:58:06 CST",
+    "summary": "Air India Ltd. firmed up an order for additional 30 Boeing Co. 737 Max\naircraft in an aggressive fleet expansion as air travel demand surges in the\nworld’s most-populous country.\n\n"
   },
   {
-    "title": "India Forecasts Over 7% Growth Next Year Despite Trade Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Findia-sees-economy-expanding-as-much-as-7-2-next-financial-year",
-    "published": "Thu, 29 Jan 2026 06:43:28 CST",
-    "summary": "India’s government predicted the economy could expand more than 7% in the\ncoming financial year, offering an optimistic outlook at a time of heightened\nuncertainty for global trade.\n\n"
+    "title": "Total Ends Five-Year Halt on $20 Billion Mozambique LNG Plan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ftotalenergies-ends-five-year-halt-on-20-billion-mozambique-lng",
+    "published": "Thu, 29 Jan 2026 08:45:00 CST",
+    "summary": "TotalEnergies SE formally restarted construction of a $20 billion liquefied\nnatural gas project in Mozambique, ending a nearly five-year delay in\ndeveloping one of Africa’s biggest-ever investments.\n\n"
   },
   {
-    "title": "SAP Falls as Cloud Backlog Miss Sparks AI Competition Fears",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsap-forecasts-cloud-revenue-to-grow-in-2026-as-customers-switch",
-    "published": "Thu, 29 Jan 2026 05:07:47 CST",
-    "summary": "SAP SE shares fell the most in more than five years as current cloud backlog\nin the fourth quarter slipped to a level that Chief Executive Officer\nChristian Klein previously said would be a “disappointment,” adding to worries\nof how artificial intelligence will disrupt the software industry.\n\n"
+    "title": "Deutsche Bank Vows Research Independence After Bessent Call",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdeutsche-bank-cfo-says-research-independence-is-sacrosanct",
+    "published": "Thu, 29 Jan 2026 07:52:11 CST",
+    "summary": "Deutsche Bank AG has no plans to curtail the independence of its research\nafter a controversial report prompted Chief Executive Officer Christian Sewing\nto call US Treasury Secretary Scott Bessent.\n\n"
+  },
+  {
+    "title": "Turkish Stocks Eye Best January Since ‘97 as Cash Pours In",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fturkish-stocks-eye-best-january-since-1997-as-investors-pile-in",
+    "published": "Thu, 29 Jan 2026 07:36:39 CST",
+    "summary": "Turkish stocks are poised for their best January in 29 years as the wave of\noptimism around emerging markets and cheap valuations lure foreign investors\nback into the market.\n\n"
+  },
+  {
+    "title": "Deutsche Bank Raid Casts Cloud Over Record Year for Profit",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdeutsche-bank-plans-new-buyback-in-results-overshadowed-by-raid",
+    "published": "Thu, 29 Jan 2026 06:04:47 CST",
+    "summary": "Deutsche Bank AG closed out a record year for profit with higher trading\nincome and a new share buyback, a boost to Chief Executive Officer Christian\nSewing a day after a raid of its Frankfurt offices raked up memories of the\nlender’s past troubles.\n\n"
   },
   {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
     "published": "Thu, 29 Jan 2026 05:00:16 CST",
     "summary": "The shipping traffic and factories never stop in China’s port city of Ningbo,\nbut the local housing market has crashed and nearby restaurants sit empty.\n\n"
+  },
+  {
+    "title": "China’s Metals Mania Sends Copper Soaring Past $14,000 a Ton",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcopper-rallies-to-record-on-lme-as-base-metals-extend-bull-run",
+    "published": "Thu, 29 Jan 2026 03:15:04 CST",
+    "summary": "Copper surged by the most in more than 16 years as metals extended a dramatic\nstart to the year fueled by a wave of intense speculative trading in China.\n\n"
   },
   {
     "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%",
@@ -232,12 +292,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Ftesla-earnings-electric-vehicles.html",
     "published": "Thu, 29 Jan 2026 00:41:23 CST",
     "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
-  },
-  {
-    "title": "Hedge Fund Aspex Gains 26% in Banner Year for Asia Managers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fhedge-fund-aspex-gains-26-in-banner-year-for-asia-managers",
-    "published": "Thu, 29 Jan 2026 00:25:23 CST",
-    "summary": "Hermes Li’s $14 billion Aspex Management HK Ltd. scored another double-digit\nreturn in 2025, when artificial intelligence and corporate governance reforms\nlifted Asia hedge funds large and small.\n\n"
   },
   {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
@@ -270,34 +324,22 @@
     "summary": "The tech giant is spending $35 million to promote its film about the first\nlady, far more than is typical for documentaries.\n\n"
   },
   {
-    "title": "Zuckerberg, Musk Vie for AI Supremacy With $155 Billion Splurge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsamsung-s-chip-profit-soars-after-ai-supercharges-memory-market",
-    "published": "Wed, 28 Jan 2026 22:48:18 CST",
-    "summary": "Meta Platforms Inc. will double capital spending to as much as $135 billion\nthis year, an all-in bet on artificial intelligence as the US tech giants\nbattle it out for supremacy in the next wave of technological advancements.\n\n"
-  },
-  {
-    "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-luv-4q-2025-earnings.html",
-    "published": "Wed, 28 Jan 2026 22:47:32 CST",
-    "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid\ndemand and new policies like assigned seating.\n\n"
-  },
-  {
-    "title": "Stocks Rise as Tech Megacaps Step Up AI Spending: Markets Wrap",
+    "title": "Stocks Trim Gains as AI Spending Doubts Resurface: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 28 Jan 2026 22:19:00 CST",
-    "summary": "US stocks resumed their advance as technology megacaps unleashed further\nspending to build out the infrastructure that powers artificial intelligence.\nGold and silver hit record highs.\n\n"
-  },
-  {
-    "title": "Powell says Cook Supreme Court case is the most important in the Fed's 113-year history",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fpowell-cook-fed-court-case.html",
-    "published": "Wed, 28 Jan 2026 22:05:59 CST",
-    "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a\n\"mistake,\" accusing Powell of politicizing the case.\n\n"
+    "summary": "Stock futures posted small gains in cautious trading as doubts resurfaced over\nwhether the vast sums being spent on artificial-intelligence infrastructure\nwill translate into earnings. Gold and silver hit new highs.\n\n"
   },
   {
     "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fhere-are-the-five-key-takeaways-from-wednesdays-fed-rate-decision.html",
     "published": "Wed, 28 Jan 2026 21:59:49 CST",
     "summary": "The Federal Reserve wrapped up a two-day policy meeting Wednesday, delivering\npretty much what the market expected.\n\n"
+  },
+  {
+    "title": "Indonesia Stocks Pare Worst Rout Since 1998 on Reform Promise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Findonesian-stocks-see-most-foreign-selling-since-april-on-msci",
+    "published": "Wed, 28 Jan 2026 21:53:30 CST",
+    "summary": "Indonesian equities staged a late-session recovery from their deepest two-day\nrout in nearly three decades, as regulators rushed to implement measures aimed\nat averting a potential downgrade by index compiler MSCI Inc.\n\n"
   },
   {
     "title": "Fed Holds Rates Steady as It Points to an Improving Economy",
@@ -840,12 +882,6 @@
     "summary": "Concerns about the affordability of education, housing, health care, having a\nfamily and retirement are driving economic anxieties, a New York Times/Siena\npoll found.\n\n"
   },
   {
-    "title": "Trump Hobbled the I.R.S. This C.E.O. Now Has to Make It Work.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fus%2Fpolitics%2Ftrump-irs-taxes-bisignano.html",
-    "published": "Mon, 26 Jan 2026 10:00:51 CST",
-    "summary": "Frank Bisignano is the first chief executive of the I.R.S., where there’s hope\nhe will end a chaotic stretch at the agency. The tax filing season, which\nstarted Monday, is his first test.\n\n"
-  },
-  {
     "title": "China didn’t grab many headlines at Davos, but it's the elephant in the room",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fchina-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html",
     "published": "Mon, 26 Jan 2026 00:05:33 CST",
@@ -874,12 +910,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fchinas-ai-trade-moves-from-infrastructure-to-applications-stocks-to-watch.html",
     "published": "Sun, 25 Jan 2026 12:46:00 CST",
     "summary": "Capital flows from eager mainland China-based investors are flowing into these\nartificial intelligence plays.\n\n"
-  },
-  {
-    "title": "Minnesota workers pressure employers to take action against ICE operations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Ftarget-delta-hilton-minnesota-ice-trump",
-    "published": "Sun, 25 Jan 2026 11:00:06 CST",
-    "summary": "Target, Delta and Hilton targeted with actions leading up to economic blackout\nof no work, shopping or school\n\nSome of the US’s biggest companies are coming under increasing pressure to\nspeak out about the Trump administration’s Immigration and Customs Enforcement\n(ICE)’s operations in Minnesota.\n\nWorkers throughout Minnesota have been pressuring their employers to act\nfollowing the death of Renee Good, an unarmed woman killed by a federal\nimmigration officer in Minneapolis earlier this month.\n\nContinue reading...\n\n"
   },
   {
     "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
@@ -924,22 +954,10 @@
     "summary": "These are the stocks posting the largest moves in premarket trading.\n\n"
   },
   {
-    "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fcapital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
-    "published": "Fri, 23 Jan 2026 12:50:56 CST",
-    "summary": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank, a\nrare founder-CEO of a major U.S. bank, after its Discover Financial\nacquisition.\n\n"
-  },
-  {
     "title": "What obesity drugmakers see next in the market: More pills, easier access and drug combinations",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fweight-loss-glp-1-drugs-next-steps-for-eli-lilly-novo-nordisk-pfizer.html",
     "published": "Fri, 23 Jan 2026 12:50:24 CST",
     "summary": "CNBC spoke to executives from Eli Lilly, Novo Nordisk, Pfizer and other\ndrugmakers at the annual JPMorgan Healthcare Conference in San Francisco.\n\n"
-  },
-  {
-    "title": "Nvidia’s Huang to visit China as AI chip sales stall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fnvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
-    "published": "Fri, 23 Jan 2026 12:31:43 CST",
-    "summary": "Nvidia CEO Jensen Huang plans to visit China ahead of the mid-February Lunar\nNew Year, two people familiar with the matter told CNBC.\n\n"
   },
   {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
@@ -948,28 +966,10 @@
     "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the\nWorld Economic Forum in Davos remain on edge after President Trump, for now,\nbacked down from threats of using tariffs or military force to gain Greenland.\n\n"
   },
   {
-    "title": "Lowe's bets on kids, creators and Gen Z as Americans delay homebuying",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Flowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
-    "published": "Thu, 22 Jan 2026 20:36:51 CST",
-    "summary": "The retailer is trying to attract more store and website visits as the U.S.\nhousing market remains sluggish and customers postpone projects.\n\n"
-  },
-  {
-    "title": "Flex office firm Industrious is seeing major growth. Here's what's driving it",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fflex-office-firm-industrious-major-growth.html",
-    "published": "Thu, 22 Jan 2026 19:39:43 CST",
-    "summary": "In 2025, Industrious increased its global footprint by 58%, now with more than\n250 units open in over 100 cities.\n\n"
-  },
-  {
     "title": "Trump Returns to a Familiar Role: Sowing Trade Chaos",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F22%2Fus%2Fpolitics%2Ftrump-trade-chaos.html",
     "published": "Thu, 22 Jan 2026 19:26:06 CST",
     "summary": "The president’s quick reversal on tariffs over Greenland was another sign of\nhis willingness to rip up the international order — even parts of it that he\nhimself has made.\n\n"
-  },
-  {
-    "title": "GM to move production of China-built Buick SUV to U.S. plant",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F22%2Fgm-buick-compact-suv-china-fairfax.html",
-    "published": "Thu, 22 Jan 2026 18:28:46 CST",
-    "summary": "General Motors plans to move production of a Buick compact SUV from China to\nthe U.S. for domestic sales, the company confirmed Thursday.\n\n"
   },
   {
     "title": "‘I ain’t goin nowhere’: Gullah Geechee people fight off developers with a historic referendum",
