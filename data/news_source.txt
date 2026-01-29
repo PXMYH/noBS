@@ -1,5 +1,65 @@
 [
   {
+    "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fai-secrets-stolen-google-china.html",
+    "published": "Thu, 29 Jan 2026 23:40:50 CST",
+    "summary": "A federal jury found that Linwei Ding stole thousands of confidential files to\nhelp him start a company in Beijing.\n\n"
+  },
+  {
+    "title": "Oil Steadies After Three-Day Rally as Traders Weigh Iran Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flatest-oil-market-news-and-analysis-for-jan-30",
+    "published": "Thu, 29 Jan 2026 23:38:57 CST",
+    "summary": "Oil steadied after surging more than 3% on Thursday as traders weighed US\nPresident Donald Trump’s threats against Iran, and how a potential escalation\nin hostilities could impact flows from the Middle East.\n\n"
+  },
+  {
+    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
+    "published": "Thu, 29 Jan 2026 23:35:03 CST",
+    "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
+  },
+  {
+    "title": "Why Is There So Much Oil?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fvideo-why-is-there-suddenly-so-much-oil",
+    "published": "Thu, 29 Jan 2026 23:33:00 CST",
+    "summary": "In this weekly documentary, _Bloomberg Originals_ explores how the world got\nto this strange place of oversupply and what it means for the future.****\n\n"
+  },
+  {
+    "title": "Gold Resumes Rally After Dropping on Thursday in Choppy Session",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-resumes-rally-after-dropping-on-thursday-in-choppy-session",
+    "published": "Thu, 29 Jan 2026 23:29:58 CST",
+    "summary": "Gold resumed gains -- after dropping for the first time in almost two weeks on\nThursday -- as geopolitical upheaval, the debasement trade and thin liquidity\npowered the rally.\n\n"
+  },
+  {
+    "title": "PIMCO's Jerome Schneider: See One More Rate Cut This Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fpimco-s-schneider-see-one-more-rate-cut-this-year-video",
+    "published": "Thu, 29 Jan 2026 23:04:53 CST",
+    "summary": "Jerome Schneider, head of short-term portfolio management and funding at\nPIMCO, says the Fed faces new challenges as economic growth picks up. He tells\nRomaine Bostick and Katie Greifeld on “The Close” that PIMCO still expects\nanother rate cut later this year, even as growth prospects improve. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "Nintendo Switch 2’s Strength Threatened by Memory ‘Horror Show’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fnintendo-switch-2-s-strength-threatened-by-memory-horror-show",
+    "published": "Thu, 29 Jan 2026 23:00:00 CST",
+    "summary": "The fastest-selling game console of all time may not be enough to shelter\nNintendo Co.’s stock from growing investor fears about skyrocketing memory\nprices.\n\n"
+  },
+  {
+    "title": "Worst Yet to Come After Wild Day for Indonesia Stocks, Funds Say",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fworst-yet-to-come-after-wild-day-for-indonesia-stocks-funds-say",
+    "published": "Thu, 29 Jan 2026 23:00:00 CST",
+    "summary": "Global investors’ exit from Indonesian stocks sparked by MSCI Inc.’s\ninvestability warning is far from done, according to fund managers, raising\nthe specter of a sustained market derating.\n\n"
+  },
+  {
+    "title": "Dozens of Saks Off 5th stores to close as Saks maneuvers bankruptcy",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F29%2Fsaks-off-5th-closures%2F",
+    "published": "Thu, 29 Jan 2026 22:55:09 CST",
+    "summary": "The news comes just two weeks after the parent company filed for bankruptcy.\nOnly 12 off-price stores will remain open.\n\n"
+  },
+  {
+    "title": "BlackRock’s Diorio: Clients Want More Access to Private Markets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fdiorio-clients-want-more-access-to-private-markets-video",
+    "published": "Thu, 29 Jan 2026 22:54:38 CST",
+    "summary": "Jonathan Diorio, head of U.S. Wealth Business and Head of Alternatives at\nBlackRock, discusses the firm’s private-markets separately managed account\nwith Romaine Bostick and Katie Greifeld. He says clients are seeking greater\naccess to private markets. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Stocks making the biggest moves after hours: Apple, Robinhood, Visa, Sandisk and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-after-hours-aapl-hood-v-sndk.html",
     "published": "Thu, 29 Jan 2026 22:50:30 CST",
@@ -27,7 +87,7 @@
     "title": "Wall Street Bonanza Won’t Save NYC’s Finances, Mamdani Warns",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwall-street-bonanza-won-t-save-nyc-s-finances-mamdani-warns",
     "published": "Thu, 29 Jan 2026 22:42:56 CST",
-    "summary": "Wall Street’s booming year will not be enough to stave off a financial crisis\nthat Mayor Zohran Mamdani says is worse than the Great Recession more than a\ndecade ago.\n\n"
+    "summary": "Wall Street’s booming year will not be enough to stave off a financial crisis\nthat Mayor Zohran Mamdani says is worse than the Great Recession nearly two\ndecades ago.\n\n"
   },
   {
     "title": "Dirty Energy’s Cute But Deadly Rebrand",
@@ -36,16 +96,16 @@
     "summary": "Meet the White House’s newest mascot: Coalie. He’s a cute lump of coal that\nthe administration hopes will sell its perverse energy agenda, says Bloomberg\nOpinion columnist Mark Gongloff. (Source: Bloomberg)\n\n"
   },
   {
+    "title": "US Stock Futures Fall on Apple Warning, Gold Up: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 29 Jan 2026 22:40:22 CST",
+    "summary": "US equity-index futures fell at the open as Apple Inc. warned about margins\nand doubts grew over whether heavy investment in artificial intelligence will\ndeliver sufficient returns.\n\n"
+  },
+  {
     "title": "Nasdaq Falls on Big Tech Weakness | Closing Bell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fnasdaq-falls-on-big-tech-weakness-closing-bell-video",
     "published": "Thu, 29 Jan 2026 22:33:55 CST",
     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
-    "published": "Thu, 29 Jan 2026 22:25:05 CST",
-    "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
   },
   {
     "title": "Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI",
@@ -90,34 +150,10 @@
     "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid\ndemand and new policies like assigned seating.\n\n"
   },
   {
-    "title": "Fundamentals Of Metal Markets Are Weak Right Now: Layton",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Ffundamentals-of-metal-markets-are-weak-right-now-layton-video",
-    "published": "Thu, 29 Jan 2026 21:09:34 CST",
-    "summary": "Gold fell the most since October, retreating from a record above $5,500 an\nounce as risk-off sentiment sparked a selloff in metals with investors using\nthem to cover losses in other assets such as equities. Max Layton, Global Head\nof Commodities Research at Citi tells Bloomberg that gold and silver movement\nis driven more by capital allocation and momentum than traditional\nfundamentals. Layton adds that geopolitical risks, economic uncertainty, a\nweaker dollar, and concerns over deficits and tariffs are pushing investors\ntoward precious metals. He joined the conversation on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "FedEx Shares Hit First Record Since 2021 on Cost-Cutting Plans",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffedex-shares-hit-first-record-since-2021-on-cost-cutting-plans",
-    "published": "Thu, 29 Jan 2026 21:06:06 CST",
-    "summary": "FedEx Corp. shares closed at a record high, putting them on track for a six-\nmonth rally amid growing confidence in the company’s cost-cutting efforts and\na resilient economic backdrop that’s expected to favor the transportation\nsector.\n\n"
-  },
-  {
     "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 10%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
     "published": "Thu, 29 Jan 2026 21:03:56 CST",
     "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
-  },
-  {
-    "title": "This Is The Right Time To Go Public: Ethos CEO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthis-is-the-right-time-to-go-public-ethos-ceo-video",
-    "published": "Thu, 29 Jan 2026 21:02:43 CST",
-    "summary": "Insurance platform Ethos Technologies shares dropped in its trading debut,\nafter the company and some of its shareholders raised roughly $200 million in\nan initial public offering. Peter Colis, Co-Founder and CEO of Ethos tells\nBloomberg that the company’s technology-driven life insurance platform is\ndesigned to help agents issue policies faster while managing risk responsibly.\nHe says Ethos uses large datasets along with machine learning models to price\npolicies accurately without relying on traditional exams. He joined the\nconversation on \"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Veja os Três Assuntos Que Marcaram a Semana no Brasil",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fveja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video",
-    "published": "Thu, 29 Jan 2026 20:53:28 CST",
-    "summary": "Os repórteres Beatriz Reis e Daniel Carvalho contam quais foram os três\nassuntos que marcaram a semana no Brasil. Com produção de Patricia Xavier e\nedição de Raphael Almeida. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump's ICE tactics force CEOs to choose between staying silent and risking White House backlash",
@@ -132,22 +168,10 @@
     "summary": "A proposed class-action lawsuit claims Costco was misleading customers and\nengaging in false advertising when it described the chicken as having no\npreservatives.\n\n"
   },
   {
-    "title": "Waller REALLY Wants To Be Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fwaller-really-wants-to-be-fed-chair-video",
-    "published": "Thu, 29 Jan 2026 20:34:05 CST",
-    "summary": "Federal Reserve Governor Chris Waller just played politics instead of\neconomics. That’s a bad sign for the future of the institution, says Bloomberg\nOpinion columnist Jonathan Levin. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Tesla Profit Slumps, but Investors May Not Care",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Ftesla-earnings-electric-vehicles.html",
     "published": "Thu, 29 Jan 2026 20:21:50 CST",
     "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
-  },
-  {
-    "title": "Pimco President Says Private Credit Buyers Are ‘Blind’ to Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpimco-president-says-private-credit-buyers-are-blind-to-risks",
-    "published": "Thu, 29 Jan 2026 20:16:12 CST",
-    "summary": "Investors underestimate the hazards when chasing fat yields in private credit,\naccording to Pacific Investment Management Co.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
@@ -156,22 +180,10 @@
     "summary": "The monthly trade deficit and imports rebounded in November after shrinking\nsignificantly in prior months, new data show.\n\n"
   },
   {
-    "title": "BYD’s Cheap EVs Suddenly Everywhere in Mexico Despite Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fbyd-s-cheap-evs-suddenly-everywhere-in-mexico-video",
-    "published": "Thu, 29 Jan 2026 19:50:14 CST",
-    "summary": "Chinese car brands’ inroads in Mexico have unnerved Washington, rattled\nestablished automakers and alarmed the Mexican government, which is throwing\nup trade barriers. But even in the face of new tariffs, China-made cars face\nlittle competition in the country’s growing market for electric vehicles.\nCheap prices, government subsidies and a growing charging network all point to\ncontinued sales growth for China’s automakers in the country. Bloomberg News\nMexico Business Reporter Amy Stillman details the rise of brands like BYD just\nacross the border from the United States, and what it signals about car market\ncompetition and trade. Amy speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Famerican-airlines-return-service-venezuela.html",
     "published": "Thu, 29 Jan 2026 19:39:30 CST",
     "summary": "American would be the first U.S. carrier to restart service to Venezuela,\nwhich had become isolated after airlines cut service to the country in recent\nyears.\n\n"
-  },
-  {
-    "title": "SpaceX In Merger Talks With xAI Ahead of IPO, Reuters Reports",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fspacex-in-merger-talks-with-xai-ahead-of-ipo-reuters-reports",
-    "published": "Thu, 29 Jan 2026 19:30:43 CST",
-    "summary": "Elon Musk’s SpaceX is in discussions with his artificial intelligence firm xAI\nabout a potential merger ahead of the rocket and satellite maker’s potential\nblockbuster IPO, Reuters reported.\n\n"
   },
   {
     "title": "How investment firms of the ultra-rich partner with PE funds to find top deals and save on fees",
@@ -282,12 +294,6 @@
     "summary": "Starbucks is bringing back its tiered loyalty program.\n\n"
   },
   {
-    "title": "Gold Retreats in Sudden Selloff After Breaking Through $5,500",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-retreats-from-record-above-5-500-as-rally-momentum-slows",
-    "published": "Thu, 29 Jan 2026 15:54:30 CST",
-    "summary": "Gold fell the most since October, retreating from a record above $5,500 an\nounce as risk-off sentiment sparked a selloff in metals with investors using\nthem to cover losses in other assets such as equities.\n\n"
-  },
-  {
     "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fupshot%2Fheat-pumps-cheaper-winter.html",
     "published": "Thu, 29 Jan 2026 15:30:00 CST",
@@ -390,16 +396,22 @@
     "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
   },
   {
-    "title": "Brent Crude Settles at Highest Since July on Trump’s Iran Threat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbrent-crude-hits-70-a-barrel-as-trump-ramps-up-iran-threats",
-    "published": "Thu, 29 Jan 2026 09:30:30 CST",
-    "summary": "Brent crude futures settled above $70 a barrel for the first time since July\nafter US President Donald Trump warned Iran to make a nuclear deal or face\nmilitary strikes.\n\n"
+    "title": "Trump, Democrats Strike Tentative Deal to Avert US Shutdown",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ftrump-democrats-make-some-progress-in-talks-to-avert-shutdown",
+    "published": "Thu, 29 Jan 2026 06:16:17 CST",
+    "summary": "President Donald Trump and Senate Democrats have reached a tentative deal to\navert a US government shutdown as the White House negotiates with Democrats to\nplace new limits on immigration raids that have provoked a national outcry.\n\n"
   },
   {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
     "published": "Thu, 29 Jan 2026 05:00:16 CST",
     "summary": "The shipping traffic and factories never stop in China’s port city of Ningbo,\nbut the local housing market has crashed and nearby restaurants sit empty.\n\n"
+  },
+  {
+    "title": "Indonesia Stock Rout Deepens After MSCI Warning",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Findonesia-stock-rout-deepens-after-msci-warning-video",
+    "published": "Thu, 29 Jan 2026 03:37:58 CST",
+    "summary": "Indonesian stocks sank deeper on Thursday after an MSCI warning over market\ninvestability sparked the worst two-day sell-off in nearly three decades.\nStill, Mohit Mirpuri, Senior Partner at SGMC Capital, says he has not sold his\npositions in the market and that he sees no chance of a downgrade. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
@@ -672,12 +684,6 @@
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
   },
   {
-    "title": "UPS will slash 30,000 jobs as company shifts away from Amazon",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fups-layoffs-amazon%2F",
-    "published": "Tue, 27 Jan 2026 23:33:05 CST",
-    "summary": "The reductions come after the shipping giant eliminated 48,000 positions in\n2025.\n\n"
-  },
-  {
     "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Ftechnology%2Fmicrosoft-water-ai-data-centers.html",
     "published": "Tue, 27 Jan 2026 23:30:19 CST",
@@ -862,12 +868,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Fwinter-storm-flight-cancellations.html",
     "published": "Mon, 26 Jan 2026 21:46:52 CST",
     "summary": "Transportation Secretary Sean Duffy told CNBC that air travel should be back\nto normal by Wednesday, following a significant disruption from the snowstorm.\n\n"
-  },
-  {
-    "title": "Power Outages Could Rise as Freezing Temperatures Persist After Winter Storm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fenergy-environment%2Fstorm-electric-grid-power-outages.html",
-    "published": "Mon, 26 Jan 2026 21:16:38 CST",
-    "summary": "Electrical grids appeared to have handled the storm over the weekend\nrelatively well, but energy experts said the risk of more outages remained.\n\n"
   },
   {
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
