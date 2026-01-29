@@ -1,8 +1,56 @@
 [
   {
+    "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Famerican-airlines-return-service-venezuela.html",
+    "published": "Thu, 29 Jan 2026 19:39:30 CST",
+    "summary": "American would be the first U.S. carrier to restart service to Venezuela,\nwhich had become isolated after airlines cut service to the country in recent\nyears.\n\n"
+  },
+  {
+    "title": "SpaceX In Merger Talks With xAI Ahead of IPO, Reuters Reports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fspacex-in-merger-talks-with-xai-ahead-of-ipo-reuters-reports",
+    "published": "Thu, 29 Jan 2026 19:30:43 CST",
+    "summary": "Elon Musk’s SpaceX is in discussions with his artificial intelligence firm xAI\nabout a potential merger ahead of the rocket and satellite maker’s potential\nblockbuster IPO, Reuters reported.\n\n"
+  },
+  {
+    "title": "China’s Metals Mania Sends Copper Soaring as Gold Falls From Record High",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fchina-s-metals-mania-sends-copper-soaring-as-gold-falls-from-record-high",
+    "published": "Thu, 29 Jan 2026 19:19:58 CST",
+    "summary": "Copper surged by the most in more than 16 years after a wave of buying from\nChinese investors, with prices gaining as much as 11% to trade above $14,500 a\nton for the first time ever. Bloomberg's Mike McGlone joins to discuss with\nPaul Sweeney and Scarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Caterpillar Earnings Beat Helped by Data Center Power Demand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fcaterpillar-earnings-beat-helped-by-data-center-power-demand",
+    "published": "Thu, 29 Jan 2026 19:19:35 CST",
+    "summary": "Caterpillar Inc. got an earnings boost from selling power generation equipment\nto AI data centers in its fourth quarter, helping drive quarterly results that\ntopped Wall Street’s expectations. Bloomberg's Chris Ciolino joins to discuss\non Bloomberg Intelligence. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Blackstone Posts Profit Jump as Deals Hit ‘Escape Velocity’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fblackstone-posts-profit-jump-as-deals-hit-escape-velocity",
+    "published": "Thu, 29 Jan 2026 19:19:14 CST",
+    "summary": "Blackstone Inc. reported a surprise jump in distributable earnings as\ndealmaking reignited and reached what President Jon Gray calls “escape\nvelocity.” For executives, that unleashed some of their richest rewards since\nthe pandemic. Paul Gulberg joins to discuss with Paul Sweeney and Scarlet Fu.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "How investment firms of the ultra-rich partner with PE funds to find top deals and save on fees",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ffamily-offices-private-equity.html",
+    "published": "Thu, 29 Jan 2026 19:16:11 CST",
+    "summary": "By co-investing with PE firms, family offices source deals at a lower cost and\nfaster pace.\n\n"
+  },
+  {
+    "title": "US High-Grade Bond Sales Top $200 Billion in Record Yearly Start",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-high-grade-bond-sales-top-200-billion-in-record-yearly-start",
+    "published": "Thu, 29 Jan 2026 19:15:56 CST",
+    "summary": "Sales of US investment-grade corporate bonds have smashed January’s prior\nrecord and exceeded $200 billion for just the sixth month ever, part of a\nglobal debt-issuance surge as borrowers take advantage of reduced borrowing\npremiums.\n\n"
+  },
+  {
+    "title": "Budget Hotels Become an Immigration Battleground for ICE Protests",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Ftravel%2Fhotels-anti-ice-protests.html",
+    "published": "Thu, 29 Jan 2026 19:08:49 CST",
+    "summary": "“No sleep” protests have used noise and other tactics to target ICE agents at\nhotels, leaving the owners, often immigrants themselves, caught in the middle.\n\n"
+  },
+  {
     "title": "Founder of First Brands, Whose Bankruptcy Spooked Wall St., Is Indicted on Fraud Charges",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Ffirst-brands-fraud-indictment.html",
-    "published": "Thu, 29 Jan 2026 19:07:06 CST",
+    "published": "Thu, 29 Jan 2026 19:07:07 CST",
     "summary": "Patrick James, who was earlier ousted from the beleaguered auto-parts maker,\nis accused by federal prosecutors of faking invoices and lying about hidden\ndebt for years.\n\n"
   },
   {
@@ -12,7 +60,7 @@
     "summary": "The deal with Carlyle comes after the United States and the European Union\nimposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.\n\n"
   },
   {
-    "title": "CFTC to Craft New Rules for Prediction Markets, Chairman Says",
+    "title": "CFTC to Craft New Prediction Market Rules, Chairman Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcftc-to-craft-new-rules-for-prediction-markets-chairman-says",
     "published": "Thu, 29 Jan 2026 19:00:00 CST",
     "summary": "Wall Street’s main derivatives regulator will write new rules for the multi-\nbillion dollar prediction markets industry, the head of the Commodity Futures\nTrading Commission said Thursday.\n\n"
@@ -30,12 +78,6 @@
     "summary": "Starbucks released a long-term forecast and shared more details about how it\nplans to hit those financial targets at an investor presentation.\n\n"
   },
   {
-    "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Famerican-airlines-return-service-venezuela.html",
-    "published": "Thu, 29 Jan 2026 18:45:44 CST",
-    "summary": "American would be the first U.S. carrier to restart service to Venezuela,\nwhich had become isolated after airlines cut service to the country in recent\nyears.\n\n"
-  },
-  {
     "title": "ECB’s Cipollone Says Digital Euro Guarantees Strategic Autonomy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fecb-s-cipollone-says-digital-euro-guarantees-strategic-autonomy",
     "published": "Thu, 29 Jan 2026 18:40:43 CST",
@@ -51,7 +93,7 @@
     "title": "Bloomberg Markets 1/29/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fbloomberg-markets-1-29-2026-video",
     "published": "Thu, 29 Jan 2026 18:39:15 CST",
-    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Blackstone\nPresident Jon Gray, Ethos CEO & Co-Founder Peter Colis, Citi Global Head of\nCommodities Research Max Layton (Source: Bloomberg)\n\n"
+    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Blackstone\nPresident Jon Gray, Ethos CEO & Co-Founder Peter Colis and Citi Global Head of\nCommodities Research Max Layton. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Adidas Announces New Share Buyback Program as Profits Jump",
@@ -120,46 +162,10 @@
     "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
   },
   {
-    "title": "Gavin Newsom Speaks at Bloomberg Newsmakers Event",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-29%2Fgavin-newsom-speaks-at-bloomberg-newsmakers-event",
-    "published": "Thu, 29 Jan 2026 18:04:13 CST",
-    "summary": "Gavin Newsom Photographer: Justin Sullivan/Getty Images\n\n"
-  },
-  {
-    "title": "Budget Hotels Become an Immigration Battleground for ICE Protests",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Ftravel%2Fhotels-anti-ice-protests.html",
-    "published": "Thu, 29 Jan 2026 17:55:37 CST",
-    "summary": "“No sleep” protests have used noise and other tactics to target ICE agents at\nhotels, leaving the owners, often immigrants themselves, caught in the middle.\n\n"
-  },
-  {
-    "title": "Venezuela Revised Oil Bill Would Ease Taxes to Entice Investors",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fvenezuela-revised-oil-bill-would-ease-taxes-to-entice-investors",
-    "published": "Thu, 29 Jan 2026 17:54:55 CST",
-    "summary": "Venezuela’s revised oil reform bill would sharply ease the country’s fiscal\nburden, giving officials broad discretion to adjust taxes and royalties in a\nbid to attract private capital back into the battered industry, according to\nthe latest draft set to be discussed and potentially approved as soon as\nThursday.\n\n"
-  },
-  {
     "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
     "published": "Thu, 29 Jan 2026 17:54:53 CST",
     "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
-  },
-  {
-    "title": "Deere Shares Jump to Record as Traders Rotate Out of Big Tech",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdeere-shares-jump-to-record-as-traders-rotate-out-of-big-tech",
-    "published": "Thu, 29 Jan 2026 17:49:50 CST",
-    "summary": "Deere & Co. shares briefly touched an intraday record high, capping off a\nrally that’s come as interest-rate cuts and strong US growth push investors\ninto sectors of the market closely linked to the health of the economy.\n\n"
-  },
-  {
-    "title": "Diageo East Africa’s Six-Month Profit Jumps 38% on Lower Costs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fdiageo-east-africa-s-six-month-profit-jumps-38-on-lower-costs",
-    "published": "Thu, 29 Jan 2026 17:48:16 CST",
-    "summary": "East African Breweries Plc’s first-half profit climbed for the second\nconsecutive year as lower finance costs boosted earnings for the Diageo Plc\nunit.\n\n"
-  },
-  {
-    "title": "Gold and Silver Have Been Flying. Here’s Why and What to Watch",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-and-silver-have-been-flying-here-s-why-and-what-to-watch",
-    "published": "Thu, 29 Jan 2026 17:46:25 CST",
-    "summary": "Gold and silver’s relentless start to a year has taken out record after\nrecord, shocked seasoned traders and analysts, and driven exceptional price\nvolatility.\n\n"
   },
   {
     "title": "What Americans Really Mean by ‘Affordability’",
@@ -180,12 +186,6 @@
     "summary": "Rolling coverage of the latest economic and financial news, as metal prices\ncontinue to soar\n\n**The weak dollar has helped to drive the copper price to a record high today\ntoo.**\n\nThe benchmark three-month copper on the London Metal Exchange jumped almost 8%\nto a new all-time peak of $14,125 a tonne, before slipping back slightly.\n\nInvestors are piling into base metals on the Shanghai Futures Exchange on\nexpectations for stronger US growth and more spending on data centers,\nrobotics and power infrastructure. That’s spurring global prices higher.\n\nInflation is close to the target of 2 percent.\n\nThe Swedish economy is growing at a solid pace. The labour market is weak but\nshowing signs of improvement.\n\nContinue reading...\n\n"
   },
   {
-    "title": "How investment firms of the ultra-rich partner with PE funds to find top deals and save on fees",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ffamily-offices-private-equity.html",
-    "published": "Thu, 29 Jan 2026 17:06:25 CST",
-    "summary": "By co-investing with PE firms, family offices source deals at a lower cost and\nfaster pace.\n\n"
-  },
-  {
     "title": "New Food Stamp Rules Are Confusing Grocery Stores and Consumers",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fsnap-benefits-food-stamps-rules-health.html",
     "published": "Thu, 29 Jan 2026 17:00:21 CST",
@@ -202,6 +202,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-midday-now-crm-luv-ccl.html",
     "published": "Thu, 29 Jan 2026 16:46:07 CST",
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
+  },
+  {
+    "title": "Colombia’s Largest Pipeline Operator to Launch Global LNG Tender for New Import Terminal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcolombia-s-tgi-plans-lng-tender-to-supply-new-import-terminal",
+    "published": "Thu, 29 Jan 2026 16:39:24 CST",
+    "summary": "Colombia’s largest pipeline operator plans to launch a global tender to secure\nlong-term supplies of liquefied natural gas for an import terminal it’s\nconstructing.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
@@ -226,6 +232,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Frieder-s-fed-candidacy-exposes-key-man-risk-in-all-star-etfs",
     "published": "Thu, 29 Jan 2026 16:29:51 CST",
     "summary": "BlackRock Inc. is facing a rare conundrum: its star manager may soon be\npoached to head the Federal Reserve, clouding the outlook for the $14 trillion\nexchange-traded fund industry’s fastest-growing active bond vehicle.\n\n"
+  },
+  {
+    "title": "Blue Owl Investors Pull 15% of Assets From Tech-Focused Fund",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fblue-owl-investors-pull-15-4-of-assets-from-tech-focused-fund",
+    "published": "Thu, 29 Jan 2026 16:12:43 CST",
+    "summary": "Investors pulled around 15.4% of net assets from one of Blue Owl Capital\nInc.’s tech-focused funds, following the vehicle’s decision to dramatically\nincrease the amount investors could withdraw earlier this month.\n\n"
   },
   {
     "title": "Gold Retreats in Sudden Selloff After Breaking Through $5,500",
@@ -348,12 +360,6 @@
     "summary": "Apple Inc.’s stock is taking a hit as investors try to assess how much rapidly\nrising memory prices are eating into its bottom line. Investors will get a\npeek when the iPhone maker reports its earnings after the close Thursday.\n\n"
   },
   {
-    "title": "SAP Ousted as Biggest German Firm as Miss Wipes Out €39 Billion",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fsap-forecasts-cloud-revenue-to-grow-in-2026-as-customers-switch",
-    "published": "Thu, 29 Jan 2026 05:07:47 CST",
-    "summary": "SAP SE shed €38.7 billion ($46.3 billion) in market value on Thursday after\nreporting disappointing financial results, knocking the software maker out of\nits place as Germany’s largest company.\n\n"
-  },
-  {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
     "published": "Thu, 29 Jan 2026 05:00:16 CST",
@@ -402,16 +408,10 @@
     "summary": "The tech giant is spending $35 million to promote its film about the first\nlady, far more than is typical for documentaries.\n\n"
   },
   {
-    "title": "Zuckerberg, Musk Vie for AI Primacy With $155 Billion Spree",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fsamsung-s-chip-profit-soars-after-ai-supercharges-memory-market",
-    "published": "Wed, 28 Jan 2026 22:48:18 CST",
-    "summary": "Meta Platforms Inc. will double capital spending to as much as $135 billion\nthis year, an all-in bet on artificial intelligence as the US tech giants\nbattle it out for supremacy in the next wave of technological advancements.\n\n"
-  },
-  {
-    "title": "Stocks Hit by AI Spending Worry as Microsoft Sinks: Markets Wrap",
+    "title": "Stocks Fall as Microsoft Revives AI Spending Angst: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 28 Jan 2026 22:19:00 CST",
-    "summary": "The stock market was rattled by a tech rout as megacaps showed no signs of\neasing up on artificial-intelligence spending even as doubts persist about\ndemand to justify all that capital. Big moves in commodities saw gold plunging\nas oil soared. Bitcoin dipped below $85,000.\n\n"
+    "summary": "The stock market was rattled by a slide in most megacaps, which showed no\nsigns of easing up on artificial-intelligence spending even as doubts persist\nabout demand to justify that capital. Big moves in commodities saw gold\nplunging as oil soared. Bitcoin dipped below $84,000.\n\n"
   },
   {
     "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
@@ -718,12 +718,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fboeing-ba-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 19:48:25 CST",
     "summary": "Boeing's aircraft deliveries have surged over the past year as the\nmanufacturer expects to continue to increase production.\n\n"
-  },
-  {
-    "title": "Bari Weiss to CBS News staff: Without a shift in strategy, ‘we are toast’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F27%2Fbari-weiss-cbs-news-allhands%2F",
-    "published": "Tue, 27 Jan 2026 19:46:01 CST",
-    "summary": "The CBS News editor in chief said the network needs to produce journalism\npeople want as she named a raft of new contributors from her website, the Free\nPress.\n\n"
   },
   {
     "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
