@@ -1,5 +1,53 @@
 [
   {
+    "title": "Trump's ICE tactics force CEOs to choose between staying silent and risking White House backlash",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ftrump-minnesota-ice-action-ceos-speaking-out.html",
+    "published": "Thu, 29 Jan 2026 20:46:20 CST",
+    "summary": "Minneapolis has become the testing ground for when and how far corporate\nleaders will wade into escalating political tensions.\n\n"
+  },
+  {
+    "title": "Costco Is Sued Over Preservatives in Its $5 Rotisserie Chickens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fcostco-chicken-lawsuit-preservatives.html",
+    "published": "Thu, 29 Jan 2026 20:45:03 CST",
+    "summary": "A proposed class-action lawsuit claims Costco was misleading customers and\nengaging in false advertising when it described the chicken as having no\npreservatives.\n\n"
+  },
+  {
+    "title": "Waller REALLY Wants To Be Fed Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fwaller-really-wants-to-be-fed-chair-video",
+    "published": "Thu, 29 Jan 2026 20:34:05 CST",
+    "summary": "Federal Reserve Governor Chris Waller just played politics instead of\neconomics. That’s a bad sign for the future of the institution, says Bloomberg\nOpinion columnist Jonathan Levin. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Tesla Profit Slumps, but Investors May Not Care",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Ftesla-earnings-electric-vehicles.html",
+    "published": "Thu, 29 Jan 2026 20:21:50 CST",
+    "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
+  },
+  {
+    "title": "Pimco President Says Private Credit Buyers Are ‘Blind’ to Risks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpimco-president-says-private-credit-buyers-are-blind-to-risks",
+    "published": "Thu, 29 Jan 2026 20:16:12 CST",
+    "summary": "Investors underestimate the hazards when chasing fat yields in private credit,\naccording to Pacific Investment Management Co.\n\n"
+  },
+  {
+    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
+    "published": "Thu, 29 Jan 2026 19:59:27 CST",
+    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
+  },
+  {
+    "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fus-trade-deficit-tariffs.html",
+    "published": "Thu, 29 Jan 2026 19:52:52 CST",
+    "summary": "The monthly trade deficit and imports rebounded in November after shrinking\nsignificantly in prior months, new data show.\n\n"
+  },
+  {
+    "title": "BYD’s Cheap EVs Suddenly Everywhere in Mexico Despite Tariffs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fbyd-s-cheap-evs-suddenly-everywhere-in-mexico-video",
+    "published": "Thu, 29 Jan 2026 19:50:14 CST",
+    "summary": "Chinese car brands’ inroads in Mexico have unnerved Washington, rattled\nestablished automakers and alarmed the Mexican government, which is throwing\nup trade barriers. But even in the face of new tariffs, China-made cars face\nlittle competition in the country’s growing market for electric vehicles.\nCheap prices, government subsidies and a growing charging network all point to\ncontinued sales growth for China’s automakers in the country. Bloomberg News\nMexico Business Reporter Amy Stillman details the rise of brands like BYD just\nacross the border from the United States, and what it signals about car market\ncompetition and trade. Amy speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Famerican-airlines-return-service-venezuela.html",
     "published": "Thu, 29 Jan 2026 19:39:30 CST",
@@ -120,12 +168,6 @@
     "summary": "As many as 151 million Americans are at high risk of power shortfalls -- or\noutright blackouts -- over the next five years because of extreme weather,\nnatural gas system vulnerabilities and soaring electricity demand, according\nto a report by the grid reliability regulator.\n\n"
   },
   {
-    "title": "Costco Is Sued Over Preservatives in Its $5 Rotisserie Chickens",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fcostco-chicken-lawsuit-preservatives.html",
-    "published": "Thu, 29 Jan 2026 18:29:36 CST",
-    "summary": "A proposed class-action lawsuit claims Costco was misleading customers and\nengaging in false advertising when it described the chicken as having no\npreservatives.\n\n"
-  },
-  {
     "title": "Stocks Hit by AI Spending Worry | Open Interest 1/29/2026",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fopen-interest-1-29-2026-video",
     "published": "Thu, 29 Jan 2026 18:28:58 CST",
@@ -138,12 +180,6 @@
     "summary": "The Trump administration is seeking to tamp down concerns that its Board of\nPeace aims to supplant the UN or have a remit extending beyond the Gaza Strip.\nIts own draft charter suggests otherwise.\n\n"
   },
   {
-    "title": "Real Estate Developers Faced With Affordability Challenges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Freal-estate-developers-faced-with-affordability-hurdles-video",
-    "published": "Thu, 29 Jan 2026 18:23:40 CST",
-    "summary": "Jay Neveloff, Partner and Chair of Real Estate, US at Herbert Smith Freehills\nKramer, discusses whether domestic politics, including President Donald\nTrump’s designs on reinvigorating the US housing market, are impacting the\nreal estate sector broadly. Jay speaks with Carol Massar and Tim Stenovec on\nBloomberg Businessweek Daily. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-luv-4q-2025-earnings.html",
     "published": "Thu, 29 Jan 2026 18:21:32 CST",
@@ -153,25 +189,19 @@
     "title": "Coterra, Devon Are in Advanced Talks on Combination",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcoterra-devon-said-to-be-in-advanced-talks-on-combination",
     "published": "Thu, 29 Jan 2026 18:09:05 CST",
-    "summary": "Coterra Energy Inc. and Devon Energy Corp. are in advanced talks about a\ncombination, according to people familiar with the matter, in what would be\none of the largest oil and gas deals in years.\n\n"
-  },
-  {
-    "title": "The Canary in the Credit Coalmine Is Acting Kind of Weird",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-29%2Fthe-canary-in-the-credit-coalmine-is-acting-kind-of-weird",
-    "published": "Thu, 29 Jan 2026 18:05:04 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
-    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
-    "published": "Thu, 29 Jan 2026 17:54:53 CST",
-    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
+    "summary": "Coterra Energy Inc. and Devon Energy Corp. are in advanced talks about a\ncombination, according to people familiar with the matter, in what would be\none of the largest oil and natural gas deals in years.\n\n"
   },
   {
     "title": "What Americans Really Mean by ‘Affordability’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fupshot%2Fpoll-affordability-housing-prices.html",
     "published": "Thu, 29 Jan 2026 17:33:46 CST",
     "summary": "A few key necessities are driving dissatisfaction, particularly among the\nyoung, our poll finds.\n\n"
+  },
+  {
+    "title": "Sequoia-Backed Ethos Technologies Shares Sink 18% in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Finsurance-platform-ethos-shares-fall-15-in-us-public-offering",
+    "published": "Thu, 29 Jan 2026 17:32:06 CST",
+    "summary": "Insurance platform Ethos Technologies Inc. shares dropped as much as 18% in\nits trading debut, after the company and some of its shareholders raised\nroughly $200 million in an initial public offering.\n\n"
   },
   {
     "title": "GM is nailing the U.S. auto industry's profit, politics balancing act under Trump",
@@ -192,12 +222,6 @@
     "summary": "A dizzying array of rules govern what can be bought with SNAP dollars,\nconfusing grocery stores and consumers.\n\n"
   },
   {
-    "title": "Crypto Market Bill Advanced by Senate Agriculture Panel",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcrypto-market-bill-advanced-by-senate-agriculture-panel",
-    "published": "Thu, 29 Jan 2026 16:58:16 CST",
-    "summary": "The Senate Agriculture Committee advanced its version of digital asset market\nstructure legislation on a party-line vote, as key lawmakers on another panel\ncontinue to negotiate their piece of the contentious bill.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: ServiceNow, Salesforce, Southwest, Carnival & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-midday-now-crm-luv-ccl.html",
     "published": "Thu, 29 Jan 2026 16:46:07 CST",
@@ -208,12 +232,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcolombia-s-tgi-plans-lng-tender-to-supply-new-import-terminal",
     "published": "Thu, 29 Jan 2026 16:39:24 CST",
     "summary": "Colombia’s largest pipeline operator plans to launch a global tender to secure\nlong-term supplies of liquefied natural gas for an import terminal it’s\nconstructing.\n\n"
-  },
-  {
-    "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fus-trade-deficit-tariffs.html",
-    "published": "Thu, 29 Jan 2026 16:35:40 CST",
-    "summary": "The monthly trade deficit and imports rebounded in November after shrinking\nsignificantly in prior months, new data show.\n\n"
   },
   {
     "title": "First Brands Founder Charged With Fraud That Wiped Out Billions",
@@ -268,12 +286,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fcomcast-cmcsa-earnings-q4-2025.html",
     "published": "Thu, 29 Jan 2026 14:33:30 CST",
     "summary": "Comcast’s broadband business continues to be under pressure due to the rise of\ncompetitors, particularly in the 5G space.\n\n"
-  },
-  {
-    "title": "‘Climate of fear’: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ftrump-minnesota-ice-action-ceos-speaking-out.html",
-    "published": "Thu, 29 Jan 2026 14:27:36 CST",
-    "summary": "Minneapolis has become the testing ground for when and how far corporate\nleaders will wade into escalating political tensions.\n\n"
   },
   {
     "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
@@ -348,16 +360,10 @@
     "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
   },
   {
-    "title": "Brent Crude Hits $71 a Barrel as Trump Ramps Up Iran Threats",
+    "title": "Brent Crude Settles at Highest Since July on Trump’s Iran Threat",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fbrent-crude-hits-70-a-barrel-as-trump-ramps-up-iran-threats",
     "published": "Thu, 29 Jan 2026 09:30:30 CST",
-    "summary": "Brent crude futures topped $71 a barrel for the first time since August after\nUS President Donald Trump warned Iran to make a nuclear deal or face military\nstrikes.\n\n"
-  },
-  {
-    "title": "Apple Results to Give Clues on How Hard Memory Prices Are Biting",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fapple-results-to-give-clues-on-how-hard-memory-prices-are-biting",
-    "published": "Thu, 29 Jan 2026 09:09:21 CST",
-    "summary": "Apple Inc.’s stock is taking a hit as investors try to assess how much rapidly\nrising memory prices are eating into its bottom line. Investors will get a\npeek when the iPhone maker reports its earnings after the close Thursday.\n\n"
+    "summary": "Brent crude futures settled above $70 a barrel for the first time since July\nafter US President Donald Trump warned Iran to make a nuclear deal or face\nmilitary strikes.\n\n"
   },
   {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
@@ -370,12 +376,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcopper-rallies-to-record-on-lme-as-base-metals-extend-bull-run",
     "published": "Thu, 29 Jan 2026 03:15:04 CST",
     "summary": "Copper surged by the most in more than 16 years, after a wave of buying from\nChinese investors triggered one of the most dramatic moves in the market’s\nhistory.\n\n"
-  },
-  {
-    "title": "Tesla Profit Slumps, but Investors May Not Care",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Ftesla-earnings-electric-vehicles.html",
-    "published": "Thu, 29 Jan 2026 00:41:24 CST",
-    "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
   },
   {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
@@ -411,7 +411,7 @@
     "title": "Stocks Fall as Microsoft Revives AI Spending Angst: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 28 Jan 2026 22:19:00 CST",
-    "summary": "The stock market was rattled by a slide in most megacaps, which showed no\nsigns of easing up on artificial-intelligence spending even as doubts persist\nabout demand to justify that capital. Big moves in commodities saw gold\nplunging as oil soared. Bitcoin dipped below $84,000.\n\n"
+    "summary": "The stock market was rattled by a slide in most megacaps, which showed no\nsigns of easing up on artificial-intelligence spending even as doubts persist\nabout demand to justify all that capital. Big moves in commodities saw gold\nplunging as oil soared. Bitcoin dipped below $84,000.\n\n"
   },
   {
     "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
