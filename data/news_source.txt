@@ -1,5 +1,65 @@
 [
   {
+    "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-ends-open-seating.html",
+    "published": "Thu, 29 Jan 2026 21:48:50 CST",
+    "summary": "Southwest Airlines replaced open seating with assigned seats after more than\n50 years.\n\n"
+  },
+  {
+    "title": "Copper Prices Top $14,500 a Ton For First Time",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fcopper-prices-top-14-500-a-ton-for-first-time-video",
+    "published": "Thu, 29 Jan 2026 21:43:51 CST",
+    "summary": "Copper prices gained as much as 11% to trade above $14,500 a ton for the first\ntime ever Thursday afternoon. Timna Tanners from Wells Fargo talks about the\nrally in metals and says copper shortages were expected. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "US Urges China to Let ‘Substantially Undervalued’ Yuan Rise",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-calls-on-china-to-strengthen-substantially-undervalued-yuan",
+    "published": "Thu, 29 Jan 2026 21:29:01 CST",
+    "summary": "The US Treasury characterized the yuan as “substantially undervalued,” and\ncalled on China to allow its exchange rate to strengthen in a timely and\norderly way.\n\n"
+  },
+  {
+    "title": "Pentagon Strikes Deal With Canada’s 5N Plus",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpentagon-strikes-deal-with-canada-s-5n-plus-shares-surge-19",
+    "published": "Thu, 29 Jan 2026 21:16:16 CST",
+    "summary": "The US Department of Defense made an $18 million investment in Canada’s 5N\nPlus Inc. to help the company expand refining capacity for germanium metal,\nwhich is used in night-vision systems and other applications. The shares\nsoared 19%.\n\n"
+  },
+  {
+    "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-luv-4q-2025-earnings.html",
+    "published": "Thu, 29 Jan 2026 21:11:10 CST",
+    "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid\ndemand and new policies like assigned seating.\n\n"
+  },
+  {
+    "title": "Fundamentals Of Metal Markets Are Weak Right Now: Layton",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Ffundamentals-of-metal-markets-are-weak-right-now-layton-video",
+    "published": "Thu, 29 Jan 2026 21:09:34 CST",
+    "summary": "Gold fell the most since October, retreating from a record above $5,500 an\nounce as risk-off sentiment sparked a selloff in metals with investors using\nthem to cover losses in other assets such as equities. Max Layton, Global Head\nof Commodities Research at Citi tells Bloomberg that gold and silver movement\nis driven more by capital allocation and momentum than traditional\nfundamentals. Layton adds that geopolitical risks, economic uncertainty, a\nweaker dollar, and concerns over deficits and tariffs are pushing investors\ntoward precious metals. He joined the conversation on \"Bloomberg Markets\" with\nScarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "FedEx Shares Hit First Record Since 2021 on Cost-Cutting Plans",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffedex-shares-hit-first-record-since-2021-on-cost-cutting-plans",
+    "published": "Thu, 29 Jan 2026 21:06:06 CST",
+    "summary": "FedEx Corp. shares closed at a record high, putting them on track for a six-\nmonth rally amid growing confidence in the company’s cost-cutting efforts and\na resilient economic backdrop that’s expected to favor the transportation\nsector.\n\n"
+  },
+  {
+    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 10%",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
+    "published": "Thu, 29 Jan 2026 21:03:56 CST",
+    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
+  },
+  {
+    "title": "This Is The Right Time To Go Public: Ethos CEO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fthis-is-the-right-time-to-go-public-ethos-ceo-video",
+    "published": "Thu, 29 Jan 2026 21:02:43 CST",
+    "summary": "Insurance platform Ethos Technologies shares dropped in its trading debut,\nafter the company and some of its shareholders raised roughly $200 million in\nan initial public offering. Peter Colis, Co-Founder and CEO of Ethos tells\nBloomberg that the company’s technology-driven life insurance platform is\ndesigned to help agents issue policies faster while managing risk responsibly.\nHe says Ethos uses large datasets along with machine learning models to price\npolicies accurately without relying on traditional exams. He joined the\nconversation on \"Bloomberg Markets\" with Scarlet Fu. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Veja os Três Assuntos Que Marcaram a Semana no Brasil",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fveja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video",
+    "published": "Thu, 29 Jan 2026 20:53:28 CST",
+    "summary": "Os repórteres Beatriz Reis e Daniel Carvalho contam quais foram os três\nassuntos que marcaram a semana no Brasil. Com produção de Patricia Xavier e\nedição de Raphael Almeida. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Trump's ICE tactics force CEOs to choose between staying silent and risking White House backlash",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ftrump-minnesota-ice-action-ceos-speaking-out.html",
     "published": "Thu, 29 Jan 2026 20:46:20 CST",
@@ -28,12 +88,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpimco-president-says-private-credit-buyers-are-blind-to-risks",
     "published": "Thu, 29 Jan 2026 20:16:12 CST",
     "summary": "Investors underestimate the hazards when chasing fat yields in private credit,\naccording to Pacific Investment Management Co.\n\n"
-  },
-  {
-    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
-    "published": "Thu, 29 Jan 2026 19:59:27 CST",
-    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
@@ -132,10 +186,10 @@
     "summary": "Europe needs a digital euro to guarantee its autonomy from payment providers\noutside the region, European Central Bank Executive Board member Piero\nCipollone said.\n\n"
   },
   {
-    "title": "Microsoft Heads for Worst Market Loss Since DeepSeek Hit Nvidia",
+    "title": "Microsoft’s $357 Billion Rout Is Worst Since Deepseek Hit Nvidia",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fmicrosoft-heads-for-worst-market-loss-since-deepseek-hit-nvidia",
     "published": "Thu, 29 Jan 2026 18:40:13 CST",
-    "summary": "Microsoft Corp. is on track for the record books Thursday, as its more than\n$400 billion wipeout in stock market valuation would be the second-largest in\nhistory if it holds through the close.\n\n"
+    "summary": "Microsoft Corp. shares got caught up in a selloff Thursday that wiped out $357\nbillion in value, second-largest for a single session in stock market history.\n\n"
   },
   {
     "title": "Bloomberg Markets 1/29/2026",
@@ -144,46 +198,10 @@
     "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Blackstone\nPresident Jon Gray, Ethos CEO & Co-Founder Peter Colis and Citi Global Head of\nCommodities Research Max Layton. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Adidas Announces New Share Buyback Program as Profits Jump",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fadidas-announces-new-share-buyback-program-as-profits-jump",
-    "published": "Thu, 29 Jan 2026 18:37:47 CST",
-    "summary": "Adidas AG reported stronger-than-expected fourth-quarter profits and announced\na new share buyback program as the German brand looks to maintain its momentum\nwith retro sneakers and new running and football products.\n\n"
-  },
-  {
     "title": "John L. Allen Jr., Journalist With Inside Access to the Vatican, Dies at 61",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fjohn-l-allen-jr-dead.html",
     "published": "Thu, 29 Jan 2026 18:34:52 CST",
     "summary": "He seemed to know everyone at the Holy See, and it showed in his reporting for\nthe National Catholic Reporter and his website, Crux, though some said he grew\ntoo close to his sources.\n\n"
-  },
-  {
-    "title": "Foodwatch Files Complaint in Paris Court Over Baby-Milk Recalls",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffoodwatch-files-complaint-in-paris-court-over-baby-milk-recalls",
-    "published": "Thu, 29 Jan 2026 18:33:19 CST",
-    "summary": "Consumer group Foodwatch filed a complaint at the Paris Judicial Court on\nThursday over an infant-formula recall, part of a crisis that’s engulfed food\ngiants including Nestlé SA, Danone SA and Groupe Lactalis.\n\n"
-  },
-  {
-    "title": "Half of Americans at High Risk of Power Shortfalls Amid AI Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fhalf-of-americans-at-high-risk-of-power-shortfalls-amid-ai-boom",
-    "published": "Thu, 29 Jan 2026 18:30:00 CST",
-    "summary": "As many as 151 million Americans are at high risk of power shortfalls -- or\noutright blackouts -- over the next five years because of extreme weather,\nnatural gas system vulnerabilities and soaring electricity demand, according\nto a report by the grid reliability regulator.\n\n"
-  },
-  {
-    "title": "Stocks Hit by AI Spending Worry | Open Interest 1/29/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fopen-interest-1-29-2026-video",
-    "published": "Thu, 29 Jan 2026 18:28:58 CST",
-    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on\n\"Bloomberg Open Interest.\" Big Tech’s AI spending spree accelerates--Meta,\nMicrosoft, and Tesla pour billions into the future. All eyes turn to Apple\nafter the close. Blackstone posts a surprise profit jump as Jon Gray says\ndealmaking has hit “escape velocity.” Plus, join Open Interest in the C-Suite\nwith interviews from International Paper’s CEO, Nasdaq’s Adena Friedman, and\nServiceNow’s CEO. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Seeks to Quell Fears Trump’s Board of Peace Will Replace UN",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-seeks-to-quell-fears-trump-s-board-of-peace-will-replace-un",
-    "published": "Thu, 29 Jan 2026 18:24:25 CST",
-    "summary": "The Trump administration is seeking to tamp down concerns that its Board of\nPeace aims to supplant the UN or have a remit extending beyond the Gaza Strip.\nIts own draft charter suggests otherwise.\n\n"
-  },
-  {
-    "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-luv-4q-2025-earnings.html",
-    "published": "Thu, 29 Jan 2026 18:21:32 CST",
-    "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid\ndemand and new policies like assigned seating.\n\n"
   },
   {
     "title": "Coterra, Devon Are in Advanced Talks on Combination",
@@ -198,10 +216,10 @@
     "summary": "A few key necessities are driving dissatisfaction, particularly among the\nyoung, our poll finds.\n\n"
   },
   {
-    "title": "Sequoia-Backed Ethos Technologies Shares Sink 18% in US IPO",
+    "title": "Sequoia-Backed Ethos Technologies Shares Sink 11% in US IPO",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Finsurance-platform-ethos-shares-fall-15-in-us-public-offering",
     "published": "Thu, 29 Jan 2026 17:32:06 CST",
-    "summary": "Insurance platform Ethos Technologies Inc. shares dropped as much as 18% in\nits trading debut, after the company and some of its shareholders raised\nroughly $200 million in an initial public offering.\n\n"
+    "summary": "Insurance platform Ethos Technologies Inc. shares dropped 11% in their trading\ndebut, after the company and some of its shareholders raised roughly $200\nmillion in an initial public offering.\n\n"
   },
   {
     "title": "GM is nailing the U.S. auto industry's profit, politics balancing act under Trump",
@@ -234,7 +252,7 @@
     "summary": "Colombia’s largest pipeline operator plans to launch a global tender to secure\nlong-term supplies of liquefied natural gas for an import terminal it’s\nconstructing.\n\n"
   },
   {
-    "title": "First Brands Founder Charged With Fraud That Wiped Out Billions",
+    "title": "First Brands Founder Charged With Fraud That Erased Billions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffirst-brands-founder-patrick-james-indicted-by-us-prosecutors",
     "published": "Thu, 29 Jan 2026 16:35:24 CST",
     "summary": "First Brands Group founder Patrick James and his brother Edward, a former\nexecutive at the company, were indicted in New York following the collapse of\nthe bankrupt auto-parts maker last year.\n\n"
@@ -244,12 +262,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstarbucks-to-reintroduce-loyalty-program-tiers.html",
     "published": "Thu, 29 Jan 2026 16:30:36 CST",
     "summary": "Starbucks is bringing back its tiered loyalty program.\n\n"
-  },
-  {
-    "title": "Rick Rieder's Fed Candidacy Clouds Outlook for His Hit ETF at BlackRock",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Frieder-s-fed-candidacy-exposes-key-man-risk-in-all-star-etfs",
-    "published": "Thu, 29 Jan 2026 16:29:51 CST",
-    "summary": "BlackRock Inc. is facing a rare conundrum: its star manager may soon be\npoached to head the Federal Reserve, clouding the outlook for the $14 trillion\nexchange-traded fund industry’s fastest-growing active bond vehicle.\n\n"
   },
   {
     "title": "Blue Owl Investors Pull 15% of Assets From Tech-Focused Fund",
@@ -270,10 +282,16 @@
     "summary": "New discounts can make heat pumps go from a bad investment to a good idea.\n\n"
   },
   {
-    "title": "Tech Stocks Fall as Traders Weigh Billions in AI Spending Plans",
+    "title": "AI Hyperscalers Piling Into One of Busiest Bond Markets Ever",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwall-street-braces-for-ai-bond-binge-as-complacency-fears-mount",
+    "published": "Thu, 29 Jan 2026 15:23:40 CST",
+    "summary": "Wall Street is gearing up for a borrowing bonanza to bankroll artificial\nintelligence projects that could push February corporate bond sales to a\nrecord, even as warnings against complacency continue to percolate across\ncredit markets.\n\n"
+  },
+  {
+    "title": "Tech Leads Stocks Lower as Traders Weigh AI Spending",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-stocks-slip-as-traders-weigh-billions-in-ai-spending-plans",
     "published": "Thu, 29 Jan 2026 14:52:40 CST",
-    "summary": "Technology shares declined, dragging the broader stock market lower, as\nearnings results from Microsoft Corp. boosted concern about the payoff from\nheavy spending on the artificial intelligence technology.\n\n"
+    "summary": "Technology shares declined, dragging the broader stock market lower. Earnings\nfrom Microsoft Corp. raised concern about heavy spending on artificial\nintelligence.\n\n"
   },
   {
     "title": "The Fed Is Waiting and Watching an Uncertain Economy",
@@ -294,7 +312,7 @@
     "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for\ngrowth, offering China’s leader, Xi Jinping, a way to court one of America’s\nallies.\n\n"
   },
   {
-    "title": "Treasuries Rise Amid Stock-Market Stumble, Commodity Swings",
+    "title": "Treasuries Rise on Haven Demand as Stocks, Precious Metals Fall",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flong-end-treasuries-fluctuate-as-traders-await-us-jobs-data",
     "published": "Thu, 29 Jan 2026 13:21:53 CST",
     "summary": "Treasuries rose as investors sought refuge from a slide in US equity\nbenchmarks from near record highs and a slump in the price of precious metals.\n\n"
@@ -318,16 +336,10 @@
     "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a\n\"mistake,\" accusing Powell of politicizing the case.\n\n"
   },
   {
-    "title": "International Paper to Split Into Two Listed Companies",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpackaging-giant-international-paper-explores-breakup",
-    "published": "Thu, 29 Jan 2026 11:32:23 CST",
-    "summary": "International Paper Co. plans to break up and spin off its European packaging\nbusiness in a significant shift for the 128-year-old company as it seeks to\nstrengthen operations amid a weak global economy.\n\n"
-  },
-  {
     "title": "Here’s what would stay open during a partial government shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F29%2Fpartial-government-shutdown-services%2F",
     "published": "Thu, 29 Jan 2026 11:00:00 CST",
-    "summary": "The federal government is poised to enter a partial shutdown as soon as this\nweek. Here’s what services would close, and what would still operate.\n\n"
+    "summary": "The federal government is poised to enter a partial shutdown as soon as this\nweek. Here’s what services would close and what would still operate.\n\n"
   },
   {
     "title": "Carvana shares fall 14% following short-seller accusations",
@@ -372,12 +384,6 @@
     "summary": "The shipping traffic and factories never stop in China’s port city of Ningbo,\nbut the local housing market has crashed and nearby restaurants sit empty.\n\n"
   },
   {
-    "title": "China’s Metals Mania Sends Copper Soaring Past $14,500 a Ton",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcopper-rallies-to-record-on-lme-as-base-metals-extend-bull-run",
-    "published": "Thu, 29 Jan 2026 03:15:04 CST",
-    "summary": "Copper surged by the most in more than 16 years, after a wave of buying from\nChinese investors triggered one of the most dramatic moves in the market’s\nhistory.\n\n"
-  },
-  {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fjpmorgan-chase-trump-accounts.html",
     "published": "Thu, 29 Jan 2026 00:21:45 CST",
@@ -408,10 +414,10 @@
     "summary": "The tech giant is spending $35 million to promote its film about the first\nlady, far more than is typical for documentaries.\n\n"
   },
   {
-    "title": "Stocks Fall as Microsoft Revives AI Spending Angst: Markets Wrap",
+    "title": "Stocks Rise in Late Hours on Apple’s Solid Results: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 28 Jan 2026 22:19:00 CST",
-    "summary": "The stock market was rattled by a slide in most megacaps, which showed no\nsigns of easing up on artificial-intelligence spending even as doubts persist\nabout demand to justify all that capital. Big moves in commodities saw gold\nplunging as oil soared. Bitcoin dipped below $84,000.\n\n"
+    "summary": "Wall Street saw a sharp bounce from session lows as dip buyers stepped in\nfollowing a slide driven by concerns over whether the unprecedented spending\non artificial-intelligence will justify all that capital. Big moves in\ncommodities saw gold plunging as oil soared. Bitcoin dipped below $85,000.\n\n"
   },
   {
     "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
@@ -520,12 +526,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fgamestop-meme-stocks-retail-investors-wall-street.html",
     "published": "Wed, 28 Jan 2026 16:52:42 CST",
     "summary": "\"Retail investors are difference-makers. They can move markets with size and\nconviction,\" said Tom Lee, head of research at Fundstrat.\n\n"
-  },
-  {
-    "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-ends-open-seating.html",
-    "published": "Wed, 28 Jan 2026 16:09:26 CST",
-    "summary": "Southwest Airlines replaced open seating with assigned seats after more than\n50 years.\n\n"
   },
   {
     "title": "Allbirds becomes latest retailer to close brick-and-mortar stores in shift to online focus",
