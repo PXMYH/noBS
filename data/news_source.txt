@@ -1,5 +1,65 @@
 [
   {
+    "title": "Stocks making the biggest moves after hours: Apple, Robinhood, Visa, Sandisk and more",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-after-hours-aapl-hood-v-sndk.html",
+    "published": "Thu, 29 Jan 2026 22:50:30 CST",
+    "summary": "These are the stocks posting the largest moves in extended trading.\n\n"
+  },
+  {
+    "title": "Murdoch and News Corp Take on the West Coast with The California Post",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fcalifornia-post-new-york-post-fox-rupert-murdoch.html",
+    "published": "Thu, 29 Jan 2026 22:47:19 CST",
+    "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
+  },
+  {
+    "title": "RBC's Narayan: Mathematically, Tesla Not An Auto Company",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Frbc-s-narayan-mathematically-tesla-not-an-auto-company-video",
+    "published": "Thu, 29 Jan 2026 22:46:59 CST",
+    "summary": "RBC Capital Markets Global Autos Lead Equity Analyst Tom Narayan joins\nBloomberg Businessweek Daily to discuss Tesla's latest earnings results,\nincluding plans to retire the Model S and Model X. Narayan says that Tesla's\ntime as an automaker is \"in the past,\" adding that based on valuation versus\nnew car sales, \"mathematically, [Tesla] is not a car company... it's an\nautonomy company.\" Narayan speaks with Carol Massar and Tim Stenovec. (Source:\nBloomberg)\n\n"
+  },
+  {
+    "title": "RO CEO on The Rise of GLP-1 Drugs",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fro-ceo-on-the-rise-of-glp-1-drugs-video",
+    "published": "Thu, 29 Jan 2026 22:45:54 CST",
+    "summary": "Zach Reitano, CEO of RO, says demand for the company’s pill has far exceeded\nexpectations. He tells Romaine Bostick and Katie Greifeld on “The Close” that\nthe oral medication is more approachable and affordable, noting the price has\ndropped from about $1,300 eight months ago to a starting price of $149.\n(Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Wall Street Bonanza Won’t Save NYC’s Finances, Mamdani Warns",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwall-street-bonanza-won-t-save-nyc-s-finances-mamdani-warns",
+    "published": "Thu, 29 Jan 2026 22:42:56 CST",
+    "summary": "Wall Street’s booming year will not be enough to stave off a financial crisis\nthat Mayor Zohran Mamdani says is worse than the Great Recession more than a\ndecade ago.\n\n"
+  },
+  {
+    "title": "Dirty Energy’s Cute But Deadly Rebrand",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fopinion-dirty-energy-s-cute-but-deadly-rebrand-video",
+    "published": "Thu, 29 Jan 2026 22:42:05 CST",
+    "summary": "Meet the White House’s newest mascot: Coalie. He’s a cute lump of coal that\nthe administration hopes will sell its perverse energy agenda, says Bloomberg\nOpinion columnist Mark Gongloff. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Nasdaq Falls on Big Tech Weakness | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fnasdaq-falls-on-big-tech-weakness-closing-bell-video",
+    "published": "Thu, 29 Jan 2026 22:33:55 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
+    "published": "Thu, 29 Jan 2026 22:25:05 CST",
+    "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
+  },
+  {
+    "title": "Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Felon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai",
+    "published": "Thu, 29 Jan 2026 22:15:55 CST",
+    "summary": "SpaceX is considering a potential merger with Tesla Inc., as well as an\nalternative combination with artificial intelligence firm xAI, according to\npeople familiar with the matter, a sign billionaire Elon Musk is weighing how\nto consolidate his empire.\n\n"
+  },
+  {
+    "title": "US Issues License for Oil Companies to Operate in Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-issues-license-for-oil-companies-to-operate-in-venezuela",
+    "published": "Thu, 29 Jan 2026 21:55:52 CST",
+    "summary": "The Trump administration issued a general license expanding the ability of oil\ncompanies to operate in Venezuela, marking a significant step to ease\nsanctions under the new US-backed leadership in Caracas.\n\n"
+  },
+  {
     "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-ends-open-seating.html",
     "published": "Thu, 29 Jan 2026 21:48:50 CST",
@@ -114,34 +174,10 @@
     "summary": "Elon Musk’s SpaceX is in discussions with his artificial intelligence firm xAI\nabout a potential merger ahead of the rocket and satellite maker’s potential\nblockbuster IPO, Reuters reported.\n\n"
   },
   {
-    "title": "China’s Metals Mania Sends Copper Soaring as Gold Falls From Record High",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fchina-s-metals-mania-sends-copper-soaring-as-gold-falls-from-record-high",
-    "published": "Thu, 29 Jan 2026 19:19:58 CST",
-    "summary": "Copper surged by the most in more than 16 years after a wave of buying from\nChinese investors, with prices gaining as much as 11% to trade above $14,500 a\nton for the first time ever. Bloomberg's Mike McGlone joins to discuss with\nPaul Sweeney and Scarlet Fu. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Caterpillar Earnings Beat Helped by Data Center Power Demand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fcaterpillar-earnings-beat-helped-by-data-center-power-demand",
-    "published": "Thu, 29 Jan 2026 19:19:35 CST",
-    "summary": "Caterpillar Inc. got an earnings boost from selling power generation equipment\nto AI data centers in its fourth quarter, helping drive quarterly results that\ntopped Wall Street’s expectations. Bloomberg's Chris Ciolino joins to discuss\non Bloomberg Intelligence. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Blackstone Posts Profit Jump as Deals Hit ‘Escape Velocity’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fblackstone-posts-profit-jump-as-deals-hit-escape-velocity",
-    "published": "Thu, 29 Jan 2026 19:19:14 CST",
-    "summary": "Blackstone Inc. reported a surprise jump in distributable earnings as\ndealmaking reignited and reached what President Jon Gray calls “escape\nvelocity.” For executives, that unleashed some of their richest rewards since\nthe pandemic. Paul Gulberg joins to discuss with Paul Sweeney and Scarlet Fu.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "How investment firms of the ultra-rich partner with PE funds to find top deals and save on fees",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Ffamily-offices-private-equity.html",
     "published": "Thu, 29 Jan 2026 19:16:11 CST",
     "summary": "By co-investing with PE firms, family offices source deals at a lower cost and\nfaster pace.\n\n"
-  },
-  {
-    "title": "US High-Grade Bond Sales Top $200 Billion in Record Yearly Start",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-high-grade-bond-sales-top-200-billion-in-record-yearly-start",
-    "published": "Thu, 29 Jan 2026 19:15:56 CST",
-    "summary": "Sales of US investment-grade corporate bonds have smashed January’s prior\nrecord and exceeded $200 billion for just the sixth month ever, part of a\nglobal debt-issuance surge as borrowers take advantage of reduced borrowing\npremiums.\n\n"
   },
   {
     "title": "Budget Hotels Become an Immigration Battleground for ICE Protests",
@@ -180,22 +216,10 @@
     "summary": "Starbucks released a long-term forecast and shared more details about how it\nplans to hit those financial targets at an investor presentation.\n\n"
   },
   {
-    "title": "ECB’s Cipollone Says Digital Euro Guarantees Strategic Autonomy",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fecb-s-cipollone-says-digital-euro-guarantees-strategic-autonomy",
-    "published": "Thu, 29 Jan 2026 18:40:43 CST",
-    "summary": "Europe needs a digital euro to guarantee its autonomy from payment providers\noutside the region, European Central Bank Executive Board member Piero\nCipollone said.\n\n"
-  },
-  {
     "title": "Microsoft’s $357 Billion Rout Is Worst Since Deepseek Hit Nvidia",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fmicrosoft-heads-for-worst-market-loss-since-deepseek-hit-nvidia",
     "published": "Thu, 29 Jan 2026 18:40:13 CST",
     "summary": "Microsoft Corp. shares got caught up in a selloff Thursday that wiped out $357\nbillion in value, second-largest for a single session in stock market history.\n\n"
-  },
-  {
-    "title": "Bloomberg Markets 1/29/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fbloomberg-markets-1-29-2026-video",
-    "published": "Thu, 29 Jan 2026 18:39:15 CST",
-    "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class\nand discusses the biggest issues for Wall Street. Today's guests: Blackstone\nPresident Jon Gray, Ethos CEO & Co-Founder Peter Colis and Citi Global Head of\nCommodities Research Max Layton. (Source: Bloomberg)\n\n"
   },
   {
     "title": "John L. Allen Jr., Journalist With Inside Access to the Vatican, Dies at 61",
@@ -246,12 +270,6 @@
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "Colombia’s Largest Pipeline Operator to Launch Global LNG Tender for New Import Terminal",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcolombia-s-tgi-plans-lng-tender-to-supply-new-import-terminal",
-    "published": "Thu, 29 Jan 2026 16:39:24 CST",
-    "summary": "Colombia’s largest pipeline operator plans to launch a global tender to secure\nlong-term supplies of liquefied natural gas for an import terminal it’s\nconstructing.\n\n"
-  },
-  {
     "title": "First Brands Founder Charged With Fraud That Erased Billions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffirst-brands-founder-patrick-james-indicted-by-us-prosecutors",
     "published": "Thu, 29 Jan 2026 16:35:24 CST",
@@ -262,12 +280,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstarbucks-to-reintroduce-loyalty-program-tiers.html",
     "published": "Thu, 29 Jan 2026 16:30:36 CST",
     "summary": "Starbucks is bringing back its tiered loyalty program.\n\n"
-  },
-  {
-    "title": "Blue Owl Investors Pull 15% of Assets From Tech-Focused Fund",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fblue-owl-investors-pull-15-4-of-assets-from-tech-focused-fund",
-    "published": "Thu, 29 Jan 2026 16:12:43 CST",
-    "summary": "Investors pulled around 15.4% of net assets from one of Blue Owl Capital\nInc.’s tech-focused funds, following the vehicle’s decision to dramatically\nincrease the amount investors could withdraw earlier this month.\n\n"
   },
   {
     "title": "Gold Retreats in Sudden Selloff After Breaking Through $5,500",
@@ -334,6 +346,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fpowell-cook-fed-court-case.html",
     "published": "Thu, 29 Jan 2026 12:38:49 CST",
     "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a\n\"mistake,\" accusing Powell of politicizing the case.\n\n"
+  },
+  {
+    "title": "Emerging Assets Break Five-Day Winning Streak After Tech Panic",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Femerging-market-assets-pause-as-dollar-steadies-after-fed-hold",
+    "published": "Thu, 29 Jan 2026 11:47:06 CST",
+    "summary": "Emerging-market currencies and stocks retreated on Thursday, breaking a five\nday winning streak in a session marked by jitters around the artificial-\nintelligence boom.\n\n"
   },
   {
     "title": "Here’s what would stay open during a partial government shutdown",
@@ -414,7 +432,7 @@
     "summary": "The tech giant is spending $35 million to promote its film about the first\nlady, far more than is typical for documentaries.\n\n"
   },
   {
-    "title": "Stocks Rise in Late Hours on Apple’s Solid Results: Markets Wrap",
+    "title": "Stock Buyers Step In After Tech-Fueled Selloff: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Wed, 28 Jan 2026 22:19:00 CST",
     "summary": "Wall Street saw a sharp bounce from session lows as dip buyers stepped in\nfollowing a slide driven by concerns over whether the unprecedented spending\non artificial-intelligence will justify all that capital. Big moves in\ncommodities saw gold plunging as oil soared. Bitcoin dipped below $85,000.\n\n"
@@ -870,12 +888,6 @@
     "summary": "The newspaper will send a small team of reporters to cover the Olympics after\nit informed sports journalists on Friday that the paper would not send a\ngroup.\n\n"
   },
   {
-    "title": "Public Media Holds Its Apocalypse at Bay, for Now",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fnpr-pbs-stations-funding.html",
-    "published": "Mon, 26 Jan 2026 17:45:08 CST",
-    "summary": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few\nhave closed their doors. Angst about their long-term future remains.\n\n"
-  },
-  {
     "title": "Bank of Scotland fined £160,000 over account for sanctioned Putin ally",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fbank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov",
     "published": "Mon, 26 Jan 2026 17:29:13 CST",
@@ -892,12 +904,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F26%2Fwashington-post-february-job-cuts-layoffs",
     "published": "Mon, 26 Jan 2026 16:55:14 CST",
     "summary": "Members of foreign staff send letter to billionaire owner Jeff Bezos urging\nhim to change course\n\nThe Washington Post has consistently produced high-quality, news cycle-leading\nreporting over the first year of Donald Trump’s chaotic and unpredictable\nsecond administration. But that work has been produced under a cloud of\nuncertainty and rumors of widespread job cuts.\n\nThose long-rumored cuts now appear to be close, with staffers expecting the ax\nto drop in early February – though nothing is certain. Inside the Post,\nstaffers have tossed around estimates of potential cuts, with most exceeding\n100, which would represent more than 10% of the newsroom**–** but no one\nreally knows how widespread the cuts will be – or in fact if they will happen\nat all. The sections most likely to be affected by the cuts include sports,\nmetro and foreign, according to staffers who spoke with the Guardian.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fbrooklyn-beckham-victoria-feud-ai-videos-dancing.html",
-    "published": "Mon, 26 Jan 2026 15:32:53 CST",
-    "summary": "A.I.-generated content of Victoria Beckham has spread as wedding drama has\nengulfed the celebrity clan and the public has clamored for receipts (even\nfabricated ones).\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: USA Rare Earth, Allied Gold, CoreWeave, Enphase & more",
@@ -946,12 +952,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fwarren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
     "published": "Fri, 23 Jan 2026 20:32:31 CST",
     "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration\nwhen it comes to his push to make credit cards more affordable for Americans.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves midday: Fortinet, Moderna, Intel, Bausch Health & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F23%2Fstocks-making-the-biggest-moves-midday-ftnt-mrna-intc-bhc.html",
-    "published": "Fri, 23 Jan 2026 16:53:27 CST",
-    "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
     "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
