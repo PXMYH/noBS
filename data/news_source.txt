@@ -1,9 +1,57 @@
 [
   {
+    "title": "AI Fears Hinder Deutsche Bank’s $1.2 Billion Loan Deal for Conga",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fai-fears-hinder-deutsche-bank-s-1-2-billion-loan-deal-for-conga",
+    "published": "Fri, 30 Jan 2026 23:22:52 CST",
+    "summary": "A group of lenders led by Deutsche Bank AG is at risk of getting stuck with\nabout $1.2 billion of loans linked to the acquisition of an artificial\nintelligence-driven software provider, as investors shy away from businesses\nperceived as vulnerable to competition from free AI tools.\n\n"
+  },
+  {
+    "title": "Fmr World Bank Chief Economist: Trump Doesn’t Believe in Fed Independence",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fromer-trump-doesn-t-believe-in-fed-independence-video",
+    "published": "Fri, 30 Jan 2026 23:10:35 CST",
+    "summary": "Paul Romer, Nobel laureate, former World Bank chief economist, and Boston\nCollege professor, says Donald Trump does not believe in central bank\nindependence. Speaking with Romaine Bostick and Katie Greifeld on The Close,\nRomer says it is entirely possible Trump could move to impose wage and price\ncontrols. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Trump taps career staffer to lead statistics agency whose chief he fired",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Ftrump-nominates-matsumoto-bls%2F",
+    "published": "Fri, 30 Jan 2026 23:07:11 CST",
+    "summary": "The agency has been without a permanent leader since August when Trump fired\nits previous commissioner Erika McEntarfer over a weaker-than-expected jobs\nreport.\n\n"
+  },
+  {
+    "title": "Brazil’s Haddad Pitches Ministry Ally for Open Central Bank Seat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbrazil-s-haddad-pitches-ministry-ally-for-open-central-bank-seat",
+    "published": "Fri, 30 Jan 2026 23:01:31 CST",
+    "summary": "Brazil Finance Minister Fernando Haddad has pitched President Luiz Inacio Lula\nda Silva on naming an ally from inside his ministry to an open seat on the\ncentral bank board, according to two people with knowledge of the situation.\n\n"
+  },
+  {
+    "title": "Oil Rally Runs Out of Steam After Trump Says Iran Wants a Deal",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Foil-rally-runs-out-of-steam-trump-says-iran-wants-deal-video",
+    "published": "Fri, 30 Jan 2026 22:56:55 CST",
+    "summary": "Oil edged lower, though still notched its biggest monthly gain since 2022, as\nUS President Donald Trump reiterated openness to negotiations with Iran though\ninvestors remain on edge about the potential for further tensions. West Texas\nIntermediate fell 0.3% to settle near $65 a barrel, snapping a breathless\nthree-day rally, while Brent ended the day above $70. Prices tumbled after\nTrump told reporters that Iran wants to make a deal. The US president’s\nmessaging has shifted from punishing Tehran for its deadly crackdown on\nprotesters to this week trying to extract a new nuclear agreement. Dr. Ellen\nWald, President of Transversal Consulting, Senior Fellow at the Atlantic\nCouncil, and author of \"Saudi, Inc.\" joins Bloomberg Businessweek Daily to\ndiscuss. She also weighs in on Chevron and Exxon earnings results. Wald speaks\nwith Carol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bowman Says Fed Can 'Afford to Take Time' With Rate Cuts",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fbowman-says-fed-can-afford-to-take-time-with-rate-cuts-video",
+    "published": "Fri, 30 Jan 2026 22:55:58 CST",
+    "summary": "Federal Reserve Vice Chair for Supervision Michelle Bowman says she saw merit\nin waiting to lower rates further given elevated inflation and uncertainty\nover potential distortions in economic data during an event in Oahu, Hawaii.\n(This report is audio only.) (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fmedia%2Fproduce-pete-napolitano-dead.html",
+    "published": "Fri, 30 Jan 2026 22:51:47 CST",
+    "summary": "For more than 30 years, he drew fans for dispensing weekly produce punditry on\na New York television station, building on a sales career that began when he\nwas 5.\n\n"
+  },
+  {
     "title": "Rep. Sherman (D-CA): Investigation into Fed is ‘Phony’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Frep-sherman-d-ca-investigation-into-fed-is-phony-video",
     "published": "Fri, 30 Jan 2026 22:47:00 CST",
     "summary": "Rep. Brad Sherman (D-CA) calls the Fed investigation a “phony” attempt to\nintimidate the central bank. Speaking with Romaine Bostick and Katie Greifeld\non The Close, he says Kevin Warsh backs a digital dollar to compete with\ncrypto. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Tether’s Annual Profit Drops 23% In Midst of Fundraising",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftether-s-annual-profit-drops-23-in-midst-of-fundraising",
+    "published": "Fri, 30 Jan 2026 22:38:55 CST",
+    "summary": "Tether posted a $10 billion profit in 2025, down 23% from the previous year,\nas the world’s biggest stablecoin issuer launched a fundraising process that\nwould make it one of the most highly valued private companies.\n\n"
   },
   {
     "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",
@@ -28,18 +76,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fhollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
     "published": "Fri, 30 Jan 2026 22:25:25 CST",
     "summary": "But big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\"\nhave been underperforming ticket sales expectations.\n\n"
-  },
-  {
-    "title": "Trump taps career staffer to lead statistics agency whose chief he fired",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Ftrump-nominates-matsumoto-bls%2F",
-    "published": "Fri, 30 Jan 2026 22:23:13 CST",
-    "summary": "The agency has been without a permanent leader since August when Trump fired\nits previous commissioner Erika McEntarfer over a weaker-than-expected jobs\nreport.\n\n"
-  },
-  {
-    "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fmedia%2Fproduce-pete-napolitano-dead.html",
-    "published": "Fri, 30 Jan 2026 22:15:35 CST",
-    "summary": "For more than 30 years, he drew fans for dispensing weekly produce punditry on\na New York television station, building on a sales career that began when he\nwas 5.\n\n"
   },
   {
     "title": "Israel Credit Outlook Raised by Moody’s as Conflict Risks Recede",
@@ -118,42 +154,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2F-sell-america-trade-risk-fades-under-warsh-s-fed-fulcrum-says",
     "published": "Fri, 30 Jan 2026 20:57:56 CST",
     "summary": "The nomination of Kevin Warsh as the next Federal Reserve chair diminishes the\nrisk of a sweeping selloff in US assets as he is expected to guard against\ninflation, according to Fulcrum Asset Management.\n\n"
-  },
-  {
-    "title": "Fed's Miran Weighs In on Warsh, Rate Cuts and Balance Sheet",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Ffed-s-miran-weighs-in-on-warsh-rates-and-balance-sheet-video",
-    "published": "Fri, 30 Jan 2026 20:47:16 CST",
-    "summary": "Federal Reserve Governor Stephen Miran says the Fed can proceed at a slower\npace of rate cuts but he still has concerns about the weakness in the labor\nmarket. Speaking on \"Bloomberg The Close,\" Miran says he thinks Kevin Warsh\nwill do a \"knockout job\" as the central bank chair and also comments on the\nFed's balance sheet policy. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Eddie Hearn on the Future of Boxing’s Business",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Feddie-hearn-on-the-future-of-boxing-s-business-video",
-    "published": "Fri, 30 Jan 2026 20:46:11 CST",
-    "summary": "Eddie Hearn, Chairman of Matchroom Sport, discusses venues, media rights, and\ncompetition with the UFC with Romaine Bostick and Katie Greifeld on The Close.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Strong Carry and Careful Selection Still Matter: Bowron",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fstrong-carry-and-careful-selection-still-matter-bowron-video",
-    "published": "Fri, 30 Jan 2026 20:45:11 CST",
-    "summary": "UBS Global Wealth Management’s Head of Taxable Fixed Income Strategy Leslie\nFalconio and Beach Point Capital’s Portfolio Manager Sinjin Bowron tell\nBloomberg that their outlook for fixed income remains intact despite recent\nmarket volatility and heavy earnings-driven headlines. Bowron mentioned how\nstrong carry and careful security selection continue to support returns, even\nas Big Tech’s massive AI-related capital spending drives increased issuance of\ninvestment-grade debt. They joined the conversation on \"Bloomberg Real Yield\"\nwith Katie Greifeld. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Markets Not Sure What To Make Of Warsh: Goldberg",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fmarkets-not-sure-what-to-make-of-warsh-goldberg-video",
-    "published": "Fri, 30 Jan 2026 20:43:11 CST",
-    "summary": "Gennadiy Goldberg, head of US rates strategy at TD Securities and Gene\nTannuzzo, global head of fixed income at Columbia Threadneedle Investments\ntell Bloomberg that uncertainty around how Kevin Warsh would lead the Federal\nReserve is creating questions for bond investors, particularly at the long end\nof the curve. They say markets are weighing whether Warsh would lean dovish in\nthe near term to align with the administration’s push for lower rates, or\nrevert to his historically hawkish stance if inflation pressures reemerge.\nThey joined the conversation on \"Bloomberg Real Yield\" with Katie Greifeld.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Options Trading Compounds Gold’s Biggest Plunge in Decades",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Foptions-trading-compounds-gold-s-biggest-plunge-in-decades",
-    "published": "Fri, 30 Jan 2026 20:41:45 CST",
-    "summary": "Gold’s biggest plunge in decades is being compounded by trading in the options\nmarket.\n\n"
-  },
-  {
-    "title": "Miran Says Warsh Will Do a 'Knockout Job' as Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fmiran-says-warsh-will-do-a-knockout-job-as-fed-chair",
-    "published": "Fri, 30 Jan 2026 20:37:46 CST",
-    "summary": "Federal Reserve Governor Stephen Miran says he thinks Kevin Warsh is a\n\"fantastic pick\" to lead the central bank during an interview on \"Bloomberg\nThe Close.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "Trump says U.S. will decertify Canadian-made planes, threatens 50% tariff",
