@@ -1,5 +1,89 @@
 [
   {
+    "title": "Ford to record $600 million pretax pension charge in fourth quarter",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fford-q4-earnings-pension-charge.html",
+    "published": "Fri, 30 Jan 2026 19:49:49 CST",
+    "summary": "Ford will report a pretax charge of $600 million in its fourth-quarter results\ndue to adjustments to employee pension plans and other postretirement\nbenefits.\n\n"
+  },
+  {
+    "title": "Power Engineering Firm Solv Seeks $512.5 Million in US IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fpower-engineering-firm-solv-seeks-512-5-million-in-us-ipo",
+    "published": "Fri, 30 Jan 2026 19:45:55 CST",
+    "summary": "Solv Energy Inc. is seeking to raise as much as $512.5 million in an initial\npublic offering, becoming one of the latest companies to capitalize on data\ncenters’ increasing power needs.\n\n"
+  },
+  {
+    "title": "Fed's Musalem Says Lowering Rates Now Would Be 'Unadvisable'",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Ffed-s-musalem-says-lowering-rates-now-would-be-unadvisable",
+    "published": "Fri, 30 Jan 2026 19:44:54 CST",
+    "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem says officials\nshould hold off from lowering interest rates further at this time to prevent\nstoking inflationary pressures. He speaks at the annual Arkansas Business\nForecast Luncheon in Rogers, Arkansas. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "In a Bid to Kick-Start Growth, Britain Turns to China",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fuk-china-trade-business-starmer-xi.html",
+    "published": "Fri, 30 Jan 2026 19:41:55 CST",
+    "summary": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took\nBritish business leaders to China and emerged with deals on visas and Scotch\nwhisky, as well as pledges to deepen ties.\n\n"
+  },
+  {
+    "title": "GameStop's Ryan Cohen eyes 'very big' consumer megadeal that could increase company's value tenfold",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fgamestop-ceo-ryan-cohen-targets-consumer-mega-deal.html",
+    "published": "Fri, 30 Jan 2026 19:36:21 CST",
+    "summary": "Ryan Cohen wouldn't say whether he would sell GameStop's bitcoin to try to\npull off a major acquisition.\n\n"
+  },
+  {
+    "title": "Hollywood has an IP problem: Box-office sales are banking on franchise hits that keep falling flat",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fhollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
+    "published": "Fri, 30 Jan 2026 19:32:34 CST",
+    "summary": "But big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\"\nhave been underperforming ticket sales expectations.\n\n"
+  },
+  {
+    "title": "Mortgage Lenders Sink as PennyMac’s Profit Lags Expectations",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fmortgage-lenders-sink-as-pennymac-s-profit-lags-expectations",
+    "published": "Fri, 30 Jan 2026 19:26:10 CST",
+    "summary": "(Updates stock moves in fourth paragraph.)\n\n"
+  },
+  {
+    "title": "Panamanian Court Strikes Down Hong Kong Firm’s Canal Contract",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
+    "published": "Fri, 30 Jan 2026 19:24:58 CST",
+    "summary": "The ruling delivers a victory to President Trump, who has said he wants the\nU.S. to control the canal, and a blow to the longtime ports operator, CK\nHutchison.\n\n"
+  },
+  {
+    "title": "If you missed big international stock market rally in 2025, it's not too late to start making money overseas",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Foverseas-markets-international-stocks-investing-etfs.html",
+    "published": "Fri, 30 Jan 2026 19:22:21 CST",
+    "summary": "International markets boomed in 2025 and investing experts say plenty of\nopportunity remains for stock gains overseas from metals to tech to banking.\n\n"
+  },
+  {
+    "title": "Hollywood’s North Road Studio Acquired by the European Production Giant Mediawan",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fnorth-road-mediawan-deal.html",
+    "published": "Fri, 30 Jan 2026 19:14:04 CST",
+    "summary": "Peter Chernin, an industry veteran who founded North Road in 2022, said his\ndeal with Mediawan met a need to get bigger in an era of consolidation.\n\n"
+  },
+  {
+    "title": "Chevron Points to Venezuela’s Promise as Big Oil Earnings Fall",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fenergy-environment%2Fchevron-exxon-mobil-earnings.html",
+    "published": "Fri, 30 Jan 2026 19:11:49 CST",
+    "summary": "The two largest U.S. oil companies, Chevron and Exxon Mobil, reported their\nlowest annual profits in years.\n\n"
+  },
+  {
+    "title": "Statistics Canada Changes Inflation Release Date After Criticism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fstatistics-canada-changes-inflation-release-date-after-criticism",
+    "published": "Fri, 30 Jan 2026 19:10:31 CST",
+    "summary": "Canada’s central statistics agency changed the date it plans to publish a\nmajor inflation print after economists warned against releasing the data while\nthe country’s financial markets are closed for a holiday next month.\n\n"
+  },
+  {
+    "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Famerican-express-credit-card-high-spenders.html",
+    "published": "Fri, 30 Jan 2026 19:09:39 CST",
+    "summary": "AmEx's strategy shift is the latest example of the K-shaped economy, in which\nwealthy consumers continue to spend freely while others rein in their expenses\n\n"
+  },
+  {
+    "title": "Exxon’s Imperial to Shut Norman Wells Oil Site After Century of Output",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fexxon-s-imperial-to-shut-norman-wells-after-century-of-output",
+    "published": "Fri, 30 Jan 2026 19:07:34 CST",
+    "summary": "Imperial Oil Ltd. plans to shut the historic Norman Wells oil production site\nnear the Arctic Circle in Canada after a century of operation.\n\n"
+  },
+  {
     "title": "Trump Picks Kevin Warsh as Next Fed Chair",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fus%2Fpolitics%2Ftrump-fed-chair-kevin-warsh.html",
     "published": "Fri, 30 Jan 2026 19:01:52 CST",
@@ -24,6 +108,12 @@
     "summary": "These are the stocks posting the largest moves midday.\n\n"
   },
   {
+    "title": "Bloomberg Surveillance 1/30/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fbloomberg-surveillance-1-30-2026-video",
+    "published": "Fri, 30 Jan 2026 18:34:42 CST",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fwho-is-kevin-warsh-trumps-fed-chair-pick.html",
     "published": "Fri, 30 Jan 2026 18:28:58 CST",
@@ -36,22 +126,10 @@
     "summary": "Shares of US oil giants Exxon Mobil Corp. and Chevron Corp. are on track for\ntheir largest monthly gains in more than three years, boosted by rising energy\nprices, geopolitical tensions and improving fundamentals.\n\n"
   },
   {
-    "title": "Panamanian Court Strikes Down Hong Kong Firm’s Canal Contract",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
-    "published": "Fri, 30 Jan 2026 18:25:02 CST",
-    "summary": "The ruling delivers a victory to President Trump, who has said he wants the\nU.S. to control the canal, and a blow to the longtime ports operator, CK\nHutchison.\n\n"
-  },
-  {
     "title": "Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Ftrump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html",
     "published": "Fri, 30 Jan 2026 18:18:39 CST",
     "summary": "President Trump named Kevin Warsh to succeed Jerome Powell as Fed chair,\nending an odyssey that has seen unprecedented turmoil around the central bank.\n\n"
-  },
-  {
-    "title": "In a Bid to Kick-Start Growth, Britain Turns to China",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fuk-china-trade-business-starmer-xi.html",
-    "published": "Fri, 30 Jan 2026 18:18:31 CST",
-    "summary": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took\nBritish business leaders to China and emerged with deals on visas and Scotch\nwhisky, as well as pledges to deepen ties.\n\n"
   },
   {
     "title": "Warsh Tapped for Fed as Busy Earnings Week Wraps Up | Open Interest 1/30/2026",
@@ -94,12 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fperu-s-deficit-goal-risks-choking-growth-finance-chief-says",
     "published": "Fri, 30 Jan 2026 17:29:56 CST",
     "summary": "Peru hit its fiscal target in 2025 for the first time in three years. But now\na stricter goal is weighing on an economy that could grow faster with a less\nstringent cap on deficits, according to its finance minister.\n\n"
-  },
-  {
-    "title": "Chevron Points to Venezuela’s Promise as Big Oil Earnings Fall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fenergy-environment%2Fchevron-exxon-mobil-earnings.html",
-    "published": "Fri, 30 Jan 2026 17:28:27 CST",
-    "summary": "The two largest U.S. oil companies, Chevron and Exxon Mobil, reported their\nlowest annual profits in years.\n\n"
   },
   {
     "title": "Soaring Industrial Shares Face Headwinds From Trump Trade Policy",
@@ -162,12 +234,6 @@
     "summary": "The political fundraising group launched by crypto-billionaire brothers\nCameron and Tyler Winklevoss raised more than $22 million in the last five\nmonths of 2025, but might not get as much bang for its Bitcoin.\n\n"
   },
   {
-    "title": "The US Is Flirting With Its First-Ever Population Decline",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fus-is-flirting-with-its-first-ever-population-decline-video",
-    "published": "Fri, 30 Jan 2026 17:00:28 CST",
-    "summary": "America’s population wasn’t expected to start falling until 2081. Trump’s\nimmigration crackdown means it could happen as soon as this year. Shawn Donnan\nexplain. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Trump taps Fed critic Kevin Warsh to succeed Jerome Powell as chairman",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Fkevin-warsh-fed-nomination%2F",
     "published": "Fri, 30 Jan 2026 16:51:40 CST",
@@ -178,24 +244,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fsoftware-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
     "published": "Fri, 30 Jan 2026 16:33:16 CST",
     "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-\nday decline since April 4 during the tariff-triggered downturn.\n\n"
-  },
-  {
-    "title": "The US Is About to Import the Most Venezuelan Oil in a Year With Trump’s Backing",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fus-to-import-the-most-venezuelan-oil-in-a-year-with-trump-s-backing",
-    "published": "Fri, 30 Jan 2026 16:29:26 CST",
-    "summary": "The US is set to import the most Venezuelan oil in a year after President\nDonald Trump’s administration moved to control the country’s energy supply.\n\n"
-  },
-  {
-    "title": "Starbucks CEO on Growth Plans, Pricing and China Market",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fstarbucks-ceo-on-growth-plans-pricing-and-china-market-video",
-    "published": "Fri, 30 Jan 2026 16:21:41 CST",
-    "summary": "Starbucks CEO Brian Niccol discusses what is driving the company's recent\nsales growth. Speaking with Romaine Bostick on \"Bloomberg Open Interest,\"\nNiccol also comments on the company's pricing strategy, the outlook for demand\nin China and where he is seeing growth opportunities. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "If you missed big international stock market rally in 2025, it's not too late to start making money overseas",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Foverseas-markets-international-stocks-investing-etfs.html",
-    "published": "Fri, 30 Jan 2026 16:12:30 CST",
-    "summary": "International markets boomed in 2025 and investing experts say plenty of\nopportunity remains for stock gains overseas from metals to tech to banking.\n\n"
   },
   {
     "title": "Prediction markets allow trading on Super Bowl commercials, prompting insider trading questions",
@@ -228,10 +276,10 @@
     "summary": "Legislators and governors in blue states are preparing a range of new taxes on\nthe wealthy. At the same time, many red states continue to cut or eliminate\ntaxes.\n\n"
   },
   {
-    "title": "US Stocks Slide After Trump’s Fed Chair Pick, Hotter PPI Data",
+    "title": "US Stocks Extend Drop on Trump’s Fed Chair Pick, Hotter PPI Data",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fus-stocks-slide-after-trump-s-fed-chair-pick-hotter-ppi-data",
     "published": "Fri, 30 Jan 2026 14:38:24 CST",
-    "summary": "US equities extended losses at midday Friday as traders bet that President\nDonald Trump’s pick to replace Jerome Powell as chair of the Federal Reserve\nwould bring a hawkish stance to the central bank.\n\n"
+    "summary": "US equities extended losses Friday afternoon as traders bet that President\nDonald Trump’s pick to replace Jerome Powell as chair of the Federal Reserve\nwould bring a hawkish stance to the central bank.\n\n"
   },
   {
     "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",
@@ -258,28 +306,10 @@
     "summary": "Some investors are worried that President Trump’s nominee to run the Federal\nReserve may not be a guaranteed “yes” on cutting interest rates.\n\n"
   },
   {
-    "title": "Hollywood’s North Road Studio Acquired by the European Production Giant Mediawan",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fnorth-road-mediawan-deal.html",
-    "published": "Fri, 30 Jan 2026 13:47:47 CST",
-    "summary": "Peter Chernin, an industry veteran who founded North Road in 2022, said his\ndeal with Mediawan met a need to get bigger in an era of consolidation.\n\n"
-  },
-  {
     "title": "A Challenge for Britain’s Royal Mail: Proving It Can Deliver the Mail",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fworld%2Feurope%2Fuk-royal-mail-post-service-delays.html",
     "published": "Fri, 30 Jan 2026 13:46:55 CST",
     "summary": "Late letters are causing distress to some in Britain and fueling criticism of\nits 500-year-old postal service.\n\n"
-  },
-  {
-    "title": "Ford to record $600 million pretax pension charge in fourth quarter",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fford-q4-earnings-pension-charge.html",
-    "published": "Fri, 30 Jan 2026 13:03:19 CST",
-    "summary": "Ford will report a pretax charge of $600 million in its fourth quarter results\ndue to adjustments to employee pension plans and other postretirement\nbenefits.\n\n"
-  },
-  {
-    "title": "Hollywood has an IP problem: Box office sales are banking on franchise hits that keep falling flat",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fhollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
-    "published": "Fri, 30 Jan 2026 13:00:01 CST",
-    "summary": "But big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\"\nhave been underperforming ticket sales expectations.\n\n"
   },
   {
     "title": "New cars are increasingly becoming a luxury amid K-shaped economy concerns",
@@ -298,12 +328,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fdonor-advised-fund-giving-tax-cuts-stocks-soar.html",
     "published": "Fri, 30 Jan 2026 12:22:21 CST",
     "summary": "DAFgiving360 reported donors gave a record $9.9 billion to charities in 2025,\nup 28% from the prior year.\n\n"
-  },
-  {
-    "title": "Dollar Fears Are Flaring as Trump Rekindles Debasement Trade",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fdollar-fears-are-flaring-as-trump-rekindles-debasement-trade",
-    "published": "Fri, 30 Jan 2026 12:03:20 CST",
-    "summary": "To some in financial markets it’s known as the debasement trade. To others\nit’s selling, hedging or even “quiet quitting” America.\n\n"
   },
   {
     "title": "On Polymarket, ‘privileged’ users made millions betting on war strikes and diplomatic strategy. What did they know beforehand?",
@@ -354,12 +378,6 @@
     "summary": "European natural gas posted its biggest monthly gain in three and a half years\nafter cold spells and a rapid depletion of fuel inventories upended market\nsentiment.\n\n"
   },
   {
-    "title": "Grains and Oilseeds Fall as Dollar Strengthens on Trump Fed Pick",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fwheat-eyes-biggest-monthly-gain-since-may-2024-as-dollar-weakens",
-    "published": "Fri, 30 Jan 2026 06:52:51 CST",
-    "summary": "Grain and oilseed futures fell Friday amid a strengthening US dollar as\nPresident Donald Trump announced Kevin Warsh as his pick for the top job at\nthe Federal Reserve.\n\n"
-  },
-  {
     "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fai-secrets-stolen-google-china.html",
     "published": "Fri, 30 Jan 2026 02:24:58 CST",
@@ -388,12 +406,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
     "published": "Fri, 30 Jan 2026 00:25:43 CST",
     "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
-  },
-  {
-    "title": "ECB Locked on Hold as Calls for Hikes This Year Fade, Poll Shows",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fecb-locked-on-hold-as-calls-for-hikes-this-year-fade-poll-shows",
-    "published": "Fri, 30 Jan 2026 00:15:00 CST",
-    "summary": "The European Central Bank is expected to keep interest rates unchanged at\nleast through the end of next year, with calls for a hike in 2026 receding.\n\n"
   },
   {
     "title": "Oil Rally Runs Out of Steam After Trump Says Iran Wants a Deal",
@@ -936,18 +948,6 @@
     "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in\ntariff costs last year, despite the levies not being in effect for all of\n2025.\n\n"
   },
   {
-    "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fchicago-united-center-thc-beverages-concessions.html",
-    "published": "Tue, 27 Jan 2026 17:30:32 CST",
-    "summary": "United Center will sell THC drinks at concerts, marking a first for U.S.\narenas amid rising demand and ongoing federal uncertainty over hemp THC rules.\n\n"
-  },
-  {
-    "title": "Stocks making the biggest moves premarket: Humana, Corning, General Motors, Boeing & more",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-premarket-hum-unh-gm.html",
-    "published": "Tue, 27 Jan 2026 17:28:28 CST",
-    "summary": "These are the stocks posting the largest moves in early trading.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Amazon, Reddit, Pinterest, Sysco & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fstocks-making-the-biggest-moves-midday-amzn-rddt-pins-syy.html",
     "published": "Tue, 27 Jan 2026 17:21:32 CST",
@@ -976,12 +976,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html",
     "published": "Tue, 27 Jan 2026 14:34:56 CST",
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
-  },
-  {
-    "title": "New AI tool from Fundrise brings high-level CRE analysis to the public",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fnew-ai-tool-from-fundrise-brings-high-level-cre-analysis-to-the-public.html",
-    "published": "Tue, 27 Jan 2026 14:20:40 CST",
-    "summary": "Fundrise's co-founder and CEO, Ben Miller, says the new tool goes far beyond\nwhat more generalized AI, like ChatGPT, can offer.\n\n"
   },
   {
     "title": "At Davos, tech CEOs laid out their vision for AI’s world domination",
