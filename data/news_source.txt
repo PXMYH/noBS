@@ -1,5 +1,59 @@
 [
   {
+    "title": "Crowded Wall Street Trades Buckle All at Once in 2026 Warning",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fcrowded-wall-street-trades-show-cracks-in-latest-2026-warning",
+    "published": "Fri, 30 Jan 2026 21:40:21 CST",
+    "summary": "In a Wall Street era marked by investor crowding and retail momentum, this\nweek showed how quickly conviction can evaporate.\n\n"
+  },
+  {
+    "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Feli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
+    "published": "Fri, 30 Jan 2026 21:39:04 CST",
+    "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to\ncompete and is preparing for a \"full launch\" in the second quarter.\n\n"
+  },
+  {
+    "title": "TLT Traders Got Out Ahead of Trump Tapping Warsh for Fed Chair",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Ftlt-traders-exited-ahead-of-trump-tapping-warsh-for-fed-chair",
+    "published": "Fri, 30 Jan 2026 21:38:49 CST",
+    "summary": "ETF investors were offloading long-dated bonds well before Trump tapped Warsh.\n\n"
+  },
+  {
+    "title": "S&P, Nasdaq Fall; Dollar Rallies After Trump Taps Warsh | Closing Bell",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fs-p-nasdaq-fall-closing-bell-video",
+    "published": "Fri, 30 Jan 2026 21:27:21 CST",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Hedge Funds Slash Bullish Silver Wagers to 23-Month Low",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-funds-slash-bullish-silver-wagers-to-23-month-low",
+    "published": "Fri, 30 Jan 2026 21:10:50 CST",
+    "summary": "Money managers slashed their bullish silver wagers to the lowest in nearly two\nyears in the run-up to the metal’s biggest plunge in decades.\n\n"
+  },
+  {
+    "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ftrump-kevin-warsh-fed-rates.html",
+    "published": "Fri, 30 Jan 2026 21:08:12 CST",
+    "summary": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal\nReserve, could face fierce resistance if he tries to pursue substantially\nlower borrowing costs.\n\n"
+  },
+  {
+    "title": "How Strong Is Your Financial Knowledge? Take Our Quiz.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ffinancial-knowledge-quiz.html",
+    "published": "Fri, 30 Jan 2026 21:01:38 CST",
+    "summary": "Test your knowledge of credit cards, buying a home, saving for college or\nretirement and other things that affect your wallet.\n\n"
+  },
+  {
+    "title": "‘Sell America’ Trade Risk Fades Under Warsh’s Fed, Fulcrum Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2F-sell-america-trade-risk-fades-under-warsh-s-fed-fulcrum-says",
+    "published": "Fri, 30 Jan 2026 20:57:56 CST",
+    "summary": "The nomination of Kevin Warsh as the next Federal Reserve chair diminishes the\nrisk of a sweeping selloff in US assets as he is expected to guard against\ninflation, according to Fulcrum Asset Management.\n\n"
+  },
+  {
+    "title": "Fed's Miran Weighs In on Warsh, Rate Cuts and Balance Sheet",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Ffed-s-miran-weighs-in-on-warsh-rates-and-balance-sheet-video",
+    "published": "Fri, 30 Jan 2026 20:47:16 CST",
+    "summary": "Federal Reserve Governor Stephen Miran says the Fed can proceed at a slower\npace of rate cuts but he still has concerns about the weakness in the labor\nmarket. Speaking on \"Bloomberg The Close,\" Miran says he thinks Kevin Warsh\nwill do a \"knockout job\" as the central bank chair and also comments on the\nFed's balance sheet policy. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Eddie Hearn on the Future of Boxing’s Business",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Feddie-hearn-on-the-future-of-boxing-s-business-video",
     "published": "Fri, 30 Jan 2026 20:46:11 CST",
@@ -10,12 +64,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fstrong-carry-and-careful-selection-still-matter-bowron-video",
     "published": "Fri, 30 Jan 2026 20:45:11 CST",
     "summary": "UBS Global Wealth Management’s Head of Taxable Fixed Income Strategy Leslie\nFalconio and Beach Point Capital’s Portfolio Manager Sinjin Bowron tell\nBloomberg that their outlook for fixed income remains intact despite recent\nmarket volatility and heavy earnings-driven headlines. Bowron mentioned how\nstrong carry and careful security selection continue to support returns, even\nas Big Tech’s massive AI-related capital spending drives increased issuance of\ninvestment-grade debt. They joined the conversation on \"Bloomberg Real Yield\"\nwith Katie Greifeld. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Feli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
-    "published": "Fri, 30 Jan 2026 20:44:15 CST",
-    "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to\ncompete and is preparing for a \"full launch\" in the second quarter.\n\n"
   },
   {
     "title": "Markets Not Sure What To Make Of Warsh: Goldberg",
@@ -72,12 +120,6 @@
     "summary": "Federal Reserve Governor Stephen Miran says he thinks Fed rates are still too\nrestrictive during an interview with Mike McKee on \"Bloomberg The Close.\"\n(Source: Bloomberg)\n\n"
   },
   {
-    "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ftrump-kevin-warsh-fed-rates.html",
-    "published": "Fri, 30 Jan 2026 20:12:37 CST",
-    "summary": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal\nReserve, could face fierce resistance if he tries to pursue substantially\nlower borrowing costs.\n\n"
-  },
-  {
     "title": "If you missed big international stock market rally in 2025, it's not too late to start making money overseas",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Foverseas-markets-international-stocks-investing-etfs.html",
     "published": "Fri, 30 Jan 2026 20:09:36 CST",
@@ -120,10 +162,10 @@
     "summary": "Ford will report a pretax charge of $600 million in its fourth-quarter results\ndue to adjustments to employee pension plans and other postretirement\nbenefits.\n\n"
   },
   {
-    "title": "Dollar Surges as Plunging Metals Hit Commodity Currencies",
+    "title": "Dollar Posts Biggest Gain Since May as Precious Metals Plunge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fdollar-surges-as-plunging-metals-hit-commodity-currencies",
     "published": "Fri, 30 Jan 2026 19:48:11 CST",
-    "summary": "The dollar jumped, setting it up for its biggest one-day gain since July, as\nplunging gold and silver prices dragged down currencies from Australia to\nSweden.\n\n"
+    "summary": "The dollar jumped the most since May, ending a volatile month on an up note as\nplunging gold and silver prices dragged down currencies from Australia to\nSweden.\n\n"
   },
   {
     "title": "Power Engineering Firm Solv Seeks $512.5 Million in US IPO",
@@ -162,12 +204,6 @@
     "summary": "But big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\"\nhave been underperforming ticket sales expectations.\n\n"
   },
   {
-    "title": "Mortgage Lenders Sink as PennyMac’s Profit Lags Expectations",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fmortgage-lenders-sink-as-pennymac-s-profit-lags-expectations",
-    "published": "Fri, 30 Jan 2026 19:26:10 CST",
-    "summary": "(Updates stock moves in fourth paragraph.)\n\n"
-  },
-  {
     "title": "Panamanian Court Strikes Down Hong Kong Firm’s Canal Contract",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
     "published": "Fri, 30 Jan 2026 19:24:58 CST",
@@ -186,22 +222,10 @@
     "summary": "The two largest U.S. oil companies, Chevron and Exxon Mobil, reported their\nlowest annual profits in years.\n\n"
   },
   {
-    "title": "Statistics Canada Changes Inflation Release Date After Criticism",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fstatistics-canada-changes-inflation-release-date-after-criticism",
-    "published": "Fri, 30 Jan 2026 19:10:31 CST",
-    "summary": "Canada’s central statistics agency changed the date it plans to publish a\nmajor inflation print after economists warned against releasing the data while\nthe country’s financial markets are closed for a holiday next month.\n\n"
-  },
-  {
     "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Famerican-express-credit-card-high-spenders.html",
     "published": "Fri, 30 Jan 2026 19:09:39 CST",
     "summary": "AmEx's strategy shift is the latest example of the K-shaped economy, in which\nwealthy consumers continue to spend freely while others rein in their expenses\n\n"
-  },
-  {
-    "title": "Exxon’s Imperial to Shut Norman Wells Oil Site After Century of Output",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fexxon-s-imperial-to-shut-norman-wells-after-century-of-output",
-    "published": "Fri, 30 Jan 2026 19:07:34 CST",
-    "summary": "Imperial Oil Ltd. plans to shut the historic Norman Wells oil production site\nnear the Arctic Circle in Canada after a century of operation.\n\n"
   },
   {
     "title": "Trump Picks Kevin Warsh as Next Fed Chair",
@@ -216,28 +240,28 @@
     "summary": "Venezuelan officials welcomed the announcement, which followed the U.S.\ncapture this month of their president, Nicolás Maduro.\n\n"
   },
   {
-    "title": "What Software Stocks Are Telling Us About the Copper Boom",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Fwhat-software-stocks-are-telling-us-about-the-copper-boom",
-    "published": "Fri, 30 Jan 2026 18:45:31 CST",
-    "summary": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd\nLots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing\nyou our thoughts on the most recent developments in markets, finance and the\neconomy. And sometimes it's contributions from our network of expert guests\nand sources. Whatever it is, we promise it will always be interesting.\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves midday: Newmont, Apple, Sandisk, Deckers Outdoor & more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fstocks-making-the-biggest-moves-midday-nem-aapl-sndk-deck.html",
     "published": "Fri, 30 Jan 2026 18:40:01 CST",
     "summary": "These are the stocks posting the largest moves midday.\n\n"
   },
   {
-    "title": "Bloomberg Surveillance 1/30/2026",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fbloomberg-surveillance-1-30-2026-video",
-    "published": "Fri, 30 Jan 2026 18:34:42 CST",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders\nand decision makers from Wall Street to Washington and beyond. No other\nprogram better positions investors and executives for the trading day.\n(Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fwho-is-kevin-warsh-trumps-fed-chair-pick.html",
     "published": "Fri, 30 Jan 2026 18:28:58 CST",
     "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump’s pick to lead\nthe Federal Reserve. Here’s his background, views and why it matters.\n\n"
+  },
+  {
+    "title": "Exxon, Chevron Clock Best Month Since 2022 as Crude Surges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fexxon-chevron-head-for-best-month-since-2022-as-crude-surges",
+    "published": "Fri, 30 Jan 2026 18:28:27 CST",
+    "summary": "Shares of US oil giants Exxon Mobil Corp. and Chevron Corp. notched their\nlargest monthly gains in more than three years, boosted by rising energy\nprices, geopolitical tensions and improving fundamentals.\n\n"
+  },
+  {
+    "title": "Jersey Mike’s Sells Debt It Can Pay Down With IPO Proceeds",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fjersey-mike-s-is-selling-debt-it-can-pay-down-with-ipo-proceeds",
+    "published": "Fri, 30 Jan 2026 17:58:25 CST",
+    "summary": "Sandwich chain Jersey Mike’s Subs sold about $760 million of bonds Friday and\nretained the right to repay about half of the principal early with proceeds\nfrom a future initial public offering, an unusual feature for the debt.\n\n"
   },
   {
     "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
@@ -252,22 +276,10 @@
     "summary": "President Trump is set to announce his choice to replace Jerome H. Powell as\nchair of the Federal Reserve, saying it is someone “known to everybody in the\nfinancial world.”\n\n"
   },
   {
-    "title": "Chile’s Fiscal Deficit Exceeds Target for Third Year in Row",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fchile-s-fiscal-deficit-exceeds-target-for-third-year-in-a-row",
-    "published": "Fri, 30 Jan 2026 17:24:54 CST",
-    "summary": "Chile’s fiscal deficit exceeded the government’s target for the third year in\na row in 2025, as President-elect Jose Antonio Kast prepares to take office in\nMarch with pledges to slash billions from spending.\n\n"
-  },
-  {
     "title": "Eli Lilly plans $3.5 billion manufacturing plant in Pennsylvania to make next-generation obesity injections",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Feli-lilly-3point5-billion-pennsylvania-plant-obesity-drugs.html",
     "published": "Fri, 30 Jan 2026 17:20:39 CST",
     "summary": "The plant will help make Lilly's experimental drug called retatrutide, which\nhas shown the highest weight loss seen to date in a late-stage trial.\n\n"
-  },
-  {
-    "title": "AC Milan Owner Refinances Elliott Loan With New Funds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fac-milan-owner-refinances-elliott-loan-with-700-million-funding",
-    "published": "Fri, 30 Jan 2026 17:12:28 CST",
-    "summary": "RedBird Capital Partners, the owner of AC Milan, struck a deal for new debt\nthat will refinance a vendor loan provided by Elliott Management Corp.\n\n"
   },
   {
     "title": "What a new Fed chair could mean for the economy",
@@ -306,10 +318,10 @@
     "summary": "New Jersey Transit trains are running close to scheduled times ahead of the\nevening commute on Friday, after a blocked tunnel delayed commuters in and out\nof New York’s Penn Station.\n\n"
   },
   {
-    "title": "US Stocks Extend Drop on Trump’s Fed Chair Pick, Hotter PPI Data",
+    "title": "US Stocks Eke Out Weekly Gain Despite Friday Tech, Metal Selloff",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fus-stocks-slide-after-trump-s-fed-chair-pick-hotter-ppi-data",
     "published": "Fri, 30 Jan 2026 14:38:24 CST",
-    "summary": "US equities extended losses Friday afternoon as traders bet that President\nDonald Trump’s pick to replace Jerome Powell as chair of the Federal Reserve\nwould bring a hawkish stance to the central bank.\n\n"
+    "summary": "US equities slipped Friday as traders bet that President Donald Trump’s pick\nto replace Jerome Powell as chair of the Federal Reserve would bring a hawkish\nstance to the central bank.\n\n"
   },
   {
     "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",
@@ -372,18 +384,6 @@
     "summary": "The prediction market’s disciples and CEO believe its an unbiased way of\nknowing the future. But experts warn users could reshape the world to win big\n\nIn the early hours of 13 June, more than 200 Israeli fighter jets began\npummeling Iran with bombs, lighting up the Tehran skyline and initiating a\n12-day war that would leave hundreds dead.\n\nBut for one user of the prediction market Polymarket, it was their lucky day.\nIn the 24 hours before the strike occurred, they had bet tens of thousands of\ndollars on “yes” on the market “Israel military action against Iran by\nFriday?” when the prospect still seemed unlikely and odds were hovering at\nabout 10%. After the strike, Polymarket declared that military action had been\ntaken, and paid the user $128,000 for their lucky wager.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Exxon and Chevron Lift Oil Output, Blunting Crude Price Drop",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fexxon-beats-estimates-as-growth-refining-cushion-oil-drop",
-    "published": "Fri, 30 Jan 2026 11:30:13 CST",
-    "summary": "Exxon Mobil Corp. and Chevron Corp. surpassed profit expectations as higher\noil production helped offset the blow from lower crude prices.\n\n"
-  },
-  {
-    "title": "New Holland Starts Fund for Traders Tired of Multistrats",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fnew-holland-starts-hedge-fund-for-traders-tired-of-multistrats",
-    "published": "Fri, 30 Jan 2026 11:22:15 CST",
-    "summary": "New Holland Capital is preparing to start an investment platform to lure stock\ntraders exhausted by what it sees as the high pressure and siloed culture of\ngiant multistrategy hedge funds.\n\n"
-  },
-  {
     "title": "Lukoil Gas Station Franchisees Caught in a Fight Between US and Russia",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fenergy-environment%2Flukoil-gas-stations-trump.html",
     "published": "Fri, 30 Jan 2026 10:00:27 CST",
@@ -400,6 +400,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fchina-beijing-trade-tariffs-trump-starmer-carney.html",
     "published": "Fri, 30 Jan 2026 09:39:24 CST",
     "summary": "Nations that avoided China in recent years are now sending their leaders to\nBeijing for meetings with Chinese President Xi Jinping.\n\n"
+  },
+  {
+    "title": "Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions",
+    "published": "Fri, 30 Jan 2026 02:25:46 CST",
+    "summary": "Bitcoin traded near two-month lows after Donald Trump named Kevin Warsh as the\nnext Federal Reserve chair -- a choice that did little to lift sentiment in a\nmarket already under pressure from persistent ETF outflows.\n\n"
   },
   {
     "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
@@ -447,7 +453,7 @@
     "title": "Gold and Silver Plunge as Wild Swings Rock Metals Markets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-resumes-rally-after-dropping-on-thursday-in-choppy-session",
     "published": "Thu, 29 Jan 2026 23:29:58 CST",
-    "summary": "Gold suffered its biggest slide in decades and silver posted a record intraday\ndecline in a whipsawing reversal of a scorching rally that lifted prices to\nall-time highs.\n\n"
+    "summary": "Gold suffered its biggest slide in four decades and silver posted a record\nintraday decline in a stark reversal of the rally that lifted prices to all-\ntime highs.\n\n"
   },
   {
     "title": "Dozens of Saks Off 5th stores to close as Saks maneuvers bankruptcy",
@@ -468,10 +474,10 @@
     "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
   },
   {
-    "title": "Dollar Is Set for Best Day Since July on Fed Pick: Markets Wrap",
+    "title": "Dollar Rallies Most Since May as Trump Taps Warsh: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 29 Jan 2026 22:40:22 CST",
-    "summary": "The dollar’s surge toward its best day since July accelerated a plunge in\nprecious metals as President Donald Trump announced his pick for the Federal\nReserve’s top job: Kevin Warsh, who’s seen as less supportive of deep rate\ncuts and more worried about inflation. Stocks fell. Bonds were mixed.\n\n"
+    "summary": "The biggest dollar rally since May accelerated a plunge in precious metals as\nPresident Donald Trump announced his pick for the Federal Reserve’s top job:\nKevin Warsh, who’s seen as less supportive of deep rate cuts and more worried\nabout inflation. Stocks fell. Bonds were mixed.\n\n"
   },
   {
     "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
@@ -738,12 +744,6 @@
     "summary": "\n\n"
   },
   {
-    "title": "Fed holds rates steady, signaling risks to economy are dropping",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F28%2Ffed-pauses-rate-cuts%2F",
-    "published": "Wed, 28 Jan 2026 21:27:37 CST",
-    "summary": "The central bank opted for its first pause after three rate cuts last year, as\nofficials wait for clearer signs that inflation is cooling.\n\n"
-  },
-  {
     "title": "Takeaways from the Fed meeting",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2Flive%2F2026%2F01%2F28%2Fbusiness%2Ffederal-reserve-interest-rates%2Ftakeaways-from-the-fed-meeting",
     "published": "Wed, 28 Jan 2026 21:12:03 CST",
@@ -916,12 +916,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fus%2Fpolitics%2Ftrump-iowa-farms-tariffs.html",
     "published": "Tue, 27 Jan 2026 23:49:52 CST",
     "summary": "Farmers are critical to Iowa’s economy. They have been battered by President\nTrump’s tariffs and are not experiencing the “golden age” that the president\npromised.\n\n"
-  },
-  {
-    "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Fmedia%2Fbari-weiss-cbs-news-town-hall.html",
-    "published": "Tue, 27 Jan 2026 22:59:24 CST",
-    "summary": "“We are not producing a product enough people want,” Ms. Weiss told employees\nat her first all-staff meeting at the network.\n\n"
   },
   {
     "title": "Stocks making the biggest moves after hours: Texas Instruments, Seagate Technology, Qorvo and more",
