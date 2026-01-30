@@ -1,45 +1,177 @@
 [
   {
+    "title": "Eldridge's Wachsberger Says Borrowing Costs Challenging",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Feldridge-s-wachsberger-says-borrowing-costs-challenging-video",
+    "published": "Fri, 30 Jan 2026 04:43:48 CST",
+    "summary": "Warren Wachsberger, CEO of Eldridge Acre Partners, a real estate investment\nfirm, says borrowing costs are still challenging even with tight spreads. He\nspeaks with Yvonne Man on \"Insight with Haslinda Amin.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Indo-MIM Is Said to Plan Seeking Up to $700 Million in India IPO",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Findo-mim-is-said-to-plan-seeking-up-to-700-million-in-india-ipo",
+    "published": "Fri, 30 Jan 2026 04:22:49 CST",
+    "summary": "Precision components maker Indo-MIM Ltd. is preparing to launch its initial\npublic offering in India seeking to raise as much as $700 million at a reduced\nvaluation, according to people familiar with the matter.\n\n"
+  },
+  {
+    "title": "Thailand’s Opposition Party Widens Lead Ahead of Tight Election Race",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fthailand-s-opposition-party-widens-lead-ahead-of-tight-election-race",
+    "published": "Fri, 30 Jan 2026 04:07:50 CST",
+    "summary": "People’s Party has extended its lead over Thailand’s ruling Bhumjaithai Party\nwith just nine days to go before an election that’s likely to produce another\ndivided parliament.\n\n"
+  },
+  {
+    "title": "Japan’s Two-Year Bond Sale Draws Solid Demand as Yields Attract",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fjapan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
+    "published": "Fri, 30 Jan 2026 03:47:45 CST",
+    "summary": "Japan’s two-year government bond auction drew solid demand, as elevated yields\nsupported investor appetite despite rising expectations that the Bank of Japan\nwill tighten policy.\n\n"
+  },
+  {
+    "title": "China LNG Imports to Rise for Third Month, Kpler Estimates Show",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fchina-lng-imports-to-rise-for-third-month-kpler-estimates-show",
+    "published": "Fri, 30 Jan 2026 03:45:28 CST",
+    "summary": "China’s liquefied natural gas imports are set to rise again in January, after\nclimbing over the previous two months, indicating buyers may have taken more\ncargoes via long-term contracts.\n\n"
+  },
+  {
+    "title": "Copper Sinks as Frenzy in China Ebbs at Close of Turbulent Week",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fcopper-s-wild-week-ends-with-a-retreat-as-frenzy-in-china-ebbs",
+    "published": "Fri, 30 Jan 2026 03:42:35 CST",
+    "summary": "Copper sank from a record at the end of an extraordinarily volatile week, with\ntrading marred by an glitch on the London Metal Exchange, as Chinese investors\npulled back and the US dollar rose.\n\n"
+  },
+  {
+    "title": "Malaysian Central Bank Rejects Using Ringgit to Help Exports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fmalaysia-won-t-use-ringgit-to-boost-exports-sees-currency-supported-by-growth",
+    "published": "Fri, 30 Jan 2026 03:28:41 CST",
+    "summary": "Malaysia’s central bank said strong growth and ongoing reforms would provide\nsupport for the ringgit, ruling out using the currency to support exports,\nwhich it said are determined by global demand.\n\n"
+  },
+  {
+    "title": "Hedge Fund Investors Renew China Appetite as US Interest Wanes",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-fund-investors-renew-china-appetite-as-us-interest-wanes",
+    "published": "Fri, 30 Jan 2026 03:01:35 CST",
+    "summary": "A growing number of global investors plan to add money to China-focused hedge\nfunds this year, a stark reversal from the stampede for the exit only three\nyears ago, according to an annual survey by BNP Paribas SA.\n\n"
+  },
+  {
+    "title": "Australian Dollar Bulls Pile Into Options as Rate Hike Bets Grow",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Faustralian-dollar-bulls-pile-into-options-as-rate-hike-bets-grow",
+    "published": "Fri, 30 Jan 2026 02:55:37 CST",
+    "summary": "Currency traders are ramping up bullish Australian dollar bets in the options\nmarket as conviction grows for the Reserve Bank of Australia to raise interest\nrates on Tuesday.\n\n"
+  },
+  {
+    "title": "India’s Defense Stocks Are Back in the Spotlight on EU Trade Pact",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Fdefense-stocks-in-spotlight-on-india-eu-trade-deal-labor-code-pangs-for-firms",
+    "published": "Fri, 30 Jan 2026 02:45:54 CST",
+    "summary": "A Nifty gauge of defense stocks is up over 8% this week.\n\n"
+  },
+  {
+    "title": "Musk's SpaceX Said to Weigh Tie-Up With Tesla or xAI",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fmusk-s-spacex-said-to-weigh-tie-up-with-tesla-or-xai-video",
+    "published": "Fri, 30 Jan 2026 02:33:40 CST",
+    "summary": "SpaceX is said to be considering a potential merger with Tesla or xAI, as Elon\nMusk weighs how to consolidate his empire. Bloomberg Tech's Ed Ludlow\ndiscusses what's at stake on \"Bloomberg: The Asia Trade.\" (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Bitcoin Slumps to Two-Month Low as US Funds Shed Billions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions",
+    "published": "Fri, 30 Jan 2026 02:25:46 CST",
+    "summary": "Bitcoin slumped to fresh two-month lows in early Asia trade as sentiment\ncontinues to sour around the largest cryptocurrency and investors pull money\nout of exchange-traded funds for the token.\n\n"
+  },
+  {
     "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fai-secrets-stolen-google-china.html",
-    "published": "Thu, 29 Jan 2026 23:40:50 CST",
+    "published": "Fri, 30 Jan 2026 02:24:58 CST",
     "summary": "A federal jury found that Linwei Ding stole thousands of confidential files to\nhelp him start a company in Beijing.\n\n"
   },
   {
-    "title": "Oil Steadies After Three-Day Rally as Traders Weigh Iran Risks",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flatest-oil-market-news-and-analysis-for-jan-30",
-    "published": "Thu, 29 Jan 2026 23:38:57 CST",
-    "summary": "Oil steadied after surging more than 3% on Thursday as traders weighed US\nPresident Donald Trump’s threats against Iran, and how a potential escalation\nin hostilities could impact flows from the Middle East.\n\n"
+    "title": "Indonesia Stock Exchange CEO Resigns After Market Selloff",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Findonesia-stock-exchange-ceo-resigns-after-market-rout",
+    "published": "Fri, 30 Jan 2026 02:20:19 CST",
+    "summary": "The chief executive officer of the Indonesia Stock Exchange said he will step\ndown following a two-day market rout sparked by MSCI Inc.’s warning of a\npossible downgrade.\n\n"
+  },
+  {
+    "title": "Gold’s Record Inflows From Asian ETFs Seen by Some as Warning",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fgold-s-record-inflows-from-asian-etfs-seen-by-some-as-warning",
+    "published": "Fri, 30 Jan 2026 02:17:31 CST",
+    "summary": "Asian investors are pouring record amounts into gold exchange-traded funds,\nleading some to question whether the rally in bullion is getting close to\ntopping out.\n\n"
+  },
+  {
+    "title": "Dollar Rises With US Yields as Trump Set to Choose Warsh for Fed",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftreasury-yields-rise-on-expectations-warsh-will-be-fed-chair",
+    "published": "Fri, 30 Jan 2026 02:09:41 CST",
+    "summary": "The dollar rose with Treasury yields after US President Donald Trump was said\nto be preparing to nominate Kevin Warsh as the next Federal Reserve chair,\nseen as a relatively hawkish choice.\n\n"
+  },
+  {
+    "title": "Trump Warns UK on ‘Dangerous’ Moves After Xi-Starmer Talks",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftrump-warns-uk-on-dangerous-china-moves-after-xi-starmer-talks",
+    "published": "Fri, 30 Jan 2026 02:01:48 CST",
+    "summary": "President Donald Trump warned the UK and Canada against striking fresh\nbusiness deals with China, after their leaders visited Beijing this month in\nan effort to deepen ties with the world’s second-largest economy.\n\n"
+  },
+  {
+    "title": "In Beijing, Starmer and Xi Seek a Way Around a Volatile U.S.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fworld%2Fasia%2Fchina-starmer-xi-jinping.html",
+    "published": "Fri, 30 Jan 2026 01:40:42 CST",
+    "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for\ngrowth, offering China’s leader, Xi Jinping, a way to court one of America’s\nallies.\n\n"
+  },
+  {
+    "title": "New World Shares, Bonds Jump as Blackstone in Talks for Stake",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fnew-world-shares-jump-as-blackstone-is-said-to-be-in-stake-talks",
+    "published": "Fri, 30 Jan 2026 01:37:08 CST",
+    "summary": "New World Development Co.’s shares and bonds surged after people familiar with\nthe matter said Blackstone Inc. is in advanced talks to become the single\nlargest shareholder of the Hong Kong developer.\n\n"
+  },
+  {
+    "title": "LME Trading Glitch Caps Wild Week for Global Metals Traders",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Flondon-metal-exchange-is-said-to-delay-market-opening",
+    "published": "Fri, 30 Jan 2026 01:25:54 CST",
+    "summary": "The London Metal Exchange suffered a one-hour delay to the start of trading on\nFriday after a technical problem, causing confusion among traders after a week\nof intense volatility and eye-watering price gains.\n\n"
+  },
+  {
+    "title": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F29%2Ftrump-tariffs-cuba-oil",
+    "published": "Fri, 30 Jan 2026 01:06:44 CST",
+    "summary": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s\npressure to topple its government\n\nDonald Trump signed an executive order on Thursday laying the groundwork to\nslap tariffs on goods from countries that provide oil to Cuba, the White House\nsaid.\n\nThe order, which ratchets up Trump’s pressure to topple the Communist\ngovernment, declares a national emergency and establishes a process for the US\nsecretaries of state and commerce to assess tariffs against countries that\nsell or otherwise provide oil to the island nation. The White House has yet to\nspecify tariff rates for violating its new policy of blocking Cuba from buying\noil.\n\nContinue reading...\n\n"
+  },
+  {
+    "title": "Nintendo and Sony Face Pressure Over Soaring Memory Chip Prices",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fjapan-s-nintendo-and-sony-face-memory-price-pressures",
+    "published": "Fri, 30 Jan 2026 00:59:37 CST",
+    "summary": "Nintendo Co. and Sony Group Corp. will face scrutiny over how soaring memory\nchip prices driven by AI demand have affected their game console profitability\nwhen they report earnings next week.\n\n"
+  },
+  {
+    "title": "Washington Post Plans Cuts to Reshape Newsroom",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fwashington-post-newsroom.html",
+    "published": "Fri, 30 Jan 2026 00:54:15 CST",
+    "summary": "The changes are expected to include significant layoffs in areas like sports\nand international coverage.\n\n"
+  },
+  {
+    "title": "US to Seek Rare Earth Price Mechanism During Meetings With Allies, Official Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fus-to-seek-rare-earth-price-mechanism-during-meetings-with-allies-official-says",
+    "published": "Fri, 30 Jan 2026 00:31:43 CST",
+    "summary": "The US will seek to reach consensus with allies on a pricing mechanism to help\ninsulate rare earth mineral refiners and extractors during meetings with\ndozens of foreign ministers in Washington next week, a senior Trump\nadministration official said.\n\n"
   },
   {
     "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
-    "published": "Thu, 29 Jan 2026 23:35:03 CST",
+    "published": "Fri, 30 Jan 2026 00:25:43 CST",
     "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
   },
   {
-    "title": "Why Is There So Much Oil?",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fvideo-why-is-there-suddenly-so-much-oil",
-    "published": "Thu, 29 Jan 2026 23:33:00 CST",
-    "summary": "In this weekly documentary, _Bloomberg Originals_ explores how the world got\nto this strange place of oversupply and what it means for the future.****\n\n"
+    "title": "ECB Locked on Hold as Calls for Hikes This Year Fade, Poll Shows",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fecb-locked-on-hold-as-calls-for-hikes-this-year-fade-poll-shows",
+    "published": "Fri, 30 Jan 2026 00:15:00 CST",
+    "summary": "The European Central Bank is expected to keep interest rates unchanged at\nleast through the end of next year, with calls for a hike in 2026 receding.\n\n"
   },
   {
-    "title": "Gold Resumes Rally After Dropping on Thursday in Choppy Session",
+    "title": "Delta Electronics Surges to $100 Billion Valuation, Tops Foxconn",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fdelta-electronics-surges-to-100-billion-valuation-tops-foxconn",
+    "published": "Fri, 30 Jan 2026 00:14:06 CST",
+    "summary": "Delta Electronics Inc. has more than quadrupled in market value since April,\nmaking the AI server parts maker Taiwan’s second-biggest stock. It’s now worth\nmore than $100 billion.\n\n"
+  },
+  {
+    "title": "Oil Rally Hits Brakes But Trump’s Iran Focus Looms Over Market",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flatest-oil-market-news-and-analysis-for-jan-30",
+    "published": "Thu, 29 Jan 2026 23:38:57 CST",
+    "summary": "Oil retreated after a three-day rally as risk-off sentiment swept across\nbroader markets, but US President Donald Trump’s escalating threats against\nIran is keeping the market on edge.\n\n"
+  },
+  {
+    "title": "Gold Retreats as Reports on Trump’s Fed Nominee Boost Dollar",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-resumes-rally-after-dropping-on-thursday-in-choppy-session",
     "published": "Thu, 29 Jan 2026 23:29:58 CST",
-    "summary": "Gold resumed gains -- after dropping for the first time in almost two weeks on\nThursday -- as geopolitical upheaval, the debasement trade and thin liquidity\npowered the rally.\n\n"
-  },
-  {
-    "title": "PIMCO's Jerome Schneider: See One More Rate Cut This Year",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fpimco-s-schneider-see-one-more-rate-cut-this-year-video",
-    "published": "Thu, 29 Jan 2026 23:04:53 CST",
-    "summary": "Jerome Schneider, head of short-term portfolio management and funding at\nPIMCO, says the Fed faces new challenges as economic growth picks up. He tells\nRomaine Bostick and Katie Greifeld on “The Close” that PIMCO still expects\nanother rate cut later this year, even as growth prospects improve. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "Nintendo Switch 2’s Strength Threatened by Memory ‘Horror Show’",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fnintendo-switch-2-s-strength-threatened-by-memory-horror-show",
-    "published": "Thu, 29 Jan 2026 23:00:00 CST",
-    "summary": "The fastest-selling game console of all time may not be enough to shelter\nNintendo Co.’s stock from growing investor fears about skyrocketing memory\nprices.\n\n"
+    "summary": "Gold fell, following its first drop in nearly two weeks, as the US dollar\nstrengthened after a report the Trump administration is preparing to nominate\nKevin Warsh for Federal Reserve chair.\n\n"
   },
   {
     "title": "Worst Yet to Come After Wild Day for Indonesia Stocks, Funds Say",
@@ -54,12 +186,6 @@
     "summary": "The news comes just two weeks after the parent company filed for bankruptcy.\nOnly 12 off-price stores will remain open.\n\n"
   },
   {
-    "title": "BlackRock’s Diorio: Clients Want More Access to Private Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fdiorio-clients-want-more-access-to-private-markets-video",
-    "published": "Thu, 29 Jan 2026 22:54:38 CST",
-    "summary": "Jonathan Diorio, head of U.S. Wealth Business and Head of Alternatives at\nBlackRock, discusses the firm’s private-markets separately managed account\nwith Romaine Bostick and Katie Greifeld. He says clients are seeking greater\naccess to private markets. (Source: Bloomberg)\n\n"
-  },
-  {
     "title": "Stocks making the biggest moves after hours: Apple, Robinhood, Visa, Sandisk and more",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstocks-making-the-biggest-moves-after-hours-aapl-hood-v-sndk.html",
     "published": "Thu, 29 Jan 2026 22:50:30 CST",
@@ -72,46 +198,10 @@
     "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
   },
   {
-    "title": "RBC's Narayan: Mathematically, Tesla Not An Auto Company",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Frbc-s-narayan-mathematically-tesla-not-an-auto-company-video",
-    "published": "Thu, 29 Jan 2026 22:46:59 CST",
-    "summary": "RBC Capital Markets Global Autos Lead Equity Analyst Tom Narayan joins\nBloomberg Businessweek Daily to discuss Tesla's latest earnings results,\nincluding plans to retire the Model S and Model X. Narayan says that Tesla's\ntime as an automaker is \"in the past,\" adding that based on valuation versus\nnew car sales, \"mathematically, [Tesla] is not a car company... it's an\nautonomy company.\" Narayan speaks with Carol Massar and Tim Stenovec. (Source:\nBloomberg)\n\n"
-  },
-  {
-    "title": "RO CEO on The Rise of GLP-1 Drugs",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fro-ceo-on-the-rise-of-glp-1-drugs-video",
-    "published": "Thu, 29 Jan 2026 22:45:54 CST",
-    "summary": "Zach Reitano, CEO of RO, says demand for the company’s pill has far exceeded\nexpectations. He tells Romaine Bostick and Katie Greifeld on “The Close” that\nthe oral medication is more approachable and affordable, noting the price has\ndropped from about $1,300 eight months ago to a starting price of $149.\n(Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Wall Street Bonanza Won’t Save NYC’s Finances, Mamdani Warns",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwall-street-bonanza-won-t-save-nyc-s-finances-mamdani-warns",
-    "published": "Thu, 29 Jan 2026 22:42:56 CST",
-    "summary": "Wall Street’s booming year will not be enough to stave off a financial crisis\nthat Mayor Zohran Mamdani says is worse than the Great Recession nearly two\ndecades ago.\n\n"
-  },
-  {
-    "title": "Dirty Energy’s Cute But Deadly Rebrand",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fopinion-dirty-energy-s-cute-but-deadly-rebrand-video",
-    "published": "Thu, 29 Jan 2026 22:42:05 CST",
-    "summary": "Meet the White House’s newest mascot: Coalie. He’s a cute lump of coal that\nthe administration hopes will sell its perverse energy agenda, says Bloomberg\nOpinion columnist Mark Gongloff. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Stock Futures Fall on Apple Warning, Gold Up: Markets Wrap",
+    "title": "Stocks, Bonds Fall on Bets Warsh Set to Lead Fed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 29 Jan 2026 22:40:22 CST",
-    "summary": "US equity-index futures fell at the open as Apple Inc. warned about margins\nand doubts grew over whether heavy investment in artificial intelligence will\ndeliver sufficient returns.\n\n"
-  },
-  {
-    "title": "Nasdaq Falls on Big Tech Weakness | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fnasdaq-falls-on-big-tech-weakness-closing-bell-video",
-    "published": "Thu, 29 Jan 2026 22:33:55 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Felon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai",
-    "published": "Thu, 29 Jan 2026 22:15:55 CST",
-    "summary": "SpaceX is considering a potential merger with Tesla Inc., as well as an\nalternative combination with artificial intelligence firm xAI, according to\npeople familiar with the matter, a sign billionaire Elon Musk is weighing how\nto consolidate his empire.\n\n"
+    "summary": "Stocks fell with US Treasuries as Donald Trump’s administration prepared for\nthe president to nominate Kevin Warsh to be the next Federal Reserve chair, a\nchoice viewed as more hawkish than other contenders.\n\n"
   },
   {
     "title": "US Issues License for Oil Companies to Operate in Venezuela",
@@ -124,24 +214,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fsouthwest-airlines-ends-open-seating.html",
     "published": "Thu, 29 Jan 2026 21:48:50 CST",
     "summary": "Southwest Airlines replaced open seating with assigned seats after more than\n50 years.\n\n"
-  },
-  {
-    "title": "Copper Prices Top $14,500 a Ton For First Time",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Fcopper-prices-top-14-500-a-ton-for-first-time-video",
-    "published": "Thu, 29 Jan 2026 21:43:51 CST",
-    "summary": "Copper prices gained as much as 11% to trade above $14,500 a ton for the first\ntime ever Thursday afternoon. Timna Tanners from Wells Fargo talks about the\nrally in metals and says copper shortages were expected. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "US Urges China to Let ‘Substantially Undervalued’ Yuan Rise",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-calls-on-china-to-strengthen-substantially-undervalued-yuan",
-    "published": "Thu, 29 Jan 2026 21:29:01 CST",
-    "summary": "The US Treasury characterized the yuan as “substantially undervalued,” and\ncalled on China to allow its exchange rate to strengthen in a timely and\norderly way.\n\n"
-  },
-  {
-    "title": "Pentagon Strikes Deal With Canada’s 5N Plus",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fpentagon-strikes-deal-with-canada-s-5n-plus-shares-surge-19",
-    "published": "Thu, 29 Jan 2026 21:16:16 CST",
-    "summary": "The US Department of Defense made an $18 million investment in Canada’s 5N\nPlus Inc. to help the company expand refining capacity for germanium metal,\nwhich is used in night-vision systems and other applications. The shares\nsoared 19%.\n\n"
   },
   {
     "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
@@ -192,6 +264,12 @@
     "summary": "By co-investing with PE firms, family offices source deals at a lower cost and\nfaster pace.\n\n"
   },
   {
+    "title": "Big tech results show investor demand for payoffs from heavy AI spending",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F29%2Fbig-tech-earnings-reports-ai",
+    "published": "Thu, 29 Jan 2026 19:11:25 CST",
+    "summary": "Meta wowed Wall Street with improvements in ad targeting fueled by AI\nalongside huge investment. Microsoft had less to show for its billions spent\n\nBig tech earnings so far this week have sent a clear warning: investors are\nwilling to overlook soaring spending on artificial intelligence if it fuels\nstrong growth, but are quick to punish companies that fall short.\n\nThe contrast was clear in Thursday’s stock market reaction to earnings from\nMicrosoft and Meta, highlighting how dramatically the stakes have changed\nsince the launch of ChatGPT started the AI boom more than three years ago.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Budget Hotels Become an Immigration Battleground for ICE Protests",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Ftravel%2Fhotels-anti-ice-protests.html",
     "published": "Thu, 29 Jan 2026 19:08:49 CST",
@@ -206,19 +284,13 @@
   {
     "title": "Russia’s Lukoil in Talks to Sell Some Assets to U.S. Investment Firm",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Frussia-lukoil-carlyle-sale-sanctions.html",
-    "published": "Thu, 29 Jan 2026 19:00:45 CST",
+    "published": "Thu, 29 Jan 2026 19:00:46 CST",
     "summary": "The deal with Carlyle comes after the United States and the European Union\nimposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.\n\n"
-  },
-  {
-    "title": "CFTC to Craft New Prediction Market Rules, Chairman Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcftc-to-craft-new-rules-for-prediction-markets-chairman-says",
-    "published": "Thu, 29 Jan 2026 19:00:00 CST",
-    "summary": "Wall Street’s main derivatives regulator will write new rules for the multi-\nbillion dollar prediction markets industry, the head of the Commodity Futures\nTrading Commission said Thursday.\n\n"
   },
   {
     "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Ftechnology%2Fmicrosoft-earnings-ai-expenditures.html",
-    "published": "Thu, 29 Jan 2026 18:53:48 CST",
+    "published": "Thu, 29 Jan 2026 18:53:49 CST",
     "summary": "The company said on Wednesday that revenue in the most recent quarter was\n$81.3 billion, but its share price dropped more than 7 percent in after-hours\ntrading.\n\n"
   },
   {
@@ -228,22 +300,16 @@
     "summary": "Starbucks released a long-term forecast and shared more details about how it\nplans to hit those financial targets at an investor presentation.\n\n"
   },
   {
-    "title": "Microsoft’s $357 Billion Rout Is Worst Since Deepseek Hit Nvidia",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fmicrosoft-heads-for-worst-market-loss-since-deepseek-hit-nvidia",
-    "published": "Thu, 29 Jan 2026 18:40:13 CST",
-    "summary": "Microsoft Corp. shares got caught up in a selloff Thursday that wiped out $357\nbillion in value, second-largest for a single session in stock market history.\n\n"
-  },
-  {
     "title": "John L. Allen Jr., Journalist With Inside Access to the Vatican, Dies at 61",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fjohn-l-allen-jr-dead.html",
     "published": "Thu, 29 Jan 2026 18:34:52 CST",
     "summary": "He seemed to know everyone at the Holy See, and it showed in his reporting for\nthe National Catholic Reporter and his website, Crux, though some said he grew\ntoo close to his sources.\n\n"
   },
   {
-    "title": "Coterra, Devon Are in Advanced Talks on Combination",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fcoterra-devon-said-to-be-in-advanced-talks-on-combination",
-    "published": "Thu, 29 Jan 2026 18:09:05 CST",
-    "summary": "Coterra Energy Inc. and Devon Energy Corp. are in advanced talks about a\ncombination, according to people familiar with the matter, in what would be\none of the largest oil and natural gas deals in years.\n\n"
+    "title": "What is behind the extraordinary rise in investment into silver and gold?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F29%2Fwhat-is-behind-extraordinary-rise-investment-into-silver-gold",
+    "published": "Thu, 29 Jan 2026 17:53:26 CST",
+    "summary": "Experts say factors including Trump’s aggressive policies and pressure on the\ndollar are pushing investors toward ‘safe haven’ of precious metals\n\nLast year’s extraordinary run in precious metals has only intensified in 2026,\nas Donald Trump has continued to rip up the rules of the global economy.\n\nGold has been on a tear since last summer, repeatedly breaking records. It has\nrisen by more than a quarter this month and hit a new high of just under\n$5,595 (£4,060) an ounce on Thursday.\n\nContinue reading...\n\n"
   },
   {
     "title": "What Americans Really Mean by ‘Affordability’",
@@ -252,22 +318,16 @@
     "summary": "A few key necessities are driving dissatisfaction, particularly among the\nyoung, our poll finds.\n\n"
   },
   {
-    "title": "Sequoia-Backed Ethos Technologies Shares Sink 11% in US IPO",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Finsurance-platform-ethos-shares-fall-15-in-us-public-offering",
-    "published": "Thu, 29 Jan 2026 17:32:06 CST",
-    "summary": "Insurance platform Ethos Technologies Inc. shares dropped 11% in their trading\ndebut, after the company and some of its shareholders raised roughly $200\nmillion in an initial public offering.\n\n"
+    "title": "Chinese state media views Starmer’s visit as act of economic pragmatism",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F29%2Fchinese-state-media-starmer-visit-act-economic-pragmatism",
+    "published": "Thu, 29 Jan 2026 17:31:38 CST",
+    "summary": "PM praised for not pressuring Xi over his ties with Putin on a trip seen as\nbusiness ‘taking precedence over politics’\n\nKeir Starmer’s visit to Beijing has been cautiously welcomed by Chinese state\nmedia as an act of economic pragmatism by a beleaguered British prime\nminister.\n\nThe presence of 50 business and cultural leaders with Starmer, who is the\nfirst British prime minister to visit China in eight years, was taken as a\nsign that the UK was prioritising its ailing economy over political\nconsiderations.\n\nContinue reading...\n\n"
   },
   {
     "title": "GM is nailing the U.S. auto industry's profit, politics balancing act under Trump",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fgm-earnings-trump.html",
     "published": "Thu, 29 Jan 2026 17:21:36 CST",
     "summary": "GM's ability to walk such a tightrope has been easier to do when it can fall,\nif needed, onto $21.7 billion in cash to end 2025.\n\n"
-  },
-  {
-    "title": "Brent crude tops $70 per barrel on Iran concern; gold and silver tumble from record highs – as it happened",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fjan%2F29%2Fgold-price-weak-dollar-silver-debasement-trade-markets-business-live-news-updates",
-    "published": "Thu, 29 Jan 2026 17:15:49 CST",
-    "summary": "Rolling coverage of the latest economic and financial news, as metal prices\ncontinue to soar\n\n**The weak dollar has helped to drive the copper price to a record high today\ntoo.**\n\nThe benchmark three-month copper on the London Metal Exchange jumped almost 8%\nto a new all-time peak of $14,125 a tonne, before slipping back slightly.\n\nInvestors are piling into base metals on the Shanghai Futures Exchange on\nexpectations for stronger US growth and more spending on data centers,\nrobotics and power infrastructure. That’s spurring global prices higher.\n\nInflation is close to the target of 2 percent.\n\nThe Swedish economy is growing at a solid pace. The labour market is weak but\nshowing signs of improvement.\n\nContinue reading...\n\n"
   },
   {
     "title": "New Food Stamp Rules Are Confusing Grocery Stores and Consumers",
@@ -282,12 +342,6 @@
     "summary": "These are the stocks posting the largest moves in midday trading.\n\n"
   },
   {
-    "title": "First Brands Founder Charged With Fraud That Erased Billions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ffirst-brands-founder-patrick-james-indicted-by-us-prosecutors",
-    "published": "Thu, 29 Jan 2026 16:35:24 CST",
-    "summary": "First Brands Group founder Patrick James and his brother Edward, a former\nexecutive at the company, were indicted in New York following the collapse of\nthe bankrupt auto-parts maker last year.\n\n"
-  },
-  {
     "title": "Starbucks to reintroduce tiers to loyalty program to encourage more visits",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fstarbucks-to-reintroduce-loyalty-program-tiers.html",
     "published": "Thu, 29 Jan 2026 16:30:36 CST",
@@ -300,18 +354,6 @@
     "summary": "New discounts can make heat pumps go from a bad investment to a good idea.\n\n"
   },
   {
-    "title": "AI Hyperscalers Piling Into One of Busiest Bond Markets Ever",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fwall-street-braces-for-ai-bond-binge-as-complacency-fears-mount",
-    "published": "Thu, 29 Jan 2026 15:23:40 CST",
-    "summary": "Wall Street is gearing up for a borrowing bonanza to bankroll artificial\nintelligence projects that could push February corporate bond sales to a\nrecord, even as warnings against complacency continue to percolate across\ncredit markets.\n\n"
-  },
-  {
-    "title": "Tech Leads Stocks Lower as Traders Weigh AI Spending",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-stocks-slip-as-traders-weigh-billions-in-ai-spending-plans",
-    "published": "Thu, 29 Jan 2026 14:52:40 CST",
-    "summary": "Technology shares declined, dragging the broader stock market lower. Earnings\nfrom Microsoft Corp. raised concern about heavy spending on artificial\nintelligence.\n\n"
-  },
-  {
     "title": "The Fed Is Waiting and Watching an Uncertain Economy",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Feconomy%2Feconomy-hiring-inflation-federal-reserve.html",
     "published": "Thu, 29 Jan 2026 14:37:27 CST",
@@ -322,18 +364,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F29%2Fcomcast-cmcsa-earnings-q4-2025.html",
     "published": "Thu, 29 Jan 2026 14:33:30 CST",
     "summary": "Comcast’s broadband business continues to be under pressure due to the rise of\ncompetitors, particularly in the 5G space.\n\n"
-  },
-  {
-    "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fworld%2Fasia%2Fchina-starmer-xi-jinping.html",
-    "published": "Thu, 29 Jan 2026 14:04:05 CST",
-    "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for\ngrowth, offering China’s leader, Xi Jinping, a way to court one of America’s\nallies.\n\n"
-  },
-  {
-    "title": "Treasuries Rise on Haven Demand as Stocks, Precious Metals Fall",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flong-end-treasuries-fluctuate-as-traders-await-us-jobs-data",
-    "published": "Thu, 29 Jan 2026 13:21:53 CST",
-    "summary": "Treasuries rose as investors sought refuge from a slide in US equity\nbenchmarks from near record highs and a slump in the price of precious metals.\n\n"
   },
   {
     "title": "The A.I. Boom’s Uncertain Payoff",
@@ -354,12 +384,6 @@
     "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a\n\"mistake,\" accusing Powell of politicizing the case.\n\n"
   },
   {
-    "title": "Emerging Assets Break Five-Day Winning Streak After Tech Panic",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Femerging-market-assets-pause-as-dollar-steadies-after-fed-hold",
-    "published": "Thu, 29 Jan 2026 11:47:06 CST",
-    "summary": "Emerging-market currencies and stocks retreated on Thursday, breaking a five\nday winning streak in a session marked by jitters around the artificial-\nintelligence boom.\n\n"
-  },
-  {
     "title": "Here’s what would stay open during a partial government shutdown",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F29%2Fpartial-government-shutdown-services%2F",
     "published": "Thu, 29 Jan 2026 11:00:00 CST",
@@ -370,6 +394,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fcarvana-shares-fall-14percent-following-short-seller-accusations.html",
     "published": "Thu, 29 Jan 2026 10:30:11 CST",
     "summary": "Carvana shares closed Wednesday at $410.04, down 14.2% following short-seller\naccusations of the online used retailer overstating earnings.\n\n"
+  },
+  {
+    "title": "Astra Touts $15 Billion China Investment During Starmer Trip",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fastra-pledges-15-billion-china-investment-during-starmer-visit",
+    "published": "Thu, 29 Jan 2026 10:06:55 CST",
+    "summary": "AstraZeneca Plc will invest $15 billion in China through 2030 to expand\nmedicines manufacturing as well as research and development, underscoring the\nUK drugmaker’s deepening presence in the mainland.\n\n"
   },
   {
     "title": "Newark Museum of Art Names a New Leader",
@@ -396,22 +426,22 @@
     "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
   },
   {
-    "title": "Trump, Democrats Strike Tentative Deal to Avert US Shutdown",
+    "title": "Zijin Mining Seeks $1.5 Billion From Convertible Bonds as Gold Surges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fzijin-mining-seeks-1-5-billion-from-convertible-bonds-as-gold-surges",
+    "published": "Thu, 29 Jan 2026 08:45:47 CST",
+    "summary": "Zijin Mining Group Co. has raised $1.5 billion from the sale of bonds that can\nbe converted into stock as the price of gold hits record highs.\n\n"
+  },
+  {
+    "title": "Trump Deal to Avert Major Shutdown Set to Miss Funding Deadline",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Ftrump-democrats-make-some-progress-in-talks-to-avert-shutdown",
     "published": "Thu, 29 Jan 2026 06:16:17 CST",
-    "summary": "President Donald Trump and Senate Democrats have reached a tentative deal to\navert a US government shutdown as the White House negotiates with Democrats to\nplace new limits on immigration raids that have provoked a national outcry.\n\n"
+    "summary": "President Donald Trump and Senate Democrats have reached a tentative deal to\navert a disruptive US government shutdown as the White House continues to\nnegotiate with the Democrats on placing new limits on immigration raids that\nhave provoked a national outcry.\n\n"
   },
   {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
     "published": "Thu, 29 Jan 2026 05:00:16 CST",
     "summary": "The shipping traffic and factories never stop in China’s port city of Ningbo,\nbut the local housing market has crashed and nearby restaurants sit empty.\n\n"
-  },
-  {
-    "title": "Indonesia Stock Rout Deepens After MSCI Warning",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-29%2Findonesia-stock-rout-deepens-after-msci-warning-video",
-    "published": "Thu, 29 Jan 2026 03:37:58 CST",
-    "summary": "Indonesian stocks sank deeper on Thursday after an MSCI warning over market\ninvestability sparked the worst two-day sell-off in nearly three decades.\nStill, Mohit Mirpuri, Senior Partner at SGMC Capital, says he has not sold his\npositions in the market and that he sees no chance of a downgrade. (Source:\nBloomberg)\n\n"
   },
   {
     "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee 'Trump accounts'",
@@ -442,12 +472,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fmedia%2Famazon-melania-trump-film-critics.html",
     "published": "Wed, 28 Jan 2026 23:19:04 CST",
     "summary": "The tech giant is spending $35 million to promote its film about the first\nlady, far more than is typical for documentaries.\n\n"
-  },
-  {
-    "title": "Stock Buyers Step In After Tech-Fueled Selloff: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-28%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Wed, 28 Jan 2026 22:19:00 CST",
-    "summary": "Wall Street saw a sharp bounce from session lows as dip buyers stepped in\nfollowing a slide driven by concerns over whether the unprecedented spending\non artificial-intelligence will justify all that capital. Big moves in\ncommodities saw gold plunging as oil soared. Bitcoin dipped below $85,000.\n\n"
   },
   {
     "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
@@ -666,12 +690,6 @@
     "summary": "Chinese companies are releasing new AI models and striving to gain an edge in\nthe AI application race as the country's biggest holiday of the year nears.\n\n"
   },
   {
-    "title": "FAA ignored warnings before DCA crash, federal investigators say",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Ftransportation%2F2026%2F01%2F27%2Ffinal-ntsb-hearing-dca-crash%2F",
-    "published": "Wed, 28 Jan 2026 00:54:34 CST",
-    "summary": "Last January’s deadly collision of a plane and helicopter above Reagan\nNational Airport was due to systemic failures and “100 percent preventable,”\nthe NTSB chair said.\n\n"
-  },
-  {
     "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fdollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
     "published": "Wed, 28 Jan 2026 00:18:42 CST",
@@ -882,28 +900,10 @@
     "summary": "These are some of the stocks posting the largest moves midday.\n\n"
   },
   {
-    "title": "Washington Post Reverses Decision on Olympics Coverage",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F26%2Fbusiness%2Fmedia%2Fwashington-post-olympics.html",
-    "published": "Mon, 26 Jan 2026 19:57:22 CST",
-    "summary": "The newspaper will send a small team of reporters to cover the Olympics after\nit informed sports journalists on Friday that the paper would not send a\ngroup.\n\n"
-  },
-  {
-    "title": "Bank of Scotland fined £160,000 over account for sanctioned Putin ally",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F26%2Fbank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov",
-    "published": "Mon, 26 Jan 2026 17:29:13 CST",
-    "summary": "Dmitrii Ovsiannikov, who had held senior roles in Russian government, used a\nvariant spelling of his name to access UK banking system\n\nThe UK’s sanctions watchdog has fined Bank of Scotland £160,000 for opening a\nbank account and processing payments for an ally of Vladimir Putin.\n\nDmitrii Ovsiannikov, who became the first person to be prosecuted for\ncircumventing UK sanctions last year, made 24 payments totalling £77,383 to or\nfrom a personal current account during February 2023.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Target's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F26%2Falex-pretti-shooting-target-incoming-ceo-fiddelke.html",
     "published": "Mon, 26 Jan 2026 17:26:02 CST",
     "summary": "More than 60 Minnesota business leaders, including Fiddelke, signed a letter\non Sunday calling for an \"immediate deescalation of tensions.\"\n\n"
-  },
-  {
-    "title": "‘No one knows anything’: Washington Post staffers fear major cuts",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F26%2Fwashington-post-february-job-cuts-layoffs",
-    "published": "Mon, 26 Jan 2026 16:55:14 CST",
-    "summary": "Members of foreign staff send letter to billionaire owner Jeff Bezos urging\nhim to change course\n\nThe Washington Post has consistently produced high-quality, news cycle-leading\nreporting over the first year of Donald Trump’s chaotic and unpredictable\nsecond administration. But that work has been produced under a cloud of\nuncertainty and rumors of widespread job cuts.\n\nThose long-rumored cuts now appear to be close, with staffers expecting the ax\nto drop in early February – though nothing is certain. Inside the Post,\nstaffers have tossed around estimates of potential cuts, with most exceeding\n100, which would represent more than 10% of the newsroom**–** but no one\nreally knows how widespread the cuts will be – or in fact if they will happen\nat all. The sections most likely to be affected by the cuts include sports,\nmetro and foreign, according to staffers who spoke with the Guardian.\n\nContinue reading...\n\n"
   },
   {
     "title": "Stocks making the biggest moves premarket: USA Rare Earth, Allied Gold, CoreWeave, Enphase & more",
@@ -922,12 +922,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F25%2Fenergy-stocks-to-watch-as-major-winter-storm-rips-through-the-us.html",
     "published": "Sun, 25 Jan 2026 22:45:03 CST",
     "summary": "Here are a few stocks and energy related industry groups to watch around this\nand future storms.\n\n"
-  },
-  {
-    "title": "US small businesses are doing fine. Don’t believe me? Look at the numbers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F25%2Fus-small-business-2026-outlook",
-    "published": "Sun, 25 Jan 2026 15:00:11 CST",
-    "summary": "Multiple small-business indexes show an uptick in optimism as well as an\neasing of cost pressures and uncertainty\n\nRegardless of all the challenges they face, small businesses have been doing\npretty well in this country across the board. Don’t believe me? Take a look at\nsome of the latest numbers.\n\nFor more than 50 years, the National Federation of Independent Businesses\n(NFIB) has published a monthly report of small-business economic trends, based\non a random sample of the organization’s approximately 300,000 member firms.\nThis survey is one of the longest and most consistent of any I follow, using\nthe same questionnaire since 1973. So where do things stand?\n\nContinue reading...\n\n"
   },
   {
     "title": "Auto executives are hoping for the best and planning for the worst in 2026",
