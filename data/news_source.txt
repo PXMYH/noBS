@@ -1,21 +1,81 @@
 [
   {
-    "title": "Abu Dhabi to Consolidate Wealth Fund ADQ, L’imad Assets",
+    "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
+    "published": "Fri, 30 Jan 2026 07:05:08 CST",
+    "summary": "President Trump has said he wants American control of the canal, putting the\nlongtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China\ntrade conflict.\n\n"
+  },
+  {
+    "title": "Wheat Eyes Biggest Monthly Gain Since May 2024 as Dollar Weakens",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fwheat-eyes-biggest-monthly-gain-since-may-2024-as-dollar-weakens",
+    "published": "Fri, 30 Jan 2026 06:52:51 CST",
+    "summary": "US wheat futures headed for the biggest monthly advance in nearly two years as\na weaker dollar improved the appeal of the crop abroad.\n\n"
+  },
+  {
+    "title": "Pound Falls Below $1.38, FTSE 100 Futures Steady",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Flive-blog%2F2026-01-30%2Fftse-100-live-pound-trump-trade-lme-metals-gold-oil-copper-fed-what-s-moving-uk-markets-right-now-markets-today-ml0iu08r",
+    "published": "Fri, 30 Jan 2026 06:47:51 CST",
+    "summary": "\n\n"
+  },
+  {
+    "title": "China Plans $29 Billion Capital Injection Into Biggest Insurers",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fchina-plans-29-billion-capital-injection-into-biggest-insurers",
+    "published": "Fri, 30 Jan 2026 06:36:35 CST",
+    "summary": "China is mulling the sale of hundreds of billions of yuan in special\ngovernment bonds to recapitalize some of its largest insurers, according to\npeople familiar with the matter, strengthening the biggest players in a sector\nthat is under pressure to consolidate.\n\n"
+  },
+  {
+    "title": "South African Stocks’ Record Monthly Run Moves Beyond Metals",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fsouth-african-stocks-record-monthly-run-moves-beyond-metals",
+    "published": "Fri, 30 Jan 2026 06:35:32 CST",
+    "summary": "South African equities are on track for their longest monthly winning streak\non record as optimism mounts that the powerful commodities-driven rally is\npoised to broaden out to other sectors.\n\n"
+  },
+  {
+    "title": "AG's Sprake: S.Africa Rand Could Gain to 15/USD",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fag-s-sprake-s-africa-rand-could-gain-to-15-usd-video",
+    "published": "Fri, 30 Jan 2026 06:30:06 CST",
+    "summary": "The South African currency is being boosted by dollar weakness after blowing\nthrough the 16 mark, according to AG Capital Market Strategist Casey Sprake.\nShe spoke to Bloomberg's Jennifer Zabasajja on Horizons Middle East and\nAfrica. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "London Stocks Shunned as UK Pensions Pile Into Private Firms",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Flondon-stocks-shunned-as-uk-pensions-pile-into-private-firms",
+    "published": "Fri, 30 Jan 2026 06:30:00 CST",
+    "summary": "UK defined benefit pension plans are piling into private companies with nearly\nhalf of their equity exposure now made up of unquoted shares, a knock to\nefforts to revitalize the City of London’s public markets.\n\n"
+  },
+  {
+    "title": "French Economy Keeps Growing Despite Political and Budget Chaos",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ffrench-economy-keeps-growing-despite-political-and-budget-chaos",
+    "published": "Fri, 30 Jan 2026 06:30:00 CST",
+    "summary": "France’s economy kept growing at the end of last year as households shrugged\noff political upheaval and the risk of austerity.\n\n"
+  },
+  {
+    "title": "Novo Nordisk Obesity Pill Spurs Rebound From Stock’s Worst Year",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fnovo-nordisk-obesity-pill-spurs-rebound-from-stock-s-worst-year",
+    "published": "Fri, 30 Jan 2026 05:45:00 CST",
+    "summary": "Novo Nordisk A/S shares are bouncing back from their worst ever year, with\nbulls hoping that a pill version of its blockbuster obesity shot will help\nfinally turn things around for the Danish drugmaker.\n\n"
+  },
+  {
+    "title": "Chinese Property Firms Offer Most Bonds in Years as Mood Lifted",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fchinese-property-firms-offer-most-bonds-in-years-as-mood-lifted",
+    "published": "Fri, 30 Jan 2026 05:43:38 CST",
+    "summary": "In just two days, three Chinese property companies have tapped the\ninternational bond market in the busiest week in almost four years, taking\nadvantage of improving sentiment for the sector.\n\n"
+  },
+  {
+    "title": "Groww Among Bidders for Prudential’s India Asset Management Firm",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fgroww-among-bidders-for-prudential-s-india-asset-management-firm",
+    "published": "Fri, 30 Jan 2026 05:40:34 CST",
+    "summary": "Prudential Financial Inc.’s India asset manager has received offers from at\nleast two local bidders, according to people with knowledge of the matter.\n\n"
+  },
+  {
+    "title": "Abu Dhabi Folds ADQ Under New Entity L’imad in Radical Shakeup",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fabu-dhabi-to-consolidate-wealth-fund-adq-l-imad-assets",
     "published": "Fri, 30 Jan 2026 05:19:14 CST",
-    "summary": "Abu Dhabi’s government said it will consolidate the assets and investments of\nL’imad Holding Co. and wealth fund ADQ, in a bid to create what it called a\nsovereign investment powerhouse.\n\n"
+    "summary": "Abu Dhabi is consolidating its $263 billion wealth fund ADQ under the umbrella\nof a recently-formed sovereign entity, L’imad Holding Co., in a significant\noverhaul of the city’s investment landscape.\n\n"
   },
   {
     "title": "Invesco’s Yang on Potential Fed Chair Nominee",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Ffiona-yang-on-potential-fed-chair-nominee-video",
     "published": "Fri, 30 Jan 2026 05:17:58 CST",
     "summary": "Fiona Yang, Asia Ex-Japan Equities Fund Manager at Invesco, shares her views\non the potential market implications if Kevin Warsh were to be confirmed as\nthe next Federal Reserve Chair.\n\n"
-  },
-  {
-    "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
-    "published": "Fri, 30 Jan 2026 05:11:44 CST",
-    "summary": "President Trump has said he wants American control of the canal, putting the\nlongtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China\ntrade conflict.\n\n"
   },
   {
     "title": "Trump Expected to Announce Kevin Warsh as Fed Chair",
@@ -66,12 +126,6 @@
     "summary": "Japan’s two-year government bond auction drew solid demand, as elevated yields\nsupported investor appetite despite rising expectations that the Bank of Japan\nwill tighten policy.\n\n"
   },
   {
-    "title": "China LNG Imports to Rise for Third Month, Kpler Estimates Show",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fchina-lng-imports-to-rise-for-third-month-kpler-estimates-show",
-    "published": "Fri, 30 Jan 2026 03:45:28 CST",
-    "summary": "China’s liquefied natural gas imports are set to rise again in January, after\nclimbing over the previous two months, indicating buyers may have taken more\ncargoes via long-term contracts.\n\n"
-  },
-  {
     "title": "Copper Sinks as Frenzy in China Ebbs at Close of Turbulent Week",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fcopper-s-wild-week-ends-with-a-retreat-as-frenzy-in-china-ebbs",
     "published": "Fri, 30 Jan 2026 03:42:35 CST",
@@ -82,30 +136,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fmalaysia-won-t-use-ringgit-to-boost-exports-sees-currency-supported-by-growth",
     "published": "Fri, 30 Jan 2026 03:28:41 CST",
     "summary": "Malaysia’s central bank said strong growth and ongoing reforms would provide\nsupport for the ringgit, ruling out using the currency to support exports,\nwhich it said are determined by global demand.\n\n"
-  },
-  {
-    "title": "Hedge Fund Investors Renew China Appetite as US Interest Wanes",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-fund-investors-renew-china-appetite-as-us-interest-wanes",
-    "published": "Fri, 30 Jan 2026 03:01:35 CST",
-    "summary": "A growing number of global investors plan to add money to China-focused hedge\nfunds this year, a stark reversal from the stampede for the exit only three\nyears ago, according to an annual survey by BNP Paribas SA.\n\n"
-  },
-  {
-    "title": "Australian Dollar Bulls Pile Into Options as Rate Hike Bets Grow",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Faustralian-dollar-bulls-pile-into-options-as-rate-hike-bets-grow",
-    "published": "Fri, 30 Jan 2026 02:55:37 CST",
-    "summary": "Currency traders are ramping up bullish Australian dollar bets in the options\nmarket as conviction grows for the Reserve Bank of Australia to raise interest\nrates on Tuesday.\n\n"
-  },
-  {
-    "title": "India’s Defense Stocks Are Back in the Spotlight on EU Trade Pact",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Fdefense-stocks-in-spotlight-on-india-eu-trade-deal-labor-code-pangs-for-firms",
-    "published": "Fri, 30 Jan 2026 02:45:54 CST",
-    "summary": "A Nifty gauge of defense stocks is up over 8% this week.\n\n"
-  },
-  {
-    "title": "Musk's SpaceX Said to Weigh Tie-Up With Tesla or xAI",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fmusk-s-spacex-said-to-weigh-tie-up-with-tesla-or-xai-video",
-    "published": "Fri, 30 Jan 2026 02:33:40 CST",
-    "summary": "SpaceX is said to be considering a potential merger with Tesla or xAI, as Elon\nMusk weighs how to consolidate his empire. Bloomberg Tech's Ed Ludlow\ndiscusses what's at stake on \"Bloomberg: The Asia Trade.\" (Source: Bloomberg)\n\n"
   },
   {
     "title": "Bitcoin Slumps to Two-Month Low as US Funds Shed Billions",
@@ -126,19 +156,13 @@
     "summary": "The resignation of the Indonesia Stock Exchange’s chief executive marked the\nfirst tangible consequence of MSCI Inc.’s demands for market reforms, as\npolicymakers rushed to roll out measures aimed at averting a potential\ndowngrade and shoring up confidence.\n\n"
   },
   {
-    "title": "Gold’s Record Inflows From Asian ETFs Seen by Some as Warning",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fgold-s-record-inflows-from-asian-etfs-seen-by-some-as-warning",
-    "published": "Fri, 30 Jan 2026 02:17:31 CST",
-    "summary": "Asian investors are pouring record amounts into gold exchange-traded funds,\nleading some to question whether the rally in bullion is getting close to\ntopping out.\n\n"
-  },
-  {
     "title": "Dollar Rises With US Yields as Trump Set to Choose Warsh for Fed",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftreasury-yields-rise-on-expectations-warsh-will-be-fed-chair",
     "published": "Fri, 30 Jan 2026 02:09:41 CST",
     "summary": "The dollar rose with Treasury yields after US President Donald Trump was said\nto be preparing to nominate Kevin Warsh as the next Federal Reserve chair,\nseen as a relatively hawkish choice.\n\n"
   },
   {
-    "title": "Trump Warns UK on ‘Dangerous’ Moves After Xi-Starmer Talks",
+    "title": "Trump Warns UK on ‘Dangerous’ China Moves After Xi-Starmer Talks",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftrump-warns-uk-on-dangerous-china-moves-after-xi-starmer-talks",
     "published": "Fri, 30 Jan 2026 02:01:48 CST",
     "summary": "President Donald Trump warned the UK and Canada against striking fresh\nbusiness deals with China, after their leaders visited Beijing this month in\nan effort to deepen ties with the world’s second-largest economy.\n\n"
@@ -148,18 +172,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fworld%2Fasia%2Fchina-starmer-xi-jinping.html",
     "published": "Fri, 30 Jan 2026 01:40:42 CST",
     "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for\ngrowth, offering China’s leader, Xi Jinping, a way to court one of America’s\nallies.\n\n"
-  },
-  {
-    "title": "New World Shares, Bonds Jump as Blackstone in Talks for Stake",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fnew-world-shares-jump-as-blackstone-is-said-to-be-in-stake-talks",
-    "published": "Fri, 30 Jan 2026 01:37:08 CST",
-    "summary": "New World Development Co.’s shares and bonds surged after people familiar with\nthe matter said Blackstone Inc. is in advanced talks to become the single\nlargest shareholder of the Hong Kong developer.\n\n"
-  },
-  {
-    "title": "LME Trading Glitch Caps Wild Week for Global Metals Traders",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Flondon-metal-exchange-is-said-to-delay-market-opening",
-    "published": "Fri, 30 Jan 2026 01:25:54 CST",
-    "summary": "The London Metal Exchange suffered a one-hour delay to the start of trading on\nFriday after a technical problem, causing confusion among traders after a week\nof intense volatility and eye-watering price gains.\n\n"
   },
   {
     "title": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
@@ -184,12 +196,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Flatest-oil-market-news-and-analysis-for-jan-30",
     "published": "Thu, 29 Jan 2026 23:38:57 CST",
     "summary": "Oil retreated after a three-day rally as risk-off sentiment swept across\nbroader markets, but US President Donald Trump’s escalating threats against\nIran is keeping the market on edge.\n\n"
-  },
-  {
-    "title": "Gold Retreats as Reports on Trump’s Fed Nominee Boost Dollar",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-resumes-rally-after-dropping-on-thursday-in-choppy-session",
-    "published": "Thu, 29 Jan 2026 23:29:58 CST",
-    "summary": "Gold fell, following its first drop in nearly two weeks, as the US dollar\nstrengthened after a report the Trump administration is preparing to nominate\nKevin Warsh for Federal Reserve chair.\n\n"
   },
   {
     "title": "Adani Pivots to Local Debt With Goal of Raising $10 Billion",
@@ -219,13 +225,7 @@
     "title": "Stocks Drop With Bonds on Bets Warsh Will Lead Fed: Markets Wrap",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
     "published": "Thu, 29 Jan 2026 22:40:22 CST",
-    "summary": "Stocks fell with US Treasuries as Donald Trump’s administration prepared for\nthe president to nominate Kevin Warsh to be the next Federal Reserve chair, a\nchoice viewed as more hawkish than other contenders.\n\n"
-  },
-  {
-    "title": "US Issues License for Oil Companies to Operate in Venezuela",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fus-issues-license-for-oil-companies-to-operate-in-venezuela",
-    "published": "Thu, 29 Jan 2026 21:55:52 CST",
-    "summary": "The Trump administration issued a general license expanding the ability of oil\ncompanies to operate in Venezuela, marking a significant step to ease\nsanctions under the new US-backed leadership in Caracas.\n\n"
+    "summary": "Stocks fell with Treasuries as Donald Trump’s administration prepared for the\npresident to nominate Kevin Warsh to be the next Federal Reserve chair, a\nchoice viewed as more hawkish than other contenders.\n\n"
   },
   {
     "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
@@ -414,12 +414,6 @@
     "summary": "Carvana shares closed Wednesday at $410.04, down 14.2% following short-seller\naccusations of the online used retailer overstating earnings.\n\n"
   },
   {
-    "title": "Astra Touts $15 Billion China Investment During Starmer Trip",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fastra-pledges-15-billion-china-investment-during-starmer-visit",
-    "published": "Thu, 29 Jan 2026 10:06:55 CST",
-    "summary": "AstraZeneca Plc will invest $15 billion in China through 2030 to expand\nmedicines manufacturing as well as research and development, underscoring the\nUK drugmaker’s deepening presence in the mainland.\n\n"
-  },
-  {
     "title": "Newark Museum of Art Names a New Leader",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Farts%2Fdesign%2Fnewark-museum-of-art-director.html",
     "published": "Thu, 29 Jan 2026 10:03:07 CST",
@@ -442,6 +436,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F29%2Ftrump-venezuela-oil-vitol-trafigura-bribes%2F",
     "published": "Thu, 29 Jan 2026 10:00:16 CST",
     "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
+  },
+  {
+    "title": "Zijin Mining Seeks $1.5 Billion From Convertible Bonds as Gold Surges",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fzijin-mining-seeks-1-5-billion-from-convertible-bonds-as-gold-surges",
+    "published": "Thu, 29 Jan 2026 08:45:47 CST",
+    "summary": "Zijin Mining Group Co. has raised $1.5 billion from the sale of bonds that can\nbe converted into stock as gold trades near record highs.\n\n"
   },
   {
     "title": "Trump Deal to Avert Major Shutdown Set to Miss Funding Deadline",
