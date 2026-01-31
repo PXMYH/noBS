@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bitcoin Plunges Below $80,000 as the Crypto Slide Accelerates",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fbitcoin-plunges-below-80-000-as-the-crypto-slide-accelerates",
+    "published": "Sat, 31 Jan 2026 17:36:41 CST",
+    "summary": "Bitcoin fell sharply in early Saturday afternoon trading in New York, tumbling\nbelow $80,000 mark to hit levels last seen in April 2025.\n\n"
+  },
+  {
     "title": "Who Wins When Washington Plays Favorites?",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Fwho-wins-when-washington-plays-favorites-video",
     "published": "Sat, 31 Jan 2026 15:03:42 CST",
@@ -30,10 +36,10 @@
     "summary": "For more than 30 years, he drew fans for dispensing weekly produce punditry on\na New York television station, building on a sales career that began when he\nwas 5.\n\n"
   },
   {
-    "title": "Russia’s Murmansk Ports Halt Operations Amid Power Disruptions",
+    "title": "Russia’s Murmansk Ports Resume After Power Disruptions",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Frussia-s-murmansk-ports-halt-operations-amid-power-disruptions",
     "published": "Sat, 31 Jan 2026 13:34:45 CST",
-    "summary": "Operations at Russia’s Murmansk Bulk Terminal and Commercial Seaport were\ntemporarily suspended due to power disruptions in Murmansk and the nearby city\nof Severomorsk, according to Interfax.\n\n"
+    "summary": "Operations at Russia’s Murmansk Bulk Terminal and Commercial Seaport resumed\nlate on Saturday after being temporarily suspended earlier in the day,\nInterfax reported.\n\n"
   },
   {
     "title": "Sell America Is the New Trade on Wall Street",
@@ -250,12 +256,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Frep-sherman-d-ca-investigation-into-fed-is-phony-video",
     "published": "Fri, 30 Jan 2026 22:47:00 CST",
     "summary": "Rep. Brad Sherman (D-CA) calls the Fed investigation a “phony” attempt to\nintimidate the central bank. Speaking with Romaine Bostick and Katie Greifeld\non The Close, he says Kevin Warsh backs a digital dollar to compete with\ncrypto. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Tether’s Annual Profit Drops 23% In Midst of Fundraising",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Ftether-s-annual-profit-drops-23-in-midst-of-fundraising",
-    "published": "Fri, 30 Jan 2026 22:38:55 CST",
-    "summary": "Tether posted a $10 billion profit in 2025, down 23% from the previous year,\nas the world’s biggest stablecoin issuer launched a fundraising process that\nwould make it one of the most highly valued private companies.\n\n"
   },
   {
     "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",
