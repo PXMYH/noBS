@@ -1,9 +1,21 @@
 [
   {
+    "title": "Who Wins When Washington Plays Favorites?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Fwho-wins-when-washington-plays-favorites-video",
+    "published": "Sat, 31 Jan 2026 15:03:42 CST",
+    "summary": "The Trump administration is taking direct ownership stakes in private sector\ncompanies, from chipmaker Intel to rare earths producer MP Materials,\nreshaping the relationship between government and markets. Steven Rattner of\nWillett Advisors and Sarah Bauerle Danzman of the Atlantic Council weigh the\nmerits of national security to justify the government picking winners and\nlosers, and what it means for competition, innovation, and trust in free\nmarkets. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "Private Credit Worries Bedevil Shares of Biggest Buyout Shops",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fprivate-credit-worries-bedevil-shares-of-biggest-buyout-shops",
     "published": "Sat, 31 Jan 2026 14:30:00 CST",
     "summary": "Dealmaking is rebounding, client payouts are up and annual profits are\nexpected to rise -- but shares of Wall Street’s alternative-investing giants\nare off to their worst January in a decade over a slurry of mounting investor\nanxieties.\n\n"
+  },
+  {
+    "title": "Indonesia to Probe Stock Price Manipulation After Market Rout",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Findonesia-to-probe-stock-price-manipulation-after-market-rout",
+    "published": "Sat, 31 Jan 2026 14:18:47 CST",
+    "summary": "Indonesia said it will crack down on stock manipulators and accelerate\nfinancial reforms as authorities step up efforts to restore confidence in its\nasset markets.\n\n"
   },
   {
     "title": "Trump’s Dollar ‘Yo-Yo’ Has Stock Investors Looking Overseas",
@@ -66,10 +78,22 @@
     "summary": "Mr. Warsh is known as a consensus builder, skills he will need if he is to\nhead the Federal Reserve when President Trump is demanding rock-bottom rates.\n\n"
   },
   {
+    "title": "As US influence wanes, the Chinese trade surplus strangles manufacturing across the globe",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F31%2Fchina-global-trade-us-economy",
+    "published": "Sat, 31 Jan 2026 12:00:58 CST",
+    "summary": "Trump’s wounding of the US economy offers Beijing an unparalleled opportunity\n– if it dials back its overbearing trade tactics\n\nWhen the Canadian prime minister, Mark Carney, took to the podium at the World\nEconomic Forum in Davos last week to lament how “great economic powers” were\ndismantling the international order, it seemed clear that he was talking about\nthe United States. He might have been talking about China as well.\n\nNot a week earlier, Beijing had revealed that China’s trade surplus ballooned\nby 20% in 2025, to $1.2tn. Despite Donald Trump’s wall of tariffs that crashed\nChinese sales to the US, its overall exports expanded more than 5%. Sales to\nthe 11 countries in Asia’s Asean bloc increased more than 13%. Exports to the\nEuropean Union rose over 8%. Chinese imports, by contrast, were flat.\n\nContinue reading...\n\n"
+  },
+  {
     "title": "Russia to Allow Gasoline Exports for Producers Through July",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Frussia-to-allow-gasoline-exports-for-producers-through-july-31",
     "published": "Sat, 31 Jan 2026 11:48:11 CST",
     "summary": "Russia will allow gasoline exports for fuel producers through July 31, while\nextending a temporary ban for other suppliers.\n\n"
+  },
+  {
+    "title": "US Container Growth Vanishes With World Trade Flows ‘Moving On’",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fus-container-growth-vanishes-with-world-trade-flows-moving-on",
+    "published": "Sat, 31 Jan 2026 11:00:00 CST",
+    "summary": "US container imports ended 2025 in a four-month skid that’s likely to lengthen\nthis year as trade shifts to other economies to avoid President Donald Trump’s\ntariffs, according to a shipping industry analyst’s tally of the country’s top\n10 ports.\n\n"
   },
   {
     "title": "Filmmaker Laura Poitras on US Actions in Venezuela",
@@ -88,6 +112,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fenergy-environment%2Fenergy-bills-costs-states-trump-power-plants.html",
     "published": "Sat, 31 Jan 2026 10:00:56 CST",
     "summary": "Energy experts said that governors and legislatures have tools to keep\nelectricity prices from rising further, and might even be able to lower them.\n\n"
+  },
+  {
+    "title": "Will corporate America finally stand up to the Trump administration?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fjan%2F31%2Ftrump-corporate-america-ice-minneapolis",
+    "published": "Sat, 31 Jan 2026 10:00:56 CST",
+    "summary": "The brutal handling of immigration raids and the killing of Alex Pretti have\ntested the reticence of the corporate class\n\nDuring Donald Trump’s first term, the US’s corporate titans were prepared to\nliterally turn their backs on the president when they disagreed with them.\nWeeks of growing national anger over deadly immigration crackdowns in the US\nhave highlighted how much has changed.\n\nPublicly, the US’s top CEOs have stayed – mostly – quiet during Trump’s second\nterm, even as his administration has undermined free trade policies, cracked\ndown on the immigration that many businesses relied on, and attacked the\nFederal Reserve – a pillar of the US’s financial hegemony.\n\nContinue reading...\n\n"
   },
   {
     "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
@@ -112,6 +142,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Findia-s-nse-targets-ipo-in-seven-to-eight-months-cnbc-says",
     "published": "Sat, 31 Jan 2026 08:04:05 CST",
     "summary": "The National Stock Exchange of India Ltd. plans to launch its initial public\noffering in the next seven to eight months, CNBC-TV18 reported, citing Chief\nExecutive Officer Ashish Kumar Chauhan.\n\n"
+  },
+  {
+    "title": "Trump has tapped a new Federal Reserve chair. Has he finally found his yes-man?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F31%2Ftrump-new-federal-reserve-chair",
+    "published": "Sat, 31 Jan 2026 08:00:51 CST",
+    "summary": "Trump nominated Kevin Warsh, an ex-Fed governor, for the role as the White\nHouse continues to attack Jerome Powell\n\nThe US Federal Reserve requires “strong, sound and steady leadership”,\naccording to Donald Trump. The president found a man to lead the central bank\nwho would “provide exactly that type of leadership”, he declared.“He’s strong,\nhe’s committed and he’s smart.”\n\nThis is not how Trump described Kevin Warsh, the former Fed governor whom he\nunveiled as his new nominee to chair the central bank on Friday – but how he\nhailed Jerome Powell, the current Fed chair, when nominating him for the job\nabout eight years ago.\n\nContinue reading...\n\n"
   },
   {
     "title": "Philippine Regulator Charges Villar Land on Market Manipulation",
@@ -228,12 +264,6 @@
     "summary": "The president is demanding that the federal government pay him at least $10\nbillion over the unauthorized disclosure of his tax returns during his first\nterm.\n\n"
   },
   {
-    "title": "Canadian Stocks Fall Most Since Tariff Turmoil Amid Metals Rout",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fcanadian-stocks-fall-most-since-tariff-turmoil-amid-metals-rout",
-    "published": "Fri, 30 Jan 2026 22:30:35 CST",
-    "summary": "Canadian stocks had their worst day since the market chaos in the wake of\nApril’s tariff announcement, as a slide in precious metals sent mining stocks\ntumbling.\n\n"
-  },
-  {
     "title": "Hollywood has a box office problem: The old movie sequel trick is falling flat",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fhollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
     "published": "Fri, 30 Jan 2026 22:25:25 CST",
@@ -306,12 +336,6 @@
     "summary": "The company’s chief executive, Elon Musk, said this week that it would stop\nmaking the car, an electric pioneer in 2012, as well as the Model X.\n\n"
   },
   {
-    "title": "Trump nominates Federal Reserve critic Kevin Warsh as its next chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F30%2Fdonald-trump-nominates-kevin-warsh-us-federal-reserve-chair",
-    "published": "Fri, 30 Jan 2026 19:52:20 CST",
-    "summary": "Pick of former Fed governor to replace Jerome Powell comes as White House\nseeks to tighten grip on central bank\n\nDonald Trump has announced Kevin Warsh as his nomination for the next chair of\nthe Federal Reserve, selecting a candidate who has been an outspoken critic of\nthe US central bank.\n\nThe move ends months of speculation about who the president would pick to\nreplace Jerome Powell, as he waged an extraordinary campaign to influence\npolicymaking at the Fed by repeatedly calling for interest rate cuts. Powell’s\nsecond term as chair is due to end in May.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Ford to record $600 million pretax pension charge in fourth quarter",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fford-q4-earnings-pension-charge.html",
     "published": "Fri, 30 Jan 2026 19:49:49 CST",
@@ -376,12 +400,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fwho-is-kevin-warsh-trumps-fed-chair-pick.html",
     "published": "Fri, 30 Jan 2026 18:28:58 CST",
     "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump’s pick to lead\nthe Federal Reserve. Here’s his background, views and why it matters.\n\n"
-  },
-  {
-    "title": "Regulator Says Master Deals Left BRB With $1 Billion Hole",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbrazil-regulator-says-master-deals-left-brb-with-1-billion-hole",
-    "published": "Fri, 30 Jan 2026 18:01:27 CST",
-    "summary": "A Brazilian state-owned bank is coming under increased scrutiny as regulators\nestimate transactions tied to failed Banco Master SA left a nearly $1 billion\ngap in its finances.\n\n"
   },
   {
     "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
@@ -538,12 +556,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fworld%2Famericas%2Fvenezuela-new-law-oil-foreign-companies.html",
     "published": "Fri, 30 Jan 2026 00:25:43 CST",
     "summary": "Bowing to Trump administration pressure, the new legislation improves\nconditions for foreign oil companies and opens the way to slash the taxes they\npay.\n\n"
-  },
-  {
-    "title": "Gold and Silver Plunge as Wild Swings Rock Metals Markets",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fgold-resumes-rally-after-dropping-on-thursday-in-choppy-session",
-    "published": "Thu, 29 Jan 2026 23:29:58 CST",
-    "summary": "Gold suffered its biggest slide in four decades and silver posted a record\nintraday decline in a stark reversal of the rally that lifted prices to all-\ntime highs.\n\n"
   },
   {
     "title": "Dozens of Saks Off 5th stores to close as Saks maneuvers bankruptcy",
@@ -972,12 +984,6 @@
     "summary": "More than 16% of signed contracts on homes in December were canceled, as\nconsumers face continued uncertainty in the economy and rising inventory.\n\n"
   },
   {
-    "title": "Bari Weiss tries to win CBS staffers’ trust amid ‘noise’ over 60 Minutes segment",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2F2026%2Fjan%2F27%2Fbari-weiss-cbs",
-    "published": "Tue, 27 Jan 2026 20:17:08 CST",
-    "summary": "In her first town hall, Weiss expressed some regret over her decision to pull\n60 Minutes segment at the last minute\n\nDuring her first address to CBS News employees as editor in chief, Bari Weiss\nacknowledged that there had been “a lot of noise” about her tumultuous tenure\nand said that some staffers might decide they don’t support her or want to\ncontinue working at the company.\n\n“I just want to start by saying: I get it. And I get why, in the face of all\nthis tumult and noise, you might feel uncertain or skeptical about me and\nabout what I’m aiming to do here,” Weiss said on Tuesday morning, according to\nan audio recording of her comments obtained by the Guardian.\n\nContinue reading...\n\n"
-  },
-  {
     "title": "Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about'",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F27%2Fboeing-ba-4q-2025-earnings.html",
     "published": "Tue, 27 Jan 2026 19:48:25 CST",
@@ -1006,12 +1012,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F27%2Fbusiness%2Feconomy%2Fgovernment-debt-bonds.html",
     "published": "Tue, 27 Jan 2026 14:34:56 CST",
     "summary": "The cost of borrowing is already choking crucial public spending in many\ndeveloping economies. Now it’s raising broader alarms.\n\n"
-  },
-  {
-    "title": "At Davos, tech CEOs laid out their vision for AI’s world domination",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2026%2Fjan%2F27%2Ftech-ceos-ai-world-domination-davos",
-    "published": "Tue, 27 Jan 2026 12:57:48 CST",
-    "summary": "Tech chiefs waxed poetic about AI to delegates at Davos. Plus, the ‘human’\ndrama of AI startups and why Tesla is thriving in Texas\n\nHello, and welcome to TechScape. This week’s edition is a team effort: my\ncolleague Heather Stewart reports on the plans for AI’s world domination at\nDavos; I examine how huge investments have followed AI companies with little\nto their names but drama and dreams; and Nick Robins-Early spotlights how lax\nregulation of autonomous driving in Texas allowed Tesla to thrive.\n\nContinue reading...\n\n"
   },
   {
     "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
