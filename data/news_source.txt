@@ -1,5 +1,11 @@
 [
   {
+    "title": "Kazakhstan Starts Gradual Restoration of Output at Tengiz Field",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fkazakhstan-starts-gradual-restoration-of-output-at-tengiz-field",
+    "published": "Sat, 31 Jan 2026 08:38:36 CST",
+    "summary": "The Chevron-led venture Tengizchevroil has started to restore production at\nthe Tengiz oil field, Kazakhstan’s largest, after operations were partially\nsuspended earlier this month.\n\n"
+  },
+  {
     "title": "India’s NSE Targets IPO in Seven to Eight Months, CNBC Says",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Findia-s-nse-targets-ipo-in-seven-to-eight-months-cnbc-says",
     "published": "Sat, 31 Jan 2026 08:04:05 CST",
@@ -460,12 +466,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fem-stocks-set-for-best-month-in-three-years-on-stronger-outlook",
     "published": "Fri, 30 Jan 2026 08:28:21 CST",
     "summary": "Emerging-market assets pared a monthly rally, falling for a second session\nafter a massive selloff in metals and renewed dollar strength dampened risk\nappetite on Friday.\n\n"
-  },
-  {
-    "title": "Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions",
-    "published": "Fri, 30 Jan 2026 02:25:46 CST",
-    "summary": "Bitcoin traded near two-month lows after Donald Trump named Kevin Warsh as the\nnext Federal Reserve chair -- a choice that did little to lift sentiment in a\nmarket already under pressure from persistent ETF outflows.\n\n"
   },
   {
     "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
