@@ -1,5 +1,29 @@
 [
   {
+    "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fmedia%2Fproduce-pete-napolitano-dead.html",
+    "published": "Sat, 31 Jan 2026 13:36:53 CST",
+    "summary": "For more than 30 years, he drew fans for dispensing weekly produce punditry on\na New York television station, building on a sales career that began when he\nwas 5.\n\n"
+  },
+  {
+    "title": "Russia’s Murmansk Ports Halt Operations Amid Power Disruptions",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Frussia-s-murmansk-ports-halt-operations-amid-power-disruptions",
+    "published": "Sat, 31 Jan 2026 13:34:45 CST",
+    "summary": "Operations at Russia’s Murmansk Bulk Terminal and Commercial Seaport were\ntemporarily suspended due to power disruptions in Murmansk and the nearby city\nof Severomorsk, according to Interfax.\n\n"
+  },
+  {
+    "title": "Sell America Is the New Trade on Wall Street",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fsell-america-dollar-financial-markets.html",
+    "published": "Sat, 31 Jan 2026 13:26:52 CST",
+    "summary": "Investors are increasingly souring on the United States, as illustrated by the\ndeclining dollar, the stalled stock market and rising government borrowing\ncosts.\n\n"
+  },
+  {
+    "title": "Wall Street Week | Trump Picks Warsh, US State Capitalism, SNAP Cuts, Business of Youth Sports",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Fwall-street-week-snap-cuts-monetizing-youth-sports-video",
+    "published": "Sat, 31 Jan 2026 13:14:59 CST",
+    "summary": "This week, President Trump announces he intends to nominate Kevin Warsh as the\nnext Fed Chair. Then, how government ownership is changing competition,\ncapital allocation, and the future of US markets. Plus, will cutting SNAP\ndestabilize the grocery, farming, and food-bank economies? Later, how big\nmoney is transforming youth sports, driving up costs and changing how families\nchase athletic dreams. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "The Latest Way to Create an Isolated Retreat: Buy a Whole Village",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fdealbook%2Fbuy-the-whole-village.html",
     "published": "Sat, 31 Jan 2026 13:00:05 CST",
@@ -46,12 +70,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fscott-bessent-kevin-warsh-trump.html",
     "published": "Sat, 31 Jan 2026 10:02:39 CST",
     "summary": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump\nwith a clear recommendation to lead the central bank.\n\n"
-  },
-  {
-    "title": "Sell America Is the New Trade on Wall Street",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fsell-america-dollar-financial-markets.html",
-    "published": "Sat, 31 Jan 2026 10:02:38 CST",
-    "summary": "Investors are increasingly souring on the United States, as illustrated by the\ndeclining dollar, the stalled stock market and rising government borrowing\ncosts.\n\n"
   },
   {
     "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
@@ -180,12 +198,6 @@
     "summary": "Federal Reserve Vice Chair for Supervision Michelle Bowman says she saw merit\nin waiting to lower rates further given elevated inflation and uncertainty\nover potential distortions in economic data during an event in Oahu, Hawaii.\n(This report is audio only.) (Source: Bloomberg)\n\n"
   },
   {
-    "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fmedia%2Fproduce-pete-napolitano-dead.html",
-    "published": "Fri, 30 Jan 2026 22:51:47 CST",
-    "summary": "For more than 30 years, he drew fans for dispensing weekly produce punditry on\na New York television station, building on a sales career that began when he\nwas 5.\n\n"
-  },
-  {
     "title": "Rep. Sherman (D-CA): Investigation into Fed is ‘Phony’",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Frep-sherman-d-ca-investigation-into-fed-is-phony-video",
     "published": "Fri, 30 Jan 2026 22:47:00 CST",
@@ -226,12 +238,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fitaly-s-outlook-raised-to-positive-by-s-p-in-new-meloni-win",
     "published": "Fri, 30 Jan 2026 21:58:59 CST",
     "summary": "Italy’s credit rating outlook was raised to positive from stable by S&P Global\nRatings, the latest victory for Prime Minister Giorgia Meloni.\n\n"
-  },
-  {
-    "title": "Hedge Funds Rush Into Bullish Oil Bets Amid Iran Risk, US Freeze",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-funds-rush-into-bullish-oil-bets-amid-iran-risk-us-freeze",
-    "published": "Fri, 30 Jan 2026 21:56:09 CST",
-    "summary": "Hedge funds turned the most bullish on Brent oil since early April as\nPresident Donald Trump touted a growing US military presence near Iran and\ntraders monitored the fallout from a sweeping winter storm.\n\n"
   },
   {
     "title": "Andreessen, Coinbase Directors Face Trading Suit for Now",
@@ -502,12 +508,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fchina-beijing-trade-tariffs-trump-starmer-carney.html",
     "published": "Fri, 30 Jan 2026 09:39:24 CST",
     "summary": "Nations that avoided China in recent years are now sending their leaders to\nBeijing for meetings with Chinese President Xi Jinping.\n\n"
-  },
-  {
-    "title": "Emerging Markets Sour Amid Metals Selloff and Dollar Strength",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fem-stocks-set-for-best-month-in-three-years-on-stronger-outlook",
-    "published": "Fri, 30 Jan 2026 08:28:21 CST",
-    "summary": "Emerging-market assets pared a monthly rally, falling for a second session\nafter a massive selloff in metals and renewed dollar strength dampened risk\nappetite on Friday.\n\n"
   },
   {
     "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
