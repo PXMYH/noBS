@@ -1,5 +1,11 @@
 [
   {
+    "title": "Africa’s Gambling Boom: Investment, Risk and Regulation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Fafrica-s-gambling-boom-investment-risk-and-regulation",
+    "published": "Sat, 31 Jan 2026 06:00:07 CST",
+    "summary": "Sports wagering is booming in Africa. Fueled by a young population, and access\nto latest technology, legal gambling revenues across the continent have nearly\ntripled in the past decade, turning it into a multi-billion-dollar market that\nglobal operators can no longer ignore. Bloomberg's Olatomiwa Babalola and\nSenior Africa reporter Loni Prinsloo explain. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "CME Raises Gold, Silver Margins After Historic Price Plunge",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fcme-raises-gold-silver-margins-after-historic-price-plunge",
     "published": "Sat, 31 Jan 2026 02:43:18 CST",
@@ -304,12 +310,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fwho-is-kevin-warsh-trumps-fed-chair-pick.html",
     "published": "Fri, 30 Jan 2026 18:28:58 CST",
     "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump’s pick to lead\nthe Federal Reserve. Here’s his background, views and why it matters.\n\n"
-  },
-  {
-    "title": "Exxon, Chevron Clock Best Month Since 2022 as Crude Surges",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fexxon-chevron-head-for-best-month-since-2022-as-crude-surges",
-    "published": "Fri, 30 Jan 2026 18:28:27 CST",
-    "summary": "Shares of US oil giants Exxon Mobil Corp. and Chevron Corp. notched their\nlargest monthly gains in more than three years, boosted by rising energy\nprices, geopolitical tensions and improving fundamentals.\n\n"
   },
   {
     "title": "Regulator Says Master Deals Left BRB With $1 Billion Hole",
