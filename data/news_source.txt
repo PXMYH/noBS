@@ -1,5 +1,11 @@
 [
   {
+    "title": "India’s NSE Targets IPO in Seven to Eight Months, CNBC Says",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Findia-s-nse-targets-ipo-in-seven-to-eight-months-cnbc-says",
+    "published": "Sat, 31 Jan 2026 08:04:05 CST",
+    "summary": "The National Stock Exchange of India Ltd. plans to launch its initial public\noffering in the next seven to eight months, CNBC-TV18 reported, citing Chief\nExecutive Officer Ashish Kumar Chauhan.\n\n"
+  },
+  {
     "title": "Philippine Regulator Charges Villar Land on Market Manipulation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fphilippine-regulator-charges-villar-land-on-market-manipulation",
     "published": "Sat, 31 Jan 2026 06:04:34 CST",
@@ -514,12 +520,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fcalifornia-post-new-york-post-fox-rupert-murdoch.html",
     "published": "Thu, 29 Jan 2026 22:47:19 CST",
     "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
-  },
-  {
-    "title": "Dollar Rallies Most Since May as Trump Taps Warsh: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 29 Jan 2026 22:40:22 CST",
-    "summary": "The biggest dollar rally since May accelerated a plunge in precious metals as\nPresident Donald Trump announced his pick for the Federal Reserve’s top job:\nKevin Warsh, who’s seen as less supportive of deep rate cuts and more worried\nabout inflation. Stocks fell. Bonds were mixed.\n\n"
   },
   {
     "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
