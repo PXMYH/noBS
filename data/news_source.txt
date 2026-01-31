@@ -1,9 +1,21 @@
 [
   {
+    "title": "CME Raises Gold, Silver Margins After Historic Price Plunge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fcme-raises-gold-silver-margins-after-historic-price-plunge",
+    "published": "Sat, 31 Jan 2026 02:43:18 CST",
+    "summary": "CME Group is raising margins on Comex gold and silver futures after prices\nsuffered their biggest slides in decades.\n\n"
+  },
+  {
     "title": "Trump taps career staffer to lead statistics agency whose chief he fired",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Ftrump-nominates-matsumoto-bls%2F",
     "published": "Sat, 31 Jan 2026 01:49:02 CST",
     "summary": "The agency has been without a permanent leader since August when Trump fired\nits previous commissioner Erika McEntarfer over a weaker-than-expected jobs\nreport.\n\n"
+  },
+  {
+    "title": "China Factory Activity Unexpectedly Slides Into Contraction",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fchina-factory-activity-unexpectedly-slides-back-into-contraction",
+    "published": "Sat, 31 Jan 2026 01:39:11 CST",
+    "summary": "China’s factory activity unexpectedly worsened after snapping its worst\ncontraction streak on record in December, as the world’s second-largest\neconomy struggles to pick up momentum.\n\n"
   },
   {
     "title": "Trump Names ‘Data Nerd’ to Lead Labor Statistics Agency",
@@ -228,12 +240,6 @@
     "summary": "Ford will report a pretax charge of $600 million in its fourth-quarter results\ndue to adjustments to employee pension plans and other postretirement\nbenefits.\n\n"
   },
   {
-    "title": "Dollar Posts Biggest Gain Since May as Precious Metals Plunge",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fdollar-surges-as-plunging-metals-hit-commodity-currencies",
-    "published": "Fri, 30 Jan 2026 19:48:11 CST",
-    "summary": "The dollar jumped the most since May, ending a volatile month on an up note as\nplunging gold and silver prices dragged down currencies from Australia to\nSweden.\n\n"
-  },
-  {
     "title": "In a Bid to Kick-Start Growth, Britain Turns to China",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fuk-china-trade-business-starmer-xi.html",
     "published": "Fri, 30 Jan 2026 19:41:55 CST",
@@ -310,12 +316,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fbrazil-regulator-says-master-deals-left-brb-with-1-billion-hole",
     "published": "Fri, 30 Jan 2026 18:01:27 CST",
     "summary": "A Brazilian state-owned bank is coming under increased scrutiny as regulators\nestimate transactions tied to failed Banco Master SA left a nearly $1 billion\ngap in its finances.\n\n"
-  },
-  {
-    "title": "Jersey Mike’s Sells Debt It Can Pay Down With IPO Proceeds",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fjersey-mike-s-is-selling-debt-it-can-pay-down-with-ipo-proceeds",
-    "published": "Fri, 30 Jan 2026 17:58:25 CST",
-    "summary": "Sandwich chain Jersey Mike’s Subs sold about $760 million of bonds Friday and\nretained the right to repay about half of the principal early with proceeds\nfrom a future initial public offering, an unusual feature for the debt.\n\n"
   },
   {
     "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
