@@ -1,9 +1,9 @@
 [
   {
-    "title": "Bitcoin Plunges Below $80,000 as the Crypto Slide Accelerates",
+    "title": "Bitcoin Plunges Below $80,000 as the Crypto Slide Deepens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fbitcoin-plunges-below-80-000-as-the-crypto-slide-accelerates",
     "published": "Sat, 31 Jan 2026 17:36:41 CST",
-    "summary": "Bitcoin fell sharply in early Saturday afternoon trading in New York, tumbling\nbelow $80,000 mark to hit levels last seen in April 2025.\n\n"
+    "summary": "Bitcoin fell sharply in early Saturday afternoon trading in New York, tumbling\nbelow $80,000 to hit the lowest levels since April 2025 amid a broader retreat\nfor digital assets.\n\n"
   },
   {
     "title": "Who Wins When Washington Plays Favorites?",
@@ -212,7 +212,7 @@
   {
     "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fscience%2Fblue-origin-new-shepard-rocket-bezos.html",
-    "published": "Fri, 30 Jan 2026 23:47:54 CST",
+    "published": "Fri, 30 Jan 2026 23:47:55 CST",
     "summary": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to\nthe edge of space, will cease flying for at least two years as the company\nprioritizes NASA contracts.\n\n"
   },
   {
@@ -384,10 +384,10 @@
     "summary": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central\nbank, will replace Jerome H. Powell, whose term as chair ends in May.\n\n"
   },
   {
-    "title": "Trump says he’s reopening Venezuelan airspace and Americans may visit",
+    "title": "Trump says Venezuela safe for Americans; State Dept. warns against travel",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fworld%2F2026%2F01%2F30%2Ftrump-reopens-venezuela-airspace%2F",
     "published": "Fri, 30 Jan 2026 18:49:38 CST",
-    "summary": "Venezuelan officials welcomed the announcement, which followed the U.S.\ncapture this month of their president, Nicolás Maduro.\n\n"
+    "summary": "President Donald Trump says he’s reopening “all commercial airspace over\nVenezuela” and Americans can travel there “very shortly.”\n\n"
   },
   {
     "title": "Stocks making the biggest moves midday: Newmont, Apple, Sandisk, Deckers Outdoor & more",
