@@ -40,7 +40,7 @@ jobs:
         run: uv run python3 src/main.py &
 
       - name: Wait for Flask App to Generate data/news_source.txt
-        run: curl http://127.0.0.1:5000 && sleep 1m # Adjust sleep duration as needed
+        run: curl http://127.0.0.1:5000 && sleep 2m # Adjust sleep duration as needed
 
       - name: Shutdown Flask App
         run: curl -X POST http://127.0.0.1:5000/shutdown
