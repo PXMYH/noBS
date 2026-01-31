@@ -126,12 +126,6 @@
     "summary": "Canadian stocks had their worst day since the market chaos in the wake of\nApril’s tariff announcement, as a slide in precious metals sent mining stocks\ntumbling.\n\n"
   },
   {
-    "title": "Labubu Maker Pop Mart Sets Up London Hub for European Push",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Flabubu-maker-pop-mart-sets-up-london-hub-for-european-push",
-    "published": "Fri, 30 Jan 2026 22:30:00 CST",
-    "summary": "Pop Mart International Group Ltd. is setting up a London headquarters for its\nEuropean operations as the Chinese maker of Labubu collectible toys seeks a\nnew growth market after its breakout success in the US.\n\n"
-  },
-  {
     "title": "Hollywood has a box office problem: The old movie sequel trick is falling flat",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fhollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
     "published": "Fri, 30 Jan 2026 22:25:25 CST",
@@ -520,6 +514,12 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fcalifornia-post-new-york-post-fox-rupert-murdoch.html",
     "published": "Thu, 29 Jan 2026 22:47:19 CST",
     "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
+  },
+  {
+    "title": "Dollar Rallies Most Since May as Trump Taps Warsh: Markets Wrap",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 29 Jan 2026 22:40:22 CST",
+    "summary": "The biggest dollar rally since May accelerated a plunge in precious metals as\nPresident Donald Trump announced his pick for the Federal Reserve’s top job:\nKevin Warsh, who’s seen as less supportive of deep rate cuts and more worried\nabout inflation. Stocks fell. Bonds were mixed.\n\n"
   },
   {
     "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
