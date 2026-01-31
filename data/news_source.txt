@@ -1,5 +1,47 @@
 [
   {
+    "title": "Trump taps career staffer to lead statistics agency whose chief he fired",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Ftrump-nominates-matsumoto-bls%2F",
+    "published": "Sat, 31 Jan 2026 01:49:02 CST",
+    "summary": "The agency has been without a permanent leader since August when Trump fired\nits previous commissioner Erika McEntarfer over a weaker-than-expected jobs\nreport.\n\n"
+  },
+  {
+    "title": "Trump Names ‘Data Nerd’ to Lead Labor Statistics Agency",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ftrump-bureau-of-labor-statistics-brett-matsumoto.html",
+    "published": "Sat, 31 Jan 2026 01:02:32 CST",
+    "summary": "The decision to nominate Brett Matsumoto, a career government economist, came\nsix months after the president fired the previous commissioner.\n\n"
+  },
+  {
+    "title": "Trump Picks BLS Economist Brett Matsumoto to Head Agency",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Ftrump-picks-bls-economist-brett-matsumoto-to-head-data-agency",
+    "published": "Sat, 31 Jan 2026 01:00:16 CST",
+    "summary": "President Donald Trump said he intends to nominate Brett Matsumoto to lead the\nBureau of Labor Statistics, his second pick for the role that’s been vacant\nsince August.\n\n"
+  },
+  {
+    "title": "U.N. Says It’s in Danger of Financial Collapse Because of Members’ Unpaid Dues",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fworld%2Famericas%2Fun-finances-collapse-debts.html",
+    "published": "Sat, 31 Jan 2026 00:09:38 CST",
+    "summary": "The world body warned it would run out of money by July and have to close its\nNew York headquarters if countries, namely the United States, did not pay\nannual dues that amount to billions of dollars.\n\n"
+  },
+  {
+    "title": "Market Swings in India Surge From Historic Low as Budget Nears",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fmarket-swings-in-india-surge-from-historic-low-as-budget-nears",
+    "published": "Sat, 31 Jan 2026 00:00:00 CST",
+    "summary": "Indian stocks are seeing a resurgence of volatility just weeks after being\ndubbed the world’s calmest equity market, with growing skepticism sparking an\nexodus of overseas investors.\n\n"
+  },
+  {
+    "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fscience%2Fblue-origin-new-shepard-rocket-bezos.html",
+    "published": "Fri, 30 Jan 2026 23:47:54 CST",
+    "summary": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to\nthe edge of space, will cease flying for at least two years as the company\nprioritizes NASA contracts.\n\n"
+  },
+  {
+    "title": "Stocks Lower as Commodities and Tech Weigh on S&P; Gold, Silver Dip | The Close 1/30/2026",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fthe-close-1-30-2026-video",
+    "published": "Fri, 30 Jan 2026 23:39:07 CST",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the\nfinal minutes and seconds before and after the closing bell on Wall Street.\nToday's guests are Federal Reserve Governor Stephen Miran, City University of\nNew York’s Paul Krugman, Starbucks’ Brian Niccol, Wolfe Research’s Darrin\nPeller, TCW’s Bryan Whalen, University of Pennsylvania’s Peter Conti-Brown,\nApollo’s Trosten Slok, Rep. Brad Sherman (D-CA), Former World Bank’s Paul\nRomer, Goldman Sachs’ Eric Sheridan. (Source: Bloomberg)\n\n"
+  },
+  {
     "title": "AI Fears Hinder Deutsche Bank’s $1.2 Billion Loan Deal for Conga",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fai-fears-hinder-deutsche-bank-s-1-2-billion-loan-deal-for-conga",
     "published": "Fri, 30 Jan 2026 23:22:52 CST",
@@ -10,12 +52,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fromer-trump-doesn-t-believe-in-fed-independence-video",
     "published": "Fri, 30 Jan 2026 23:10:35 CST",
     "summary": "Paul Romer, Nobel laureate, former World Bank chief economist, and Boston\nCollege professor, says Donald Trump does not believe in central bank\nindependence. Speaking with Romaine Bostick and Katie Greifeld on The Close,\nRomer says it is entirely possible Trump could move to impose wage and price\ncontrols. (Source: Bloomberg)\n\n"
-  },
-  {
-    "title": "Trump taps career staffer to lead statistics agency whose chief he fired",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F30%2Ftrump-nominates-matsumoto-bls%2F",
-    "published": "Fri, 30 Jan 2026 23:07:11 CST",
-    "summary": "The agency has been without a permanent leader since August when Trump fired\nits previous commissioner Erika McEntarfer over a weaker-than-expected jobs\nreport.\n\n"
   },
   {
     "title": "Brazil’s Haddad Pitches Ministry Ally for Open Central Bank Seat",
@@ -132,15 +168,9 @@
     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
-    "title": "Hedge Funds Slash Bullish Silver Wagers to 23-Month Low",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-funds-slash-bullish-silver-wagers-to-23-month-low",
-    "published": "Fri, 30 Jan 2026 21:10:50 CST",
-    "summary": "Money managers slashed their bullish silver wagers to the lowest in nearly two\nyears in the run-up to the metal’s biggest plunge in decades.\n\n"
-  },
-  {
     "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ftrump-kevin-warsh-fed-rates.html",
-    "published": "Fri, 30 Jan 2026 21:08:12 CST",
+    "published": "Fri, 30 Jan 2026 21:08:13 CST",
     "summary": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal\nReserve, could face fierce resistance if he tries to pursue substantially\nlower borrowing costs.\n\n"
   },
   {
@@ -148,12 +178,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Ffinancial-knowledge-quiz.html",
     "published": "Fri, 30 Jan 2026 21:01:38 CST",
     "summary": "Test your knowledge of credit cards, buying a home, saving for college or\nretirement and other things that affect your wallet.\n\n"
-  },
-  {
-    "title": "‘Sell America’ Trade Risk Fades Under Warsh’s Fed, Fulcrum Says",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2F-sell-america-trade-risk-fades-under-warsh-s-fed-fulcrum-says",
-    "published": "Fri, 30 Jan 2026 20:57:56 CST",
-    "summary": "The nomination of Kevin Warsh as the next Federal Reserve chair diminishes the\nrisk of a sweeping selloff in US assets as he is expected to guard against\ninflation, according to Fulcrum Asset Management.\n\n"
   },
   {
     "title": "Trump says U.S. will decertify Canadian-made planes, threatens 50% tariff",
@@ -230,13 +254,13 @@
   {
     "title": "Panamanian Court Strikes Down Hong Kong Firm’s Canal Contract",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fpanama-canal-ck-hutchison.html",
-    "published": "Fri, 30 Jan 2026 19:24:58 CST",
+    "published": "Fri, 30 Jan 2026 19:24:59 CST",
     "summary": "The ruling delivers a victory to President Trump, who has said he wants the\nU.S. to control the canal, and a blow to the longtime ports operator, CK\nHutchison.\n\n"
   },
   {
     "title": "Hollywood’s North Road Studio Acquired by the European Production Giant Mediawan",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fbusiness%2Fnorth-road-mediawan-deal.html",
-    "published": "Fri, 30 Jan 2026 19:14:04 CST",
+    "published": "Fri, 30 Jan 2026 19:14:05 CST",
     "summary": "Peter Chernin, an industry veteran who founded North Road in 2022, said his\ndeal with Mediawan met a need to get bigger in an era of consolidation.\n\n"
   },
   {
@@ -254,7 +278,7 @@
   {
     "title": "Trump Picks Kevin Warsh as Next Fed Chair",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F30%2Fus%2Fpolitics%2Ftrump-fed-chair-kevin-warsh.html",
-    "published": "Fri, 30 Jan 2026 19:01:52 CST",
+    "published": "Fri, 30 Jan 2026 19:01:53 CST",
     "summary": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central\nbank, will replace Jerome H. Powell, whose term as chair ends in May.\n\n"
   },
   {
@@ -340,12 +364,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Fdemocratic-states-seek-to-hike-taxes-on-the-wealthy.html",
     "published": "Fri, 30 Jan 2026 14:59:32 CST",
     "summary": "Legislators and governors in blue states are preparing a range of new taxes on\nthe wealthy. At the same time, many red states continue to cut or eliminate\ntaxes.\n\n"
-  },
-  {
-    "title": "US Stocks Eke Out Weekly Gain Despite Friday Tech, Metal Selloff",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fus-stocks-slide-after-trump-s-fed-chair-pick-hotter-ppi-data",
-    "published": "Fri, 30 Jan 2026 14:38:24 CST",
-    "summary": "US equities slipped Friday as traders bet that President Donald Trump’s pick\nto replace Jerome Powell as chair of the Federal Reserve would bring a hawkish\nstance to the central bank.\n\n"
   },
   {
     "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",
@@ -778,12 +796,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2026%2Fjan%2F28%2Ffederal-reserve-holds-rates-powell-trump",
     "published": "Wed, 28 Jan 2026 20:36:49 CST",
     "summary": "Fed voted to pause cuts to interest rate, which currently sits between 3.5%\nand 3.75%, after slashing it three times in fall\n\nThe US Federal Reserve left interest rates unchanged after its first rate-\nsetting meeting of the year on Wednesday, resisting enormous pressure from the\nWhite House to lower rates.\n\nA majority of members in the Fed’s federal open market committee (FOMC) voted\nto pause interest rate cuts after slashing rates three times in the fall.\nRates currently sit at a range of 3.5% to 3.75%.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Clay, an A.I. Sales Start-Up, Lets Employees Cash Out. Again.",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fdealbook%2Fclay-start-up-tender-offers.html",
-    "published": "Wed, 28 Jan 2026 20:22:04 CST",
-    "summary": "The company is part of a newer generation of software upstarts holding\nmultiple tender offers where workers can sell stock before going public.\n\n"
   },
   {
     "title": "Starbucks Says Turnaround ‘Ahead of Schedule’ as Sales Rebound",
