@@ -1,8 +1,14 @@
 [
   {
+    "title": "‘Melania’ Arrives With Strong Box Office Showing for a Documentary",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fmelania-documentary-box-office.html",
+    "published": "Sat, 31 Jan 2026 20:19:32 CST",
+    "summary": "Amazon backed up the Brink’s trucks to promote the vanity film, resulting in\nopening-weekend ticket sales of roughly $8 million, or 60 percent more than\nexpected.\n\n"
+  },
+  {
     "title": "Pentagon Defends Restrictions on Media Outlets",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fmedia%2Fpentagon-new-york-times-lawsuit.html",
-    "published": "Sat, 31 Jan 2026 19:32:19 CST",
+    "published": "Sat, 31 Jan 2026 19:41:26 CST",
     "summary": "The purpose of the new rules is to “stop activity that could compromise\nnational security,” the Defense Department said in response to a New York\nTimes lawsuit.\n\n"
   },
   {
@@ -604,12 +610,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fcostco-chicken-lawsuit-preservatives.html",
     "published": "Thu, 29 Jan 2026 20:45:04 CST",
     "summary": "A proposed class-action lawsuit claims Costco was misleading customers and\nengaging in false advertising when it described the chicken as having no\npreservatives.\n\n"
-  },
-  {
-    "title": "Tesla Profit Slumps, but Investors May Not Care",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Ftesla-earnings-electric-vehicles.html",
-    "published": "Thu, 29 Jan 2026 20:21:50 CST",
-    "summary": "The automaker also said it would invest $2 billion in xAI, the artificial\nintelligence company controlled by its C.E.O., Elon Musk, and stop making the\ntwo oldest models in its lineup.\n\n"
   },
   {
     "title": "U.S. Trade Deficit Widens Despite Trump’s Tariffs",
