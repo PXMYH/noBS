@@ -1,5 +1,11 @@
 [
   {
+    "title": "Pentagon Defends Restrictions on Media Outlets",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fmedia%2Fpentagon-new-york-times-lawsuit.html",
+    "published": "Sat, 31 Jan 2026 19:32:19 CST",
+    "summary": "The purpose of the new rules is to “stop activity that could compromise\nnational security,” the Defense Department said in response to a New York\nTimes lawsuit.\n\n"
+  },
+  {
     "title": "Bitcoin Plunges Below $80,000 as the Crypto Slide Deepens",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fbitcoin-plunges-below-80-000-as-the-crypto-slide-accelerates",
     "published": "Sat, 31 Jan 2026 17:36:41 CST",
