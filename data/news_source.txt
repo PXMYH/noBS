@@ -1,5 +1,47 @@
 [
   {
+    "title": "Filmmaker Laura Poitras on US Actions in Venezuela",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Ffilmmaker-laura-poitras-on-us-actions-in-venezuela-video",
+    "published": "Sat, 31 Jan 2026 10:28:32 CST",
+    "summary": "\"The US doesn't have the right to steal resources.\" BAFTA nominated filmmaker\nLaura Poitras tells Mishal Husain that US action in Venezuela amounts to\nregime change in pursuit of oil. Subscribe to The Mishal Husain Show wherever\nyou get your podcasts. (Source: Bloomberg)\n\n"
+  },
+  {
+    "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fkevin-warsh-fed-chair.html",
+    "published": "Sat, 31 Jan 2026 10:02:52 CST",
+    "summary": "Mr. Warsh is known as a consensus builder, skills he will need if he is to\nhead the Federal Reserve when President Trump is demanding rock-bottom rates.\n\n"
+  },
+  {
+    "title": "A Hawkish Kevin Warsh at the Fed Could Haunt Bessent",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fscott-bessent-kevin-warsh-trump.html",
+    "published": "Sat, 31 Jan 2026 10:02:39 CST",
+    "summary": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump\nwith a clear recommendation to lead the central bank.\n\n"
+  },
+  {
+    "title": "Sell America Is the New Trade on Wall Street",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fsell-america-dollar-financial-markets.html",
+    "published": "Sat, 31 Jan 2026 10:02:38 CST",
+    "summary": "Investors are increasingly souring on the United States, as illustrated by the\ndeclining dollar, the stalled stock market and rising government borrowing\ncosts.\n\n"
+  },
+  {
+    "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fenergy-environment%2Fenergy-bills-costs-states-trump-power-plants.html",
+    "published": "Sat, 31 Jan 2026 10:00:56 CST",
+    "summary": "Energy experts said that governors and legislatures have tools to keep\nelectricity prices from rising further, and might even be able to lower them.\n\n"
+  },
+  {
+    "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F31%2Fbusiness%2Fkevin-hassett-trump-loyalty-fed.html",
+    "published": "Sat, 31 Jan 2026 10:00:23 CST",
+    "summary": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his\ndeep ties to the president raised questions about his independence.\n\n"
+  },
+  {
+    "title": "For the first time in 50 years, college grads are losing their edge",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F31%2Flabor-market-gap-trade-workers-white-collar%2F",
+    "published": "Sat, 31 Jan 2026 10:00:00 CST",
+    "summary": "Historically, U.S. workers with a bachelor’s degree or higher have enjoyed\nbetter employment outcomes. That’s starting to shift, labor data shows.\n\n"
+  },
+  {
     "title": "Kazakhstan Starts Gradual Restoration of Output at Tengiz Field",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fkazakhstan-starts-gradual-restoration-of-output-at-tengiz-field",
     "published": "Sat, 31 Jan 2026 08:38:36 CST",
@@ -190,12 +232,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F30%2Feli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
     "published": "Fri, 30 Jan 2026 21:39:04 CST",
     "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to\ncompete and is preparing for a \"full launch\" in the second quarter.\n\n"
-  },
-  {
-    "title": "TLT Traders Got Out Ahead of Trump Tapping Warsh for Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Ftlt-traders-exited-ahead-of-trump-tapping-warsh-for-fed-chair",
-    "published": "Fri, 30 Jan 2026 21:38:49 CST",
-    "summary": "ETF investors were offloading long-dated bonds well before Trump tapped Warsh.\n\n"
   },
   {
     "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
@@ -714,12 +750,6 @@
     "summary": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but\ninventory is running low.\n\n"
   },
   {
-    "title": "Trump officials awarded Venezuela oil-sale contracts to firms tied to bribery",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F01%2F29%2Ftrump-venezuela-oil-vitol-trafigura-bribes%2F",
-    "published": "Thu, 29 Jan 2026 10:00:16 CST",
-    "summary": "The Trump administration awarded $500 million in contracts for Venezuelan oil\nsales to two firms with a history of bribery and corruption.\n\n"
-  },
-  {
     "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fchina-economy-duality.html",
     "published": "Thu, 29 Jan 2026 05:00:16 CST",
@@ -798,22 +828,10 @@
     "summary": "Fed voted to pause cuts to interest rate, which currently sits between 3.5%\nand 3.75%, after slashing it three times in fall\n\nThe US Federal Reserve left interest rates unchanged after its first rate-\nsetting meeting of the year on Wednesday, resisting enormous pressure from the\nWhite House to lower rates.\n\nA majority of members in the Fed’s federal open market committee (FOMC) voted\nto pause interest rate cuts after slashing rates three times in the fall.\nRates currently sit at a range of 3.5% to 3.75%.\n\nContinue reading...\n\n"
   },
   {
-    "title": "Starbucks Says Turnaround ‘Ahead of Schedule’ as Sales Rebound",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fstarbucks-sales-earnings-turnaround.html",
-    "published": "Wed, 28 Jan 2026 19:56:20 CST",
-    "summary": "The coffee chain’s stock jumped after a better-than-expected earnings report.\n\n"
-  },
-  {
     "title": "Le scoop! France’s last newspaper hawker celebrated with prestigious award",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2026%2Fjan%2F28%2Fle-scoop-france-last-newspaper-hawker-celebrated-ali-akbar-paris",
     "published": "Wed, 28 Jan 2026 19:28:08 CST",
     "summary": "Ali Akbar, 73, honoured by Emmanuel Macron with National Order of Merit for\ndedication he pours into work\n\nFor more than five decades he’s pounded the pavements of Paris, becoming part\nof the city’s cultural fabric as he strikes up conversations, greets longtime\nfriends and offers parodies of daily news headlines.\n\nOn Wednesday, the efforts of the man believed to be France’s last newspaper\nhawker were recognised, as Ali Akbar, a 73-year-old originally from Pakistan,\nreceived one of France’s most prestigious honours.\n\nContinue reading...\n\n"
-  },
-  {
-    "title": "Silver Prices Are Surging Even Faster Than Gold",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fsilver-gold-prices.html",
-    "published": "Wed, 28 Jan 2026 19:08:48 CST",
-    "summary": "Silver has risen roughly 60 percent this month alone. What is going on?\n\n"
   },
   {
     "title": "Here's what changed in the new Fed statement",
@@ -850,18 +868,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F01%2F28%2Fallbirds-stores-retail.html",
     "published": "Wed, 28 Jan 2026 15:55:55 CST",
     "summary": "Allbirds announced Wednesday that it will close all of its full-price U.S.\nstores and shift its focus to e-commerce to boost profitability.\n\n"
-  },
-  {
-    "title": "Five Questions for Jerome Powell, the Fed Chair",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Fbusiness%2Fdealbook%2Fpowell-federal-reserve-rates.html",
-    "published": "Wed, 28 Jan 2026 15:34:30 CST",
-    "summary": "Succession drama, legal intrigue and political independence: These are top\nissues that DealBook would ask of the Federal Reserve chairman.\n\n"
-  },
-  {
-    "title": "5 New Stylish Hotels for City Lovers",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F28%2Ftravel%2F5-stylish-hotels-for-city-lovers.html",
-    "published": "Wed, 28 Jan 2026 14:46:00 CST",
-    "summary": "New accommodations around the world allow you to soak up urban culture and\nimmerse yourself in hotel creature comforts.\n\n"
   },
   {
     "title": "GM tops earnings expectations, announces dividend increase and stock buyback program",
