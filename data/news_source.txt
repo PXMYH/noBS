@@ -1,5 +1,11 @@
 [
   {
+    "title": "Philippine Regulator Charges Villar Land on Market Manipulation",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-31%2Fphilippine-regulator-charges-villar-land-on-market-manipulation",
+    "published": "Sat, 31 Jan 2026 06:04:34 CST",
+    "summary": "The Philippine market regulator has filed a criminal complaint against the\nproperty-holding firm of the country’s second-richest man, Manuel Villar.\n\n"
+  },
+  {
     "title": "Africa’s Gambling Boom: Investment, Risk and Regulation",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-31%2Fafrica-s-gambling-boom-investment-risk-and-regulation",
     "published": "Sat, 31 Jan 2026 06:00:07 CST",
@@ -138,6 +144,12 @@
     "summary": "Israel’s credit outlook was raised to stable from negative by Moody’s Ratings,\nwhich cited diminished geopolitical risks following the ceasefire with Hamas\nlast October.\n\n"
   },
   {
+    "title": "Italy’s Outlook Raised to Positive by S&amp;P in New Meloni Win",
+    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fitaly-s-outlook-raised-to-positive-by-s-p-in-new-meloni-win",
+    "published": "Fri, 30 Jan 2026 21:58:59 CST",
+    "summary": "Italy’s credit rating outlook was raised to positive from stable by S&P Global\nRatings, the latest victory for Prime Minister Giorgia Meloni.\n\n"
+  },
+  {
     "title": "Hedge Funds Rush Into Bullish Oil Bets Amid Iran Risk, US Freeze",
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-30%2Fhedge-funds-rush-into-bullish-oil-bets-amid-iran-risk-us-freeze",
     "published": "Fri, 30 Jan 2026 21:56:09 CST",
@@ -178,12 +190,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fnewsletters%2F2026-01-30%2Ftlt-traders-exited-ahead-of-trump-tapping-warsh-for-fed-chair",
     "published": "Fri, 30 Jan 2026 21:38:49 CST",
     "summary": "ETF investors were offloading long-dated bonds well before Trump tapped Warsh.\n\n"
-  },
-  {
-    "title": "S&P, Nasdaq Fall; Dollar Rallies After Trump Taps Warsh | Closing Bell",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Fvideos%2F2026-01-30%2Fs-p-nasdaq-fall-closing-bell-video",
-    "published": "Fri, 30 Jan 2026 21:27:21 CST",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg\nTelevision, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld,\nCarol Massar and Tim Stenovec. (Source: Bloomberg)\n\n"
   },
   {
     "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
@@ -514,12 +520,6 @@
     "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F01%2F29%2Fbusiness%2Fmedia%2Fcalifornia-post-new-york-post-fox-rupert-murdoch.html",
     "published": "Thu, 29 Jan 2026 22:47:19 CST",
     "summary": "The expansion of the Murdoch tabloid from its New York roots to the West Coast\nis the latest sign of the outlet’s national ambitions.\n\n"
-  },
-  {
-    "title": "Dollar Rallies Most Since May as Trump Taps Warsh: Markets Wrap",
-    "link": "https://archive.ph/submit/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-01-29%2Fstock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 29 Jan 2026 22:40:22 CST",
-    "summary": "The biggest dollar rally since May accelerated a plunge in precious metals as\nPresident Donald Trump announced his pick for the Federal Reserve’s top job:\nKevin Warsh, who’s seen as less supportive of deep rate cuts and more worried\nabout inflation. Stocks fell. Bonds were mixed.\n\n"
   },
   {
     "title": "Southwest shares jump most since 1978 as airline predicts profits could quadruple this year",
